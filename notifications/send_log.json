@@ -1,3 +1,17 @@
 {
-  "entries": []
+  "entries": [
+    {
+      "sent_at": "2026-06-06T10:40:31.343Z",
+      "topic": null,
+      "device_id": "98e45764fa502cd2",
+      "slot": "evening",
+      "type": "featured_digest",
+      "article_ids": [
+        "https://vnexpress.net/xe-dau-keo-tong-xe-cong-nong-3-nguoi-chet-5082609.html",
+        "https://vnexpress.net/viet-nam-gianh-1-huy-chuong-vang-olympic-toan-chau-a-thai-binh-duong-5082720.html",
+        "https://vnexpress.net/bi-thu-tp-hcm-thu-mot-trieu-ty-dong-la-phep-thu-voi-dau-tau-kinh-te-5082731.html"
+      ],
+      "highlight_id": "https://vnexpress.net/bi-thu-tp-hcm-thu-mot-trieu-ty-dong-la-phep-thu-voi-dau-tau-kinh-te-5082731.html"
+    }
+  ]
 }
