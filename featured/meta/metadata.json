@@ -1,5 +1,5 @@
 {
-  "total_articles": 401,
+  "total_articles": 403,
   "files": [
     "chunk_1.json",
     "chunk_2.json",
@@ -14,7 +14,7 @@
     "copyright": "",
     "logo_url": "https://s.vnecdn.net/vnexpress/i/v20/logos/vne_logo_rss.png",
     "link": "https://vnexpress.net/rss/tin-noi-bat.rss",
-    "last_updated": "Sun, 07 Jun 2026 04:10:35 +0700"
+    "last_updated": "Sun, 07 Jun 2026 05:50:35 +0700"
   },
-  "last_updated": "2026-06-06T23:20:35.470Z"
+  "last_updated": "2026-06-06T23:30:47.100Z"
 }
