@@ -1,3 +1,16 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/doi-cuu-ho-dung-tim-kiem-2-nguoi-mat-tich-trong-hang-o-lao-5082721.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Đội cứu hộ dừng tìm kiếm 2 người mất tích trong hang ở Lào",
+      "description": "Lực lượng cứu hộ thông báo đình chỉ tìm kiếm hai người còn mắc kẹt trong hang động ngập nước do \"không còn hy vọng sống sót\".",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/06/anh2-1780734576-7304-1780734789.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=3U9jMfCy6rBIv6j8vsry5A",
+      "link": "https://vnexpress.net/doi-cuu-ho-dung-tim-kiem-2-nguoi-mat-tich-trong-hang-o-lao-5082721.html",
+      "published_at": "Sat, 06 Jun 2026 16:40:37 +0700",
+      "createAt": "2026-06-06T09:40:37.000Z"
+    }
+  ]
 }
