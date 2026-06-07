@@ -718,5 +718,41 @@
     "link": "https://vnexpress.net/6-mon-an-de-tieu-hoa-5082659.html",
     "published_at": "Sun, 07 Jun 2026 10:00:00 +0700",
     "createAt": "2026-06-07T03:00:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/thi-sinh-thi-dai-hoc-do-xo-di-tho-oxy-cao-ap-de-nap-nang-luong-cho-nao-5082734.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Thí sinh thi đại học đổ xô đi thở oxy cao áp để nạp năng lượng cho não",
+    "description": "Trước kỳ thi đại học khốc liệt tại Trung Quốc, nhiều học sinh đến bệnh viện trải nghiệm buồng oxy cao áp để cải thiện trí nhớ, giảm áp lực thi cử, bất chấp những cảnh báo nguy hiểm từ chuyên gia y tế.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/07/32194773d154e41e34-bcdf9bbdb5a-1886-2866-1780768886.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=EEe-IqtE4aF0ZKpOobZNjA",
+    "link": "https://vnexpress.net/thi-sinh-thi-dai-hoc-do-xo-di-tho-oxy-cao-ap-de-nap-nang-luong-cho-nao-5082734.html",
+    "published_at": "Sun, 07 Jun 2026 11:00:00 +0700",
+    "createAt": "2026-06-07T04:00:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/kinh-nguyet-tiet-lo-dieu-gi-ve-suc-khoe-5082737.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Kinh nguyệt tiết lộ điều gì về sức khỏe?",
+    "description": "Chu kỳ kinh nguyệt đều đặn cho thấy nội tiết tố ổn định, trong khi rong kinh hoặc mất kinh có thể liên quan đến hội chứng buồng trứng đa nang, bệnh tuyến giáp.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/06/image002-1780735416-2520-1780735519.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=ZP3i7bEAkMNPHfPpDY5QXA",
+    "link": "https://vnexpress.net/kinh-nguyet-tiet-lo-dieu-gi-ve-suc-khoe-5082737.html",
+    "published_at": "Sun, 07 Jun 2026 11:00:00 +0700",
+    "createAt": "2026-06-07T04:00:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/4-chi-so-suc-khoe-can-theo-doi-de-kiem-soat-benh-tim-mach-5082584.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "4 chỉ số sức khỏe cần theo dõi để kiểm soát bệnh tim mạch",
+    "description": "Theo dõi huyết áp, cholesterol, đường huyết và nhịp tim lúc nghỉ giúp phản ánh sức khỏe tim mạch và phát hiện sớm các nguy cơ như xơ vữa động mạch, đau tim.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/07/vne-noitiet-phut-1780790017-9544-1780790675.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=6_ikdAfVucY4EhyyU2-Fkg",
+    "link": "https://vnexpress.net/4-chi-so-suc-khoe-can-theo-doi-de-kiem-soat-benh-tim-mach-5082584.html",
+    "published_at": "Sun, 07 Jun 2026 11:00:00 +0700",
+    "createAt": "2026-06-07T04:00:00.000Z"
   }
 ]
