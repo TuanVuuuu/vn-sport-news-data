@@ -910,5 +910,41 @@
     "link": "https://vnexpress.net/bac-si-canh-bao-6-sai-lam-pho-bien-khien-than-bi-huy-hoai-5082936.html",
     "published_at": "Mon, 08 Jun 2026 06:00:00 +0700",
     "createAt": "2026-06-07T23:00:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/cu-ong-91-tuoi-dot-quy-lan-hai-5083020.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Cụ ông 91 tuổi đột quỵ lần hai",
+    "description": "Ông Thanh, 91 tuổi, Việt kiều Mỹ, ba năm trước bị đột quỵ, nay tái phát được truyền thuốc tiêu sợi huyết kịp thời.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/08/ut-hach-1780875020-9966-1780875145.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=a3WLX0e7l18plWybPgRKXQ",
+    "link": "https://vnexpress.net/cu-ong-91-tuoi-dot-quy-lan-hai-5083020.html",
+    "published_at": "Mon, 08 Jun 2026 08:00:00 +0700",
+    "createAt": "2026-06-08T01:00:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/tuong-hach-co-hoa-ung-thu-ha-hau-di-can-5083019.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Tưởng hạch cổ hóa ung thư hạ hầu di căn",
+    "description": "Ông Jayden, 62 tuổi, nổi hạch hai bên cổ 6 tháng nhưng không sụt cân, không sốt, bác sĩ chẩn đoán ung thư hạ hầu giai đoạn 4.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/08/ut2-1780873658-1421-1780873783.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=sXOpzaATrKADleGqT5kxrg",
+    "link": "https://vnexpress.net/tuong-hach-co-hoa-ung-thu-ha-hau-di-can-5083019.html",
+    "published_at": "Mon, 08 Jun 2026 08:00:00 +0700",
+    "createAt": "2026-06-08T01:00:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/bi-quyet-giup-co-gai-trut-bo-42-kg-mo-thua-khong-can-an-kieng-5082915.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Bí quyết giúp cô gái trút bỏ 42 kg mỡ thừa không cần ăn kiêng",
+    "description": "Nhờ kiên trì tập tạ tại nhà kết hợp đĩa ăn dinh dưỡng 211, Take, 32 tuổi, giảm ngoạn mục 42 kg trong 1,5 năm để sở hữu vóc dáng thon gọn.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/07/screenshot-at-1780815724-5445-1780821728.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=Tr7xJ0Oc-khsOp731oIe3g",
+    "link": "https://vnexpress.net/bi-quyet-giup-co-gai-trut-bo-42-kg-mo-thua-khong-can-an-kieng-5082915.html",
+    "published_at": "Mon, 08 Jun 2026 08:06:17 +0700",
+    "createAt": "2026-06-08T01:06:17.000Z"
   }
 ]
