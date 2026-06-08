@@ -382,5 +382,29 @@
     "link": "https://vnexpress.net/kia-sorento-hybrid-2026-ra-mat-viet-nam-5082935.html",
     "published_at": "Mon, 08 Jun 2026 05:00:00 +0700",
     "createAt": "2026-06-07T22:00:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/audi-nuvolari-xe-the-thao-moi-ke-nhiem-r8-5082742.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Audi Nuvolari - xe thể thao mới kế nhiệm R8",
+    "description": "Mẫu xe hiệu suất cao công suất 987 mã lực, lắp hệ truyền động plug-in hybrid với máy xăng V8 tăng áp kép, sản xuất giới hạn 499 xe.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/07/AudiNuvolari2027100-1780804214-1975-1780804223.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=syqxt2RLsMKtgKzWe8vptg",
+    "link": "https://vnexpress.net/audi-nuvolari-xe-the-thao-moi-ke-nhiem-r8-5082742.html",
+    "published_at": "Mon, 08 Jun 2026 06:00:00 +0700",
+    "createAt": "2026-06-07T23:00:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/lexus-rx-2028-lo-dien-ban-nang-cap-5082881.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Lexus RX 2028 lộ diện bản nâng cấp",
+    "description": "Mẫu SUV hạng sang bản facelift nâng cấp động cơ, bổ sung công nghệ, dự kiến ra mắt trong 2027.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/07/LexusRX20281-1780806922-2130-1780807061.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=77th8h-Vi8cU-j5UvzOpTw",
+    "link": "https://vnexpress.net/lexus-rx-2028-lo-dien-ban-nang-cap-5082881.html",
+    "published_at": "Mon, 08 Jun 2026 07:00:00 +0700",
+    "createAt": "2026-06-08T00:00:00.000Z"
   }
 ]
