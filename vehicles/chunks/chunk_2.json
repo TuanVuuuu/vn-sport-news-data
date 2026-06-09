@@ -622,5 +622,29 @@
     "link": "https://vnexpress.net/hai-xe-may-lao-thang-vao-nhau-tai-giao-lo-ai-sai-5083650.html",
     "published_at": "Tue, 09 Jun 2026 14:32:12 +0700",
     "createAt": "2026-06-09T07:32:12.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/hang-loat-hang-xe-chau-au-bo-cuoc-choi-hybrid-tai-trung-quoc-5083041.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Hàng loạt hãng xe châu Âu bỏ cuộc chơi hybrid tại Trung Quốc",
+    "description": "Quy định nâng quãng đường chạy điện tối thiểu từ 43 km lên thành 100 km mới được hưởng ưu đãi thuế khiến xe châu Âu mất lợi thế.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/09/LotusEletreX1-1780976038-7746-1780976165.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=WvPEIEuOozjpqn2hS9nE2Q",
+    "link": "https://vnexpress.net/hang-loat-hang-xe-chau-au-bo-cuoc-choi-hybrid-tai-trung-quoc-5083041.html",
+    "published_at": "Wed, 10 Jun 2026 04:00:00 +0700",
+    "createAt": "2026-06-09T21:00:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/mexico-ra-mat-xe-dien-noi-dia-dau-tien-5083684.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Mexico ra mắt xe điện nội địa đầu tiên",
+    "description": "Đích thân Tổng thống Mexico, Claudia Sheinbaum, công bố mẫu xe điện nội địa đầu tiên với mức giá chưa đến 9.000 USD, bán ra từ 2027.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/09/OliniaUno1-1780993649-8750-1780993976.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=OmOEvzPSBVWp5oMBb8PqqA",
+    "link": "https://vnexpress.net/mexico-ra-mat-xe-dien-noi-dia-dau-tien-5083684.html",
+    "published_at": "Wed, 10 Jun 2026 05:00:00 +0700",
+    "createAt": "2026-06-09T22:00:00.000Z"
   }
 ]
