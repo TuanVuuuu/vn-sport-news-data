@@ -1,3 +1,64 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/nha-cho-thue-bai-toan-an-cu-cua-hang-trieu-cong-nhan-do-thi-5083203.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Nhà cho thuê - bài toán an cư của hàng triệu công nhân đô thị",
+      "description": "Gần 7 năm làm việc tại một nhà máy sản xuất linh kiện điện tử ở TP HCM, anh Phạm Thanh Hiếu (quê Phú Yên) vẫn chưa thể rời căn phòng trọ 20 m2 nằm trong con hẻm nhỏ gần Khu công nghiệp Vĩnh Lộc.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/08/cg2a8513-1780901285-7149-1780901620.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=w2RBSBd5T71JFT5vzfk3QA",
+      "link": "https://vnexpress.net/nha-cho-thue-bai-toan-an-cu-cua-hang-trieu-cong-nhan-do-thi-5083203.html",
+      "published_at": "Tue, 09 Jun 2026 12:24:43 +0700",
+      "createAt": "2026-06-09T05:24:43.000Z"
+    },
+    {
+      "id": "https://vnexpress.net/khong-de-phan-hoa-giau-ngheo-cung-cuc-5083630.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "'Không để phân hóa giàu nghèo cùng cực'",
+      "description": "Tổng Bí thư, Chủ tịch nước Tô Lâm đề nghị công tác lý luận cần nghiên cứu sử dụng tối đa sức mạnh của kinh tế thị trường, cởi trói mọi nguồn lực tư nhân nhưng không để xảy ra phân hóa giàu nghèo cùng cực.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/09/base64-jpeg-1780986508-4903-1780986825.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=7jQ1BYI6m66kcgs7zDXKEQ",
+      "link": "https://vnexpress.net/khong-de-phan-hoa-giau-ngheo-cung-cuc-5083630.html",
+      "published_at": "Tue, 09 Jun 2026 14:30:29 +0700",
+      "createAt": "2026-06-09T07:30:29.000Z"
+    },
+    {
+      "id": "https://vnexpress.net/thu-tuong-le-minh-hung-chu-tri-le-don-thu-tuong-timor-leste-5083788.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Thủ tướng Lê Minh Hưng chủ trì lễ đón Thủ tướng Timor-Leste",
+      "description": "Thủ tướng Lê Minh Hưng chiều 9/6 chủ trì lễ đón Thủ tướng Kay Rala Xanana Gusmao thăm chính thức Việt Nam.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/09/timor-1781001834-9702-1781001930.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Y0bHOvLoCNR46jjjTrUJRQ",
+      "link": "https://vnexpress.net/thu-tuong-le-minh-hung-chu-tri-le-don-thu-tuong-timor-leste-5083788.html",
+      "published_at": "Tue, 09 Jun 2026 17:48:19 +0700",
+      "createAt": "2026-06-09T10:48:19.000Z"
+    },
+    {
+      "id": "https://vnexpress.net/4-loi-ngo-ngan-can-tranh-voi-thi-sinh-thi-tot-nghiep-thpt-2026-5083148.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "4 lưu ý với thí sinh thi tốt nghiệp THPT 2026",
+      "description": "Thí sinh cần nghiêm túc đọc đề thi trong 5 phút đầu, chỉ dùng bút mực xanh hoặc đen và nhiều lưu ý khác để được xét tốt nghiệp THPT 2026.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/09/233a7037-1780972335-7024-1780972357.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=iiIbgh8-gh51SbxRlZ4YcQ",
+      "link": "https://vnexpress.net/4-loi-ngo-ngan-can-tranh-voi-thi-sinh-thi-tot-nghiep-thpt-2026-5083148.html",
+      "published_at": "Tue, 09 Jun 2026 18:59:05 +0700",
+      "createAt": "2026-06-09T11:59:05.000Z"
+    },
+    {
+      "id": "https://vnexpress.net/mourinho-bat-dau-lam-viec-o-real-5083785.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Mourinho bắt đầu làm việc ở Real",
+      "description": "HLV Jose Mourinho trở lại Madrid ngày 9/6, bắt đầu nhiệm kỳ thứ hai tại Real với loạt nhiệm vụ cấp bách, từ xây dựng lực lượng đến hoàn thiện ban huấn luyện.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/06/09/afp-com-partners-cippitelli-as-8084-3146-1780998710.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=jZ72iL8j5Zyo25G1ZALpRw",
+      "link": "https://vnexpress.net/mourinho-bat-dau-lam-viec-o-real-5083785.html",
+      "published_at": "Tue, 09 Jun 2026 19:05:29 +0700",
+      "createAt": "2026-06-09T12:05:29.000Z"
+    }
+  ]
 }
