@@ -238,5 +238,113 @@
     "link": "https://vnexpress.net/mexico-ra-mat-xe-dien-noi-dia-dau-tien-5083684.html",
     "published_at": "Wed, 10 Jun 2026 05:00:00 +0700",
     "createAt": "2026-06-09T22:00:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/chuyen-nha-10-lan-de-cai-dien-thoai-cho-con-5083603.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Chuyển nhà 10 lần để 'cai' điện thoại cho con",
+    "description": "Nhiều gia đình Mỹ quyết định chuyển nhà, đổi trường và sử dụng điện thoại bàn để ngăn con cái tiếp xúc với thiết bị thông minh.",
+    "thumbnail_url": "https://vcdn1-giadinh.vnecdn.net/2026/06/09/screen-shot-at-1780981249-8573-1780981351.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=6bV4wgQfl1Yq4hSvGYE8rA",
+    "link": "https://vnexpress.net/chuyen-nha-10-lan-de-cai-dien-thoai-cho-con-5083603.html",
+    "published_at": "Wed, 10 Jun 2026 05:48:00 +0700",
+    "createAt": "2026-06-09T22:48:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/ca-nuoc-san-sang-kich-hoat-ky-thi-tot-nghiep-thpt-5083562.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Cả nước sẵn sàng kích hoạt kỳ thi tốt nghiệp THPT",
+    "description": "Soi kỹ trang phục chặn gian lận công nghệ cao, điều xe đưa đón học trò vùng khó ... cùng nhiều 'kịch bản' được tính đến, sẵn sàng cho kỳ thi tốt nghiệp THPT đông kỷ lục với 1,2 triệu thí sinh.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/09/z7889014572585-c5f5e6d0f274dbc-4068-4793-1781001898.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=sZO5k1-C59YMG3kBdjyC1Q",
+    "link": "https://vnexpress.net/ca-nuoc-san-sang-kich-hoat-ky-thi-tot-nghiep-thpt-5083562.html",
+    "published_at": "Wed, 10 Jun 2026 05:59:27 +0700",
+    "createAt": "2026-06-09T22:59:27.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/kich-ban-de-messi-gap-ronaldo-o-chung-ket-world-cup-2026-5083849.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Kịch bản để Messi gặp Ronaldo ở chung kết World Cup 2026",
+    "description": "Lionel Messi và Cristiano Ronaldo có thể đối đầu trực tiếp tại World Cup 2026 theo nhiều cách khác nhau, từ vòng 1/16, 1/8, tứ kết cho đến chung kết.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/06/09/ronaldo-va-messi-1781019350-6415-1781019545.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=tmlG-hhALryoiwJx9b_o5A",
+    "link": "https://vnexpress.net/kich-ban-de-messi-gap-ronaldo-o-chung-ket-world-cup-2026-5083849.html",
+    "published_at": "Wed, 10 Jun 2026 06:00:00 +0700",
+    "createAt": "2026-06-09T23:00:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/nang-so-doi-tham-gia-world-cup-fifa-kiem-tien-ra-sao-5083846.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Nâng số đội tham gia World Cup, FIFA kiếm tiền ra sao?",
+    "description": "Tăng từ 32 lên 48 số đội tham gia mang lại cho FIFA gần một tỷ USD doanh thu, nhờ số trận đấu, khán giả và các sản phẩm thương mại tăng theo.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/09/Thumbngang1-1781018112-8081-1781018682.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=Xf6YyZLAMIKVnlx1c7P78A",
+    "link": "https://vnexpress.net/nang-so-doi-tham-gia-world-cup-fifa-kiem-tien-ra-sao-5083846.html",
+    "published_at": "Wed, 10 Jun 2026 06:00:00 +0700",
+    "createAt": "2026-06-09T23:00:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/dung-ai-bien-tau-thiet-ke-cua-nguoi-khac-the-nao-thi-bi-xu-ly-hinh-su-5083645.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Dùng AI biến tấu thiết kế của người khác thế nào thì bị xử lý hình sự?",
+    "description": "Vụ chủ thương hiệu Vải áo dài Đất Lành bị khởi tố cho thấy việc sử dụng AI không đương nhiên biến một thiết kế thành tác phẩm mới và miễn trừ trách nhiệm pháp lý.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/09/aodai1-jpeg-1780993269-9643-1780994419.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=m7kcv1nAXMDb-jXF5ofmRw",
+    "link": "https://vnexpress.net/dung-ai-bien-tau-thiet-ke-cua-nguoi-khac-the-nao-thi-bi-xu-ly-hinh-su-5083645.html",
+    "published_at": "Wed, 10 Jun 2026 06:00:00 +0700",
+    "createAt": "2026-06-09T23:00:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/thach-thuc-voi-tai-san-tri-tue-la-dinh-gia-duoc-thi-truong-chap-nhan-hay-khong-5083614.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "'Thách thức với tài sản trí tuệ là định giá được thị trường chấp nhận hay không'",
+    "description": "Ông Lê Quang Vinh, nhà sáng lập Bross &amp; Partners, cho rằng tài sản trí tuệ có thể được định giá, nhưng không dễ đưa vào thị trường, đòi hỏi biện pháp để tham chiếu thông tin, chia sẻ rủi ro.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/09/lequangvinh-1780984219-7351-1780985407.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=2Pq9AzGy8t7wpuAKQY4vbA",
+    "link": "https://vnexpress.net/thach-thuc-voi-tai-san-tri-tue-la-dinh-gia-duoc-thi-truong-chap-nhan-hay-khong-5083614.html",
+    "published_at": "Wed, 10 Jun 2026 06:00:00 +0700",
+    "createAt": "2026-06-09T23:00:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/nhung-thoi-quen-tuong-vo-hai-co-the-gay-dot-quy-5083392.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Những thói quen 'tưởng vô hại' có thể gây đột quỵ",
+    "description": "Việc uống thiếu nước, lạm dụng đồ uống lạnh, dùng nhiều rượu bia và tắm ngay sau khi đi nắng về trong mùa hè rất dễ kích hoạt đột quỵ.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/08/nang-nong-1780930945-6199-1780931106.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=arp2RVGpcopwmOe0bJH1jQ",
+    "link": "https://vnexpress.net/nhung-thoi-quen-tuong-vo-hai-co-the-gay-dot-quy-5083392.html",
+    "published_at": "Wed, 10 Jun 2026 06:00:00 +0700",
+    "createAt": "2026-06-09T23:00:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/co-dau-ngoai-sang-viet-nam-may-vay-cuoi-5079895.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Cô dâu ngoại sang Việt Nam may váy cưới",
+    "description": "Thu hút bởi chi phí hợp lý và tay nghề cao, ngày càng nhiều cô dâu quốc tế tìm đến các nhà may Việt Nam để đặt váy cưới cá nhân hóa.",
+    "thumbnail_url": "https://vcdn1-giadinh.vnecdn.net/2026/06/09/screen-shot-at-1780856080-8926-1780985113.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=w9w_R-5ABGpUI4e8fYjWhg",
+    "link": "https://vnexpress.net/co-dau-ngoai-sang-viet-nam-may-vay-cuoi-5079895.html",
+    "published_at": "Wed, 10 Jun 2026 06:00:00 +0700",
+    "createAt": "2026-06-09T23:00:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/g919-suv-dia-hinh-dau-tien-cua-hongqi-5083605.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "G919 - SUV địa hình đầu tiên của Hongqi",
+    "description": "Hongqi đặt tên cho mẫu SUV địa hình đầu tiên là G919, trang bị 4 môtơ điện kết hợp động cơ tăng áp 2 lít.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/09/HongqiG9191-1780987384-3724-1780987672.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=lZbCuFjrfzntyuw5ZQ_cVQ",
+    "link": "https://vnexpress.net/g919-suv-dia-hinh-dau-tien-cua-hongqi-5083605.html",
+    "published_at": "Wed, 10 Jun 2026 06:00:00 +0700",
+    "createAt": "2026-06-09T23:00:00.000Z"
   }
 ]
