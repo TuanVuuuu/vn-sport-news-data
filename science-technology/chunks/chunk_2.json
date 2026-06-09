@@ -658,5 +658,41 @@
     "link": "https://vnexpress.net/fpt-va-nvidia-phat-hanh-tap-du-lieu-tieng-viet-voi-900-000-ho-so-nhan-vat-5083446.html",
     "published_at": "Tue, 09 Jun 2026 08:40:38 +0700",
     "createAt": "2026-06-09T01:40:38.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/tim-cook-cam-on-21-lan-khi-phat-bieu-tai-wwdc-5083472.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Tim Cook cảm ơn 21 lần khi phát biểu tại WWDC",
+    "description": "Trong bài phát biểu gần như cuối cùng trên cương vị CEO Apple, Tim Cook có những chia sẻ xúc động cùng nhiều lời cảm ơn đến mọi người.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/09/717047648-n-1780970806-8646-1780971022.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Rub7FKSodnld3Uyj4ixStw",
+    "link": "https://vnexpress.net/tim-cook-cam-on-21-lan-khi-phat-bieu-tai-wwdc-5083472.html",
+    "published_at": "Tue, 09 Jun 2026 10:29:26 +0700",
+    "createAt": "2026-06-09T03:29:26.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/se-dao-tao-ky-nang-so-cho-hon-7-2-trieu-nong-dan-5083303.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Sẽ đào tạo kỹ năng số cho hơn 7,2 triệu nông dân",
+    "description": "Ít nhất 70% hội viên nông dân trên cả nước sẽ được trang bị kiến thức, kỹ năng số trong nhiệm kỳ 2026-2031, tương đương hơn 7,2 triệu người.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/06/08/l1180098-jpg-1780910442-7517-1780910475.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=8SUlCRdp-SSm96tE81-_OA",
+    "link": "https://vnexpress.net/se-dao-tao-ky-nang-so-cho-hon-7-2-trieu-nong-dan-5083303.html",
+    "published_at": "Tue, 09 Jun 2026 10:35:30 +0700",
+    "createAt": "2026-06-09T03:35:30.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/macos-27-noi-khong-voi-may-mac-dung-chip-intel-5083437.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "macOS 27 'nói không' với máy Mac dùng chip Intel",
+    "description": "Người dùng máy Mac chạy chip Intel sẽ không thể cập nhật macOS 27, khi phiên bản hệ điều hành mới chỉ tương thích với chip M-Series.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/09/apple-announces-macos-golden-g-1277-4335-1780965679.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=hZHJqSX6H4H7zzf8QTYapg",
+    "link": "https://vnexpress.net/macos-27-noi-khong-voi-may-mac-dung-chip-intel-5083437.html",
+    "published_at": "Tue, 09 Jun 2026 11:00:00 +0700",
+    "createAt": "2026-06-09T04:00:00.000Z"
   }
 ]
