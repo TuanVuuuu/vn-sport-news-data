@@ -778,5 +778,65 @@
     "link": "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-doi-moi-va-thich-ung-la-yeu-cau-sat-suon-voi-asean-5083824.html",
     "published_at": "Tue, 09 Jun 2026 22:34:46 +0700",
     "createAt": "2026-06-09T15:34:46.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/lao-dong-khong-chiu-noi-neu-thue-nha-vuot-25-thu-nhap-5083797.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "'Lao động không chịu nổi nếu thuê nhà vượt 25% thu nhập'",
+    "description": "Chi phí thuê quá cao khiến lao động gặp áp lực tài chính lớn, phần thu nhập còn lại không đủ tái tạo sức khỏe, đảm bảo cuộc sống, theo Chủ tịch Hiệp hội Bất động sản TP HCM.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/09/z7918398535468-c7d14f2a32995e6-1626-9820-1781020870.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=uenZUKddvsqcyQ9wlD9MqQ",
+    "link": "https://vnexpress.net/lao-dong-khong-chiu-noi-neu-thue-nha-vuot-25-thu-nhap-5083797.html",
+    "published_at": "Wed, 10 Jun 2026 00:00:00 +0700",
+    "createAt": "2026-06-09T17:00:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/nhung-cong-trinh-lam-thay-doi-dien-mao-quang-ninh-5066646.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Những công trình làm thay đổi diện mạo Quảng Ninh",
+    "description": "Sau hơn 60 năm thành lập, hàng loạt công trình quy mô lớn được triển khai, làm thay đổi diện mạo đô thị, đưa Quảng Ninh thành cực tăng trưởng năng động của miền Bắc.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/04/24/2017-1777015262.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=gkPUPaChCrcUOsHkQzv1Qw",
+    "link": "https://vnexpress.net/nhung-cong-trinh-lam-thay-doi-dien-mao-quang-ninh-5066646.html",
+    "published_at": "Wed, 10 Jun 2026 00:00:00 +0700",
+    "createAt": "2026-06-09T17:00:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/artemis-3-nhiem-vu-giup-nasa-dua-nguoi-len-mat-trang-5083286.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Artemis 3 - nhiệm vụ giúp NASA đưa người lên Mặt Trăng",
+    "description": "Nhiệm vụ Artemis 3 của NASA sẽ là thử nghiệm quan trọng cho các hệ thống sẽ đưa con người hạ cánh xuống bề mặt Mặt Trăng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/08/VNEArtemis-1780907107-8456-1780907318.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=YsLke11THqd7dOFV3MXFlg",
+    "link": "https://vnexpress.net/artemis-3-nhiem-vu-giup-nasa-dua-nguoi-len-mat-trang-5083286.html",
+    "published_at": "Wed, 10 Jun 2026 00:00:00 +0700",
+    "createAt": "2026-06-09T17:00:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/nhung-man-tien-quan-soi-dong-truoc-world-cup-2026-5083844.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Những màn tiễn quân sôi động trước World Cup 2026",
+    "description": "Hộ tống bằng đoàn xe treo quốc kỳ, đốt pháo sáng, thổi kèn vuvuzela, biểu diễn kèn túi hay tổ chức đại nhạc hội là những cách CĐV Thổ Nhĩ Kỳ, Bỉ, Scotland và Curacao tiễn đội tuyển dự World Cup 2026.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/09/tienlenduong-1781019452-4718-1781019544.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=sMKn6tH0DHR1mST1eF1e-w",
+    "link": "https://vnexpress.net/nhung-man-tien-quan-soi-dong-truoc-world-cup-2026-5083844.html",
+    "published_at": "Wed, 10 Jun 2026 00:00:00 +0700",
+    "createAt": "2026-06-09T17:00:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/ong-trump-iran-ban-roi-truc-thang-apache-my-phai-dap-tra-5083867.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Ông Trump: Iran bắn rơi trực thăng Apache, Mỹ phải đáp trả",
+    "description": "Tổng thống Trump cho biết chiếc trực thăng Apache AH-64 rơi gần Hormuz do hỏa lực của Iran, do đó quân đội Mỹ cần phải đáp trả.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/10/afpha4c4-v3-highres-uspresiden-6779-5996-1781026462.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=fuoxt39jhuwr8J5PEDhq1Q",
+    "link": "https://vnexpress.net/ong-trump-iran-ban-roi-truc-thang-apache-my-phai-dap-tra-5083867.html",
+    "published_at": "Wed, 10 Jun 2026 00:46:13 +0700",
+    "createAt": "2026-06-09T17:46:13.000Z"
   }
 ]

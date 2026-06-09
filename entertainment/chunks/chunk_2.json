@@ -946,5 +946,41 @@
     "link": "https://vnexpress.net/10-ngoi-sao-world-cup-mac-dep-nhat-5083567.html",
     "published_at": "Tue, 09 Jun 2026 20:56:38 +0700",
     "createAt": "2026-06-09T13:56:38.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/10-ngoi-sao-bong-da-co-gu-mac-dep-5083567.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "10 ngôi sao bóng đá có gu mặc đẹp",
+    "description": "Cầu thủ Mbappé, Héctor Bellerín, Jude Bellingham, Jules Koundé thường được khen có gu mặc bắt mắt, cách phối sáng tạo.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/06/10/hector-anh-top-1781026067.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=XWvEMZ5svua9OxA01shgOg",
+    "link": "https://vnexpress.net/10-ngoi-sao-bong-da-co-gu-mac-dep-5083567.html",
+    "published_at": "Tue, 09 Jun 2026 20:56:38 +0700",
+    "createAt": "2026-06-09T13:56:38.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/nghe-si-bui-bai-binh-ve-huu-van-miet-mai-dong-phim-5083305.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Nghệ sĩ Bùi Bài Bình về hưu vẫn miệt mài đóng phim",
+    "description": "Nghệ sĩ Bùi Bài Bình nói ông mạnh khỏe nhờ chăm vận động, tích cực đóng phim ở tuổi 70.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/06/09/bui-bai-binh-1780997155-4806-1780997346.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=SZLLDwvLxCATAA7Y4ho5qQ",
+    "link": "https://vnexpress.net/nghe-si-bui-bai-binh-ve-huu-van-miet-mai-dong-phim-5083305.html",
+    "published_at": "Wed, 10 Jun 2026 00:20:52 +0700",
+    "createAt": "2026-06-09T17:20:52.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/dao-duc-ai-5083695.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "'Đạo đức AI'",
+    "description": "Tác giả Đào Trung Thành cung cấp bộ công cụ quản trị AI để tổ chức, con người tránh được rủi ro, qua sách ''Đạo đức AI: Nguyên tắc và Thực hành''.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/06/09/sachdaoducai-1780999169-6208-1780999544.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=jiWq3qDJybyjCaN2vsz68Q",
+    "link": "https://vnexpress.net/dao-duc-ai-5083695.html",
+    "published_at": "Wed, 10 Jun 2026 00:46:17 +0700",
+    "createAt": "2026-06-09T17:46:17.000Z"
   }
 ]
