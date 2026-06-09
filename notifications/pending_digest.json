@@ -107,6 +107,54 @@
       "link": "https://vnexpress.net/nguoi-dan-ong-australia-dap-pha-quan-ca-phe-o-da-nang-bi-khoi-to-5083631.html",
       "published_at": "Tue, 09 Jun 2026 13:10:58 +0700",
       "createAt": "2026-06-09T06:10:58.000Z"
+    },
+    {
+      "id": "https://vnexpress.net/hien-truong-tuong-bao-do-sap-trong-mua-lon-o-ha-noi-5083602.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Hiện trường tường bao đổ sập trong mưa lớn ở Hà Nội",
+      "description": "Mảng tường chắn dài 50 m trên sườn đồi ở Xuân Mai đổ sập sau mưa lớn kéo dài, khiến nước, bùn đất và rác thải tràn vào nhiều nhà dân.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/09/199d48eb17a240f990dfb55272b6bb-7202-9695-1780987483.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=6r_5fKP40UICGLu4-8h2rA",
+      "link": "https://vnexpress.net/hien-truong-tuong-bao-do-sap-trong-mua-lon-o-ha-noi-5083602.html",
+      "published_at": "Tue, 09 Jun 2026 13:44:43 +0700",
+      "createAt": "2026-06-09T06:44:43.000Z"
+    },
+    {
+      "id": "https://vnexpress.net/tp-hcm-tam-soat-mien-phi-5-loai-ung-thu-5083571.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "TP HCM tầm soát miễn phí 5 loại ung thư",
+      "description": "TP HCM dự kiến thí điểm tầm soát miễn phí ung thư cổ tử cung cho phụ nữ trước khi mở rộng sàng lọc cộng đồng đối với ung thư vú, đại trực tràng, gan và tuyến tiền liệt.",
+      "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/09/ung-thu-co-tu-cung-1780980471-7988-1780980519.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=vxyBqwg2R-bcZG2wZ9BHVA",
+      "link": "https://vnexpress.net/tp-hcm-tam-soat-mien-phi-5-loai-ung-thu-5083571.html",
+      "published_at": "Tue, 09 Jun 2026 14:13:17 +0700",
+      "createAt": "2026-06-09T07:13:17.000Z"
+    },
+    {
+      "id": "https://vnexpress.net/gan-40-chuyen-bay-bi-anh-huong-vi-uav-va-dieu-5083588.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Gần 40 chuyến bay bị ảnh hưởng vì UAV và diều",
+      "description": "Cục Hàng không Việt Nam ghi nhận 38 chuyến bay bị chậm khởi hành hoặc phải chuyển hướng hạ cánh do các vật thể bay xuất hiện gần sân bay Nội Bài và Cát Bi.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/09/may-bay-timcook-1780978550-8454-1780978617.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=pRylpsRXBnUylTfoVFfK0A",
+      "link": "https://vnexpress.net/gan-40-chuyen-bay-bi-anh-huong-vi-uav-va-dieu-5083588.html",
+      "published_at": "Tue, 09 Jun 2026 14:13:49 +0700",
+      "createAt": "2026-06-09T07:13:49.000Z"
+    },
+    {
+      "id": "https://vnexpress.net/bo-xay-dung-yeu-cau-nan-duong-sat-toc-do-cao-bao-ve-thap-cham-1-300-tuoi-5083667.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Bộ Xây dựng yêu cầu 'nắn' đường sắt tốc độ cao bảo vệ tháp Chăm 1.300 tuổi",
+      "description": "Bộ Xây dựng yêu cầu chủ đầu tư lập báo cáo nghiên cứu khả thi đường sắt tốc độ cao phải lựa chọn tuyến tối ưu nhất, hạn chế ảnh hưởng tháp Hòa Lai.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/09/hoalai-1780990714-7966-1780990840.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=0-TBM-MP0CvFqM4Fhn_YCg",
+      "link": "https://vnexpress.net/bo-xay-dung-yeu-cau-nan-duong-sat-toc-do-cao-bao-ve-thap-cham-1-300-tuoi-5083667.html",
+      "published_at": "Tue, 09 Jun 2026 14:42:00 +0700",
+      "createAt": "2026-06-09T07:42:00.000Z"
     }
   ]
 }
