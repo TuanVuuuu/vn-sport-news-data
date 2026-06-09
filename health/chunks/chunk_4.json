@@ -418,5 +418,29 @@
     "link": "https://vnexpress.net/sai-lam-khien-khan-lau-bep-ban-hon-bon-cau-hang-trieu-lan-5083560.html",
     "published_at": "Tue, 09 Jun 2026 14:26:34 +0700",
     "createAt": "2026-06-09T07:26:34.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/phan-biet-roi-loan-tieu-hoa-va-ngo-doc-thuc-pham-5083652.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Phân biệt rối loạn tiêu hóa và ngộ độc thực phẩm",
+    "description": "Mỗi khi ăn đồ lạ tôi thường đau bụng, tiêu chảy giống ngộ độc nhưng hết sau 1-2 ngày. Làm cách nào phân biệt ngộ độc thực phẩm với rối loạn tiêu hóa thông thường? (Hương, TP HCM)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/09/ba-o-1780988377-3348-1780988756.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=pWlnqTedhz7JYs58wd7XtQ",
+    "link": "https://vnexpress.net/phan-biet-roi-loan-tieu-hoa-va-ngo-doc-thuc-pham-5083652.html",
+    "published_at": "Tue, 09 Jun 2026 14:30:00 +0700",
+    "createAt": "2026-06-09T07:30:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/vi-sao-nguoi-tieu-duong-thuong-xuyen-buon-non-5083556.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Vì sao người tiểu đường thường xuyên buồn nôn?",
+    "description": "Đường huyết cao kéo dài có thể gây tổn thương các dây thần kinh điều khiển hoạt động của dạ dày, làm chậm quá trình tiêu hóa, dẫn đến đầy bụng, buồn nôn.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/09/ouonghuyet1-1780978545-9357-1780978580.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=7E7k6aArj-XjfVHXjWei3A",
+    "link": "https://vnexpress.net/vi-sao-nguoi-tieu-duong-thuong-xuyen-buon-non-5083556.html",
+    "published_at": "Tue, 09 Jun 2026 15:00:00 +0700",
+    "createAt": "2026-06-09T08:00:00.000Z"
   }
 ]
