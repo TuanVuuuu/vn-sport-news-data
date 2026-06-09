@@ -130,5 +130,53 @@
     "link": "https://vnexpress.net/3-kieng-cu-khien-nguoi-ung-thu-nhanh-suy-kiet-5083106.html",
     "published_at": "Tue, 09 Jun 2026 06:00:00 +0700",
     "createAt": "2026-06-08T23:00:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/be-5-tuoi-trang-phoi-vi-hit-phai-xit-chong-nang-cua-me-5083402.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Bé 5 tuổi trắng phổi vì hít phải xịt chống nắng của mẹ",
+    "description": "Đứng gần mẹ lúc dùng xịt chống nắng, bé trai 5 tuổi nhập viện trong tình trạng ho, khó thở, được xác định tổn thương phổi do hít phải hóa chất.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/08/0407c910027971b803598e2a3ff447-1125-1920-1780936443.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=f04OI3KIKquKi9lxqNPjaQ",
+    "link": "https://vnexpress.net/be-5-tuoi-trang-phoi-vi-hit-phai-xit-chong-nang-cua-me-5083402.html",
+    "published_at": "Tue, 09 Jun 2026 07:28:29 +0700",
+    "createAt": "2026-06-09T00:28:29.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/ung-thu-da-di-can-phoi-5083431.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Ung thư da di căn phổi",
+    "description": "Ông Kha, 56 tuổi, bất ngờ phát hiện ung thư hắc tố da giai đoạn 4 di căn phổi, điều trị với thuốc miễn dịch thu nhỏ u.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/09/ut-1780959410-9257-1780959531.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=ALVKpGCUVDCrehNI4YjWFw",
+    "link": "https://vnexpress.net/ung-thu-da-di-can-phoi-5083431.html",
+    "published_at": "Tue, 09 Jun 2026 08:00:00 +0700",
+    "createAt": "2026-06-09T01:00:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/tuong-viem-amidan-hoa-ung-thu-do-hpv-5083426.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Tưởng viêm amidan hóa ung thư do HPV",
+    "description": "Ông Văn, 60 tuổi, đau họng, nuốt đau ba tuần tưởng viêm amidan, song bác sĩ chẩn đoán ung thư amidan giai đoạn 4, di căn hạch do HPV.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/09/anhkham-1780960794-7266-1780961162.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Ye3pq_v8His2zIxZSx8lQA",
+    "link": "https://vnexpress.net/tuong-viem-amidan-hoa-ung-thu-do-hpv-5083426.html",
+    "published_at": "Tue, 09 Jun 2026 08:00:00 +0700",
+    "createAt": "2026-06-09T01:00:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/bo-dieu-tri-ba-nam-mat-duc-thuy-tinh-the-nang-5083408.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Bỏ điều trị ba năm, mắt đục thủy tinh thể nặng",
+    "description": "Ông Phước, 68 tuổi, bị đục thủy tinh thể độ 3 ở cả hai mắt, đã phẫu thuật mắt phải nhưng bỏ điều trị mắt còn lại khiến bệnh tiến triển nặng.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/08/a-nh-vne-1780934519-1797-1780934856.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=t0Z3kh0BVGp31kWGDoM6TQ",
+    "link": "https://vnexpress.net/bo-dieu-tri-ba-nam-mat-duc-thuy-tinh-the-nang-5083408.html",
+    "published_at": "Tue, 09 Jun 2026 08:00:00 +0700",
+    "createAt": "2026-06-09T01:00:00.000Z"
   }
 ]
