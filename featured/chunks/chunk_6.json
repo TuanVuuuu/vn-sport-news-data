@@ -286,5 +286,41 @@
     "link": "https://vnexpress.net/israel-iran-tuyen-bo-dung-tap-kich-lan-nhau-5083428.html",
     "published_at": "Tue, 09 Jun 2026 07:01:21 +0700",
     "createAt": "2026-06-09T00:01:21.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/nguoi-viet-boi-roi-voi-van-hoa-hang-xom-o-nhat-5081510.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Người Việt bối rối với văn hóa hàng xóm ở Nhật",
+    "description": "21h, Nhật Tuân đang uống bia cùng 5 đồng nghiệp trong căn hộ ở tỉnh Aichi thì cảnh sát gõ cửa, kiểm tra giấy tờ cư trú và nhắc nhở vì gây ồn ào.",
+    "thumbnail_url": "https://vcdn1-giadinh.vnecdn.net/2026/06/04/2aoboqarw5wtgtkbjmkegicuxny3wg-4279-8859-1780585173.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ij4tNK6XpyQXQWpb5FAvZQ",
+    "link": "https://vnexpress.net/nguoi-viet-boi-roi-voi-van-hoa-hang-xom-o-nhat-5081510.html",
+    "published_at": "Tue, 09 Jun 2026 06:29:00 +0700",
+    "createAt": "2026-06-08T23:29:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/vi-sao-gia-vang-giam-7-trieu-dong-chi-trong-mot-ngay-5083422.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Vì sao giá vàng giảm 7 triệu đồng chỉ trong một ngày?",
+    "description": "Giá vàng giảm tới 7 triệu đồng mỗi lượng trong ngày 8/6 do chịu tác động từ nhịp điều chỉnh của thị trường thế giới cùng với lực bán trong nước, theo chuyên gia.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/06/09/233a0822-1780949709-5929-1780949777.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ROzkTwU0LIzT_Fn-euBIwA",
+    "link": "https://vnexpress.net/vi-sao-gia-vang-giam-7-trieu-dong-chi-trong-mot-ngay-5083422.html",
+    "published_at": "Tue, 09 Jun 2026 07:38:28 +0700",
+    "createAt": "2026-06-09T00:38:28.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/gia-ve-may-bay-giam-vao-cao-diem-he-5083075.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Giá vé máy bay giảm vào cao điểm hè",
+    "description": "Sau nhiều tháng neo ở mức cao, giá vé máy bay nhiều chặng nội địa từ đầu tháng 6 giảm 10-15% khi các hãng mở rộng dải giá thấp và đẩy mạnh kích cầu.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/06/08/ve-may-bay-1780887897-1172-1780889300.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=UFqufr7B-dhrX0BEz0yeLg",
+    "link": "https://vnexpress.net/gia-ve-may-bay-giam-vao-cao-diem-he-5083075.html",
+    "published_at": "Tue, 09 Jun 2026 08:14:24 +0700",
+    "createAt": "2026-06-09T01:14:24.000Z"
   }
 ]

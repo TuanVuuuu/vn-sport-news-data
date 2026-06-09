@@ -646,5 +646,17 @@
     "link": "https://vnexpress.net/quan-diem-trai-nguoc-ve-nguy-co-khi-chup-gio-ngon-tay-chu-v-5082444.html",
     "published_at": "Tue, 09 Jun 2026 05:00:00 +0700",
     "createAt": "2026-06-08T22:00:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/fpt-va-nvidia-phat-hanh-tap-du-lieu-tieng-viet-voi-900-000-ho-so-nhan-vat-5083446.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "FPT và Nvidia phát hành tập dữ liệu tiếng Việt với 900.000 'hồ sơ nhân vật'",
+    "description": "Tập dữ liệu Nemotron-Personas-Vietnam, do FPT và Nvidia phát triển, nằm trong top 15 tập dữ liệu thịnh hành trên Hugging Face sau bốn ngày phát hành.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/09/fpt-1780964304-2840-1780964363.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=9kCx8UHJ7-pN3oEM4mPsCA",
+    "link": "https://vnexpress.net/fpt-va-nvidia-phat-hanh-tap-du-lieu-tieng-viet-voi-900-000-ho-so-nhan-vat-5083446.html",
+    "published_at": "Tue, 09 Jun 2026 08:40:38 +0700",
+    "createAt": "2026-06-09T01:40:38.000Z"
   }
 ]
