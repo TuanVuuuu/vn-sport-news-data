@@ -718,5 +718,29 @@
     "link": "https://vnexpress.net/ban-giong-noi-de-day-ai-5083283.html",
     "published_at": "Tue, 09 Jun 2026 13:00:00 +0700",
     "createAt": "2026-06-09T06:00:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/openai-nop-don-ipo-5083601.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "OpenAI nộp đơn IPO",
+    "description": "OpenAI, công ty phát triển ChatGPT, cho biết đã nộp đơn phát hành cổ phiếu lần đầu ra công chúng (IPO) tại Mỹ.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/09/openaithachthuc175249135129441-7436-7020-1780980210.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=pv8_-_Yw4YUCl-u8ZR4TBQ",
+    "link": "https://vnexpress.net/openai-nop-don-ipo-5083601.html",
+    "published_at": "Tue, 09 Jun 2026 14:23:41 +0700",
+    "createAt": "2026-06-09T07:23:41.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/cach-de-thuc-hien-giac-mo-cong-nghe-loi-tu-he-thong-phong-thi-nghiem-quoc-gia-5083308.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Cách để thực hiện 'giấc mơ công nghệ lõi' từ hệ thống phòng thí nghiệm quốc gia",
+    "description": "Các nhà khoa học cho rằng, để trở thành hạ tầng nghiên cứu chiến lược của quốc gia, tạo năng lực phát triển, làm chủ công nghệ lõi, các phòng thí nghiệm trọng điểm thế hệ mới cần thay đổi về cách thức đầu tư, vận hành, giao nhiệm vụ.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/08/huy94071743739829-1780909511-2724-1780909830.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=xNezb-bCkEx6LZuhhTFf2A",
+    "link": "https://vnexpress.net/cach-de-thuc-hien-giac-mo-cong-nghe-loi-tu-he-thong-phong-thi-nghiem-quoc-gia-5083308.html",
+    "published_at": "Tue, 09 Jun 2026 15:00:00 +0700",
+    "createAt": "2026-06-09T08:00:00.000Z"
   }
 ]
