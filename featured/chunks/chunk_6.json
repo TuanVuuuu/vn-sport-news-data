@@ -178,5 +178,89 @@
     "link": "https://vnexpress.net/cuoc-song-cua-nguoi-iran-sau-hon-3-thang-chien-su-5083032.html",
     "published_at": "Mon, 08 Jun 2026 19:20:44 +0700",
     "createAt": "2026-06-08T12:20:44.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/toc-tien-toi-yeu-doi-hon-bao-gio-het-5083090.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Tóc Tiên: 'Tôi yêu đời hơn bao giờ hết'",
+    "description": "Tóc Tiên, 37 tuổi, nói sau ly hôn, cô không nghĩ nhiều đến chuyện yêu đương, chỉ tập trung cho âm nhạc nhưng nếu gặp duyên, cô sẽ mở lòng.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/06/08/607534852-n-1780891314-7769-1780894199.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Zk_ERyyxuSG-3jToj0g_bw",
+    "link": "https://vnexpress.net/toc-tien-toi-yeu-doi-hon-bao-gio-het-5083090.html",
+    "published_at": "Tue, 09 Jun 2026 00:00:00 +0700",
+    "createAt": "2026-06-08T17:00:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/mua-lon-lam-sap-tuong-bao-nuoc-ao-vao-nha-dan-5083414.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Mưa lớn làm sập tường bao, nước ào vào nhà dân",
+    "description": "Sau gần hai giờ mưa lớn tối 8/6, một đoạn tường chắn trên sườn đồi ở xã Xuân Mai bất ngờ đổ sập, khiến nước cùng đất đá tràn xuống khu dân cư, làm hư hỏng nhà cửa.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/09/0d7ea56162694064927065eabeafe7-2032-5917-1780940019.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=J4vM8HDEBkKlxwRyQzaIyQ&t=image",
+    "link": "https://vnexpress.net/mua-lon-lam-sap-tuong-bao-nuoc-ao-vao-nha-dan-5083414.html",
+    "published_at": "Tue, 09 Jun 2026 00:29:32 +0700",
+    "createAt": "2026-06-08T17:29:32.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/cuoc-phong-van-khien-ong-trump-noi-gian-voi-dai-nbc-5083219.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Cuộc phỏng vấn khiến ông Trump nổi giận với đài NBC",
+    "description": "Ông Trump trao đổi với nhà báo Welker của NBC nhiều vấn đề, trước khi nổi giận vì bị chất vấn về cáo buộc gian lận bầu cử.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/08/donald-trump-1780926361-6760-1780926538.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=5Lc6hAsM3B71d7gJMwuCmw",
+    "link": "https://vnexpress.net/cuoc-phong-van-khien-ong-trump-noi-gian-voi-dai-nbc-5083219.html",
+    "published_at": "Tue, 09 Jun 2026 01:00:00 +0700",
+    "createAt": "2026-06-08T18:00:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/hien-trang-duong-tu-tp-hcm-di-mien-tay-duoc-de-xuat-mo-rong-gap-6-5083095.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Hiện trạng đường từ TP HCM đi miền Tây được đề xuất mở rộng gấp 6",
+    "description": "Đường Lê Văn Lương, kết nối TP HCM với Tây Ninh và miền Tây, hiện nhỏ hẹp, thường ùn tắc vào giờ cao điểm, được đề xuất mở rộng với tổng vốn gần 10.000 tỷ đồng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/08/dji-d-1780902841.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=8K_cbXtq1tbpk__8C8Y0pQ",
+    "link": "https://vnexpress.net/hien-trang-duong-tu-tp-hcm-di-mien-tay-duoc-de-xuat-mo-rong-gap-6-5083095.html",
+    "published_at": "Tue, 09 Jun 2026 05:00:00 +0700",
+    "createAt": "2026-06-08T22:00:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/cuu-hanh-khach-mac-ket-sau-tai-nan-lien-hoan-tren-cao-toc-5083418.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Cứu hành khách mắc kẹt sau tai nạn liên hoàn trên cao tốc",
+    "description": "Tai nạn liên hoàn giữa 4 ôtô trên cao tốc Phú Thọ - Tuyên Quang khiến khoang lái xe khách bị đâm bẹp, nhiều người bị thương.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/09/20260609005658-1780941437-9556-1780941462.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=3V6u4Ti2K_rkid6ikygTUw",
+    "link": "https://vnexpress.net/cuu-hanh-khach-mac-ket-sau-tai-nan-lien-hoan-tren-cao-toc-5083418.html",
+    "published_at": "Tue, 09 Jun 2026 05:53:01 +0700",
+    "createAt": "2026-06-08T22:53:01.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/lich-thi-tot-nghiep-thpt-2026-va-lich-tuyen-sinh-dai-hoc-chi-tiet-nhat-5078300.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Các mốc thời gian thi tốt nghiệp THPT và tuyển sinh đại học 2026",
+    "description": "Kỳ thi tốt nghiệp THPT 2026 diễn ra ngày 11-12/6, thí sinh biết điểm sáng 1/7, rồi bắt đầu đăng ký nguyện vọng đại học.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/05/26/TOP-TOT-NGHIEP-1779768924.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=KK6mC-RCQGvRWpZoxtfLYQ",
+    "link": "https://vnexpress.net/lich-thi-tot-nghiep-thpt-2026-va-lich-tuyen-sinh-dai-hoc-chi-tiet-nhat-5078300.html",
+    "published_at": "Tue, 09 Jun 2026 05:59:00 +0700",
+    "createAt": "2026-06-08T22:59:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/tien-do-giai-phong-mat-bang-vanh-dai-2-5-ha-noi-nhin-tu-tren-cao-5083009.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Tiến độ giải phóng mặt bằng vành đai 2,5 Hà Nội nhìn từ trên cao",
+    "description": "Nhìn từ trên cao, đường vành đai 2,5 dần thành hình sau khi Hà Nội tăng tốc giải phóng mặt bằng để trước 30/6 bàn giao cho nhà thầu thi công.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/09/Anhmanhinh20260609luc061251-17-3177-1653-1780960820.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=5NBfSI1LZabJKLR_UiF6ew",
+    "link": "https://vnexpress.net/tien-do-giai-phong-mat-bang-vanh-dai-2-5-ha-noi-nhin-tu-tren-cao-5083009.html",
+    "published_at": "Tue, 09 Jun 2026 06:30:00 +0700",
+    "createAt": "2026-06-08T23:30:00.000Z"
   }
 ]
