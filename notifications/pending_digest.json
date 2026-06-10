@@ -1,6 +1,18 @@
 {
   "featured": [
     {
+      "id": "https://vnexpress.net/nghe-si-bui-bai-binh-miet-mai-dong-phim-5083305.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Nghệ sĩ Bùi Bài Bình miệt mài đóng phim",
+      "description": "Nghệ sĩ Bùi Bài Bình nói ông mạnh khỏe nhờ chăm vận động, tích cực đóng phim ở tuổi 70.",
+      "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/06/09/bui-bai-binh-1780997155-4806-1780997346.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=SZLLDwvLxCATAA7Y4ho5qQ",
+      "link": "https://vnexpress.net/nghe-si-bui-bai-binh-miet-mai-dong-phim-5083305.html",
+      "published_at": "Wed, 10 Jun 2026 00:20:52 +0700",
+      "createAt": "2026-06-09T17:20:52.000Z"
+    },
+    {
       "id": "https://vnexpress.net/ca-nuoc-san-sang-kich-hoat-ky-thi-tot-nghiep-thpt-5083562.html",
       "category_id": "featured",
       "category_name": "Tin nổi bật",
@@ -25,6 +37,18 @@
       "createAt": "2026-06-09T23:00:00.000Z"
     },
     {
+      "id": "https://vnexpress.net/tang-so-doi-giup-fifa-tang-doanh-thu-world-cup-ra-sao-5083846.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Tăng số đội giúp FIFA tăng doanh thu World Cup ra sao?",
+      "description": "Tăng từ 32 lên 48 đội dự World Cup mang lại cho FIFA gần một tỷ USD doanh thu, nhờ số trận đấu, khán giả và các sản phẩm thương mại tăng theo.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/09/Thumbngang1-1781018112-8081-1781018682.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=Xf6YyZLAMIKVnlx1c7P78A",
+      "link": "https://vnexpress.net/tang-so-doi-giup-fifa-tang-doanh-thu-world-cup-ra-sao-5083846.html",
+      "published_at": "Wed, 10 Jun 2026 06:00:00 +0700",
+      "createAt": "2026-06-09T23:00:00.000Z"
+    },
+    {
       "id": "https://vnexpress.net/chi-tien-cho-dich-vu-co-check-quy-hoach-5083872.html",
       "category_id": "featured",
       "category_name": "Tin nổi bật",
@@ -45,6 +69,18 @@
       "description": "Xưởng gỗ rộng hàng nghìn m2 chuyên sản xuất hàng xuất khẩu bốc cháy dữ dội trong đêm, cột lửa và khói cao hàng trăm mét, sáng rực một vùng trời.",
       "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/10/chay-1781048010-3910-1781048021.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=w42XIvgVnr6tTfKBvtLh0w",
       "link": "https://vnexpress.net/khoi-lua-boc-cao-hang-tram-met-tu-xuong-go-o-tp-hcm-5083863.html",
+      "published_at": "Wed, 10 Jun 2026 06:28:54 +0700",
+      "createAt": "2026-06-09T23:28:54.000Z"
+    },
+    {
+      "id": "https://vnexpress.net/khoi-lua-boc-cao-hang-tram-met-tu-nha-may-go-o-tp-hcm-5083863.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Khói lửa bốc cao hàng trăm mét từ nhà máy gỗ ở TP HCM",
+      "description": "Xưởng gỗ rộng 17.000 m2 chuyên sản xuất hàng xuất khẩu bốc cháy dữ dội trong đêm, cột lửa và khói cao hàng trăm mét, sáng rực một vùng trời.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/10/chay-1781048010-3910-1781048021.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=w42XIvgVnr6tTfKBvtLh0w",
+      "link": "https://vnexpress.net/khoi-lua-boc-cao-hang-tram-met-tu-nha-may-go-o-tp-hcm-5083863.html",
       "published_at": "Wed, 10 Jun 2026 06:28:54 +0700",
       "createAt": "2026-06-09T23:28:54.000Z"
     },
@@ -83,6 +119,30 @@
       "link": "https://vnexpress.net/gia-vang-the-gioi-ve-sat-4-200-usd-5083896.html",
       "published_at": "Wed, 10 Jun 2026 07:54:45 +0700",
       "createAt": "2026-06-10T00:54:45.000Z"
+    },
+    {
+      "id": "https://vnexpress.net/ma-nguon-ios-27-he-lo-ve-iphone-gap-5083847.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Mã nguồn iOS 27 hé lộ về iPhone gập",
+      "description": "Mã nguồn trong hệ điều hành iOS 27 cho thấy Apple đang chuẩn bị ra mắt một mẫu điện thoại màn hình gập.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/09/67320-iphonefoldrendera-178101-9645-8375-1781018991.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=IRwu1TAKN9ID5K8pNqrOLQ",
+      "link": "https://vnexpress.net/ma-nguon-ios-27-he-lo-ve-iphone-gap-5083847.html",
+      "published_at": "Wed, 10 Jun 2026 08:13:21 +0700",
+      "createAt": "2026-06-10T01:13:21.000Z"
+    },
+    {
+      "id": "https://vnexpress.net/bo-cong-an-lam-lo-mat-de-thi-thpt-truoc-thoi-gian-co-the-bi-khoi-to-5083910.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Bộ Công an: Làm lộ, mất đề thi THPT trước thời gian có thể bị khởi tố",
+      "description": "Đề thi tốt nghiệp THPT là tài liệu \"​​tối mật\" nên người làm lộ, mất, trước khi hết thời gian làm bài có thể bị xử lý hình sự về hành vi cố ý hoặc vô ý làm lộ bí mật nhà nước.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/10/BCnganthittnghip-1781058462-4956-1781058466.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Sph1QlPVO3pD88GCxAroVg",
+      "link": "https://vnexpress.net/bo-cong-an-lam-lo-mat-de-thi-thpt-truoc-thoi-gian-co-the-bi-khoi-to-5083910.html",
+      "published_at": "Wed, 10 Jun 2026 09:00:57 +0700",
+      "createAt": "2026-06-10T02:00:57.000Z"
     }
   ]
 }
