@@ -718,5 +718,29 @@
     "link": "https://vnexpress.net/nguoi-dan-ong-mac-benh-thoai-hoa-dang-bot-5083878.html",
     "published_at": "Wed, 10 Jun 2026 08:00:00 +0700",
     "createAt": "2026-06-10T01:00:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/y-bac-si-ep-tim-cuu-nguoi-tai-nan-nguy-kich-5083843.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Y bác sĩ ép tim cứu người tai nạn nguy kịch",
+    "description": "Bác sĩ Nguyễn Anh Tú cùng 4 nhân viên y tế ép tim cứu người đàn ông nguy kịch, nằm bất tỉnh giữa đường sau tai nạn giao thông.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/09/nhom-bac-si-ep-tim-cuu-nguoi-1-4012-6679-1781017967.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Cb6ARwrJlJ8L30pAfccr-w",
+    "link": "https://vnexpress.net/y-bac-si-ep-tim-cuu-nguoi-tai-nan-nguy-kich-5083843.html",
+    "published_at": "Wed, 10 Jun 2026 07:38:47 +0700",
+    "createAt": "2026-06-10T00:38:47.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/thuoc-tiem-tieu-duong-thu-nghiem-giup-giam-can-nhieu-hon-4-lan-5083376.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Thuốc tiêm tiểu đường thử nghiệm giúp giảm cân nhiều hơn 4 lần",
+    "description": "Loại thuốc tiêm hàng tuần mới, retatrutide, giúp bệnh nhân tiểu đường type 2 giảm lượng đường trong máu và giảm tới 15,3% trọng lượng cơ thể, cao hơn gấp 4 lần so với giả dược.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/08/0-1780930389-4424-1780931260.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=5b_LVGBqnjBt4yJbYMcEkQ",
+    "link": "https://vnexpress.net/thuoc-tiem-tieu-duong-thu-nghiem-giup-giam-can-nhieu-hon-4-lan-5083376.html",
+    "published_at": "Wed, 10 Jun 2026 09:00:00 +0700",
+    "createAt": "2026-06-10T02:00:00.000Z"
   }
 ]
