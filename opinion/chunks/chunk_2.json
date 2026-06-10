@@ -274,5 +274,29 @@
     "link": "https://vnexpress.net/chi-ho-no-toi-500-trieu-nhung-ban-duoc-dat-moi-tra-tien-5083731.html",
     "published_at": "Tue, 09 Jun 2026 19:00:00 +0700",
     "createAt": "2026-06-09T12:00:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/phong-chay-chua-chay-chu-dau-tu-khong-the-mot-minh-ganh-moi-trach-nhiem-ve-pccc-5084123.html",
+    "category_id": "opinion",
+    "category_name": "Ý kiến",
+    "source": "VnExpress",
+    "title": "'Chủ đầu tư khó gánh mọi trách nhiệm về PCCC'",
+    "description": "Nhiều chủ đầu tư như tôi không đủ chuyên môn để tự đánh giá toàn bộ yêu cầu kỹ thuật phức tạp nếu bỏ kiểm tra nghiệm thu PCCC.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/10/pcccjpeg17368518582891173685-1-2579-9026-1781078616.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Z15HEAOepVMjIRfL12tTTA",
+    "link": "https://vnexpress.net/phong-chay-chua-chay-chu-dau-tu-khong-the-mot-minh-ganh-moi-trach-nhiem-ve-pccc-5084123.html",
+    "published_at": "Wed, 10 Jun 2026 16:00:00 +0700",
+    "createAt": "2026-06-10T09:00:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/xuyen-viet-mua-he-nen-di-xe-may-hay-tau-hoa-5084187.html",
+    "category_id": "opinion",
+    "category_name": "Ý kiến",
+    "source": "VnExpress",
+    "title": "Xuyên Việt mùa hè nên đi xe máy hay tàu hỏa?",
+    "description": "Tôi dự định đi xuyên Việt một mình và đang băn khoăn di chuyển bằng phương tiện gì.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/10/xuyenviet-1781082143-9489-1781082163.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=5gmdTJO8eNot1Eqm5xvxmw",
+    "link": "https://vnexpress.net/xuyen-viet-mua-he-nen-di-xe-may-hay-tau-hoa-5084187.html",
+    "published_at": "Wed, 10 Jun 2026 17:00:00 +0700",
+    "createAt": "2026-06-10T10:00:00.000Z"
   }
 ]
