@@ -1,3 +1,28 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/nhung-diem-moi-quyen-loi-bhyt-ap-dung-tu-1-7-5083980.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Những điểm mới BHYT áp dụng từ 1/7",
+      "description": "Từ ngày 1/7, nhiều quy định mới về BHYT tăng quyền lợi người dân khám chữa bệnh, đặc biệt khi khám trái tuyến và khám có chi phí thấp.",
+      "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/10/td5-1781060542-8581-1781060580.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=i8WH7fzYreA_cbjR7HlllA",
+      "link": "https://vnexpress.net/nhung-diem-moi-quyen-loi-bhyt-ap-dung-tu-1-7-5083980.html",
+      "published_at": "Wed, 10 Jun 2026 10:20:33 +0700",
+      "createAt": "2026-06-10T03:20:33.000Z"
+    },
+    {
+      "id": "https://vnexpress.net/messi-ghi-ban-thu-117-cho-argentina-5083982.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Messi ghi bàn thứ 117 cho Argentina",
+      "description": "Trong trận giao hữu cuối cùng trước World Cup 2026, Lionel Messi giúp Argentina thắng Iceland 3-0 ngày 9/6.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/06/10/afp202606102280810542v1highres-4821-7581-1781062345.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=piW5VM036V1EXLTNXXxQYA",
+      "link": "https://vnexpress.net/messi-ghi-ban-thu-117-cho-argentina-5083982.html",
+      "published_at": "Wed, 10 Jun 2026 10:36:40 +0700",
+      "createAt": "2026-06-10T03:36:40.000Z"
+    }
+  ]
 }
