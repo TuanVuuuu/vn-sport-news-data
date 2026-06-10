@@ -850,5 +850,29 @@
     "link": "https://vnexpress.net/apple-siri-duoc-dap-di-xay-lai-5083868.html",
     "published_at": "Wed, 10 Jun 2026 09:51:09 +0700",
     "createAt": "2026-06-10T02:51:09.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/am-thanh-nhu-tieng-sam-cua-ca-tam-sinh-san-5083746.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Âm thanh như tiếng sấm của cá tầm sinh sản",
+    "description": "Các nhà nghiên cứu ghi lại âm thanh giống tiếng sấm rền vang do những con cá tầm sống trên sông Hudson tạo ra trong mùa sinh sản.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/10/VNEThunder-1781063070-7908-1781063338.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=QLOl6CJ_ecaXAb8CUu4J7A",
+    "link": "https://vnexpress.net/am-thanh-nhu-tieng-sam-cua-ca-tam-sinh-san-5083746.html",
+    "published_at": "Wed, 10 Jun 2026 11:28:42 +0700",
+    "createAt": "2026-06-10T04:28:42.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/startup-trung-quoc-tao-chip-khong-can-may-quang-khac-cuc-tim-5083781.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Startup Trung Quốc tạo chip không cần máy quang khắc cực tím",
+    "description": "Startup Trung Quốc Prinano cho biết đã xác thực thành công quy trình sản xuất hàng loạt chip quang học mà không cần máy quang khắc cực tím sâu (DUV).",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/09/abuiabacgaag8t6swwyoinxr3wmwgb-7865-7249-1781000692.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ZFbuLQewbFo8paBGYGQzQA",
+    "link": "https://vnexpress.net/startup-trung-quoc-tao-chip-khong-can-may-quang-khac-cuc-tim-5083781.html",
+    "published_at": "Wed, 10 Jun 2026 11:29:36 +0700",
+    "createAt": "2026-06-10T04:29:36.000Z"
   }
 ]

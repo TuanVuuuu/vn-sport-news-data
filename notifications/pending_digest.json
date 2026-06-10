@@ -13,6 +13,18 @@
       "createAt": "2026-06-10T03:20:33.000Z"
     },
     {
+      "id": "https://vnexpress.net/thu-hoi-sach-chuyen-voi-thanh-5084004.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Thu hồi sách 'Chuyện với Thanh'",
+      "description": "Nhà xuất bản Hội Nhà văn thông báo dừng phát hành và thu hồi \"Chuyện với Thanh\" (tác giả Nguyễn Thành Nam), sau khi sách nhận nhiều phản ánh về nội dung.",
+      "thumbnail_url": null,
+      "link": "https://vnexpress.net/thu-hoi-sach-chuyen-voi-thanh-5084004.html",
+      "published_at": "Wed, 10 Jun 2026 10:23:34 +0700",
+      "createAt": "2026-06-10T03:23:34.000Z"
+    },
+    {
       "id": "https://vnexpress.net/messi-ghi-ban-thu-117-cho-argentina-5083982.html",
       "category_id": "featured",
       "category_name": "Tin nổi bật",
@@ -23,6 +35,42 @@
       "link": "https://vnexpress.net/messi-ghi-ban-thu-117-cho-argentina-5083982.html",
       "published_at": "Wed, 10 Jun 2026 10:36:40 +0700",
       "createAt": "2026-06-10T03:36:40.000Z"
+    },
+    {
+      "id": "https://vnexpress.net/hang-tram-canh-sat-bat-hon-400-nguoi-trong-chuyen-an-ma-tuy-5084018.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Hàng trăm cảnh sát bắt hơn 400 người trong chuyên án ma túy",
+      "description": "Bộ Công an phối hợp lực lượng chức năng 11 tỉnh thành triệt phá đường dây mua bán ma túy, bắt hơn 400 người, nhiều nhất từ trước đến nay trong một chuyên án.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/10/z7920301839651a782fdebc3341bc0-2052-3661-1781066591.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Gp15SIh69PR1Sw2y_fnlog",
+      "link": "https://vnexpress.net/hang-tram-canh-sat-bat-hon-400-nguoi-trong-chuyen-an-ma-tuy-5084018.html",
+      "published_at": "Wed, 10 Jun 2026 10:42:30 +0700",
+      "createAt": "2026-06-10T03:42:30.000Z"
+    },
+    {
+      "id": "https://vnexpress.net/dap-an-de-thi-lop-10-pho-thong-nang-khieu-2026-kem-thang-diem-chi-tiet-5083865.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Đáp án các môn thi lớp 10 trường Phổ thông Năng khiếu",
+      "description": "Đáp án và thang điểm chi tiết các môn thi vào lớp 10 được trường Phổ thông Năng khiếu công bố sáng 10/6.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/10/z7856541947133e4a5a52f75673c35-2788-1249-1781064542.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=rJZPPC6KFb7MspYdXY7-hw",
+      "link": "https://vnexpress.net/dap-an-de-thi-lop-10-pho-thong-nang-khieu-2026-kem-thang-diem-chi-tiet-5083865.html",
+      "published_at": "Wed, 10 Jun 2026 11:12:46 +0700",
+      "createAt": "2026-06-10T04:12:46.000Z"
+    },
+    {
+      "id": "https://vnexpress.net/iran-tuyen-bo-tan-cong-can-cu-f-35-my-o-jordan-5083971.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Iran tuyên bố tấn công căn cứ F-35 Mỹ ở Jordan",
+      "description": "Iran thông báo tập kích loạt căn cứ Mỹ ở Jordan, Kuwait và Bahrain để đáp trả những vụ không kích nhằm vào các thành phố gần eo biển Hormuz.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/10/F35AlUdeid1-1781064821-8126-1781064947.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=h-C0_Mu-hZxN1vWiPMw5XQ",
+      "link": "https://vnexpress.net/iran-tuyen-bo-tan-cong-can-cu-f-35-my-o-jordan-5083971.html",
+      "published_at": "Wed, 10 Jun 2026 11:18:18 +0700",
+      "createAt": "2026-06-10T04:18:18.000Z"
     }
   ]
 }
