@@ -1,6 +1,54 @@
 {
   "featured": [
     {
+      "id": "https://vnexpress.net/gia-dinh-chi-bao-nghi-duong-o-biet-thu-ven-bien-5084160.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Gia đình Chi Bảo nghỉ dưỡng ở biệt thự ven biển",
+      "description": "Diễn viên Chi Bảo cho biết biệt thự ven biển Côn Đảo là nơi gia đình có giây phút bình yên ở mỗi kỳ nghỉ.",
+      "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/06/10/biet-thu-view-bien-tren-dao-con-son-cua-gia-dinh-chi-bao18_1781094730-1781094748.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=g3I3e2cDfujl55saYEFNZQ",
+      "link": "https://vnexpress.net/gia-dinh-chi-bao-nghi-duong-o-biet-thu-ven-bien-5084160.html",
+      "published_at": "Wed, 10 Jun 2026 16:18:37 +0700",
+      "createAt": "2026-06-10T09:18:37.000Z"
+    },
+    {
+      "id": "https://vnexpress.net/messi-toi-tan-huong-world-cup-mot-cach-thanh-than-hon-5084189.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Messi: 'Tôi tận hưởng World Cup một cách thanh thản hơn'",
+      "description": "Thủ quân Lionel Messi khẳng định Argentina vẫn giữ nguyên khát vọng chinh phục World Cup 2026, dù anh bước vào giải với tâm thế thanh thản.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/06/10/lionel-messi-argentina-1781082-6521-6411-1781082183.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=qWUjbUMcpLRuRP4B2PXqCg",
+      "link": "https://vnexpress.net/messi-toi-tan-huong-world-cup-mot-cach-thanh-than-hon-5084189.html",
+      "published_at": "Wed, 10 Jun 2026 16:18:43 +0700",
+      "createAt": "2026-06-10T09:18:43.000Z"
+    },
+    {
+      "id": "https://vnexpress.net/an-do-tuyen-bo-se-ngan-nuoc-song-chay-sang-pakistan-5084146.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Ấn Độ tuyên bố sẽ ngăn nước sông chảy sang Pakistan",
+      "description": "Ấn Độ nói rằng họ đang xúc tiến biện pháp nhằm đảm bảo \"không giọt nước nào\" chảy sang nước láng giềng Pakistan, sau khi đình chỉ một hiệp ước nước quan trọng.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/10/afpfj663-v1-highres-pakistanwe-7345-1332-1781080748.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=P6ZsFRcVRx33QhAqCCjX4A",
+      "link": "https://vnexpress.net/an-do-tuyen-bo-se-ngan-nuoc-song-chay-sang-pakistan-5084146.html",
+      "published_at": "Wed, 10 Jun 2026 16:32:13 +0700",
+      "createAt": "2026-06-10T09:32:13.000Z"
+    },
+    {
+      "id": "https://vnexpress.net/hien-trang-duong-sat-ga-ha-noi-ngoc-hoi-truoc-de-xuat-di-doi-5084175.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Hiện trạng đường sắt ga Hà Nội - Ngọc Hồi trước đề xuất di dời",
+      "description": "Từ ga Hà Nội về Ngọc Hồi, đường sắt Bắc Nam dài khoảng 10 km chạy song song với quốc lộ 1, qua nhiều khu dân cư đông đúc và hàng loạt nút giao thông lớn.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/10/11-1781080694.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=3XVXnxqi2aU5cYApEEudHQ",
+      "link": "https://vnexpress.net/hien-trang-duong-sat-ga-ha-noi-ngoc-hoi-truoc-de-xuat-di-doi-5084175.html",
+      "published_at": "Wed, 10 Jun 2026 16:55:52 +0700",
+      "createAt": "2026-06-10T09:55:52.000Z"
+    },
+    {
       "id": "https://vnexpress.net/lien-doan-co-viet-nam-cam-dung-nhom-chat-de-tuyen-ky-thu-5084075.html",
       "category_id": "featured",
       "category_name": "Tin nổi bật",
@@ -83,6 +131,54 @@
       "link": "https://vnexpress.net/gan-15-000-thi-sinh-bo-lam-thu-tuc-thi-tot-nghiep-thpt-5083923.html",
       "published_at": "Wed, 10 Jun 2026 18:35:17 +0700",
       "createAt": "2026-06-10T11:35:17.000Z"
+    },
+    {
+      "id": "https://vnexpress.net/may-pha-rung-tim-gay-soc-dien-nham-5-lan-lien-tiep-5084223.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Máy phá rung tim gây sốc điện nhầm 5 lần liên tiếp",
+      "description": "Người đàn ông 47 tuổi bị máy phá rung tim sốc điện nhầm 5 lần liên tiếp trong một buổi sáng do dây điện cực của máy gặp sự cố.",
+      "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/10/2-bs-khie-m-thao-va-co-ng-su-p-9994-8187-1781087451.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=H5APUwcHIw9VHFbJ_WJ7eg",
+      "link": "https://vnexpress.net/may-pha-rung-tim-gay-soc-dien-nham-5-lan-lien-tiep-5084223.html",
+      "published_at": "Wed, 10 Jun 2026 18:41:10 +0700",
+      "createAt": "2026-06-10T11:41:10.000Z"
+    },
+    {
+      "id": "https://vnexpress.net/nguoi-phu-nu-ket-noi-bill-gates-voi-epstein-5083450.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Người phụ nữ kết nối Bill Gates với Epstein",
+      "description": "Từng là cộng sự thân cận của Bill Gates và người bạn lâu năm của Jeffrey Epstein, Melanie Walker đang trở thành mắt xích gây chú ý trong hồ sơ về tỷ phú ấu dâm.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/09/Melanie-Walker-1780990266-7059-1780991781.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=fyMMkb1_q5ZbxRYVh1WUZQ",
+      "link": "https://vnexpress.net/nguoi-phu-nu-ket-noi-bill-gates-voi-epstein-5083450.html",
+      "published_at": "Wed, 10 Jun 2026 19:00:00 +0700",
+      "createAt": "2026-06-10T12:00:00.000Z"
+    },
+    {
+      "id": "https://vnexpress.net/nasa-cong-bo-phi-hanh-doan-artemis-3-5084085.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "NASA công bố phi hành đoàn Artemis 3",
+      "description": "Bốn phi hành sẽ bay trong nhiệm vụ Artemis 3 lên quỹ đạo thấp của Trái Đất để thử nghiệm kết nối với tàu đổ bộ Mặt Trăng của SpaceX và Blue Origin.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/10/VNENASA-1781066948-7675-1781067022.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ZYtYqmAxBT9W1T9Tw5eOGg",
+      "link": "https://vnexpress.net/nasa-cong-bo-phi-hanh-doan-artemis-3-5084085.html",
+      "published_at": "Wed, 10 Jun 2026 19:00:00 +0700",
+      "createAt": "2026-06-10T12:00:00.000Z"
+    },
+    {
+      "id": "https://vnexpress.net/ong-trump-iran-se-phai-tra-gia-vi-keo-dai-dam-phan-5084247.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Ông Trump: Iran sẽ phải trả giá vì kéo dài đàm phán",
+      "description": "Tổng thống Trump cảnh báo Iran đã kéo dài đàm phán thỏa thuận quá lâu và nước này \"sẽ phải trả giá\" vì điều đó.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/10/afp-b3mn9rt-v1-highres-uspresi-8801-6628-1781093267.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=f8oUI0WmW-iVgbpzmXgNVA",
+      "link": "https://vnexpress.net/ong-trump-iran-se-phai-tra-gia-vi-keo-dai-dam-phan-5084247.html",
+      "published_at": "Wed, 10 Jun 2026 19:14:50 +0700",
+      "createAt": "2026-06-10T12:14:50.000Z"
     }
   ]
 }
