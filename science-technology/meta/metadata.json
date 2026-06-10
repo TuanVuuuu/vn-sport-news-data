@@ -1,5 +1,5 @@
 {
-  "total_articles": 180,
+  "total_articles": 181,
   "files": [
     "chunk_1.json",
     "chunk_2.json"
@@ -11,7 +11,7 @@
     "copyright": "",
     "logo_url": "https://s.vnecdn.net/vnexpress/i/v20/logos/vne_logo_rss.png",
     "link": "https://vnexpress.net/rss/khoa-hoc-cong-nghe.rss",
-    "last_updated": "Wed, 10 Jun 2026 19:20:41 +0700"
+    "last_updated": "Wed, 10 Jun 2026 19:31:04 +0700"
   },
-  "last_updated": "2026-06-10T13:20:46.555Z"
+  "last_updated": "2026-06-10T13:31:05.085Z"
 }
