@@ -670,5 +670,53 @@
     "link": "https://vnexpress.net/y-bac-si-ep-tim-cuu-nguoi-gap-tai-nan-nguy-kich-5083843.html",
     "published_at": "Wed, 10 Jun 2026 07:38:47 +0700",
     "createAt": "2026-06-10T00:38:47.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/be-9-tuoi-beo-phi-tien-dai-thao-duong-5083883.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Bé 9 tuổi béo phì, tiền đái tháo đường",
+    "description": "Hương, 9 tuổi, kháng insulin, chỉ số insulin máu lúc đói cao gấp 4 lần bình thường, bác sĩ chẩn đoán béo phì, tiền đái tháo đường.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/10/be-tuoi-dtd-1781048949-4984-1781049098.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=vDchij5NG-67yP9Ehc3nWA",
+    "link": "https://vnexpress.net/be-9-tuoi-beo-phi-tien-dai-thao-duong-5083883.html",
+    "published_at": "Wed, 10 Jun 2026 08:00:00 +0700",
+    "createAt": "2026-06-10T01:00:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/chong-mat-khi-thay-doi-tu-the-canh-bao-benh-gi-5083881.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Chóng mặt khi thay đổi tư thế cảnh báo bệnh gì?",
+    "description": "Tôi thường chóng mặt, cảm giác quay cuồng mỗi khi ngửa cổ hoặc trở mình, vài giây rồi hết. Đây là bệnh gì, có phải rối loạn tiền đình? (Kim Ngân, 35 tuổi, TP HCM)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/10/tmh-1781049240-6537-1781049532.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=amkRH4rEQadk85ID9KlhOQ",
+    "link": "https://vnexpress.net/chong-mat-khi-thay-doi-tu-the-canh-bao-benh-gi-5083881.html",
+    "published_at": "Wed, 10 Jun 2026 08:00:00 +0700",
+    "createAt": "2026-06-10T01:00:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/u-gan-lanh-tinh-co-can-dieu-tri-5083880.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "U gan lành tính có cần điều trị?",
+    "description": "U gan lành tính thường không cần điều trị, tuy nhiên nếu u lớn nguy cơ vỡ có thể được bác sĩ chỉ định phẫu thuật.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/10/bs-ua-n-1781048544-1283-1781048727.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=yz2Xa9S7BVJkD8EgtI6dGg",
+    "link": "https://vnexpress.net/u-gan-lanh-tinh-co-can-dieu-tri-5083880.html",
+    "published_at": "Wed, 10 Jun 2026 08:00:00 +0700",
+    "createAt": "2026-06-10T01:00:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/nguoi-dan-ong-mac-benh-thoai-hoa-dang-bot-5083878.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Người đàn ông mắc bệnh thoái hóa dạng bột",
+    "description": "Ông Đạt, 53 tuổi, tiêu chảy gần hai năm, sụt 7 kg trong 4 tháng, bác sĩ chẩn đoán mắc bệnh thoái hóa dạng bột.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/10/bao011-1781048123-3113-1781048252.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=5kcRKnPg-WNxUW2MtQC7Cw",
+    "link": "https://vnexpress.net/nguoi-dan-ong-mac-benh-thoai-hoa-dang-bot-5083878.html",
+    "published_at": "Wed, 10 Jun 2026 08:00:00 +0700",
+    "createAt": "2026-06-10T01:00:00.000Z"
   }
 ]
