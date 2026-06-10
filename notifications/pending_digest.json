@@ -191,6 +191,54 @@
       "link": "https://vnexpress.net/mau-xuong-khong-nguoi-lai-cuu-mang-phi-cong-my-gan-hormuz-5083908.html",
       "published_at": "Wed, 10 Jun 2026 20:00:00 +0700",
       "createAt": "2026-06-10T13:00:00.000Z"
+    },
+    {
+      "id": "https://vnexpress.net/ha-noi-kham-sang-loc-mien-phi-12-benh-pho-bien-cho-nguoi-dan-5084257.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Hà Nội khám sàng lọc miễn phí 12 bệnh phổ biến cho người dân",
+      "description": "Người dân Hà Nội được khám sàng lọc miễn phí 12 bệnh phổ biến như tăng huyết áp, đái tháo đường, ung thư và các rối loạn sức khỏe tâm thần.",
+      "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/10/1-1781095145-3429-1781095236.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=DJX-QlrovB4oqiVcATyCqg",
+      "link": "https://vnexpress.net/ha-noi-kham-sang-loc-mien-phi-12-benh-pho-bien-cho-nguoi-dan-5084257.html",
+      "published_at": "Wed, 10 Jun 2026 20:19:43 +0700",
+      "createAt": "2026-06-10T13:19:43.000Z"
+    },
+    {
+      "id": "https://vnexpress.net/de-xuat-thu-tuong-quyet-dinh-lich-nghi-le-hang-nam-5084256.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Đề xuất Thủ tướng quyết định lịch nghỉ lễ hàng năm",
+      "description": "Bộ Nội vụ đề xuất tùy điều kiện hàng năm, Thủ tướng quyết định cụ thể ngày nghỉ lễ, Bộ trưởng Nội vụ thông báo lịch trước ngày 31/12.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/10/AP25244185302086-1781094947-1540-1781095014.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=tkGsGHnIWU8m1BcogaF2WQ",
+      "link": "https://vnexpress.net/de-xuat-thu-tuong-quyet-dinh-lich-nghi-le-hang-nam-5084256.html",
+      "published_at": "Wed, 10 Jun 2026 20:48:55 +0700",
+      "createAt": "2026-06-10T13:48:55.000Z"
+    },
+    {
+      "id": "https://vnexpress.net/pho-tong-giam-doc-evn-doi-khung-gio-dien-cao-diem-khong-anh-huong-den-ho-gia-dinh-5084252.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Phó tổng giám đốc EVN: Đổi khung giờ điện cao điểm không ảnh hưởng đến hộ gia đình",
+      "description": "Chi phí tiền điện của các hộ gia đình sẽ không đổi, song doanh nghiệp cần điều chỉnh giờ sản xuất để thích ứng nếu khung giờ cao điểm mới được áp dụng, theo đại diện EVN.",
+      "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/06/10/ong-ngo-son-hai-evn-1781099515-2346-1781099559.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=T0d_gptIDEw9gVLiP7QrKw",
+      "link": "https://vnexpress.net/pho-tong-giam-doc-evn-doi-khung-gio-dien-cao-diem-khong-anh-huong-den-ho-gia-dinh-5084252.html",
+      "published_at": "Wed, 10 Jun 2026 20:52:39 +0700",
+      "createAt": "2026-06-10T13:52:39.000Z"
+    },
+    {
+      "id": "https://vnexpress.net/nam-sinh-khuyet-tat-tu-choi-dac-cach-thi-tot-nghiep-de-vao-dai-hoc-5084155.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Nam sinh khuyết tật từ chối đặc cách, thi tốt nghiệp để vào đại học",
+      "description": "Thuộc diện được đặc cách vì khuyết tật, song Ngọc Quang vẫn muốn thi tốt nghiệp để lấy điểm xét đại học, được Bộ Giáo dục đồng ý với phương án riêng.",
+      "thumbnail_url": null,
+      "link": "https://vnexpress.net/nam-sinh-khuyet-tat-tu-choi-dac-cach-thi-tot-nghiep-de-vao-dai-hoc-5084155.html",
+      "published_at": "Wed, 10 Jun 2026 21:08:18 +0700",
+      "createAt": "2026-06-10T14:08:18.000Z"
     }
   ]
 }
