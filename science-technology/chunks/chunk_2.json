@@ -790,5 +790,29 @@
     "link": "https://vnexpress.net/artemis-3-nhiem-vu-giup-nasa-dua-nguoi-len-mat-trang-5083286.html",
     "published_at": "Wed, 10 Jun 2026 00:00:00 +0700",
     "createAt": "2026-06-09T17:00:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/mang-truyen-so-lieu-chuyen-dung-se-tiep-tuc-duoc-nang-cap-5083823.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Mạng truyền số liệu chuyên dùng sẽ tiếp tục được nâng cấp",
+    "description": "Mạng truyền số liệu chuyên dùng sẽ được mở rộng, cải thiện chất lượng, để trở thành hạ tầng số dùng chung của hệ thống chính trị, bảo đảm an toàn thông tin từ Trung ương đến địa phương.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/09/d926512a836f55999db13e42351cf8-2681-8021-1781008873.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=gI_t_Zsp5EbKtBR0BN3d6A",
+    "link": "https://vnexpress.net/mang-truyen-so-lieu-chuyen-dung-se-tiep-tuc-duoc-nang-cap-5083823.html",
+    "published_at": "Tue, 09 Jun 2026 23:59:00 +0700",
+    "createAt": "2026-06-09T16:59:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/thach-thuc-voi-tai-san-tri-tue-la-dinh-gia-duoc-thi-truong-chap-nhan-hay-khong-5083614.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "'Thách thức với tài sản trí tuệ là định giá được thị trường chấp nhận hay không'",
+    "description": "Ông Lê Quang Vinh, nhà sáng lập Bross &amp; Partners, cho rằng tài sản trí tuệ có thể được định giá, nhưng không dễ đưa vào thị trường, đòi hỏi biện pháp để tham chiếu thông tin, chia sẻ rủi ro.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/09/lequangvinh-1780984219-7351-1780985407.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=2Pq9AzGy8t7wpuAKQY4vbA",
+    "link": "https://vnexpress.net/thach-thuc-voi-tai-san-tri-tue-la-dinh-gia-duoc-thi-truong-chap-nhan-hay-khong-5083614.html",
+    "published_at": "Wed, 10 Jun 2026 06:00:00 +0700",
+    "createAt": "2026-06-09T23:00:00.000Z"
   }
 ]
