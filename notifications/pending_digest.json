@@ -1,6 +1,30 @@
 {
   "featured": [
     {
+      "id": "https://vnexpress.net/cuoc-vay-rap-duong-day-ma-tuy-xuyen-11-tinh-bat-hon-400-nguoi-5084195.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Cuộc vây ráp đường dây ma túy xuyên 11 tỉnh, bắt hơn 400 người",
+      "description": "Từ việc bắt giữ ba nghi phạm cùng 49 kg ma túy và 14 bánh heroin, lực lượng chức năng lần ra đường dây ma túy hoạt động tại 11 tỉnh, thành.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/10/Sequence0200003717Still001-178-1382-6070-1781110751.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=lz7ikjYzwGK0GtKLctp5FQ",
+      "link": "https://vnexpress.net/cuoc-vay-rap-duong-day-ma-tuy-xuyen-11-tinh-bat-hon-400-nguoi-5084195.html",
+      "published_at": "Thu, 11 Jun 2026 00:00:00 +0700",
+      "createAt": "2026-06-10T17:00:00.000Z"
+    },
+    {
+      "id": "https://vnexpress.net/nha-sang-lap-notebooklm-ai-de-cung-dong-nao-khong-phai-de-viet-thay-5083420.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Nhà sáng lập NotebookLM: 'AI để cùng động não, không phải để viết thay'",
+      "description": "Steven Johnson, nhà đồng sáng lập NotebookLM, cho rằng AI phải thấu hiểu phong cách, thế giới quan của cá nhân để hỗ trợ, thay vì tạo ra những nội dung rập khuôn.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/09/stevenjohnson-9911-1780990156.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Rp0Oqml43-QS46547PCEEg",
+      "link": "https://vnexpress.net/nha-sang-lap-notebooklm-ai-de-cung-dong-nao-khong-phai-de-viet-thay-5083420.html",
+      "published_at": "Thu, 11 Jun 2026 07:00:00 +0700",
+      "createAt": "2026-06-11T00:00:00.000Z"
+    },
+    {
       "id": "https://vnexpress.net/iran-dong-eo-bien-hormuz-5084319.html",
       "category_id": "featured",
       "category_name": "Tin nổi bật",
@@ -23,6 +47,18 @@
       "link": "https://vnexpress.net/world-cup-2026-khoi-tranh-hom-nay-5084300.html",
       "published_at": "Thu, 11 Jun 2026 07:18:46 +0700",
       "createAt": "2026-06-11T00:18:46.000Z"
+    },
+    {
+      "id": "https://vnexpress.net/gia-vang-the-gioi-lao-doc-ve-duoi-4-100-usd-5084324.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Giá vàng thế giới lao dốc, về dưới 4.100 USD",
+      "description": "Mỗi ounce vàng mất gần 200 USD một phiên, hiện còn 4.045 USD - thấp nhất 3 tháng.",
+      "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/06/11/goldreu7-1781136644-4747-1781136675.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=E2s64LNJmbCN0NauZdvZzA",
+      "link": "https://vnexpress.net/gia-vang-the-gioi-lao-doc-ve-duoi-4-100-usd-5084324.html",
+      "published_at": "Thu, 11 Jun 2026 07:29:42 +0700",
+      "createAt": "2026-06-11T00:29:42.000Z"
     }
   ]
 }
