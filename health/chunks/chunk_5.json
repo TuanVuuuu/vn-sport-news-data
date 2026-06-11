@@ -70,5 +70,53 @@
     "link": "https://vnexpress.net/uong-qua-nhieu-nuoc-dua-co-hai-than-5084330.html",
     "published_at": "Thu, 11 Jun 2026 09:00:00 +0700",
     "createAt": "2026-06-11T02:00:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/dot-quy-do-khoi-sui-tu-tim-gay-tac-mach-nao-5084329.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Đột quỵ do khối sùi từ tim gây tắc mạch não",
+    "description": "Sau ba tuần sốt âm ỉ, bà Minh, 60 tuổi, bị đột quỵ do khối sùi ở tim di chuyển lên não gây tắc mạch máu.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/11/image001-1781136044-5788-1781136125.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=El4Xp9oXrT6Rojre4qKgHQ",
+    "link": "https://vnexpress.net/dot-quy-do-khoi-sui-tu-tim-gay-tac-mach-nao-5084329.html",
+    "published_at": "Thu, 11 Jun 2026 10:00:00 +0700",
+    "createAt": "2026-06-11T03:00:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/hep-nieu-dao-sau-tai-nan-5084215.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Hẹp niệu đạo sau tai nạn",
+    "description": "Tuấn, 18 tuổi, bị tai nạn lao động gãy xương chậu, rách thận, biến chứng hẹp niệu đạo gây khó tiểu.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/10/1-1781084924-7976-1781084981.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=ejX7Z6Qi0MDy_80ppQ0s-Q",
+    "link": "https://vnexpress.net/hep-nieu-dao-sau-tai-nan-5084215.html",
+    "published_at": "Thu, 11 Jun 2026 10:00:00 +0700",
+    "createAt": "2026-06-11T03:00:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/dich-sot-xuat-huyet-pha-vo-quy-luat-so-ca-tang-gap-2-lan-5084383.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Dịch sốt xuất huyết phá vỡ quy luật, số ca tăng gấp 2 lần",
+    "description": "Cả nước ghi nhận hơn 50.000 ca sốt xuất huyết trong 5 tháng đầu năm, tăng gấp 2,5 lần cùng kỳ năm ngoái, các chuyên gia cảnh báo dịch diễn biến khó lường, không còn tuân theo quy luật mùa vụ.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/11/anh-chup-man-hinh-luc-17811451-9606-3441-1781145149.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=Tov8pua7j5PfGeCy3FuO3w",
+    "link": "https://vnexpress.net/dich-sot-xuat-huyet-pha-vo-quy-luat-so-ca-tang-gap-2-lan-5084383.html",
+    "published_at": "Thu, 11 Jun 2026 10:03:33 +0700",
+    "createAt": "2026-06-11T03:03:33.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/nam-sinh-gay-xuong-dui-truoc-khi-thi-tot-nghiep-5084424.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Nam sinh gãy xương đùi trước khi thi tốt nghiệp",
+    "description": "Bị tai nạn giao thông gây gãy xương đùi hai ngày trước kỳ thi tốt nghiệp THPT, nam sinh 18 tuổi được mổ cấp cứu, xuất viện sớm để kịp dự thi.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/11/anh1-1781147068-1157-1781147136.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=wyHZ03DEMGkE3sop4ZvtTw",
+    "link": "https://vnexpress.net/nam-sinh-gay-xuong-dui-truoc-khi-thi-tot-nghiep-5084424.html",
+    "published_at": "Thu, 11 Jun 2026 10:15:00 +0700",
+    "createAt": "2026-06-11T03:15:00.000Z"
   }
 ]
