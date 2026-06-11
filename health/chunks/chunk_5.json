@@ -130,5 +130,41 @@
     "link": "https://vnexpress.net/uong-thuoc-tranh-thai-co-nguy-co-mac-ung-thu-5084430.html",
     "published_at": "Thu, 11 Jun 2026 11:00:00 +0700",
     "createAt": "2026-06-11T04:00:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/benh-chong-benh-do-beo-phi-5084480.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Bệnh chồng bệnh do béo phì",
+    "description": "Anh Thủy, 31 tuổi, tăng cân nhanh, bác sĩ chẩn đoán gan nhiễm mỡ tiến triển xơ gan, viêm gan B, béo phì.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/11/z7479837438321cde89d9e66df2878-2910-3234-1781151343.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=b-sM6UvqJY3i6FuU7JX2kw",
+    "link": "https://vnexpress.net/benh-chong-benh-do-beo-phi-5084480.html",
+    "published_at": "Thu, 11 Jun 2026 11:00:00 +0700",
+    "createAt": "2026-06-11T04:00:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/mo-ruot-thua-co-sinh-thuong-duoc-khong-5084413.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Mổ ruột thừa có sinh thường được không?",
+    "description": "Tôi sinh thường hai lần, lần này mang thai 21 tuần thì viêm ruột thừa. Phẫu thuật có ảnh hưởng thai kỳ, có thể sinh thường không? (Tâm Như, 32 tuổi, TP HCM)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/11/image001-1781145947-1433-1781145992.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=RWHk0L3PCpSZb5Xdrhi_nw",
+    "link": "https://vnexpress.net/mo-ruot-thua-co-sinh-thuong-duoc-khong-5084413.html",
+    "published_at": "Thu, 11 Jun 2026 11:00:00 +0700",
+    "createAt": "2026-06-11T04:00:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/nguoi-benh-hen-can-luu-y-gi-khi-du-lich-he-5084486.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Người bệnh hen cần lưu ý gì khi du lịch hè?",
+    "description": "Người bệnh hen nên khám hô hấp trước khi khởi hành, mang theo thuốc điều trị, hạn chế tiếp xúc khói bụi, phấn hoa để chuyến du lịch an toàn.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/11/image001-1781150997-8065-1781151081.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=PxYDVaX3KX-yb62VZ7mxIQ",
+    "link": "https://vnexpress.net/nguoi-benh-hen-can-luu-y-gi-khi-du-lich-he-5084486.html",
+    "published_at": "Thu, 11 Jun 2026 12:00:00 +0700",
+    "createAt": "2026-06-11T05:00:00.000Z"
   }
 ]
