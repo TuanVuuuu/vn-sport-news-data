@@ -970,5 +970,29 @@
     "link": "https://vnexpress.net/khai-mac-trien-lam-cong-nghiep-ho-tro-oto-viet-nam-5084567.html",
     "published_at": "Thu, 11 Jun 2026 16:12:04 +0700",
     "createAt": "2026-06-11T09:12:04.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/nguoi-viet-tiep-tuc-giam-mua-oto-5084598.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Người Việt tiếp tục giảm mua ôtô",
+    "description": "Doanh số ôtô của toàn ngành trong tháng 5 đạt 53.359 xe, giảm 12% so với tháng trước.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/11/anhlaithuvnms2025vnexpres69328-8021-8378-1781170715.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=I-ph1NArMJpMhMTMK-ha4g",
+    "link": "https://vnexpress.net/nguoi-viet-tiep-tuc-giam-mua-oto-5084598.html",
+    "published_at": "Fri, 12 Jun 2026 04:45:00 +0700",
+    "createAt": "2026-06-11T21:45:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/gac-gs3-emzoom-sap-chao-khach-viet-dong-co-tang-ap-adas-cap-hai-5084380.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "GAC GS3 Emzoom sắp chào khách Việt: động cơ tăng áp, ADAS cấp hai",
+    "description": "Mẫu CUV cỡ B GAC GS3 Emzoom dự kiến bán ra từ tháng 7 với duy nhất phiên bản Premium R, trang bị gói bodykit thể thao, ADAS cấp 2.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/11/DSCF9150-1781141808.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=GRORjjFCdC2Yakf93HVGvA",
+    "link": "https://vnexpress.net/gac-gs3-emzoom-sap-chao-khach-viet-dong-co-tang-ap-adas-cap-hai-5084380.html",
+    "published_at": "Fri, 12 Jun 2026 05:00:00 +0700",
+    "createAt": "2026-06-11T22:00:00.000Z"
   }
 ]
