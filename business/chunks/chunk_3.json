@@ -226,5 +226,41 @@
     "link": "https://vnexpress.net/gia-xang-dau-cung-giam-5084543.html",
     "published_at": "Thu, 11 Jun 2026 14:34:33 +0700",
     "createAt": "2026-06-11T07:34:33.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/gia-vang-moi-nhat-hom-nay-ngay-11-6-5084381.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Giá vàng thu hẹp đà giảm",
+    "description": "Các thương hiệu bán ra quanh mức 137 triệu đồng, tăng 1 triệu so với đầu giờ sáng nay.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/06/11/233A0837-2933-1781143877.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=NN2H7PhEuBPeoAv2Ztnt9Q",
+    "link": "https://vnexpress.net/gia-vang-moi-nhat-hom-nay-ngay-11-6-5084381.html",
+    "published_at": "Thu, 11 Jun 2026 09:27:51 +0700",
+    "createAt": "2026-06-11T02:27:51.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/nhieu-quy-lon-tang-giu-tien-mat-5084084.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Nhiều quỹ lớn tăng giữ tiền mặt",
+    "description": "Khi chứng khoán, bất động sản, vàng và tiền số đều gặp khó, tâm lý chuộng nắm giữ tiền mặt được dự báo lan rộng trong giới đầu tư.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/06/10/huy-1781066672-1755-1781066716.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=SygiVV0xQNEeuLkpPTxA0Q",
+    "link": "https://vnexpress.net/nhieu-quy-lon-tang-giu-tien-mat-5084084.html",
+    "published_at": "Thu, 11 Jun 2026 11:31:15 +0700",
+    "createAt": "2026-06-11T04:31:15.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/gia-xang-e10-giam-ve-sat-22-000-dong-5084543.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Giá xăng E10 giảm về sát 22.000 đồng",
+    "description": "Từ 15h ngày 11/6, giá xăng, dầu cùng giảm theo đà biến động của thị trường năng lượng thế giới.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/06/11/c91r3325jpg2-1781160366-2104-1781163078.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ZsoGfAoOrE6-zKt2PhQ3Tg",
+    "link": "https://vnexpress.net/gia-xang-e10-giam-ve-sat-22-000-dong-5084543.html",
+    "published_at": "Thu, 11 Jun 2026 14:34:33 +0700",
+    "createAt": "2026-06-11T07:34:33.000Z"
   }
 ]
