@@ -898,5 +898,65 @@
     "link": "https://vnexpress.net/nhu-cau-mpv-co-nho-tiep-tuc-tang-tai-viet-nam-5085018.html",
     "published_at": "Sat, 13 Jun 2026 05:30:00 +0700",
     "createAt": "2026-06-12T22:30:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/trong-tai-gay-soc-trong-tran-khai-mac-world-cup-2026-5084868.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Trọng tài gây sốc trong trận khai mạc World Cup 2026",
+    "description": "Vốn tiếng Anh hạn chế của trọng tài Wilton Sampaio khiến cầu thủ Nam Phi ngơ ngác không hiểu khi nhận thẻ đỏ, trong trận mở màn thua đồng chủ nhà Mexico ngày 11/6.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/06/12/ap261630267098551-1781238274-3311-1781238397.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=JNY2u7tp1X_zqwuOU9iwqw",
+    "link": "https://vnexpress.net/trong-tai-gay-soc-trong-tran-khai-mac-world-cup-2026-5084868.html",
+    "published_at": "Sat, 13 Jun 2026 05:57:11 +0700",
+    "createAt": "2026-06-12T22:57:11.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/cac-nuoc-chu-nha-world-cup-loi-hay-lo-5085160.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Các nước chủ nhà World Cup lời hay lỗ?",
+    "description": "World Cup mang lại hàng triệu du khách, hàng tỷ lượt xem nhưng phần lớn nước chủ nhà  phải gánh chi phí tổ chức cao hơn nhiều so với doanh thu trực tiếp.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/12/Thumbngang-1781272623-5964-1781272765.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=cziS67jXFdwwfI6b5VfSNQ",
+    "link": "https://vnexpress.net/cac-nuoc-chu-nha-world-cup-loi-hay-lo-5085160.html",
+    "published_at": "Sat, 13 Jun 2026 06:00:00 +0700",
+    "createAt": "2026-06-12T23:00:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/so-do-cap-lan-153-m2-dat-cho-con-re-bo-vo-kien-chinh-quyen-5084999.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Sổ đỏ cấp lấn 153 m2 đất cho con rể, bố vợ kiện chính quyền",
+    "description": "Phát hiện 153 m2 đất của mình bị cấp chồng lấn sang cho con rể rồi được chuyển nhượng cho người khác, ông Ngọc khởi kiện UBND huyện.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/12/vne8906-jpeg-1781256526-3359-1781256776.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=szhzEV2cyvrFHyy5V2OYkA",
+    "link": "https://vnexpress.net/so-do-cap-lan-153-m2-dat-cho-con-re-bo-vo-kien-chinh-quyen-5084999.html",
+    "published_at": "Sat, 13 Jun 2026 06:00:00 +0700",
+    "createAt": "2026-06-12T23:00:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/ong-bo-giam-doc-nghi-viec-o-nha-cham-dan-con-sinh-7-5084936.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Ông bố giám đốc nghỉ việc ở nhà chăm đàn con sinh 7",
+    "description": "Ông Liang Baojun, giám đốc công ty khai thác mỏ ở Bắc Kinh từ bỏ công việc, lui về làm hậu phương chăm sóc 7 con trai sinh cùng lúc để vợ đi làm.",
+    "thumbnail_url": "https://vcdn1-giadinh.vnecdn.net/2026/06/12/64380cd7912397dd0a0a97caeac661-9103-9790-1781239655.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=DwslCiWFEMxff6HdIhJ0Ww",
+    "link": "https://vnexpress.net/ong-bo-giam-doc-nghi-viec-o-nha-cham-dan-con-sinh-7-5084936.html",
+    "published_at": "Sat, 13 Jun 2026 06:00:00 +0700",
+    "createAt": "2026-06-12T23:00:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/chuyen-gia-giai-ma-che-do-uong-8-ly-nuoc-de-giam-beo-cua-phu-nu-nhat-5084508.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Chuyên gia giải mã chế độ uống 8 ly nước để giảm béo của phụ nữ Nhật",
+    "description": "Việc chia nhỏ lượng nước lọc uống mỗi hai tiếng giúp cơ thể luôn duy trì trạng thái vận hành tối ưu, thúc đẩy tiêu hao mỡ thừa hiệu quả",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/11/nuoc-1781165626-8482-1781166270.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=3j6kc_IFjePvtd0ir-svqQ",
+    "link": "https://vnexpress.net/chuyen-gia-giai-ma-che-do-uong-8-ly-nuoc-de-giam-beo-cua-phu-nu-nhat-5084508.html",
+    "published_at": "Sat, 13 Jun 2026 06:00:00 +0700",
+    "createAt": "2026-06-12T23:00:00.000Z"
   }
 ]
