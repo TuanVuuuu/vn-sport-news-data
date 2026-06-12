@@ -1,6 +1,18 @@
 {
   "featured": [
     {
+      "id": "https://vnexpress.net/san-mang-dang-o-nui-pu-rinh-5084744.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Săn măng đắng ở núi Pù Rinh",
+      "description": "Vào những ngày hè, dân xã Giao An lên núi Pù Rinh khai thác măng đắng làm thực phẩm, nguồn 'lộc rừng' này giúp dân bản có thêm nguồn thu nhập đáng kể.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/11/1-jpeg-1781191056-1193-1781191181.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=857YLHnTJ-2E0m3IJwTNnw",
+      "link": "https://vnexpress.net/san-mang-dang-o-nui-pu-rinh-5084744.html",
+      "published_at": "Fri, 12 Jun 2026 00:00:00 +0700",
+      "createAt": "2026-06-11T17:00:00.000Z"
+    },
+    {
       "id": "https://vnexpress.net/vu-kien-bao-hiem-khong-boi-thuong-oto-chay-voi-co-chua-tim-ra-thu-pham-5084707.html",
       "category_id": "featured",
       "category_name": "Tin nổi bật",
@@ -109,6 +121,18 @@
       "createAt": "2026-06-12T00:18:58.000Z"
     },
     {
+      "id": "https://vnexpress.net/spacex-huy-dong-ky-luc-75-ty-usd-qua-ipo-5084781.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "SpaceX huy động kỷ lục 75 tỷ USD qua IPO",
+      "description": "SpaceX của Musk chốt giá IPO 135 USD mỗi cổ phiếu, huy động 75 tỷ USD - đánh dấu thương vụ niêm yết lớn nhất lịch sử thị trường Mỹ.",
+      "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/06/12/2026t000000z-mt1nurpho000d9lrd-4926-7165-1781222781.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=zdBeG-kTUR1uc3M-rAAbqA",
+      "link": "https://vnexpress.net/spacex-huy-dong-ky-luc-75-ty-usd-qua-ipo-5084781.html",
+      "published_at": "Fri, 12 Jun 2026 07:18:58 +0700",
+      "createAt": "2026-06-12T00:18:58.000Z"
+    },
+    {
       "id": "https://vnexpress.net/mat-ma-de-doa-ong-trump-xuat-hien-o-quang-truong-quoc-gia-my-5084779.html",
       "category_id": "featured",
       "category_name": "Tin nổi bật",
@@ -145,6 +169,18 @@
       "createAt": "2026-06-12T00:45:54.000Z"
     },
     {
+      "id": "https://vnexpress.net/nha-mang-no-luc-xac-thuc-hang-trieu-thue-bao-truoc-han-khoa-sim-5084479.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Nhà mạng nỗ lực xác thực hàng triệu thuê bao trước hạn khóa SIM",
+      "description": "Một số nhà mạng đến thôn bản và địa chỉ nhà để hỗ trợ các chủ thuê bao, vì vẫn còn hàng triệu SIM chưa xác thực thông tin trước thời hạn 15/6.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/11/20260605-1781156068.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Eqxj3sIp6Ejus3o3sIaqAA",
+      "link": "https://vnexpress.net/nha-mang-no-luc-xac-thuc-hang-trieu-thue-bao-truoc-han-khoa-sim-5084479.html",
+      "published_at": "Fri, 12 Jun 2026 08:00:00 +0700",
+      "createAt": "2026-06-12T01:00:00.000Z"
+    },
+    {
       "id": "https://vnexpress.net/truc-tiep-han-quoc-vs-ch-czech-5084792.html",
       "category_id": "featured",
       "category_name": "Tin nổi bật",
@@ -155,6 +191,114 @@
       "link": "https://vnexpress.net/truc-tiep-han-quoc-vs-ch-czech-5084792.html",
       "published_at": "Fri, 12 Jun 2026 08:03:33 +0700",
       "createAt": "2026-06-12T01:03:33.000Z"
+    },
+    {
+      "id": "https://vnexpress.net/nhung-bo-oc-dac-biet-tai-world-cup-2026-5084716.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Những bộ óc đặc biệt tại World Cup 2026",
+      "description": "Trong 1.248 cầu thủ góp mặt tại World Cup 2026, có những người được mệnh danh là \"máy tính sống\", thậm chí từng tốt nghiệp Harvard hoặc nói được 9 ngôn ngữ khác nhau.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/06/11/world-cup-PNG-1781182456.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=U21nYuHnGQrL5cfKtuJRZw",
+      "link": "https://vnexpress.net/nhung-bo-oc-dac-biet-tai-world-cup-2026-5084716.html",
+      "published_at": "Fri, 12 Jun 2026 08:30:40 +0700",
+      "createAt": "2026-06-12T01:30:40.000Z"
+    },
+    {
+      "id": "https://vnexpress.net/nguoi-trung-quoc-lap-trung-tam-lua-dao-o-viet-nam-bi-bat-truoc-gio-hoat-dong-5084808.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Người Trung Quốc lập trung tâm lừa đảo ở Việt Nam, bị bắt trước giờ hoạt động",
+      "description": "Hàng chục người Trung Quốc từ Campuchia sang Việt Nam thuê địa điểm, lắp đặt thiết bị điện tử để chuẩn bị vận hành trung tâm lừa đảo thì bị phát hiện.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/12/2-1781227528-7517-1781227556.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=H8Z8-DF_8w_zTYaLH4DkaQ",
+      "link": "https://vnexpress.net/nguoi-trung-quoc-lap-trung-tam-lua-dao-o-viet-nam-bi-bat-truoc-gio-hoat-dong-5084808.html",
+      "published_at": "Fri, 12 Jun 2026 08:47:37 +0700",
+      "createAt": "2026-06-12T01:47:37.000Z"
+    },
+    {
+      "id": "https://vnexpress.net/oto-xe-may/v-car/doanh-so/5-xe-gam-thap-ban-nhieu-nhat-thi-truong-viet-nam-thang-5-5084812.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "5 xe gầm thấp bán nhiều nhất thị trường Việt Nam tháng 5",
+      "description": "Ba mẫu sedan cỡ B Toyota Vios, Honda City, Hyundai Accent giữ nhịp bán nhiều ở top đầu doanh số xe gầm thấp hàng tháng.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/12/xegamthapthang5-1781227275-6675-1781227464.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Xg6xe_TbpFltqgd1Bv6Zxw",
+      "link": "https://vnexpress.net/oto-xe-may/v-car/doanh-so/5-xe-gam-thap-ban-nhieu-nhat-thi-truong-viet-nam-thang-5-5084812.html",
+      "published_at": "Fri, 12 Jun 2026 09:27:00 +0700",
+      "createAt": "2026-06-12T02:27:00.000Z"
+    },
+    {
+      "id": "https://vnexpress.net/48-ma-de-tieng-anh-thi-tot-nghiep-thpt-2026-chi-tiet-day-du-nhat-5083987.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Đề Tiếng Anh thi tốt nghiệp THPT 2026",
+      "description": "Đề Tiếng Anh thi tốt nghiệp THPT có 40 câu hỏi, trong 50 phút, được trộn thành 48 mã đề.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/12/z7923729487616fd7cecd8b642b198-8486-4640-1781231152.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=DUa-_9RhVUx7ymkzbHIdNQ",
+      "link": "https://vnexpress.net/48-ma-de-tieng-anh-thi-tot-nghiep-thpt-2026-chi-tiet-day-du-nhat-5083987.html",
+      "published_at": "Fri, 12 Jun 2026 09:37:41 +0700",
+      "createAt": "2026-06-12T02:37:41.000Z"
+    },
+    {
+      "id": "https://vnexpress.net/dich-le-nhiet-ba-hoa-nang-tien-co-tich-5084815.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Địch Lệ Nhiệt Ba hóa nàng tiên cổ tích",
+      "description": "Minh tinh Trung Quốc Địch Lệ Nhiệt Ba diện thiết kế của Phan Huy chụp hình chủ đề thế giới cổ tích.",
+      "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/06/12/nhiet-ba5-1781232135.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=ndyZB9kipwm3Wuv4_vEBCg",
+      "link": "https://vnexpress.net/dich-le-nhiet-ba-hoa-nang-tien-co-tich-5084815.html",
+      "published_at": "Fri, 12 Jun 2026 09:39:15 +0700",
+      "createAt": "2026-06-12T02:39:15.000Z"
+    },
+    {
+      "id": "https://vnexpress.net/48-ma-de-vat-ly-thi-tot-nghiep-thpt-2026-kem-dap-an-chi-tiet-nhat-5084044.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Đề môn Vật lý thi tốt nghiệp THPT 2026",
+      "description": "Đề Vật lý thi tốt nghiệp THPT 2026 dành cho gần 390.000 thí sinh có phần trắc nghiệm bốn phương án; chọn Đúng/Sai và trả lời ngắn, làm trong 50 phút.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/12/z7925137604602-fdab4d547a53d04-6930-3998-1781230752.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=1nF-gf4VAQU6xF51ojuoOg",
+      "link": "https://vnexpress.net/48-ma-de-vat-ly-thi-tot-nghiep-thpt-2026-kem-dap-an-chi-tiet-nhat-5084044.html",
+      "published_at": "Fri, 12 Jun 2026 09:42:24 +0700",
+      "createAt": "2026-06-12T02:42:24.000Z"
+    },
+    {
+      "id": "https://vnexpress.net/de-thi-su-tot-nghiep-thpt-2026-cac-ma-de-kem-dap-an-chi-tiet-nhat-5084073.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Đề và đáp án gợi ý môn Sử thi tốt nghiệp THPT",
+      "description": "Hơn 570.000 thí sinh hoàn thành đề thi môn Sử tốt nghiệp THPT 2026, sáng 12/6.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/12/thi-1781231549-9905-1781231577.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=D5sAPqmxLdebt5LInSvuiA",
+      "link": "https://vnexpress.net/de-thi-su-tot-nghiep-thpt-2026-cac-ma-de-kem-dap-an-chi-tiet-nhat-5084073.html",
+      "published_at": "Fri, 12 Jun 2026 09:43:56 +0700",
+      "createAt": "2026-06-12T02:43:56.000Z"
+    },
+    {
+      "id": "https://vnexpress.net/iran-chuyen-du-thao-thoa-thuan-moi-nhat-cho-my-qua-qatar-5084819.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Iran 'chuyển dự thảo thỏa thuận mới nhất' cho Mỹ qua Qatar",
+      "description": "Iran được cho là đã thông qua dự thảo bản ghi nhớ chấm dứt chiến sự với Mỹ và chuyển tới Washington qua nước trung gian đàm phán là Qatar.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/12/ngu-o-i-pha-t-ngo-n-iran-17812-1831-1308-1781230246.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=01UrTOxzXgzikvuanXaokQ",
+      "link": "https://vnexpress.net/iran-chuyen-du-thao-thoa-thuan-moi-nhat-cho-my-qua-qatar-5084819.html",
+      "published_at": "Fri, 12 Jun 2026 09:52:14 +0700",
+      "createAt": "2026-06-12T02:52:14.000Z"
+    },
+    {
+      "id": "https://vnexpress.net/canada-muon-cam-tre-duoi-16-tuoi-dung-mang-xa-hoi-5084829.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Canada muốn cấm trẻ dưới 16 tuổi dùng mạng xã hội",
+      "description": "Canada trình dự luật cấm trẻ dưới 16 tuổi dùng mạng xã hội, siết tiêu chuẩn an toàn với chatbot AI, trước các rủi ro về sức khỏe tâm thần.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/12/2026t011550z-rc21sladinuy-rtrm-1680-7269-1781229577.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=uLMPn6JRL7HlH_jblB7Kww",
+      "link": "https://vnexpress.net/canada-muon-cam-tre-duoi-16-tuoi-dung-mang-xa-hoi-5084829.html",
+      "published_at": "Fri, 12 Jun 2026 09:52:25 +0700",
+      "createAt": "2026-06-12T02:52:25.000Z"
     }
   ]
 }
