@@ -526,5 +526,41 @@
     "link": "https://vnexpress.net/phau-thuat-bang-robot-tai-viet-nam-5084757.html",
     "published_at": "Fri, 12 Jun 2026 08:30:00 +0700",
     "createAt": "2026-06-12T01:30:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/noi-soi-cat-polyp-ruot-thua-nguy-co-ung-thu-5084788.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Nội soi cắt polyp ruột thừa nguy cơ ung thư",
+    "description": "Bà Vượng, 75 tuổi, đau bụng, trào ngược dạ dày thực quản, bác sĩ nội soi phát hiện polyp trong gốc ruột thừa nguy cơ tiến triển ung thư.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/12/noi-soi-phat-hie-n-polyp-ruot-6493-8840-1781226137.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=PXqU3f6hX1EzgBjMbCWQOw",
+    "link": "https://vnexpress.net/noi-soi-cat-polyp-ruot-thua-nguy-co-ung-thu-5084788.html",
+    "published_at": "Fri, 12 Jun 2026 09:00:00 +0700",
+    "createAt": "2026-06-12T02:00:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/ho-ngoc-ha-dong-hanh-chien-dich-chu-dong-khong-chu-quan-truoc-hpv-5084691.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Hồ Ngọc Hà đồng hành chiến dịch 'Chủ động không chủ quan' trước HPV",
+    "description": "Hồ Ngọc Hà đồng hành chiến dịch \"Chủ động không chủ quan - An tâm giữ trọn khoảnh khắc yêu thương\", nâng cao nhận thức cộng đồng về dự phòng sớm HPV.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/11/image001-1781175042-7265-1781175102.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=agiKPrSkvcr-DT0QNNbxqw",
+    "link": "https://vnexpress.net/ho-ngoc-ha-dong-hanh-chien-dich-chu-dong-khong-chu-quan-truoc-hpv-5084691.html",
+    "published_at": "Fri, 12 Jun 2026 09:00:00 +0700",
+    "createAt": "2026-06-12T02:00:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/nguoi-tiem-vaccine-sot-xuat-huyet-tai-vnvc-tang-hon-40-5084621.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Người tiêm vaccine sốt xuất huyết tại VNVC tăng hơn 40%",
+    "description": "Số ca mắc sốt xuất huyết tăng nhanh dù chưa phải cao điểm mùa mưa, khiến nhiều gia đình chủ động tiêm vaccine tại Hệ thống Tiêm chủng VNVC.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/11/1anhthanhtundnbvnanhtimngastxu-7204-8072-1781168057.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=2AoZ2-DS_ZDFX2nXgZA_ZQ",
+    "link": "https://vnexpress.net/nguoi-tiem-vaccine-sot-xuat-huyet-tai-vnvc-tang-hon-40-5084621.html",
+    "published_at": "Fri, 12 Jun 2026 09:00:00 +0700",
+    "createAt": "2026-06-12T02:00:00.000Z"
   }
 ]
