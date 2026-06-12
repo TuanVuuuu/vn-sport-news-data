@@ -61,6 +61,18 @@
       "createAt": "2026-06-12T09:22:43.000Z"
     },
     {
+      "id": "https://vnexpress.net/lo-ngai-ap-dung-cao-bang-he-so-k-khi-thu-hoi-dat-5084859.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Lo ngại áp dụng 'cào bằng' hệ số K khi thu hồi đất",
+      "description": "Chuyên gia cho rằng không nên áp dụng một hệ số K chung cho mọi loại hình, có thể làm sai lệch giá trị và ảnh hưởng tốc độ thu hồi đất.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/12/bds-ha-noi-1781249823-7576-1781250100.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=KvZVb8wfFjdtxbjzRD650Q",
+      "link": "https://vnexpress.net/lo-ngai-ap-dung-cao-bang-he-so-k-khi-thu-hoi-dat-5084859.html",
+      "published_at": "Fri, 12 Jun 2026 16:52:36 +0700",
+      "createAt": "2026-06-12T09:52:36.000Z"
+    },
+    {
       "id": "https://vnexpress.net/du-kien-khong-mo-duong-ven-ho-tay-ve-phia-khu-dan-cu-5085082.html",
       "category_id": "featured",
       "category_name": "Tin nổi bật",
@@ -191,6 +203,18 @@
       "link": "https://vnexpress.net/chu-tich-va-tong-giam-doc-cong-ty-tu-van-xay-dung-dien-4-bi-bat-5085147.html",
       "published_at": "Fri, 12 Jun 2026 19:47:42 +0700",
       "createAt": "2026-06-12T12:47:42.000Z"
+    },
+    {
+      "id": "https://vnexpress.net/facebook-messenger-gap-su-co-dien-rong-5085162.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Facebook, Messenger gặp sự cố diện rộng",
+      "description": "Nhiều người dùng tại Việt Nam tối 12/6 phản ánh Facebook và Messenger gặp trục trặc, không xem được nội dung cũng như không gửi, nhận hoặc tải tin nhắn.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/12/fb-jpeg-1781273617-7769-1781273649.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=YhOwc-lNjMV0WaII9kpV8w",
+      "link": "https://vnexpress.net/facebook-messenger-gap-su-co-dien-rong-5085162.html",
+      "published_at": "Fri, 12 Jun 2026 21:07:23 +0700",
+      "createAt": "2026-06-12T14:07:23.000Z"
     }
   ]
 }
