@@ -1,3 +1,16 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/iran-tuyen-bo-danh-trung-dai-radar-tren-ngon-nui-cao-nhat-bahrain-5084822.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Iran tuyên bố đánh trúng đài radar trên ngọn núi cao nhất Bahrain",
+      "description": "Truyền thông Iran nói nước này đã đánh trúng radar cảnh báo sớm đặt tại vị trí cao nhất ở Bahrain, khi tập kích trả đũa Mỹ.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/12/Settop-1781231998-2304-1781232474.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=pBN66IzrLwy8bxuBsW86xQ",
+      "link": "https://vnexpress.net/iran-tuyen-bo-danh-trung-dai-radar-tren-ngon-nui-cao-nhat-bahrain-5084822.html",
+      "published_at": "Fri, 12 Jun 2026 10:17:39 +0700",
+      "createAt": "2026-06-12T03:17:39.000Z"
+    }
+  ]
 }
