@@ -562,5 +562,77 @@
     "link": "https://vnexpress.net/nguoi-tiem-vaccine-sot-xuat-huyet-tai-vnvc-tang-hon-40-5084621.html",
     "published_at": "Fri, 12 Jun 2026 09:00:00 +0700",
     "createAt": "2026-06-12T02:00:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/thieu-nu-17-tuoi-hong-mot-ben-voi-tu-cung-do-di-tat-hiem-gap-5084740.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Thiếu nữ 17 tuổi hỏng một bên vòi tử cung do dị tật hiếm gặp",
+    "description": "Tưởng đau bụng kinh tuổi dậy thì, thiếu nữ 17 tuổi đi khám mới phát hiện mắc dị tật bẩm sinh hiếm gặp, vòi tử cung đã bị hoại tử, biến dạng.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/11/233a1322-1781190715-2902-1781191655.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=XxRstYKcTiQZOq65sHt42A",
+    "link": "https://vnexpress.net/thieu-nu-17-tuoi-hong-mot-ben-voi-tu-cung-do-di-tat-hiem-gap-5084740.html",
+    "published_at": "Fri, 12 Jun 2026 10:21:13 +0700",
+    "createAt": "2026-06-12T03:21:13.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/bac-si-my-khuyen-cao-5-thoi-quen-can-tranh-truoc-9h-sang-de-bao-ve-trai-tim-5084536.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Bác sĩ Mỹ khuyến cáo 5 thói quen cần tránh trước 9h sáng để bảo vệ trái tim",
+    "description": "Để bảo vệ tim mạch, bác sĩ khuyên tránh dùng đồ ngọt, thịt chế biến sẵn, nước tăng lực và để cơ thể căng thẳng khi bụng đói trước 9h sáng.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/11/screenshot-at-1781159077-5840-1781159138.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=ZP1MkOvmZSeT50KK57Wsdw",
+    "link": "https://vnexpress.net/bac-si-my-khuyen-cao-5-thoi-quen-can-tranh-truoc-9h-sang-de-bao-ve-trai-tim-5084536.html",
+    "published_at": "Fri, 12 Jun 2026 11:00:00 +0700",
+    "createAt": "2026-06-12T04:00:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/khi-nao-xa-tri-ung-thu-tuyen-tien-liet-5084885.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Khi nào xạ trị ung thư tuyến tiền liệt?",
+    "description": "Xạ trị có thể điều trị triệt căn ung thư tuyến tiền liệt giai đoạn sớm, phòng ngừa tái phát sau phẫu thuật, giảm nhẹ triệu chứng ở giai đoạn bệnh tiến triển.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/12/xa-tri-crop-1781234184-9282-1781234317.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=lGBUeItNbh5OmyTAe0Za6w",
+    "link": "https://vnexpress.net/khi-nao-xa-tri-ung-thu-tuyen-tien-liet-5084885.html",
+    "published_at": "Fri, 12 Jun 2026 11:00:00 +0700",
+    "createAt": "2026-06-12T04:00:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/viem-amidan-nhiem-trung-gay-viem-co-tim-5084831.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Viêm amidan nhiễm trùng gây viêm cơ tim",
+    "description": "Anh Hải, 35 tuổi, đau ngực, sốt sau điều trị viêm amidan cấp, bác sĩ phát hiện viêm cơ tim, suy tim cấp do nhiễm trùng.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/12/a-nh-no-i-soi-ta-i-kha-m-17812-9094-3418-1781231169.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=UYgnxx3nAmwhCbN6TFbldA",
+    "link": "https://vnexpress.net/viem-amidan-nhiem-trung-gay-viem-co-tim-5084831.html",
+    "published_at": "Fri, 12 Jun 2026 11:00:00 +0700",
+    "createAt": "2026-06-12T04:00:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/nhiem-toan-ho-hap-do-beo-phi-5084821.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Nhiễm toan hô hấp do béo phì",
+    "description": "Anh Toàn, 32 tuổi, hụt hơi, mệt mỏi, kiệt sức, đánh trống ngực, bác sĩ xác định nhiễm toan hô hấp do béo phì.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/12/retouch-1781228241-4865-1781228612.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=sxgrCroyumrstriNBn1H5A",
+    "link": "https://vnexpress.net/nhiem-toan-ho-hap-do-beo-phi-5084821.html",
+    "published_at": "Fri, 12 Jun 2026 11:00:00 +0700",
+    "createAt": "2026-06-12T04:00:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/so-ca-nhoi-mau-co-tim-o-nguoi-tre-tang-dot-bien-5084856.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Nhồi máu cơ tim ở người trẻ tăng đột biến",
+    "description": "Số ca nhồi máu cơ tim cấp tại Bệnh viện Nhân dân Gia Định tăng 42% trong hai tuần gần đây, nhiều bệnh nhân dưới 40 tuổi nhập viện cấp cứu sau các dấu hiệu đau ngực, khó thở.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/12/dsc07099-jpg-1781235384-5819-1781235420.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=g7XXBgKss1TlNG6LnUhe5w",
+    "link": "https://vnexpress.net/so-ca-nhoi-mau-co-tim-o-nguoi-tre-tang-dot-bien-5084856.html",
+    "published_at": "Fri, 12 Jun 2026 11:29:55 +0700",
+    "createAt": "2026-06-12T04:29:55.000Z"
   }
 ]
