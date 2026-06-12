@@ -682,5 +682,65 @@
     "link": "https://vnexpress.net/vi-sao-can-co-bap-khoe-manh-5084928.html",
     "published_at": "Fri, 12 Jun 2026 13:00:00 +0700",
     "createAt": "2026-06-12T06:00:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/su-that-ve-thuc-don-6-000-calo-tu-tim-gan-bo-cua-sieu-cau-thu-haaland-5084871.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Sự thật về thực đơn 6.000 calo từ tim gan bò của siêu cầu thủ Haaland",
+    "description": "Chế độ ăn 6.000 calo từ tim, gan bò và sữa chưa qua tiệt trùng là \"vũ khí thể lực\" giúp tiền đạo Erling Haaland lập nên những kỷ lục trước thềm World Cup 2026.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/12/cauthu0-1781242463-6231-1781243753.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Hm5bl5w4yUIOi9_c8ptEyw",
+    "link": "https://vnexpress.net/su-that-ve-thuc-don-6-000-calo-tu-tim-gan-bo-cua-sieu-cau-thu-haaland-5084871.html",
+    "published_at": "Fri, 12 Jun 2026 13:46:36 +0700",
+    "createAt": "2026-06-12T06:46:36.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/co-can-an-ca-hoi-moi-ngay-moi-du-omega-3-5084750.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Có cần ăn cá hồi mỗi ngày mới đủ Omega-3?",
+    "description": "Nhiều người nói cá hồi giàu omega-3, nên ăn hàng ngày để bổ sung dinh dưỡng cho cơ thể mà không cần ăn thêm thực phẩm khác, điều này có đúng? (Hòa, 29 tuổi, Hà Nội).",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/11/nauchaocahoichobevoiraugi3-178-4799-1365-1781192724.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=Rrsk0t6hRnnZaHZCIE1P3A",
+    "link": "https://vnexpress.net/co-can-an-ca-hoi-moi-ngay-moi-du-omega-3-5084750.html",
+    "published_at": "Fri, 12 Jun 2026 13:55:14 +0700",
+    "createAt": "2026-06-12T06:55:14.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/vi-sao-khop-goi-de-bi-thoai-hoa-5084959.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Vì sao khớp gối dễ bị thoái hóa?",
+    "description": "Khớp gối phải chịu áp lực lớn mỗi ngày khi đi lại, leo cầu thang, mang vác hay chơi thể thao khiến sụn khớp dần bào mòn, tăng nguy cơ thoái hóa theo tuổi tác.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/12/theo-tho-i-gian-su-n-va-xu-o-n-7679-3940-1781241347.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=aCrkoNCfP6SqdKsa2yiy-Q",
+    "link": "https://vnexpress.net/vi-sao-khop-goi-de-bi-thoai-hoa-5084959.html",
+    "published_at": "Fri, 12 Jun 2026 14:00:00 +0700",
+    "createAt": "2026-06-12T07:00:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/moi-ngay-an-nua-can-vai-co-giup-ngua-ung-thu-5084940.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Mỗi ngày ăn nửa cân vải có giúp ngừa ung thư?",
+    "description": "Trái vải có nhiều vào mùa hè, tôi ăn mỗi ngày nửa cân và trữ khô để ăn dần có giúp ngừa ung thư không? (Ngọc Ngạn, Bắc Giang)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/12/qua-vai-1781238016-7281-1781238198.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=CRMMy2ykDkLUhtCUGSMXFw",
+    "link": "https://vnexpress.net/moi-ngay-an-nua-can-vai-co-giup-ngua-ung-thu-5084940.html",
+    "published_at": "Fri, 12 Jun 2026 14:00:00 +0700",
+    "createAt": "2026-06-12T07:00:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/tat-ca-thuc-an-ban-tru-nhiem-khuan-khien-81-nguoi-dong-thap-ngo-doc-5084971.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Tất cả thức ăn bán trú nhiễm khuẩn khiến 81 người Đồng Tháp ngộ độc",
+    "description": "Kết quả kiểm nghiệm cho thấy toàn bộ 8 món ăn trong thực đơn bán trú tại Trường Tiểu học Kim Đồng, phường Sa Đéc, đều nhiễm vi khuẩn, khiến 81 người ngộ độc.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/12/ngo-doc-o-dong-thap-1781244386-6403-1781244389.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=PAYmlxUSAw8jLkoLhcQDCA",
+    "link": "https://vnexpress.net/tat-ca-thuc-an-ban-tru-nhiem-khuan-khien-81-nguoi-dong-thap-ngo-doc-5084971.html",
+    "published_at": "Fri, 12 Jun 2026 14:26:24 +0700",
+    "createAt": "2026-06-12T07:26:24.000Z"
   }
 ]
