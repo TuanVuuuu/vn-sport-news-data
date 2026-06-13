@@ -1078,5 +1078,41 @@
     "link": "https://vnexpress.net/chi-so-du-tru-buong-trung-thap-co-cai-thien-duoc-khong-5085280.html",
     "published_at": "Sat, 13 Jun 2026 12:00:00 +0700",
     "createAt": "2026-06-13T05:00:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/suc-khoe/cam-nang/ung-thu-mat-433",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Ung thư mắt",
+    "description": "Ung thư mắt là tình trạng tế bào bất thường phát triển không kiểm soát trong các cấu trúc hoặc mô xung quanh mắt.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/12/commat-1781254532-4250-1781254576.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=cgOPEI_bNwuzxD1CKo0Uag",
+    "link": "https://vnexpress.net/suc-khoe/cam-nang/ung-thu-mat-433",
+    "published_at": "Sat, 13 Jun 2026 13:00:00 +0700",
+    "createAt": "2026-06-13T06:00:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/long-chau-dat-dau-moc-moi-trong-mo-rong-chuoi-nha-thuoc-5085318.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Long Châu đạt dấu mốc mới trong mở rộng chuỗi nhà thuốc",
+    "description": "Long Châu vừa đạt mốc 2.678 nhà thuốc, góp phần thu hẹp khoảng cách chăm sóc y tế giữa thành thị và nông thôn; nâng cao khả năng tiếp cận sản phẩm, dịch vụ y tế trong cộng đồng.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/13/1-1781327753-7884-1781328196.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=rC_54Rxwifnk8MjGJGkuVQ",
+    "link": "https://vnexpress.net/long-chau-dat-dau-moc-moi-trong-mo-rong-chuoi-nha-thuoc-5085318.html",
+    "published_at": "Sat, 13 Jun 2026 13:00:00 +0700",
+    "createAt": "2026-06-13T06:00:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/dau-hieu-long-da-khop-5085283.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Dấu hiệu lỏng đa khớp",
+    "description": "Lỏng đa khớp có thể gây đau nhức, cứng khớp, giảm thăng bằng và trật khớp tái diễn nhiều lần.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/13/long-da-khop-1781321346-5985-1781321518.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=g-KagRgKXlpncsIYuyGvSw",
+    "link": "https://vnexpress.net/dau-hieu-long-da-khop-5085283.html",
+    "published_at": "Sat, 13 Jun 2026 13:00:00 +0700",
+    "createAt": "2026-06-13T06:00:00.000Z"
   }
 ]
