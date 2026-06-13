@@ -970,5 +970,41 @@
     "link": "https://vnexpress.net/dieu-tri-ung-thu-gan-giai-doan-som-the-nao-5085199.html",
     "published_at": "Sat, 13 Jun 2026 09:00:00 +0700",
     "createAt": "2026-06-13T02:00:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/khi-nao-nen-hut-mui-cho-tre-5085229.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Khi nào nên hút mũi cho trẻ?",
+    "description": "Hút mũi đúng cách giúp trẻ dễ thở khi nghẹt mũi, nhưng nếu thực hiện sai hoặc nhiều lần có thể gây tổn thương niêm mạc, kích ứng đường hô hấp.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/13/image001-1781313270-5979-1781313305.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ZSj7atXipl0YKhJil9kNuA",
+    "link": "https://vnexpress.net/khi-nao-nen-hut-mui-cho-tre-5085229.html",
+    "published_at": "Sat, 13 Jun 2026 10:00:00 +0700",
+    "createAt": "2026-06-13T03:00:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/benh-mu-mau-co-di-truyen-khong-5085225.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Bệnh mù màu có di truyền không?",
+    "description": "Tôi đang mang thai 17 tuần, mắc bệnh mù màu thì có di truyền cho con không? (Loan, Thủ Đức)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/13/image001-1781312888-4939-1781312962.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Cmg9c8v8QEKOaSAjO66Jtw",
+    "link": "https://vnexpress.net/benh-mu-mau-co-di-truyen-khong-5085225.html",
+    "published_at": "Sat, 13 Jun 2026 10:00:00 +0700",
+    "createAt": "2026-06-13T03:00:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/choi-bong-da-co-loi-cho-sinh-ly-nam-the-nao-5085063.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Chơi bóng đá có lợi cho sinh lý nam thế nào",
+    "description": "Chơi bóng đá và vận động thể thao thường xuyên có thể giúp cải thiện sức khỏe tổng thể, hỗ trợ tăng testosterone, góp phần cải thiện sinh lý nam.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/12/11-1781253264-7399-1781253280.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=kwdwA6zqYjx_HFoBaelA0w",
+    "link": "https://vnexpress.net/choi-bong-da-co-loi-cho-sinh-ly-nam-the-nao-5085063.html",
+    "published_at": "Sat, 13 Jun 2026 10:00:00 +0700",
+    "createAt": "2026-06-13T03:00:00.000Z"
   }
 ]
