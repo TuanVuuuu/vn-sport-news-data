@@ -1162,5 +1162,29 @@
     "link": "https://vnexpress.net/vi-sao-vaccine-dai-can-tiem-lai-tu-dau-5085310.html",
     "published_at": "Sat, 13 Jun 2026 14:00:00 +0700",
     "createAt": "2026-06-13T07:00:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/phu-nu-tre-bi-son-tieu-co-phai-mac-benh-tiet-nieu-5085279.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Phụ nữ trẻ bị són tiểu có phải mắc bệnh tiết niệu?",
+    "description": "Tôi 29 tuổi, chưa sinh con, gần đây thỉnh thoảng bị són tiểu khi ho mạnh hoặc cười lớn. Tình trạng này có đáng lo, có phải dấu hiệu bệnh tiết niệu không? (Minh Anh, Phú Thọ)",
+    "thumbnail_url": null,
+    "link": "https://vnexpress.net/phu-nu-tre-bi-son-tieu-co-phai-mac-benh-tiet-nieu-5085279.html",
+    "published_at": "Sat, 13 Jun 2026 17:00:00 +0700",
+    "createAt": "2026-06-13T10:00:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/nhung-mon-nen-an-sau-17h-ho-tro-on-dinh-duong-huyet-5085193.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Những món nên ăn sau 17h hỗ trợ ổn định đường huyết",
+    "description": "Rau ít tinh bột, các loại hạt giàu chất xơ và cá béo cung cấp protein cùng chất béo lành mạnh có thể làm chậm hấp thu carbohydrate.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/13/453205484-n-1781304841-7690-1781305016.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=GTNERQdWJhUDNAgwKDgz7Q",
+    "link": "https://vnexpress.net/nhung-mon-nen-an-sau-17h-ho-tro-on-dinh-duong-huyet-5085193.html",
+    "published_at": "Sat, 13 Jun 2026 17:00:00 +0700",
+    "createAt": "2026-06-13T10:00:00.000Z"
   }
 ]
