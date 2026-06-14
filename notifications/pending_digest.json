@@ -1,3 +1,64 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/ancelotti-bi-chi-trich-chon-sai-doi-hinh-xuat-phat-brazil-5085521.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Ancelotti bị chỉ trích chọn sai đội hình xuất phát Brazil",
+      "description": "Theo cựu tiền vệ Felipe Melo, HLV Carlo Ancelotti mắc sai lầm trong việc lựa chọn đội hình xuất phát, khiến Brazil chơi dưới sức và hòa Morocco 1-1 ở trận ra quân bảng C World Cup 2026.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/06/14/brazil-png-1781404146-7650-1781404585.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=ev5s0udvhdaG9Xev3xq3eQ",
+      "link": "https://vnexpress.net/ancelotti-bi-chi-trich-chon-sai-doi-hinh-xuat-phat-brazil-5085521.html",
+      "published_at": "Sun, 14 Jun 2026 10:06:09 +0700",
+      "createAt": "2026-06-14T03:06:09.000Z"
+    },
+    {
+      "id": "https://vnexpress.net/5-nam-nuoi-day-tre-mo-coi-sau-covid-19-tai-truong-hy-vong-5085444.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "5 năm nuôi dạy trẻ mồ côi sau Covid-19 tại Trường Hy Vọng",
+      "description": "Trường Hy Vọng nuôi dạy hơn 300 trẻ mồ côi sau Covid-19, đã trải qua hành trình 5 năm với sự đồng hành, sẻ chia của cộng đồng.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/14/DSC09051-JPG-1781405293.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=jjjwDHxzH2SivHHboO5RHQ",
+      "link": "https://vnexpress.net/5-nam-nuoi-day-tre-mo-coi-sau-covid-19-tai-truong-hy-vong-5085444.html",
+      "published_at": "Sun, 14 Jun 2026 10:26:56 +0700",
+      "createAt": "2026-06-14T03:26:56.000Z"
+    },
+    {
+      "id": "https://vnexpress.net/canh-sat-dung-flycam-theo-doi-tam-giu-31-nguoi-tai-truong-ga-o-tay-nguyen-5085533.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Cảnh sát dùng flycam theo dõi, tạm giữ 31 người tại trường gà ở Tây Nguyên",
+      "description": "Các trinh sát mật phục, sử dụng flycam theo dõi, đột kích sới gà quy mô lớn ở xã Ia Ko, bắt 31 người.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/14/z793437029753409ce64fe5f6fb21f-3942-5215-1781407353.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=3om-wgl24d5mo3BXPW559A",
+      "link": "https://vnexpress.net/canh-sat-dung-flycam-theo-doi-tam-giu-31-nguoi-tai-truong-ga-o-tay-nguyen-5085533.html",
+      "published_at": "Sun, 14 Jun 2026 10:46:44 +0700",
+      "createAt": "2026-06-14T03:46:44.000Z"
+    },
+    {
+      "id": "https://vnexpress.net/ancelotti-khong-ai-vo-dich-world-cup-chi-sau-mot-tran-5085522.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Ancelotti: 'Không ai vô địch World Cup chỉ sau một trận'",
+      "description": "Thừa nhận Brazil chơi không như kế hoạch, nhưng HLV Carlo Ancelotti vẫn hài lòng về kết quả 1-1 trước Morocco ở trận ra quân bảng C World Cup 2026.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/06/14/ap261648489970771-1781406407-5109-1781406533.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=BlOJpX-GiyDKize0Tef9rA",
+      "link": "https://vnexpress.net/ancelotti-khong-ai-vo-dich-world-cup-chi-sau-mot-tran-5085522.html",
+      "published_at": "Sun, 14 Jun 2026 11:05:19 +0700",
+      "createAt": "2026-06-14T04:05:19.000Z"
+    },
+    {
+      "id": "https://vnexpress.net/rapper-phao-toi-muon-la-hoa-hau-5084443.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Rapper Pháo: Tôi muốn là hoa hậu",
+      "description": "Pháo đặt mục tiêu cao nhất khi thi Miss Grand Vietnam 2026, không bận tâm những nhận xét cô có chiều cao và ngoại hình chưa phù hợp.",
+      "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/06/14/Pho3-1781407104-1341-1781408675.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=U2WTCkmgHIwJAtyf90MzNA",
+      "link": "https://vnexpress.net/rapper-phao-toi-muon-la-hoa-hau-5084443.html",
+      "published_at": "Sun, 14 Jun 2026 11:05:38 +0700",
+      "createAt": "2026-06-14T04:05:38.000Z"
+    }
+  ]
 }
