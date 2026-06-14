@@ -142,5 +142,29 @@
     "link": "https://vnexpress.net/toyota-altis-ngung-ban-tai-viet-nam-5085601.html",
     "published_at": "Mon, 15 Jun 2026 04:00:00 +0700",
     "createAt": "2026-06-14T21:00:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/byd-dua-tram-sac-xe-dien-5-phut-dau-tien-ra-nuoc-ngoai-5085540.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "BYD đưa trạm sạc xe điện 5 phút đầu tiên ra nước ngoài",
+    "description": "BYD triển khai trạm sạc 1.500 kW đầu tiên tại Anh và châu Âu, cho phép xe tương thích sạc từ 10-70% pin trong 5 phút.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/14/byd-denza-z9gt-ev-europe-fast-6397-7254-1781407998.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=8V0lDahwYuUNEXTIyXqxIw",
+    "link": "https://vnexpress.net/byd-dua-tram-sac-xe-dien-5-phut-dau-tien-ra-nuoc-ngoai-5085540.html",
+    "published_at": "Mon, 15 Jun 2026 05:00:00 +0700",
+    "createAt": "2026-06-14T22:00:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/hyundai-nham-nhe-vuot-ford-tai-my-nho-xe-hybrid-5085544.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Hyundai nhăm nhe vượt Ford tại Mỹ nhờ xe hybrid",
+    "description": "Doanh số xe hybrid tăng mạnh giúp tập đoàn Hàn Quốc nâng thị phần lên 11,8%, thu hẹp khoảng cách với hãng xe Mỹ đứng thứ ba thị trường.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/14/gzqtczjumjswgnbwgq2dqytfga-178-3575-5499-1781409045.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=uOckYE1HEWTPwLDJPrwxyw",
+    "link": "https://vnexpress.net/hyundai-nham-nhe-vuot-ford-tai-my-nho-xe-hybrid-5085544.html",
+    "published_at": "Mon, 15 Jun 2026 05:37:00 +0700",
+    "createAt": "2026-06-14T22:37:00.000Z"
   }
 ]
