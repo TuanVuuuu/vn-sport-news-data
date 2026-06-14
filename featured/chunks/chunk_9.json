@@ -1174,5 +1174,29 @@
     "link": "https://vnexpress.net/cdv-ha-lan-nao-nhiet-tren-duong-pho-dallas-5085685.html",
     "published_at": "Mon, 15 Jun 2026 01:28:05 +0700",
     "createAt": "2026-06-14T18:28:05.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/gia-vang-tuan-nay-phu-thuoc-tin-hieu-tu-fed-5085587.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Giá vàng tuần này phụ thuộc tín hiệu từ Fed",
+    "description": "Giới chuyên gia dự đoán giá vàng sẽ biến động theo kết quả cuộc họp của các ngân hàng trung ương về lãi suất, trong đó có Fed.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/06/14/gxgq2siwxrmkzkyc3alezpbaoy-jpe-6191-8152-1781423475.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=RoS6hP0Zm_P5A_8g68CtWQ",
+    "link": "https://vnexpress.net/gia-vang-tuan-nay-phu-thuoc-tin-hieu-tu-fed-5085587.html",
+    "published_at": "Mon, 15 Jun 2026 00:00:00 +0700",
+    "createAt": "2026-06-14T17:00:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/el-nino-rat-manh-se-tac-dong-nhu-the-nao-den-viet-nam-5085535.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "El Nino rất mạnh sẽ tác động như thế nào đến Việt Nam?",
+    "description": "Sự trở lại của El Nino làm gia tăng nguy cơ nắng nóng khốc liệt kéo dài, thiếu hụt mưa, hạn hán và xâm nhập mặn trong thời gian tới.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/14/z5317431018698e091e8cc947ce2d0-9573-9336-1781406870.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=V_jFiu4q_mn07WpmRV_NPA",
+    "link": "https://vnexpress.net/el-nino-rat-manh-se-tac-dong-nhu-the-nao-den-viet-nam-5085535.html",
+    "published_at": "Mon, 15 Jun 2026 00:00:00 +0700",
+    "createAt": "2026-06-14T17:00:00.000Z"
   }
 ]
