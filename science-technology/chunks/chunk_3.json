@@ -310,5 +310,29 @@
     "link": "https://vnexpress.net/the-kho-cua-nasa-trong-nhiem-vu-artemis-5084619.html",
     "published_at": "Mon, 15 Jun 2026 00:00:00 +0700",
     "createAt": "2026-06-14T17:00:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/robot-hinh-nguoi-loay-hoay-di-tu-san-khau-den-doi-thuc-5083349.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Robot hình người loay hoay đi từ sân khấu đến đời thực",
+    "description": "Dù gây sốt với hàng loạt màn biểu diễn khéo léo và phức tạp, robot hình người, phổ biến nhất ở Trung Quốc, gặp nhiều rào cản khi ứng dụng vào thực tế.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/08/screenshot20260522at1410495392-9557-5635-1780918868.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=ok3Sfvz2dZkWJsztQWuTKg",
+    "link": "https://vnexpress.net/robot-hinh-nguoi-loay-hoay-di-tu-san-khau-den-doi-thuc-5083349.html",
+    "published_at": "Mon, 15 Jun 2026 05:00:00 +0700",
+    "createAt": "2026-06-14T22:00:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/du-bao-may-tinh-luong-tu-pha-vo-bao-mat-du-lieu-vao-nam-2029-5084225.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Dự báo máy tính lượng tử phá vỡ bảo mật dữ liệu vào năm 2029",
+    "description": "Q-Day, ngày điện toán lượng tử có thể phá vỡ các dạng mã hóa đang được sử dụng trong công nghệ thông tin, có thể đến sớm hơn dự tính trước đây.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/10/8ca1aa50624611ebafef959314e514-3422-2223-1781085966.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=3L25mcKR2OyWa3KGtNq0Ug",
+    "link": "https://vnexpress.net/du-bao-may-tinh-luong-tu-pha-vo-bao-mat-du-lieu-vao-nam-2029-5084225.html",
+    "published_at": "Mon, 15 Jun 2026 06:00:00 +0700",
+    "createAt": "2026-06-14T23:00:00.000Z"
   }
 ]
