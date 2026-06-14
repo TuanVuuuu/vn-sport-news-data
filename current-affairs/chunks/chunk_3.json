@@ -1090,5 +1090,29 @@
     "link": "https://vnexpress.net/dem-tranh-tai-phao-hoa-cua-nhat-ban-va-italy-tren-song-han-5085472.html",
     "published_at": "Sun, 14 Jun 2026 00:25:08 +0700",
     "createAt": "2026-06-13T17:25:08.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/duong-tren-cao-bang-ruong-muoi-noi-cao-toc-den-vung-tau-5083791.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Đường trên cao, băng ruộng muối nối cao tốc đến Vũng Tàu",
+    "description": "Đường nối cao tốc Biên Hòa - Vũng Tàu hơn 16 km, với tổng mức đầu tư 13.900 tỷ đồng lộ vóc dáng tuyến cao tốc đô thị, băng ruộng muối, đầm lầy đến đô thị biển.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/09/dji-1781015763.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=OY57JAeCpvBIGCizE57uAw",
+    "link": "https://vnexpress.net/duong-tren-cao-bang-ruong-muoi-noi-cao-toc-den-vung-tau-5083791.html",
+    "published_at": "Sun, 14 Jun 2026 10:00:00 +0700",
+    "createAt": "2026-06-14T03:00:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/mien-bac-mua-lon-keo-dai-het-tuan-toi-5085532.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Miền Bắc mưa lớn kéo dài hết tuần tới",
+    "description": "Do ảnh hưởng của rãnh áp thấp kết hợp hội tụ gió trên cao khoảng 5.000 m, miền Bắc bước vào đợt mưa diện rộng kéo dài từ nay đến khoảng 19/6.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/14/11-jpg-1781405837-3870-1781405855.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=u1ib5jjBoVVBQHnBz21_gA",
+    "link": "https://vnexpress.net/mien-bac-mua-lon-keo-dai-het-tuan-toi-5085532.html",
+    "published_at": "Sun, 14 Jun 2026 10:01:37 +0700",
+    "createAt": "2026-06-14T03:01:37.000Z"
   }
 ]
