@@ -1,3 +1,52 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/bo-bac-kenh-doi-sau-mot-nam-khoi-cong-5083573.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Bờ bắc kênh Đôi sau một năm khởi công",
+      "description": "Dọc 4 km bờ bắc kênh Đôi nhiều đoạn bờ kè, cầu đang được xây mới sau gần một năm giải tỏa hơn 1.600 căn nhà.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/09/DJI-20260608162302-0847-D-1780986836.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=4smBj7Q0eGkoiMeztIB0sg",
+      "link": "https://vnexpress.net/bo-bac-kenh-doi-sau-mot-nam-khoi-cong-5083573.html",
+      "published_at": "Mon, 15 Jun 2026 06:00:00 +0700",
+      "createAt": "2026-06-14T23:00:00.000Z"
+    },
+    {
+      "id": "https://vnexpress.net/noi-chien-gia-dinh-vi-hoa-don-tien-dien-mua-he-5083854.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "'Nội chiến' gia đình vì hóa đơn tiền điện mùa hè",
+      "description": "Hóa đơn tiền điện tăng vọt sau đợt nắng nóng cao điểm khiến nhiều gia đình mâu thuẫn, cãi vã vì bất đồng trong cách tiết kiệm và sử dụng thiết bị làm mát.",
+      "thumbnail_url": "https://vcdn1-giadinh.vnecdn.net/2026/06/09/att-hjrrekmuyxqzvijohifbg8odge-6554-2225-1781023498.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=pRyYQj_Kss42ayb54qjZ3w",
+      "link": "https://vnexpress.net/noi-chien-gia-dinh-vi-hoa-don-tien-dien-mua-he-5083854.html",
+      "published_at": "Mon, 15 Jun 2026 06:00:00 +0700",
+      "createAt": "2026-06-14T23:00:00.000Z"
+    },
+    {
+      "id": "https://vnexpress.net/lich-nghi-le-duoc-quyet-dinh-the-nao-5085646.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Lịch nghỉ lễ được quyết định thế nào",
+      "description": "Lịch nghỉ lễ của người lao động được quy định trong Bộ luật Lao động, các phương án nghỉ kéo dài, hoán đổi ngày làm việc được quyết định bởi Thủ tướng.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/14/thumbnailngang1-1781442878-6944-1781442918.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=2E1dIpc7PnO0bz4gHUNNdQ",
+      "link": "https://vnexpress.net/lich-nghi-le-duoc-quyet-dinh-the-nao-5085646.html",
+      "published_at": "Mon, 15 Jun 2026 06:00:00 +0700",
+      "createAt": "2026-06-14T23:00:00.000Z"
+    },
+    {
+      "id": "https://vnexpress.net/my-iran-dat-thoa-thuan-hoa-binh-5085699.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Mỹ - Iran đạt thỏa thuận hòa bình",
+      "description": "Washington và Tehran thông báo đạt thỏa thuận chấm dứt xung đột, trong đó Mỹ sẽ \"ngay lập tức\" dỡ bỏ lệnh phong tỏa hàng hải với Iran.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/15/ap26156778567256-1781478890-7234-1781478981.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=iwjssxoIasRWaKVQpyz8Hg",
+      "link": "https://vnexpress.net/my-iran-dat-thoa-thuan-hoa-binh-5085699.html",
+      "published_at": "Mon, 15 Jun 2026 06:06:56 +0700",
+      "createAt": "2026-06-14T23:06:56.000Z"
+    }
+  ]
 }
