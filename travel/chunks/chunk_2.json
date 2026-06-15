@@ -1090,5 +1090,41 @@
     "link": "https://vnexpress.net/quan-ca-phe-phin-via-he-ghe-nhua-o-my-khien-khach-xep-hang-dai-5082656.html",
     "published_at": "Mon, 15 Jun 2026 10:16:39 +0700",
     "createAt": "2026-06-15T03:16:39.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/vietjet-mo-ban-40-000-ve-0-dong-den-sri-lanka-an-do-5085873.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Vietjet mở bán 40.000 vé 0 đồng đến Sri Lanka, Ấn Độ",
+    "description": "40.000 vé hạng Eco giá từ 0 đồng (chưa gồm thuế, phí) mở bán từ 0h ngày 15/6 đến 23h ngày 21/6, dịp hãng mở đường bay mới TP HCM - Colombo (Sri Lanka).",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/06/15/VJAircraft1-1781497325-9070-1781497404.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=RgDlV4KhC2364BdvkjRiXA",
+    "link": "https://vnexpress.net/vietjet-mo-ban-40-000-ve-0-dong-den-sri-lanka-an-do-5085873.html",
+    "published_at": "Mon, 15 Jun 2026 12:00:00 +0700",
+    "createAt": "2026-06-15T05:00:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/du-lich-he-tang-truong-5083991.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Du lịch hè tăng trưởng",
+    "description": "Nhờ hàng loạt chương trình kích cầu và hệ thống cao tốc kết nối liền mạch, thị trường du lịch hè 2026 ghi nhận sự tăng trưởng với xu hướng đặt tour sớm và ưu tiên các hành trình dài ngày.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/06/15/DSC01733177754866717775506511-7777-8896-1781498388.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=3dt7WWxqO4NaKt8FjCABrw",
+    "link": "https://vnexpress.net/du-lich-he-tang-truong-5083991.html",
+    "published_at": "Mon, 15 Jun 2026 12:00:06 +0700",
+    "createAt": "2026-06-15T05:00:06.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/con-sot-world-cup-cua-khach-trung-quoc-5085805.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Cơn sốt World Cup của khách Trung Quốc",
+    "description": "Lượng đặt vé máy bay và phòng khách sạn hạng sang từ Trung Quốc đến Bắc Mỹ tăng vọt trong tháng 6, cho thấy giới nhà giàu nước này chi mạnh tay nhằm tận hưởng không khí World Cup.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/06/15/61d3cb41788e4fc4b58f47f30f1774-9508-3603-1781499789.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=lgo7VcylMG6jx0Od1frQGg",
+    "link": "https://vnexpress.net/con-sot-world-cup-cua-khach-trung-quoc-5085805.html",
+    "published_at": "Mon, 15 Jun 2026 12:00:50 +0700",
+    "createAt": "2026-06-15T05:00:50.000Z"
   }
 ]
