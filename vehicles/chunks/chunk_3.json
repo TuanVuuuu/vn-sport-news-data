@@ -298,5 +298,29 @@
     "link": "https://vnexpress.net/van-con-51-000-oto-tai-viet-nam-gap-nguy-hiem-boi-tui-khi-takata-5085941.html",
     "published_at": "Mon, 15 Jun 2026 21:43:20 +0700",
     "createAt": "2026-06-15T14:43:20.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/sedan-co-c-thang-5-mazda3-va-niem-hy-vong-con-sot-lai-5085901.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Sedan cỡ C tháng 5: Mazda3 và niềm hy vọng còn sót lại",
+    "description": "Chỉ còn Mazda3 là mẫu sedan duy nhất ở phân khúc C có doanh số 3 chữ số trong tháng 5, những cái tên còn lại đều dưới 100, hoặc nghỉ bán.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/15/toyota-altis-jpg-1781500822-4239-1781500853.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=pzfPXeNPqrD6PIaQXurftA",
+    "link": "https://vnexpress.net/sedan-co-c-thang-5-mazda3-va-niem-hy-vong-con-sot-lai-5085901.html",
+    "published_at": "Tue, 16 Jun 2026 05:00:00 +0700",
+    "createAt": "2026-06-15T22:00:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/oto-dam-bay-nguoi-di-xe-may-tai-nga-tu-5085733.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Ôtô đâm bay người đi xe máy tại ngã tư",
+    "description": "Chiếc taxi điện lao với tốc độ cao qua ngã tư, đâm ngang xe máy, hất văng người điều khiển vào lề đường.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/15/taxidamxemay1ezgifcomcrop-1781-4889-5743-1781534061.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=8x5AiFMpQjnvlC9oF8itfw&t=image",
+    "link": "https://vnexpress.net/oto-dam-bay-nguoi-di-xe-may-tai-nga-tu-5085733.html",
+    "published_at": "Tue, 16 Jun 2026 05:00:00 +0700",
+    "createAt": "2026-06-15T22:00:00.000Z"
   }
 ]
