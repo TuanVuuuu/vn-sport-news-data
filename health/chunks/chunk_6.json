@@ -490,5 +490,41 @@
     "link": "https://vnexpress.net/nua-nam-an-rau-luoc-de-giam-beo-be-gai-11-tuoi-chi-con-25-kg-5085663.html",
     "published_at": "Mon, 15 Jun 2026 09:35:57 +0700",
     "createAt": "2026-06-15T02:35:57.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/nhung-benh-mat-de-mac-khi-tre-di-boi-5085773.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Những bệnh mắt dễ mắc khi trẻ đi bơi",
+    "description": "Tiếp xúc với hóa chất hồ bơi, nguồn nước ô nhiễm hoặc vệ sinh không đúng cách có thể khiến trẻ khô mắt, tăng nguy cơ mắc bệnh viêm kết mạc, viêm giác mạc.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/15/1781258731619-eec334e6c5f8e8e6-4348-7741-1781491849.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=H_8rT5FDMytDatB9R1UT9g",
+    "link": "https://vnexpress.net/nhung-benh-mat-de-mac-khi-tre-di-boi-5085773.html",
+    "published_at": "Mon, 15 Jun 2026 10:00:00 +0700",
+    "createAt": "2026-06-15T03:00:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/long-da-khop-bam-sinh-gay-trat-khop-15-nam-5085757.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Lỏng đa khớp bẩm sinh gây trật khớp 15 năm",
+    "description": "Anh Quang, 30 tuổi, mắc hội chứng lỏng đa khớp bẩm sinh, 15 năm qua hai khớp vai thường xuyên bị trật.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/15/bs-hieu-mo-vai-1781491171-1408-1781491231.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=smGJc-LF20qTo5pXLkbIBQ",
+    "link": "https://vnexpress.net/long-da-khop-bam-sinh-gay-trat-khop-15-nam-5085757.html",
+    "published_at": "Mon, 15 Jun 2026 10:00:00 +0700",
+    "createAt": "2026-06-15T03:00:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/cat-u-nhay-ngan-tien-trien-ung-thu-tuy-5085708.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Cắt u nhầy ngăn tiến triển ung thư tụy",
+    "description": "Anh Nhân, 31 tuổi, đau vùng thượng vị tưởng viêm tụy tái phát, bác sĩ phát hiện u nhầy ở đầu tụy nên phẫu thuật ngăn u hóa ác tính.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/15/ba-o-1781479483-4238-1781479502.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=89NNrIFCQshz8g_OVaOIQg",
+    "link": "https://vnexpress.net/cat-u-nhay-ngan-tien-trien-ung-thu-tuy-5085708.html",
+    "published_at": "Mon, 15 Jun 2026 10:00:00 +0700",
+    "createAt": "2026-06-15T03:00:00.000Z"
   }
 ]
