@@ -802,5 +802,29 @@
     "link": "https://vnexpress.net/5-tranh-dat-nhat-cua-hoa-si-david-hockney-5085877.html",
     "published_at": "Tue, 16 Jun 2026 00:05:00 +0700",
     "createAt": "2026-06-15T17:05:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/dan-truong-dua-vo-cu-va-con-trai-di-su-kien-5086198.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Đan Trường đưa vợ cũ và con trai đi sự kiện",
+    "description": "Ca sĩ Đan Trường đưa vợ cũ - doanh nhân Thủy Tiên - và bé Thiên Từ đến sự kiện làm đẹp của doanh nhân Lý Thùy Chang, tối 15/6.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/06/16/mon1590aa-1781576176.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Jv36Fsmfg4d5aHQ-RYcq3g",
+    "link": "https://vnexpress.net/dan-truong-dua-vo-cu-va-con-trai-di-su-kien-5086198.html",
+    "published_at": "Mon, 15 Jun 2026 09:30:00 +0700",
+    "createAt": "2026-06-15T02:30:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/5-buc-tranh-dat-nhat-cua-hoa-si-david-hockney-5085877.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "5 bức tranh đắt nhất của họa sĩ David Hockney",
+    "description": "Họa sĩ người Anh David Hockney vẽ chân dung đôi, phong cảnh ở nước Mỹ, được đấu giá hàng chục triệu USD trên thị trường.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/06/15/portrait-of-an-artist-1781511624.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=RcEFIXq5iC6VLOjxNAwGyg",
+    "link": "https://vnexpress.net/5-buc-tranh-dat-nhat-cua-hoa-si-david-hockney-5085877.html",
+    "published_at": "Tue, 16 Jun 2026 00:05:00 +0700",
+    "createAt": "2026-06-15T17:05:00.000Z"
   }
 ]
