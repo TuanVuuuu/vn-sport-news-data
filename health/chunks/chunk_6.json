@@ -1126,5 +1126,53 @@
     "link": "https://vnexpress.net/5-dau-hieu-tang-duong-huyet-it-ngo-5086231.html",
     "published_at": "Tue, 16 Jun 2026 15:00:00 +0700",
     "createAt": "2026-06-16T08:00:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/ha-noi-ho-tro-den-20-trieu-dong-moi-thang-cho-bac-si-ve-tuyen-duoi-5086385.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Hà Nội hỗ trợ đến 20 triệu đồng mỗi tháng cho bác sĩ về tuyến dưới",
+    "description": "HĐND thành phố Hà Nội vừa thông qua Nghị quyết hỗ trợ nhân viên y tế tuyến trên luân phiên về cơ sở với mức chi thêm từ 6 đến 20 triệu đồng mỗi tháng, áp dụng từ ngày 1/7.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/16/1-1781596230-8984-1781596241.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=RU_j0sNNMyBplMl1KgGQAQ",
+    "link": "https://vnexpress.net/ha-noi-ho-tro-den-20-trieu-dong-moi-thang-cho-bac-si-ve-tuyen-duoi-5086385.html",
+    "published_at": "Tue, 16 Jun 2026 15:06:09 +0700",
+    "createAt": "2026-06-16T08:06:09.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/sau-mo-dut-day-chang-bao-lau-co-the-da-bong-5086452.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Sau mổ đứt dây chằng bao lâu có thể đá bóng?",
+    "description": "Tôi bị đứt dây chằng chéo trước, đã phẫu thuật. Sau bao lâu tôi có thể hồi phục để chơi đá bóng? (Hoàng Nam, 30 tuổi)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/16/dsc07183-1781599560-4996-1781599665.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=FygJrxAJPvucRcgNH9R2Sw",
+    "link": "https://vnexpress.net/sau-mo-dut-day-chang-bao-lau-co-the-da-bong-5086452.html",
+    "published_at": "Tue, 16 Jun 2026 16:00:00 +0700",
+    "createAt": "2026-06-16T09:00:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/be-trai-mac-ba-benh-di-ung-5086394.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Bé trai mắc ba bệnh dị ứng",
+    "description": "Dị ứng đạm sữa bò 8 năm, bé Phát gần đây nổi mẩn đỏ, ngứa tay, sưng mí mắt, đỏ mắt do dị ứng mạt bụi và viêm da cơ địa.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/16/ke-t-qua-test-1781595020-8933-1781595193.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=jvrA2Yfgz47zW113EdA4Jw",
+    "link": "https://vnexpress.net/be-trai-mac-ba-benh-di-ung-5086394.html",
+    "published_at": "Tue, 16 Jun 2026 16:00:00 +0700",
+    "createAt": "2026-06-16T09:00:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/hon-2-3-trieu-nguoi-tp-hcm-da-duoc-lap-ho-so-suc-khoe-dien-tu-5086148.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Hơn 2,3 triệu người TP HCM đã được lập hồ sơ sức khỏe điện tử",
+    "description": "TP HCM đã cập nhật dữ liệu sức khỏe hơn 2,3 triệu người dân, xây dựng hồ sơ sức khỏe điện tử quy mô toàn thành phố.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/16/233a4951-1781577117-3087-1781577340.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=mEYWQquBO2ruSPMQAzPaEw",
+    "link": "https://vnexpress.net/hon-2-3-trieu-nguoi-tp-hcm-da-duoc-lap-ho-so-suc-khoe-dien-tu-5086148.html",
+    "published_at": "Tue, 16 Jun 2026 16:10:15 +0700",
+    "createAt": "2026-06-16T09:10:15.000Z"
   }
 ]
