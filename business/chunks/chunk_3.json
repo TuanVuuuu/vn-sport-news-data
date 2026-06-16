@@ -910,5 +910,29 @@
     "link": "https://vnexpress.net/kinh-te-toan-cau-ra-sao-sau-thoa-thuan-hoa-binh-my-iran-5086037.html",
     "published_at": "Tue, 16 Jun 2026 00:00:00 +0700",
     "createAt": "2026-06-15T17:00:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/gia-vang-the-gioi-tang-3-phien-lien-tiep-5086172.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Giá vàng thế giới tăng 3 phiên liên tiếp",
+    "description": "Mỗi ounce vàng có thời điểm chạm 4.370 USD một ounce trong phiên đầu tuần, nhờ thỏa thuận hòa bình Mỹ - Iran.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/06/16/goldreu8-1781570988-4706-1781571002.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=rPO2eVkGyq7ZvKs96m1AEQ",
+    "link": "https://vnexpress.net/gia-vang-the-gioi-tang-3-phien-lien-tiep-5086172.html",
+    "published_at": "Tue, 16 Jun 2026 08:01:39 +0700",
+    "createAt": "2026-06-16T01:01:39.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/elon-musk-co-them-hon-160-ty-usd-mot-ngay-5086173.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Elon Musk có thêm hơn 160 tỷ USD một ngày",
+    "description": "Cổ phiếu SpaceX tăng gần 20%, kéo tài sản của người giàu nhất hành tinh tăng 165 tỷ USD chỉ trong một phiên.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/06/16/ap25129687588224-1781572765-7820-1781572820.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=fJiEEb0nXjyU6nlx0e62OA",
+    "link": "https://vnexpress.net/elon-musk-co-them-hon-160-ty-usd-mot-ngay-5086173.html",
+    "published_at": "Tue, 16 Jun 2026 08:30:00 +0700",
+    "createAt": "2026-06-16T01:30:00.000Z"
   }
 ]
