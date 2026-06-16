@@ -394,5 +394,29 @@
     "link": "https://vnexpress.net/xe-dau-keo-oan-minh-tranh-hai-nguoi-nga-xe-may-5086255.html",
     "published_at": "Tue, 16 Jun 2026 11:37:03 +0700",
     "createAt": "2026-06-16T04:37:03.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/xe-co-a-thang-5-phan-khuc-dan-phai-nhat-5085905.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Xe cỡ A tháng 5: phân khúc dần phai nhạt",
+    "description": "Phân khúc xe cỡ A tiếp tục lao dốc về mức thấp nhất ba năm, Hyundai i10 gần như không còn đối thủ cạnh tranh trực tiếp.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/15/new-grand-i10-1781501632-2884-1781501638.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=lStPWVoro6lLIoYLTHI6hA",
+    "link": "https://vnexpress.net/xe-co-a-thang-5-phan-khuc-dan-phai-nhat-5085905.html",
+    "published_at": "Tue, 16 Jun 2026 14:19:51 +0700",
+    "createAt": "2026-06-16T07:19:51.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/thi-phan-xe-ban-tai-thang-5-isuzu-d-max-tang-truong-gap-3-5086177.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Thị phần xe bán tải tháng 5 - Isuzu D-Max tăng trưởng gấp 3",
+    "description": "Phân khúc xe bán tải Việt Nam tháng 5 ghi nhận phục hồi nhẹ sau một tháng 4 giảm sâu.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/16/d-max-jpeg-1781584159-5936-1781584239.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=qo6l8Z0IwBJmVx5fWceMUg",
+    "link": "https://vnexpress.net/thi-phan-xe-ban-tai-thang-5-isuzu-d-max-tang-truong-gap-3-5086177.html",
+    "published_at": "Tue, 16 Jun 2026 14:48:55 +0700",
+    "createAt": "2026-06-16T07:48:55.000Z"
   }
 ]
