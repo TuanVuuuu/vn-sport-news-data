@@ -1,3 +1,52 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/iraq-na-uy-haaland-odegaard-da-chinh-5086552-tong-thuat.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Haaland giúp Na Uy đại thắng ở World Cup 2026",
+      "description": "Tiền đạo Erling Haaland lập cú đúp, giúp Na Uy hạ Iraq 4-1 ở lượt đầu bảng I World Cup 2026.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/06/17/hl-png-1781654207-9589-1781654507.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=8H3WyiE2_modDU2Nt7cmeg",
+      "link": "https://vnexpress.net/iraq-na-uy-haaland-odegaard-da-chinh-5086552-tong-thuat.html",
+      "published_at": "Wed, 17 Jun 2026 04:00:00 +0700",
+      "createAt": "2026-06-16T21:00:00.000Z"
+    },
+    {
+      "id": "https://vnexpress.net/nhung-nguoi-dao-tao-ai-thay-the-chinh-minh-5085244.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Những người đào tạo AI thay thế chính mình",
+      "description": "Nagireddy Sriramyachandra gắn smartphone lên đầu và ghi hình bản thân làm việc nhà để huấn luyện robot vận hành bằng AI.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/14/AItrainer1-1781408131-8551-1781408256.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=BXsLul8hls8vXFN7ap4-5A",
+      "link": "https://vnexpress.net/nhung-nguoi-dao-tao-ai-thay-the-chinh-minh-5085244.html",
+      "published_at": "Wed, 17 Jun 2026 05:00:00 +0700",
+      "createAt": "2026-06-16T22:00:00.000Z"
+    },
+    {
+      "id": "https://vnexpress.net/nu-sinh-gianh-diem-10-toan-duy-nhat-tinh-phu-tho-khong-chon-truong-chuyen-5086569.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Nữ sinh giành điểm 10 Toán duy nhất tỉnh Phú Thọ không chọn trường chuyên",
+      "description": "Giành điểm 10 Toán duy nhất trong hơn 57.000 thí sinh thi lớp 10 song Mai Hương trước đó không đăng ký trường chuyên vì cho rằng học ở đâu cũng tốt nếu nỗ lực.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/16/2aoboqdyzm7d3ctdjcxdb4ba7xh1x6-8426-8999-1781627252.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=61MOY-C7Do2gfEaNk45aaA",
+      "link": "https://vnexpress.net/nu-sinh-gianh-diem-10-toan-duy-nhat-tinh-phu-tho-khong-chon-truong-chuyen-5086569.html",
+      "published_at": "Wed, 17 Jun 2026 06:29:11 +0700",
+      "createAt": "2026-06-16T23:29:11.000Z"
+    },
+    {
+      "id": "https://vnexpress.net/truc-tiep-argentina-vs-algeria-5086594.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Argentina 0-0 Algeria (H1): Messi bị hủy bàn",
+      "description": "Argentina và Algeria đều đưa được bóng vào lưới, nhưng các bàn thắng đều bị hủy ở trận đấu tại bảng J World Cup 2026.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/06/17/tructiepargentinavsalgeria23-1-4719-6254-1781659036.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=jBLQZ8TCT16Mn8UMPTqOaA",
+      "link": "https://vnexpress.net/truc-tiep-argentina-vs-algeria-5086594.html",
+      "published_at": "Wed, 17 Jun 2026 06:59:55 +0700",
+      "createAt": "2026-06-16T23:59:55.000Z"
+    }
+  ]
 }
