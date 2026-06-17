@@ -166,5 +166,29 @@
     "link": "https://vnexpress.net/sai-lam-khi-nghi-giam-sot-la-khoi-sot-xuat-huyet-5086516.html",
     "published_at": "Wed, 17 Jun 2026 09:00:00 +0700",
     "createAt": "2026-06-17T02:00:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/thay-van-tim-cho-cu-ong-suy-than-5086628.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Thay van tim cho cụ ông suy thận",
+    "description": "Hẹp van động mạch chủ nặng kèm suy thận giai đoạn ba, ông Căn không thể phẫu thuật, được bác sĩ thay van động mạch chủ qua ống thông.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/17/image001-1781659998-1155-1781660103.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=4C9gjeztVvwUYVweTRYRzw",
+    "link": "https://vnexpress.net/thay-van-tim-cho-cu-ong-suy-than-5086628.html",
+    "published_at": "Wed, 17 Jun 2026 10:00:00 +0700",
+    "createAt": "2026-06-17T03:00:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/thung-mang-nhi-khi-may-bay-ha-canh-5086587.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Thủng màng nhĩ khi máy bay hạ cánh",
+    "description": "Chị Ngân, 55 tuổi, nghe thấy tiếng bụp trong tai kèm đau nhói khi máy bay đang hạ cánh, bác sĩ chẩn đoán thủng màng nhĩ.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/17/a-nh-be-nh-nha-n-1781653087-1234-1781653499.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=Ootvxx1l9-eJeRCkW2HRmw",
+    "link": "https://vnexpress.net/thung-mang-nhi-khi-may-bay-ha-canh-5086587.html",
+    "published_at": "Wed, 17 Jun 2026 10:00:00 +0700",
+    "createAt": "2026-06-17T03:00:00.000Z"
   }
 ]
