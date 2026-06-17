@@ -262,5 +262,41 @@
     "link": "https://vnexpress.net/an-gi-tot-cho-gan-5086690.html",
     "published_at": "Wed, 17 Jun 2026 13:00:00 +0700",
     "createAt": "2026-06-17T06:00:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/22-nguoi-nghi-ngo-doc-sau-khi-an-banh-mi-5086775.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "22 người nghi ngộ độc sau khi ăn bánh mì",
+    "description": "22 người đau bụng, ói, tiêu chảy sau khi ăn bánh mì mua tại cơ sở Hồng Ngọc 37, phường Đạo Thạnh, nghi ngộ độc.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/17/448c51fdcb3c4c6985f878a1fdbe7e-7110-9056-1781677504.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=TXbeDwE-MXkiu0Uv5pBYkw",
+    "link": "https://vnexpress.net/22-nguoi-nghi-ngo-doc-sau-khi-an-banh-mi-5086775.html",
+    "published_at": "Wed, 17 Jun 2026 13:12:14 +0700",
+    "createAt": "2026-06-17T06:12:14.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/tai-sao-chuyen-gia-khuyen-khong-nen-chia-thang-quat-vao-mat-khi-ngu-5086406.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Tại sao chuyên gia khuyên không nên chĩa thẳng quạt vào mặt khi ngủ?",
+    "description": "Chĩa thẳng quạt vào mặt khi ngủ khiến lớp niêm mạc mũi họng khô rát, kích thích tiết chất nhầy gây nghẹt mũi, luồng gió kéo dài còn làm rối loạn thân nhiệt và phát tán bụi bẩn, trực tiếp tàn phá giấc ngủ.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/16/screenshot-at-1781596879-5475-1781596972.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=5PpOHX3EVOm8jxDucWVhiA",
+    "link": "https://vnexpress.net/tai-sao-chuyen-gia-khuyen-khong-nen-chia-thang-quat-vao-mat-khi-ngu-5086406.html",
+    "published_at": "Wed, 17 Jun 2026 13:49:26 +0700",
+    "createAt": "2026-06-17T06:49:26.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/5-thoi-quen-tot-cho-tim-nen-thuc-hien-hang-ngay-5086369.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "5 thói quen tốt cho tim nên thực hiện hằng ngày",
+    "description": "Chế độ ăn ưu tiên thực phẩm có nguồn gốc thực vật, ăn uống chậm rãi, vận động thường xuyên và hạn chế ngồi lâu có thể bảo vệ sức khỏe tim mạch.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/16/hoa-qua-tam-anh-1781594376-2472-1781594793.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=PS6TnlkHJlk9XwnAMHXv-A",
+    "link": "https://vnexpress.net/5-thoi-quen-tot-cho-tim-nen-thuc-hien-hang-ngay-5086369.html",
+    "published_at": "Wed, 17 Jun 2026 14:00:00 +0700",
+    "createAt": "2026-06-17T07:00:00.000Z"
   }
 ]
