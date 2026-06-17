@@ -490,5 +490,41 @@
     "link": "https://vnexpress.net/sedan-co-c-hap-hoi-5086251.html",
     "published_at": "Wed, 17 Jun 2026 05:00:00 +0700",
     "createAt": "2026-06-16T22:00:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/dung-dau-bup-be-danh-lua-he-thong-giam-sat-cua-xe-tesla-5086314.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Dùng đầu búp bê đánh lừa hệ thống giám sát của xe Tesla",
+    "description": "Chiếc đầu búp bê bằng nhựa được lắp sát camera nhằm đánh lừa hệ thống rằng tài xế vẫn đang tập trung lái xe.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/16/China3-1781592172-6349-1781593564.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=y0xDqM80Xns9HoJIvoLZoA",
+    "link": "https://vnexpress.net/dung-dau-bup-be-danh-lua-he-thong-giam-sat-cua-xe-tesla-5086314.html",
+    "published_at": "Wed, 17 Jun 2026 06:00:00 +0700",
+    "createAt": "2026-06-16T23:00:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/oto-lao-nhu-ten-lua-dam-vang-hai-cong-nhan-ve-sinh-5086392.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Ôtô lao 'như tên lửa' đâm văng hai công nhân vệ sinh",
+    "description": "Chiếc ôtô từ đâu lao tới và trong nháy mắt, đâm bay cả chiếc xe rác và hai công nhân đang quét dọn bên lề đường.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/16/china4-1781597344-9360-1781597561.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=n-3kFeBwfccql_Iwe9qrzg",
+    "link": "https://vnexpress.net/oto-lao-nhu-ten-lua-dam-vang-hai-cong-nhan-ve-sinh-5086392.html",
+    "published_at": "Wed, 17 Jun 2026 06:30:00 +0700",
+    "createAt": "2026-06-16T23:30:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/chu-tich-geely-chi-trich-viec-san-xuat-oto-kieu-do-an-nhanh-5086169.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Chủ tịch Geely chỉ trích việc sản xuất ôtô kiểu đồ ăn nhanh",
+    "description": "Tỷ phú Lý Thư Phúc chỉ trích xu hướng cắt bớt quy trình công nghệ để giảm giá, nói ôtô liên quan đến tính mạng con người nên không thể làm ẩu.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/16/GeelyEX21-1781575591-3439-1781575688.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Ojbi3xPjkBcNKlqaRLzMdA",
+    "link": "https://vnexpress.net/chu-tich-geely-chi-trich-viec-san-xuat-oto-kieu-do-an-nhanh-5086169.html",
+    "published_at": "Wed, 17 Jun 2026 07:00:00 +0700",
+    "createAt": "2026-06-17T00:00:00.000Z"
   }
 ]
