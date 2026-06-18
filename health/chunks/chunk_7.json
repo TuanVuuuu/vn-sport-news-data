@@ -730,5 +730,29 @@
     "link": "https://vnexpress.net/khoi-nang-nang-1-6-kg-trong-o-bung-nguoi-phu-nu-5087092.html",
     "published_at": "Thu, 18 Jun 2026 14:00:00 +0700",
     "createAt": "2026-06-18T07:00:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/sai-lam-khi-dung-thot-nhua-va-chao-chong-dinh-de-ruoc-benh-vao-nguoi-5087180.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Sai lầm khi dùng thớt nhựa và chảo chống dính dễ rước bệnh vào người",
+    "description": "Chuyên gia dinh dưỡng Đài Loan Hsu Tien-wei vừa đưa ra cảnh báo trên trang cá nhân về việc thớt nhựa giải phóng vi nhựa và chảo chống dính chứa 'hóa chất vĩnh cửu' PFAS.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/18/00-1781760366-1515-1781762059.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=lTWo5TRaMtY0PsPEnmAmAA",
+    "link": "https://vnexpress.net/sai-lam-khi-dung-thot-nhua-va-chao-chong-dinh-de-ruoc-benh-vao-nguoi-5087180.html",
+    "published_at": "Thu, 18 Jun 2026 13:54:32 +0700",
+    "createAt": "2026-06-18T06:54:32.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/loi-ich-cua-iot-voi-suc-khoe-5087153.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Lợi ích của iốt với sức khỏe",
+    "description": "Iốt cần thiết cho quá trình sản xuất hormone tuyến giáp, giúp điều hòa chuyển hóa, hỗ trợ hoạt động não bộ, sức khỏe sinh sản và sự phát triển của thai nhi.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/18/832bc963-c37cc-ea6a6960a141-jf-2806-7039-1781756258.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=s349gpd4BhjHAGOVc9a99Q",
+    "link": "https://vnexpress.net/loi-ich-cua-iot-voi-suc-khoe-5087153.html",
+    "published_at": "Thu, 18 Jun 2026 14:30:00 +0700",
+    "createAt": "2026-06-18T07:30:00.000Z"
   }
 ]
