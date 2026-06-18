@@ -622,5 +622,29 @@
     "link": "https://vnexpress.net/lynk-co-900-thach-thuc-xe-sang-bang-trang-bi-5086787.html",
     "published_at": "Thu, 18 Jun 2026 06:00:00 +0700",
     "createAt": "2026-06-17T23:00:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/nguoi-viet-mua-oto-dien-nhieu-thu-hai-dong-nam-a-5086937.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Người Việt mua ôtô điện nhiều thứ hai Đông Nam Á",
+    "description": "Tính đến hết quý I, thị trường Việt tiêu thụ 53.685 xe thuần điện (BEV), xếp sau Thái Lan với 57.147 xe.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/18/xedientaiVietNamvnexpressJPG-1-9898-7396-1781731994.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=YCiYlhqrX3_89YKgws9_ww",
+    "link": "https://vnexpress.net/nguoi-viet-mua-oto-dien-nhieu-thu-hai-dong-nam-a-5086937.html",
+    "published_at": "Thu, 18 Jun 2026 08:36:39 +0700",
+    "createAt": "2026-06-18T01:36:39.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/xe-may-lao-vao-gam-xe-tai-dang-qua-giao-lo-5087030.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Xe máy lao vào gầm xe tải đang qua giao lộ",
+    "description": "Ở hướng vuông góc, một người đi xe điện cứ thế lao thẳng vào gầm bên hông xe tải hôm 17/6 tại đường Hùng Vương.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/18/ezgif343fcb061ccdfa68-17817422-3435-6851-1781742258.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=KUDiijjTvoAMseElE_-Z_A&t=image",
+    "link": "https://vnexpress.net/xe-may-lao-vao-gam-xe-tai-dang-qua-giao-lo-5087030.html",
+    "published_at": "Thu, 18 Jun 2026 09:25:14 +0700",
+    "createAt": "2026-06-18T02:25:14.000Z"
   }
 ]
