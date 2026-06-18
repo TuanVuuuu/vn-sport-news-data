@@ -922,5 +922,29 @@
     "link": "https://vnexpress.net/dan-ong-an-qua-luu-co-bi-vo-sinh-5086114.html",
     "published_at": "Fri, 19 Jun 2026 00:04:00 +0700",
     "createAt": "2026-06-18T17:04:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/5-thuc-uong-ha-huyet-ap-hieu-qua-hon-tra-xanh-5086460.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "5 thức uống hạ huyết áp hiệu quả hơn trà xanh",
+    "description": "Chuyên gia dinh dưỡng khuyên hàng ngày bổ sung các loại nước ép quen thuộc như cam, lựu hay củ dền để ổn định huyết áp.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/16/red-crown-pomegranate-orange-j-5888-7698-1781604608.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=XU4D1RsbXqBaYZQ5llXlZA",
+    "link": "https://vnexpress.net/5-thuc-uong-ha-huyet-ap-hieu-qua-hon-tra-xanh-5086460.html",
+    "published_at": "Fri, 19 Jun 2026 01:00:00 +0700",
+    "createAt": "2026-06-18T18:00:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/suc-khoe/cam-nang/hoi-chung-mui-ca-435",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Hội chứng mùi cá",
+    "description": "Hội chứng mùi cá là rối loạn chuyển hóa khiến cơ thể không thể phân hủy hoàn toàn hợp chất trimethylamine (TMA) có mùi tanh đặc trưng.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/17/chatgptimage15562017thg62026-1-9950-1399-1781687061.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=j1IRdrwjSuOL5qKSrqwYIA",
+    "link": "https://vnexpress.net/suc-khoe/cam-nang/hoi-chung-mui-ca-435",
+    "published_at": "Fri, 19 Jun 2026 01:04:00 +0700",
+    "createAt": "2026-06-18T18:04:00.000Z"
   }
 ]
