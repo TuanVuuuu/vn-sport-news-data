@@ -262,5 +262,29 @@
     "link": "https://vnexpress.net/cap-treo-fansipan-sap-don-vi-khach-thu-10-trieu-5087405.html",
     "published_at": "Thu, 18 Jun 2026 20:00:00 +0700",
     "createAt": "2026-06-18T13:00:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/vit-tien-tri-du-doan-ket-qua-world-cup-5087181.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "'Vịt tiên tri' dự đoán kết quả World Cup",
+    "description": "Chú vịt hai tuổi Merlin ở thủ đô Mexico City gây chú ý khi chọn quốc kỳ Mexico, dự đoán đội bóng Bắc Mỹ sẽ đánh bại Hàn Quốc ở lượt trận thứ hai bảng A.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/06/18/5-1781760784-6341-1781762366.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Aq1KoXuyUIq4wd5iv3Qnaw",
+    "link": "https://vnexpress.net/vit-tien-tri-du-doan-ket-qua-world-cup-5087181.html",
+    "published_at": "Thu, 18 Jun 2026 17:15:21 +0700",
+    "createAt": "2026-06-18T10:15:21.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/ninh-binh-xoa-ten-bien-quat-lam-5087384.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Ninh Bình xóa tên biển Quất Lâm",
+    "description": "Tỉnh Ninh Bình đổi tên khu du lịch Quất Lâm thành Giao Ninh nhằm tái định vị thương hiệu, hướng tới phát triển du lịch biển bền vững gắn với văn hóa, làng nghề và cộng đồng.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/06/18/quat-lam-jpeg-1781779511-2790-1781779573.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=MopRQzk-o1h89KnYgWakUQ",
+    "link": "https://vnexpress.net/ninh-binh-xoa-ten-bien-quat-lam-5087384.html",
+    "published_at": "Thu, 18 Jun 2026 21:08:46 +0700",
+    "createAt": "2026-06-18T14:08:46.000Z"
   }
 ]
