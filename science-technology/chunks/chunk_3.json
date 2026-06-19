@@ -934,5 +934,53 @@
     "link": "https://vnexpress.net/cuoc-chien-chong-sa-mac-hoa-cua-trung-quoc-5087308.html",
     "published_at": "Fri, 19 Jun 2026 13:00:00 +0700",
     "createAt": "2026-06-19T06:00:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/samsung-phat-trien-he-sinh-thai-ai-ho-tro-cham-soc-suc-khoe-5087342.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Samsung phát triển hệ sinh thái AI hỗ trợ chăm sóc sức khỏe",
+    "description": "Công cụ AI được Samsung tích hợp trên điện thoại, đồng hồ thông minh và thiết bị gia dụng nhằm giúp người dùng theo dõi chỉ số sức khỏe, điều chỉnh thói quen mỗi ngày.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/19/image001-1781853004-4109-1781853211.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=9l-tNn97xt_dUQ7QuaSR9g",
+    "link": "https://vnexpress.net/samsung-phat-trien-he-sinh-thai-ai-ho-tro-cham-soc-suc-khoe-5087342.html",
+    "published_at": "Fri, 19 Jun 2026 14:30:00 +0700",
+    "createAt": "2026-06-19T07:30:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/zalo-ra-soat-tai-khoan-dang-ky-bang-so-dien-thoai-bi-thu-hoi-5087616.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Zalo rà soát tài khoản đăng ký bằng số điện thoại bị thu hồi",
+    "description": "Zalo cho biết đang phối hợp với nhà mạng rà soát các tài khoản đăng ký bằng số điện thoại đã bị thu hồi và yêu cầu người dùng cập nhật thông tin.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/19/Trung-tai-khoan-JPG-7798-17782-3418-4223-1781852950.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=WYvAnYdpy6xvzMg81pgl0g",
+    "link": "https://vnexpress.net/zalo-ra-soat-tai-khoan-dang-ky-bang-so-dien-thoai-bi-thu-hoi-5087616.html",
+    "published_at": "Fri, 19 Jun 2026 14:43:04 +0700",
+    "createAt": "2026-06-19T07:43:04.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/amazon-web-services-lan-dau-dat-ha-tang-dam-may-tai-viet-nam-5087618.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Amazon Web Services lần đầu đặt hạ tầng đám mây tại Việt Nam",
+    "description": "Amazon Web Services (AWS) vận hành Local Zone tại Hà Nội, đánh dấu lần đầu hạ tầng đám mây do hãng trực tiếp quản lý hiện diện ở Việt Nam.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/19/aws-region-1781852008-6135-1781852474.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=BDKRVB6H6RNyEsfhqXk7ww",
+    "link": "https://vnexpress.net/amazon-web-services-lan-dau-dat-ha-tang-dam-may-tai-viet-nam-5087618.html",
+    "published_at": "Fri, 19 Jun 2026 15:01:34 +0700",
+    "createAt": "2026-06-19T08:01:34.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/viet-nam-nga-thuc-day-hop-tac-ve-ai-luong-tu-va-cong-nghe-vu-tru-5087669.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Việt Nam - Nga thúc đẩy hợp tác về AI, lượng tử và công nghệ vũ trụ",
+    "description": "Việt Nam đề xuất mở rộng hợp tác với Nga trong các công nghệ chiến lược như trí tuệ nhân tạo, lượng tử, công nghệ vũ trụ và vệ tinh quỹ đạo thấp.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/19/viet-nga-webp-1781855975-4880-1781856021.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=K6xA0GRMM4DaNe22ZD5lcA",
+    "link": "https://vnexpress.net/viet-nam-nga-thuc-day-hop-tac-ve-ai-luong-tu-va-cong-nghe-vu-tru-5087669.html",
+    "published_at": "Fri, 19 Jun 2026 15:09:25 +0700",
+    "createAt": "2026-06-19T08:09:25.000Z"
   }
 ]
