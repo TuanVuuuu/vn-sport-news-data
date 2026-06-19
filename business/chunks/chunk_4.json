@@ -466,5 +466,29 @@
     "link": "https://vnexpress.net/nguoi-dan-chi-it-hon-cho-mam-cung-tet-doan-ngo-5087483.html",
     "published_at": "Fri, 19 Jun 2026 09:21:41 +0700",
     "createAt": "2026-06-19T02:21:41.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/techcombank-xay-dung-ban-do-kham-pha-viet-nam-ruc-ro-ket-noi-doanh-nghiep-5087550.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Techcombank xây dựng 'Bản đồ khám phá Việt Nam rực rỡ' kết nối doanh nghiệp",
+    "description": "Techcombank xây dựng \"Bản đồ khám phá Việt Nam rực rỡ\" trên Techcombank OneU, nhằm kết nối các doanh nghiệp bán lẻ và hộ kinh doanh du lịch, ẩm thực, lưu trú và giải trí với khách hàng.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/06/19/tcb1-1781838618-4487-1781838691.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=a689bOBmRNGRasmeIEKtjA",
+    "link": "https://vnexpress.net/techcombank-xay-dung-ban-do-kham-pha-viet-nam-ruc-ro-ket-noi-doanh-nghiep-5087550.html",
+    "published_at": "Fri, 19 Jun 2026 10:30:00 +0700",
+    "createAt": "2026-06-19T03:30:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/gia-vang-giam-ve-gan-147-trieu-dong-5087558.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Giá vàng giảm về gần 147 triệu đồng",
+    "description": "Mỗi lượng vàng giảm hơn 4 triệu đồng về sát 147 triệu đồng, chênh lệch với thế giới sáng nay gần 15 triệu một lượng.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/06/19/viathantai-1781839841-2622-1781840017.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=C6VTwT-L71_5Goh93IMdMg",
+    "link": "https://vnexpress.net/gia-vang-giam-ve-gan-147-trieu-dong-5087558.html",
+    "published_at": "Fri, 19 Jun 2026 10:39:28 +0700",
+    "createAt": "2026-06-19T03:39:28.000Z"
   }
 ]
