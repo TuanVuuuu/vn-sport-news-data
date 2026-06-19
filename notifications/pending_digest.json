@@ -1,3 +1,52 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/gia-dinh-bac-tin-don-bo-messi-qua-doi-5087456.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Gia đình bác tin đồn bố Messi qua đời",
+      "description": "Gia đình Lionel Messi lần đầu công bố tình trạng sức khỏe của ông Jorge Messi sau khi tin đồn ông qua đời lan truyền trên mạng xã hội.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/06/19/messi-png-1781819860-3042-1781819964.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=8SWFxZqKmq3lXLOtWEKceA",
+      "link": "https://vnexpress.net/gia-dinh-bac-tin-don-bo-messi-qua-doi-5087456.html",
+      "published_at": "Fri, 19 Jun 2026 06:15:58 +0700",
+      "createAt": "2026-06-18T23:15:58.000Z"
+    },
+    {
+      "id": "https://vnexpress.net/mexico-v-han-quoc-5087466-tong-thuat.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Mexico vượt qua vòng bảng World Cup nhờ sai lầm của thủ môn Hàn Quốc",
+      "description": "Mexico thắng Hàn Quốc 1-0 nhờ sai lầm của thủ môn Kim Seung-gyu ở lượt hai, để trở thành đội đầu tiên vượt qua vòng bảng World Cup 2026.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/06/19/ap26170081299227-1781838278-2926-1781838287.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=t0cmFMh2Q3uhSYs848l5bg",
+      "link": "https://vnexpress.net/mexico-v-han-quoc-5087466-tong-thuat.html",
+      "published_at": "Fri, 19 Jun 2026 07:09:47 +0700",
+      "createAt": "2026-06-19T00:09:47.000Z"
+    },
+    {
+      "id": "https://vnexpress.net/nhom-ban-hop-dong-so-huu-ky-nghi-lua-2-700-ty-dong-qua-17-000-hop-dong-5087538.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Nhóm bán 'hợp đồng sở hữu kỳ nghỉ' lừa 2.700 tỷ đồng qua 17.000 hợp đồng",
+      "description": "Công an Hà Nội xác định có khoảng 17.000 hợp đồng sở hữu kỳ nghỉ được 27 công ty ký kết, qua đó lừa 2.700 tỷ đồng chủ yếu từ người cao tuổi.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/19/2-jpeg-1781836979-9293-1781837073.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Nb1u05UUMjgSQopofEzL1A",
+      "link": "https://vnexpress.net/nhom-ban-hop-dong-so-huu-ky-nghi-lua-2-700-ty-dong-qua-17-000-hop-dong-5087538.html",
+      "published_at": "Fri, 19 Jun 2026 09:52:58 +0700",
+      "createAt": "2026-06-19T02:52:58.000Z"
+    },
+    {
+      "id": "https://vnexpress.net/gia-vang-giam-ve-gan-147-trieu-dong-5087558.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Giá vàng giảm về gần 147 triệu đồng",
+      "description": "Mỗi lượng vàng giảm hơn 4 triệu đồng về sát 147 triệu đồng, chênh lệch với thế giới sáng nay gần 15 triệu một lượng.",
+      "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/06/19/viathantai-1781839841-2622-1781840017.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=C6VTwT-L71_5Goh93IMdMg",
+      "link": "https://vnexpress.net/gia-vang-giam-ve-gan-147-trieu-dong-5087558.html",
+      "published_at": "Fri, 19 Jun 2026 10:39:28 +0700",
+      "createAt": "2026-06-19T03:39:28.000Z"
+    }
+  ]
 }
