@@ -982,5 +982,29 @@
     "link": "https://vnexpress.net/viet-nam-nga-thuc-day-hop-tac-ve-ai-luong-tu-va-cong-nghe-vu-tru-5087669.html",
     "published_at": "Fri, 19 Jun 2026 15:09:25 +0700",
     "createAt": "2026-06-19T08:09:25.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/jensen-huang-nen-thu-ai-truoc-khi-phan-xet-5087057.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Jensen Huang: 'Nên thử AI trước khi phán xét'",
+    "description": "CEO Nvidia Jensen Huang cho rằng xã hội cần thay đổi để đồng hành với sự phát triển của AI, kêu gọi mọi người cùng sử dụng công nghệ này.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/19/ap26021392224165-1781855034-2551-1781855045.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=nLhjwUDTP3lmOACRiEW7Xg",
+    "link": "https://vnexpress.net/jensen-huang-nen-thu-ai-truoc-khi-phan-xet-5087057.html",
+    "published_at": "Fri, 19 Jun 2026 19:00:00 +0700",
+    "createAt": "2026-06-19T12:00:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/ky-su-viet-co-the-tao-ra-nhung-con-chip-tien-tien-nhat-5087770.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "'Kỹ sư Việt có thể tạo ra những con chip tiên tiến nhất'",
+    "description": "Tổng giám đốc Marvell Việt Nam đánh giá, các kỹ sư trong nước có thể làm được mọi công đoạn trong thiết kế vi mạch, với những chip tiên tiến nhất - 3 nm, 2 nm.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/19/received-jpeg-1781870110-9381-1781870415.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=e9L6AtHQU4bVyQO4HDsDMA",
+    "link": "https://vnexpress.net/ky-su-viet-co-the-tao-ra-nhung-con-chip-tien-tien-nhat-5087770.html",
+    "published_at": "Fri, 19 Jun 2026 19:02:08 +0700",
+    "createAt": "2026-06-19T12:02:08.000Z"
   }
 ]
