@@ -562,5 +562,41 @@
     "link": "https://vnexpress.net/nhung-cuoc-trao-doi-ben-le-gay-chu-y-cua-cac-lanh-dao-g7-5087493.html",
     "published_at": "Sat, 20 Jun 2026 08:00:00 +0700",
     "createAt": "2026-06-20T01:00:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/dac-phai-vien-va-con-re-ong-trump-toi-thuy-si-dam-phan-voi-iran-5087863.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Đặc phái viên và con rể ông Trump 'tới Thụy Sĩ đàm phán với Iran'",
+    "description": "Đặc phái viên Witkoff và Jared Kushner được cho là đang đến Thụy Sĩ để nối lại các cuộc đàm phán với Iran sau khi thỏa thuận sơ bộ được ký.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/20/cats-1781921052-5274-1781921076.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=02_Oc9_W1So9yAtP2CVWRg",
+    "link": "https://vnexpress.net/dac-phai-vien-va-con-re-ong-trump-toi-thuy-si-dam-phan-voi-iran-5087863.html",
+    "published_at": "Sat, 20 Jun 2026 09:32:00 +0700",
+    "createAt": "2026-06-20T02:32:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/ong-zelensky-ra-toi-hau-thu-cho-belarus-5087856.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Ông Zelensky ra tối hậu thư cho Belarus",
+    "description": "Tổng thống Zelensky nói nếu Belarus không gỡ bỏ các hệ thống chuyển tiếp dùng để \"hỗ trợ UAV Nga tập kích Ukraine\" trong một tuần, Kiev sẽ hành động.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/20/Zelensky-1781920683-7759-1781921483.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=6FV6Lq8KSFDUo4W0E2SECg",
+    "link": "https://vnexpress.net/ong-zelensky-ra-toi-hau-thu-cho-belarus-5087856.html",
+    "published_at": "Sat, 20 Jun 2026 09:48:09 +0700",
+    "createAt": "2026-06-20T02:48:09.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/chuyen-gia-viet-nam-co-the-la-trung-tam-ket-noi-nga-asean-5087717.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Chuyên gia: Việt Nam có thể là trung tâm kết nối Nga - ASEAN",
+    "description": "Việt Nam có vai trò quan trọng giúp Nga - ASEAN mở ra những động lực phát triển mới thích ứng với biến động toàn cầu, theo các chuyên gia.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/19/thu-tu-o-ng-le-minh-hu-ng-1781-2242-5389-1781883795.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=0EhrpCceRrn3BOLyVCqW5g",
+    "link": "https://vnexpress.net/chuyen-gia-viet-nam-co-the-la-trung-tam-ket-noi-nga-asean-5087717.html",
+    "published_at": "Sat, 20 Jun 2026 09:49:24 +0700",
+    "createAt": "2026-06-20T02:49:24.000Z"
   }
 ]
