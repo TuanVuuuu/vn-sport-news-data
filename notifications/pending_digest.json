@@ -1,3 +1,64 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/ba-lan-thu-hoi-huan-chuong-tung-trao-cho-tong-thong-ukraine-5087835.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Ba Lan thu hồi huân chương từng trao cho Tổng thống Ukraine",
+      "description": "Tổng thống Nawrocki thông báo thu hồi Huân chương Đại bàng Trắng, giải thưởng danh giá mà Ba Lan đã trao cho Tổng thống Ukraine Zelensky.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/20/afp-b2mt9wf-v1-midres-romaniap-2760-2872-1781912872.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=sNikbC_qutxM7Z_zTYxFtA",
+      "link": "https://vnexpress.net/ba-lan-thu-hoi-huan-chuong-tung-trao-cho-tong-thong-ukraine-5087835.html",
+      "published_at": "Sat, 20 Jun 2026 07:13:29 +0700",
+      "createAt": "2026-06-20T00:13:29.000Z"
+    },
+    {
+      "id": "https://vnexpress.net/cuu-chu-tich-phuong-linh-an-vu-bao-ke-xay-nha-trai-phep-o-ha-noi-5087794.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Cựu chủ tịch phường lĩnh án vụ 'bảo kê' xây nhà trái phép ở Hà Nội",
+      "description": "Đặng Thanh Tùng, cựu Chủ tịch phường Thanh Trì và Bùi Thanh Nhã, cựu Đội trưởng quản lý trật tự xây dựng đô thị quận Hoàng Mai, hầu tòa vì nhận hối lộ, làm ngơ 6 nhà xây không phép.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/19/dsc-1781875804-6233-1781875935.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=m1kcgr4AyhIxogZ38xy69w",
+      "link": "https://vnexpress.net/cuu-chu-tich-phuong-linh-an-vu-bao-ke-xay-nha-trai-phep-o-ha-noi-5087794.html",
+      "published_at": "Sat, 20 Jun 2026 07:23:32 +0700",
+      "createAt": "2026-06-20T00:23:32.000Z"
+    },
+    {
+      "id": "https://vnexpress.net/morocco-ha-scotland-nho-ban-thang-nhanh-nhat-world-cup-2026-5087836.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Morocco hạ Scotland nhờ bàn thắng nhanh nhất World Cup 2026",
+      "description": "Pha lập công ở giây thứ 71 của Ismael Saibari giúp Morocco thắng 1-0 ở lượt hai bảng C World Cup 2026.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/06/20/ap26170811844477-1781915895-3418-1781915931.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=5eNIrGljeArQLrqkkYUB2Q",
+      "link": "https://vnexpress.net/morocco-ha-scotland-nho-ban-thang-nhanh-nhat-world-cup-2026-5087836.html",
+      "published_at": "Sat, 20 Jun 2026 07:39:35 +0700",
+      "createAt": "2026-06-20T00:39:35.000Z"
+    },
+    {
+      "id": "https://vnexpress.net/hon-80-truong-o-ha-noi-tang-diem-chuan-lop-10-manh-nhat-8-5-diem-5085564.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Hơn 80 trường ở Hà Nội tăng điểm chuẩn lớp 10, mạnh nhất 8,5 điểm",
+      "description": "Khoảng 70% số trường tăng điểm chuẩn lớp 10, mạnh nhất là THPT Đỗ Mười với mức tăng 8,5 điểm, hàng chục trường khác tăng 1-2 điểm.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/20/12trngthptcimchunl-1781889936-1643-1781890062.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=tW69xOFsIKFftoQMAsDOqQ",
+      "link": "https://vnexpress.net/hon-80-truong-o-ha-noi-tang-diem-chuan-lop-10-manh-nhat-8-5-diem-5085564.html",
+      "published_at": "Sat, 20 Jun 2026 07:52:33 +0700",
+      "createAt": "2026-06-20T00:52:33.000Z"
+    },
+    {
+      "id": "https://vnexpress.net/nhung-cuoc-trao-doi-ben-le-gay-chu-y-cua-cac-lanh-dao-g7-5087493.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Những cuộc trao đổi bên lề gây chú ý của các lãnh đạo G7",
+      "description": "Những cuộc trò chuyện ngoài lề vô tình lọt vào micro tại hội nghị G7 đã hé lộ một khía cạnh gần gũi, hài hước và hiếm thấy của các lãnh đạo thế giới.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/19/ap26168328214557-1781860242-4677-1781861189.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=dZZtBsg8CNMzIkRT5REY0w",
+      "link": "https://vnexpress.net/nhung-cuoc-trao-doi-ben-le-gay-chu-y-cua-cac-lanh-dao-g7-5087493.html",
+      "published_at": "Sat, 20 Jun 2026 08:00:00 +0700",
+      "createAt": "2026-06-20T01:00:00.000Z"
+    }
+  ]
 }
