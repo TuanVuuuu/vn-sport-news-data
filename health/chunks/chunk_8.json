@@ -298,5 +298,29 @@
     "link": "https://vnexpress.net/luu-y-khi-uong-nuoc-hoa-qua-ngam-de-giai-nhiet-5087839.html",
     "published_at": "Sat, 20 Jun 2026 10:00:00 +0700",
     "createAt": "2026-06-20T03:00:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/khuan-salmonella-khien-gan-300-nguoi-nhap-vien-sau-an-banh-mi-5087890.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Khuẩn Salmonella khiến gần 300 người nhập viện sau ăn bánh mì",
+    "description": "Kết quả xét nghiệm từ Viện Pasteur TP HCM cho thấy 25/36 mẫu bệnh phẩm từ những người nhập viện sau khi ăn bánh mì dương tính với Salmonella sp.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/20/DSC07480copy-1781924694-2965-1781924765.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=0ELoHt6TtKb4dqb-eMDAfw",
+    "link": "https://vnexpress.net/khuan-salmonella-khien-gan-300-nguoi-nhap-vien-sau-an-banh-mi-5087890.html",
+    "published_at": "Sat, 20 Jun 2026 10:39:53 +0700",
+    "createAt": "2026-06-20T03:39:53.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/thoi-quen-bo-bua-sang-day-nhieu-nguoi-viet-vao-nguy-co-beo-phi-5087801.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Thói quen bỏ bữa sáng đẩy nhiều người Việt vào nguy cơ béo phì",
+    "description": "Khảo sát trên gần 1.500 người từ 20-45 tuổi tại 5 tỉnh, thành cho thấy gần 27% không ăn sáng thường xuyên, trong khi hơn 43% rơi vào tình trạng thừa cân, béo phì.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/20/buoc-thanh-pham-1781882537-1422-1781918167.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=LNrOplr2NQDL-czkloQzTg",
+    "link": "https://vnexpress.net/thoi-quen-bo-bua-sang-day-nhieu-nguoi-viet-vao-nguy-co-beo-phi-5087801.html",
+    "published_at": "Sat, 20 Jun 2026 11:00:00 +0700",
+    "createAt": "2026-06-20T04:00:00.000Z"
   }
 ]
