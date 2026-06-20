@@ -862,5 +862,65 @@
     "link": "https://vnexpress.net/giam-doc-cong-ty-san-xuat-hang-chuc-nghin-dep-gia-hang-hieu-bi-bat-5087900.html",
     "published_at": "Sat, 20 Jun 2026 11:45:11 +0700",
     "createAt": "2026-06-20T04:45:11.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/tho-nhi-ky-paraguay-5087879-tong-thuat.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Thổ Nhĩ Kỳ thua Paraguay, sớm bị loại khỏi World Cup 2026",
+    "description": "Chơi hơn người trong hiệp hai, nhưng Thổ Nhĩ Kỳ vẫn thua Paraguay 0-1 và bị loại sau lượt hai bảng D World Cup 2026, trên sân San Francisco Bay.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/06/20/muldur-1781932456-9273-1781932468.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Tpnch1vrcxUaTMJk2VYrcw",
+    "link": "https://vnexpress.net/tho-nhi-ky-paraguay-5087879-tong-thuat.html",
+    "published_at": "Sat, 20 Jun 2026 09:55:28 +0700",
+    "createAt": "2026-06-20T02:55:28.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/bao-chi-mo-canh-cua-hai-chieu-voi-ai-5087920.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Báo chí mở 'cánh cửa hai chiều' với AI",
+    "description": "Trước làn sóng AI quét dữ liệu không kiểm soát, các chuyên gia cho rằng cơ quan báo chí cần chuyển từ thế thủ sang chủ động khóa nội dung chuyên sâu, buộc các nền tảng công nghệ mua sỉ dữ liệu để bảo vệ dòng tiền.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/20/z7956266578310-bda1544eb29d743-6319-1879-1781931051.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Pm_SvKZEJpRA8PqMvg_fQg",
+    "link": "https://vnexpress.net/bao-chi-mo-canh-cua-hai-chieu-voi-ai-5087920.html",
+    "published_at": "Sat, 20 Jun 2026 12:27:08 +0700",
+    "createAt": "2026-06-20T05:27:08.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/ca-si-liu-quoc-viet-chong-choi-benh-tat-o-tuoi-36-5087104.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Ca sĩ Liu Quốc Việt chống chọi bệnh tật ở tuổi 36",
+    "description": "Ca sĩ \"Chưa kịp nói lời yêu em\" Liu Quốc Việt, 36 tuổi, cho biết phải nghỉ hát vì mắc bệnh rễ thần kinh tủy sống, teo cơ chân.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/06/18/491399512-n-1781767090-9951-1781771357.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=tQCCycCIhQznFKod9WQLXg",
+    "link": "https://vnexpress.net/ca-si-liu-quoc-viet-chong-choi-benh-tat-o-tuoi-36-5087104.html",
+    "published_at": "Sat, 20 Jun 2026 12:40:12 +0700",
+    "createAt": "2026-06-20T05:40:12.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/cau-thu-dau-tien-bi-phat-the-do-vi-che-mieng-noi-chuyen-o-world-cup-2026-5087911.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Cầu thủ đầu tiên bị phạt thẻ đỏ vì che miệng nói chuyện ở World Cup 2026",
+    "description": "Tiền đạo Miguel Almiron của Paraguay bị phạt thẻ đỏ trực tiếp vì che miệng nói chuyện với đối thủ trong trận thắng Thổ Nhĩ Kỳ, ở lượt hai bảng D World Cup 2026.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/06/20/miguel-almiron-1781934043-7632-1781934048.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=OfmtoAFlj5n5Jr6dUmC_6A",
+    "link": "https://vnexpress.net/cau-thu-dau-tien-bi-phat-the-do-vi-che-mieng-noi-chuyen-o-world-cup-2026-5087911.html",
+    "published_at": "Sat, 20 Jun 2026 12:40:48 +0700",
+    "createAt": "2026-06-20T05:40:48.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/thu-khoa-thi-lop-10-tp-hcm-gianh-diem-toan-anh-tuyet-doi-5087933.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Thủ khoa thi lớp 10 TP HCM giành điểm Toán, Anh tuyệt đối",
+    "description": "Thủ khoa thi lớp 10 là học sinh trường tư, đạt 28,75/30 điểm với điểm tuyệt đối môn Toán, Tiếng Anh.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/20/8db87982-febdbdce1fceba356118-4662-7890-1781935100.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=_t1lHQEHV4SnEbFJesp7VQ",
+    "link": "https://vnexpress.net/thu-khoa-thi-lop-10-tp-hcm-gianh-diem-toan-anh-tuyet-doi-5087933.html",
+    "published_at": "Sat, 20 Jun 2026 12:58:20 +0700",
+    "createAt": "2026-06-20T05:58:20.000Z"
   }
 ]
