@@ -1680,6 +1680,90 @@
         "https://vnexpress.net/ai-thich-messi-ai-thich-ronaldo-5087833.html"
       ],
       "highlight_id": "https://vnexpress.net/ai-thich-messi-ai-thich-ronaldo-5087833.html"
+    },
+    {
+      "sent_at": "2026-06-20T10:20:37.785Z",
+      "topic": null,
+      "device_id": "42646ea1f2848272",
+      "slot": "evening",
+      "type": "featured_digest",
+      "article_ids": [
+        "https://vnexpress.net/hon-80-truong-o-ha-noi-tang-diem-chuan-lop-10-5085564.html",
+        "https://vnexpress.net/tho-nhi-ky-paraguay-5087879-tong-thuat.html",
+        "https://vnexpress.net/khuan-salmonella-khien-gan-300-nguoi-nhap-vien-sau-an-banh-mi-5087890.html",
+        "https://vnexpress.net/giam-doc-cong-ty-san-xuat-hang-chuc-nghin-dep-gia-hang-hieu-bi-bat-5087900.html",
+        "https://vnexpress.net/bao-chi-mo-canh-cua-hai-chieu-voi-ai-5087920.html",
+        "https://vnexpress.net/ca-si-liu-quoc-viet-chong-choi-benh-tat-o-tuoi-36-5087104.html",
+        "https://vnexpress.net/cau-thu-dau-tien-bi-phat-the-do-vi-che-mieng-noi-chuyen-o-world-cup-2026-5087911.html",
+        "https://vnexpress.net/thu-khoa-thi-lop-10-tp-hcm-gianh-diem-toan-anh-tuyet-doi-5087933.html",
+        "https://vnexpress.net/xac-dinh-hai-doi-dau-tien-bi-loai-khoi-world-cup-2026-5087940.html",
+        "https://vnexpress.net/loi-khai-cua-nu-giam-doc-ban-hon-10-000-tan-chan-ga-ban-ra-thi-truong-5087941.html",
+        "https://vnexpress.net/evn-de-nghi-lam-ro-hieu-qua-dien-mat-troi-gan-pin-luu-tru-5087938.html",
+        "https://vnexpress.net/cuu-tong-thong-obama-gat-nuoc-mat-khi-nghe-vo-phat-bieu-5087944.html",
+        "https://vnexpress.net/lang-muoi-cuoi-cung-o-quang-tri-5087708.html",
+        "https://vnexpress.net/xuan-nghi-lam-le-cuoi-tai-nha-tho-5087945.html",
+        "https://vnexpress.net/israel-bi-to-tap-kich-lebanon-bat-chap-lenh-ngung-ban-5087946.html",
+        "https://vnexpress.net/bac-si-hai-vien-hop-luc-cuu-be-11-tuoi-bi-oto-can-qua-nguoi-5087971.html",
+        "https://vnexpress.net/hon-22-300-thi-sinh-do-ve-ky-thi-vao-8-truong-cong-an-5087975.html",
+        "https://vnexpress.net/hai-bo-tot-chet-trong-khu-bao-ton-dong-nai-5087997.html"
+      ],
+      "highlight_id": "https://vnexpress.net/hai-bo-tot-chet-trong-khu-bao-ton-dong-nai-5087997.html"
+    },
+    {
+      "sent_at": "2026-06-20T10:20:37.881Z",
+      "topic": null,
+      "device_id": "fcbd9785a62785c0",
+      "slot": "evening",
+      "type": "featured_digest",
+      "article_ids": [
+        "https://vnexpress.net/hon-80-truong-o-ha-noi-tang-diem-chuan-lop-10-5085564.html",
+        "https://vnexpress.net/tho-nhi-ky-paraguay-5087879-tong-thuat.html",
+        "https://vnexpress.net/khuan-salmonella-khien-gan-300-nguoi-nhap-vien-sau-an-banh-mi-5087890.html",
+        "https://vnexpress.net/giam-doc-cong-ty-san-xuat-hang-chuc-nghin-dep-gia-hang-hieu-bi-bat-5087900.html",
+        "https://vnexpress.net/bao-chi-mo-canh-cua-hai-chieu-voi-ai-5087920.html",
+        "https://vnexpress.net/ca-si-liu-quoc-viet-chong-choi-benh-tat-o-tuoi-36-5087104.html",
+        "https://vnexpress.net/cau-thu-dau-tien-bi-phat-the-do-vi-che-mieng-noi-chuyen-o-world-cup-2026-5087911.html",
+        "https://vnexpress.net/thu-khoa-thi-lop-10-tp-hcm-gianh-diem-toan-anh-tuyet-doi-5087933.html",
+        "https://vnexpress.net/xac-dinh-hai-doi-dau-tien-bi-loai-khoi-world-cup-2026-5087940.html",
+        "https://vnexpress.net/loi-khai-cua-nu-giam-doc-ban-hon-10-000-tan-chan-ga-ban-ra-thi-truong-5087941.html",
+        "https://vnexpress.net/evn-de-nghi-lam-ro-hieu-qua-dien-mat-troi-gan-pin-luu-tru-5087938.html",
+        "https://vnexpress.net/cuu-tong-thong-obama-gat-nuoc-mat-khi-nghe-vo-phat-bieu-5087944.html",
+        "https://vnexpress.net/lang-muoi-cuoi-cung-o-quang-tri-5087708.html",
+        "https://vnexpress.net/xuan-nghi-lam-le-cuoi-tai-nha-tho-5087945.html",
+        "https://vnexpress.net/israel-bi-to-tap-kich-lebanon-bat-chap-lenh-ngung-ban-5087946.html",
+        "https://vnexpress.net/bac-si-hai-vien-hop-luc-cuu-be-11-tuoi-bi-oto-can-qua-nguoi-5087971.html",
+        "https://vnexpress.net/hon-22-300-thi-sinh-do-ve-ky-thi-vao-8-truong-cong-an-5087975.html",
+        "https://vnexpress.net/hai-bo-tot-chet-trong-khu-bao-ton-dong-nai-5087997.html"
+      ],
+      "highlight_id": "https://vnexpress.net/hai-bo-tot-chet-trong-khu-bao-ton-dong-nai-5087997.html"
+    },
+    {
+      "sent_at": "2026-06-20T10:20:37.969Z",
+      "topic": null,
+      "device_id": "979bdb8856573cb2",
+      "slot": "evening",
+      "type": "featured_digest",
+      "article_ids": [
+        "https://vnexpress.net/hon-80-truong-o-ha-noi-tang-diem-chuan-lop-10-5085564.html",
+        "https://vnexpress.net/tho-nhi-ky-paraguay-5087879-tong-thuat.html",
+        "https://vnexpress.net/khuan-salmonella-khien-gan-300-nguoi-nhap-vien-sau-an-banh-mi-5087890.html",
+        "https://vnexpress.net/giam-doc-cong-ty-san-xuat-hang-chuc-nghin-dep-gia-hang-hieu-bi-bat-5087900.html",
+        "https://vnexpress.net/bao-chi-mo-canh-cua-hai-chieu-voi-ai-5087920.html",
+        "https://vnexpress.net/ca-si-liu-quoc-viet-chong-choi-benh-tat-o-tuoi-36-5087104.html",
+        "https://vnexpress.net/cau-thu-dau-tien-bi-phat-the-do-vi-che-mieng-noi-chuyen-o-world-cup-2026-5087911.html",
+        "https://vnexpress.net/thu-khoa-thi-lop-10-tp-hcm-gianh-diem-toan-anh-tuyet-doi-5087933.html",
+        "https://vnexpress.net/xac-dinh-hai-doi-dau-tien-bi-loai-khoi-world-cup-2026-5087940.html",
+        "https://vnexpress.net/loi-khai-cua-nu-giam-doc-ban-hon-10-000-tan-chan-ga-ban-ra-thi-truong-5087941.html",
+        "https://vnexpress.net/evn-de-nghi-lam-ro-hieu-qua-dien-mat-troi-gan-pin-luu-tru-5087938.html",
+        "https://vnexpress.net/cuu-tong-thong-obama-gat-nuoc-mat-khi-nghe-vo-phat-bieu-5087944.html",
+        "https://vnexpress.net/lang-muoi-cuoi-cung-o-quang-tri-5087708.html",
+        "https://vnexpress.net/xuan-nghi-lam-le-cuoi-tai-nha-tho-5087945.html",
+        "https://vnexpress.net/israel-bi-to-tap-kich-lebanon-bat-chap-lenh-ngung-ban-5087946.html",
+        "https://vnexpress.net/bac-si-hai-vien-hop-luc-cuu-be-11-tuoi-bi-oto-can-qua-nguoi-5087971.html",
+        "https://vnexpress.net/hon-22-300-thi-sinh-do-ve-ky-thi-vao-8-truong-cong-an-5087975.html",
+        "https://vnexpress.net/hai-bo-tot-chet-trong-khu-bao-ton-dong-nai-5087997.html"
+      ],
+      "highlight_id": "https://vnexpress.net/hai-bo-tot-chet-trong-khu-bao-ton-dong-nai-5087997.html"
     }
   ]
 }
