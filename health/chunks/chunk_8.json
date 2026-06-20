@@ -346,5 +346,41 @@
     "link": "https://vnexpress.net/bac-si-canh-bao-4-nhom-nguoi-tre-co-nguy-co-suy-than-5087899.html",
     "published_at": "Sat, 20 Jun 2026 12:00:00 +0700",
     "createAt": "2026-06-20T05:00:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/khi-nao-can-cat-thang-luoi-cho-tre-5087915.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Khi nào cần cắt thắng lưỡi cho trẻ?",
+    "description": "Trẻ cần cắt thắng lưỡi nếu bú mẹ kém, gặp khó khăn khi ăn dặm hoặc phát âm không rõ khi lớn hơn.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/20/image001-1781930180-5287-1781930236.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=uBa8DnWEFmmJ48cpOkDFKA",
+    "link": "https://vnexpress.net/khi-nao-can-cat-thang-luoi-cho-tre-5087915.html",
+    "published_at": "Sat, 20 Jun 2026 14:00:00 +0700",
+    "createAt": "2026-06-20T07:00:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/toc-rung-tung-nam-vi-thuc-dem-chay-deadline-5087907.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Tóc rụng từng nắm vì thức đêm chạy deadline",
+    "description": "Ba tháng liên tục làm việc đến 2 giờ sáng, Ngân Bình mất ngủ, kém tập trung và tóc rụng nhiều, bác sĩ nhận định tình trạng có liên quan căng thẳng kéo dài.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/20/rung-toc-vi-deadline-178192862-2491-6229-1781929532.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=MmfhA2PkSMODA-F9VUgyBg",
+    "link": "https://vnexpress.net/toc-rung-tung-nam-vi-thuc-dem-chay-deadline-5087907.html",
+    "published_at": "Sat, 20 Jun 2026 14:00:00 +0700",
+    "createAt": "2026-06-20T07:00:00.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/sai-lam-dung-dao-thot-khien-nguoi-phu-nu-bi-2-con-san-dai-10-cm-lam-to-o-tay-5087830.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Sai lầm dùng dao thớt khiến người phụ nữ bị 2 con sán dài 10 cm làm tổ ở tay",
+    "description": "Từ thói quen dùng chung dao thớt khi chế biến thịt ếch sống, một phụ nữ Trung Quốc phải nhập viện phẫu thuật vì bị hai con sán dây dài 10 cm ký sinh ngay trong cánh tay.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/20/233A5143-9557-1781939830.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=C7X0dIE7VS2hgCqTBAKz3A",
+    "link": "https://vnexpress.net/sai-lam-dung-dao-thot-khien-nguoi-phu-nu-bi-2-con-san-dai-10-cm-lam-to-o-tay-5087830.html",
+    "published_at": "Sat, 20 Jun 2026 14:18:45 +0700",
+    "createAt": "2026-06-20T07:18:45.000Z"
   }
 ]
