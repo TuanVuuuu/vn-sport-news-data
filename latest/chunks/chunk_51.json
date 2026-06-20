@@ -994,5 +994,113 @@
     "link": "https://vnexpress.net/anh-tung-muon-mua-o-to-cho-toi-nhung-cuoi-cung-van-chon-gia-dinh-5087897.html",
     "published_at": "Sat, 20 Jun 2026 12:09:29 +0700",
     "createAt": "2026-06-20T05:09:29.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/tho-nhi-ky-paraguay-5087879-tong-thuat.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Thổ Nhĩ Kỳ thua Paraguay, sớm bị loại khỏi World Cup 2026",
+    "description": "Chơi hơn người trong hiệp hai, nhưng Thổ Nhĩ Kỳ vẫn thua Paraguay 0-1 và bị loại sau lượt hai bảng D World Cup 2026, trên sân San Francisco Bay.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/06/20/muldur-1781932456-9273-1781932468.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Tpnch1vrcxUaTMJk2VYrcw",
+    "link": "https://vnexpress.net/tho-nhi-ky-paraguay-5087879-tong-thuat.html",
+    "published_at": "Sat, 20 Jun 2026 09:55:28 +0700",
+    "createAt": "2026-06-20T02:55:28.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/bao-chi-mo-canh-cua-hai-chieu-voi-ai-5087920.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Báo chí mở 'cánh cửa hai chiều' với AI",
+    "description": "Trước làn sóng AI quét dữ liệu không kiểm soát, các chuyên gia cho rằng cơ quan báo chí cần chuyển từ thế thủ sang chủ động khóa nội dung chuyên sâu, buộc các nền tảng công nghệ mua sỉ dữ liệu để bảo vệ dòng tiền.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/20/z7956266578310-bda1544eb29d743-6319-1879-1781931051.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Pm_SvKZEJpRA8PqMvg_fQg",
+    "link": "https://vnexpress.net/bao-chi-mo-canh-cua-hai-chieu-voi-ai-5087920.html",
+    "published_at": "Sat, 20 Jun 2026 12:27:08 +0700",
+    "createAt": "2026-06-20T05:27:08.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/ca-si-liu-quoc-viet-chong-choi-benh-tat-o-tuoi-36-5087104.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Ca sĩ Liu Quốc Việt chống chọi bệnh tật ở tuổi 36",
+    "description": "Ca sĩ \"Chưa kịp nói lời yêu em\" Liu Quốc Việt, 36 tuổi, cho biết phải nghỉ hát vì mắc bệnh rễ thần kinh tủy sống, teo cơ chân.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/06/18/491399512-n-1781767090-9951-1781771357.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=tQCCycCIhQznFKod9WQLXg",
+    "link": "https://vnexpress.net/ca-si-liu-quoc-viet-chong-choi-benh-tat-o-tuoi-36-5087104.html",
+    "published_at": "Sat, 20 Jun 2026 12:40:12 +0700",
+    "createAt": "2026-06-20T05:40:12.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/cau-thu-dau-tien-bi-phat-the-do-vi-che-mieng-noi-chuyen-o-world-cup-2026-5087911.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Cầu thủ đầu tiên bị phạt thẻ đỏ vì che miệng nói chuyện ở World Cup 2026",
+    "description": "Tiền đạo Miguel Almiron của Paraguay bị phạt thẻ đỏ trực tiếp vì che miệng nói chuyện với đối thủ trong trận thắng Thổ Nhĩ Kỳ, ở lượt hai bảng D World Cup 2026.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/06/20/miguel-almiron-1781934043-7632-1781934048.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=OfmtoAFlj5n5Jr6dUmC_6A",
+    "link": "https://vnexpress.net/cau-thu-dau-tien-bi-phat-the-do-vi-che-mieng-noi-chuyen-o-world-cup-2026-5087911.html",
+    "published_at": "Sat, 20 Jun 2026 12:40:48 +0700",
+    "createAt": "2026-06-20T05:40:48.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/algeria-khieu-nai-vu-messi-thoat-the-do-5087926.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Algeria khiếu nại vụ Messi thoát thẻ đỏ",
+    "description": "LĐBĐ Algeria (FAF) gửi đơn khiếu nại lên FIFA về tình huống gây tranh cãi liên quan đến Lionel Messi trong trận thua Argentina 0-3.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/06/20/newproject1-1781933489-5706-1781933676.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=8yWjzzHM-l79JWhEdDTxvg",
+    "link": "https://vnexpress.net/algeria-khieu-nai-vu-messi-thoat-the-do-5087926.html",
+    "published_at": "Sat, 20 Jun 2026 12:46:18 +0700",
+    "createAt": "2026-06-20T05:46:18.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/pax-thien-van-giu-moi-quan-he-voi-gia-dinh-pitt-5087861.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Pax Thiên 'vẫn giữ mối quan hệ với gia đình Pitt'",
+    "description": "Pax Thiên - con nuôi gốc Việt của Angelina Jolie - được cho dù cắt quan hệ với Brad Pitt, vẫn giữ mối thân thiết với họ hàng của bố.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/06/20/pax-thie-n-du-lie-n-hoan-phim-9976-1621-1781923587.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=X_h0lFCbj_EAKAsbF8X1KA",
+    "link": "https://vnexpress.net/pax-thien-van-giu-moi-quan-he-voi-gia-dinh-pitt-5087861.html",
+    "published_at": "Sat, 20 Jun 2026 12:51:39 +0700",
+    "createAt": "2026-06-20T05:51:39.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/cau-thu-world-cup-viet-thu-gui-em-gai-da-mat-o-tuoi-15-5087896.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Cầu thủ World Cup viết thư gửi em gái đã mất ở tuổi 15",
+    "description": "Tiền vệ 19 tuổi của Bờ Biển Ngà, Yan Diomande dành tặng danh hiệu \"Cầu thủ xuất sắc nhất trận\" tại World Cup 2026 cho người em gái đã qua đời.",
+    "thumbnail_url": "https://vcdn1-giadinh.vnecdn.net/2026/06/20/untitled-1781926624-3954-1781927207.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=-S3TPs2bcua1Kwd03cdMsg",
+    "link": "https://vnexpress.net/cau-thu-world-cup-viet-thu-gui-em-gai-da-mat-o-tuoi-15-5087896.html",
+    "published_at": "Sat, 20 Jun 2026 12:56:32 +0700",
+    "createAt": "2026-06-20T05:56:32.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/xe-ben-chuyen-lan-dam-xe-con-xoay-ngang-5087038.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Xe ben chuyển làn đâm xe con xoay ngang",
+    "description": "Xe ben chuyển làn huých vào hông xe con ở làn bên cạnh, khiến chiếc xe này xoay ngang, hôm 17/6 tại Lý Nhân.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/19/ezgif23398ed3d7623f68-17817452-7453-7258-1781828791.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=zDBpBhugLsUOY-ozlsklBw&t=image",
+    "link": "https://vnexpress.net/xe-ben-chuyen-lan-dam-xe-con-xoay-ngang-5087038.html",
+    "published_at": "Sat, 20 Jun 2026 12:56:38 +0700",
+    "createAt": "2026-06-20T05:56:38.000Z"
+  },
+  {
+    "id": "https://vnexpress.net/thu-khoa-thi-lop-10-tp-hcm-gianh-diem-toan-anh-tuyet-doi-5087933.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Thủ khoa thi lớp 10 TP HCM giành điểm Toán, Anh tuyệt đối",
+    "description": "Thủ khoa thi lớp 10 là học sinh trường tư, đạt 28,75/30 điểm với điểm tuyệt đối môn Toán, Tiếng Anh.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/20/8db87982-febdbdce1fceba356118-4662-7890-1781935100.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=_t1lHQEHV4SnEbFJesp7VQ",
+    "link": "https://vnexpress.net/thu-khoa-thi-lop-10-tp-hcm-gianh-diem-toan-anh-tuyet-doi-5087933.html",
+    "published_at": "Sat, 20 Jun 2026 12:58:20 +0700",
+    "createAt": "2026-06-20T05:58:20.000Z"
   }
 ]
