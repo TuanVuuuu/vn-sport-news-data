@@ -1,6 +1,18 @@
 {
   "featured": [
     {
+      "id": "https://vnexpress.net/hon-80-truong-o-ha-noi-tang-diem-chuan-lop-10-5085564.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Hơn 80 trường ở Hà Nội tăng điểm chuẩn lớp 10",
+      "description": "Trong mùa thi đông kỷ lục, khoảng 70% số trường tăng điểm chuẩn lớp 10, mạnh nhất là THPT Đỗ Mười.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/20/12trngthptcimchunl-1781889936-1643-1781890062.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=tW69xOFsIKFftoQMAsDOqQ",
+      "link": "https://vnexpress.net/hon-80-truong-o-ha-noi-tang-diem-chuan-lop-10-5085564.html",
+      "published_at": "Sat, 20 Jun 2026 07:52:33 +0700",
+      "createAt": "2026-06-20T00:52:33.000Z"
+    },
+    {
       "id": "https://vnexpress.net/tho-nhi-ky-paraguay-5087879-tong-thuat.html",
       "category_id": "featured",
       "category_name": "Tin nổi bật",
@@ -95,6 +107,30 @@
       "link": "https://vnexpress.net/xac-dinh-hai-doi-dau-tien-bi-loai-khoi-world-cup-2026-5087940.html",
       "published_at": "Sat, 20 Jun 2026 13:26:18 +0700",
       "createAt": "2026-06-20T06:26:18.000Z"
+    },
+    {
+      "id": "https://vnexpress.net/loi-khai-cua-nu-giam-doc-ban-hon-10-000-tan-chan-ga-ban-ra-thi-truong-5087941.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Lời khai của nữ giám đốc bán hơn 10.000 tấn chân gà 'bẩn' ra thị trường",
+      "description": "Nguyễn Thị Tố Loan nhập 339 container chân gà theo diện gia công, tái xuất, trị giá gần 350 tỷ đồng, sau đó tuồn ra thị trường khoảng 10.000 tấn dù đã hết hạn sử dụng.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/20/NGHINTANCHANGA00000734Still002-1390-8199-1781936211.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ekjVkZClKRPBxQYKHsPNrg",
+      "link": "https://vnexpress.net/loi-khai-cua-nu-giam-doc-ban-hon-10-000-tan-chan-ga-ban-ra-thi-truong-5087941.html",
+      "published_at": "Sat, 20 Jun 2026 14:05:14 +0700",
+      "createAt": "2026-06-20T07:05:14.000Z"
+    },
+    {
+      "id": "https://vnexpress.net/evn-de-nghi-lam-ro-hieu-qua-dien-mat-troi-gan-pin-luu-tru-5087938.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "EVN đề nghị làm rõ hiệu quả điện mặt trời gắn pin lưu trữ",
+      "description": "EVN đề nghị làm rõ hiệu quả của các dự án điện mặt trời gắn pin lưu trữ (BESS), khi mô hình này làm tăng giá điện nhưng lợi ích với hệ thống chưa rõ.",
+      "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/06/20/img0094jpg-1781935738-2813-1781935784.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=A28Ne3EX4g6PGXo5UDSAjQ",
+      "link": "https://vnexpress.net/evn-de-nghi-lam-ro-hieu-qua-dien-mat-troi-gan-pin-luu-tru-5087938.html",
+      "published_at": "Sat, 20 Jun 2026 14:12:14 +0700",
+      "createAt": "2026-06-20T07:12:14.000Z"
     }
   ]
 }
