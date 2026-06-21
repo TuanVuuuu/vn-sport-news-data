@@ -739,5 +739,44 @@
     "published_at": "Sun, 21 Jun 2026 08:30:01 +0700",
     "createAt": "2026-06-21T01:30:01.000Z",
     "thumbnail_blurhash": "LAH.=p~n01IA7y?^D4xu4UDiIpMf"
+  },
+  {
+    "id": "https://vnexpress.net/de-che-kinh-doanh-khong-lo-cua-elon-musk-5088103.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Đế chế kinh doanh khổng lồ của Elon Musk",
+    "description": "Elon Musk từng đồng sáng lập PayPal, OpenAI, nhưng hiện chỉ điều hành SpaceX, Tesla, Neuralink và The Boring Company.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/06/21/afp-v1-highres-elonmuskholdsto-2292-4119-1782010449.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=1TsQkqWOtmiIQOK881cPdQ",
+    "link": "https://vnexpress.net/de-che-kinh-doanh-khong-lo-cua-elon-musk-5088103.html",
+    "published_at": "Sun, 21 Jun 2026 11:00:00 +0700",
+    "createAt": "2026-06-21T04:00:00.000Z",
+    "thumbnail_blurhash": "LUDl~s0jx|%3xJbwNEnztTafRjob"
+  },
+  {
+    "id": "https://vnexpress.net/xuat-khau-ghe-viet-sang-my-tang-manh-5088156.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Xuất khẩu ghẹ Việt sang Mỹ tăng mạnh",
+    "description": "Mỹ là thị trường tiêu thụ chủ lực mặt hàng ghẹ của Việt Nam trong 4 tháng đầu năm, với kim ngạch tăng gần gấp rưỡi so với cùng kỳ.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/06/21/ghe-1782022448-2861-1782022572.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=bAOw4LIbbePn4aMO0EEYLA",
+    "link": "https://vnexpress.net/xuat-khau-ghe-viet-sang-my-tang-manh-5088156.html",
+    "published_at": "Sun, 21 Jun 2026 14:40:34 +0700",
+    "createAt": "2026-06-21T07:40:34.000Z",
+    "thumbnail_blurhash": "LQHB*jt2~VozIu9bRjxW?FR-E2Rj"
+  },
+  {
+    "id": "https://vnexpress.net/5-bat-ngo-cua-trieu-phu-tu-than-khi-nghi-huu-som-o-tuoi-40-5088104.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "5 bất ngờ của triệu phú tự thân khi nghỉ hưu sớm ở tuổi 40",
+    "description": "Bernadette Joy, một triệu phú tự thân tại Mỹ, vẫn lo lắng về tiền bạc lúc thị trường lao dốc, gặp khó trong sắp xếp lịch trình mỗi ngày và đôi khi cảm thấy cô đơn.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/06/21/bernadette-joy-1782014934-9560-1782014985.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Bb6zCy8xYTpLvN0q98Mf1g",
+    "link": "https://vnexpress.net/5-bat-ngo-cua-trieu-phu-tu-than-khi-nghi-huu-som-o-tuoi-40-5088104.html",
+    "published_at": "Sun, 21 Jun 2026 15:10:00 +0700",
+    "createAt": "2026-06-21T08:10:00.000Z",
+    "thumbnail_blurhash": "LRHB3p$yBT-o~B-VNHx[%MaejFNa"
   }
 ]
