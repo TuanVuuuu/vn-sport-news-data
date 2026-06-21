@@ -29,5 +29,19 @@
     "contact": "Tuanvuanbai@gmail.com",
     "status": "new",
     "created_at": "2026-06-21T08:58:23.953Z"
+  },
+  {
+    "id": "fb_20260621_e68ce0d6",
+    "type": "bug",
+    "message": "Test bao loi",
+    "device_id": "EBB7CAB7-FDF1-438F-87F2-A9999FBD4DB9",
+    "platform": "ios",
+    "app_version": "1.0.0",
+    "os_version": "iOS 26.2",
+    "screen": "FeedbackSupport",
+    "context": {},
+    "contact": "Tuanvuanbai@gmail.com",
+    "status": "new",
+    "created_at": "2026-06-21T09:02:32.071Z"
   }
 ]
