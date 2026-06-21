@@ -1233,5 +1233,31 @@
     "published_at": "Sun, 21 Jun 2026 08:00:00 +0700",
     "createAt": "2026-06-21T01:00:00.000Z",
     "thumbnail_blurhash": "LJJuGoNf$%~W~V%1I:IpRPITNGt8"
+  },
+  {
+    "id": "https://vnexpress.net/asml-tsmc-va-imec-che-tao-thanh-cong-bong-ban-dan-vat-lieu-2d-5088070.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "ASML, TSMC và Imec chế tạo thành công bóng bán dẫn vật liệu 2D",
+    "description": "Ba ông lớn ngành chip gồm ASML, TSML và Imec công bố giải pháp sản xuất bóng bán dẫn từ vật liệu 2D siêu mỏng trên tấm wafer lớn.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/21/feature-imec-tsmc-asml-1782009-5859-3729-1782009321.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=z8_GEZGZHV7URttXa90EWA",
+    "link": "https://vnexpress.net/asml-tsmc-va-imec-che-tao-thanh-cong-bong-ban-dan-vat-lieu-2d-5088070.html",
+    "published_at": "Sun, 21 Jun 2026 12:00:00 +0700",
+    "createAt": "2026-06-21T05:00:00.000Z",
+    "thumbnail_blurhash": "L8Ho5z6n$R^*E0nhxuV[KZ}:tlNH"
+  },
+  {
+    "id": "https://vnexpress.net/tv-samsung-ho-tro-tim-kiem-tra-loi-bang-hoi-thoai-ai-5088171.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "TV Samsung hỗ trợ tìm kiếm, trả lời bằng hội thoại AI",
+    "description": "Nền tảng Vision AI Companion của Samsung kết hợp nhiều mô hình AI, hỗ trợ tìm kiếm thông tin, dịch thuật, gợi ý nội dung và điều khiển tác vụ trực tiếp trên TV.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/21/2026-micro-rgb-r85h-pers-wall-2438-3858-1782019092.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=-QF4D9myQbJxNz_J4Tgsfg",
+    "link": "https://vnexpress.net/tv-samsung-ho-tro-tim-kiem-tra-loi-bang-hoi-thoai-ai-5088171.html",
+    "published_at": "Sun, 21 Jun 2026 14:00:00 +0700",
+    "createAt": "2026-06-21T07:00:00.000Z",
+    "thumbnail_blurhash": "LG8XnX%%tm%hXp%hx^S6yEo$kDkD"
   }
 ]
