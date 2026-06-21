@@ -16,7 +16,7 @@
     },
     {
       "device_id": "6296C746-2413-4A29-B3CC-39F791042275",
-      "fcm_token": "eGE3OTpMvEiRhlhvVkgMFu:APA91bH8siHR8HCMduXooc2CKxoNX75cce8--X2dGQSVLARPIl5DWpuNQh7gKpoyPDP_I1xv2MssqrvGxnV0MLyIvA_h5iouWoq3E7p5iYJ4KGss_jTkYs4",
+      "fcm_token": "c9Req7AOOE-1vA2fIsjHWa:APA91bGfVfk9htpvtkMjICSGlO-qh6f6GqcjvkRQQ9RmkkBaByKwgplhSq3GwZpR0bZz7SBtJ0o32eCTMlIDVpSoS682Uq77QkQdm0T4laRTcYP0DBanBHg",
       "platform": "ios",
       "preferences": {
         "enabled": true,
@@ -26,7 +26,7 @@
         ]
       },
       "created_at": "2026-06-21T06:58:48.668Z",
-      "updated_at": "2026-06-21T06:59:54.770Z"
+      "updated_at": "2026-06-21T06:59:57.447Z"
     }
   ]
 }
