@@ -960,5 +960,44 @@
     "published_at": "Sat, 20 Jun 2026 12:56:38 +0700",
     "createAt": "2026-06-20T05:56:38.000Z",
     "thumbnail_blurhash": "LaECwhM{NFt7_NRjRkof?vWBayfR"
+  },
+  {
+    "id": "https://vnexpress.net/sieu-xe-koenigsegg-bang-lego-dat-toc-do-hon-110-km-h-5087580.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Siêu xe Koenigsegg bằng lego đạt tốc độ hơn 110 km/h",
+    "description": "Chiếc Koenigsegg lắp bằng 327.906 miếng lego có kích thước bằng xe thật và chạy trên đường đua leo dốc nổi tiếng ở Goodwood, Anh.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/20/ezgif5669a59e9cb51357-17819218-4898-4877-1781922379.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=aNblwcGmnsMeMXplD8aWZw&t=image",
+    "link": "https://vnexpress.net/sieu-xe-koenigsegg-bang-lego-dat-toc-do-hon-110-km-h-5087580.html",
+    "published_at": "Sun, 21 Jun 2026 04:00:00 +0700",
+    "createAt": "2026-06-20T21:00:00.000Z",
+    "thumbnail_blurhash": "LB9G,Gxb~B-o%Jxu%2xtEfWC9bbH"
+  },
+  {
+    "id": "https://vnexpress.net/mazda-cx-60-gia-1-699-ty-dong-tai-viet-nam-5088048.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Mazda CX-60 giá 1,699 tỷ đồng tại Việt Nam",
+    "description": "Mẫu SUV cỡ D Mazda CX-60 chính thức bán tại Việt Nam với giá 1,699 tỷ đồng, trang bị động cơ I6 hybrid, hệ truyền động AWD.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/20/mazdacx60-1781962734-8261-1781962767.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=rHwZ6y35flPphes8a1XpRQ",
+    "link": "https://vnexpress.net/mazda-cx-60-gia-1-699-ty-dong-tai-viet-nam-5088048.html",
+    "published_at": "Sun, 21 Jun 2026 05:00:00 +0700",
+    "createAt": "2026-06-20T22:00:00.000Z",
+    "thumbnail_blurhash": "LQD]*3xV$_f,_JRlMzR.RiRlIboI"
+  },
+  {
+    "id": "https://vnexpress.net/sep-ford-thiet-ke-coi-oto-cho-an-do-phuc-tap-nhat-5087910.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Sếp Ford: 'Thiết kế còi ôtô cho Ấn Độ phức tạp nhất'",
+    "description": "Jim Farley, CEO của hãng Mỹ, nói rằng ôtô ở Ấn Độ đòi hỏi việc thiết kế còi phức tạp nhất, thậm chí phải chi thêm tiền.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/20/India3-1781934379-4308-1781934540.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Utx2A3wpyk2l1wZtGEwY3Q",
+    "link": "https://vnexpress.net/sep-ford-thiet-ke-coi-oto-cho-an-do-phuc-tap-nhat-5087910.html",
+    "published_at": "Sun, 21 Jun 2026 06:00:00 +0700",
+    "createAt": "2026-06-20T23:00:00.000Z",
+    "thumbnail_blurhash": "LQFF{St6%4xZ_Nogt-R*DjtR%hWE"
   }
 ]

@@ -700,5 +700,44 @@
     "published_at": "Sat, 20 Jun 2026 19:39:07 +0700",
     "createAt": "2026-06-20T12:39:07.000Z",
     "thumbnail_blurhash": "LEFiGb?b00R400IUxWWV?wt7D%xu"
+  },
+  {
+    "id": "https://vnexpress.net/trang-trai-dien-gio-lon-nhat-nuoc-my-hoan-thanh-sau-hai-thap-ky-5088028.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Trang trại điện gió lớn nhất nước Mỹ hoàn thành sau hai thập kỷ",
+    "description": "Trang trại điện gió SunZia gồm hơn 900 turbine, vốn đầu tư 11 tỷ USD, công suất 3.650 MW, gấp ba lần trang trại lớn thứ hai tại Mỹ.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/06/20/2026t230630z-rc2lwlaleq8a-rtrm-4055-8298-1781956448.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=LbDkZvnsu4qEGvCTZW1oPQ",
+    "link": "https://vnexpress.net/trang-trai-dien-gio-lon-nhat-nuoc-my-hoan-thanh-sau-hai-thap-ky-5088028.html",
+    "published_at": "Sun, 21 Jun 2026 00:02:00 +0700",
+    "createAt": "2026-06-20T17:02:00.000Z",
+    "thumbnail_blurhash": "L~LLgrWWWCoL}?j[afoL-ToLjaoK"
+  },
+  {
+    "id": "https://vnexpress.net/phong-cach-dieu-hanh-tinh-gon-cua-tan-chu-tich-fed-5088086.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Phong cách điều hành 'tinh gọn' của tân chủ tịch Fed",
+    "description": "Ngay cuộc họp chính sách đầu tiên, Chủ tịch mới của Fed Kevin Warsh đã để lại dấu ấn riêng, với phong cách điều hành tinh gọn.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/06/21/afp-b7fr8pz-v1-midres-17820037-8817-8558-1782003773.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Q46c4loqxIexBIqlpaWhjg",
+    "link": "https://vnexpress.net/phong-cach-dieu-hanh-tinh-gon-cua-tan-chu-tich-fed-5088086.html",
+    "published_at": "Sun, 21 Jun 2026 07:58:01 +0700",
+    "createAt": "2026-06-21T00:58:01.000Z",
+    "thumbnail_blurhash": "L38|hdE100010fae9u-p00s.~Wt8"
+  },
+  {
+    "id": "https://vnexpress.net/han-quoc-lo-lam-phat-do-cong-ty-cong-nghe-chi-thuong-khung-5088076.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Hàn Quốc lo lạm phát do công ty công nghệ chi thưởng 'khủng'",
+    "description": "Ngân hàng Trung ương Hàn Quốc (BOK) cảnh báo áp lực lạm phát khi người lao động trong ngành công nghệ nhận được lượng tiền thưởng lớn.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/06/21/afp-hkg8233490-v1001-midres-sk-8694-1443-1781974972.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=52x4ZAuof5c4Fm_uTokiEA",
+    "link": "https://vnexpress.net/han-quoc-lo-lam-phat-do-cong-ty-cong-nghe-chi-thuong-khung-5088076.html",
+    "published_at": "Sun, 21 Jun 2026 08:30:01 +0700",
+    "createAt": "2026-06-21T01:30:01.000Z",
+    "thumbnail_blurhash": "LAH.=p~n01IA7y?^D4xu4UDiIpMf"
   }
 ]

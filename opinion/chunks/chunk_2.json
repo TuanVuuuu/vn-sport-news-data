@@ -1181,5 +1181,31 @@
     "published_at": "Sat, 20 Jun 2026 16:42:02 +0700",
     "createAt": "2026-06-20T09:42:02.000Z",
     "thumbnail_blurhash": "LCG*vW~TE04:[SIUFh%0~VJD=tOq"
+  },
+  {
+    "id": "https://vnexpress.net/toi-san-sang-danh-doi-thua-ke-de-cha-me-gia-vao-vien-duong-lao-5087970.html",
+    "category_id": "opinion",
+    "category_name": "Ý kiến",
+    "source": "VnExpress",
+    "title": "Tôi sẵn sàng đánh đổi thừa kế để cha mẹ già vào viện dưỡng lão",
+    "description": "Tôi sẵn sàng dùng toàn bộ tài sản thừa kế, trích thêm một phần thu nhập của mình, để bố mẹ an dưỡng tuổi già trong viện dưỡng lão.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/20/ratio3x2960-1781941836-5219-1781941993.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Fk7jDegLMqSfDuazRsJPvA",
+    "link": "https://vnexpress.net/toi-san-sang-danh-doi-thua-ke-de-cha-me-gia-vao-vien-duong-lao-5087970.html",
+    "published_at": "Sun, 21 Jun 2026 00:00:00 +0700",
+    "createAt": "2026-06-20T17:00:00.000Z",
+    "thumbnail_blurhash": "LGGuO5^hDit3_4%2Mc$zI]S5IUs."
+  },
+  {
+    "id": "https://vnexpress.net/con-toi-thi-toan-9-5-diem-nhung-khong-vao-truong-chuyen-5088121.html",
+    "category_id": "opinion",
+    "category_name": "Ý kiến",
+    "source": "VnExpress",
+    "title": "Con tôi thi Toán 9,5 điểm nhưng không vào trường chuyên",
+    "description": "Khi con tôi học lớp 9, nhiều người quen ngạc nhiên khi biết tôi không đăng ký cho con thi vào trường chuyên Toán.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/21/thilop10-1782008043-7943-1782008064.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=jglfdLNw608iIz0YHd1Rdw",
+    "link": "https://vnexpress.net/con-toi-thi-toan-9-5-diem-nhung-khong-vao-truong-chuyen-5088121.html",
+    "published_at": "Sun, 21 Jun 2026 09:18:27 +0700",
+    "createAt": "2026-06-21T02:18:27.000Z",
+    "thumbnail_blurhash": "LbKd^~~q.7e-D%Mx-;RjS5M|R*R-"
   }
 ]
