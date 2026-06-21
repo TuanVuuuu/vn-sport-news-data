@@ -1,0 +1,19 @@
+[
+  {
+    "id": "fb_20260621_9d0b41d8",
+    "type": "bug",
+    "message": "App crash khi mở bài viết có ảnh lớn",
+    "device_id": "device-uuid",
+    "platform": "ios",
+    "app_version": "1.0.0",
+    "os_version": "iOS 18.2",
+    "screen": "ArticleDetail",
+    "context": {
+      "article_id": "abc123",
+      "category": "sports"
+    },
+    "contact": "user@email.com",
+    "status": "new",
+    "created_at": "2026-06-21T08:42:07.327Z"
+  }
+]
