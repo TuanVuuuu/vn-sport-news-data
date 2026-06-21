@@ -74,5 +74,22 @@
     "contact": "user@email.com",
     "status": "new",
     "created_at": "2026-06-21T09:47:50.661Z"
+  },
+  {
+    "id": "fb_20260621_b7e09d2c",
+    "type": "bug",
+    "message": "App crash khi mở bài viết có ảnh lớn",
+    "device_id": "device-uuid",
+    "platform": "ios",
+    "app_version": "1.0.0",
+    "os_version": "iOS 18.2",
+    "screen": "ArticleDetail",
+    "context": {
+      "article_id": "abc123",
+      "category": "sports"
+    },
+    "contact": "user@email.com",
+    "status": "new",
+    "created_at": "2026-06-21T09:52:47.618Z"
   }
 ]
