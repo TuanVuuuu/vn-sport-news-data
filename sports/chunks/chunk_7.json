@@ -609,5 +609,31 @@
     "published_at": "Tue, 23 Jun 2026 23:00:00 +0700",
     "createAt": "2026-06-23T16:00:00.000Z",
     "thumbnail_blurhash": "L9E33g-@A0Pquzt7cCsH_5OjRiv{"
+  },
+  {
+    "id": "https://vnexpress.net/my-dang-la-nha-vo-dich-world-cup-phi-chinh-thuc-5088303.html",
+    "category_id": "sports",
+    "category_name": "Thể thao",
+    "source": "VnExpress",
+    "title": "Mỹ đang là nhà vô địch World Cup phi chính thức",
+    "description": "Theo hệ thống tính điểm dựa trên cơ chế đấu loại trực tiếp tương tự cách tính đai trong môn quyền Anh, đội tuyển Mỹ đang là nhà vô địch bóng đá thế giới chứ không phải Argentina.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/06/22/641d3e5298f043febd9edf3f79fa4a-5466-8852-1782074080.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=db2kBm5BQS0ZSPvrDOu_8A",
+    "link": "https://vnexpress.net/my-dang-la-nha-vo-dich-world-cup-phi-chinh-thuc-5088303.html",
+    "published_at": "Wed, 24 Jun 2026 00:00:00 +0700",
+    "createAt": "2026-06-23T17:00:00.000Z",
+    "thumbnail_blurhash": "LMGHrQxvNZRj~BxuNGS$S4NGa~WB"
+  },
+  {
+    "id": "https://vnexpress.net/ibrahimovic-toi-ngu-gat-vi-xem-doi-tuyen-bi-o-world-cup-2026-5088375.html",
+    "category_id": "sports",
+    "category_name": "Thể thao",
+    "source": "VnExpress",
+    "title": "Ibrahimovic: 'Tôi ngủ gật vì xem đội tuyển Bỉ ở World Cup 2026'",
+    "description": "Huyền thoại bóng đá Thụy Điển Zlatan Ibrahimovic chê tuyển Bỉ thi đấu nhàm chán trong trận Iran 0-0 ở lượt thứ hai bảng G World Cup 2026.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/06/22/bi-1782095772-4559-1782095908.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=-a2UJFKq5IioHaa_F8gCPg",
+    "link": "https://vnexpress.net/ibrahimovic-toi-ngu-gat-vi-xem-doi-tuyen-bi-o-world-cup-2026-5088375.html",
+    "published_at": "Wed, 24 Jun 2026 00:00:00 +0700",
+    "createAt": "2026-06-23T17:00:00.000Z",
+    "thumbnail_blurhash": "LSHmltrYR$nn~VS#n$kVK%Oqrwbs"
   }
 ]
