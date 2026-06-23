@@ -1181,5 +1181,31 @@
     "published_at": "Tue, 23 Jun 2026 10:43:43 +0700",
     "createAt": "2026-06-23T03:43:43.000Z",
     "thumbnail_blurhash": "LkLNx$%Nxvt7%%-pkDRj~pV@M|ax"
+  },
+  {
+    "id": "https://vnexpress.net/gia-xang-tai-my-giam-6-tuan-lien-tiep-5088864.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Giá xăng tại Mỹ giảm 6 tuần liên tiếp",
+    "description": "Nỗ lực ngoại giao giữa Washington và Tehran đang mang lại tín hiệu tích cực cho người Mỹ, khi giá xăng liên tục đi xuống vài tuần qua.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/06/23/screenshot-1782201346-2406-1782201378.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=Z_uAR1fM2pN6qU4MVq_xBw",
+    "link": "https://vnexpress.net/gia-xang-tai-my-giam-6-tuan-lien-tiep-5088864.html",
+    "published_at": "Tue, 23 Jun 2026 15:13:31 +0700",
+    "createAt": "2026-06-23T08:13:31.000Z",
+    "thumbnail_blurhash": "LeE:A0Dh9Zs,~qMwD%tR%MofIUbI"
+  },
+  {
+    "id": "https://vnexpress.net/doanh-thu-thao-cam-vien-dat-muc-ky-luc-5088964.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Doanh thu Thảo Cầm Viên đạt mức kỷ lục",
+    "description": "Quý đầu năm, Thảo Cầm Viên Sài Gòn có doanh thu gần 49 tỷ đồng, tăng 27% so cùng kỳ 2025 và đạt mức cao nhất kể từ khi công bố thông tin.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/06/23/233a6968-1782200420-7278-1782200615.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=bX0N2HBUOV_8xzS22lp8zA",
+    "link": "https://vnexpress.net/doanh-thu-thao-cam-vien-dat-muc-ky-luc-5088964.html",
+    "published_at": "Tue, 23 Jun 2026 15:20:06 +0700",
+    "createAt": "2026-06-23T08:20:06.000Z",
+    "thumbnail_blurhash": "L9Frnk0001D$0L~p$gMx.Q-=DiNx"
   }
 ]
