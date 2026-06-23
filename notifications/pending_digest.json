@@ -1,3 +1,69 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/gia-usd-the-gioi-len-cao-nhat-mot-nam-5089015.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Giá USD thế giới lên cao nhất một năm",
+      "description": "Kỳ vọng Cục Dự trữ liên bang Mỹ (Fed) nâng lãi suất kéo giá USD lên cao nhất kể từ tháng 5/2025.",
+      "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/06/23/rich-1782206230-9452-1782206262.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=r7Mobp9nHaEDpwfW6t9xFA",
+      "link": "https://vnexpress.net/gia-usd-the-gioi-len-cao-nhat-mot-nam-5089015.html",
+      "published_at": "Tue, 23 Jun 2026 16:50:22 +0700",
+      "createAt": "2026-06-23T09:50:22.000Z",
+      "thumbnail_blurhash": "L7B{oz?v004m-pt7rq$f01%M~WNH"
+    },
+    {
+      "id": "https://vnexpress.net/tuchel-phai-thang-tay-ban-nha-neu-muon-vo-dich-world-cup-5088986.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Tuchel: 'Phải thắng Tây Ban Nha nếu muốn vô địch World Cup'",
+      "description": "HLV Thomas Tuchel xem Tây Ban Nha là đối thủ phải đánh bại trong cuộc đua vô địch, thay vì Pháp, Argentina hay Bồ Đào Nha.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/06/23/ap261738436013391-1782204969-4221-1782205081.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=fWxH8Tk1DJh3OqaRtVBK7g",
+      "link": "https://vnexpress.net/tuchel-phai-thang-tay-ban-nha-neu-muon-vo-dich-world-cup-5088986.html",
+      "published_at": "Tue, 23 Jun 2026 16:58:00 +0700",
+      "createAt": "2026-06-23T09:58:00.000Z",
+      "thumbnail_blurhash": "LaJ7weMx.Ap0~Vs:o#tRS$t7V@kC"
+    },
+    {
+      "id": "https://vnexpress.net/hlv-martinez-ronaldo-la-manh-ghep-cuoi-cung-cua-bo-dao-nha-5088923.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "HLV Martinez: 'Ronaldo là mảnh ghép cuối cùng của Bồ Đào Nha'",
+      "description": "HLV Roberto Martinez khẳng định Cristiano Ronaldo vẫn giữ vai trò không thể thay thế của Bồ Đào Nha, trước trận gặp Uzbekistan ở lượt hai bảng K World Cup 2026.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/06/23/ronaldo-vs-roberto-martinez-17-9688-7340-1782196999.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=azphn7HgpXy-O5on6ziWxA",
+      "link": "https://vnexpress.net/hlv-martinez-ronaldo-la-manh-ghep-cuoi-cung-cua-bo-dao-nha-5088923.html",
+      "published_at": "Tue, 23 Jun 2026 17:00:00 +0700",
+      "createAt": "2026-06-23T10:00:00.000Z",
+      "thumbnail_blurhash": "LFGF{[n49]2t2tK4I;|^9]w^-BEf"
+    },
+    {
+      "id": "https://vnexpress.net/de-xuat-hai-phuong-an-luong-toi-thieu-vung-tu-1-1-2027-5089024.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Đề xuất hai phương án lương tối thiểu vùng từ 1/1/2027",
+      "description": "Công đoàn đề xuất hai phương án lương tối thiểu vùng áp dụng cho khối doanh nghiệp mức cao 9,8% và mức thấp 8,5%, điều chỉnh từ ngày 1/1/2027.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/23/L1040935JPG-1782208175-5131-1782208629.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=-HI6ZhKV-bSQAZsd1WlHsQ",
+      "link": "https://vnexpress.net/de-xuat-hai-phuong-an-luong-toi-thieu-vung-tu-1-1-2027-5089024.html",
+      "published_at": "Tue, 23 Jun 2026 17:04:59 +0700",
+      "createAt": "2026-06-23T10:04:59.000Z",
+      "thumbnail_blurhash": "LDJt;xxcS4%M_4fhMx%NyX9sxt?v"
+    },
+    {
+      "id": "https://vnexpress.net/phat-hien-hang-dong-moi-giua-rung-nguyen-sinh-o-quang-tri-5089039.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Phát hiện hang động mới giữa rừng nguyên sinh ở Quảng Trị",
+      "description": "Trong lúc tuần tra, lực lượng bảo vệ rừng tỉnh Quảng Trị phát hiện một hang động nguyên sơ với cửa hang rộng gần 70 m cùng hệ thống thạch nhũ đa sắc.",
+      "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/06/23/a1-1782205743-4480-1782205799.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=2kZDeAocRrYICt_hAm_8GQ",
+      "link": "https://vnexpress.net/phat-hien-hang-dong-moi-giua-rung-nguyen-sinh-o-quang-tri-5089039.html",
+      "published_at": "Tue, 23 Jun 2026 17:15:22 +0700",
+      "createAt": "2026-06-23T10:15:22.000Z",
+      "thumbnail_blurhash": "L79QgLD%E9%M~URjWF%LalM|?X-."
+    }
+  ]
 }
