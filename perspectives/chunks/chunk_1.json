@@ -1168,5 +1168,31 @@
     "published_at": "Sun, 21 Jun 2026 00:01:24 +0700",
     "createAt": "2026-06-20T17:01:24.000Z",
     "thumbnail_blurhash": "LDQmCr^+af-;~qR*t7t7~qWBRjoM"
+  },
+  {
+    "id": "https://vnexpress.net/nha-bao-lam-gi-5088274.html",
+    "category_id": "perspectives",
+    "category_name": "Góc nhìn",
+    "source": "VnExpress",
+    "title": "Nhà báo làm gì?",
+    "description": "Cách đây vài tháng, khi triển khai hệ thống trí tuệ nhân tạo hỗ trợ sản xuất nội dung cho một tổ chức truyền thông thể thao, tôi đối mặt với câu hỏi: Nếu AI viết nhanh như vậy thì vai trò của người làm báo sẽ là gì?",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/21/Nhabao-1782050865-6269-1782051146.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=3BriS5zPlZj0bb54uwFeMQ",
+    "link": "https://vnexpress.net/nha-bao-lam-gi-5088274.html",
+    "published_at": "Mon, 22 Jun 2026 00:00:00 +0700",
+    "createAt": "2026-06-21T17:00:00.000Z",
+    "thumbnail_blurhash": "LDQvwR_3M{?b~qNFoft7~qRjWBj["
+  },
+  {
+    "id": "https://vnexpress.net/tieng-xau-sau-nghi-viec-5088668.html",
+    "category_id": "perspectives",
+    "category_name": "Góc nhìn",
+    "source": "VnExpress",
+    "title": "'Tiếng xấu' sau nghỉ việc",
+    "description": "Tôi có người bạn từng nghỉ việc không phải vì năng lực kém, mà vì không hợp với quản lý trực tiếp.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/22/nbgt-1782139769-7812-1782140170.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=5bLUrNvxKltTG0TezUvJYA",
+    "link": "https://vnexpress.net/tieng-xau-sau-nghi-viec-5088668.html",
+    "published_at": "Tue, 23 Jun 2026 00:00:00 +0700",
+    "createAt": "2026-06-22T17:00:00.000Z",
+    "thumbnail_blurhash": "LEQmCr_3jZ-;_3Rjt7t7~qRjRjoM"
   }
 ]
