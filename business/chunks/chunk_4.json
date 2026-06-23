@@ -1103,5 +1103,70 @@
     "published_at": "Tue, 23 Jun 2026 09:25:11 +0700",
     "createAt": "2026-06-23T02:25:11.000Z",
     "thumbnail_blurhash": "LLEo-$}__2WBP2My9aInNEIBj=s;"
+  },
+  {
+    "id": "https://vnexpress.net/mot-hang-hang-khong-viet-lo-luy-ke-hon-10-000-ty-dong-5088783.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Một hãng hàng không Việt lỗ lũy kế hơn 10.000 tỷ đồng",
+    "description": "Pacific Airlines - công ty con của Vietnam Airlines năm ngoái lỗ 565 tỷ, đưa số lỗ lũy kế của hãng bay này lên 10.675 tỷ đồng tính đến hết 2025.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/06/23/715505759146267877255387489492-5044-5046-1782184686.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Dh0KgVGcPfFmtWj6e59srg",
+    "link": "https://vnexpress.net/mot-hang-hang-khong-viet-lo-luy-ke-hon-10-000-ty-dong-5088783.html",
+    "published_at": "Tue, 23 Jun 2026 10:43:43 +0700",
+    "createAt": "2026-06-23T03:43:43.000Z",
+    "thumbnail_blurhash": "LkLNx$%Nxvt7%%-pkDRj~pV@M|ax"
+  },
+  {
+    "id": "https://vnexpress.net/prudential-vao-top-50-doanh-nghiep-phat-trien-ben-vung-2026-5088805.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Prudential vào Top 50 doanh nghiệp phát triển bền vững 2026",
+    "description": "Prudential Việt Nam được vinh danh ở hạng mục Hoạt động trách nhiệm cộng đồng (CSR) nổi bật nhờ các sáng kiến cộng đồng, chương trình giáo dục tài chính và hoạt động đầu tư dài hạn.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/06/23/z7948737328818efcb5ce784d3d326-1700-4317-1782184810.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=K46kqLPb8ZNJjMLBUjub9w",
+    "link": "https://vnexpress.net/prudential-vao-top-50-doanh-nghiep-phat-trien-ben-vung-2026-5088805.html",
+    "published_at": "Tue, 23 Jun 2026 11:00:00 +0700",
+    "createAt": "2026-06-23T04:00:00.000Z",
+    "thumbnail_blurhash": "LZNwi~%1?w?c~qxuNGf5oKbIRPWB"
+  },
+  {
+    "id": "https://vnexpress.net/chinh-quyen-ong-trump-giam-95-phi-bao-lanh-moi-truong-khoan-dau-5088892.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Chính quyền ông Trump giảm 95% phí bảo lãnh môi trường khoan dầu",
+    "description": "Công ty dầu khí được giảm phí bảo lãnh từ 500.000 USD xuống còn 25.000 USD, thời gian tham vấn dự án cũng rút ngắn còn 10 ngày.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/06/23/3y25bsdgkzmeviuneirmlubqsq-178-4834-5786-1782190054.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=JsTxSuBNt44dNQOPO5EC7Q",
+    "link": "https://vnexpress.net/chinh-quyen-ong-trump-giam-95-phi-bao-lanh-moi-truong-khoan-dau-5088892.html",
+    "published_at": "Tue, 23 Jun 2026 12:13:50 +0700",
+    "createAt": "2026-06-23T05:13:50.000Z",
+    "thumbnail_blurhash": "LTF#]*W=%2SN*0oeW=s.9zjtM|fR"
+  },
+  {
+    "id": "https://vnexpress.net/ty-phu-pham-nhat-vuong-mua-gan-5-von-lpbank-5088909.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Tỷ phú Phạm Nhật Vượng mua gần 5% vốn LPBank",
+    "description": "Ông Phạm Nhật Vượng đã sở hữu 146,2 triệu cổ phiếu LPB của LPBank, tương đương 4,894% vốn.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/06/23/pham-nhat-vuong2-1782194306-6856-1782194312.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=0qbQGwqXtIGLcH5wGSIAbA",
+    "link": "https://vnexpress.net/ty-phu-pham-nhat-vuong-mua-gan-5-von-lpbank-5088909.html",
+    "published_at": "Tue, 23 Jun 2026 12:55:16 +0700",
+    "createAt": "2026-06-23T05:55:16.000Z",
+    "thumbnail_blurhash": "LdMjg;%2.Afl~qR*S5xux]ofRPRj"
+  },
+  {
+    "id": "https://vnexpress.net/bo-cong-thuong-yeu-cau-dia-phuong-cap-nhat-nhu-cau-dien-tram-sac-5088868.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Bộ Công Thương yêu cầu địa phương cập nhật nhu cầu điện trạm sạc",
+    "description": "Bộ Công Thương yêu cầu các địa phương thống kê nhu cầu điện cho trạm sạc xe, metro, đường sắt tốc độ cao... trước 30/6 để cập nhật vào Quy hoạch điện VIII điều chỉnh.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/06/23/tramsac111-1782189143-5657-1782189182.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=GkqTpzOJQ2J4-h9yDvMIkA",
+    "link": "https://vnexpress.net/bo-cong-thuong-yeu-cau-dia-phuong-cap-nhat-nhu-cau-dien-tram-sac-5088868.html",
+    "published_at": "Tue, 23 Jun 2026 14:05:00 +0700",
+    "createAt": "2026-06-23T07:05:00.000Z",
+    "thumbnail_blurhash": "LAGbx8}]^s$_cu-?ejocyFRi4.bc"
   }
 ]
