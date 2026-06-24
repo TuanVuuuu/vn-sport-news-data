@@ -362,5 +362,31 @@
     "published_at": "Wed, 24 Jun 2026 17:00:00 +0700",
     "createAt": "2026-06-24T10:00:00.000Z",
     "thumbnail_blurhash": "LAB|Qo_3~q%M_3jZM{R%t8WCRjWA"
+  },
+  {
+    "id": "https://vnexpress.net/case-may-tinh-nho-gon-voi-the-tich-chua-den-10-lit-5088678.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Case máy tính nhỏ gọn với thể tích chưa đến 10 lít",
+    "description": "Mẫu máy tính PRO DP80 A14G của MSI có thùng máy gọn như một chiếc túi xách, hỗ trợ card đồ hoạ rời và có thể nâng cấp lên chip Intel Core i7.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/23/LQ-06032-1782199337.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=dzhTTtmqLAUfargX2sLudw",
+    "link": "https://vnexpress.net/case-may-tinh-nho-gon-voi-the-tich-chua-den-10-lit-5088678.html",
+    "published_at": "Wed, 24 Jun 2026 17:18:21 +0700",
+    "createAt": "2026-06-24T10:18:21.000Z",
+    "thumbnail_blurhash": "LFBf@O~q${$xxVxCjEt6IVjEM{NG"
+  },
+  {
+    "id": "https://vnexpress.net/cong-ty-trung-quoc-thuc-hien-cuoc-goi-truc-tiep-tu-smartphone-den-ve-tinh-5089120.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Công ty Trung Quốc thực hiện cuộc gọi trực tiếp từ smartphone đến vệ tinh",
+    "description": "Spacesail, công ty Internet vệ tinh tại Thượng Hải, thực hiện thành công cuộc gọi thoại trực tiếp tới vệ tinh bằng smartphone thông thường, không cần cải tiến.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/23/bda59d4b77e94699afe6cf0bf90373-5582-5173-1782218668.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=guex7DlAd14-xnVCZ2OpDw",
+    "link": "https://vnexpress.net/cong-ty-trung-quoc-thuc-hien-cuoc-goi-truc-tiep-tu-smartphone-den-ve-tinh-5089120.html",
+    "published_at": "Wed, 24 Jun 2026 18:00:00 +0700",
+    "createAt": "2026-06-24T11:00:00.000Z",
+    "thumbnail_blurhash": "LHDdSDlC-ntn0?xuxBIVmiwGI^s."
   }
 ]
