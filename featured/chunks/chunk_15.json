@@ -661,5 +661,31 @@
     "published_at": "Wed, 24 Jun 2026 20:00:31 +0700",
     "createAt": "2026-06-24T13:00:31.000Z",
     "thumbnail_blurhash": "LSE3SVxcnyxw_NNGIAW9x]IoIBoG"
+  },
+  {
+    "id": "https://vnexpress.net/ha-noi-nong-nhat-ca-nuoc-gan-41-do-c-5089553.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Hà Nội nóng nhất cả nước, gần 41 độ C",
+    "description": "Hà Nội hôm nay ghi nhận mức nhiệt gần 41 độ C, cao nhất cả nước, trong đợt nắng nóng đặc biệt gay gắt bao trùm nhiều tỉnh, thành ở miền Bắc và miền Trung.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/24/1-1782305201-9537-1782305697.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=IEeY1apM_U2ShoC0zMxSQA",
+    "link": "https://vnexpress.net/ha-noi-nong-nhat-ca-nuoc-gan-41-do-c-5089553.html",
+    "published_at": "Wed, 24 Jun 2026 20:22:35 +0700",
+    "createAt": "2026-06-24T13:22:35.000Z",
+    "thumbnail_blurhash": "LIE39wWAoM-;_N%Ls:kDIqs.tQae"
+  },
+  {
+    "id": "https://vnexpress.net/iran-noi-thoa-thuan-so-bo-la-tuyen-bo-that-bai-cua-my-5089552.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Iran nói thỏa thuận sơ bộ là 'tuyên bố thất bại của Mỹ'",
+    "description": "Iran gọi thỏa thuận để chấm dứt xung đột ở Trung Đông là \"lời tuyên bố về thất bại của Mỹ\" và thể hiện sự can trường của Tehran.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/24/ap26171816245306-1782307351-5672-1782307381.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=yEWWWa4I1lGl5tlLfGf8Cg",
+    "link": "https://vnexpress.net/iran-noi-thoa-thuan-so-bo-la-tuyen-bo-that-bai-cua-my-5089552.html",
+    "published_at": "Wed, 24 Jun 2026 20:34:16 +0700",
+    "createAt": "2026-06-24T13:34:16.000Z",
+    "thumbnail_blurhash": "LXE1?Ks.IUs,}=afRjs:oeR+slbH"
   }
 ]
