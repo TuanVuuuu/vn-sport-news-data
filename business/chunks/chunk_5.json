@@ -141,5 +141,31 @@
     "published_at": "Wed, 24 Jun 2026 10:00:00 +0700",
     "createAt": "2026-06-24T03:00:00.000Z",
     "thumbnail_blurhash": "L,I};eofNGX8?wWVWVkC-=bGoej["
+  },
+  {
+    "id": "https://vnexpress.net/j-t-cargo-thiet-ke-dich-vu-don-nhu-cau-giao-hang-nang-5089277.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "J&amp;T Cargo thiết kế dịch vụ đón nhu cầu giao hàng nặng",
+    "description": "J&amp;T Cargo định hướng phát triển dịch vụ vận chuyển hàng nặng, hàng cồng kềnh, đón xu hướng gia tăng nhu cầu giao nhận các đơn hàng trọng lượng lớn trên thị trường thương mại điện tử.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/06/24/20260623-144154-1782269387-3169-1782269863.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=7KzrJbmaWui1V_pn84EtoQ",
+    "link": "https://vnexpress.net/j-t-cargo-thiet-ke-dich-vu-don-nhu-cau-giao-hang-nang-5089277.html",
+    "published_at": "Wed, 24 Jun 2026 11:00:00 +0700",
+    "createAt": "2026-06-24T04:00:00.000Z",
+    "thumbnail_blurhash": "LMLX9?~U?Ib_.Ss-nPn3tm%LRkxH"
+  },
+  {
+    "id": "https://vnexpress.net/tuong-lai-thi-truong-dau-co-the-phu-thuoc-vao-trung-quoc-5089257.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Tương lai thị trường dầu có thể phụ thuộc vào Trung Quốc",
+    "description": "Ngân hàng Societe Generale cho rằng Trung Quốc là \"bàn tay vô hình\" có thể giúp tái cân bằng thị trường dầu toàn cầu cả trong và sau chiến sự.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/06/24/screenshot-1782273356-9778-1782273700.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=zHPfHEnq4Bp4Q37lCukeCA",
+    "link": "https://vnexpress.net/tuong-lai-thi-truong-dau-co-the-phu-thuoc-vao-trung-quoc-5089257.html",
+    "published_at": "Wed, 24 Jun 2026 11:18:09 +0700",
+    "createAt": "2026-06-24T04:18:09.000Z",
+    "thumbnail_blurhash": "L|F7SvWBWXogyGozf8WXM|ofa#f6"
   }
 ]
