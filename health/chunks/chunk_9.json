@@ -622,5 +622,57 @@
     "published_at": "Wed, 24 Jun 2026 07:00:00 +0700",
     "createAt": "2026-06-24T00:00:00.000Z",
     "thumbnail_blurhash": "LpK_%kyDWBt7?wayoKof.9M{oLof"
+  },
+  {
+    "id": "https://vnexpress.net/tao-va-ngu-coc-bua-sang-tot-cho-trai-tim-hoang-tu-nho-5088840.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Táo và ngũ cốc - bữa sáng tốt cho trái tim hoàng tử nhỏ",
+    "description": "Bữa sáng với táo và ngũ cốc của Hoàng tử George được giới chuyên gia đánh giá là lựa chọn lành mạnh, có lợi cho tim mạch và sức khỏe lâu dài.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/23/00-1782188980-5262-1782189553.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=gTZfjILzXGlYZXn5OWnSIw",
+    "link": "https://vnexpress.net/tao-va-ngu-coc-bua-sang-tot-cho-trai-tim-hoang-tu-nho-5088840.html",
+    "published_at": "Wed, 24 Jun 2026 08:00:00 +0700",
+    "createAt": "2026-06-24T01:00:00.000Z",
+    "thumbnail_blurhash": "L7FYY_^?00Xf00NO04RV^n8yMkWG"
+  },
+  {
+    "id": "https://vnexpress.net/da-be-trai-bong-troc-do-doc-to-tu-cau-khuan-5089148.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Da bé trai bong tróc do độc tố tụ cầu khuẩn",
+    "description": "Bé Trí, 2 tuổi, đỏ da, đóng vảy, bong tróc vùng da quanh miệng, lan đến nhiều vị trí trên cơ thể, bác sĩ chẩn đoán hội chứng da bong tróc do tụ cầu khuẩn.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/23/image001-1782224516-8675-1782224526.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=ed8lnwaL9LiHUM3FRIrrLQ",
+    "link": "https://vnexpress.net/da-be-trai-bong-troc-do-doc-to-tu-cau-khuan-5089148.html",
+    "published_at": "Wed, 24 Jun 2026 08:00:00 +0700",
+    "createAt": "2026-06-24T01:00:00.000Z",
+    "thumbnail_blurhash": "LGLp?a.T*0%LVC_NtS-;%MIAb^%M"
+  },
+  {
+    "id": "https://vnexpress.net/kho-tho-phat-hien-u-long-nguc-5089145.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Khó thở, phát hiện u lồng ngực",
+    "description": "Ông Ngân, 53 tuổi, thỉnh thoảng hụt hơi, khó thở, tim đập nhanh, bác sĩ chẩn đoán u lồng ngực.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/23/image001-1782224059-9874-1782224134.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=ZkZhKzpNdnqHi84qI7OFTQ",
+    "link": "https://vnexpress.net/kho-tho-phat-hien-u-long-nguc-5089145.html",
+    "published_at": "Wed, 24 Jun 2026 08:00:00 +0700",
+    "createAt": "2026-06-24T01:00:00.000Z",
+    "thumbnail_blurhash": "LgKBUND%Di_N~pxvoexu-;kCWAax"
+  },
+  {
+    "id": "https://vnexpress.net/suy-than-cap-do-nhiem-vi-khuan-sau-an-hau-song-5088952.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Suy thận cấp do nhiễm vi khuẩn sau ăn hàu sống",
+    "description": "Người đàn ông 50 tuổi ở Đài Loan (Trung Quốc) bị sốc nhiễm khuẩn, suy thận cấp phải lọc máu khẩn cấp sau khi ăn hàu sống nhiễm Vibrio vulnificus còn gọi là 'vi khuẩn ăn thịt người'.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/23/4-1782205412-2279-1782205897.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=I7uPGJqQ0Zt0F4crN17How",
+    "link": "https://vnexpress.net/suy-than-cap-do-nhiem-vi-khuan-sau-an-hau-song-5088952.html",
+    "published_at": "Wed, 24 Jun 2026 08:05:14 +0700",
+    "createAt": "2026-06-24T01:05:14.000Z",
+    "thumbnail_blurhash": "LWINp+^P0Koz~W%1Iooy9aS1tQRk"
   }
 ]

@@ -89,5 +89,31 @@
     "published_at": "Wed, 24 Jun 2026 08:00:00 +0700",
     "createAt": "2026-06-24T01:00:00.000Z",
     "thumbnail_blurhash": "LIDT8|R%4=X84Qbb;3bEyoodwNf9"
+  },
+  {
+    "id": "https://vnexpress.net/sun-phuquoc-airways-don-them-tau-bay-airbus-a320neo-5089090.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Sun PhuQuoc Airways đón thêm tàu bay Airbus A320neo",
+    "description": "Tàu bay thứ 11 của Sun PhuQuoc Airways thuộc dòng Airbus A320neo, hạ cánh tại sân bay Nội Bài vào tối ngày 23/6.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/06/23/sun-phuquoc-airways-jpg-178222-2848-2895-1782229227.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=k2bSjLfGk9i6D7e1P_Bd4w",
+    "link": "https://vnexpress.net/sun-phuquoc-airways-don-them-tau-bay-airbus-a320neo-5089090.html",
+    "published_at": "Wed, 24 Jun 2026 09:00:00 +0700",
+    "createAt": "2026-06-24T02:00:00.000Z",
+    "thumbnail_blurhash": "LAEB8D}t0|7F02Nt].rs0LEL|_,H"
+  },
+  {
+    "id": "https://vnexpress.net/viet-nam-khong-vao-danh-sach-theo-doi-nang-hang-cua-msci-5089220.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Việt Nam không vào danh sách theo dõi nâng hạng của MSCI",
+    "description": "Năm nay, tổ chức xếp hạng MSCI không thay đổi đánh giá đối với thị trường chứng khoán Việt Nam dù trước đó đã công nhận nhiều cải cách.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/06/24/233a7290-1782263839-2492-1782263870.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=lAFzPUbVWVdV2qP-Mbd3NQ",
+    "link": "https://vnexpress.net/viet-nam-khong-vao-danh-sach-theo-doi-nang-hang-cua-msci-5089220.html",
+    "published_at": "Wed, 24 Jun 2026 09:11:47 +0700",
+    "createAt": "2026-06-24T02:11:47.000Z",
+    "thumbnail_blurhash": "L672muuPvhzVniVYaJt,XRoynjR,"
   }
 ]
