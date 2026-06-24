@@ -193,5 +193,31 @@
     "published_at": "Wed, 24 Jun 2026 12:00:46 +0700",
     "createAt": "2026-06-24T05:00:46.000Z",
     "thumbnail_blurhash": "LjHLJ2tRn+R*_4xuofofx^ozWosV"
+  },
+  {
+    "id": "https://vnexpress.net/co-phieu-loc-troi-bi-dinh-chi-giao-dich-5089368.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Cổ phiếu Lộc Trời bị đình chỉ giao dịch",
+    "description": "Cổ phiếu Lộc Trời (LTG) bị chuyển từ diện hạn chế sang đình chỉ giao dịch trên sàn chứng khoán Hà Nội do chưa nộp báo cáo tài chính kiểm toán 2024.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/06/24/TD5-3837-8280-1782278047.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=si7_OcSaQm3enMh3RZ62mQ",
+    "link": "https://vnexpress.net/co-phieu-loc-troi-bi-dinh-chi-giao-dich-5089368.html",
+    "published_at": "Wed, 24 Jun 2026 13:18:18 +0700",
+    "createAt": "2026-06-24T06:18:18.000Z",
+    "thumbnail_blurhash": "L25}Hp~B^#~BFw4:9Z9GO@O@TKXm"
+  },
+  {
+    "id": "https://vnexpress.net/tpbank-ra-mat-the-visa-da-nang-2-trong-1-cho-doanh-nghiep-5089339.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "TPBank ra mắt thẻ visa đa năng '2 trong 1' cho doanh nghiệp",
+    "description": "TPBank ra mắt thẻ đa năng Visa FlashBiz, tích hợp chức năng thẻ tín dụng và thẻ ghi nợ trên cùng một phôi thẻ, giúp doanh nghiệp chủ động quản lý chi tiêu và dòng tiền.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/06/24/a-nh-1782274530-2211-1782274628.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=FD-eekEtEZLDnbyy02a0Cw",
+    "link": "https://vnexpress.net/tpbank-ra-mat-the-visa-da-nang-2-trong-1-cho-doanh-nghiep-5089339.html",
+    "published_at": "Wed, 24 Jun 2026 13:30:00 +0700",
+    "createAt": "2026-06-24T06:30:00.000Z",
+    "thumbnail_blurhash": "LQF#8y~D5to~^h-UWbogn2nfX5ae"
   }
 ]
