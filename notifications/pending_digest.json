@@ -1,3 +1,43 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/my-trung-phat-dai-ca-cua-ong-trum-chen-zhi-5089453.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Mỹ trừng phạt 'đại ca' của ông trùm Chen Zhi",
+      "description": "Mỹ áp trừng phạt thêm loạt cá nhân và thực thể liên quan tới Prince Group, trong đó có \"đại ca\" của ông trùm lừa đảo Chen Zhi.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/24/cats-1782300879-7189-1782300889.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=WhqaMuCd4bZog_szVlZe6g",
+      "link": "https://vnexpress.net/my-trung-phat-dai-ca-cua-ong-trum-chen-zhi-5089453.html",
+      "published_at": "Wed, 24 Jun 2026 18:52:49 +0700",
+      "createAt": "2026-06-24T11:52:49.000Z",
+      "thumbnail_blurhash": "LnQA29of~q-=xuWBt7t7Rjayt7oz"
+    },
+    {
+      "id": "https://vnexpress.net/chuyen-gia-wb-nha-nuoc-nen-ho-tro-tai-chinh-de-nang-cap-nha-cho-thue-tu-nhan-5089518.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Chuyên gia WB: Nhà nước nên hỗ trợ tài chính để nâng cấp nhà cho thuê tư nhân",
+      "description": "Nhà nước có thể hỗ trợ tài chính cho các chủ nhà trọ tư nhân nâng cấp, cải tạo chỗ ở đạt chất lượng cho người lao động, thay vì chỉ tập trung xây dự án mới.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/24/dsc09687-jpeg-1782299839-2409-1782302110.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=7R2hq9OmnROKLbl57Ig00g",
+      "link": "https://vnexpress.net/chuyen-gia-wb-nha-nuoc-nen-ho-tro-tai-chinh-de-nang-cap-nha-cho-thue-tu-nhan-5089518.html",
+      "published_at": "Wed, 24 Jun 2026 19:00:44 +0700",
+      "createAt": "2026-06-24T12:00:44.000Z",
+      "thumbnail_blurhash": "L6EBv]0x00Fz00p0?wROKlxC$%OY"
+    },
+    {
+      "id": "https://vnexpress.net/khi-nao-chia-se-bai-bao-tren-mang-bi-phat-30-trieu-dong-5089517.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Khi nào chia sẻ bài báo trên mạng bị phạt 30 triệu đồng?",
+      "description": "Người dùng đăng lại toàn bộ hoặc một phần nội dung bài báo mà không được chủ thể đồng ý có thể bị xử phạt theo quy định mới.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/24/le-quang-tu-do-jfif-1782295117-1485-1782295163.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ARigxbl3NVwPjzEw-6uVmg",
+      "link": "https://vnexpress.net/khi-nao-chia-se-bai-bao-tren-mang-bi-phat-30-trieu-dong-5089517.html",
+      "published_at": "Wed, 24 Jun 2026 19:11:21 +0700",
+      "createAt": "2026-06-24T12:11:21.000Z",
+      "thumbnail_blurhash": "LEL3.M*000$f00I9%hNHIUR,%Mxa"
+    }
+  ]
 }
