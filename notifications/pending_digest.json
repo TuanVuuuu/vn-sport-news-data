@@ -1,3 +1,69 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/de-nghi-bo-gioi-han-mot-nam-voi-giay-uy-quyen-nhan-luong-huu-5089246.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Đề nghị bỏ giới hạn một năm với giấy ủy quyền nhận lương hưu",
+      "description": "Nhiều tỉnh, thành đề xuất bỏ quy định giấy ủy quyền nhận lương hưu chỉ có hiệu lực tối đa 12 tháng nhằm tạo thuận lợi cho người cao tuổi và người sức khỏe yếu.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/24/Screenshot20260624at100644-178-3047-2768-1782270563.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=I8CwwEygqcNZUI2oLZBtxQ",
+      "link": "https://vnexpress.net/de-nghi-bo-gioi-han-mot-nam-voi-giay-uy-quyen-nhan-luong-huu-5089246.html",
+      "published_at": "Wed, 24 Jun 2026 11:03:49 +0700",
+      "createAt": "2026-06-24T04:03:49.000Z",
+      "thumbnail_blurhash": "LLHLMF_N00MbwH0g9bwHVq%M%gof"
+    },
+    {
+      "id": "https://vnexpress.net/de-xuat-hon-235-000-ty-dong-xay-vanh-dai-5-vung-thu-do-5089284.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Đề xuất hơn 235.000 tỷ đồng xây vành đai 5 vùng Thủ đô",
+      "description": "Bộ Xây dựng đề xuất đầu tư tuyến vành đai 5 vùng Thủ đô Hà Nội với 6 làn xe cao tốc, tổng mức đầu tư sơ bộ 235.740 tỷ đồng, giảm 26.000 tỷ so với nghiên cứu trước đó.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/24/7-vanh-dai-jpg-1782270305-1907-1782270348.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=2phm4H0dviKVHSFxI8Hlwg",
+      "link": "https://vnexpress.net/de-xuat-hon-235-000-ty-dong-xay-vanh-dai-5-vung-thu-do-5089284.html",
+      "published_at": "Wed, 24 Jun 2026 11:04:05 +0700",
+      "createAt": "2026-06-24T04:04:05.000Z",
+      "thumbnail_blurhash": "LERC}5tl}^^,_LR~ouxu%3RkE0NF"
+    },
+    {
+      "id": "https://vnexpress.net/tuong-lai-thi-truong-dau-co-the-phu-thuoc-vao-trung-quoc-5089257.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Tương lai thị trường dầu có thể phụ thuộc vào Trung Quốc",
+      "description": "Ngân hàng Societe Generale cho rằng Trung Quốc là \"bàn tay vô hình\" có thể giúp tái cân bằng thị trường dầu toàn cầu cả trong và sau chiến sự.",
+      "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/06/24/screenshot-1782273356-9778-1782273700.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=zHPfHEnq4Bp4Q37lCukeCA",
+      "link": "https://vnexpress.net/tuong-lai-thi-truong-dau-co-the-phu-thuoc-vao-trung-quoc-5089257.html",
+      "published_at": "Wed, 24 Jun 2026 11:18:09 +0700",
+      "createAt": "2026-06-24T04:18:09.000Z",
+      "thumbnail_blurhash": "L|F7SvWBWXogyGozf8WXM|ofa#f6"
+    },
+    {
+      "id": "https://vnexpress.net/duong-xuyen-rung-ma-da-se-co-13-km-tuong-chong-on-5089322.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Đường xuyên rừng Mã Đà sẽ có 13 km tường chống ồn",
+      "description": "Tuyến cầu cạn 8 làn qua Khu bảo tồn thiên nhiên văn hóa Đồng Nai sẽ được lắp tường chống ồn, chắn sáng cùng đèn cảm biến, camera để giảm tác động đến rừng đặc dụng.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/24/1wupukbzpskugerzhal97f5fumec42-3741-7058-1782275384.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=BMXysf30eEFW46sr2V50qw",
+      "link": "https://vnexpress.net/duong-xuyen-rung-ma-da-se-co-13-km-tuong-chong-on-5089322.html",
+      "published_at": "Wed, 24 Jun 2026 11:24:58 +0700",
+      "createAt": "2026-06-24T04:24:58.000Z",
+      "thumbnail_blurhash": "L~JbT{ayWBof_NkCa}j]o#j[j]j["
+    },
+    {
+      "id": "https://vnexpress.net/su-tri-tre-khien-anh-thay-6-thu-tuong-trong-10-nam-5089068.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Sự trì trệ khiến Anh thay 6 thủ tướng trong 10 năm",
+      "description": "Cử tri Anh luôn cảm thấy kinh tế trì trệ do Brexit và tăng trưởng yếu kéo dài, khiến các thủ tướng chỉ có nhiệm kỳ trung bình 14 tháng trong thập kỷ qua.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/24/image-1782275916-8073-1782275919.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=c_751bwhLJRA-psUzw6q4g",
+      "link": "https://vnexpress.net/su-tri-tre-khien-anh-thay-6-thu-tuong-trong-10-nam-5089068.html",
+      "published_at": "Wed, 24 Jun 2026 11:27:30 +0700",
+      "createAt": "2026-06-24T04:27:30.000Z",
+      "thumbnail_blurhash": "L2Cip@^P00^+3?00*K?bL#020z?v"
+    }
+  ]
 }
