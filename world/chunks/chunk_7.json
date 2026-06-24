@@ -414,5 +414,31 @@
     "published_at": "Wed, 24 Jun 2026 10:03:19 +0700",
     "createAt": "2026-06-24T03:03:19.000Z",
     "thumbnail_blurhash": "LuEyxts:V@V@.TbHWBWBx^jsayj["
+  },
+  {
+    "id": "https://vnexpress.net/80-ho-gia-dinh-chau-au-khong-lap-dieu-hoa-5089218.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "80% hộ gia đình châu Âu không lắp điều hòa",
+    "description": "Dù châu Âu đang trải qua đợt nắng nóng kỷ lục, mới khoảng 20% hộ gia đình lắp điều hòa, bởi đây từng được coi là \"xa xỉ phẩm\" có chi phí vận hành, lắp đặt tốn kém.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/24/afp-b7n849e-v1-highres-pasdeca-4693-2685-1782267413.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=2xscCYb8ZChikM1tF_ac2w",
+    "link": "https://vnexpress.net/80-ho-gia-dinh-chau-au-khong-lap-dieu-hoa-5089218.html",
+    "published_at": "Wed, 24 Jun 2026 10:40:03 +0700",
+    "createAt": "2026-06-24T03:40:03.000Z",
+    "thumbnail_blurhash": "LGH.TmtR?w.8yZNGtmxu~V%MITnN"
+  },
+  {
+    "id": "https://vnexpress.net/phi-cong-my-co-the-da-cham-tran-bay-uav-sua-cua-iran-5089302.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Phi công Mỹ có thể đã chạm trán 'bầy UAV sứa' của Iran",
+    "description": "Phi công F-15E Mỹ bị bắn rơi tại Iran khẳng định UAV đối phương có thể bay theo đội hình tinh vi hơn những dự đoán trước đây, theo CNN.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/24/f-1782273965-7276-1782273970.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=QHHBfupR7plnHzG7Halz-A",
+    "link": "https://vnexpress.net/phi-cong-my-co-the-da-cham-tran-bay-uav-sua-cua-iran-5089302.html",
+    "published_at": "Wed, 24 Jun 2026 11:02:53 +0700",
+    "createAt": "2026-06-24T04:02:53.000Z",
+    "thumbnail_blurhash": "LFBX~Rt6pKtStSe.V?jsyZj[Mvay"
   }
 ]
