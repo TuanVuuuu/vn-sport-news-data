@@ -661,5 +661,44 @@
     "published_at": "Tue, 23 Jun 2026 23:00:00 +0700",
     "createAt": "2026-06-23T16:00:00.000Z",
     "thumbnail_blurhash": "LSF#km?8GwB@E:i{Roa6AQI;v{s5"
+  },
+  {
+    "id": "https://vnexpress.net/kane-im-tieng-trong-tran-hoa-cua-anh-5089181.html",
+    "category_id": "sports",
+    "category_name": "Thể thao",
+    "source": "VnExpress",
+    "title": "Kane im tiếng trong trận hòa của Anh",
+    "description": "Tuyển Anh cầm bóng gần 80%, nhưng vẫn bị Ghana cầm hòa 0-0 ở lượt hai bảng L World Cup 2026.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/06/24/anh-png-1782255773-7541-1782255851.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=45jUXF8o_znuu2HFRCjBkw",
+    "link": "https://vnexpress.net/kane-im-tieng-trong-tran-hoa-cua-anh-5089181.html",
+    "published_at": "Wed, 24 Jun 2026 06:06:03 +0700",
+    "createAt": "2026-06-23T23:06:03.000Z",
+    "thumbnail_blurhash": "LIHU^4-=Sb%M,#%2xVbLS@%N^*o$"
+  },
+  {
+    "id": "https://vnexpress.net/ronaldo-that-tuyet-neu-gap-messi-o-chung-ket-world-cup-5089179.html",
+    "category_id": "sports",
+    "category_name": "Thể thao",
+    "source": "VnExpress",
+    "title": "Ronaldo: 'Thật tuyệt nếu gặp Messi ở chung kết World Cup'",
+    "description": "Cristiano Ronaldo cảm thấy vui nếu chạm trán Lionel Messi ở chung kết World Cup 2026, nhưng nhấn mạnh mục tiêu trước mắt của Bồ Đào Nha là vượt qua vòng bảng.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/06/24/ronaldo1-png-1782256651-8745-1782256664.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=RCFhZ9QmDXWPrfqKXpHJ8A",
+    "link": "https://vnexpress.net/ronaldo-that-tuyet-neu-gap-messi-o-chung-ket-world-cup-5089179.html",
+    "published_at": "Wed, 24 Jun 2026 06:15:23 +0700",
+    "createAt": "2026-06-23T23:15:23.000Z",
+    "thumbnail_blurhash": "LCECh2-tK%Ib,yt1i~SzS;it$#ou"
+  },
+  {
+    "id": "https://vnexpress.net/truyen-thong-brazil-e-ngai-doi-tuyen-nhat-ban-5088576.html",
+    "category_id": "sports",
+    "category_name": "Thể thao",
+    "source": "VnExpress",
+    "title": "Truyền thông Brazil e ngại đội tuyển Nhật Bản",
+    "description": "Nhật Bản trở thành chủ đề được bàn luận nhiều trên truyền thông Brazil, khi cả hai có thể gặp nhau ở vòng 1/16 World Cup 2026.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/06/22/afpr63ke-v1-highres-fbljpnbraf-7982-6519-1782119460.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=wh-yFrZ4VAcSA9a0ksWEiA",
+    "link": "https://vnexpress.net/truyen-thong-brazil-e-ngai-doi-tuyen-nhat-ban-5088576.html",
+    "published_at": "Wed, 24 Jun 2026 06:28:57 +0700",
+    "createAt": "2026-06-23T23:28:57.000Z",
+    "thumbnail_blurhash": "L7E3Lm0K4ox]4ZMnNead1V~CXNr@"
   }
 ]

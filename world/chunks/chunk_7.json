@@ -336,5 +336,31 @@
     "published_at": "Wed, 24 Jun 2026 05:00:00 +0700",
     "createAt": "2026-06-23T22:00:00.000Z",
     "thumbnail_blurhash": "LXF$k%9wkD-=PEsqNGNHW;jEV@R*"
+  },
+  {
+    "id": "https://vnexpress.net/thuong-vien-my-thong-qua-nghi-quyet-siet-quyen-luc-chien-tranh-cua-ong-trump-voi-iran-5089187.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Thượng viện Mỹ thông qua nghị quyết siết quyền lực chiến tranh của ông Trump với Iran",
+    "description": "Thượng viện Mỹ lần đầu thông qua nghị quyết hạn chế quyền lực của ông Trump trong chiến dịch Iran, cho thấy lo ngại gia tăng từ đảng Cộng hòa.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/24/DonaldTrump-1782258405-8996-1782258745.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=3AlnSZZkjVpiDva4_eVjJA",
+    "link": "https://vnexpress.net/thuong-vien-my-thong-qua-nghi-quyet-siet-quyen-luc-chien-tranh-cua-ong-trump-voi-iran-5089187.html",
+    "published_at": "Wed, 24 Jun 2026 07:10:06 +0700",
+    "createAt": "2026-06-24T00:10:06.000Z",
+    "thumbnail_blurhash": "LXHVPTV@.Tx^_3t8NGR*RjayWBV@"
+  },
+  {
+    "id": "https://vnexpress.net/trieu-tien-se-dong-chien-ham-10-000-tan-xay-dung-hai-quan-hat-nhan-5089189.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Triều Tiên sẽ đóng chiến hạm 10.000 tấn, xây dựng hải quân hạt nhân",
+    "description": "Ông Kim Jong-un cho biết Triều Tiên sẽ đóng thêm loạt chiến hạm mới, trong đó có tuần dương hạm 10.000 tấn, và trang bị vũ khí hạt nhân cho hải quân.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/24/5563187178137269374a-178225941-3060-5899-1782259561.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=zP1cPJZW9cbGnZdJUvaLRQ",
+    "link": "https://vnexpress.net/trieu-tien-se-dong-chien-ham-10-000-tan-xay-dung-hai-quan-hat-nhan-5089189.html",
+    "published_at": "Wed, 24 Jun 2026 07:18:48 +0700",
+    "createAt": "2026-06-24T00:18:48.000Z",
+    "thumbnail_blurhash": "LfDKZCoftmbI?wkDnhV@XTa#oMkC"
   }
 ]
