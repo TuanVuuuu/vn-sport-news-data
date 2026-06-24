@@ -271,5 +271,31 @@
     "published_at": "Wed, 24 Jun 2026 10:29:43 +0700",
     "createAt": "2026-06-24T03:29:43.000Z",
     "thumbnail_blurhash": "LHJsF9}k00pI03Ic%KnNDzxt%#NG"
+  },
+  {
+    "id": "https://vnexpress.net/spacex-phong-thu-tau-cho-hang-moi-hinh-dia-5089337.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "SpaceX phóng thử tàu chở hàng mới hình đĩa",
+    "description": "Starfall, phương tiện hồi quyển có khả năng mang tới 1.000 kg hàng hóa lên quỹ đạo được SpaceX phóng thành công, mở đường cho những nhà máy hoạt động ngoài vũ trụ trong tương lai.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/24/VNEStarfall2-1782274064-2651-1782274258.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=uP17UPVOkCVOB1Zu8gHvTQ",
+    "link": "https://vnexpress.net/spacex-phong-thu-tau-cho-hang-moi-hinh-dia-5089337.html",
+    "published_at": "Wed, 24 Jun 2026 12:00:00 +0700",
+    "createAt": "2026-06-24T05:00:00.000Z",
+    "thumbnail_blurhash": "L46a*bh{%N9Z%%9Eoyxu00T1IT?H"
+  },
+  {
+    "id": "https://vnexpress.net/trai-nghiem-tv-sqd-mini-led-gia-tram-trieu-dong-cua-tcl-5089029.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Trải nghiệm TV SQD-Mini LED giá trăm triệu đồng của TCL",
+    "description": "TCL SQD-Mini LED C8L 85 inch có giá 125 triệu đồng, dùng công nghệ Mini LED cao cấp nhất cùng hệ thống loa hàng hiệu Bang &amp; Olufsen.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/23/a1-1782207194.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=zrtGWdmIbA-FD7gLd5Q0Xg",
+    "link": "https://vnexpress.net/trai-nghiem-tv-sqd-mini-led-gia-tram-trieu-dong-cua-tcl-5089029.html",
+    "published_at": "Wed, 24 Jun 2026 12:00:00 +0700",
+    "createAt": "2026-06-24T05:00:00.000Z",
+    "thumbnail_blurhash": "LkI}S0%Mozt6~qaxM{WBx]RjRjjs"
   }
 ]
