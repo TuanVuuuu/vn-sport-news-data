@@ -1025,5 +1025,57 @@
     "published_at": "Wed, 24 Jun 2026 18:00:00 +0700",
     "createAt": "2026-06-24T11:00:00.000Z",
     "thumbnail_blurhash": "LcGbC-~WxvtPMy%N%MoztRaes:R+"
+  },
+  {
+    "id": "https://vnexpress.net/cac-bien-chung-nguy-hiem-cua-viem-khop-dang-thap-5089523.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Các biến chứng nguy hiểm của viêm khớp dạng thấp",
+    "description": "Người bệnh viêm khớp dạng thấp có thể mắc biến chứng tim mạch, bệnh phổi kẽ, loãng xương.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/24/vkdt-1782295659-5869-1782295691.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=PfW_OJ7bh6dxacF1YtZuAQ",
+    "link": "https://vnexpress.net/cac-bien-chung-nguy-hiem-cua-viem-khop-dang-thap-5089523.html",
+    "published_at": "Wed, 24 Jun 2026 19:00:00 +0700",
+    "createAt": "2026-06-24T12:00:00.000Z",
+    "thumbnail_blurhash": "LHNAk;_N00^+tTV?D*s:-p%M%LRj"
+  },
+  {
+    "id": "https://vnexpress.net/cha-me-danh-dum-cho-con-tiem-ngua-hpv-som-5089457.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Cha mẹ dành dụm cho con tiêm ngừa HPV sớm",
+    "description": "Giữa lúc chi phí sinh hoạt tăng, một số phụ huynh vẫn chủ động dành khoản tiền cố định để con tiêm vaccine HPV trong độ tuổi khuyến cáo.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/24/dscf9908-jpg-1782290355-9793-1782290688.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=gyccvVIgY5mBimA_n_RZMA",
+    "link": "https://vnexpress.net/cha-me-danh-dum-cho-con-tiem-ngua-hpv-som-5089457.html",
+    "published_at": "Wed, 24 Jun 2026 19:00:00 +0700",
+    "createAt": "2026-06-24T12:00:00.000Z",
+    "thumbnail_blurhash": "L8KL5M?G00r=0MRh00?wD*4.XSrs"
+  },
+  {
+    "id": "https://vnexpress.net/dieu-gi-xay-ra-khi-dung-nuoc-luoc-thit-de-nau-canh-5088067.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Điều gì xảy ra khi dùng nước luộc thịt để nấu canh?",
+    "description": "Nước luộc thịt ninh lâu càng ngọt và giàu dinh dưỡng, song chuyên gia khuyến cáo cần chọn thịt có nguồn gốc, bỏ bọt nổi và dùng trong ngày.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/20/nuoc-luoc-thit-vnexpress-17819-5358-4699-1781969711.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=m_gavYlEyObe3esD2znvlA",
+    "link": "https://vnexpress.net/dieu-gi-xay-ra-khi-dung-nuoc-luoc-thit-de-nau-canh-5088067.html",
+    "published_at": "Wed, 24 Jun 2026 20:00:00 +0700",
+    "createAt": "2026-06-24T13:00:00.000Z",
+    "thumbnail_blurhash": "L5Bf|X8^00M{4@Dh_4Mv02V=?cM|"
+  },
+  {
+    "id": "https://vnexpress.net/rung-chan-lien-tuc-co-phai-benh-5083911.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Rung chân liên tục có phải bệnh?",
+    "description": "Con trai tôi 18 tuổi, thường xuyên rung đùi và gác chân không kiểm soát. Đây là thói quen hay mắc bệnh cần điều trị? (Hoàng, 37 tuổi, Hà Nội)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/10/z4369380632581a2bbee41d6bfe0-1-2892-3589-1781054698.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=dsD3iKQKp2nSdC3rquShMQ",
+    "link": "https://vnexpress.net/rung-chan-lien-tuc-co-phai-benh-5083911.html",
+    "published_at": "Wed, 24 Jun 2026 20:00:00 +0700",
+    "createAt": "2026-06-24T13:00:00.000Z",
+    "thumbnail_blurhash": "LWFs40WBIBWXoJs.DiRj_4R%V@t7"
   }
 ]
