@@ -63,5 +63,31 @@
     "published_at": "Wed, 24 Jun 2026 00:15:00 +0700",
     "createAt": "2026-06-23T17:15:00.000Z",
     "thumbnail_blurhash": "LVDvTe-pRjx]?w%Maet8p1x[jEs;"
+  },
+  {
+    "id": "https://vnexpress.net/gia-vang-the-gioi-mat-moc-4-100-usd-5089206.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Giá vàng thế giới mất mốc 4.100 USD",
+    "description": "Mỗi ounce vàng hiện mất hơn 90 USD so với sáng 23/6, do giá đôla Mỹ lên cao nhất một năm.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/06/24/goldbarsreuters-1782261799-9562-1782261808.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=UOkq44AObeWDt8btYsmm7w",
+    "link": "https://vnexpress.net/gia-vang-the-gioi-mat-moc-4-100-usd-5089206.html",
+    "published_at": "Wed, 24 Jun 2026 07:46:06 +0700",
+    "createAt": "2026-06-24T00:46:06.000Z",
+    "thumbnail_blurhash": "LADuC$~90hRkIoaxt5s-07EOxYbH"
+  },
+  {
+    "id": "https://vnexpress.net/keppel-va-sun-group-hop-tac-nghien-cuu-ha-tang-nang-luong-ben-vung-5088638.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Keppel và Sun Group hợp tác nghiên cứu hạ tầng năng lượng bền vững",
+    "description": "Keppel và Sun Group nghiên cứu khả năng triển khai các giải pháp năng lượng theo mô hình dịch vụ tại 10 dự án thuộc lĩnh vực du lịch, nghỉ dưỡng và hàng không.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/06/23/hi-nh-ky-ket-1782204775-5558-1782205558.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=L3X43Yv7qZ5yDdStgUXotQ",
+    "link": "https://vnexpress.net/keppel-va-sun-group-hop-tac-nghien-cuu-ha-tang-nang-luong-ben-vung-5088638.html",
+    "published_at": "Wed, 24 Jun 2026 08:00:00 +0700",
+    "createAt": "2026-06-24T01:00:00.000Z",
+    "thumbnail_blurhash": "LIDT8|R%4=X84Qbb;3bEyoodwNf9"
   }
 ]
