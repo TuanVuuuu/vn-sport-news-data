@@ -947,5 +947,83 @@
     "published_at": "Wed, 24 Jun 2026 15:30:00 +0700",
     "createAt": "2026-06-24T08:30:00.000Z",
     "thumbnail_blurhash": "L8PCqJ+8Mn:?~T6^6xK10y1@B%7F"
+  },
+  {
+    "id": "https://vnexpress.net/an-pho-the-nao-khong-tang-mo-mau-5088366.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Ăn phở thế nào không tăng mỡ máu?",
+    "description": "Chọn thịt nhiều mỡ, uống hết nước dùng béo hay ăn phở kèm quẩy thường xuyên có thể làm tăng cholesterol xấu, gây rối loạn mỡ máu và tăng nguy cơ tim mạch.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/22/684f40a311ad9df3c4bc-178209999-8312-5309-1782100024.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=3EHLP6CMbpHyWj5HZGE10w",
+    "link": "https://vnexpress.net/an-pho-the-nao-khong-tang-mo-mau-5088366.html",
+    "published_at": "Wed, 24 Jun 2026 15:43:00 +0700",
+    "createAt": "2026-06-24T08:43:00.000Z",
+    "thumbnail_blurhash": "LAGbhYLf-@^m9]+r4nRNSP-oo#bc"
+  },
+  {
+    "id": "https://vnexpress.net/dieu-gi-xay-ra-khi-an-qua-nhieu-chat-xo-5089331.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Điều gì xảy ra khi ăn quá nhiều chất xơ?",
+    "description": "Bổ sung quá nhiều chất xơ trong chế độ ăn uống có thể gây đầy hơi, chướng bụng hoặc thay đổi thói quen đi đại tiện.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/24/z6353975010971fa3a2d4a085ffc84-7929-8976-1782284811.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=o3wgLRrdZ3wRC4ae47FcTg",
+    "link": "https://vnexpress.net/dieu-gi-xay-ra-khi-an-qua-nhieu-chat-xo-5089331.html",
+    "published_at": "Wed, 24 Jun 2026 16:30:00 +0700",
+    "createAt": "2026-06-24T09:30:00.000Z",
+    "thumbnail_blurhash": "LPH_|:EdwI~X$x^7XT-Qz;-qNLH@"
+  },
+  {
+    "id": "https://vnexpress.net/nguy-co-tre-mac-benh-do-nao-mo-cau-trong-mua-he-5089484.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Nguy cơ trẻ mắc bệnh do não mô cầu trong mùa hè",
+    "description": "Thời tiết nóng ẩm là điều kiện thuận lợi để nhiều virus, vi khuẩn gây bệnh truyền nhiễm phát triển, trong khi trẻ nghỉ học, đi du lịch, đến các nơi đông người làm tăng nguy cơ nhiễm bệnh.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/24/3-1782292324-3333-1782292843.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=FVuOmfCeHvWVywWTtSisTg",
+    "link": "https://vnexpress.net/nguy-co-tre-mac-benh-do-nao-mo-cau-trong-mua-he-5089484.html",
+    "published_at": "Wed, 24 Jun 2026 17:00:00 +0700",
+    "createAt": "2026-06-24T10:00:00.000Z",
+    "thumbnail_blurhash": "LpK-,*-7M{-;_NX9s:xut8WDoLof"
+  },
+  {
+    "id": "https://vnexpress.net/nhung-cach-an-uong-giup-giam-met-moi-khi-nang-nong-5089306.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Những cách ăn uống giúp giảm mệt mỏi khi nắng nóng",
+    "description": "Uống đủ nước, ăn rau xanh và trái cây, hạn chế đồ uống có cồn giúp cơ thể duy trì năng lượng, giảm nguy cơ kiệt sức do nắng nóng.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/24/018ea5fc-e950af2-c0a4dde49a0f-6907-7146-1782273239.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=YFKwzuXv4YNc467d3nvrpA",
+    "link": "https://vnexpress.net/nhung-cach-an-uong-giup-giam-met-moi-khi-nang-nong-5089306.html",
+    "published_at": "Wed, 24 Jun 2026 17:00:00 +0700",
+    "createAt": "2026-06-24T10:00:00.000Z",
+    "thumbnail_blurhash": "L6G*.so@00Q_00t8T2IU01M#_I?X"
+  },
+  {
+    "id": "https://vnexpress.net/anh-phe-duyet-thuoc-dau-tien-the-gioi-hoan-khoi-phat-tieu-duong-type-1-5089349.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Anh phê duyệt thuốc đầu tiên thế giới hoãn khởi phát tiểu đường type 1",
+    "description": "Teplizumab, loại thuốc đầu tiên trên thế giới giúp trì hoãn đến 3 năm khởi phát bệnh tiểu đường type 1, được phê duyệt sử dụng trong Hệ thống Y tế Quốc gia Anh (NHS).",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/24/3-1782290518-3139-1782292292.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Vz_gqv9G-Ex5MtSbeA5RRw",
+    "link": "https://vnexpress.net/anh-phe-duyet-thuoc-dau-tien-the-gioi-hoan-khoi-phat-tieu-duong-type-1-5089349.html",
+    "published_at": "Wed, 24 Jun 2026 17:24:02 +0700",
+    "createAt": "2026-06-24T10:24:02.000Z",
+    "thumbnail_blurhash": "LRNmTaa#wa%2L4j[xuofIpWBoyay"
+  },
+  {
+    "id": "https://vnexpress.net/4-meo-giup-tre-ren-kha-nang-tap-trung-tu-nhung-nam-dau-doi-5089336.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "4 mẹo giúp trẻ rèn khả năng tập trung từ những năm đầu đời",
+    "description": "Trẻ có thể rèn khả năng tập trung thông qua việc hoàn thành nhiệm vụ không bị ngắt quãng, ngủ đúng giờ và hạn chế xem tivi.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/24/f6353f26a-a054bb76-jpeg-178228-8457-6036-1782280452.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=gmO_g08IOfNAz0CHJ4Q2BQ",
+    "link": "https://vnexpress.net/4-meo-giup-tre-ren-kha-nang-tap-trung-tu-nhung-nam-dau-doi-5089336.html",
+    "published_at": "Wed, 24 Jun 2026 18:00:00 +0700",
+    "createAt": "2026-06-24T11:00:00.000Z",
+    "thumbnail_blurhash": "LcGbC-~WxvtPMy%N%MoztRaes:R+"
   }
 ]
