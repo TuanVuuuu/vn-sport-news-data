@@ -349,5 +349,31 @@
     "published_at": "Fri, 26 Jun 2026 00:03:00 +0700",
     "createAt": "2026-06-25T17:03:00.000Z",
     "thumbnail_blurhash": "LGEV4:~7%2-pGuNaSPS5nMo#V@aJ"
+  },
+  {
+    "id": "https://vnexpress.net/vi-sao-dan-ong-de-co-mui-co-the-hon-phu-nu-5089535.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Vì sao đàn ông dễ có mùi cơ thể hơn phụ nữ?",
+    "description": "Đàn ông dễ có mùi cơ thể hơn phụ nữ do tuyến mồ hôi hoạt động mạnh, vi khuẩn da và thói quen sinh hoạt, khiến nước hoa đôi khi không đủ để che lấp.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/24/img-jpg-1782310129-9928-1782310198.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=mDj9ykdjM_YTG8pOYoRM4A",
+    "link": "https://vnexpress.net/vi-sao-dan-ong-de-co-mui-co-the-hon-phu-nu-5089535.html",
+    "published_at": "Fri, 26 Jun 2026 01:00:00 +0700",
+    "createAt": "2026-06-25T18:00:00.000Z",
+    "thumbnail_blurhash": "LhNmpC_N00-;-;%2R*t7f-t6WBof"
+  },
+  {
+    "id": "https://vnexpress.net/dieu-gi-xay-ra-voi-xuong-khi-uong-sua-thuong-xuyen-5089887.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Điều gì xảy ra với xương khi uống sữa thường xuyên?",
+    "description": "Uống sữa thường xuyên có thể giúp tăng mật độ khoáng xương, hạn chế mất xương theo tuổi tác và giảm nguy cơ loãng xương.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/25/sua-dau-nanh-1782379243-8405-1782379259.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=EeyeLKmoSz6K5LvMMmHdlQ",
+    "link": "https://vnexpress.net/dieu-gi-xay-ra-voi-xuong-khi-uong-sua-thuong-xuyen-5089887.html",
+    "published_at": "Fri, 26 Jun 2026 01:00:00 +0700",
+    "createAt": "2026-06-25T18:00:00.000Z",
+    "thumbnail_blurhash": "LjM7fN%2Rkf5~qj[j]ofozofoeof"
   }
 ]
