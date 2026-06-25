@@ -284,5 +284,31 @@
     "published_at": "Thu, 25 Jun 2026 16:00:00 +0700",
     "createAt": "2026-06-25T09:00:00.000Z",
     "thumbnail_blurhash": "LHF#]yV?~3?Ho6x[xmRpOwD$9rIv"
+  },
+  {
+    "id": "https://vnexpress.net/7-dau-hieu-cho-thay-duong-ruot-khoe-manh-5089838.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "7 dấu hiệu cho thấy đường ruột khỏe mạnh",
+    "description": "Đi tiêu đều đặn, ít đầy hơi, ngủ ngon, da khỏe hay cân nặng ổn định là dấu hiệu cho thấy hệ tiêu hóa của bạn đang hoạt động tốt.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/25/6f8dfa8186b407ea5ea5-178237658-6840-7227-1782376605.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=zaYqfPIyQwnQ5GHRfPyu1w",
+    "link": "https://vnexpress.net/7-dau-hieu-cho-thay-duong-ruot-khoe-manh-5089838.html",
+    "published_at": "Thu, 25 Jun 2026 16:14:21 +0700",
+    "createAt": "2026-06-25T09:14:21.000Z",
+    "thumbnail_blurhash": "LEMZU0?wM5?HHqrq%ht2#xAC00Di"
+  },
+  {
+    "id": "https://vnexpress.net/lam-the-nao-phong-ngua-soi-than-tai-phat-5089879.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Làm thế nào phòng ngừa sỏi thận tái phát?",
+    "description": "Tôi từng phẫu thuật lấy sỏi, gần đây đau âm ỉ vùng hông lưng. Có phải sỏi tái phát, làm cách nào phòng ngừa? (Trần Minh, 35 tuổi, Đồng Nai)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/25/bao-1782377649-2936-1782377665.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=W7t4oyCFAXruhz-7V7xJmg",
+    "link": "https://vnexpress.net/lam-the-nao-phong-ngua-soi-than-tai-phat-5089879.html",
+    "published_at": "Thu, 25 Jun 2026 17:00:00 +0700",
+    "createAt": "2026-06-25T10:00:00.000Z",
+    "thumbnail_blurhash": "LIM7ic00NL~q?X9aa%tSx@XAIUI9"
   }
 ]
