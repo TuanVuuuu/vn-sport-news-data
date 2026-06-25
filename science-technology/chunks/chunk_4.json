@@ -596,5 +596,18 @@
     "published_at": "Thu, 25 Jun 2026 17:00:00 +0700",
     "createAt": "2026-06-25T10:00:00.000Z",
     "thumbnail_blurhash": "LAAwM3kl4TI90J?t%LtRrnD$.T%M"
+  },
+  {
+    "id": "https://vnexpress.net/noi-lo-tut-hau-cua-lap-trinh-vien-khi-dung-ai-5089747.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Nỗi lo tụt hậu của lập trình viên khi dùng AI",
+    "description": "Danny Hamam, kỹ sư phần mềm tại New York, nói thường cảm thấy bồn chồn mỗi khi Anthropic, Google, OpenAI ra công cụ hỗ trợ lập trình mới.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/25/chatgpt-image-thg-1782386464-3995-1782386483.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=Js169zjkbf4wGuc9OmG9FA",
+    "link": "https://vnexpress.net/noi-lo-tut-hau-cua-lap-trinh-vien-khi-dung-ai-5089747.html",
+    "published_at": "Thu, 25 Jun 2026 19:00:00 +0700",
+    "createAt": "2026-06-25T12:00:00.000Z",
+    "thumbnail_blurhash": "LtGl6U%MxZxu~qt8WBt7_2ofRjjZ"
   }
 ]
