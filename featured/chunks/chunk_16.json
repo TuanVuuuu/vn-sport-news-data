@@ -232,5 +232,44 @@
     "published_at": "Thu, 25 Jun 2026 22:11:36 +0700",
     "createAt": "2026-06-25T15:11:36.000Z",
     "thumbnail_blurhash": "LIH.c+00.RDi~qM|D%xu-;RjIUxu"
+  },
+  {
+    "id": "https://vnexpress.net/bo-cong-thuong-nghien-cuu-gia-dien-theo-gio-voi-ho-gia-dinh-5090003.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Bộ Công Thương nghiên cứu giá điện theo giờ với hộ gia đình",
+    "description": "Bộ Công Thương muốn từng bước tính giá điện theo thời gian sử dụng với khách hàng sinh hoạt, nhằm khuyến khích dịch chuyển nhu cầu khỏi giờ cao điểm.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/06/25/dien03-nguyet-nhi-1782402559-3684-1782402601.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=8ZsN-YCTsQD5u5ZNKRvpOg",
+    "link": "https://vnexpress.net/bo-cong-thuong-nghien-cuu-gia-dien-theo-gio-voi-ho-gia-dinh-5090003.html",
+    "published_at": "Thu, 25 Jun 2026 22:52:43 +0700",
+    "createAt": "2026-06-25T15:52:43.000Z",
+    "thumbnail_blurhash": "LMM7JhIVoL-o_4xtWBNGI;E1WBxu"
+  },
+  {
+    "id": "https://vnexpress.net/cuoc-hop-bien-thanh-man-dau-khau-giua-ong-trump-voi-phe-cong-hoa-5089638.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Cuộc họp biến thành màn đấu khẩu giữa ông Trump với phe Cộng hòa",
+    "description": "Một cuộc họp nhằm thúc đẩy dự luật mới đã chuyển hướng sang màn đối đầu căng thẳng giữa ông Trump và các thượng nghị sĩ Cộng hòa về vấn đề Iran.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/25/ap26175707995717-1782374557-3592-1782375038.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=wvws8LAe8tIR1d1bHH3ToA",
+    "link": "https://vnexpress.net/cuoc-hop-bien-thanh-man-dau-khau-giua-ong-trump-voi-phe-cong-hoa-5089638.html",
+    "published_at": "Fri, 26 Jun 2026 00:00:00 +0700",
+    "createAt": "2026-06-25T17:00:00.000Z",
+    "thumbnail_blurhash": "LRBp2:n$bvV@~UadbbRj%KoLoMR*"
+  },
+  {
+    "id": "https://vnexpress.net/hau-truong-buc-hinh-ban-tay-cua-chua-tai-world-cup-1986-5089231.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Hậu trường bức hình 'Bàn tay của Chúa' tại World Cup 1986",
+    "description": "Tại World Cup 1986, Alejandro - nhiếp ảnh gia tay ngang người Mexico - khiến thế giới chấn động khi chụp được cảnh huyền thoại Maradona ghi bàn bằng tay.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/06/25/alejandro-va-buc-hinh-mang-tin-4927-7646-1782382528.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=J59UX9puoOL89anFd_-Rvw",
+    "link": "https://vnexpress.net/hau-truong-buc-hinh-ban-tay-cua-chua-tai-world-cup-1986-5089231.html",
+    "published_at": "Fri, 26 Jun 2026 00:00:00 +0700",
+    "createAt": "2026-06-25T17:00:00.000Z",
+    "thumbnail_blurhash": "L=Kd_FWAtR%g~qWBbItRofoeWBf6"
   }
 ]
