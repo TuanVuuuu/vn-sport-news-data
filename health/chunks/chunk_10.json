@@ -310,5 +310,31 @@
     "published_at": "Thu, 25 Jun 2026 17:00:00 +0700",
     "createAt": "2026-06-25T10:00:00.000Z",
     "thumbnail_blurhash": "LIM7ic00NL~q?X9aa%tSx@XAIUI9"
+  },
+  {
+    "id": "https://vnexpress.net/hon-2-trieu-nguoi-viet-song-chung-voi-benh-vay-nen-5089913.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Hơn 2 triệu người Việt sống chung với bệnh vảy nến",
+    "description": "Khoảng 2% dân số Việt Nam mắc bệnh vảy nến - một bệnh mạn tính, tương đương hơn hai triệu người.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/25/1-1782383057-1518-1782383113.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=vbeePEPomluUcmiwqBOA-w",
+    "link": "https://vnexpress.net/hon-2-trieu-nguoi-viet-song-chung-voi-benh-vay-nen-5089913.html",
+    "published_at": "Thu, 25 Jun 2026 18:29:21 +0700",
+    "createAt": "2026-06-25T11:29:21.000Z",
+    "thumbnail_blurhash": "LHIX~u-:E2_3~p-;MxMxkWs:WAog"
+  },
+  {
+    "id": "https://vnexpress.net/nguoi-phu-nu-mac-chung-nghien-cao-da-5089943.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Người phụ nữ mắc chứng nghiện cào da",
+    "description": "Chị Duyên, 35 tuổi, mắc rối loạn bóc da bệnh lý, liên tục cào cấu da khiến bàn tay chi chít sẹo.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/25/ba-c-si-du-o-ng-1782386273-9249-1782386303.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=WomLnyYLO_XwuXrpJSzsWA",
+    "link": "https://vnexpress.net/nguoi-phu-nu-mac-chung-nghien-cao-da-5089943.html",
+    "published_at": "Thu, 25 Jun 2026 19:00:00 +0700",
+    "createAt": "2026-06-25T12:00:00.000Z",
+    "thumbnail_blurhash": "LqNTdq~q9G?a?be-RP%gROWBkCjr"
   }
 ]
