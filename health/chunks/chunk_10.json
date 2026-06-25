@@ -167,5 +167,31 @@
     "published_at": "Thu, 25 Jun 2026 12:00:00 +0700",
     "createAt": "2026-06-25T05:00:00.000Z",
     "thumbnail_blurhash": "LHEW?;%iaH~qIQ-;tR9FIrN3R,E1"
+  },
+  {
+    "id": "https://vnexpress.net/vi-sao-ban-hay-nho-nho-quen-quen-5089488.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Vì sao bạn hay 'nhớ nhớ quên quên'?",
+    "description": "Thiếu ngủ, căng thẳng, sương mù não hay thiếu hụt dinh dưỡng đều có thể khiến bạn thường xuyên quên đồ vật, lịch hẹn hoặc lời nói định diễn đạt.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/24/anh-minh-hoa-1782295284-5700-1782295345.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=Ul7USx23VzUIMc3EfXmpLg",
+    "link": "https://vnexpress.net/vi-sao-ban-hay-nho-nho-quen-quen-5089488.html",
+    "published_at": "Thu, 25 Jun 2026 13:00:00 +0700",
+    "createAt": "2026-06-25T06:00:00.000Z",
+    "thumbnail_blurhash": "LJL|}zoH^*xu~qWCM{oe%MogM|Rk"
+  },
+  {
+    "id": "https://vnexpress.net/truyen-mau-cho-thai-nhi-trong-bung-me-5089562.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Truyền máu cho thai nhi trong bụng mẹ",
+    "description": "Thai nhi 20 tuần tuổi thiếu máu, được các bác sĩ truyền máu qua dây rốn trong tử cung mẹ.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/25/image001-1782362156-8827-1782362196.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=2UrMZnfmHx_tbqVLTr3GTA",
+    "link": "https://vnexpress.net/truyen-mau-cho-thai-nhi-trong-bung-me-5089562.html",
+    "published_at": "Thu, 25 Jun 2026 13:00:00 +0700",
+    "createAt": "2026-06-25T06:00:00.000Z",
+    "thumbnail_blurhash": "LQIhBB~BN2?GiHH?IVxV%LD*t7%M"
   }
 ]
