@@ -882,5 +882,31 @@
     "published_at": "Thu, 25 Jun 2026 07:00:00 +0700",
     "createAt": "2026-06-25T00:00:00.000Z",
     "thumbnail_blurhash": "LKGl*LH;9Fof}[x]tRozysx^RPjG"
+  },
+  {
+    "id": "https://vnexpress.net/10-khu-nghi-duong-bien-viet-nam-tot-nhat-chau-a-thai-binh-duong-5089498.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "10 khu nghỉ dưỡng biển Việt Nam tốt nhất châu Á - Thái Bình Dương",
+    "description": "Các resort nằm ở Đà Nẵng, Phú Quốc, Khánh Hòa được Travel + Leisure bình chọn là các khu nghỉ dưỡng Việt Nam tốt nhất ở khu vực châu Á - Thái Bình Dương.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/06/25/jwm-1782353374.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=zxp5RWKOyK27hIMZMg4PtQ",
+    "link": "https://vnexpress.net/10-khu-nghi-duong-bien-viet-nam-tot-nhat-chau-a-thai-binh-duong-5089498.html",
+    "published_at": "Thu, 25 Jun 2026 15:26:36 +0700",
+    "createAt": "2026-06-25T08:26:36.000Z",
+    "thumbnail_blurhash": "LsFPytM_jrax.ARPWBj]p0ofWAaz"
+  },
+  {
+    "id": "https://vnexpress.net/khach-phan-ung-vi-tang-gia-ve-vao-khu-du-lich-eo-gio-5089696.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Khách phản ứng vì tăng giá vé vào khu du lịch Eo Gió",
+    "description": "Dù Sở Tài chính đã yêu cầu tạm dừng tăng giá vé tham quan khu du lịch Eo Gió, doanh nghiệp quản lý vẫn thu 40.000 đồng một lượt, khiến nhiều du khách phản ứng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/25/IMG5016-1782357001-8056-1782357199.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=zBrxH9SYYhI0tWBSr5JbAg",
+    "link": "https://vnexpress.net/khach-phan-ung-vi-tang-gia-ve-vao-khu-du-lich-eo-gio-5089696.html",
+    "published_at": "Thu, 25 Jun 2026 15:49:21 +0700",
+    "createAt": "2026-06-25T08:49:21.000Z",
+    "thumbnail_blurhash": "LYFr*Lv_bckDK-I9ofoz.AM{adkD"
   }
 ]
