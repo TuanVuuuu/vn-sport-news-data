@@ -700,5 +700,31 @@
     "published_at": "Wed, 24 Jun 2026 21:00:00 +0700",
     "createAt": "2026-06-24T14:00:00.000Z",
     "thumbnail_blurhash": "L@H3Q?t8kqbby?bHaej]x]WBjFoM"
+  },
+  {
+    "id": "https://vnexpress.net/nguoi-hung-bon-nam-truoc-lai-xa-than-cuu-nguoi-5089533.html",
+    "category_id": "life",
+    "category_name": "Đời sống",
+    "source": "VnExpress",
+    "title": "'Người hùng' bốn năm trước lại xả thân cứu người",
+    "description": "Bốn năm sau khi tay không đỡ bé gái rơi từ tầng cao, anh Shen Dong tiếp tục lao xuống biển cứu một bé 10 tuổi đang bị sóng cuốn.",
+    "thumbnail_url": "https://vcdn1-giadinh.vnecdn.net/2026/06/24/0-1782297227-3198-1782297995.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=p0nfePZB1J0NhQNYHsOXXA",
+    "link": "https://vnexpress.net/nguoi-hung-bon-nam-truoc-lai-xa-than-cuu-nguoi-5089533.html",
+    "published_at": "Thu, 25 Jun 2026 05:48:00 +0700",
+    "createAt": "2026-06-24T22:48:00.000Z",
+    "thumbnail_blurhash": "LYLgtuV??w?G~qNGxbod%MogRjX8"
+  },
+  {
+    "id": "https://vnexpress.net/doi-du-muc-cua-nguoi-phu-nu-nghi-huu-o-tuoi-48-5081813.html",
+    "category_id": "life",
+    "category_name": "Đời sống",
+    "source": "VnExpress",
+    "title": "Đời du mục của người phụ nữ nghỉ hưu ở tuổi 48",
+    "description": "Quyết định nghỉ việc ở tuổi 48, hai năm qua chị Kim Trinh du lịch khắp Việt Nam và nước ngoài, duy trì lối sống tối giản với ngân sách linh hoạt.",
+    "thumbnail_url": "https://vcdn1-giadinh.vnecdn.net/2026/06/25/1-1782321615-5202-1782321670.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=62EY9Rfa9ydGpmXCK1CKfw",
+    "link": "https://vnexpress.net/doi-du-muc-cua-nguoi-phu-nu-nghi-huu-o-tuoi-48-5081813.html",
+    "published_at": "Thu, 25 Jun 2026 06:00:00 +0700",
+    "createAt": "2026-06-24T23:00:00.000Z",
+    "thumbnail_blurhash": "LhEW5nofWVoy%%WEjaWX.8WXoexa"
   }
 ]
