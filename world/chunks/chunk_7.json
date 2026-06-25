@@ -726,5 +726,44 @@
     "published_at": "Thu, 25 Jun 2026 09:43:57 +0700",
     "createAt": "2026-06-25T02:43:57.000Z",
     "thumbnail_blurhash": "L7B:mesl9Z_4%h00Rj%gOr9EM_SO"
+  },
+  {
+    "id": "https://vnexpress.net/ly-do-tay-au-tro-thanh-lo-nung-5089631.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Lý do Tây Âu trở thành 'lò nung'",
+    "description": "Mô hình thời tiết \"khối chặn Omega\" đang khiến Tây Âu trải qua đợt nắng nóng kỷ lục, với vòm nhiệt bao phủ nhiều khu vực.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/25/ap26175600523875-1782356271-8736-1782357823.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=9PzhSjU_7_i_ogiZyLz42Q",
+    "link": "https://vnexpress.net/ly-do-tay-au-tro-thanh-lo-nung-5089631.html",
+    "published_at": "Thu, 25 Jun 2026 10:58:05 +0700",
+    "createAt": "2026-06-25T03:58:05.000Z",
+    "thumbnail_blurhash": "LHCjLo4n00~p?wWBD$%2IVxus.M{"
+  },
+  {
+    "id": "https://vnexpress.net/ong-zelensky-tuyen-bo-belarus-da-dap-ung-toi-hau-thu-cua-ukraine-5089700.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Ông Zelensky tuyên bố Belarus đã đáp ứng tối hậu thư của Ukraine",
+    "description": "Tổng thống Zelensky nói Belarus đã tắt những thiết bị chuyển tiếp dùng để \"hỗ trợ UAV Nga\", sau khi Kiev yêu cầu Minsk làm điều này trong một tuần.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/25/Zelensky-1782358367-7205-1782359021.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=92asgIf1dRd2QFzKW0cl5w",
+    "link": "https://vnexpress.net/ong-zelensky-tuyen-bo-belarus-da-dap-ung-toi-hau-thu-cua-ukraine-5089700.html",
+    "published_at": "Thu, 25 Jun 2026 11:07:38 +0700",
+    "createAt": "2026-06-25T04:07:38.000Z",
+    "thumbnail_blurhash": "LME{5=ad?bt6~BxuM{R*xaoga~a}"
+  },
+  {
+    "id": "https://vnexpress.net/vi-sao-ngay-cang-nhieu-nam-gioi-my-khong-di-lam-5089651.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Vì sao ngày càng nhiều nam giới Mỹ không đi làm",
+    "description": "Nghiên cứu mới cho thấy xu hướng nam giới Mỹ không tham gia lực lượng lao động bắt nguồn từ trải nghiệm tiêu cực thuở ấu thơ, khi chứng kiến người lớn xung quanh chật vật mưu sinh.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/25/2025-large-1782359319-6819-1782359406.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=iCteoxObQpKLSj7AQMGuwg",
+    "link": "https://vnexpress.net/vi-sao-ngay-cang-nhieu-nam-gioi-my-khong-di-lam-5089651.html",
+    "published_at": "Thu, 25 Jun 2026 11:13:40 +0700",
+    "createAt": "2026-06-25T04:13:40.000Z",
+    "thumbnail_blurhash": "L9BVO{cG9Z{1^PK4ELv~1rnfI.1b"
   }
 ]
