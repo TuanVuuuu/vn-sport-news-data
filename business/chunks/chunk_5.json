@@ -518,5 +518,31 @@
     "published_at": "Thu, 25 Jun 2026 14:29:01 +0700",
     "createAt": "2026-06-25T07:29:01.000Z",
     "thumbnail_blurhash": "LDJHp+AdyWDi0300-p_N_4?HxaM|"
+  },
+  {
+    "id": "https://vnexpress.net/dnse-hoan-tat-lien-ket-vneid-rut-ngan-quy-trinh-mo-tai-khoan-5089818.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "DNSE hoàn tất liên kết VNeID, rút ngắn quy trình mở tài khoản",
+    "description": "DNSE kết nối với hệ thống định danh điện tử quốc gia VNeID, cho phép nhà đầu tư hoàn tất mở tài khoản trong khoảng 1 phút mà không cần quét NFC từ căn cước công dân.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/06/25/dnse-tie-n-phong-trie-n-khai-m-6976-8240-1782372266.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=WumzaJDYx3H_8kIq0HULpg",
+    "link": "https://vnexpress.net/dnse-hoan-tat-lien-ket-vneid-rut-ngan-quy-trinh-mo-tai-khoan-5089818.html",
+    "published_at": "Thu, 25 Jun 2026 15:30:00 +0700",
+    "createAt": "2026-06-25T08:30:00.000Z",
+    "thumbnail_blurhash": "LRF$Fe_NIoRPT0kDR*Io9GNH-;WV"
+  },
+  {
+    "id": "https://vnexpress.net/chung-khoan-giam-gan-15-diem-5089858.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Chứng khoán giảm gần 15 điểm",
+    "description": "Cổ phiếu nhóm Vingroup trở thành nhân tố chính khiến chứng khoán giảm gần 15 điểm, mức điều chỉnh mạnh nhất trong hơn 2 tuần qua.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/06/25/233a7400-1782375286-6027-1782375332.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=whf98l8BfgnHzaEsUFqtfw",
+    "link": "https://vnexpress.net/chung-khoan-giam-gan-15-diem-5089858.html",
+    "published_at": "Thu, 25 Jun 2026 15:48:51 +0700",
+    "createAt": "2026-06-25T08:48:51.000Z",
+    "thumbnail_blurhash": "LCA0,#DOIT~q4o%ht7DiIoXTWBoe"
   }
 ]

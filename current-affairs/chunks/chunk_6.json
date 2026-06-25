@@ -89,5 +89,44 @@
     "published_at": "Wed, 24 Jun 2026 17:50:04 +0700",
     "createAt": "2026-06-24T10:50:04.000Z",
     "thumbnail_blurhash": "L8EyhwIj04MMr9Vj%|%VV*D5?=tl"
+  },
+  {
+    "id": "https://vnexpress.net/chieu-nay-mien-bac-mua-giong-ngay-mai-het-nang-nong-5089821.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Chiều nay miền Bắc mưa giông, ngày mai hết nắng nóng",
+    "description": "Mưa giông xuất hiện từ chiều tối 25/6 sẽ giúp miền Bắc hạ nhiệt, chấm dứt đợt nắng nóng kéo dài nhiều ngày, trong khi Trung Bộ tiếp tục nắng nóng gay gắt.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/25/z6944929315155be903c9445ba2b8d-4114-8935-1782372168.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Gwo0wZ2FIxhNactPY9vd-g",
+    "link": "https://vnexpress.net/chieu-nay-mien-bac-mua-giong-ngay-mai-het-nang-nong-5089821.html",
+    "published_at": "Thu, 25 Jun 2026 15:02:04 +0700",
+    "createAt": "2026-06-25T08:02:04.000Z",
+    "thumbnail_blurhash": "L9BM[H~q00V?X7sli^MxR*M{aexu"
+  },
+  {
+    "id": "https://vnexpress.net/tai-xe-bi-phat-vi-nhay-den-do-vao-xe-doi-dien-5089842.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Tài xế bị phạt vì nháy đèn độ vào xe đối diện",
+    "description": "Một tài xế ở Hà Nội bị phạt 2 triệu đồng, trừ 2 điểm giấy phép lái xe sau khi liên tục nháy đèn lắp thêm trên nắp ca-pô vào xe đi ngược chiều.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/25/untitled1-1782377696-6429-1782377704.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=t5-s2YZi1XwnlVCMv_q6BA",
+    "link": "https://vnexpress.net/tai-xe-bi-phat-vi-nhay-den-do-vao-xe-doi-dien-5089842.html",
+    "published_at": "Thu, 25 Jun 2026 15:09:22 +0700",
+    "createAt": "2026-06-25T08:09:22.000Z",
+    "thumbnail_blurhash": "L68z#~E200~V00xZ.7Io4.xa?b9Z"
+  },
+  {
+    "id": "https://vnexpress.net/so-nguoi-huong-luong-huu-tang-93-do-nghi-huu-truoc-tuoi-5089727.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Số người hưởng lương hưu tăng 93% do nghỉ hưu trước tuổi",
+    "description": "Số người được giải quyết chế độ hưu trí năm 2025 tăng 93% so với cùng kỳ năm trước, chủ yếu do cán bộ, công chức, viên chức nghỉ hưu trước tuổi để thực hiện sắp xếp tổ chức bộ máy.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/25/luonghuu-1782363005-6091-1782363271.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=sNmftLFOPS8oBtSbuKszMQ",
+    "link": "https://vnexpress.net/so-nguoi-huong-luong-huu-tang-93-do-nghi-huu-truoc-tuoi-5089727.html",
+    "published_at": "Thu, 25 Jun 2026 15:50:16 +0700",
+    "createAt": "2026-06-25T08:50:16.000Z",
+    "thumbnail_blurhash": "LII=Ml~W.7.7?u8{9ZRl00of%MNH"
   }
 ]
