@@ -518,5 +518,31 @@
     "published_at": "Thu, 25 Jun 2026 11:00:00 +0700",
     "createAt": "2026-06-25T04:00:00.000Z",
     "thumbnail_blurhash": "L8H_=D8^00xD~qyDEMNGoMt7RjaK"
+  },
+  {
+    "id": "https://vnexpress.net/microsoft-viet-nam-co-ty-le-nhan-su-ai-cao-nhat-dong-nam-a-5089427.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Microsoft: Việt Nam có tỷ lệ 'nhân sự AI' cao nhất Đông Nam Á",
+    "description": "Việt Nam có tỷ lệ lao động thuộc nhóm \"nhân sự tiên phong về AI\" cao nhất Đông Nam Á, và hơn 80% sợ bị tụt lại nếu không ứng dụng AI vào công việc.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/25/IMG-3508-1782325240-3272-1782325518.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=W_AbqAbWr1PQGFReczXhdQ",
+    "link": "https://vnexpress.net/microsoft-viet-nam-co-ty-le-nhan-su-ai-cao-nhat-dong-nam-a-5089427.html",
+    "published_at": "Thu, 25 Jun 2026 11:39:35 +0700",
+    "createAt": "2026-06-25T04:39:35.000Z",
+    "thumbnail_blurhash": "LLI5MP9H00o$~qj]MwR*00t7_3Rj"
+  },
+  {
+    "id": "https://vnexpress.net/microsoft-hop-tac-fpt-thuc-day-ai-tai-chau-a-5089726.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Microsoft hợp tác FPT thúc đẩy AI tại châu Á",
+    "description": "FPT cho biết sẽ thúc đẩy triển khai tác nhân AI của Microsoft và cùng nhau phát triển quan hệ đối tác chiến lược tại thị trường châu Á.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/25/at104010-jpg-1782359967-1794-1782360007.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=o9PYvY14Zh9VmbKI45bdHA",
+    "link": "https://vnexpress.net/microsoft-hop-tac-fpt-thuc-day-ai-tai-chau-a-5089726.html",
+    "published_at": "Thu, 25 Jun 2026 11:50:42 +0700",
+    "createAt": "2026-06-25T04:50:42.000Z",
+    "thumbnail_blurhash": "LeJ[#MOYyFXA.AozM^WU%MofM_j="
   }
 ]
