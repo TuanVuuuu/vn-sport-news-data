@@ -310,5 +310,44 @@
     "published_at": "Thu, 25 Jun 2026 19:00:00 +0700",
     "createAt": "2026-06-25T12:00:00.000Z",
     "thumbnail_blurhash": "LyFPvqj]aes:_Nj]ayof-;oLkCof"
+  },
+  {
+    "id": "https://vnexpress.net/doanh-nhan-bi-bat-vi-chan-cau-vuot-de-to-chuc-sinh-nhat-vo-5089786.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Doanh nhân bị bắt vì chặn cầu vượt để tổ chức sinh nhật vợ",
+    "description": "Một doanh nhân bị khởi tố sau khi chặn phương tiện trên cầu vượt ở Guwahati để trải thảm đỏ, đỗ dàn xe sang tổ chức sinh nhật vợ.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/25/India2-1782363670-3596-1782372126.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Mi7-uUgrkOE40Bn01Rmllw",
+    "link": "https://vnexpress.net/doanh-nhan-bi-bat-vi-chan-cau-vuot-de-to-chuc-sinh-nhat-vo-5089786.html",
+    "published_at": "Fri, 26 Jun 2026 05:00:00 +0700",
+    "createAt": "2026-06-25T22:00:00.000Z",
+    "thumbnail_blurhash": "L6G%$3v4?F}Z1OL00NEg00}YR6AD"
+  },
+  {
+    "id": "https://vnexpress.net/porsche-cayenne-ev-khi-gia-toc-nhanh-hon-y-nghi-5084169.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Porsche Cayenne EV - khi gia tốc nhanh hơn ý nghĩ",
+    "description": "Khi bạn đang nuôi ga cho launch control và nghĩ rằng sẽ phải phanh bao nhiêu % lực ở chiếc cọc tiêu phía xa, là lúc chiếc xe đã có mặt ở đó.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/25/regional-cayenne-electric-pann-9465-5801-1782378119.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=m9kszRqClw8Q4_bg8tF0IQ",
+    "link": "https://vnexpress.net/porsche-cayenne-ev-khi-gia-toc-nhanh-hon-y-nghi-5084169.html",
+    "published_at": "Fri, 26 Jun 2026 05:30:00 +0700",
+    "createAt": "2026-06-25T22:30:00.000Z",
+    "thumbnail_blurhash": "L8E3hqNu~oxttYWXRORi^hD+9Hj?"
+  },
+  {
+    "id": "https://vnexpress.net/hyundai-va-kia-thu-nghiem-cong-nghe-khu-trung-oto-khi-co-nguoi-5089827.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Hyundai và Kia thử nghiệm công nghệ khử trùng ôtô khi có người",
+    "description": "Hai hãng xe Hàn phát triển công nghệ khử trùng, khử mùi khoang lái đầu tiên trên thế giới có thể hoạt động cả khi có hành khách trong xe.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/25/hyundaivakiathunghiemcongnghek-2059-7239-1782399644.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=z6YCMvSt1N7pJ5PCo60mIw",
+    "link": "https://vnexpress.net/hyundai-va-kia-thu-nghiem-cong-nghe-khu-trung-oto-khi-co-nguoi-5089827.html",
+    "published_at": "Fri, 26 Jun 2026 06:00:00 +0700",
+    "createAt": "2026-06-25T23:00:00.000Z",
+    "thumbnail_blurhash": "LA5;,~s?EdS0-as?NDW;IQbIs8fS"
   }
 ]
