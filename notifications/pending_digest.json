@@ -1,3 +1,82 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/robot-cho-tuan-tra-an-ninh-tai-world-cup-2026-the-nao-5089560.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Robot chó tuần tra an ninh tại World Cup 2026 thế nào?",
+      "description": "Với nhiệm vụ tuần tra, quét camera 360 độ và kiểm tra vật thể nguy hiểm, những \"chú chó\" robot này đang phối hợp với con người để bảo vệ ngày hội bóng đá lớn nhất hành tinh.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/24/thumb5x300108-1782308467-9098-1782309409.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=5zVEa7clE5Durh1pmns_bQ",
+      "link": "https://vnexpress.net/robot-cho-tuan-tra-an-ninh-tai-world-cup-2026-the-nao-5089560.html",
+      "published_at": "Thu, 25 Jun 2026 06:00:00 +0700",
+      "createAt": "2026-06-24T23:00:00.000Z",
+      "thumbnail_blurhash": "L-C=B%oNAhW@bejujYbFJZa#w?j="
+    },
+    {
+      "id": "https://vnexpress.net/nang-nong-cuc-doan-phoi-bay-diem-yeu-ha-tang-cua-chau-au-5089221.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Nắng nóng cực đoan phơi bày điểm yếu hạ tầng của châu Âu",
+      "description": "Hạ tầng châu Âu bộc lộ nhiều hạn chế trước nhiệt độ cực đoan, khi khu vực liên tiếp đối mặt những đợt nắng nóng kỷ lục.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/24/ap26173491843317-1782288721-2341-1782288734.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=pKZ3fqDcZpDzPIZrBWdUVg",
+      "link": "https://vnexpress.net/nang-nong-cuc-doan-phoi-bay-diem-yeu-ha-tang-cua-chau-au-5089221.html",
+      "published_at": "Thu, 25 Jun 2026 06:00:00 +0700",
+      "createAt": "2026-06-24T23:00:00.000Z",
+      "thumbnail_blurhash": "LCE.z;~pE2of014noet7-;IU9F%2"
+    },
+    {
+      "id": "https://vnexpress.net/nhung-tuyen-bo-trai-nguoc-lam-kho-dam-phan-my-iran-5089207.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Những tuyên bố trái ngược làm khó đàm phán Mỹ - Iran",
+      "description": "Những tuyên bố trái chiều từ Washington và Tehran đang biến đàm phán Mỹ - Iran thành cuộc đối đầu công khai, nguy cơ làm chệch hướng tiến trình đối thoại.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/24/ap26172523282976-1782276764-3335-1782277378.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=tQWUr315vcRkiaIXPurQDw",
+      "link": "https://vnexpress.net/nhung-tuyen-bo-trai-nguoc-lam-kho-dam-phan-my-iran-5089207.html",
+      "published_at": "Thu, 25 Jun 2026 07:00:00 +0700",
+      "createAt": "2026-06-25T00:00:00.000Z",
+      "thumbnail_blurhash": "LACP;qvKMm~V0wozM_9s5XtmWS9F"
+    },
+    {
+      "id": "https://vnexpress.net/nam-phi-v-han-quoc-5089593.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Nam Phi - Hàn Quốc: Son Heung-min dự bị",
+      "description": "Hàn Quốc chỉ cần hòa Nam Phi ở lượt cuối là chắc suất đi tiếp ở bảng A World Cup 2026. Bóng lăn lúc 8h00 giờ Hà Nội.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/06/25/ap26175180509786-1782343457-9861-1782343475.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=RyX0XtUvcRaTb1WiaTRnjQ",
+      "link": "https://vnexpress.net/nam-phi-v-han-quoc-5089593.html",
+      "published_at": "Thu, 25 Jun 2026 07:00:00 +0700",
+      "createAt": "2026-06-25T00:00:00.000Z",
+      "thumbnail_blurhash": "LcKS#E}G$+R6~q-B=yr@yYOWX8Mx"
+    },
+    {
+      "id": "https://vnexpress.net/chon-ghe-tre-em-tinh-nang-nao-can-tinh-nang-nao-thua-5089371.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Chọn ghế trẻ em: Tính năng nào cần, tính năng nào thừa?",
+      "description": "Ngoài tính năng an toàn cốt lõi như ISOFIX, bảo vệ va chạm bên hông, nhiều trang bị ghế trẻ em chủ yếu tăng tiện nghi, chưa thực sự cần.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/24/dscf1939-jpeg-1782278709-9960-1782278873.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=eWfXKz10ut2hgq18VEB6kQ",
+      "link": "https://vnexpress.net/chon-ghe-tre-em-tinh-nang-nao-can-tinh-nang-nao-thua-5089371.html",
+      "published_at": "Thu, 25 Jun 2026 07:00:00 +0700",
+      "createAt": "2026-06-25T00:00:00.000Z",
+      "thumbnail_blurhash": "LWG98MV?E1WB~q%ME1t7%M%MjrkB"
+    },
+    {
+      "id": "https://vnexpress.net/di-nguoc-ky-vong-cua-bo-me-nu-sinh-thanh-thu-khoa-tieng-trung-5089452.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Đi ngược kỳ vọng của bố mẹ, nữ sinh thành thủ khoa tiếng Trung",
+      "description": "Dù bố mẹ đều du học Pháp và kỳ vọng con theo ngôn ngữ này, Tuệ Linh quyết định học Tiếng Trung, trở thành thủ khoa của trường THPT chuyên Ngoại ngữ (CNN).",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/24/2aoboqfnff1dyebcvo3hbyy45trvfg-3731-5530-1782312961.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=g59LIXBJGb-b9r9XWZTPaQ",
+      "link": "https://vnexpress.net/di-nguoc-ky-vong-cua-bo-me-nu-sinh-thanh-thu-khoa-tieng-trung-5089452.html",
+      "published_at": "Thu, 25 Jun 2026 07:14:05 +0700",
+      "createAt": "2026-06-25T00:14:05.000Z",
+      "thumbnail_blurhash": "LAEp{Qoh1U%i1*X.?bQkE,S$w[xU"
+    }
+  ]
 }

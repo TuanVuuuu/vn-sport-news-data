@@ -622,5 +622,44 @@
     "published_at": "Thu, 25 Jun 2026 06:00:00 +0700",
     "createAt": "2026-06-24T23:00:00.000Z",
     "thumbnail_blurhash": "LCE.z;~pE2of014noet7-;IU9F%2"
+  },
+  {
+    "id": "https://vnexpress.net/ong-trump-that-vong-voi-nato-vi-xung-dot-trung-dong-5089600.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Ông Trump thất vọng với NATO vì xung đột Trung Đông",
+    "description": "Tổng thống Trump bày tỏ \"thất vọng\" vì các đồng minh NATO không ủng hộ và giúp đỡ chiến dịch của Mỹ nhằm vào Iran.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/25/ap26175759710024-1782342696-6814-1782342938.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ux07-sFCmJdtnw_7Cd6DSQ",
+    "link": "https://vnexpress.net/ong-trump-that-vong-voi-nato-vi-xung-dot-trung-dong-5089600.html",
+    "published_at": "Thu, 25 Jun 2026 06:44:33 +0700",
+    "createAt": "2026-06-24T23:44:33.000Z",
+    "thumbnail_blurhash": "LXF=jPW=j^M}~nRkj^WExss,oLt6"
+  },
+  {
+    "id": "https://vnexpress.net/nhung-tuyen-bo-trai-nguoc-lam-kho-dam-phan-my-iran-5089207.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Những tuyên bố trái ngược làm khó đàm phán Mỹ - Iran",
+    "description": "Những tuyên bố trái chiều từ Washington và Tehran đang biến đàm phán Mỹ - Iran thành cuộc đối đầu công khai, nguy cơ làm chệch hướng tiến trình đối thoại.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/24/ap26172523282976-1782276764-3335-1782277378.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=tQWUr315vcRkiaIXPurQDw",
+    "link": "https://vnexpress.net/nhung-tuyen-bo-trai-nguoc-lam-kho-dam-phan-my-iran-5089207.html",
+    "published_at": "Thu, 25 Jun 2026 07:00:00 +0700",
+    "createAt": "2026-06-25T00:00:00.000Z",
+    "thumbnail_blurhash": "LACP;qvKMm~V0wozM_9s5XtmWS9F"
+  },
+  {
+    "id": "https://vnexpress.net/dong-dat-kep-hon-7-do-lam-rung-chuyen-venezuela-5089607.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Động đất kép hơn 7 độ làm rung chuyển Venezuela",
+    "description": "Hai trận động đất có cường độ lần lượt 7,2 và 7,5 độ làm rung chuyển khu vực miền bắc và trung Venezuela, khiến nhiều tòa nhà bị sập.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/25/afp-b88n6tz-v1-highres-venezue-3280-4621-1782346485.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=YYdEyS045rJahc2uI08tWw",
+    "link": "https://vnexpress.net/dong-dat-kep-hon-7-do-lam-rung-chuyen-venezuela-5089607.html",
+    "published_at": "Thu, 25 Jun 2026 07:24:11 +0700",
+    "createAt": "2026-06-25T00:24:11.000Z",
+    "thumbnail_blurhash": "LCC6$0~q9FIo-;ofR*IUNGM{M{af"
   }
 ]
