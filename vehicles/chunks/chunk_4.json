@@ -206,5 +206,31 @@
     "published_at": "Thu, 25 Jun 2026 07:00:00 +0700",
     "createAt": "2026-06-25T00:00:00.000Z",
     "thumbnail_blurhash": "LWG98MV?E1WB~q%ME1t7%M%MjrkB"
+  },
+  {
+    "id": "https://vnexpress.net/xe-dien-trung-quoc-bat-dau-hai-qua-ngot-5089567.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Xe điện Trung Quốc bắt đầu 'hái quả ngọt'",
+    "description": "Trong khi nhiều tập đoàn ôtô phương Tây vẫn chi hàng tỷ USD cho quá trình điện hóa, các hãng xe điện Trung Quốc bắt đầu thu được thành quả.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/24/xpeng-tour-1782312123-6263-1782312133.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Wch2dPeWP0_oflbz3LsFOg",
+    "link": "https://vnexpress.net/xe-dien-trung-quoc-bat-dau-hai-qua-ngot-5089567.html",
+    "published_at": "Thu, 25 Jun 2026 08:38:26 +0700",
+    "createAt": "2026-06-25T01:38:26.000Z",
+    "thumbnail_blurhash": "LCF$hOIlIK.902?bM_xv?1e[x,tP"
+  },
+  {
+    "id": "https://vnexpress.net/ferrari-thay-tuong-sau-man-ra-mat-xe-dien-gay-tranh-cai-5089445.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Ferrari thay tướng sau màn ra mắt xe điện gây tranh cãi",
+    "description": "Cựu CEO BMW Italy được bổ nhiệm thay thế Enrico Galliera sau khi mẫu siêu xe điện đầu tiên của Ferrari vấp phải làn sóng chê bai.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/25/FerrariLuce1-1782351635-8840-1782351754.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=__-gctswCN7wwchts2u2_w",
+    "link": "https://vnexpress.net/ferrari-thay-tuong-sau-man-ra-mat-xe-dien-gay-tranh-cai-5089445.html",
+    "published_at": "Thu, 25 Jun 2026 08:52:11 +0700",
+    "createAt": "2026-06-25T01:52:11.000Z",
+    "thumbnail_blurhash": "LABpRw}[:$xa0fI@EMs._}s,TyNG"
   }
 ]
