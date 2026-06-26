@@ -1,3 +1,43 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/mua-lu-khien-nhieu-noi-o-cao-bang-ngap-sau-5090336.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Mưa lũ khiến nhiều nơi ở Cao Bằng ngập sâu",
+      "description": "Mưa lớn cùng thủy điện xả lũ khiến nhiều khu dân cư cùng hơn 180 ha hoa màu ngập nặng, lực lượng chức năng phải di dời tài sản, sơ tán dân, ngày 26/6.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/26/20260626191544-1782476178-5598-1782476188.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=pHC_1kgfLrGrFzJQ5YP3vQ",
+      "link": "https://vnexpress.net/mua-lu-khien-nhieu-noi-o-cao-bang-ngap-sau-5090336.html",
+      "published_at": "Fri, 26 Jun 2026 19:16:28 +0700",
+      "createAt": "2026-06-26T12:16:28.000Z",
+      "thumbnail_blurhash": "LLD]|~xco@ob0KIWWSRi_MocoItP"
+    },
+    {
+      "id": "https://vnexpress.net/camera-ban-tai-viet-nam-sap-phai-dap-ung-quy-chuan-moi-5089430.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Camera bán tại Việt Nam sắp phải đáp ứng quy chuẩn mới",
+      "description": "Từ ngày 1/7, camera giám sát kết nối Internet sản xuất hoặc kinh doanh tại Việt Nam phải đáp ứng Quy chuẩn kỹ thuật quốc gia mới.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/26/DSC09381-1699507907-1782473299-6462-1782473415.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=RbUp1xCOZCn8BOqnXl4MSw",
+      "link": "https://vnexpress.net/camera-ban-tai-viet-nam-sap-phai-dap-ung-quy-chuan-moi-5089430.html",
+      "published_at": "Fri, 26 Jun 2026 19:21:56 +0700",
+      "createAt": "2026-06-26T12:21:56.000Z",
+      "thumbnail_blurhash": "L9EMd$.6wWSGDg0J?a_N^+.8McMw"
+    },
+    {
+      "id": "https://vnexpress.net/may-bay-co-nho-dam-vao-toa-nha-cao-nhat-bac-kinh-5090399.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Máy bay cỡ nhỏ đâm vào tòa nhà cao nhất Bắc Kinh",
+      "description": "Máy bay cỡ nhỏ đâm vào tòa CITIC Tower cao 109 tầng ở thủ đô Bắc Kinh, làm vỡ các tấm kính và khiến nhiều người sơ tán.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/26/ap26177437933561-1782479896-4505-1782479922.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=SJbwt1bY4IvE1b6Hk8auxw",
+      "link": "https://vnexpress.net/may-bay-co-nho-dam-vao-toa-nha-cao-nhat-bac-kinh-5090399.html",
+      "published_at": "Fri, 26 Jun 2026 20:23:16 +0700",
+      "createAt": "2026-06-26T13:23:16.000Z",
+      "thumbnail_blurhash": "LUACS+t:RPjXtmj?adbckDj[aef5"
+    }
+  ]
 }

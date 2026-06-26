@@ -427,5 +427,31 @@
     "published_at": "Fri, 26 Jun 2026 18:11:17 +0700",
     "createAt": "2026-06-26T11:11:17.000Z",
     "thumbnail_blurhash": "L9D+rQtn?^OQ_4x^ogX2OFsrt6x["
+  },
+  {
+    "id": "https://vnexpress.net/chinh-phu-kien-toan-co-cau-bo-khoa-hoc-va-cong-nghe-5090368.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Chính phủ kiện toàn cơ cấu Bộ Khoa học và Công nghệ",
+    "description": "Bộ Khoa học và Công nghệ tiếp tục có 25 đầu mối từ ngày 1/7, song số tổ chức hành chính giảm còn 21, đơn vị sự nghiệp công lập tăng lên 4.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/26/tru-so-bo-1782473994-9469-1782474267.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=6dTjbzs_pKNlJQ6jy447vg",
+    "link": "https://vnexpress.net/chinh-phu-kien-toan-co-cau-bo-khoa-hoc-va-cong-nghe-5090368.html",
+    "published_at": "Fri, 26 Jun 2026 19:28:00 +0700",
+    "createAt": "2026-06-26T12:28:00.000Z",
+    "thumbnail_blurhash": "L7F$FKI,00~W1CT0E84-5h~V^+I."
+  },
+  {
+    "id": "https://vnexpress.net/tho-san-ong-tu-vong-tren-co-thu-cao-40-m-5090355.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Thợ săn ong tử vong trên cổ thụ cao 40 m",
+    "description": "Đang trèo trên cây cổ thụ lấy mật ong trên rừng sâu ở xã Trà Bồng, ông An, 49 tuổi, bị đột quỵ, tử vong.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/26/giai-cuu-tho-ong-jpeg-17824796-5752-2817-1782479804.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=nQyvdLuN6m3z4STItInJgw",
+    "link": "https://vnexpress.net/tho-san-ong-tu-vong-tren-co-thu-cao-40-m-5090355.html",
+    "published_at": "Fri, 26 Jun 2026 20:17:54 +0700",
+    "createAt": "2026-06-26T13:17:54.000Z",
+    "thumbnail_blurhash": "LHAKK|XU.ARQk8x_o#yFx^%ikDo#"
   }
 ]
