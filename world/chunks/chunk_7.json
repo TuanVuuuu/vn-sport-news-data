@@ -1233,5 +1233,44 @@
     "published_at": "Fri, 26 Jun 2026 16:21:53 +0700",
     "createAt": "2026-06-26T09:21:53.000Z",
     "thumbnail_blurhash": "LmHVez%gj[of_NWBoeof-:oLfQj["
+  },
+  {
+    "id": "https://vnexpress.net/my-tim-cach-thuyet-phuc-dong-minh-vung-vinh-ve-thoa-thuan-voi-iran-5090204.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Mỹ tìm cách thuyết phục đồng minh vùng Vịnh về thỏa thuận với Iran",
+    "description": "Mỹ nỗ lực trấn an các đồng minh Arab tại vùng Vịnh trước lo ngại lợi ích an ninh khu vực có thể bị đặt ra ngoài tiến trình đàm phán với Iran.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/26/ap26176314471809-1782462092-2350-1782467733.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=K40D28LF_BY0upMl2Dy3tw",
+    "link": "https://vnexpress.net/my-tim-cach-thuyet-phuc-dong-minh-vung-vinh-ve-thoa-thuan-voi-iran-5090204.html",
+    "published_at": "Fri, 26 Jun 2026 19:00:00 +0700",
+    "createAt": "2026-06-26T12:00:00.000Z",
+    "thumbnail_blurhash": "LSJt-g0MD*.6_Nxt-Vs;sA%1tRX9"
+  },
+  {
+    "id": "https://vnexpress.net/nhat-ban-doi-mat-bao-kep-5090365.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Nhật Bản đối mặt bão kép",
+    "description": "Hai cơn bão nhiệt đới cùng lúc áp sát Nhật Bản và gây mưa lớn, khiến giới chức phải khuyến cáo hơn một triệu người sơ tán.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/26/2026t072304z-rc2j1mae0pu9-rtrm-6652-4059-1782474606.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=nAFHNMYNlYfBsUworHk2fg",
+    "link": "https://vnexpress.net/nhat-ban-doi-mat-bao-kep-5090365.html",
+    "published_at": "Fri, 26 Jun 2026 19:37:27 +0700",
+    "createAt": "2026-06-26T12:37:27.000Z",
+    "thumbnail_blurhash": "LCHxj7tSM}-;*0?H%M%MyFNGWBxu"
+  },
+  {
+    "id": "https://vnexpress.net/canh-nong-nuc-trong-benh-vien-thieu-dieu-hoa-o-phap-5090230.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Cảnh nóng nực trong bệnh viện thiếu điều hòa ở Pháp",
+    "description": "Tại bệnh viện Frederic-Henri Manhes ở miền nam nước Pháp, nhân viên y tế lẫn bệnh nhân phải vật lộn với cơn nóng do thiếu điều hòa.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/26/cats-1782463722-3985-1782463749.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=aWbtDLc6wvApMMoTd_v87w",
+    "link": "https://vnexpress.net/canh-nong-nuc-trong-benh-vien-thieu-dieu-hoa-o-phap-5090230.html",
+    "published_at": "Fri, 26 Jun 2026 20:00:00 +0700",
+    "createAt": "2026-06-26T13:00:00.000Z",
+    "thumbnail_blurhash": "LMHngB~qcZs;9uxuspWV57E2MdRP"
   }
 ]
