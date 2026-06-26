@@ -687,5 +687,31 @@
     "published_at": "Fri, 26 Jun 2026 14:00:00 +0700",
     "createAt": "2026-06-26T07:00:00.000Z",
     "thumbnail_blurhash": "LcP6%8^*Ip~p^%IUt6.8D%xuf+V?"
+  },
+  {
+    "id": "https://vnexpress.net/ngat-xiu-moi-biet-mac-sot-xuat-huyet-5090243.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Ngất xỉu mới biết mắc sốt xuất huyết",
+    "description": "Sau ba ngày sốt cao, Ngọc Ngân thấy giảm sốt nên tiếp tục đi dạy gia sư rồi choáng váng, ngất xỉu tại nhà học sinh và được đưa đi cấp cứu.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/26/sot-xuat-huyet-1782456911-6406-1782457841.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=T0YCJJc1V-Wz-Nt_jHf2QQ",
+    "link": "https://vnexpress.net/ngat-xiu-moi-biet-mac-sot-xuat-huyet-5090243.html",
+    "published_at": "Fri, 26 Jun 2026 14:30:00 +0700",
+    "createAt": "2026-06-26T07:30:00.000Z",
+    "thumbnail_blurhash": "LmNd8l%L%fxZxvozxuRk_4o#jaof"
+  },
+  {
+    "id": "https://vnexpress.net/an-qua-chanh-co-tang-duong-huyet-5090151.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Ăn quả chanh có tăng đường huyết?",
+    "description": "Chanh chứa ít đường và một lượng chất xơ hòa tan góp phần làm chậm hấp thu đường, hỗ trợ kiểm soát đường huyết sau ăn.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/26/437278459249683586070518771027-5023-6537-1782444972.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=LN3FSmeCaY4vn4MuG1SfXA",
+    "link": "https://vnexpress.net/an-qua-chanh-co-tang-duong-huyet-5090151.html",
+    "published_at": "Fri, 26 Jun 2026 14:30:00 +0700",
+    "createAt": "2026-06-26T07:30:00.000Z",
+    "thumbnail_blurhash": "LAEo;#_M?c$%-:4wxu^[MvxnIVIE"
   }
 ]
