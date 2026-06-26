@@ -635,5 +635,31 @@
     "published_at": "Fri, 26 Jun 2026 00:00:00 +0700",
     "createAt": "2026-06-25T17:00:00.000Z",
     "thumbnail_blurhash": "L6IzVD070n~C025:_1Vt01x-nOxZ"
+  },
+  {
+    "id": "https://vnexpress.net/ra-mat-cuon-sach-chuyen-sau-ve-ai-hien-dai-bang-tieng-viet-5089972.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Ra mắt cuốn sách chuyên sâu về AI hiện đại bằng tiếng Việt",
+    "description": "\"AI hiện đại: Từ nguyên lý cổ điển tới mô hình nền tảng\" là tên cuốn sách được viết bởi GS. TS Thái Trà My, và PGS. TS Nguyễn Phi Lê, cung cấp cái nhìn toàn diện về trí tuệ nhân tạo.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/26/ai-hien-dai-1782429843-9823-1782429860.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=BrjnVSbR9Mvi7GD9WzYCJg",
+    "link": "https://vnexpress.net/ra-mat-cuon-sach-chuyen-sau-ve-ai-hien-dai-bang-tieng-viet-5089972.html",
+    "published_at": "Thu, 25 Jun 2026 22:21:27 +0700",
+    "createAt": "2026-06-25T15:21:27.000Z",
+    "thumbnail_blurhash": "LOOfG3|4M3-Vll.MpctSIoWAkjXk"
+  },
+  {
+    "id": "https://vnexpress.net/thanh-pho-na-uy-rung-lac-khi-doi-tuyen-ghi-ban-tai-world-cup-5089779.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Thành phố Na Uy rung lắc khi đội tuyển ghi bàn tại World Cup",
+    "description": "Địa chấn kế tại thành phố Bergen ghi nhận những rung động trong lòng đất do màn ăn mừng của cổ động viên khi đội tuyển Na Uy ghi bàn.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/25/nauy11png178218156927321782181-3358-7290-1782362748.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=yO9W8VVbg9TRWpeaMwHbnA",
+    "link": "https://vnexpress.net/thanh-pho-na-uy-rung-lac-khi-doi-tuyen-ghi-ban-tai-world-cup-5089779.html",
+    "published_at": "Fri, 26 Jun 2026 05:00:00 +0700",
+    "createAt": "2026-06-25T22:00:00.000Z",
+    "thumbnail_blurhash": "L3A-36_wU|w|z8qZT9t300U2X=R="
   }
 ]
