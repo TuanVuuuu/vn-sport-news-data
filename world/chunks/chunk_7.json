@@ -1272,5 +1272,31 @@
     "published_at": "Fri, 26 Jun 2026 20:00:00 +0700",
     "createAt": "2026-06-26T13:00:00.000Z",
     "thumbnail_blurhash": "LMHngB~qcZs;9uxuspWV57E2MdRP"
+  },
+  {
+    "id": "https://vnexpress.net/nga-ban-bo-tinh-trang-khan-cap-tai-crimea-5090393.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Nga ban bố tình trạng khẩn cấp tại Crimea",
+    "description": "Giới chức Crimea ban bố \"tình trạng khẩn cấp\" nhằm giảm thiểu hệ lụy do những đợt tập kích ngày càng dồn dập của Ukraine nhằm vào bán đảo.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/26/2026t200457z-rc27ylawzq6h-rtrm-7200-7840-1782478436.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=gQR0h3Qs3eCfmZfRpcP2kA",
+    "link": "https://vnexpress.net/nga-ban-bo-tinh-trang-khan-cap-tai-crimea-5090393.html",
+    "published_at": "Fri, 26 Jun 2026 20:17:35 +0700",
+    "createAt": "2026-06-26T13:17:35.000Z",
+    "thumbnail_blurhash": "L78#7z~T%fxu%d_2WCD*.8Rjt7%M"
+  },
+  {
+    "id": "https://vnexpress.net/may-bay-co-nho-dam-vao-toa-nha-cao-nhat-bac-kinh-5090399.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Máy bay cỡ nhỏ đâm vào tòa nhà cao nhất Bắc Kinh",
+    "description": "Máy bay cỡ nhỏ đâm vào tòa CITIC Tower cao 109 tầng ở thủ đô Bắc Kinh, làm vỡ các tấm kính và khiến nhiều người sơ tán.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/26/ap26177437933561-1782479896-4505-1782479922.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=SJbwt1bY4IvE1b6Hk8auxw",
+    "link": "https://vnexpress.net/may-bay-co-nho-dam-vao-toa-nha-cao-nhat-bac-kinh-5090399.html",
+    "published_at": "Fri, 26 Jun 2026 20:23:16 +0700",
+    "createAt": "2026-06-26T13:23:16.000Z",
+    "thumbnail_blurhash": "LUACS+t:RPjXtmj?adf,kDj[aef5"
   }
 ]
