@@ -713,5 +713,31 @@
     "published_at": "Fri, 26 Jun 2026 09:47:12 +0700",
     "createAt": "2026-06-26T02:47:12.000Z",
     "thumbnail_blurhash": "LZA^SRS7N6XAp3awR=j]ELsioanh"
+  },
+  {
+    "id": "https://vnexpress.net/nha-trang-de-nghi-openai-cham-phat-hanh-mo-hinh-moi-5090073.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Nhà Trắng 'đề nghị OpenAI chậm phát hành mô hình mới'",
+    "description": "Chính phủ Mỹ được cho là đang kiểm soát các mô hình AI mới của OpenAI trước khi ra mắt nhằm đảm bảo an toàn.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/26/2026t153107z-r-1782440952-6155-1782441099.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=v94INLN4h3NN6Ugj1V_e2Q",
+    "link": "https://vnexpress.net/nha-trang-de-nghi-openai-cham-phat-hanh-mo-hinh-moi-5090073.html",
+    "published_at": "Fri, 26 Jun 2026 10:53:53 +0700",
+    "createAt": "2026-06-26T03:53:53.000Z",
+    "thumbnail_blurhash": "LeKd*w.9~q-q?bsmIVxa?b%Mozxb"
+  },
+  {
+    "id": "https://vnexpress.net/can-cach-tiep-can-thuc-dung-de-phat-trien-cong-nghe-chien-luoc-5090092.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "'Cần cách tiếp cận thực dụng để phát triển công nghệ chiến lược'",
+    "description": "Đại diện các doanh nghiệp công nghệ cho rằng, các chính sách đang tạo cơ hội cho Việt Nam chuyển dịch sang mô hình tăng trưởng bằng công nghệ, tuy nhiên cần quan tâm đến thị trường, nhu cầu khách hàng khi triển khai thực tế.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/26/af036dd1-b1ddfe5-a36ae16af76dc-3512-6039-1782443292.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=oxOH8CHn36_XTwwD2PBj0g",
+    "link": "https://vnexpress.net/can-cach-tiep-can-thuc-dung-de-phat-trien-cong-nghe-chien-luoc-5090092.html",
+    "published_at": "Fri, 26 Jun 2026 11:00:00 +0700",
+    "createAt": "2026-06-26T04:00:00.000Z",
+    "thumbnail_blurhash": "LXI#rztm-;Iq%i$ykBI[_4V@M{j^"
   }
 ]
