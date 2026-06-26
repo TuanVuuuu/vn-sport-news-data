@@ -492,5 +492,31 @@
     "published_at": "Fri, 26 Jun 2026 22:16:58 +0700",
     "createAt": "2026-06-26T15:16:58.000Z",
     "thumbnail_blurhash": "L,I=7EoyNaax_Nj[aefk.8j[o2of"
+  },
+  {
+    "id": "https://vnexpress.net/moto-chay-bang-hoi-nuoc-tang-toc-nhanh-nhat-the-gioi-5090211.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Môtô chạy bằng hơi nước tăng tốc nhanh nhất thế giới",
+    "description": "Chiếc xe có tên Force of Nature tăng tốc 0-100 km/h chỉ trong 0,4 giây nhờ động cơ hơi nước.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/26/ezgif8649c75377776776-17824582-4682-8297-1782460505.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=BmDKh1l4Ixd8ahtVNibDfg&t=image",
+    "link": "https://vnexpress.net/moto-chay-bang-hoi-nuoc-tang-toc-nhanh-nhat-the-gioi-5090211.html",
+    "published_at": "Sat, 27 Jun 2026 05:00:00 +0700",
+    "createAt": "2026-06-26T22:00:00.000Z",
+    "thumbnail_blurhash": "LHF~m%~V$d-p59E1IoaKL}#kVrxa"
+  },
+  {
+    "id": "https://vnexpress.net/jetour-zongheng-f700-ban-tai-dia-hinh-phev-5090179.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Jetour Zongheng F700 - bản tải địa hình PHEV",
+    "description": "Mẫu bán tải cabin kép khung gầm rời định vị cùng phân khúc Ford Ranger, Toyota Hilux, BYD Shark 6, bán ra vào cuối năm 2026.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/26/JetourZonghengF7001-1782461666-9083-1782461799.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=2v6vOm8HHNPyHUvNLQBx2A",
+    "link": "https://vnexpress.net/jetour-zongheng-f700-ban-tai-dia-hinh-phev-5090179.html",
+    "published_at": "Sat, 27 Jun 2026 06:00:00 +0700",
+    "createAt": "2026-06-26T23:00:00.000Z",
+    "thumbnail_blurhash": "L9A]?19v~9r;4;xtE1Rj9ZxZNKt7"
   }
 ]
