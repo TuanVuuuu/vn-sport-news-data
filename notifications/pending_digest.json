@@ -1,3 +1,147 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/so-nguoi-chet-do-dong-dat-kep-o-venezuela-tang-len-188-5089953.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Số người chết do động đất kép ở Venezuela tăng lên 188",
+      "description": "Giới chức Venezuela cho biết ít nhất 188 người đã chết và gần 1.500 người bị thương trong động đất kép, con số có thể vẫn tiếp tục tăng lên.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/25/Caracas-1782394426-8298-1782394436.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=I2FMIo7-4icObWQbQTJGGg",
+      "link": "https://vnexpress.net/so-nguoi-chet-do-dong-dat-kep-o-venezuela-tang-len-188-5089953.html",
+      "published_at": "Thu, 25 Jun 2026 20:50:24 +0700",
+      "createAt": "2026-06-25T13:50:24.000Z",
+      "thumbnail_blurhash": "LcD0Q0%1M_WC?wjYM{f6pKM{jYjr"
+    },
+    {
+      "id": "https://vnexpress.net/nhat-ban-vs-thuy-dien-5090017-tong-thuat.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Nhật Bản gặp Brazil ở vòng 1/16 World Cup",
+      "description": "Nhật Bản hòa Thụy Điển 1-1 ở lượt cuối bảng F World Cup 2026 tại Texas, để lần thứ ba liên tiếp vào vòng knock-out, gặp Brazil.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/06/26/maeda-1782435777-3687-1782435790.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=FrfkkFiOKDLc-1M5Tf739w",
+      "link": "https://vnexpress.net/nhat-ban-vs-thuy-dien-5090017-tong-thuat.html",
+      "published_at": "Fri, 26 Jun 2026 05:00:00 +0700",
+      "createAt": "2026-06-25T22:00:00.000Z",
+      "thumbnail_blurhash": "L6CiUT^3J0S.0Jt,4:M]0JE1XrND"
+    },
+    {
+      "id": "https://vnexpress.net/dem-khong-ngu-vi-world-cup-cua-nguoi-nuoc-ngoai-o-viet-nam-5089091.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Đêm không ngủ vì World Cup của người nước ngoài ở Việt Nam",
+      "description": "Bước vào quán cà phê ở phường Tây Hồ, Hà Nội lúc 4h sáng, Will Courageux thấy không gian 50 m2 đã kín chỗ, có khoảng 20 người nước ngoài khác đang chờ tiếng còi khai cuộc.",
+      "thumbnail_url": "https://vcdn1-giadinh.vnecdn.net/2026/06/23/ryan-1782214278-6555-1782214897.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=YeJ2fqRtqku2NRXZFXnOGg",
+      "link": "https://vnexpress.net/dem-khong-ngu-vi-world-cup-cua-nguoi-nuoc-ngoai-o-viet-nam-5089091.html",
+      "published_at": "Fri, 26 Jun 2026 06:00:00 +0700",
+      "createAt": "2026-06-25T23:00:00.000Z",
+      "thumbnail_blurhash": "LEAmSS?Gq]-A~p%2ZOsBY4S3MLNG"
+    },
+    {
+      "id": "https://vnexpress.net/co-gai-viet-tot-nghiep-harvard-voi-diem-tuyet-doi-5089916.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Cô gái Việt tốt nghiệp Harvard với điểm tuyệt đối",
+      "description": "Thu Phương đạt điểm trung bình 4.0/4.0 sau hai năm học tại trường Y, Đại học Harvard, chương trình thạc sĩ Phân phối Y tế toàn cầu.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/26/thuphng-1782428456-4889-1782428924.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=HA65PE2sEMH1SydGcWd1CQ",
+      "link": "https://vnexpress.net/co-gai-viet-tot-nghiep-harvard-voi-diem-tuyet-doi-5089916.html",
+      "published_at": "Fri, 26 Jun 2026 06:22:35 +0700",
+      "createAt": "2026-06-25T23:22:35.000Z",
+      "thumbnail_blurhash": "LGI~DK9FyE~XTJxGt7EL%gozaJRP"
+    },
+    {
+      "id": "https://vnexpress.net/tau-hang-bi-tan-cong-o-eo-bien-hormuz-5090021.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Tàu hàng bị tấn công ở eo biển Hormuz",
+      "description": "Một tàu hàng bị tập kích tại Hormuz, không lâu sau khi Iran cảnh báo sẽ xử lý \"phương tiện vượt qua eo biển trái phép\".",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/26/everlovely-1782431438-6620-1782431449.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=bSXdFsSPHRXRnuOr1N8Nlw",
+      "link": "https://vnexpress.net/tau-hang-bi-tan-cong-o-eo-bien-hormuz-5090021.html",
+      "published_at": "Fri, 26 Jun 2026 06:40:39 +0700",
+      "createAt": "2026-06-25T23:40:39.000Z",
+      "thumbnail_blurhash": "LwF7SkbItSt8.AkCazaypfofRjWV"
+    },
+    {
+      "id": "https://vnexpress.net/ecuador-quat-nga-duc-lach-khe-cua-hep-vao-vong-knock-out-5090028.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Ecuador quật ngã Đức, lách khe cửa hẹp vào vòng knock-out",
+      "description": "Vượt qua đội nhất bảng E là Đức, Ecuador giành một trong những tấm vé vớt cho đội xếp thứ ba tốt nhất để vào vòng 1/16 World Cup 2026.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/06/26/541749a6a6ff47919c8d5122960817-4528-8069-1782430872.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=3oQlDBD9GokqYEKad5eQyg",
+      "link": "https://vnexpress.net/ecuador-quat-nga-duc-lach-khe-cua-hep-vao-vong-knock-out-5090028.html",
+      "published_at": "Fri, 26 Jun 2026 06:56:53 +0700",
+      "createAt": "2026-06-25T23:56:53.000Z",
+      "thumbnail_blurhash": "LFDl[yx]Oqx[{p-qaPr_^?%Joga_"
+    },
+    {
+      "id": "https://vnexpress.net/bo-bien-nga-lan-dau-vuot-qua-vong-bang-world-cup-5090032.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Bờ Biển Ngà lần đầu vượt qua vòng bảng World Cup",
+      "description": "Cú đúp của Nicholas Pepe giúp Bờ Biển Ngà lần đầu đi tiếp ở World Cup, đồng thời khép lại hành trình của tân binh Curacao.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/06/26/ap26176733775222-1782431752-8741-1782431757.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=4c2gN5XUE3x4wJ11PAUJcA",
+      "link": "https://vnexpress.net/bo-bien-nga-lan-dau-vuot-qua-vong-bang-world-cup-5090032.html",
+      "published_at": "Fri, 26 Jun 2026 06:58:35 +0700",
+      "createAt": "2026-06-25T23:58:35.000Z",
+      "thumbnail_blurhash": "LBEVM#w]34Ke7^Rk}DoLF]NH,a$i"
+    },
+    {
+      "id": "https://vnexpress.net/mien-bac-mua-gan-200-mm-ha-noi-co-giong-gio-cao-diem-5090035.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Miền Bắc mưa gần 200 mm, Hà Nội có giông giờ cao điểm",
+      "description": "Mưa gần 200 mm xuất hiện tại nhiều tỉnh miền Bắc, trong khi vùng giông từ Thái Nguyên dự báo tràn xuống Hà Nội đúng giờ cao điểm sáng 26/6.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/26/z4562685989505-d10c79d9187333b-2421-6765-1782432912.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Wit4utGZxLzYW0prnVNHHw",
+      "link": "https://vnexpress.net/mien-bac-mua-gan-200-mm-ha-noi-co-giong-gio-cao-diem-5090035.html",
+      "published_at": "Fri, 26 Jun 2026 07:29:10 +0700",
+      "createAt": "2026-06-26T00:29:10.000Z",
+      "thumbnail_blurhash": "LFBg6$_N%gxu4nRioeWB9YInMxRj"
+    },
+    {
+      "id": "https://vnexpress.net/macbook-ipad-dong-loat-tang-gia-manh-tai-viet-nam-5090004.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "MacBook, iPad đồng loạt tăng giá mạnh tại Việt Nam",
+      "description": "Tối 25/6, loạt iPad, máy tính MacBook, Mac Mini, Mac Studio đều tăng giá trên dưới 20%, có model cao hơn hàng chục triệu đồng, do ảnh hưởng giá chip nhớ.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/25/dscf8280-1782406292-6984-1782406602.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=6I0SOU0AmujVzsyLa6th4A",
+      "link": "https://vnexpress.net/macbook-ipad-dong-loat-tang-gia-manh-tai-viet-nam-5090004.html",
+      "published_at": "Fri, 26 Jun 2026 07:38:49 +0700",
+      "createAt": "2026-06-26T00:38:49.000Z",
+      "thumbnail_blurhash": "L8Gk^1E100~pOGt7WAi^01%M%L9G"
+    },
+    {
+      "id": "https://vnexpress.net/truc-tiep-paraguay-vs-australia-5090046.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Paraguay - Australia: Quyết chiến cho vé đi tiếp",
+      "description": "Paraguay và Australia đối đầu ở lượt cuối bảng D World Cup 2026 trong trận đấu phân định vị trí thứ nhì và thứ ba tại bảng đấu. Bóng lăn lúc 9h.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/06/26/vsvb226msbk2dj5rqake6obci4-178-7139-3065-1782435604.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=W0KvsMINGIconwP-Yqnyyg",
+      "link": "https://vnexpress.net/truc-tiep-paraguay-vs-australia-5090046.html",
+      "published_at": "Fri, 26 Jun 2026 08:00:48 +0700",
+      "createAt": "2026-06-26T01:00:48.000Z",
+      "thumbnail_blurhash": "LCCsTlsQ.NIY?;bbIpoe7FX9MzxV"
+    },
+    {
+      "id": "https://vnexpress.net/an-ninh-siet-chat-tai-phien-xu-ke-sat-hai-3-nguoi-nha-vo-ho-5089988.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "An ninh siết chặt tại phiên xử kẻ sát hại 3 người nhà vợ 'hờ'",
+      "description": "Hàng chục cảnh sát làm nhiệm vụ kiểm soát an ninh trật tự khi tòa xét xử lưu động Nguyễn Cao Bằng, 45 tuổi, về hành vi sát hại bạn gái cùng hai người thân.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/26/z7976788377962-bde831c2824352c-5996-8421-1782437137.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=TVlhdWXrm-CGF7GPxKysmQ",
+      "link": "https://vnexpress.net/an-ninh-siet-chat-tai-phien-xu-ke-sat-hai-3-nguoi-nha-vo-ho-5089988.html",
+      "published_at": "Fri, 26 Jun 2026 08:28:33 +0700",
+      "createAt": "2026-06-26T01:28:33.000Z",
+      "thumbnail_blurhash": "LNE{hIxto$bXF7RjWajXt:R-NLV?"
+    }
+  ]
 }
