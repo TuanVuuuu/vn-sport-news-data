@@ -960,5 +960,31 @@
     "published_at": "Fri, 26 Jun 2026 20:23:16 +0700",
     "createAt": "2026-06-26T13:23:16.000Z",
     "thumbnail_blurhash": "LUACS+t:RPjXtmj?adbckDj[aef5"
+  },
+  {
+    "id": "https://vnexpress.net/chinh-phu-kien-toan-co-cau-bo-khoa-hoc-va-cong-nghe-5090368.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Chính phủ kiện toàn cơ cấu Bộ Khoa học và Công nghệ",
+    "description": "Bộ Khoa học và Công nghệ tiếp tục có 25 đầu mối từ ngày 1/7, song số tổ chức hành chính giảm còn 21, đơn vị sự nghiệp công lập tăng lên 4.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/26/tru-so-bo-1782473994-9469-1782474267.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=6dTjbzs_pKNlJQ6jy447vg",
+    "link": "https://vnexpress.net/chinh-phu-kien-toan-co-cau-bo-khoa-hoc-va-cong-nghe-5090368.html",
+    "published_at": "Fri, 26 Jun 2026 19:28:00 +0700",
+    "createAt": "2026-06-26T12:28:00.000Z",
+    "thumbnail_blurhash": "L7F$FKI,00~W1CT0E84-5h~V^+I."
+  },
+  {
+    "id": "https://vnexpress.net/nga-ban-bo-tinh-trang-khan-cap-tai-crimea-5090393.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Nga ban bố tình trạng khẩn cấp tại Crimea",
+    "description": "Giới chức Crimea ban bố \"tình trạng khẩn cấp\" nhằm giảm thiểu hệ lụy do những đợt tập kích ngày càng dồn dập của Ukraine nhằm vào bán đảo.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/26/2026t200457z-rc27ylawzq6h-rtrm-7200-7840-1782478436.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=gQR0h3Qs3eCfmZfRpcP2kA",
+    "link": "https://vnexpress.net/nga-ban-bo-tinh-trang-khan-cap-tai-crimea-5090393.html",
+    "published_at": "Fri, 26 Jun 2026 20:17:35 +0700",
+    "createAt": "2026-06-26T13:17:35.000Z",
+    "thumbnail_blurhash": "L78}9^~T%fxux@_2WCD*?bRjt7%M"
   }
 ]
