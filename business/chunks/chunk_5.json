@@ -622,5 +622,31 @@
     "published_at": "Fri, 26 Jun 2026 06:59:53 +0700",
     "createAt": "2026-06-25T23:59:53.000Z",
     "thumbnail_blurhash": "L59tfc179D${03~BZ~4p00Mcx^.9"
+  },
+  {
+    "id": "https://vnexpress.net/dragon-capital-tam-ly-cho-thoi-khien-nhieu-nha-dau-tu-lo-nhip-5089993.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Dragon Capital: Tâm lý 'chờ thời' khiến nhiều nhà đầu tư lỡ nhịp",
+    "description": "Nỗi sợ thua lỗ, đánh giá ngắn hạn khiến nhiều người trì hoãn đầu tư để chờ \"bắt đáy\", có thể gây tác động đến hiệu suất dài hạn, theo chuyên gia Dragon Capital.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/06/25/aohsn-1782400317-8048-1782400343.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=yL00mUpkM_xhy3MXnAiuBw",
+    "link": "https://vnexpress.net/dragon-capital-tam-ly-cho-thoi-khien-nhieu-nha-dau-tu-lo-nhip-5089993.html",
+    "published_at": "Wed, 24 Jun 2026 10:00:00 +0700",
+    "createAt": "2026-06-24T03:00:00.000Z",
+    "thumbnail_blurhash": "LPI=if00Mw.A?wivWXRkoetQRjae"
+  },
+  {
+    "id": "https://vnexpress.net/o-at-do-von-dau-tu-cong-nghiep-tuong-lai-o-trung-quoc-5089790.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Ồ ạt đổ vốn đầu tư 'công nghiệp tương lai' ở Trung Quốc",
+    "description": "Sau giai đoạn trầm lắng, giới đầu tư mạo hiểm tranh nhau rót vốn vào các startup \"công nghiệp tương lai\" ở Trung Quốc như vũ trụ, lượng tử, AI.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/06/25/afp-xxjpbee000504-pepfn0a001-v-4741-1189-1782368456.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=KyFuqECYgrkHQq_1UwQMmw",
+    "link": "https://vnexpress.net/o-at-do-von-dau-tu-cong-nghiep-tuong-lai-o-trung-quoc-5089790.html",
+    "published_at": "Fri, 26 Jun 2026 07:04:49 +0700",
+    "createAt": "2026-06-26T00:04:49.000Z",
+    "thumbnail_blurhash": "LNDwE$WsS%o$Thj[ofa#IUs:RPs+"
   }
 ]
