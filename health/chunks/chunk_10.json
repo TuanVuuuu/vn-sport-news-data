@@ -804,5 +804,44 @@
     "published_at": "Fri, 26 Jun 2026 16:00:00 +0700",
     "createAt": "2026-06-26T09:00:00.000Z",
     "thumbnail_blurhash": "LMG[$f_4^+?b-;-pDiD%?vt8IARj"
+  },
+  {
+    "id": "https://vnexpress.net/phong-benh-hoa-lo-lua-giua-dot-nang-nong-ky-luc-o-phap-5090319.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Phòng bệnh hóa 'lò lửa' giữa đợt nắng nóng kỷ lục ở Pháp",
+    "description": "Nắng nóng lịch sử khiến hệ thống y tế Pháp tê liệt khi bệnh viện không có điều hòa, buộc nhân viên lẫn bệnh nhân phải sơ tán xuống phòng chờ để lánh nạn.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/26/benh-nhan2-1782465943-2273-1782465996.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=WnO_OV723YRLKYTPrVo-fQ",
+    "link": "https://vnexpress.net/phong-benh-hoa-lo-lua-giua-dot-nang-nong-ky-luc-o-phap-5090319.html",
+    "published_at": "Fri, 26 Jun 2026 16:27:16 +0700",
+    "createAt": "2026-06-26T09:27:16.000Z",
+    "thumbnail_blurhash": "LeH_Y@yEoInN_N%NR+s8x]a#V@j?"
+  },
+  {
+    "id": "https://vnexpress.net/bi-thoai-hoa-khop-nen-tiem-chat-nhon-hay-huyet-tuong-5090283.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Bị thoái hóa khớp nên tiêm chất nhờn hay huyết tương?",
+    "description": "Tôi bị thoái hóa khớp độ 2 thì nên tiêm chất nhờn (HA) hay huyết tương giàu tiểu cầu (PRP). Hai phương pháp này khác có gì nhau, chữa khỏi bệnh được không? (Tùng Nam, Hà Nội)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/26/pgshoathamkha-1782460795-5048-1782460808.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=olDhgVDBRFOXKKtk0eM7jQ",
+    "link": "https://vnexpress.net/bi-thoai-hoa-khop-nen-tiem-chat-nhon-hay-huyet-tuong-5090283.html",
+    "published_at": "Fri, 26 Jun 2026 17:00:00 +0700",
+    "createAt": "2026-06-26T10:00:00.000Z",
+    "thumbnail_blurhash": "LJMtUBDgt-?v~qxrV[x]Ri9Fxtxa"
+  },
+  {
+    "id": "https://vnexpress.net/be-trai-bi-di-tat-bam-sinh-duong-sinh-duc-5090043.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Bé trai bị dị tật bẩm sinh đường sinh dục",
+    "description": "Mẫn, 11 tuổi, bị vùi dương vật bẩm sinh, trì hoãn điều trị hơn 10 năm, nay được phẫu thuật chỉnh hình khôi phục chức năng cơ quan sinh dục.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/26/image001-1782434628-5514-1782434787.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=AZRQ9vvYROxEcejp9tBTtQ",
+    "link": "https://vnexpress.net/be-trai-bi-di-tat-bam-sinh-duong-sinh-duc-5090043.html",
+    "published_at": "Fri, 26 Jun 2026 17:00:00 +0700",
+    "createAt": "2026-06-26T10:00:00.000Z",
+    "thumbnail_blurhash": "LVGT%LRqE9XB~RtktRoe-fVtxokC"
   }
 ]
