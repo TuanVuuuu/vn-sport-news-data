@@ -765,5 +765,44 @@
     "published_at": "Fri, 26 Jun 2026 06:00:00 +0700",
     "createAt": "2026-06-25T23:00:00.000Z",
     "thumbnail_blurhash": "LgNAe$t7%h%M}[s:E0V@m,aeozo0"
+  },
+  {
+    "id": "https://vnexpress.net/vi-sao-viet-nam-chua-cam-duoc-tui-nilon-nhua-mot-lan-5090380.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Vì sao Việt Nam chưa cấm được túi nilon, nhựa một lần?",
+    "description": "Đại diện Cục Môi trường thừa nhận chính sách hạn chế túi nilon, nhựa một lần chưa đi vào cuộc sống, và đề xuất áp thuế, phí lên các sản phẩm loại này thay vì cấm hẳn.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/06/26/l1210128-jpg-1782482096-3397-1782483250.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=5WU5cF1gRbPNS2bA8TDWDw",
+    "link": "https://vnexpress.net/vi-sao-viet-nam-chua-cam-duoc-tui-nilon-nhua-mot-lan-5090380.html",
+    "published_at": "Sat, 27 Jun 2026 00:00:00 +0700",
+    "createAt": "2026-06-26T17:00:00.000Z",
+    "thumbnail_blurhash": "L9EL.~=_010NtnEM?H?F.TMy-=-:"
+  },
+  {
+    "id": "https://vnexpress.net/nang-nong-de-doa-kinh-te-chau-au-5090262.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Nắng nóng đe dọa kinh tế châu Âu",
+    "description": "Nắng nóng gay gắt làm giảm năng suất lao động, tạo thêm áp lực cho các nền kinh tế châu Âu, vốn đang gặp nhiều thách thức.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/06/26/screenshot-1782461757-1207-1782461890.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=PBxodAVpQ5J2ecBABmMt2w",
+    "link": "https://vnexpress.net/nang-nong-de-doa-kinh-te-chau-au-5090262.html",
+    "published_at": "Sat, 27 Jun 2026 00:05:00 +0700",
+    "createAt": "2026-06-26T17:05:00.000Z",
+    "thumbnail_blurhash": "LGF$9L~pIpt701IUxuWXbbD*IU%L"
+  },
+  {
+    "id": "https://vnexpress.net/dien-mat-troi-mai-nha-du-thua-co-the-ban-tren-50-len-luoi-5090423.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Điện mặt trời mái nhà dư thừa có thể bán trên 50% lên lưới",
+    "description": "Người dân được bán trên 50% lượng điện mặt trời mái nhà tự sản, tự tiêu dư thừa lên hệ thống quốc gia đến năm 2030, nếu lưới điện tại khu vực còn khả năng tiếp nhận.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/06/27/img-jpg-1782495193-6784-1782495325.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=J1CzQ_l6T4PFbDKIK-u24g",
+    "link": "https://vnexpress.net/dien-mat-troi-mai-nha-du-thua-co-the-ban-tren-50-len-luoi-5090423.html",
+    "published_at": "Sat, 27 Jun 2026 00:38:35 +0700",
+    "createAt": "2026-06-26T17:38:35.000Z",
+    "thumbnail_blurhash": "LTD,ft%Nxut7?^tRt6fkNya$oeaz"
   }
 ]
