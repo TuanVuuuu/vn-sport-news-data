@@ -648,5 +648,31 @@
     "published_at": "Fri, 26 Jun 2026 07:04:49 +0700",
     "createAt": "2026-06-26T00:04:49.000Z",
     "thumbnail_blurhash": "LNDwE$WsS%o$Thj[ofa#IUs:RPs+"
+  },
+  {
+    "id": "https://vnexpress.net/hang-khong-viet-vao-cuoc-dua-mo-rong-doi-bay-5089978.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Hàng không Việt vào cuộc đua mở rộng đội bay",
+    "description": "Vietnam Airlines, Vietjet và Sun PhuQuoc Airways đồng loạt bổ sung máy bay khi nhu cầu vận chuyển phục hồi, khách quốc tế tăng mạnh.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/06/25/may-bay-1782397871-9583-1782398151.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ephUfb_XsHmL6BMg0rkzUg",
+    "link": "https://vnexpress.net/hang-khong-viet-vao-cuoc-dua-mo-rong-doi-bay-5089978.html",
+    "published_at": "Fri, 26 Jun 2026 08:49:28 +0700",
+    "createAt": "2026-06-26T01:49:28.000Z",
+    "thumbnail_blurhash": "LOCQPfS5V@jt%QIoRjWC--RjR-bG"
+  },
+  {
+    "id": "https://vnexpress.net/17-bang-nuoc-my-kien-chinh-sach-siet-nhua-mot-lan-cua-california-5090063.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "17 bang nước Mỹ kiện chính sách siết nhựa một lần của California",
+    "description": "17 bang kiện chính quyền California, cho rằng chính sách siết nhựa một lần của họ cản trở hàng nghìn doanh nghiệp bang khác tiếp cận thị trường lớn nhất nước Mỹ.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/06/26/rsperjjoczlybkjmpi4ucwqqya-178-5651-7228-1782437445.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=vME7VRBwV7GayNmhWDx4ug",
+    "link": "https://vnexpress.net/17-bang-nuoc-my-kien-chinh-sach-siet-nhua-mot-lan-cua-california-5090063.html",
+    "published_at": "Fri, 26 Jun 2026 10:01:07 +0700",
+    "createAt": "2026-06-26T03:01:07.000Z",
+    "thumbnail_blurhash": "LVHw_aX-Ip=x~Vo#oyWAFerss.XR"
   }
 ]
