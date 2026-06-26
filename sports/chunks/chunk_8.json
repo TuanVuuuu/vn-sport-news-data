@@ -24,5 +24,44 @@
     "published_at": "Fri, 26 Jun 2026 05:24:08 +0700",
     "createAt": "2026-06-25T22:24:08.000Z",
     "thumbnail_blurhash": "LWCQJhxwSwjFxNWBRkRknPM^aLR*"
+  },
+  {
+    "id": "https://vnexpress.net/tin-world-cup-ecuador-nguoc-dong-thang-duc-2-1-bo-bien-nga-danh-bai-cura-ao-lan-dau-vao-vong-1-16-5090022.html",
+    "category_id": "sports",
+    "category_name": "Thể thao",
+    "source": "VnExpress",
+    "title": "Tin World Cup: Ecuador ngược dòng thắng Đức 2-1 | Bờ Biển Ngà đánh bại Curaçao, lần đầu vào vòng 1/16",
+    "description": "FIFA muốn sửa quy định luân lưu trước vòng knock-out World Cup; Thành phố Na Uy rung lắc do màn ăn mừng của cổ động viên...",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/26/e8fe9f23fcc346878d7fa5bc4eb5dd-3980-9269-1782430204.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=mONOjXcsLJsY0Ij3v-8yhg",
+    "link": "https://vnexpress.net/tin-world-cup-ecuador-nguoc-dong-thang-duc-2-1-bo-bien-nga-danh-bai-cura-ao-lan-dau-vao-vong-1-16-5090022.html",
+    "published_at": "Fri, 26 Jun 2026 06:43:37 +0700",
+    "createAt": "2026-06-25T23:43:37.000Z",
+    "thumbnail_blurhash": "LTF$d*s.XRof}bn$aja#$Rs+spof"
+  },
+  {
+    "id": "https://vnexpress.net/ecuador-quat-nga-duc-lach-khe-cua-hep-vao-vong-knock-out-5090028.html",
+    "category_id": "sports",
+    "category_name": "Thể thao",
+    "source": "VnExpress",
+    "title": "Ecuador quật ngã Đức, lách khe cửa hẹp vào vòng knock-out",
+    "description": "Vượt qua đội nhất bảng E là Đức, Ecuador giành một trong những tấm vé vớt cho đội xếp thứ ba tốt nhất để vào vòng 1/16 World Cup 2026.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/06/26/541749a6a6ff47919c8d5122960817-4528-8069-1782430872.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=3oQlDBD9GokqYEKad5eQyg",
+    "link": "https://vnexpress.net/ecuador-quat-nga-duc-lach-khe-cua-hep-vao-vong-knock-out-5090028.html",
+    "published_at": "Fri, 26 Jun 2026 06:56:53 +0700",
+    "createAt": "2026-06-25T23:56:53.000Z",
+    "thumbnail_blurhash": "LFDl[yx]Oqx[{p-qaPr_^?%Joga_"
+  },
+  {
+    "id": "https://vnexpress.net/bo-bien-nga-lan-dau-vuot-qua-vong-bang-world-cup-5090032.html",
+    "category_id": "sports",
+    "category_name": "Thể thao",
+    "source": "VnExpress",
+    "title": "Bờ Biển Ngà lần đầu vượt qua vòng bảng World Cup",
+    "description": "Cú đúp của Nicholas Pepe giúp Bờ Biển Ngà lần đầu đi tiếp ở World Cup, đồng thời khép lại hành trình của tân binh Curacao.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/06/26/ap26176733775222-1782431752-8741-1782431757.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=4c2gN5XUE3x4wJ11PAUJcA",
+    "link": "https://vnexpress.net/bo-bien-nga-lan-dau-vuot-qua-vong-bang-world-cup-5090032.html",
+    "published_at": "Fri, 26 Jun 2026 06:58:35 +0700",
+    "createAt": "2026-06-25T23:58:35.000Z",
+    "thumbnail_blurhash": "LBEVM#w]34Ke7^Rk}DoLF]NH,a$i"
   }
 ]
