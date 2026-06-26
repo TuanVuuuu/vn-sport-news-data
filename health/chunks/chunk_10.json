@@ -635,5 +635,57 @@
     "published_at": "Fri, 26 Jun 2026 12:32:34 +0700",
     "createAt": "2026-06-26T05:32:34.000Z",
     "thumbnail_blurhash": "LJHe%,02?a~W?Vwr-otmktkXjDM{"
+  },
+  {
+    "id": "https://vnexpress.net/benh-vien-bach-mai-co-so-ninh-binh-don-hon-1-500-benh-nhan-ngay-dau-mo-cua-5090070.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Bệnh viện Bạch Mai cơ sở Ninh Bình đón hơn 1.500 bệnh nhân ngày đầu mở cửa",
+    "description": "Bệnh viện Bạch Mai cơ sở Ninh Bình chính thức hoạt động, đón hơn 1.500 bệnh nhân đến khám chữa bệnh, sử dụng dịch vụ y tế chất lượng cao, hôm 26/6.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/26/11-1782447556-2834-1782448336.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=p_PQthv3lwXX_ERB06K1DQ",
+    "link": "https://vnexpress.net/benh-vien-bach-mai-co-so-ninh-binh-don-hon-1-500-benh-nhan-ngay-dau-mo-cua-5090070.html",
+    "published_at": "Fri, 26 Jun 2026 13:39:59 +0700",
+    "createAt": "2026-06-26T06:39:59.000Z",
+    "thumbnail_blurhash": "LuIFJMkDM|ofyZofaekC%hfkWBj?"
+  },
+  {
+    "id": "https://vnexpress.net/tim-ra-ung-thu-vu-kich-thuoc-vai-milimet-nho-cong-nghe-dinh-vi-5089885.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Tìm ra ung thư vú kích thước vài milimét nhờ công nghệ định vị",
+    "description": "Các bác sĩ Khoa Ngoại vú, Bệnh viện K vừa ứng dụng thành công kỹ thuật định vị tổn thương không sờ thấy trên lâm sàng, giúp phát hiện và loại bỏ chính xác khối u ung thư vú giai đoạn sớm có kích thước chỉ vài milimét cho người bệnh.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/25/2-1782379928-6173-1782379962.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Hkgu2VEe5XCrEpS68o9EeA",
+    "link": "https://vnexpress.net/tim-ra-ung-thu-vu-kich-thuoc-vai-milimet-nho-cong-nghe-dinh-vi-5089885.html",
+    "published_at": "Fri, 26 Jun 2026 13:53:52 +0700",
+    "createAt": "2026-06-26T06:53:52.000Z",
+    "thumbnail_blurhash": "LHGu|A?a00$w#f~U?G9a?7%0ERRk"
+  },
+  {
+    "id": "https://vnexpress.net/loai-rau-quen-thuoc-giup-on-dinh-huyet-ap-tieu-hoa-5090240.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Loại rau quen thuộc giúp ổn định huyết áp, tiêu hóa",
+    "description": "Ngọn bí (rau bí) là loại rau quen thuộc, nhẹ bụng, hỗ trợ tiêu hóa, ổn định huyết áp và tăng cường sức đề kháng.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/26/rau-bi-xa-o-vnexpress-17824559-2474-9361-1782456478.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=gKtR1I2Xjc8R1uQLkpuK0w",
+    "link": "https://vnexpress.net/loai-rau-quen-thuoc-giup-on-dinh-huyet-ap-tieu-hoa-5090240.html",
+    "published_at": "Fri, 26 Jun 2026 13:55:14 +0700",
+    "createAt": "2026-06-26T06:55:14.000Z",
+    "thumbnail_blurhash": "L4C7Jf024XrsCG-B~lD+4WkWKK?Y"
+  },
+  {
+    "id": "https://vnexpress.net/dieu-tri-roi-loan-lo-au-truoc-thu-tinh-ong-nghiem-5090139.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Điều trị rối loạn lo âu trước thụ tinh ống nghiệm",
+    "description": "Chị Xuân, 36 tuổi, rối loạn lo âu do áp lực vô sinh, được trị liệu tâm lý sau đó thụ tinh ống nghiệm thành công sinh hai con.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/26/bs-du-o-ng-1782447206-3575-1782447253.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=U4IHCgyYKmWy3z7wGVZdVA",
+    "link": "https://vnexpress.net/dieu-tri-roi-loan-lo-au-truoc-thu-tinh-ong-nghiem-5090139.html",
+    "published_at": "Fri, 26 Jun 2026 14:00:00 +0700",
+    "createAt": "2026-06-26T07:00:00.000Z",
+    "thumbnail_blurhash": "LcP6%8^*Ip~p^%IUt6.8D%xuf+V?"
   }
 ]
