@@ -895,5 +895,44 @@
     "published_at": "Sat, 27 Jun 2026 10:18:30 +0700",
     "createAt": "2026-06-27T03:18:30.000Z",
     "thumbnail_blurhash": "LVIhB9.TNh%0%j.8%1Rk?bkXRjaf"
+  },
+  {
+    "id": "https://vnexpress.net/nguoi-dan-duoc-ban-toi-da-50-dien-mat-troi-mai-nha-len-luoi-5090423.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Người dân được bán tối đa 50% điện mặt trời mái nhà lên lưới",
+    "description": "Người dân được bán tối đa 50% sản lượng điện mặt trời mái nhà tự dùng lên lưới quốc gia, và có thể cao hơn mức này đến cuối 2030 nếu khu vực còn khả năng tiếp nhận.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/06/27/img-jpg-1782495193-6784-1782495325.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=J1CzQ_l6T4PFbDKIK-u24g",
+    "link": "https://vnexpress.net/nguoi-dan-duoc-ban-toi-da-50-dien-mat-troi-mai-nha-len-luoi-5090423.html",
+    "published_at": "Sat, 27 Jun 2026 00:38:35 +0700",
+    "createAt": "2026-06-26T17:38:35.000Z",
+    "thumbnail_blurhash": "LTD,ft%Nxut7?^tRt6fkNya$oeaz"
+  },
+  {
+    "id": "https://vnexpress.net/tram-sac-trung-tam-du-lieu-duoc-mua-dien-xanh-truc-tiep-khong-qua-evn-5090563.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Trạm sạc, trung tâm dữ liệu được mua điện xanh trực tiếp không qua EVN",
+    "description": "Các trung tâm dữ liệu (data center), trạm sạc và cơ sở đổi pin xe điện thuộc nhóm khách hàng sử dụng điện lớn sẽ được tham gia cơ chế mua bán điện trực tiếp (DPPA), theo nghị định mới của Chính phủ.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/06/27/tram-sac-1-1-1782541905-2698-1782542083.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=urjZrFpL8xzRvF-MC5EhPw",
+    "link": "https://vnexpress.net/tram-sac-trung-tam-du-lieu-duoc-mua-dien-xanh-truc-tiep-khong-qua-evn-5090563.html",
+    "published_at": "Sat, 27 Jun 2026 13:43:27 +0700",
+    "createAt": "2026-06-27T06:43:27.000Z",
+    "thumbnail_blurhash": "LRH2lyNE~n-o-;-qoaWYx]sEWTS1"
+  },
+  {
+    "id": "https://vnexpress.net/ngan-hang-gia-nhap-duong-dua-show-giai-tri-5081297.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Ngân hàng gia nhập đường đua show giải trí",
+    "description": "Nghe tin show giải trí có thần tượng mình yêu thích, Nguyễn Dâu (TP HCM) gửi hơn 6 tỷ đồng vào ngân hàng tài trợ chương trình này, để có cơ hội ghi hình chung.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/06/03/a-nh-settop-vnexpress-17804213-6045-3328-1780421428.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=ggUmmF_PurCQieRdsOZX4g",
+    "link": "https://vnexpress.net/ngan-hang-gia-nhap-duong-dua-show-giai-tri-5081297.html",
+    "published_at": "Sat, 27 Jun 2026 14:16:16 +0700",
+    "createAt": "2026-06-27T07:16:16.000Z",
+    "thumbnail_blurhash": "LJNn5QM]M_EK5%_Low9Z_M_Me:xb"
   }
 ]
