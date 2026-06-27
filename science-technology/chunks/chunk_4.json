@@ -895,5 +895,18 @@
     "published_at": "Sat, 27 Jun 2026 13:00:00 +0700",
     "createAt": "2026-06-27T06:00:00.000Z",
     "thumbnail_blurhash": "LCEyJX~D00px]yDhNx-:?DT0A1s*"
+  },
+  {
+    "id": "https://vnexpress.net/openai-hoan-phat-hanh-gpt-5-6-5090544.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "OpenAI hoãn phát hành GPT-5.6",
+    "description": "Theo yêu cầu từ chính phủ Mỹ, OpenAI cho biết sẽ hoãn triển khai rộng rãi mô hình mới GPT-5.6, chỉ cho phép nhóm nhỏ đối tác truy cập.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/27/openaithachthuc175249135128161-7904-3225-1782539192.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=iaTnG9ESK9-2sO2SHKI9Sw",
+    "link": "https://vnexpress.net/openai-hoan-phat-hanh-gpt-5-6-5090544.html",
+    "published_at": "Sat, 27 Jun 2026 15:00:00 +0700",
+    "createAt": "2026-06-27T08:00:00.000Z",
+    "thumbnail_blurhash": "LiE-t{}xivNFN{NZR%f,E1Ioj[kW"
   }
 ]
