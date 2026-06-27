@@ -921,5 +921,31 @@
     "published_at": "Fri, 26 Jun 2026 16:28:17 +0700",
     "createAt": "2026-06-26T09:28:17.000Z",
     "thumbnail_blurhash": "LSJQTC~p%#xa~Vx]R-M|tl-pxFoJ"
+  },
+  {
+    "id": "https://vnexpress.net/nguoi-anh-xep-hang-mua-dieu-hoa-tam-ho-trong-dot-nong-ky-luc-5090333.html",
+    "category_id": "life",
+    "category_name": "Đời sống",
+    "source": "VnExpress",
+    "title": "Người Anh xếp hàng mua điều hòa, tắm hồ trong đợt nóng kỷ lục",
+    "description": "Hiệu ứng \"vòm nhiệt\" với nền nhiệt độ 38 độ C khiến cuộc sống người Anh đảo lộn, kích hoạt các trạng thái khẩn cấp về hạ tầng và y tế trên diện rộng.",
+    "thumbnail_url": "https://vcdn1-giadinh.vnecdn.net/2026/06/26/untitled-1782465998-8192-1782466052.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=AcFOKSiDwCqI1yg1OLdgQg",
+    "link": "https://vnexpress.net/nguoi-anh-xep-hang-mua-dieu-hoa-tam-ho-trong-dot-nong-ky-luc-5090333.html",
+    "published_at": "Sat, 27 Jun 2026 06:00:00 +0700",
+    "createAt": "2026-06-26T23:00:00.000Z",
+    "thumbnail_blurhash": "L3A,k44T^*IU.l0MJV9ZM[8_^kV["
+  },
+  {
+    "id": "https://vnexpress.net/di-bar-xem-world-cup-5089997.html",
+    "category_id": "life",
+    "category_name": "Đời sống",
+    "source": "VnExpress",
+    "title": "Đi bar xem World Cup",
+    "description": "Thay vì ở nhà, nhiều người trẻ Hà Nội, TP HCM sẵn sàng chi tiền triệu đến các quán bar mở xuyên đêm để xem những trận đấu của World Cup 2026 \"cho có không khí\".",
+    "thumbnail_url": "https://vcdn1-giadinh.vnecdn.net/2026/06/25/img-1782404396-1759-1782404482.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=4IHIkCXVDugThtwV7TiRbg",
+    "link": "https://vnexpress.net/di-bar-xem-world-cup-5089997.html",
+    "published_at": "Sat, 27 Jun 2026 06:28:00 +0700",
+    "createAt": "2026-06-26T23:28:00.000Z",
+    "thumbnail_blurhash": "LD8Dn_%79bi,pLkGnnoOOrkEsqR%"
   }
 ]
