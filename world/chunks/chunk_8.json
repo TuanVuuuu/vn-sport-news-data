@@ -206,5 +206,31 @@
     "published_at": "Sat, 27 Jun 2026 15:31:39 +0700",
     "createAt": "2026-06-27T08:31:39.000Z",
     "thumbnail_blurhash": "LhF$3FNIt6IU~WWEWANG-;ofRiay"
+  },
+  {
+    "id": "https://vnexpress.net/quan-doi-my-nhan-loat-f-35-khong-co-radar-5090470.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Quân đội Mỹ nhận loạt F-35 không có radar",
+    "description": "Quân đội Mỹ tiếp nhận ít nhất 6 tiêm kích tàng hình F-35 không có radar do chương trình phát triển thiết bị mới bị chậm tiến độ.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/27/F35B1-1782552427-8158-1782555828.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=2Br1avTvdz8ajLDCx9iiPQ",
+    "link": "https://vnexpress.net/quan-doi-my-nhan-loat-f-35-khong-co-radar-5090470.html",
+    "published_at": "Sat, 27 Jun 2026 17:24:36 +0700",
+    "createAt": "2026-06-27T10:24:36.000Z",
+    "thumbnail_blurhash": "LuG030ozx]Rj_4t7ofRjxuofRPj]"
+  },
+  {
+    "id": "https://vnexpress.net/iran-bi-to-tap-kich-uav-nham-vao-bahrain-5090620.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Iran bị tố tập kích UAV nhằm vào Bahrain",
+    "description": "Bahrain cáo buộc Iran tiến hành cuộc tập kích bằng UAV, sau khi Vệ binh Iran tuyên bố đã triển khai loạt đòn trả đũa Mỹ.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/27/cho-ng-uav-1782554528-7009-1782554590.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=WlIVQb67_RbHZvpWX3vJaw",
+    "link": "https://vnexpress.net/iran-bi-to-tap-kich-uav-nham-vao-bahrain-5090620.html",
+    "published_at": "Sat, 27 Jun 2026 18:02:40 +0700",
+    "createAt": "2026-06-27T11:02:40.000Z",
+    "thumbnail_blurhash": "L=Mk2^t7kDbI_Nj]axofIVayadj["
   }
 ]
