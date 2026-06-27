@@ -1,3 +1,43 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/le-tong-tien-dieu-xui-rui-tren-bien-my-long-5090522.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Lễ tống tiễn điều xui rủi trên biển Mỹ Long",
+      "description": "Hàng trăm người dân, du khách tập trung về bãi biển Mỹ Long dự lễ Tống ôn, cúng biển để cầu may mắn, tống tiễn những điều xui rủi trong năm.",
+      "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/06/27/nghinhong-1782550131.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=OXVKKMcZK6EcyJJ-HNBrOw",
+      "link": "https://vnexpress.net/le-tong-tien-dieu-xui-rui-tren-bien-my-long-5090522.html",
+      "published_at": "Sat, 27 Jun 2026 15:49:02 +0700",
+      "createAt": "2026-06-27T08:49:02.000Z",
+      "thumbnail_blurhash": "LwF?kYcFM_XT.Tt8M|W=bcnhV@n$"
+    },
+    {
+      "id": "https://vnexpress.net/ca-mau-moi-chuyen-gia-tim-cach-cuu-rung-tram-u-minh-ha-5090599.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Cà Mau mời chuyên gia tìm cách cứu rừng tràm U Minh Hạ",
+      "description": "UBND tỉnh giao Vườn Quốc gia U Minh Hạ phối hợp Trường Đại học Nông Lâm TP HCM tìm nguyên nhân và đề xuất giải pháp phục hồi hàng trăm ha rừng tràm suy kiệt.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/27/3-jpg-1782550033-9823-1782550218.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=c_nivguvYHOTg6ORDOo-bg",
+      "link": "https://vnexpress.net/ca-mau-moi-chuyen-gia-tim-cach-cuu-rung-tram-u-minh-ha-5090599.html",
+      "published_at": "Sat, 27 Jun 2026 16:05:49 +0700",
+      "createAt": "2026-06-27T09:05:49.000Z",
+      "thumbnail_blurhash": "LFHx{G?ZxbkX~Mj]R+RhD#t8j@ot"
+    },
+    {
+      "id": "https://vnexpress.net/hang-loat-nuoc-ho-tro-venezuela-cuu-ho-sau-dong-dat-5090598.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Hàng loạt nước hỗ trợ Venezuela cứu hộ sau động đất",
+      "description": "Sau hai trận động đất liên tiếp khiến hơn 900 người thiệt mạng tại Venezuela, nhiều quốc gia đang khẩn trương điều lực lượng cứu hộ, thiết bị, vật tư y tế tới hỗ trợ.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/27/TCMilliSavunmaBakanl2070581307-1831-9115-1782550032.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=3iMc30X09uyihI3Gm7WUag",
+      "link": "https://vnexpress.net/hang-loat-nuoc-ho-tro-venezuela-cuu-ho-sau-dong-dat-5090598.html",
+      "published_at": "Sat, 27 Jun 2026 16:16:28 +0700",
+      "createAt": "2026-06-27T09:16:28.000Z",
+      "thumbnail_blurhash": "LnC7Kojuo#ofyGofofj]NLj[adbH"
+    }
+  ]
 }
