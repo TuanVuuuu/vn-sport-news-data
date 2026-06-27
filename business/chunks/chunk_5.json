@@ -843,5 +843,31 @@
     "published_at": "Sat, 27 Jun 2026 00:00:00 +0700",
     "createAt": "2026-06-26T17:00:00.000Z",
     "thumbnail_blurhash": "L9EL.~=_010NtnEM?H?F.TMy-=-:"
+  },
+  {
+    "id": "https://vnexpress.net/ong-trump-doa-ap-thue-nhap-khau-100-voi-nhieu-nuoc-5090428.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Ông Trump dọa áp thuế nhập khẩu 100% với nhiều nước",
+    "description": "Tổng thống Trump cho biết sẽ áp thuế nhập khẩu 100% với hàng hóa của bất kỳ nước nào đánh thuế dịch vụ kỹ thuật số lên công ty Mỹ.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/06/27/afp-b6mg67b-v1-highres-uspolit-7889-1800-1782516361.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=faRq-3DG7AjE2AHlcgnyZw",
+    "link": "https://vnexpress.net/ong-trump-doa-ap-thue-nhap-khau-100-voi-nhieu-nuoc-5090428.html",
+    "published_at": "Sat, 27 Jun 2026 07:21:43 +0700",
+    "createAt": "2026-06-27T00:21:43.000Z",
+    "thumbnail_blurhash": "LAEf1x00EJ00^d?H58J9=Z~q00pI"
+  },
+  {
+    "id": "https://vnexpress.net/gia-vang-the-gioi-len-gan-4-100-usd-5090442.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Giá vàng thế giới lên gần 4.100 USD",
+    "description": "Giá vàng phiên cuối tuần hồi phục nhẹ sau khi chịu sức ép đầu tuần này, có thời điểm chạm 4.094 USD một ounce.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/06/27/silvergold-1782519363-4670-1782519376.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=repCeTwjKbieg1eYLi-5dA",
+    "link": "https://vnexpress.net/gia-vang-the-gioi-len-gan-4-100-usd-5090442.html",
+    "published_at": "Sat, 27 Jun 2026 07:30:00 +0700",
+    "createAt": "2026-06-27T00:30:00.000Z",
+    "thumbnail_blurhash": "L9F=gKY802Mbks%J%2x]O[xBRit3"
   }
 ]
