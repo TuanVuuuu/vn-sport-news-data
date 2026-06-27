@@ -492,5 +492,31 @@
     "published_at": "Sat, 27 Jun 2026 06:00:00 +0700",
     "createAt": "2026-06-26T23:00:00.000Z",
     "thumbnail_blurhash": "LVEMRWW;j[j[_4f8kCof%gRkj]fl"
+  },
+  {
+    "id": "https://vnexpress.net/kien-nghi-dieu-chinh-thoi-gian-tinh-huong-luong-huu-5090213.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Kiến nghị điều chỉnh thời gian tính hưởng lương hưu",
+    "description": "Bộ Nội vụ đề xuất làm tròn thời gian đóng khi tính mức hưởng lương hưu với người có tháng lẻ tới 0,25 năm, đảm bảo công bằng quyền lợi giữa các nhóm.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/26/IMG8835JPG-1782451013-1820-1782451052.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=2SiJ688vr3kWo9l5bmeAJQ",
+    "link": "https://vnexpress.net/kien-nghi-dieu-chinh-thoi-gian-tinh-huong-luong-huu-5090213.html",
+    "published_at": "Fri, 26 Jun 2026 14:27:22 +0700",
+    "createAt": "2026-06-26T07:27:22.000Z",
+    "thumbnail_blurhash": "LbJ[9g%LE1?Gxaxuo}s;~p.8acad"
+  },
+  {
+    "id": "https://vnexpress.net/xe-tai-lao-xuong-vuc-o-son-la-ba-nguoi-gap-nan-5090469.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Xe tải lao xuống vực ở Sơn La, ba người gặp nạn",
+    "description": "Rạng sáng 27/6, xe tải đang chạy trên quốc lộ 37, đoạn qua xã Bắc Yên, bất ngờ lao xuống vực sâu khoảng 20 m, hai người chết.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/27/anh-1782525387-9423-1782525830.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Z5h8hrKmc3o6HMk37Sr71w",
+    "link": "https://vnexpress.net/xe-tai-lao-xuong-vuc-o-son-la-ba-nguoi-gap-nan-5090469.html",
+    "published_at": "Sat, 27 Jun 2026 09:14:41 +0700",
+    "createAt": "2026-06-27T02:14:41.000Z",
+    "thumbnail_blurhash": "L48NnL~p0K01008|xa%M9?ko?I?H"
   }
 ]
