@@ -295,8 +295,8 @@
       "updated_at": "2026-06-27T03:51:31.216Z"
     },
     {
-      "device_id": "1e45a3bcd48e2b1c",
-      "fcm_token": "cytcM3_kSOyArx5k4MpQle:APA91bGbjhu-rl91R_B7TS4VW6y3QcosrrUongMr_ULztO7rdwKNFTHr8XFGEm9x5AqHaG-LjPzPF8cqbjRkf1zrFvCJsVxizcFuCvDZbZCqwU2ygMFdY_A",
+      "device_id": "b557c896d6bacca4",
+      "fcm_token": "fDS72DGlSTyF9lVPMIRE8I:APA91bEJ3LF2W-AEtXJW6GAwk1empittCV65CnT4WoNUIqL4YPffW7BmYOrxTLxLS911Ry9kfv8-mR9678txn43yr_tiKz65kZZUU-v__z3x7EJmvcBrk-o",
       "platform": "android",
       "preferences": {
         "enabled": true,
@@ -305,8 +305,8 @@
           "featured"
         ]
       },
-      "created_at": "2026-06-27T03:51:40.009Z",
-      "updated_at": "2026-06-27T03:51:40.009Z"
+      "created_at": "2026-06-27T03:51:41.725Z",
+      "updated_at": "2026-06-27T03:51:41.725Z"
     }
   ]
 }
