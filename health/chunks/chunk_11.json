@@ -37,5 +37,44 @@
     "published_at": "Sat, 27 Jun 2026 20:00:00 +0700",
     "createAt": "2026-06-27T13:00:00.000Z",
     "thumbnail_blurhash": "L3A]sl$l7~4R140f={h~1byB}F}B"
+  },
+  {
+    "id": "https://vnexpress.net/dieu-gi-xay-ra-neu-ban-khong-an-rau-5090218.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Điều gì xảy ra nếu bạn không ăn rau?",
+    "description": "Không ăn hoặc ăn quá ít rau trong thời gian dài có thể làm tăng nguy cơ táo bón, thiếu hụt dinh dưỡng, suy giảm miễn dịch và nhiều bệnh mạn tính.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/26/rau-cu-1782451162-3101-1782451420.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=JpbI264Dfj-Mxu1CKdQshw",
+    "link": "https://vnexpress.net/dieu-gi-xay-ra-neu-ban-khong-an-rau-5090218.html",
+    "published_at": "Sun, 28 Jun 2026 00:04:00 +0700",
+    "createAt": "2026-06-27T17:04:00.000Z",
+    "thumbnail_blurhash": "LVIE?uoZ~p%1?DRit7jX?Hr=t9s+"
+  },
+  {
+    "id": "https://vnexpress.net/tieng-luc-cuc-khi-nhai-canh-bao-benh-nguy-hiem-5085619.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Tiếng 'lục cục' khi nhai cảnh báo bệnh nguy hiểm",
+    "description": "Tiếng \"lục cục\" ở khớp hàm có thể là tín hiệu sớm của rối loạn thái dương hàm, căn bệnh ảnh hưởng lớn đến chất lượng sống.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/14/1-1781434131-6261-1781434141.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=RTe8mhfAU3orQZKfYNBu3g",
+    "link": "https://vnexpress.net/tieng-luc-cuc-khi-nhai-canh-bao-benh-nguy-hiem-5085619.html",
+    "published_at": "Sun, 28 Jun 2026 01:00:00 +0700",
+    "createAt": "2026-06-27T18:00:00.000Z",
+    "thumbnail_blurhash": "LOFFgN?w9FI9IoWBxaRjt6X8-:xu"
+  },
+  {
+    "id": "https://vnexpress.net/suc-khoe/cam-nang/hoi-chung-mi-mat-mem-438",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Hội chứng mí mắt mềm",
+    "description": "Hội chứng mí mắt mềm là bệnh lý khiến mí mắt trên lỏng lẻo, mất độ đàn hồi và dễ bị lật ra ngoài khi ngủ.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/27/chatgptimage16560427thg62026-1-1662-8583-1782554203.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=2Xx494NV2G5vnzdaSI2Jbg",
+    "link": "https://vnexpress.net/suc-khoe/cam-nang/hoi-chung-mi-mat-mem-438",
+    "published_at": "Sun, 28 Jun 2026 01:00:00 +0700",
+    "createAt": "2026-06-27T18:00:00.000Z",
+    "thumbnail_blurhash": "LEO_+d?F01%1~Wj]IVa{~Wxa$%of"
   }
 ]

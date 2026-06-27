@@ -622,5 +622,31 @@
     "published_at": "Sat, 27 Jun 2026 17:15:25 +0700",
     "createAt": "2026-06-27T10:15:25.000Z",
     "thumbnail_blurhash": "LMF#%M~3?XxoxaR*V@M|X9NaxZ%1"
+  },
+  {
+    "id": "https://vnexpress.net/doi-ken-cong-an-bieu-dien-am-nhac-tren-pho-di-bo-nguyen-hue-5090661.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Đội kèn công an biểu diễn âm nhạc trên phố đi bộ Nguyễn Huệ",
+    "description": "126 nghệ sĩ thuộc Đoàn nghi lễ Công an nhân dân trình diễn nhạc kèn tại phố đi bộ Nguyễn Huệ, thu hút đông người xem, tối 27/6.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/27/233A8488-1782576583.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=uFso68_Y45OIn6aUA5D4vw",
+    "link": "https://vnexpress.net/doi-ken-cong-an-bieu-dien-am-nhac-tren-pho-di-bo-nguyen-hue-5090661.html",
+    "published_at": "Sat, 27 Jun 2026 23:50:33 +0700",
+    "createAt": "2026-06-27T16:50:33.000Z",
+    "thumbnail_blurhash": "LCDS8,E0E1J7~DE1RikWEKNIxFxu"
+  },
+  {
+    "id": "https://vnexpress.net/cau-gan-80-ty-dong-dang-do-vi-thieu-duong-dan-5090654.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Cầu gần 80 tỷ đồng dang dở vì thiếu đường dẫn",
+    "description": "Cầu Mô Vĩnh ở Nghệ An đã hoàn thành phần cầu chính gần một năm nhưng vẫn chưa thể thông xe do thiếu đường dẫn hai đầu, ảnh hưởng việc đi lại và vận chuyển hàng hóa.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/27/hien-trang-cau-mo-vinh-1782570-9625-7041-1782571534.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Sey8vXQjZKQqsUsA8bj4Sw",
+    "link": "https://vnexpress.net/cau-gan-80-ty-dong-dang-do-vi-thieu-duong-dan-5090654.html",
+    "published_at": "Sun, 28 Jun 2026 00:00:00 +0700",
+    "createAt": "2026-06-27T17:00:00.000Z",
+    "thumbnail_blurhash": "L;D-HSofV@bH.TbHWBbH%gj[jZof"
   }
 ]
