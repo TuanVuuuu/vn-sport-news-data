@@ -492,5 +492,44 @@
     "published_at": "Sat, 27 Jun 2026 07:45:12 +0700",
     "createAt": "2026-06-27T00:45:12.000Z",
     "thumbnail_blurhash": "L6F6Xo00-:00DLW0Mw-?00~W9Y_3"
+  },
+  {
+    "id": "https://vnexpress.net/uruguay-vs-tay-ban-nha-5090427-tong-thuat.html",
+    "category_id": "sports",
+    "category_name": "Thể thao",
+    "source": "VnExpress",
+    "title": "Tây Ban Nha loại Uruguay khỏi World Cup 2026",
+    "description": "Chiến thắng 1-0 giúp Tây Ban Nha vào vòng 1/16 World Cup 2026 với vị trí nhất bảng H, trong khi Uruguay bị loại sau trận đấu trên sân Guadalajara.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/06/27/baena-1782526066-7368-1782526074.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=UUx9aGeiBhRmZ1iot-V1gA",
+    "link": "https://vnexpress.net/uruguay-vs-tay-ban-nha-5090427-tong-thuat.html",
+    "published_at": "Sat, 27 Jun 2026 06:00:00 +0700",
+    "createAt": "2026-06-26T23:00:00.000Z",
+    "thumbnail_blurhash": "LHGc3rt7TA%1|9jI$,xbqiax$loM"
+  },
+  {
+    "id": "https://vnexpress.net/ai-cap-v-iran-5090416.html",
+    "category_id": "sports",
+    "category_name": "Thể thao",
+    "source": "VnExpress",
+    "title": "Ai Cập - Iran: 4 trong 9 đại diện châu Á bị loại",
+    "description": "Iran cần thắng Ai Cập ở lượt cuối bảng G để chắc suất vào vòng 1/16 World Cup 2026. Bóng lăn lúc 10h00 giờ Hà Nội.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/06/27/ap26172765821796-1782525508-1458-1782525626.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=lkb-RxQNBFkkSeLJOAZhjw",
+    "link": "https://vnexpress.net/ai-cap-v-iran-5090416.html",
+    "published_at": "Sat, 27 Jun 2026 09:00:26 +0700",
+    "createAt": "2026-06-27T02:00:26.000Z",
+    "thumbnail_blurhash": "L4Ef1z]g00t:D49F4;NG0V-;VoSv"
+  },
+  {
+    "id": "https://vnexpress.net/tan-binh-cape-verde-vuot-vong-bang-world-cup-2026-5090479.html",
+    "category_id": "sports",
+    "category_name": "Thể thao",
+    "source": "VnExpress",
+    "title": "Tân binh Cape Verde vượt vòng bảng World Cup 2026",
+    "description": "Hòa Arab Saudi 0-0, Cape Verde làm nên kỳ tích khi giành quyền vào vòng 1/16 ngay lần đầu góp mặt ở World Cup.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/06/27/2026t020615z-up1em6r05udqc-rtr-3769-6333-1782526435.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=gsX9g2ex7b9DK4IaPM8rfA",
+    "link": "https://vnexpress.net/tan-binh-cape-verde-vuot-vong-bang-world-cup-2026-5090479.html",
+    "published_at": "Sat, 27 Jun 2026 09:15:41 +0700",
+    "createAt": "2026-06-27T02:15:41.000Z",
+    "thumbnail_blurhash": "LPECC5xbS*xu~Cn%t2WEf6WCoHNH"
   }
 ]
