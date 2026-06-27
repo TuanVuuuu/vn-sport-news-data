@@ -258,5 +258,31 @@
     "published_at": "Sat, 27 Jun 2026 22:30:30 +0700",
     "createAt": "2026-06-27T15:30:30.000Z",
     "thumbnail_blurhash": "L6B{QC000N~p0zoc-pIoxVaislxa"
+  },
+  {
+    "id": "https://vnexpress.net/dai-nghia-vua-trong-cay-chuoi-vua-hat-5090649.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Đại Nghĩa vừa 'trồng cây chuối' vừa hát",
+    "description": "Diễn viên Đại Nghĩa thực hiện động tác \"trồng cây chuối\" trong tiết mục kết hợp Huỳnh Lập, Mew Amazing ở show \"Anh trai vượt ngàn chông gai\", tối 27/6.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/06/27/vtr5532jpg-1782574059-3651-1782576935.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=pB6R83u7e4Yze2N467Z38A",
+    "link": "https://vnexpress.net/dai-nghia-vua-trong-cay-chuoi-vua-hat-5090649.html",
+    "published_at": "Sun, 28 Jun 2026 00:20:59 +0700",
+    "createAt": "2026-06-27T17:20:59.000Z",
+    "thumbnail_blurhash": "LGExrN9d0WRz?1t6M}9ZN_ogMwoy"
+  },
+  {
+    "id": "https://vnexpress.net/hoi-sach-thieu-nhi-tp-hcm-quy-mo-lon-nhat-tu-truoc-den-nay-5090252.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Hội sách thiếu nhi TP HCM quy mô lớn nhất từ trước đến nay",
+    "description": "Hội sách thiếu nhi TP HCM lần sáu diễn ra cùng lúc ở nhiều nơi như Thư viện Khoa học Tổng hợp, đường sách Vũng Tàu, với hơn 150 hoạt động.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/06/28/hoi-sach-thieu-nhi-jpg-1782582-5988-2484-1782582345.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=mS2atVuJkJv_M3OBYbF9Fg",
+    "link": "https://vnexpress.net/hoi-sach-thieu-nhi-tp-hcm-quy-mo-lon-nhat-tu-truoc-den-nay-5090252.html",
+    "published_at": "Sun, 28 Jun 2026 00:49:49 +0700",
+    "createAt": "2026-06-27T17:49:49.000Z",
+    "thumbnail_blurhash": "LIFh^s~9o}D*TL4;M~j;J=s:n#-."
   }
 ]
