@@ -232,5 +232,31 @@
     "published_at": "Sat, 27 Jun 2026 19:00:55 +0700",
     "createAt": "2026-06-27T12:00:55.000Z",
     "thumbnail_blurhash": "LYHQxY,s;3|JxFsoJRayEzJkS#Nu"
+  },
+  {
+    "id": "https://vnexpress.net/nhom-uprize-ra-album-dau-tay-5090506.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Nhóm Uprize ra album đầu tay",
+    "description": "Uprize, nhóm nhạc nam bước ra từ chương trình thực tế \"Tân binh toàn năng\", giới thiệu album \"Thăng\" theo thể loại pop dance gồm tám ca khúc.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/06/27/nhom-upprize-1782544544-7515-1782547252.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=7XNXRxTdS22tRWwuLsF5BA",
+    "link": "https://vnexpress.net/nhom-uprize-ra-album-dau-tay-5090506.html",
+    "published_at": "Sat, 27 Jun 2026 22:12:06 +0700",
+    "createAt": "2026-06-27T15:12:06.000Z",
+    "thumbnail_blurhash": "L=NTtJxut6t7~qayWVj[t7j[ayof"
+  },
+  {
+    "id": "https://vnexpress.net/trang-phap-truot-cup-dap-gio-trung-quoc-5090652.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Trang Pháp trượt cúp 'Đạp gió' Trung Quốc",
+    "description": "Ca sĩ Trang Pháp không giành được suất vào đội hình cuối cùng tại chung kết \"Đạp gió\" Trung Quốc 2026.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/06/27/TrangPhp3-1782572251-9525-1782573200.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Vs2dWAedawq5BvplkQkcbQ",
+    "link": "https://vnexpress.net/trang-phap-truot-cup-dap-gio-trung-quoc-5090652.html",
+    "published_at": "Sat, 27 Jun 2026 22:30:30 +0700",
+    "createAt": "2026-06-27T15:30:30.000Z",
+    "thumbnail_blurhash": "L6B{QC000N~p0zoc-pIoxVaislxa"
   }
 ]
