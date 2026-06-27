@@ -947,5 +947,31 @@
     "published_at": "Sat, 27 Jun 2026 06:28:00 +0700",
     "createAt": "2026-06-26T23:28:00.000Z",
     "thumbnail_blurhash": "LD8Dn_%79bi,pLkGnnoOOrkEsqR%"
+  },
+  {
+    "id": "https://vnexpress.net/nguoi-anh-xep-hang-mua-dieu-hoa-5090333.html",
+    "category_id": "life",
+    "category_name": "Đời sống",
+    "source": "VnExpress",
+    "title": "Người Anh xếp hàng mua điều hòa",
+    "description": "Hiệu ứng \"vòm nhiệt\" với nền nhiệt độ 38 độ C khiến cuộc sống người Anh đảo lộn, kích hoạt các trạng thái khẩn cấp về hạ tầng và y tế trên diện rộng.",
+    "thumbnail_url": "https://vcdn1-giadinh.vnecdn.net/2026/06/26/untitled-1782465998-8192-1782466052.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=AcFOKSiDwCqI1yg1OLdgQg",
+    "link": "https://vnexpress.net/nguoi-anh-xep-hang-mua-dieu-hoa-5090333.html",
+    "published_at": "Sat, 27 Jun 2026 06:00:00 +0700",
+    "createAt": "2026-06-26T23:00:00.000Z",
+    "thumbnail_blurhash": "L3A,k44T^*D%.l0MJV9GMu8_^kRj"
+  },
+  {
+    "id": "https://vnexpress.net/nhung-nguoi-phap-khong-dam-bat-quat-du-nong-ky-luc-5090337.html",
+    "category_id": "life",
+    "category_name": "Đời sống",
+    "source": "VnExpress",
+    "title": "Những người Pháp không dám bật quạt dù nóng kỷ lục",
+    "description": "Đợt nắng nóng kỷ lục ép người nghèo tại Pháp \"nhịn\" bật quạt, biến không gian sống thành \"lò nướng\" do không đủ tiền trả hóa đơn điện.",
+    "thumbnail_url": "https://vcdn1-giadinh.vnecdn.net/2026/06/27/a-nh-ma-n-hi-nh-lu-1782523910-9644-1782523920.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=iBNskRVlYeKz7UZYTL-PvA",
+    "link": "https://vnexpress.net/nhung-nguoi-phap-khong-dam-bat-quat-du-nong-ky-luc-5090337.html",
+    "published_at": "Sat, 27 Jun 2026 08:32:38 +0700",
+    "createAt": "2026-06-27T01:32:38.000Z",
+    "thumbnail_blurhash": "LLEooOj_M_-m~Us;J7%LD%xZb^t8"
   }
 ]
