@@ -635,5 +635,31 @@
     "published_at": "Sat, 27 Jun 2026 13:30:35 +0700",
     "createAt": "2026-06-27T06:30:35.000Z",
     "thumbnail_blurhash": "LHFYyIaA%N_NtVxvjbIn01xaRkD%"
+  },
+  {
+    "id": "https://vnexpress.net/scaloni-messi-se-du-bi-o-luot-cuoi-5090529.html",
+    "category_id": "sports",
+    "category_name": "Thể thao",
+    "source": "VnExpress",
+    "title": "Scaloni: 'Messi sẽ dự bị ở lượt cuối'",
+    "description": "HLV Lionel Scaloni cho biết Argentina sẽ xoay vòng lực lượng và thử nghiệm thêm phương án chiến thuật, với Lionel Messi dự bị, trận gặp Jordan ở lượt cuối bảng J World Cup 2026.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/06/27/argentina-png-1782535163-1864-1782535231.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=WLetP5OtdqgeMQ1Mxwy5Sg",
+    "link": "https://vnexpress.net/scaloni-messi-se-du-bi-o-luot-cuoi-5090529.html",
+    "published_at": "Sat, 27 Jun 2026 15:00:00 +0700",
+    "createAt": "2026-06-27T08:00:00.000Z",
+    "thumbnail_blurhash": "L9BXJ,yEBI_M9WD#M}I99??v^-tT"
+  },
+  {
+    "id": "https://vnexpress.net/martinez-ronaldo-giup-bo-dao-nha-khong-bi-cuon-theo-ap-luc-5090503.html",
+    "category_id": "sports",
+    "category_name": "Thể thao",
+    "source": "VnExpress",
+    "title": "Martinez: 'Ronaldo giúp Bồ Đào Nha không bị cuốn theo áp lực'",
+    "description": "HLV Roberto Martinez tin kinh nghiệm của Cristiano Ronaldo sẽ giúp Bồ Đào Nha giữ được bản lĩnh trước sức ép từ khán đài trong trận quyết định vị trí đầu bảng K World Cup 2026 gặp Colombia.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/06/27/ronaldo-png-1782531783-3291-1782531871.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=oPrYSJ8RkRFgoXN03ObgOw",
+    "link": "https://vnexpress.net/martinez-ronaldo-giup-bo-dao-nha-khong-bi-cuon-theo-ap-luc-5090503.html",
+    "published_at": "Sat, 27 Jun 2026 15:00:00 +0700",
+    "createAt": "2026-06-27T08:00:00.000Z",
+    "thumbnail_blurhash": "LIHU5{9F.mr;_19?J5,Bxs$%s+S#"
   }
 ]
