@@ -856,5 +856,44 @@
     "published_at": "Sat, 27 Jun 2026 12:16:06 +0700",
     "createAt": "2026-06-27T05:16:06.000Z",
     "thumbnail_blurhash": null
+  },
+  {
+    "id": "https://vnexpress.net/tp-hcm-mo-co-so-y-te-kham-chua-benh-tam-than-o-binh-duong-5090518.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "TP HCM mở cơ sở y tế khám chữa bệnh tâm thần ở Bình Dương",
+    "description": "Từ ngày 1/7, Bệnh viện Tâm thần TP HCM vận hành cơ sở 4 tại Bình Dương, góp phần giảm tải hệ thống điều trị trong bối cảnh nhu cầu khám ngày càng tăng.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/27/hinh-cs4-1782533892-3521-1782533903.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=Z8T7o2HYqCvZtOeXoC2SUA",
+    "link": "https://vnexpress.net/tp-hcm-mo-co-so-y-te-kham-chua-benh-tam-than-o-binh-duong-5090518.html",
+    "published_at": "Sat, 27 Jun 2026 12:14:19 +0700",
+    "createAt": "2026-06-27T05:14:19.000Z",
+    "thumbnail_blurhash": "LOH3W}HX9EM|G^8^RPWE-.bJe-s."
+  },
+  {
+    "id": "https://vnexpress.net/lukaku-de-bruyne-dua-bi-vao-vong-1-16-world-cup-2026-5090537.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Lukaku, De Bruyne đưa Bỉ vào vòng 1/16 World Cup 2026",
+    "description": "Hai ngôi sao Romelu Lukaku, Kevin De Bruyne cùng ghi bàn, giúp Bỉ thắng New Zealand 5-1 và vào vòng 1/8 với vị trí dẫn đầu bảng G World Cup 2026.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/06/27/lukaku-png-1782537871-9510-1782537916.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=karYNNSdRZta49LzAKxRAA",
+    "link": "https://vnexpress.net/lukaku-de-bruyne-dua-bi-vao-vong-1-16-world-cup-2026-5090537.html",
+    "published_at": "Sat, 27 Jun 2026 12:25:40 +0700",
+    "createAt": "2026-06-27T05:25:40.000Z",
+    "thumbnail_blurhash": "LAFgzd~W^+%gBQVsStIq5%9GVrIA"
+  },
+  {
+    "id": "https://vnexpress.net/nu-trung-uy-dong-mv-cung-mono-5090258.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Nữ trung úy đóng MV cùng Mono",
+    "description": "Châu Anh - trung úy đầu tiên đoạt á hậu Hoa hậu Việt Nam - thử sức diễn xuất qua MV \"Công tử văn thơ\" của Mono.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/06/26/top1-1782458290.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=qrtyX3J6TOiNlIiiLWhIrA",
+    "link": "https://vnexpress.net/nu-trung-uy-dong-mv-cung-mono-5090258.html",
+    "published_at": "Sat, 27 Jun 2026 12:30:00 +0700",
+    "createAt": "2026-06-27T05:30:00.000Z",
+    "thumbnail_blurhash": "LaJ%]=-oTeNFPXS~x[nNOGj]V[ae"
   }
 ]
