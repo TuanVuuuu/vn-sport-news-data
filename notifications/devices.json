@@ -180,7 +180,7 @@
         ]
       },
       "created_at": "2026-06-26T15:46:23.384Z",
-      "updated_at": "2026-06-27T03:50:39.899Z"
+      "updated_at": "2026-06-26T15:46:25.075Z"
     },
     {
       "device_id": "6ecf868a064e3ff4",
@@ -251,6 +251,20 @@
       },
       "created_at": "2026-06-26T15:46:40.268Z",
       "updated_at": "2026-06-26T15:46:41.371Z"
+    },
+    {
+      "device_id": "3e907a09e5d79376",
+      "fcm_token": "dyh6FZBMTVmclEhk94xME_:APA91bF_pgXb0-gnjZxwQ205I5QFGZJbSyjj6L5CiWeZU-_NlDPTU6CIrQ3HzToV7haMdJdLW7NZRHL71y4Zixhc3b0B_FTM2DqE1dDJvY5oCux8nqi1nmM",
+      "platform": "android",
+      "preferences": {
+        "enabled": true,
+        "max_per_day": 3,
+        "categories": [
+          "featured"
+        ]
+      },
+      "created_at": "2026-06-27T03:50:41.437Z",
+      "updated_at": "2026-06-27T03:50:41.437Z"
     }
   ]
 }
