@@ -557,5 +557,31 @@
     "published_at": "Sat, 27 Jun 2026 13:17:04 +0700",
     "createAt": "2026-06-27T06:17:04.000Z",
     "thumbnail_blurhash": "L[Ir~ixuV?og*0fSoLkCtSaeozj["
+  },
+  {
+    "id": "https://vnexpress.net/luong-giao-vien-5090548.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Lương giáo viên 5,3 đến 17 triệu đồng từ 1/7",
+    "description": "Từ 1/7, khi lương cơ sở tăng lên 2,53 triệu đồng, lương giáo viên sẽ tăng tương ứng theo từng nhóm, trong đó cao nhất 17,2 triệu, thấp nhất 5,3 triệu đồng mỗi tháng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/27/233a3847-1782541179-7145-1782541438.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=TkKusBKp7s6-CiO5F8CWGg",
+    "link": "https://vnexpress.net/luong-giao-vien-5090548.html",
+    "published_at": "Sat, 27 Jun 2026 13:32:13 +0700",
+    "createAt": "2026-06-27T06:32:13.000Z",
+    "thumbnail_blurhash": "LTIg[v-;9YW:?^xuxFt8t,ofw]t7"
+  },
+  {
+    "id": "https://vnexpress.net/dung-radar-do-tim-hai-cot-liet-si-mau-than-1968-5089979.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Dùng radar dò tìm hài cốt liệt sĩ Mậu Thân 1968",
+    "description": "Quân đội dùng máy radar thăm dò khu vực cửa Chánh Tây và dọc đường Xuân 68 để tìm hài cốt liệt sĩ, phát hiện địa tầng đất bị xáo trộn.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/27/z7981694701552e44f9a6983c40a52-8713-5755-1782544346.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=skTFWiBMXY8SMpxNH4Jzzg",
+    "link": "https://vnexpress.net/dung-radar-do-tim-hai-cot-liet-si-mau-than-1968-5089979.html",
+    "published_at": "Sat, 27 Jun 2026 13:54:31 +0700",
+    "createAt": "2026-06-27T06:54:31.000Z",
+    "thumbnail_blurhash": "L6GS7G~WNF0hDzIX-#9HxlD?os%M"
   }
 ]
