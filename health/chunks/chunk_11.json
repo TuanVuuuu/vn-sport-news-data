@@ -323,5 +323,44 @@
     "published_at": "Sun, 28 Jun 2026 10:00:00 +0700",
     "createAt": "2026-06-28T03:00:00.000Z",
     "thumbnail_blurhash": "LEK,ssPSD~D+qIFZ5qH?_Nr=NrD%"
+  },
+  {
+    "id": "https://vnexpress.net/vaccine-mrna-phong-hantavirus-thu-nghiem-tren-dong-vat-5090730.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Vaccine mRNA phòng Hantavirus thử nghiệm trên động vật",
+    "description": "Một liều vaccine mRNA thử nghiệm giúp bảo vệ hoàn toàn khỏi virus Andes, là chủng Hantavirus có thể lây giữa người với người qua tiếp xúc gần.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/28/medium-vecteezy-doctor-with-sy-6979-3439-1782617288.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Q189qv-M9lSDfwZzResr4Q",
+    "link": "https://vnexpress.net/vaccine-mrna-phong-hantavirus-thu-nghiem-tren-dong-vat-5090730.html",
+    "published_at": "Sun, 28 Jun 2026 11:00:00 +0700",
+    "createAt": "2026-06-28T04:00:00.000Z",
+    "thumbnail_blurhash": "LPQJ4Vxa%$$%_Nx]t8s:g3V@Vsf,"
+  },
+  {
+    "id": "https://vnexpress.net/cach-an-hat-chia-tot-cho-tieu-hoa-5090590.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Cách ăn hạt chia tốt cho tiêu hóa",
+    "description": "Để tránh táo bón, rối loạn tiêu hóa, nên ngâm hạt chia trong nước 5-10 phút, xay nhuyễn và tăng lượng sử dụng từ từ.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/27/727718685-n-1782548858-3486-1782548866.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=2sbcOYYDy2VQ6ISLT-QqWw",
+    "link": "https://vnexpress.net/cach-an-hat-chia-tot-cho-tieu-hoa-5090590.html",
+    "published_at": "Sun, 28 Jun 2026 11:00:00 +0700",
+    "createAt": "2026-06-28T04:00:00.000Z",
+    "thumbnail_blurhash": "LFF$eFx]xHb^_N%1sSo}$f%1H=n%"
+  },
+  {
+    "id": "https://vnexpress.net/vi-sao-cham-kinh-du-khong-mang-thai-5090575.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Vì sao chậm kinh dù không mang thai?",
+    "description": "Ngoài mang thai, chậm kinh còn có thể liên quan rối loạn nội tiết, căng thẳng, thay đổi cân nặng, hội chứng buồng trứng đa nang.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/27/image001-1782545777-5824-1782545826.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=aOOwojSz3LnfDl3iIPzKBQ",
+    "link": "https://vnexpress.net/vi-sao-cham-kinh-du-khong-mang-thai-5090575.html",
+    "published_at": "Sun, 28 Jun 2026 11:00:00 +0700",
+    "createAt": "2026-06-28T04:00:00.000Z",
+    "thumbnail_blurhash": "LiHo5#_NI:kBtRWAxaoLtRRiaeWq"
   }
 ]
