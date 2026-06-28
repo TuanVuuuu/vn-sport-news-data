@@ -6163,6 +6163,46 @@
         "https://vnexpress.net/thay-ao-moi-cho-nha-cho-ben-xe-buyt-truoc-ngay-tp-hcm-mien-ve-5090581.html"
       ],
       "highlight_id": "https://vnexpress.net/thay-ao-moi-cho-nha-cho-ben-xe-buyt-truoc-ngay-tp-hcm-mien-ve-5090581.html"
+    },
+    {
+      "sent_at": "2026-06-28T02:20:44.223Z",
+      "topic": null,
+      "device_id": "1e45a3bcd48e2b1c",
+      "slot": "morning",
+      "type": "featured_digest",
+      "article_ids": [
+        "https://vnexpress.net/thu-khoa-voi-cu-dup-diem-10-toan-5090614.html",
+        "https://vnexpress.net/thu-khoa-truong-chuyen-gianh-2-diem-10-toan-5090614.html",
+        "https://vnexpress.net/ket-qua-colombia-vs-bo-dao-nha-5090681.html",
+        "https://vnexpress.net/vi-sao-trung-tam-thanh-pho-thuong-nong-hon-vung-ven-5090650.html",
+        "https://vnexpress.net/my-tiep-tuc-khong-kich-iran-5090684.html",
+        "https://vnexpress.net/co-gai-duc-tim-duoc-tinh-yeu-khi-sang-viet-nam-chua-lanh-5087525.html",
+        "https://vnexpress.net/modric-lap-ky-luc-kien-tao-giup-croatia-di-tiep-o-world-cup-5090696.html",
+        "https://vnexpress.net/cach-tinh-chi-phi-ban-quyen-am-nhac-cho-cac-quan-ca-phe-nha-hang-5090526.html",
+        "https://vnexpress.net/jordan-vs-argentina-5090701.html",
+        "https://vnexpress.net/bac-si-bach-mai-co-so-ninh-binh-cuu-2-nguoi-dot-quy-trong-ngay-dau-mo-cua-5090688.html"
+      ],
+      "highlight_id": "https://vnexpress.net/bac-si-bach-mai-co-so-ninh-binh-cuu-2-nguoi-dot-quy-trong-ngay-dau-mo-cua-5090688.html"
+    },
+    {
+      "sent_at": "2026-06-28T02:20:44.339Z",
+      "topic": null,
+      "device_id": "1fd7919f9343d992",
+      "slot": "morning",
+      "type": "featured_digest",
+      "article_ids": [
+        "https://vnexpress.net/thu-khoa-voi-cu-dup-diem-10-toan-5090614.html",
+        "https://vnexpress.net/thu-khoa-truong-chuyen-gianh-2-diem-10-toan-5090614.html",
+        "https://vnexpress.net/ket-qua-colombia-vs-bo-dao-nha-5090681.html",
+        "https://vnexpress.net/vi-sao-trung-tam-thanh-pho-thuong-nong-hon-vung-ven-5090650.html",
+        "https://vnexpress.net/my-tiep-tuc-khong-kich-iran-5090684.html",
+        "https://vnexpress.net/co-gai-duc-tim-duoc-tinh-yeu-khi-sang-viet-nam-chua-lanh-5087525.html",
+        "https://vnexpress.net/modric-lap-ky-luc-kien-tao-giup-croatia-di-tiep-o-world-cup-5090696.html",
+        "https://vnexpress.net/cach-tinh-chi-phi-ban-quyen-am-nhac-cho-cac-quan-ca-phe-nha-hang-5090526.html",
+        "https://vnexpress.net/jordan-vs-argentina-5090701.html",
+        "https://vnexpress.net/bac-si-bach-mai-co-so-ninh-binh-cuu-2-nguoi-dot-quy-trong-ngay-dau-mo-cua-5090688.html"
+      ],
+      "highlight_id": "https://vnexpress.net/bac-si-bach-mai-co-so-ninh-binh-cuu-2-nguoi-dot-quy-trong-ngay-dau-mo-cua-5090688.html"
     }
   ]
 }
