@@ -453,5 +453,31 @@
     "published_at": "Sun, 28 Jun 2026 21:40:06 +0700",
     "createAt": "2026-06-28T14:40:06.000Z",
     "thumbnail_blurhash": "LKH2QR00Te8w~qJVITR44.t8-UV?"
+  },
+  {
+    "id": "https://vnexpress.net/phim-kinh-di-viet-can-thoat-khoi-cong-thuc-giat-gan-5089410.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "'Phim kinh dị Việt cần thoát khỏi công thức giật gân'",
+    "description": "Giới chuyên môn cho rằng nhiều phim kinh dị Việt cần đổi mới cách kể chuyện thay vì lạm dụng các cảnh hù dọa.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/06/25/kinhdiviet-1782382918-4379-1782383440.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=TjPojo-UgxiLSsouHfWR2A",
+    "link": "https://vnexpress.net/phim-kinh-di-viet-can-thoat-khoi-cong-thuc-giat-gan-5089410.html",
+    "published_at": "Mon, 29 Jun 2026 00:00:00 +0700",
+    "createAt": "2026-06-28T17:00:00.000Z",
+    "thumbnail_blurhash": "L37d^200_4-=D$_38_yD9ss;IAjv"
+  },
+  {
+    "id": "https://vnexpress.net/ky-uc-tuoi-tho-qua-tranh-son-mai-5090736.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Ký ức tuổi thơ qua tranh sơn mài",
+    "description": "Sắc màu tuổi thơ với trò chơi múa lân, nhảy lò cò, thả thuyền giấy được tái hiện qua loạt tranh sơn mài của Tú Quyên.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/06/28/ky-uc-tuoi-tho-t-JPG-1782620647.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=EtMcuGSaJ_lY7M4rE757zw",
+    "link": "https://vnexpress.net/ky-uc-tuoi-tho-qua-tranh-son-mai-5090736.html",
+    "published_at": "Mon, 29 Jun 2026 00:00:00 +0700",
+    "createAt": "2026-06-28T17:00:00.000Z",
+    "thumbnail_blurhash": "L8Fg{^~oMewJI,,@$mkC-UI.56E3"
   }
 ]
