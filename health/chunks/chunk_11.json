@@ -284,5 +284,44 @@
     "published_at": "Sun, 28 Jun 2026 09:00:00 +0700",
     "createAt": "2026-06-28T02:00:00.000Z",
     "thumbnail_blurhash": "LQJ%%Q0e-@[t}sI.S~#mXBrqOqtP"
+  },
+  {
+    "id": "https://vnexpress.net/he-thong-y-te-phap-cham-nguong-vo-tran-vi-nang-nong-5090669.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Hệ thống y tế Pháp chạm ngưỡng vỡ trận vì nắng nóng",
+    "description": "Đối mặt đợt nắng nóng chưa từng có, các bệnh viện Pháp buộc phải kích hoạt kế hoạch khẩn cấp, hoãn mổ phiên và gồng mình điều trị cho hàng loạt ca tăng thân nhiệt trong phòng bệnh trên 30°C.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/28/phap2-1782586393-3790-1782587022.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Rh8ivkGsbOUAiItG1KtGSQ",
+    "link": "https://vnexpress.net/he-thong-y-te-phap-cham-nguong-vo-tran-vi-nang-nong-5090669.html",
+    "published_at": "Sun, 28 Jun 2026 09:45:52 +0700",
+    "createAt": "2026-06-28T02:45:52.000Z",
+    "thumbnail_blurhash": "LME{nTxu4nxu~qt8RjtR%MxaNGRj"
+  },
+  {
+    "id": "https://vnexpress.net/vi-sao-serotonin-giam-khien-ban-kho-ngu-5090584.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Vì sao serotonin giảm khiến bạn khó ngủ?",
+    "description": "Chấn thương tâm lý, thiếu chất, thay đổi nội tiết tố, lão hóa có thể làm suy giảm lượng serotonin trong cơ thể, dễ gây mất ngủ.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/27/432095078-n-1782548017-9209-1782548043.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=VI60DeCSKVkBQWTEATeHsw",
+    "link": "https://vnexpress.net/vi-sao-serotonin-giam-khien-ban-kho-ngu-5090584.html",
+    "published_at": "Sun, 28 Jun 2026 10:00:00 +0700",
+    "createAt": "2026-06-28T03:00:00.000Z",
+    "thumbnail_blurhash": "LKH2Dm%%El-i~qxuM|e-0Vt2%0oN"
+  },
+  {
+    "id": "https://vnexpress.net/4-dieu-can-biet-ve-tre-tu-ky-5090216.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "4 điều cần biết về trẻ tự kỷ",
+    "description": "Rối loạn phổ tự kỷ chưa có phương pháp chữa khỏi hoàn toàn, nhưng phát hiện và can thiệp sớm có thể giúp trẻ phát triển khả năng giao tiếp, tương tác xã hội.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/26/34dcab16-e2c1de2-b952e30b7a65c-5512-6813-1782451812.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=umesoSLHLR2IBZXflh1Cbw",
+    "link": "https://vnexpress.net/4-dieu-can-biet-ve-tre-tu-ky-5090216.html",
+    "published_at": "Sun, 28 Jun 2026 10:00:00 +0700",
+    "createAt": "2026-06-28T03:00:00.000Z",
+    "thumbnail_blurhash": "LEK,ssPSD~D+qIFZ5qH?_Nr=NrD%"
   }
 ]
