@@ -336,5 +336,44 @@
     "published_at": "Sun, 28 Jun 2026 17:00:28 +0700",
     "createAt": "2026-06-28T10:00:28.000Z",
     "thumbnail_blurhash": "L18E0eky~p-.00=:?a%g~X?wWBIr"
+  },
+  {
+    "id": "https://vnexpress.net/nhung-nguoi-uae-vo-mong-ve-ong-trump-5089650.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Những người UAE 'vỡ mộng' về ông Trump",
+    "description": "Thất vọng với quyết định tấn công Iran của ông Trump, nhiều người dân UAE từng yêu mến Tổng thống Mỹ giờ cảm thấy thất vọng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/25/imrs-1782360064-7179-1782360264.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=jGmgYJwGwBHVSw2kfWaK0Q",
+    "link": "https://vnexpress.net/nhung-nguoi-uae-vo-mong-ve-ong-trump-5089650.html",
+    "published_at": "Sun, 28 Jun 2026 19:00:00 +0700",
+    "createAt": "2026-06-28T12:00:00.000Z",
+    "thumbnail_blurhash": "L7DIRjRp00ND4T=u-@S%%LRjNeo~"
+  },
+  {
+    "id": "https://vnexpress.net/uav-nga-tan-cong-khien-tiem-kich-ukraine-chay-du-doi-5090820.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "UAV Nga tấn công khiến tiêm kích Ukraine cháy dữ dội",
+    "description": "Nga công bố video UAV Geran-4 tập kích sân bay quân sự ở tỉnh Mykolaiv, tuyên bố phá hủy 2 tiêm kích MiG-29 và nhiều phương tiện kỹ thuật.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/28/5563187178137269379a-178264071-9225-3548-1782641092.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=a6BaKKsLgUwdOwuHRNhZmg",
+    "link": "https://vnexpress.net/uav-nga-tan-cong-khien-tiem-kich-ukraine-chay-du-doi-5090820.html",
+    "published_at": "Sun, 28 Jun 2026 19:06:35 +0700",
+    "createAt": "2026-06-28T12:06:35.000Z",
+    "thumbnail_blurhash": "LdEyY{~V%0WA%gtRWVRjbbt7j]a#"
+  },
+  {
+    "id": "https://vnexpress.net/roi-may-bay-o-phap-11-nguoi-thiet-mang-5090846.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Rơi máy bay ở Pháp, 11 người thiệt mạng",
+    "description": "Ít nhất 11 người chết khi một máy bay dân sự, được cho là đang chở nhóm khách nhảy dù, rơi ở miền đông nước Pháp",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/28/xa-c-ma-y-bay-jpeg-1782647489-8037-1782647720.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=t4fsUSvLC6cYS7txnPoiXA",
+    "link": "https://vnexpress.net/roi-may-bay-o-phap-11-nguoi-thiet-mang-5090846.html",
+    "published_at": "Sun, 28 Jun 2026 19:38:52 +0700",
+    "createAt": "2026-06-28T12:38:52.000Z",
+    "thumbnail_blurhash": "L4Ci?Wt:nMt74TH;E4oc01D*%Nbv"
   }
 ]
