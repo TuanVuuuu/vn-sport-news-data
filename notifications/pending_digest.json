@@ -1,3 +1,56 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/tau-dien-duc-gian-doan-vi-nang-nong-nung-chay-nhua-duong-5091024.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Tàu điện Đức gián đoạn vì nắng nóng nung chảy nhựa đường",
+      "description": "Các tuyến tàu điện ở một số thành phố Đức ngừng hoạt động do nắng nóng liên tục khiến chất trám dưới đường ray chảy ra, vón cục.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/29/2-1782704762-5622-1782705314.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=Y3Aiyqx0naZTzT00ndtYsw",
+      "link": "https://vnexpress.net/tau-dien-duc-gian-doan-vi-nang-nong-nung-chay-nhua-duong-5091024.html",
+      "published_at": "Mon, 29 Jun 2026 11:45:06 +0700",
+      "createAt": "2026-06-29T04:45:06.000Z",
+      "thumbnail_blurhash": "LMDS{_I9$|x]_NIANHo#T1R5NIt7"
+    },
+    {
+      "id": "https://vnexpress.net/hang-quan-o-han-quoc-tu-choi-phuc-vu-hlv-sau-that-bai-tai-world-cup-5090930.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Hàng quán ở Hàn Quốc từ chối phục vụ HLV sau thất bại tại World Cup",
+      "description": "Làn sóng chỉ trích HLV Hong Myung-bo lan rộng khắp Hàn Quốc sau khi đội nhà bị loại sớm tại World Cup 2026, với việc nhiều hàng quán treo biển từ chối phục vụ nhà cầm quân này.",
+      "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/06/29/anh-man-hinh-luc-1782699344-3753-1782699483.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=r3WIuJrQz1TxuNSMillH3w",
+      "link": "https://vnexpress.net/hang-quan-o-han-quoc-tu-choi-phuc-vu-hlv-sau-that-bai-tai-world-cup-5090930.html",
+      "published_at": "Mon, 29 Jun 2026 11:47:47 +0700",
+      "createAt": "2026-06-29T04:47:47.000Z",
+      "thumbnail_blurhash": "LIK9[X~q1h?u02E1InWrIvofO;eT"
+    },
+    {
+      "id": "https://vnexpress.net/viet-nam-ghi-nhan-giao-dich-carbon-dau-tien-gia-136-000-dong-mot-tan-co2e-5091078.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Việt Nam ghi nhận giao dịch carbon đầu tiên, giá 136.000 đồng một tấn CO2e",
+      "description": "Sàn giao dịch carbon vừa chính thức vận hành ngày 29/6, với sản phẩm hạn ngạch phát thải khí nhà kính, giá giao dịch lên tới 136.000 đồng một tấn CO2e.",
+      "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/06/29/b593e943f9bb96fbd0abd3b66-jpeg-5094-6272-1782707333.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=NQBINVYSSsKnEHhc68VjHg",
+      "link": "https://vnexpress.net/viet-nam-ghi-nhan-giao-dich-carbon-dau-tien-gia-136-000-dong-mot-tan-co2e-5091078.html",
+      "published_at": "Mon, 29 Jun 2026 11:53:53 +0700",
+      "createAt": "2026-06-29T04:53:53.000Z",
+      "thumbnail_blurhash": "L7CP#2yA.7%M~T%1xtt5~9ROs;aL"
+    },
+    {
+      "id": "https://vnexpress.net/12-gio-tuyet-vong-tim-kiem-su-song-trong-dong-do-nat-o-venezuela-5090918.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "12 giờ tuyệt vọng tìm kiếm sự sống trong đống đổ nát ở Venezuela",
+      "description": "Giữa đống hoang tàn sau động đất, dù đã nỗ lực mò mẫm trong bóng tối để tìm người sống sót, đoàn của bác sĩ Medina đã phải thất vọng trở về.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/29/AP26180065270206-4482-1782707469.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ZriIVoJfJrlHlkLCKnzy5Q",
+      "link": "https://vnexpress.net/12-gio-tuyet-vong-tim-kiem-su-song-trong-dong-do-nat-o-venezuela-5090918.html",
+      "published_at": "Mon, 29 Jun 2026 12:07:31 +0700",
+      "createAt": "2026-06-29T05:07:31.000Z",
+      "thumbnail_blurhash": "LJAmuK~qxtaeIpIoIVM{R-RkRjad"
+    }
+  ]
 }

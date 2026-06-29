@@ -544,5 +544,31 @@
     "published_at": "Mon, 29 Jun 2026 11:45:06 +0700",
     "createAt": "2026-06-29T04:45:06.000Z",
     "thumbnail_blurhash": "LMDS{_I9$|x]_NIANHo#T1RONIt7"
+  },
+  {
+    "id": "https://vnexpress.net/12-gio-tuyet-vong-tim-kiem-su-song-trong-dong-do-nat-o-venezuela-5090918.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "12 giờ tuyệt vọng tìm kiếm sự sống trong đống đổ nát ở Venezuela",
+    "description": "Giữa đống hoang tàn sau động đất, dù đã nỗ lực mò mẫm trong bóng tối để tìm người sống sót, đoàn của bác sĩ Medina đã phải thất vọng trở về.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/29/AP26180065270206-4482-1782707469.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ZriIVoJfJrlHlkLCKnzy5Q",
+    "link": "https://vnexpress.net/12-gio-tuyet-vong-tim-kiem-su-song-trong-dong-do-nat-o-venezuela-5090918.html",
+    "published_at": "Mon, 29 Jun 2026 12:07:31 +0700",
+    "createAt": "2026-06-29T05:07:31.000Z",
+    "thumbnail_blurhash": "LJAmuK~qxtaeIpIoIVM{R-RkRjad"
+  },
+  {
+    "id": "https://vnexpress.net/kien-hang-hang-khong-trung-quoc-vi-doi-lich-bay-som-10-phut-5091057.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Kiện hãng hàng không Trung Quốc vì dời lịch bay sớm 10 phút",
+    "description": "Một sinh viên đại học đã thắng kiện hãng hàng không Hải Nam sau khi chuyến bay bị dời lịch sớm lên 10 phút.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/29/6205c1b5a310cdd3d82ce441-17827-4686-6756-1782708254.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=YA5jnPlNEEIlmh8KLo7xgg",
+    "link": "https://vnexpress.net/kien-hang-hang-khong-trung-quoc-vi-doi-lich-bay-som-10-phut-5091057.html",
+    "published_at": "Mon, 29 Jun 2026 12:10:18 +0700",
+    "createAt": "2026-06-29T05:10:18.000Z",
+    "thumbnail_blurhash": "LSFF:WXnIVoMY8V@t7bvNGxCbbWX"
   }
 ]
