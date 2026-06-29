@@ -1,6 +1,19 @@
 {
   "featured": [
     {
+      "id": "https://vnexpress.net/phim-kinh-di-viet-can-thoat-khoi-cong-thuc-giat-gan-5089410.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "'Phim kinh dị Việt cần thoát khỏi công thức giật gân'",
+      "description": "Giới chuyên môn cho rằng nhiều phim kinh dị Việt cần đổi mới cách kể chuyện thay vì lạm dụng các cảnh hù dọa.",
+      "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/06/25/kinhdiviet-1782382918-4379-1782383440.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=TjPojo-UgxiLSsouHfWR2A",
+      "link": "https://vnexpress.net/phim-kinh-di-viet-can-thoat-khoi-cong-thuc-giat-gan-5089410.html",
+      "published_at": "Mon, 29 Jun 2026 00:00:00 +0700",
+      "createAt": "2026-06-28T17:00:00.000Z",
+      "thumbnail_blurhash": "L37d^200_4-=D$_38_yD9ss;IAjv"
+    },
+    {
       "id": "https://vnexpress.net/doi-duy-nhat-bi-loai-du-bat-bai-o-world-cup-2026-5090881.html",
       "category_id": "featured",
       "category_name": "Tin nổi bật",
@@ -12,6 +25,19 @@
       "published_at": "Mon, 29 Jun 2026 04:00:00 +0700",
       "createAt": "2026-06-28T21:00:00.000Z",
       "thumbnail_blurhash": "LAC?_Ot~Bh.AYht+%2wM0yo#oyXe"
+    },
+    {
+      "id": "https://vnexpress.net/vi-sao-co-32-doi-nhung-goi-la-vong-1-16-o-world-cup-5090790.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Vì sao có 32 đội nhưng gọi là vòng 1/16 ở World Cup?",
+      "description": "Cách gọi vòng 1/16 hay 1/8 của các giải đấu loại trực tiếp như World Cup không dựa trên số đội, mà dựa trên việc vòng đấu đó là mấy phần của chung kết.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/06/28/messi-a-n-mu-ng-ba-n-178263326-5978-5289-1782633406.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=A53dpTV5MGJv5ymwmUD7Vg",
+      "link": "https://vnexpress.net/vi-sao-co-32-doi-nhung-goi-la-vong-1-16-o-world-cup-5090790.html",
+      "published_at": "Mon, 29 Jun 2026 05:55:55 +0700",
+      "createAt": "2026-06-28T22:55:55.000Z",
+      "thumbnail_blurhash": "L8BMoho$Irw}~8s*ITS1IWoNxwa~"
     },
     {
       "id": "https://vnexpress.net/cau-hoc-tro-vung-bien-do-thu-khoa-voi-3-diem-10-5090543.html",
@@ -103,6 +129,45 @@
       "published_at": "Mon, 29 Jun 2026 07:44:34 +0700",
       "createAt": "2026-06-29T00:44:34.000Z",
       "thumbnail_blurhash": "L|H{E0IUkCof_4RjaykCS4ofWBay"
+    },
+    {
+      "id": "https://vnexpress.net/hai-cuu-thieu-tuong-xin-giam-an-trong-vu-hau-phao-ban-dat-san-bay-5090929.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Hai cựu thiếu tướng xin giảm án trong vụ Hậu 'Pháo' bán đất sân bay",
+      "description": "Năm tháng sau khi bị tuyên 2 năm 6 tháng tù, hai cựu thiếu tướng quân đội được tòa phúc thẩm xét kháng cáo xin giảm án trong vụ án Hậu 'Pháo' bán 63 ha đất sân bay Nha Trang.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/29/1-1782696106-9711-1782696180.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Go2VOaVABgDSn1H0OHSZvA",
+      "link": "https://vnexpress.net/hai-cuu-thieu-tuong-xin-giam-an-trong-vu-hau-phao-ban-dat-san-bay-5090929.html",
+      "published_at": "Mon, 29 Jun 2026 08:28:38 +0700",
+      "createAt": "2026-06-29T01:28:38.000Z",
+      "thumbnail_blurhash": "LuI5Spofxvxu~qt7WBt7tRoeWBof"
+    },
+    {
+      "id": "https://vnexpress.net/who-canh-bao-chau-au-nong-len-nhanh-nhat-trai-dat-5090919.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "WHO cảnh báo châu Âu 'nóng lên nhanh nhất Trái Đất'",
+      "description": "Tổng giám đốc WHO cảnh báo nhà cửa, văn phòng và trường học không được xây dựng phù hợp để ứng phó nắng nóng đang khắc nghiệt hơn nhanh chóng.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/29/cha-u-a-u-1782694776-3182-1782694827.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=kv878ks5cFdtfGDwbvlCWQ",
+      "link": "https://vnexpress.net/who-canh-bao-chau-au-nong-len-nhanh-nhat-trai-dat-5090919.html",
+      "published_at": "Mon, 29 Jun 2026 08:54:46 +0700",
+      "createAt": "2026-06-29T01:54:46.000Z",
+      "thumbnail_blurhash": "LAC6P=pJI;NG~V%fS2xH%$?Iadiw"
+    },
+    {
+      "id": "https://vnexpress.net/noi-so-mua-world-cup-cua-nhung-ba-vo-co-chong-thich-do-den-5089561.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Nỗi sợ mùa World Cup của những bà vợ có chồng thích đỏ đen",
+      "description": "Gánh khoản nợ gần một tỷ đồng từ kỳ Euro trước do chồng cá độ bóng đá, mùa World Cup này, chị Lệ Hà, 45 tuổi, biến nhà thành \"trại quản thúc\".",
+      "thumbnail_url": "https://vcdn1-giadinh.vnecdn.net/2026/06/29/a-nh-ma-n-hi-nh-lu-1782700581-3930-1782700647.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=rubu0-FROnd3N97or0gvlw",
+      "link": "https://vnexpress.net/noi-so-mua-world-cup-cua-nhung-ba-vo-co-chong-thich-do-den-5089561.html",
+      "published_at": "Mon, 29 Jun 2026 09:37:46 +0700",
+      "createAt": "2026-06-29T02:37:46.000Z",
+      "thumbnail_blurhash": "LMFO_qxtxW-:_Nxu%0xt?Ht8bDof"
     }
   ]
 }
