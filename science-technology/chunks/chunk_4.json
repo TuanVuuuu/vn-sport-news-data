@@ -1064,5 +1064,31 @@
     "published_at": "Mon, 29 Jun 2026 09:00:00 +0700",
     "createAt": "2026-06-29T02:00:00.000Z",
     "thumbnail_blurhash": "L33ldSM|mo%z.mRQQ.x[bdofk9V["
+  },
+  {
+    "id": "https://vnexpress.net/khoanh-khac-deepseek-tiep-theo-cua-trung-quoc-5090683.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "'Khoảnh khắc DeepSeek tiếp theo' của Trung Quốc",
+    "description": "GLM-5.2 của Zhipu AI được đánh giá có hiệu năng gần tương đương mô hình OpenAI, Anthropic và Google trên các bảng xếp hạng lập trình, trong khi chi phí phát triển rẻ hơn.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/28/zai-1782601293-3760-1782601364.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=bhtejj-q8SSdfzCkKALZyQ",
+    "link": "https://vnexpress.net/khoanh-khac-deepseek-tiep-theo-cua-trung-quoc-5090683.html",
+    "published_at": "Mon, 29 Jun 2026 10:00:00 +0700",
+    "createAt": "2026-06-29T03:00:00.000Z",
+    "thumbnail_blurhash": "LSHeh2?b00oM~qbHD%xu00IU%3t7"
+  },
+  {
+    "id": "https://vnexpress.net/nguy-co-mat-tien-tu-trang-web-world-cup-2026-gia-5090927.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Nguy cơ mất tiền từ trang web World Cup 2026 giả",
+    "description": "Người tìm kiếm website xem miễn phí World Cup 2026 trở thành mục tiêu của tội phạm mạng, với hàng trăm trang giả được tạo ra để đánh cắp tiền, thông tin cá nhân.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/29/5d4f1eb5e4e-acebcd652f4e592-17-8230-8155-1782698593.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=4brIx3XOLt7ZflQ1vNciAQ",
+    "link": "https://vnexpress.net/nguy-co-mat-tien-tu-trang-web-world-cup-2026-gia-5090927.html",
+    "published_at": "Mon, 29 Jun 2026 10:24:07 +0700",
+    "createAt": "2026-06-29T03:24:07.000Z",
+    "thumbnail_blurhash": "LAGTHK-t009a0NWE^+of01WB^+s:"
   }
 ]
