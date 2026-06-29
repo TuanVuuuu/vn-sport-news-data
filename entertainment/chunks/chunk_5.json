@@ -583,5 +583,31 @@
     "published_at": "Mon, 29 Jun 2026 22:14:32 +0700",
     "createAt": "2026-06-29T15:14:32.000Z",
     "thumbnail_blurhash": "LjP?gqpJIoDi~qM{RjoeX.VYRPo}"
+  },
+  {
+    "id": "https://vnexpress.net/phim-han-lot-xac-trong-ky-nguyen-phat-truc-tuyen-5088402.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Phim Hàn 'lột xác' trong kỷ nguyên phát trực tuyến",
+    "description": "Sự phát triển của nền tảng phát trực tuyến (OTT) khiến các nhà làm phim Hàn thử nghiệm đề tài mới, tạo nên nhiều hiện tượng gây sốt toàn cầu như \"Squid Game\".",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/06/22/squidgame-unitx6-1782099205-1343-1782099319.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Qsuo4OUlhi9-G_X2ltxdrg",
+    "link": "https://vnexpress.net/phim-han-lot-xac-trong-ky-nguyen-phat-truc-tuyen-5088402.html",
+    "published_at": "Tue, 30 Jun 2026 00:00:00 +0700",
+    "createAt": "2026-06-29T17:00:00.000Z",
+    "thumbnail_blurhash": "LtI$KLWBo#WB~XxbtRWBxut7NGoL"
+  },
+  {
+    "id": "https://vnexpress.net/hong-anh-tu-nguoi-dep-tay-do-den-ngoi-sao-dien-anh-5090873.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Hồng Ánh từ 'người đẹp Tây Đô' đến ngôi sao điện ảnh",
+    "description": "Diễn viên Hồng Ánh vụt sáng ở tuổi 18 nhờ phim \"Người đẹp Tây Đô\", trở thành ngôi sao điện ảnh sau 30 năm với loạt vai ghi dấu ấn.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/06/29/hong-anh-t-1782728907.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=-bldt1SGiZoTyJJrppBYag",
+    "link": "https://vnexpress.net/hong-anh-tu-nguoi-dep-tay-do-den-ngoi-sao-dien-anh-5090873.html",
+    "published_at": "Tue, 30 Jun 2026 00:10:00 +0700",
+    "createAt": "2026-06-29T17:10:00.000Z",
+    "thumbnail_blurhash": "LDJQ_=N9?aR#TAxw-nVvlnIrIosB"
   }
 ]
