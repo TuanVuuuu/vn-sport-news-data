@@ -1,3 +1,69 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/doi-duy-nhat-bi-loai-du-bat-bai-o-world-cup-2026-5090881.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Đội duy nhất bị loại dù bất bại ở World Cup 2026",
+      "description": "Iran bị loại cay đắng ở World Cup 2026, do chỉ là đội tuyển xếp thứ ba có thành tích tốt thứ chín.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/06/28/ap2617812025960586921782531665-3016-5139-1782662058.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=8pLjxjarKxneZCNnt957Wg",
+      "link": "https://vnexpress.net/doi-duy-nhat-bi-loai-du-bat-bai-o-world-cup-2026-5090881.html",
+      "published_at": "Mon, 29 Jun 2026 04:00:00 +0700",
+      "createAt": "2026-06-28T21:00:00.000Z",
+      "thumbnail_blurhash": "LAC?_Ot~Bh.AYht+%2wM0yo#oyXe"
+    },
+    {
+      "id": "https://vnexpress.net/khoang-trong-khien-nguoi-gia-de-sap-bay-lua-dao-5090033.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Khoảng trống khiến người già dễ sập bẫy lừa đảo",
+      "description": "Sau một cuộc điện thoại mời dự hội thảo và gần 6 tiếng được tư vấn, bà Vũ Thị Thanh trút toàn bộ tiền bán nhà và tích góp cả đời mua 5 hợp đồng kỳ nghỉ.",
+      "thumbnail_url": "https://vcdn1-giadinh.vnecdn.net/2026/06/29/z7977055502241bd07448cef6144-1-9469-5742-1782666396.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=jkpfKG4QlUqHuvQut-yEZg",
+      "link": "https://vnexpress.net/khoang-trong-khien-nguoi-gia-de-sap-bay-lua-dao-5090033.html",
+      "published_at": "Mon, 29 Jun 2026 06:19:00 +0700",
+      "createAt": "2026-06-28T23:19:00.000Z",
+      "thumbnail_blurhash": "LGJt^?X:Vs~Vks01oyM_4T8^%Mxu"
+    },
+    {
+      "id": "https://vnexpress.net/nguoi-viet-o-phap-xoay-xo-voi-nang-nong-ky-luc-5090894.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Người Việt ở Pháp xoay xở với nắng nóng kỷ lục",
+      "description": "Chống chọi cái nóng trên 40 độ C, chị Ngọc Mỹ, chủ cho thuê căn hộ ở Paris, dậy sớm xếp hàng vẫn không kịp mua điều hòa vì cháy hàng sau 20 phút.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/29/z79835483548210606ac8504625a18-5563-1432-1782688449.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=FzRe2h8aeWwDxy4HfSVyeQ",
+      "link": "https://vnexpress.net/nguoi-viet-o-phap-xoay-xo-voi-nang-nong-ky-luc-5090894.html",
+      "published_at": "Mon, 29 Jun 2026 06:24:57 +0700",
+      "createAt": "2026-06-28T23:24:57.000Z",
+      "thumbnail_blurhash": "LHMi4e8I5T}S]jE*s.M|4o4o4:kX"
+    },
+    {
+      "id": "https://vnexpress.net/canada-lan-dau-thang-tran-knock-out-world-cup-5090893.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Canada lần đầu thắng trận knock-out World Cup",
+      "description": "Tiền vệ 29 tuổi Stephen Eustaquio tung cú sút đẳng cấp ở phút bù, giúp Canada hạ Nam Phi 1-0 ở trận đầu tiên của vòng 1/16 World Cup 2026.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/06/29/7952567ba0bc4b5e9f240ddea8dead-9412-2385-1782688352.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=bZrUeObLFx66xr09Imdh4A",
+      "link": "https://vnexpress.net/canada-lan-dau-thang-tran-knock-out-world-cup-5090893.html",
+      "published_at": "Mon, 29 Jun 2026 06:38:03 +0700",
+      "createAt": "2026-06-28T23:38:03.000Z",
+      "thumbnail_blurhash": "LJE2U=oz-?tR}snhnMWAi[rsE0Ri"
+    },
+    {
+      "id": "https://vnexpress.net/giao-su-bac-si-nguyen-dinh-hoi-qua-doi-5090900.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Giáo sư, bác sĩ Nguyễn Đình Hối qua đời",
+      "description": "GS.TS.BS Nguyễn Đình Hối, nguyên Hiệu trưởng ĐH Y Dược TP HCM, người đặt nền móng mô hình Trường - Viện tại Việt Nam và là giám đốc đầu tiên Bệnh viện ĐH Y Dược TP HCM, qua đời rạng sáng 29/6, hưởng thọ 92 tuổi.",
+      "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/29/screenshot-at-1782692280-1996-1782692324.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=mwgpTzPYffVLBpku-XYXKg",
+      "link": "https://vnexpress.net/giao-su-bac-si-nguyen-dinh-hoi-qua-doi-5090900.html",
+      "published_at": "Mon, 29 Jun 2026 07:24:32 +0700",
+      "createAt": "2026-06-29T00:24:32.000Z",
+      "thumbnail_blurhash": "LBLzdC040000vcn+~q?a;]-%?c?b"
+    }
+  ]
 }
