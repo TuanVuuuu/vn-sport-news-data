@@ -1233,5 +1233,44 @@
     "published_at": "Mon, 29 Jun 2026 11:27:07 +0700",
     "createAt": "2026-06-29T04:27:07.000Z",
     "thumbnail_blurhash": "LJFE=hxDOZxa~CsoR+ofAbkCs8j]"
+  },
+  {
+    "id": "https://vnexpress.net/chinh-phu-muon-tang-tien-gui-cua-kho-bac-tai-ngan-hang-5091002.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Chính phủ muốn tăng tiền gửi của Kho bạc tại ngân hàng",
+    "description": "Chính phủ giao nghiên cứu nâng tỷ lệ tiền gửi của Kho bạc Nhà nước tại các ngân hàng nhằm bổ sung thanh khoản cho hệ thống.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/06/29/huy-1782702586-6278-1782703056.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=NkBzy1ZqdQfoHrG41vG7FA",
+    "link": "https://vnexpress.net/chinh-phu-muon-tang-tien-gui-cua-kho-bac-tai-ngan-hang-5091002.html",
+    "published_at": "Mon, 29 Jun 2026 11:45:21 +0700",
+    "createAt": "2026-06-29T04:45:21.000Z",
+    "thumbnail_blurhash": "LIIz#OuiEh:kyB=}RkE1yD$jsDK3"
+  },
+  {
+    "id": "https://vnexpress.net/viet-nam-ghi-nhan-giao-dich-carbon-dau-tien-gia-136-000-dong-mot-tan-co2e-5091078.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Việt Nam ghi nhận giao dịch carbon đầu tiên, giá 136.000 đồng một tấn CO2e",
+    "description": "Sàn giao dịch carbon vừa chính thức vận hành ngày 29/6, với sản phẩm hạn ngạch phát thải khí nhà kính, giá giao dịch lên tới 136.000 đồng một tấn CO2e.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/06/29/b593e943f9bb96fbd0abd3b66-jpeg-5094-6272-1782707333.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=NQBINVYSSsKnEHhc68VjHg",
+    "link": "https://vnexpress.net/viet-nam-ghi-nhan-giao-dich-carbon-dau-tien-gia-136-000-dong-mot-tan-co2e-5091078.html",
+    "published_at": "Mon, 29 Jun 2026 11:53:53 +0700",
+    "createAt": "2026-06-29T04:53:53.000Z",
+    "thumbnail_blurhash": "L7CP#2yA.7%M~T%1xtt5~9ROs;aL"
+  },
+  {
+    "id": "https://vnexpress.net/my-mua-vai-thieu-viet-gap-doi-cung-ky-5091059.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Mỹ mua vải thiều Việt gấp đôi cùng kỳ",
+    "description": "Mỹ chi hơn gấp đôi tiền mua vải Việt trong 5 tháng đầu năm, với kim ngạch 1,26 triệu USD, tăng 125% so với cùng kỳ và là thị trường xuất khẩu lớn thứ hai sau Trung Quốc.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/06/29/vai-bac-giang-ngoc-thanh-jpeg-4019-1666-1782707716.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=DdoN-tC3o5O7tKkapRZ2Hg",
+    "link": "https://vnexpress.net/my-mua-vai-thieu-viet-gap-doi-cung-ky-5091059.html",
+    "published_at": "Mon, 29 Jun 2026 12:03:52 +0700",
+    "createAt": "2026-06-29T05:03:52.000Z",
+    "thumbnail_blurhash": "LDBydH%LTJI:y=cEw}M|-=x]NIen"
   }
 ]
