@@ -1038,5 +1038,31 @@
     "published_at": "Mon, 29 Jun 2026 19:30:00 +0700",
     "createAt": "2026-06-29T12:30:00.000Z",
     "thumbnail_blurhash": "LfIF6;j[Ioof_4j[xus:r]jtV@j["
+  },
+  {
+    "id": "https://vnexpress.net/thu-dam-moi-ngay-co-gay-suy-than-5090495.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Thủ dâm mỗi ngày có gây suy thận?",
+    "description": "Thủ dâm mỗi ngày có ảnh hưởng đến thận và suy giảm phong độ nam giới không, thưa bác sĩ?(Hoàng, 25 tuổi, Hà Nội).",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/27/healthcare-1782531158-7649-1782531168.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=i1NN0tcYl7Tmp8urFTk_1g",
+    "link": "https://vnexpress.net/thu-dam-moi-ngay-co-gay-suy-than-5090495.html",
+    "published_at": "Tue, 30 Jun 2026 00:03:00 +0700",
+    "createAt": "2026-06-29T17:03:00.000Z",
+    "thumbnail_blurhash": "LjPjAR-TM{t7_N%Mofxukqt8RPax"
+  },
+  {
+    "id": "https://vnexpress.net/ung-thu-phoi-co-the-di-can-den-dau-5088959.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Ung thư phổi có thể di căn đến đâu?",
+    "description": "Ung thư phổi thường di căn đến hạch bạch huyết và xương, trường hợp ít gặp hơn là dạ dày, thận, mắt.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/24/chatgpt-image-jun-am-178227089-2713-5803-1782270944.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=lcQgbRsdsAeUx9r_A02nCQ",
+    "link": "https://vnexpress.net/ung-thu-phoi-co-the-di-can-den-dau-5088959.html",
+    "published_at": "Tue, 30 Jun 2026 01:00:00 +0700",
+    "createAt": "2026-06-29T18:00:00.000Z",
+    "thumbnail_blurhash": "LPRMG8%LyX%M_NR*x]xux]t7RPV["
   }
 ]
