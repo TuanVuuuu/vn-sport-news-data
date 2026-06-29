@@ -713,5 +713,44 @@
     "published_at": "Mon, 29 Jun 2026 10:27:23 +0700",
     "createAt": "2026-06-29T03:27:23.000Z",
     "thumbnail_blurhash": "LXJQ.y~qPBx]IAnNRPX9I;nOV@Ip"
+  },
+  {
+    "id": "https://vnexpress.net/10-nguoi-nghi-ngo-doc-thuc-pham-trong-chuyen-du-lich-5090997.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "10 người nghi ngộ độc thực phẩm trong chuyến du lịch",
+    "description": "10 người vào Bệnh viện Đa khoa Tâm Anh Hà Nội với triệu chứng đau bụng, tiêu chảy, bác sĩ nghi ngộ độc thực phẩm.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/29/cap-cuu-ngo-doc-thuc-pham-sau-6333-8721-1782701293.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=J0NX-dJzQMsdz573GebnNw",
+    "link": "https://vnexpress.net/10-nguoi-nghi-ngo-doc-thuc-pham-trong-chuyen-du-lich-5090997.html",
+    "published_at": "Mon, 29 Jun 2026 10:00:00 +0700",
+    "createAt": "2026-06-29T03:00:00.000Z",
+    "thumbnail_blurhash": "LCK-,*?E00?H~l?v_4Ri8^%M-:x^"
+  },
+  {
+    "id": "https://vnexpress.net/4-sai-lam-an-uong-tap-luyen-co-the-gay-tang-mo-mau-5090994.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "4 sai lầm ăn uống, tập luyện có thể gây tăng mỡ máu",
+    "description": "Ăn ít chất béo, thừa đường và tinh bột, thực đơn mất cân đối trong thời gian dài là những nguyên nhân có thể làm tăng mỡ máu.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/29/image001-1782700893-6060-1782700985.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=c1-rkZpU5ff6lz3Vfwz0Vw",
+    "link": "https://vnexpress.net/4-sai-lam-an-uong-tap-luyen-co-the-gay-tang-mo-mau-5090994.html",
+    "published_at": "Mon, 29 Jun 2026 10:30:00 +0700",
+    "createAt": "2026-06-29T03:30:00.000Z",
+    "thumbnail_blurhash": "L8FN-p|4[1U^3#E1C5I]0K5P?GNf"
+  },
+  {
+    "id": "https://vnexpress.net/tu-australia-ve-viet-nam-phau-thuat-bang-robot-cat-tu-cung-5090902.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Từ Australia về Việt Nam phẫu thuật bằng robot cắt tử cung",
+    "description": "Chị Hạnh, 47 tuổi, ngụ Australia, u xơ tử cung gây biến chứng rong kinh suốt 6 năm, nay về TP HCM phẫu thuật nội soi robot cắt tử cung.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/29/image003-1782691251-9025-1782691330.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=qIK8cuPP7FcywvzbnWey0A",
+    "link": "https://vnexpress.net/tu-australia-ve-viet-nam-phau-thuat-bang-robot-cat-tu-cung-5090902.html",
+    "published_at": "Mon, 29 Jun 2026 11:00:00 +0700",
+    "createAt": "2026-06-29T04:00:00.000Z",
+    "thumbnail_blurhash": "LCLXY_U|ER.T%{OtpKMwD#9ZoFSL"
   }
 ]
