@@ -726,5 +726,31 @@
     "published_at": "Mon, 29 Jun 2026 11:37:28 +0700",
     "createAt": "2026-06-29T04:37:28.000Z",
     "thumbnail_blurhash": "LPDLp7~CwJKO?d=yoeRj?I%3azNa"
+  },
+  {
+    "id": "https://vnexpress.net/ford-viet-nam-trieu-hoi-ranger-everest-sua-loi-can-gat-mua-5090892.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Ford Việt Nam triệu hồi Ranger, Everest sửa lỗi cần gạt mưa",
+    "description": "Trên các xe thuộc diện ảnh hưởng, cần gạt mưa có thể không hoạt động, nước rửa kính yếu hoặc phun liên tục.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/29/01everesthanhtrinh-1782689296-7891-1782689608.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=rfLvr8r2LsmN9OCk5yUB_w",
+    "link": "https://vnexpress.net/ford-viet-nam-trieu-hoi-ranger-everest-sua-loi-can-gat-mua-5090892.html",
+    "published_at": "Mon, 29 Jun 2026 08:44:00 +0700",
+    "createAt": "2026-06-29T01:44:00.000Z",
+    "thumbnail_blurhash": "L5B:sVwM9s.4C7ozoKNG_Htln6r["
+  },
+  {
+    "id": "https://vnexpress.net/con-leo-treo-lam-xuoc-sieu-xe-bo-me-khong-muon-den-5090975.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Con leo trèo làm xước siêu xe, bố mẹ không muốn đền",
+    "description": "Bốn đứa trẻ biến chiếc Ferrari làm cầu trượt, nhưng các bậc phụ huynh chỉ muốn chi vài trăm tệ bồi thường cho các vết xước.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/29/Ferrari4-1782705801-6161-1782710454.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=nOIN9mEl_YV86Z1nRmpqKw",
+    "link": "https://vnexpress.net/con-leo-treo-lam-xuoc-sieu-xe-bo-me-khong-muon-den-5090975.html",
+    "published_at": "Mon, 29 Jun 2026 14:11:42 +0700",
+    "createAt": "2026-06-29T07:11:42.000Z",
+    "thumbnail_blurhash": "LAEBs%*0O]P9_37eQ.X60$8_+awO"
   }
 ]
