@@ -1,6 +1,32 @@
 {
   "featured": [
     {
+      "id": "https://vnexpress.net/bo-chinh-tri-yeu-cau-sua-chinh-sach-hinh-su-linh-vuc-kinh-te-cong-nghe-5091026.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Bộ Chính trị yêu cầu sửa chính sách hình sự lĩnh vực kinh tế, công nghệ",
+      "description": "Bộ Chính trị yêu cầu sửa đổi chính sách hình sự trong lĩnh vực kinh tế, khoa học, công nghệ theo hướng giảm áp dụng hình phạt tù, tăng chế tài kinh tế để khuyến khích phát triển.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/29/dong3-1782704891-8109-1782704918.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=76A7ZX-_eLPz7EHOA7EVeQ",
+      "link": "https://vnexpress.net/bo-chinh-tri-yeu-cau-sua-chinh-sach-hinh-su-linh-vuc-kinh-te-cong-nghe-5091026.html",
+      "published_at": "Mon, 29 Jun 2026 10:56:39 +0700",
+      "createAt": "2026-06-29T03:56:39.000Z",
+      "thumbnail_blurhash": "LiMQUx_L.6I_~VNfXAjFkFWBt6W9"
+    },
+    {
+      "id": "https://vnexpress.net/nhung-dia-phuong-can-tang-truong-kinh-te-cao-nhat-den-2030-5090956.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Những địa phương cần tăng trưởng kinh tế cao nhất đến 2030",
+      "description": "12 địa phương được Chính phủ giao mục tiêu tăng trưởng GRDP ít nhất 11%, trong đó, Hải Phòng cao nhất khi cần phấn đấu đạt 14%.",
+      "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/06/29/z7967024979367f08b13c1b3791e9d-2798-7217-1782705197.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=e9Enzp3oGiwo5jUhqLl2kw",
+      "link": "https://vnexpress.net/nhung-dia-phuong-can-tang-truong-kinh-te-cao-nhat-den-2030-5090956.html",
+      "published_at": "Mon, 29 Jun 2026 11:27:07 +0700",
+      "createAt": "2026-06-29T04:27:07.000Z",
+      "thumbnail_blurhash": "LJFE=hxDOZxa~CsoR+ofAbkCs8j]"
+    },
+    {
       "id": "https://vnexpress.net/tau-dien-duc-gian-doan-vi-nang-nong-nung-chay-nhua-duong-5091024.html",
       "category_id": "featured",
       "category_name": "Tin nổi bật",
