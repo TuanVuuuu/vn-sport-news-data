@@ -1,6 +1,19 @@
 {
   "featured": [
     {
+      "id": "https://vnexpress.net/10-ban-thang-dep-nhat-vong-bang-world-cup-2026-5091110.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "10 bàn thắng đẹp nhất vòng bảng World Cup 2026",
+      "description": "Lionel Messi, Kylian Mbappe và Ousmane Dembele đều để lại dấu ấn là những tuyệt phẩm sút xa ở vòng bảng World Cup 2026.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/06/29/ap261777332542141-1782715861-3114-1782715888.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Z9A8Crc1XhcbJLSnPgcZ5A",
+      "link": "https://vnexpress.net/10-ban-thang-dep-nhat-vong-bang-world-cup-2026-5091110.html",
+      "published_at": "Mon, 29 Jun 2026 14:49:31 +0700",
+      "createAt": "2026-06-29T07:49:31.000Z",
+      "thumbnail_blurhash": "L8Fs6@4.%24THo$-RO?J00~UIT%e"
+    },
+    {
       "id": "https://vnexpress.net/troussier-nhat-ban-se-lam-nen-bat-ngo-truoc-brazil-5091186.html",
       "category_id": "featured",
       "category_name": "Tin nổi bật",
@@ -90,6 +103,58 @@
       "published_at": "Mon, 29 Jun 2026 18:33:16 +0700",
       "createAt": "2026-06-29T11:33:16.000Z",
       "thumbnail_blurhash": "LPLXSv$$IVo#~oM{tRW?4TE2aJf,"
+    },
+    {
+      "id": "https://vnexpress.net/hang-nghin-nguoi-xem-sa-ban-quy-hoach-ha-noi-tam-nhin-100-nam-5091247.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Hàng nghìn người xem sa bàn quy hoạch Hà Nội tầm nhìn 100 năm",
+      "description": "Chiều 29/6, Triển lãm Quy hoạch tổng thể Thủ đô tầm nhìn 100 năm tại Bảo tàng Hà Nội thu hút hàng nghìn người dân đến tham quan, tra cứu thông tin và tìm hiểu định hướng phát triển của thành phố.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/29/huy-copy-1782728764.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=BpxoYqEQhqKeKMMua7gUkg",
+      "link": "https://vnexpress.net/hang-nghin-nguoi-xem-sa-ban-quy-hoach-ha-noi-tam-nhin-100-nam-5091247.html",
+      "published_at": "Mon, 29 Jun 2026 19:17:03 +0700",
+      "createAt": "2026-06-29T12:17:03.000Z",
+      "thumbnail_blurhash": "LSC@D^tP8#aP~podD+a$z}jGTXX6"
+    },
+    {
+      "id": "https://vnexpress.net/tuong-quan-truoc-tran-brazil-nhat-ban-5091301.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Tương quan trước trận Brazil - Nhật Bản",
+      "description": "Brazil chạm trán Nhật Bản ở vòng 1/16 World Cup 2026, trong bối cảnh khoảng cách trình độ giữa hai nền bóng đá được thu hẹp đáng kể từ nhiều năm qua.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/06/29/Nhat-Brazil-1782734226.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=bxKtwouFKKvercjXC00uUg",
+      "link": "https://vnexpress.net/tuong-quan-truoc-tran-brazil-nhat-ban-5091301.html",
+      "published_at": "Mon, 29 Jun 2026 19:25:57 +0700",
+      "createAt": "2026-06-29T12:25:57.000Z",
+      "thumbnail_blurhash": "LPI=3?IMIX?Z~E?ZoeRksY%Jt2M}"
+    },
+    {
+      "id": "https://vnexpress.net/diem-bat-dong-co-the-thieu-rui-thoa-thuan-my-iran-5090920.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Điểm bất đồng có thể thiêu rụi thỏa thuận Mỹ - Iran",
+      "description": "Bất đồng giữa Mỹ và Iran về cách diễn giải điều khoản liên quan eo biển Hormuz nguy cơ trở thành mồi lửa có thể thiêu rụi toàn bộ bản ghi nhớ mới đạt được.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/29/ap26179328845342-1782707700-9250-1782709080.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=CAutUMZe1qMLS6Ee5o3ijw",
+      "link": "https://vnexpress.net/diem-bat-dong-co-the-thieu-rui-thoa-thuan-my-iran-5090920.html",
+      "published_at": "Mon, 29 Jun 2026 20:00:00 +0700",
+      "createAt": "2026-06-29T13:00:00.000Z",
+      "thumbnail_blurhash": "LPEVg2%MOY%f~WaeNwt7tRM{oJWC"
+    },
+    {
+      "id": "https://vnexpress.net/no-sung-o-duc-it-nhat-5-nguoi-chet-5091297.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Nổ súng ở Đức, ít nhất 5 người chết",
+      "description": "Vụ nổ súng hiếm hoi xảy ra ở thành phố Stade, miền bắc Đức, khiến ít nhất 5 người thiệt mạng, chưa rõ động cơ của nghi phạm.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/29/downloadt192422-1782735896-6933-1782738005.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=GYu578INJ4yventuQ3ztTQ",
+      "link": "https://vnexpress.net/no-sung-o-duc-it-nhat-5-nguoi-chet-5091297.html",
+      "published_at": "Mon, 29 Jun 2026 20:06:03 +0700",
+      "createAt": "2026-06-29T13:06:03.000Z",
+      "thumbnail_blurhash": "LKF5$|=|otT0}tn6WEsq#ls$RktO"
     }
   ]
 }
