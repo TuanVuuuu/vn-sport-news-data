@@ -1194,5 +1194,31 @@
     "published_at": "Mon, 29 Jun 2026 09:01:48 +0700",
     "createAt": "2026-06-29T02:01:48.000Z",
     "thumbnail_blurhash": "LMI#Gh9Y%gog~VWCSiWA$djYtQxu"
+  },
+  {
+    "id": "https://vnexpress.net/lam-phat-iran-len-gan-90-5090938.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Lạm phát Iran lên gần 90%",
+    "description": "Chiến sự khiến lạm phát của Iran tăng tốc, từ 68% hồi tháng 2 lên gần 90% hiện tại.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/06/29/screenshot-1782701880-7548-1782702039.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=kqdMHtv0aAhYDhM9M-Drng",
+    "link": "https://vnexpress.net/lam-phat-iran-len-gan-90-5090938.html",
+    "published_at": "Mon, 29 Jun 2026 10:02:46 +0700",
+    "createAt": "2026-06-29T03:02:46.000Z",
+    "thumbnail_blurhash": "L6BV@P00}+yF*0Z#sQb{0m$x57tS"
+  },
+  {
+    "id": "https://vnexpress.net/co-nen-ban-bot-danh-muc-de-chuyen-sang-co-phieu-dang-vao-song-5091006.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Có nên bán bớt danh mục để chuyển sang cổ phiếu đang 'vào sóng'?",
+    "description": "Chuyên gia khuyên cần phân biệt giá cổ phiếu tăng nhờ nội lực của doanh nghiệp hay do dòng tiền đầu cơ, để tránh rơi vào vùng rủi ro cao.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/06/29/td5-1782701669-6925-1782701814.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=nZXbELT3b2kY6wvY6w__GA",
+    "link": "https://vnexpress.net/co-nen-ban-bot-danh-muc-de-chuyen-sang-co-phieu-dang-vao-song-5091006.html",
+    "published_at": "Mon, 29 Jun 2026 10:11:02 +0700",
+    "createAt": "2026-06-29T03:11:02.000Z",
+    "thumbnail_blurhash": "LQG@rQ-.}+^fPBX9RixWpIxaNGNH"
   }
 ]
