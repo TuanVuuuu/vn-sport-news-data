@@ -687,5 +687,31 @@
     "published_at": "Mon, 29 Jun 2026 10:00:00 +0700",
     "createAt": "2026-06-29T03:00:00.000Z",
     "thumbnail_blurhash": "LTKA=}^j^%8^~qDiRPIAjD%0xFo#"
+  },
+  {
+    "id": "https://vnexpress.net/viet-nam-ghi-nhan-ca-dut-roi-truc-trang-chua-tung-co-trong-y-van-the-gioi-5090932.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Việt Nam ghi nhận ca đứt rời trực tràng chưa từng có trong y văn thế giới",
+    "description": "Các bác sĩ Bệnh viện Việt Đức vừa cứu sống nam bệnh nhân 42 tuổi bị đứt rời trực tràng, là ca bệnh chưa từng ghi nhận trong thực tế lâm sàng tại Việt Nam và y văn thế giới.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/29/233A5143-1782703266-2469-1782703381.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=1Wjb14_qeIqlVFhhwghfOA",
+    "link": "https://vnexpress.net/viet-nam-ghi-nhan-ca-dut-roi-truc-trang-chua-tung-co-trong-y-van-the-gioi-5090932.html",
+    "published_at": "Mon, 29 Jun 2026 10:23:27 +0700",
+    "createAt": "2026-06-29T03:23:27.000Z",
+    "thumbnail_blurhash": "LPHV6ox]M{WB~q%MkBkC%MxuWBRj"
+  },
+  {
+    "id": "https://vnexpress.net/thu-hoi-gan-1-trieu-lo-thuoc-tim-mach-va-suy-than-do-nghi-nhiem-tap-chat-5090941.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Thu hồi gần 1 triệu lọ thuốc tim mạch và suy thận do nghi nhiễm tạp chất",
+    "description": "Hãng dược Amgen đang tự nguyện thu hồi gần một triệu lọ thuốc điều trị tim mạch và suy thận trên toàn quốc sau khi phát hiện tạp chất lạ bám ngoài viên thuốc.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/29/nw7omchu7jdr5oaj7bi4yl6mbq-178-7718-9980-1782702636.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Bf-_L_WvS3fc64b2hC_sEw",
+    "link": "https://vnexpress.net/thu-hoi-gan-1-trieu-lo-thuoc-tim-mach-va-suy-than-do-nghi-nhiem-tap-chat-5090941.html",
+    "published_at": "Mon, 29 Jun 2026 10:27:23 +0700",
+    "createAt": "2026-06-29T03:27:23.000Z",
+    "thumbnail_blurhash": "LXJQ.y~qPBx]IAnNRPX9I;nOV@Ip"
   }
 ]
