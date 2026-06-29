@@ -1,3 +1,56 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/troussier-nhat-ban-se-lam-nen-bat-ngo-truoc-brazil-5091186.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Troussier: 'Nhật Bản sẽ làm nên bất ngờ trước Brazil'",
+      "description": "Cựu HLV đội tuyển Nhật Bản Philippe Troussier tin rằng với phong độ thăng hoa cùng chuỗi chiến thắng vang dội trước các đối thủ thuộc top 10 FIFA, Nhật Bản hoàn toàn có cơ sở để hạ Brazil ở vòng 1/16 World Cup 2026.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/06/29/62390aaa6fd14c1788476743f1913a-4966-1848-1782720449.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=jewZ4qLdLolw9AE5sVGFCg",
+      "link": "https://vnexpress.net/troussier-nhat-ban-se-lam-nen-bat-ngo-truoc-brazil-5091186.html",
+      "published_at": "Mon, 29 Jun 2026 15:30:07 +0700",
+      "createAt": "2026-06-29T08:30:07.000Z",
+      "thumbnail_blurhash": "L5AweWGY3H^N?WOqx@rq78xB-aNH"
+    },
+    {
+      "id": "https://vnexpress.net/thu-hoi-cap-dau-goi-xa-made-in-viet-nam-5091200.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Thu hồi cặp dầu gội, xả 'made in Việt Nam'",
+      "description": "Cục Quản lý Dược (Bộ Y tế) vừa đình chỉ lưu hành, thu hồi toàn quốc bộ đôi sản phẩm gồm dầu gội bồ kết thảo dược và dầu xả nha đam gừng dừa mang nhãn hiệu Hoa Xứ Lạng.",
+      "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/29/11-1782722452-4760-1782722456.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=8dM9r6Z7l3otC-bPo9QCmA",
+      "link": "https://vnexpress.net/thu-hoi-cap-dau-goi-xa-made-in-viet-nam-5091200.html",
+      "published_at": "Mon, 29 Jun 2026 16:10:23 +0700",
+      "createAt": "2026-06-29T09:10:23.000Z",
+      "thumbnail_blurhash": "LEJQ_x?^}l%MiuM|sqIU009aohr?"
+    },
+    {
+      "id": "https://vnexpress.net/tuong-nu-than-khai-phong-xay-trai-phep-bi-thao-do-5091198.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Tượng 'nữ thần khai phóng' xây trái phép bị tháo dỡ",
+      "description": "Tượng \"nữ thần khai phóng\" cao hơn 9 m cùng các hạng mục tại khu đô thị E.City Tân Đức, xã Đức Hòa, đã bị tháo dỡ do xây dựng không đúng quy hoạch.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/29/sequence0100000000still001copy-6224-6205-1782727153.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=7sOeBWv1PXDRCaddBiJ6lA",
+      "link": "https://vnexpress.net/tuong-nu-than-khai-phong-xay-trai-phep-bi-thao-do-5091198.html",
+      "published_at": "Mon, 29 Jun 2026 17:00:54 +0700",
+      "createAt": "2026-06-29T10:00:54.000Z",
+      "thumbnail_blurhash": "LfFG-S^~amNg_M-.xURk%1n+RkM}"
+    },
+    {
+      "id": "https://vnexpress.net/toan-ha-noi-co-gan-5-000-camera-ai-soi-cac-vi-pham-5091281.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Toàn Hà Nội có gần 5.000 camera AI soi các vi phạm",
+      "description": "Không chỉ về giao thông, gần 5.000 camera AI trên địa bàn Hà Nội đã được lắp đặt sẽ soi các vi phạm về trật tự đô thị, gây rối, xả rác bừa bãi.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/29/cameraAI-1782729912-3861-1782729987.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=np4eSp7M_Ahx-WqdZzwbIQ",
+      "link": "https://vnexpress.net/toan-ha-noi-co-gan-5-000-camera-ai-soi-cac-vi-pham-5091281.html",
+      "published_at": "Mon, 29 Jun 2026 17:44:07 +0700",
+      "createAt": "2026-06-29T10:44:07.000Z",
+      "thumbnail_blurhash": "L3Ihsu00|pF}02?bIANy004o00_2"
+    }
+  ]
 }
