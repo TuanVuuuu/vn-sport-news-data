@@ -180,5 +180,31 @@
     "published_at": "Tue, 30 Jun 2026 13:21:06 +0700",
     "createAt": "2026-06-30T06:21:06.000Z",
     "thumbnail_blurhash": "LME.z:?a-:%3~obvNvj]?YRjI:xG"
+  },
+  {
+    "id": "https://vnexpress.net/lai-xe-bang-rung-o-malaysia-5090855.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Lái xe băng rừng ở Malaysia",
+    "description": "Nhóm khách 20 người đến từ nhiều nước thực hiện chuyến du lịch mạo hiểm khi lái xe địa hình hơn 20 km băng qua những con suối, bãi sình lầy, dốc cao trong rừng ở bang Johor.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/06/29/233A5913-1782651641-1782651896-1782699763.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Pgw3JRNplH27pEOGs6dibA",
+    "link": "https://vnexpress.net/lai-xe-bang-rung-o-malaysia-5090855.html",
+    "published_at": "Tue, 30 Jun 2026 08:00:00 +0700",
+    "createAt": "2026-06-30T01:00:00.000Z",
+    "thumbnail_blurhash": "LNGuKzJ7~A-o10NGE2NxWmr?M|%K"
+  },
+  {
+    "id": "https://vnexpress.net/5-thanh-pho-my-than-thien-nhat-voi-khach-xem-world-cup-5091464.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "5 thành phố Mỹ thân thiện nhất với khách xem World Cup",
+    "description": "New York, Boston, Philadelphia, Seattle và Atlanta là 5 thành phố Mỹ được du khách bình chọn thân thiện nhất trong số 11 nơi đăng cai World Cup, theo nhật báo NYPost.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/06/30/philadelphia-1782801228.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=BxqHteMKJizFO3Pn7_QRKA",
+    "link": "https://vnexpress.net/5-thanh-pho-my-than-thien-nhat-voi-khach-xem-world-cup-5091464.html",
+    "published_at": "Tue, 30 Jun 2026 16:34:22 +0700",
+    "createAt": "2026-06-30T09:34:22.000Z",
+    "thumbnail_blurhash": "LfHV6nt8t6R*%$t7f,t7_Nt7t7fk"
   }
 ]
