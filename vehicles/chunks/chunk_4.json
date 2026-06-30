@@ -791,5 +791,44 @@
     "published_at": "Tue, 30 Jun 2026 05:00:00 +0700",
     "createAt": "2026-06-29T22:00:00.000Z",
     "thumbnail_blurhash": "LHE{YWTNXq?K~X-;nzt600,.wYIS"
+  },
+  {
+    "id": "https://vnexpress.net/volkswagen-va-ke-hoach-cat-giam-viec-lam-lon-nhat-nganh-oto-5091108.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Volkswagen và kế hoạch cắt giảm việc làm lớn nhất ngành ôtô",
+    "description": "Volkswagen đang cân nhắc cắt giảm tới 100.000 việc làm và đóng cửa 4 nhà máy trong đợt cải tổ lớn nhất của hãng, cũng là lớn nhất toàn ngành.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/29/Volkswagen1-1782716167-6095-1782716317.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=gwsI7hBLulMakNJYB3_Zkw",
+    "link": "https://vnexpress.net/volkswagen-va-ke-hoach-cat-giam-viec-lam-lon-nhat-nganh-oto-5091108.html",
+    "published_at": "Tue, 30 Jun 2026 06:00:00 +0700",
+    "createAt": "2026-06-29T23:00:00.000Z",
+    "thumbnail_blurhash": "LBGu:s~q?b_34-jD_2D*MwIUIAxu"
+  },
+  {
+    "id": "https://vnexpress.net/oto-di-nguoc-chieu-sat-dai-phan-cach-cao-toc-5091308.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Ôtô đi ngược chiều sát dải phân cách cao tốc",
+    "description": "Xe có gắn camera hành trình đang đi ở làn đường cho phép ôtô đi tốc độ tối đa 100km/h bất ngờ phải chuyển làn vì gặp xe đi ngược chiều.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/29/ScreenshotatJun29220554-178274-4777-3556-1782746136.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=bSVHKnIiYCEs5DXTOjXQTg",
+    "link": "https://vnexpress.net/oto-di-nguoc-chieu-sat-dai-phan-cach-cao-toc-5091308.html",
+    "published_at": "Tue, 30 Jun 2026 06:33:00 +0700",
+    "createAt": "2026-06-29T23:33:00.000Z",
+    "thumbnail_blurhash": "LQC?yEM{Rjfl_NWCWCa}%NbHa}j["
+  },
+  {
+    "id": "https://vnexpress.net/ong-chu-koenigsegg-xe-xang-nhu-sinh-vat-song-xe-dien-thi-khong-5091205.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Ông chủ Koenigsegg: Xe xăng như sinh vật sống, xe điện thì không",
+    "description": "CEO Koenigsegg cho rằng động cơ đốt trong vẫn mang đến cảm xúc và trải nghiệm lái mà xe điện chưa thể thay thế trên dòng hypercar.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/29/koenigsegg-sadair-s-spear-1782-9159-7399-1782722809.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=XSnHd7cr4DCwEio0LH7BQA",
+    "link": "https://vnexpress.net/ong-chu-koenigsegg-xe-xang-nhu-sinh-vat-song-xe-dien-thi-khong-5091205.html",
+    "published_at": "Tue, 30 Jun 2026 07:00:00 +0700",
+    "createAt": "2026-06-30T00:00:00.000Z",
+    "thumbnail_blurhash": "LACi:g_N%hx]00IU9ZM|I@Rj9ERP"
   }
 ]
