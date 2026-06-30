@@ -869,5 +869,44 @@
     "published_at": "Tue, 30 Jun 2026 08:29:26 +0700",
     "createAt": "2026-06-30T01:29:26.000Z",
     "thumbnail_blurhash": "LUFFv$RjD%%M~qWBRj%M-;ofof%M"
+  },
+  {
+    "id": "https://vnexpress.net/gan-90-000-xe-honda-sh-loi-man-hinh-5091353.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Gần 90.000 xe Honda SH lỗi màn hình",
+    "description": "Số lượng lớn các mẫu SH 125i, 160i có màn hình gặp lỗi với hiện tượng không hiển thị tốc độ, chẩn đoán sai nhiệt độ nước làm mát.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/30/HondaSH2025VnExpress2161780743-6103-3735-1782757784.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=TWOIPqFQ4PjKqaU4nFw9bA",
+    "link": "https://vnexpress.net/gan-90-000-xe-honda-sh-loi-man-hinh-5091353.html",
+    "published_at": "Tue, 30 Jun 2026 10:42:09 +0700",
+    "createAt": "2026-06-30T03:42:09.000Z",
+    "thumbnail_blurhash": "LCE:Si?c%M_NtT-=IWNGbbt8M~X8"
+  },
+  {
+    "id": "https://vnexpress.net/toyota-giam-doanh-so-thang-thu-4-lien-tiep-5091381.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Toyota giảm doanh số tháng thứ 4 liên tiếp",
+    "description": "Doanh số toàn cầu của Toyota trong tháng 5 giảm 7,2% so với cùng kỳ 2025, chủ yếu do nhu cầu kém tại Trung Quốc và giá nhiên liệu tăng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/30/ToyotaYaris1-1782786031-2455-1782786125.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=PeYeFZfNArlgEO2CWokxhg",
+    "link": "https://vnexpress.net/toyota-giam-doanh-so-thang-thu-4-lien-tiep-5091381.html",
+    "published_at": "Tue, 30 Jun 2026 11:06:17 +0700",
+    "createAt": "2026-06-30T04:06:17.000Z",
+    "thumbnail_blurhash": "L8Eff@Iq4TR.?^IVRiof00V?_4?b"
+  },
+  {
+    "id": "https://vnexpress.net/dung-thiet-bi-can-camera-nhan-dien-bien-so-bi-phat-4-6-trieu-dong-5091532.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Dùng thiết bị cản camera nhận diện biển số bị phạt 4-6 triệu đồng",
+    "description": "Từ 15/8, tài xế dùng công nghệ làm lóa camera như phim phản quang, đèn gây lóa bị phạt 4-6 triệu đồng, trừ 6 điểm giấy phép lái xe.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/30/522bc677725ffe01a74e-178279271-1845-7177-1782792785.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=JzZKHWzV3kUlWnZ8hNKcrA",
+    "link": "https://vnexpress.net/dung-thiet-bi-can-camera-nhan-dien-bien-so-bi-phat-4-6-trieu-dong-5091532.html",
+    "published_at": "Tue, 30 Jun 2026 11:18:41 +0700",
+    "createAt": "2026-06-30T04:18:41.000Z",
+    "thumbnail_blurhash": "LEF65.-;%N?c00xu4oE1~pV@Ng%2"
   }
 ]
