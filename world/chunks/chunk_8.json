@@ -700,5 +700,57 @@
     "published_at": "Tue, 30 Jun 2026 05:00:00 +0700",
     "createAt": "2026-06-29T22:00:00.000Z",
     "thumbnail_blurhash": "LVDS%ekDoen~?bogWAjE~qozaeoJ"
+  },
+  {
+    "id": "https://vnexpress.net/so-nguoi-chet-trong-dong-dat-tai-venezuela-vuot-1-700-5091359.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Số người chết trong động đất tại Venezuela vượt 1.700",
+    "description": "Số người chết trong động đất tại Venezuela tăng lên 1.719, với hàng chục nghìn nạn nhân vẫn mất tích.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/30/ap26180709899365-1782775609-7821-1782776291.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=QxBuZw4UJpm42UpFGOwwuw",
+    "link": "https://vnexpress.net/so-nguoi-chet-trong-dong-dat-tai-venezuela-vuot-1-700-5091359.html",
+    "published_at": "Tue, 30 Jun 2026 06:47:50 +0700",
+    "createAt": "2026-06-29T23:47:50.000Z",
+    "thumbnail_blurhash": "L5F}.h00n$E3^*9G~VRjt7-:E1n$"
+  },
+  {
+    "id": "https://vnexpress.net/ly-do-quoc-gia-ty-dan-kho-tim-duoc-11-ngoi-sao-san-co-5091275.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Lý do quốc gia tỷ dân khó tìm được 11 ngôi sao sân cỏ",
+    "description": "Theo lý thuyết \"lời nguyền quy mô\" của một giáo sư Trung Quốc, nước này khó tìm kiếm siêu sao bóng đá do áp lực cạnh tranh và thực trạng cầu thủ nhí đồng loạt giải nghệ ở tuổi 12.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/29/225-1782728144-4351-1782731707.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=qTHYwXvDJYAse0AaNdUuTg",
+    "link": "https://vnexpress.net/ly-do-quoc-gia-ty-dan-kho-tim-duoc-11-ngoi-sao-san-co-5091275.html",
+    "published_at": "Tue, 30 Jun 2026 07:22:16 +0700",
+    "createAt": "2026-06-30T00:22:16.000Z",
+    "thumbnail_blurhash": "LHF=O4%gyD-;^Bo}XRog7zWCRPR*"
+  },
+  {
+    "id": "https://vnexpress.net/nguoi-ham-mo-han-quoc-la-o-khi-cuu-huan-luyen-vien-cau-thu-ve-nuoc-5091376.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Người hâm mộ Hàn Quốc la ó khi cựu huấn luyện viên, cầu thủ về nước",
+    "description": "Cựu huấn luyện viên trưởng cùng một số cầu thủ Hàn Quốc bị người hâm mộ la ó, thậm chí lăng mạ, khi trở về sau thất bại tại World Cup.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/30/downloadt071957-1782778872-1713-1782779001.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=mshQJZKwF4Gi_Hco4jyiCA",
+    "link": "https://vnexpress.net/nguoi-ham-mo-han-quoc-la-o-khi-cuu-huan-luyen-vien-cau-thu-ve-nuoc-5091376.html",
+    "published_at": "Tue, 30 Jun 2026 07:29:06 +0700",
+    "createAt": "2026-06-30T00:29:06.000Z",
+    "thumbnail_blurhash": "LJFFX04qN2~q~UITxVxt-:RiawxV"
+  },
+  {
+    "id": "https://vnexpress.net/ong-trump-my-va-iran-se-gap-nhau-o-qatar-trong-ngay-30-6-5091358.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Ông Trump: Mỹ và Iran sẽ gặp nhau ở Qatar trong ngày 30/6",
+    "description": "Tổng thống Trump cho hay Iran đã đề xuất tổ chức cuộc gặp với Mỹ, nhưng Tehran phủ nhận thông tin.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/30/ap26180714766864-1782778734-2068-1782779026.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=5ma0VWA-42yP0ImkhkN01g",
+    "link": "https://vnexpress.net/ong-trump-my-va-iran-se-gap-nhau-o-qatar-trong-ngay-30-6-5091358.html",
+    "published_at": "Tue, 30 Jun 2026 08:06:00 +0700",
+    "createAt": "2026-06-30T01:06:00.000Z",
+    "thumbnail_blurhash": "LCFOos|{iu~o^%#RDjtQ^%M|4nIo"
   }
 ]
