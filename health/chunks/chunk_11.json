@@ -1116,5 +1116,44 @@
     "published_at": "Tue, 30 Jun 2026 07:17:56 +0700",
     "createAt": "2026-06-30T00:17:56.000Z",
     "thumbnail_blurhash": "LOBpY+xB1UK50yR%=hwfnSjbbVfh"
+  },
+  {
+    "id": "https://vnexpress.net/chi-an-trai-cay-co-giam-can-khong-5091364.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Chỉ ăn trái cây có giảm cân không?",
+    "description": "Tôi được khuyên ăn trái cây thay cơm sẽ giảm cân nhanh. Cách này có tác dụng không? (Mỹ Anh, Tây Ninh)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/30/z7773790924739-a6e8153fdb56ad4-3992-9633-1782775305.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=2pN9BoiV2k-kHCWVZppM-A",
+    "link": "https://vnexpress.net/chi-an-trai-cay-co-giam-can-khong-5091364.html",
+    "published_at": "Tue, 30 Jun 2026 08:00:00 +0700",
+    "createAt": "2026-06-30T01:00:00.000Z",
+    "thumbnail_blurhash": "LMK]#TDR+|~7%0Vax@-Ooy%Ja$IX"
+  },
+  {
+    "id": "https://vnexpress.net/tang-huyet-ap-do-hep-eo-dong-mach-chu-5091319.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Tăng huyết áp do hẹp eo động mạch chủ",
+    "description": "Chị Ngọc, 39 tuổi, tăng huyết áp do hẹp eo động mạch chủ, được bác sĩ nong bóng và đặt stent vào vị trí hẹp.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/30/image001-1782777200-4612-1782777529.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=OvyEaEEkzCM69rRnsuR62A",
+    "link": "https://vnexpress.net/tang-huyet-ap-do-hep-eo-dong-mach-chu-5091319.html",
+    "published_at": "Tue, 30 Jun 2026 08:00:00 +0700",
+    "createAt": "2026-06-30T01:00:00.000Z",
+    "thumbnail_blurhash": "LOL58*r]xs%g~Vt8Mwoz~Vo#IoW="
+  },
+  {
+    "id": "https://vnexpress.net/benh-tim-mach-anh-huong-mat-the-nao-5091265.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Bệnh tim mạch ảnh hưởng mắt thế nào",
+    "description": "Người bệnh tăng huyết áp, xơ vữa động mạch có nguy cơ tổn thương võng mạc do lưu lượng máu đến mắt giảm và mạch máu bị tổn thương, từ đó ảnh hưởng thị lực.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/30/z7970741174160-e502c6ed5577b0d-5742-5436-1782778611.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=0UowAtZ8ZnaZDYYAOf5mgw",
+    "link": "https://vnexpress.net/benh-tim-mach-anh-huong-mat-the-nao-5091265.html",
+    "published_at": "Tue, 30 Jun 2026 08:00:00 +0700",
+    "createAt": "2026-06-30T01:00:00.000Z",
+    "thumbnail_blurhash": "LcKK.-Ri-=%M~qxv%Mof-:%NMxae"
   }
 ]
