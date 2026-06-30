@@ -973,5 +973,31 @@
     "published_at": "Tue, 30 Jun 2026 16:11:18 +0700",
     "createAt": "2026-06-30T09:11:18.000Z",
     "thumbnail_blurhash": "LCAT1It79as.~AxtNGR*spofWVWB"
+  },
+  {
+    "id": "https://vnexpress.net/ba-lan-huy-thoa-thuan-chuyen-tiem-kich-mig-29-cho-ukraine-5091670.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Ba Lan hủy thỏa thuận chuyển tiêm kích MiG-29 cho Ukraine",
+    "description": "Ba Lan thông báo không chuyển giao tiêm kích MiG-29 cho Ukraine, với lý do Kiev không chia sẻ công nghệ drone cho Warsaw.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/30/mig-ba-lan-1782813106-4120-1782813128.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=3tUJxjTWjg594YxLR-3fUQ",
+    "link": "https://vnexpress.net/ba-lan-huy-thoa-thuan-chuyen-tiem-kich-mig-29-cho-ukraine-5091670.html",
+    "published_at": "Tue, 30 Jun 2026 16:52:57 +0700",
+    "createAt": "2026-06-30T09:52:57.000Z",
+    "thumbnail_blurhash": "LPAKgux^WFtRyZo#ofofT1ozt6WV"
+  },
+  {
+    "id": "https://vnexpress.net/bo-truong-my-neu-ly-do-an-mung-khi-iran-bi-loai-khoi-world-cup-5091668.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Bộ trưởng Mỹ nêu lý do ăn mừng khi Iran bị loại khỏi World Cup",
+    "description": "Bộ trưởng An ninh Nội địa Mỹ kể rằng ông đã \"nhảy điệu ăn mừng\" sau khi tuyển Iran bị loại khỏi World Cup vì không cần xử lý vấn đề cấp visa và giám sát nữa.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/30/bo-truong-dhs-1782811250-8376-1782811481.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=IQI2iAMp1cXLMM04Nel62A",
+    "link": "https://vnexpress.net/bo-truong-my-neu-ly-do-an-mung-khi-iran-bi-loai-khoi-world-cup-5091668.html",
+    "published_at": "Tue, 30 Jun 2026 16:54:19 +0700",
+    "createAt": "2026-06-30T09:54:19.000Z",
+    "thumbnail_blurhash": "LEEyumm+IS%h-3Mv.SR+~q%hInV?"
   }
 ]
