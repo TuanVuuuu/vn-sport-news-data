@@ -284,5 +284,31 @@
     "published_at": "Tue, 30 Jun 2026 20:57:13 +0700",
     "createAt": "2026-06-30T13:57:13.000Z",
     "thumbnail_blurhash": "LDEo=9?w07tn~AR*spsR,*RPRPVr"
+  },
+  {
+    "id": "https://vnexpress.net/dieu-gi-xay-ra-khi-ban-an-kim-chi-thuong-xuyen-5091199.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Điều gì xảy ra khi bạn ăn kim chi thường xuyên?",
+    "description": "Kim chi giàu lợi khuẩn, vitamin, chất xơ, ăn thường xuyên có thể hỗ trợ tiêu hóa, tăng cường miễn dịch và kiểm soát cân nặng.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/29/18831e48ecad6df334bc-178272278-6288-9775-1782722790.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=oAJkibNZS61Ru8u2QQ8XpQ",
+    "link": "https://vnexpress.net/dieu-gi-xay-ra-khi-ban-an-kim-chi-thuong-xuyen-5091199.html",
+    "published_at": "Wed, 01 Jul 2026 00:03:00 +0700",
+    "createAt": "2026-06-30T17:03:00.000Z",
+    "thumbnail_blurhash": "LHM=8l~8#~x@~9kBRj%KbpNxeorr"
+  },
+  {
+    "id": "https://vnexpress.net/stress-va-beo-bung-sat-thu-tham-lang-triet-tieu-sinh-luc-nam-gioi-5091166.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Stress và béo bụng - 'sát thủ' thầm lặng triệt tiêu sinh lực nam giới",
+    "description": "Nam giới thường xuyên căng thẳng kéo dài, thiếu ngủ, thừa cân, béo phì và chế độ ăn uống thiếu lành mạnh, có thể ảnh hưởng đến chất lượng tinh trùng, suy giảm sinh lực.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/29/anh-chup-man-hinh-luc-17827207-1771-6405-1782720783.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=OrjiSCxFfkkCmBFB_Kpomw",
+    "link": "https://vnexpress.net/stress-va-beo-bung-sat-thu-tham-lang-triet-tieu-sinh-luc-nam-gioi-5091166.html",
+    "published_at": "Wed, 01 Jul 2026 00:04:00 +0700",
+    "createAt": "2026-06-30T17:04:00.000Z",
+    "thumbnail_blurhash": "LFMH1000%g~W00Na.9?w5rTyxat7"
   }
 ]
