@@ -1233,5 +1233,70 @@
     "published_at": "Tue, 30 Jun 2026 10:54:02 +0700",
     "createAt": "2026-06-30T03:54:02.000Z",
     "thumbnail_blurhash": "LeEMnRlVWb%%xYaxadWArBeloIac"
+  },
+  {
+    "id": "https://vnexpress.net/nha-khoa-hoc-viet-lam-chu-cong-nghe-in-3d-mach-mau-nhan-tao-5089421.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Nhà khoa học Việt làm chủ công nghệ in 3D mạch máu nhân tạo",
+    "description": "Nhóm nghiên cứu liên ngành tại Việt Nam đã thành công trong việc in 3D mạch máu nhân tạo, công nghệ này có tiềm năng tạo ra da, sụn, giác mạc phục vụ cấy ghép.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/24/vnu3-1782286214-9697-1782286951.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=hZyU_uV6PZwZjteBDx59SA",
+    "link": "https://vnexpress.net/nha-khoa-hoc-viet-lam-chu-cong-nghe-in-3d-mach-mau-nhan-tao-5089421.html",
+    "published_at": "Tue, 30 Jun 2026 11:26:18 +0700",
+    "createAt": "2026-06-30T04:26:18.000Z",
+    "thumbnail_blurhash": "LKGJN?4n^iIq4ms*E7%L%%?aV=of"
+  },
+  {
+    "id": "https://vnexpress.net/elon-musk-don-sinh-nhat-voi-banh-kem-hinh-ten-lua-5091401.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Elon Musk đón sinh nhật với bánh kem hình tên lửa",
+    "description": "Tỷ phú Mỹ Elon Musk đón tuổi 55 ngày 28/6 với chiếc bánh hình tên lửa, đồ chơi Lego và một thanh kiếm khổng lồ.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/30/hl7kdupaoaaljii-copy-178279555-1214-4163-1782795569.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=fkl7IxXLrBh1cLuH-_lHBQ",
+    "link": "https://vnexpress.net/elon-musk-don-sinh-nhat-voi-banh-kem-hinh-ten-lua-5091401.html",
+    "published_at": "Tue, 30 Jun 2026 12:18:13 +0700",
+    "createAt": "2026-06-30T05:18:13.000Z",
+    "thumbnail_blurhash": "L8HnA]04=|}-5Y}l57M{^h%M^MX9"
+  },
+  {
+    "id": "https://vnexpress.net/don-nha-mien-phi-de-lay-du-lieu-huan-luyen-ai-5091304.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Dọn nhà miễn phí để lấy dữ liệu huấn luyện AI",
+    "description": "Công ty khởi nghiệp Shift Robotics cung cấp dịch vụ dọn nhà miễn phí, đổi lại nhân viên sẽ ghi hình quá trình làm việc để lấy dữ liệu đào tạo AI và robot.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/29/screenshot20260629193959-17827-2670-8509-1782739425.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=Zv5-Q1oO0ohreUC6QNJ8vw",
+    "link": "https://vnexpress.net/don-nha-mien-phi-de-lay-du-lieu-huan-luyen-ai-5091304.html",
+    "published_at": "Tue, 30 Jun 2026 13:00:00 +0700",
+    "createAt": "2026-06-30T06:00:00.000Z",
+    "thumbnail_blurhash": "LgMjm+-qM{?b~qxuWBWBIobHayRj"
+  },
+  {
+    "id": "https://vnexpress.net/lo-phan-ung-san-xuat-dien-khong-dung-nhien-lieu-5091554.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Lò phản ứng sản xuất điện không dùng nhiên liệu",
+    "description": "Lò phản ứng làm mát bằng chì thế hệ mới của công ty Newcleo phát triển có thể giảm đáng kể rủi ro nóng chảy khi xảy ra sự cố.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/30/VNENu-1782792883-7513-1782793136.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=QgAwfjO4GJzebqPruEzeOQ",
+    "link": "https://vnexpress.net/lo-phan-ung-san-xuat-dien-khong-dung-nhien-lieu-5091554.html",
+    "published_at": "Tue, 30 Jun 2026 14:07:02 +0700",
+    "createAt": "2026-06-30T07:07:02.000Z",
+    "thumbnail_blurhash": "LGHC4X-oxvS4?w^+%NIUx]4m.9j]"
+  },
+  {
+    "id": "https://vnexpress.net/nen-mua-insta360-luna-ultra-hay-dji-pocket-4-pro-de-quay-vlog-5091597.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Nên mua Insta360 Luna Ultra hay DJI Pocket 4 Pro để quay vlog?",
+    "description": "Tôi chủ yếu có nhu cầu quay video ngắn dạng dọc ngoài trời, nên chọn sản phẩm nào trong tầm giá dưới 20 triệu đồng?",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/30/Untitled-8-1782797934-5434-1782798015.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=_ZgqW9OobXSiIYbJm3_oWQ",
+    "link": "https://vnexpress.net/nen-mua-insta360-luna-ultra-hay-dji-pocket-4-pro-de-quay-vlog-5091597.html",
+    "published_at": "Tue, 30 Jun 2026 14:30:00 +0700",
+    "createAt": "2026-06-30T07:30:00.000Z",
+    "thumbnail_blurhash": "LJQck-_4x_%M_2j[bIt7?wt6RNof"
   }
 ]

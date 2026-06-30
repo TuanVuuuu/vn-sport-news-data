@@ -141,5 +141,31 @@
     "published_at": "Tue, 30 Jun 2026 09:30:11 +0700",
     "createAt": "2026-06-30T02:30:11.000Z",
     "thumbnail_blurhash": "LaKU+fNaNHxu@rnNWCjYysr=S6oz"
+  },
+  {
+    "id": "https://vnexpress.net/trai-nghiem-du-lich-mao-hiem-lai-xe-bang-rung-o-malaysia-5090855.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Trải nghiệm du lịch mạo hiểm, lái xe băng rừng ở Malaysia",
+    "description": "Nhóm khách 20 người đến từ nhiều nước thực hiện chuyến du lịch mạo hiểm khi lái xe địa hình hơn 20 km băng qua những con suối, bãi sình lầy, dốc cao trong rừng ở bang Johor.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/06/29/233A5913-1782651641-1782651896-1782699763.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Pgw3JRNplH27pEOGs6dibA",
+    "link": "https://vnexpress.net/trai-nghiem-du-lich-mao-hiem-lai-xe-bang-rung-o-malaysia-5090855.html",
+    "published_at": "Tue, 30 Jun 2026 08:00:00 +0700",
+    "createAt": "2026-06-30T01:00:00.000Z",
+    "thumbnail_blurhash": "LNGkw5J7~A-o10NGE2NxWmr?M|%1"
+  },
+  {
+    "id": "https://vnexpress.net/bien-doc-let-dep-nhu-tranh-trong-mat-khach-ha-noi-5090572.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Biển Dốc Lết 'đẹp như tranh' trong mắt khách Hà Nội",
+    "description": "Anh Nguyễn Hồng Nhật, ở Hà Nội, đánh giá cao khung cảnh thiên nhiên hoang sơ, ẩm thực đa dạng và đời sống bản địa thú vị tại Dốc Lết sau chuyến du lịch 3 ngày 2 đêm cùng gia đình.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/06/28/733157249-10231572965498223-7349201009923708955-n-1782630292.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=HBnK2GfUU8ge3vppb92jIw",
+    "link": "https://vnexpress.net/bien-doc-let-dep-nhu-tranh-trong-mat-khach-ha-noi-5090572.html",
+    "published_at": "Tue, 30 Jun 2026 11:42:56 +0700",
+    "createAt": "2026-06-30T04:42:56.000Z",
+    "thumbnail_blurhash": "LrFaOcxut8o#PEbJaeaynhWXo0js"
   }
 ]
