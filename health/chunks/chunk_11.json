@@ -1155,5 +1155,57 @@
     "published_at": "Tue, 30 Jun 2026 08:00:00 +0700",
     "createAt": "2026-06-30T01:00:00.000Z",
     "thumbnail_blurhash": "LcKK.-Ri-=%M~qxv%Mof-:%NMxae"
+  },
+  {
+    "id": "https://vnexpress.net/thu-hoi-cap-dau-goi-xa-hoa-xu-lang-5091200.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Thu hồi cặp dầu gội, xả Hoa Xứ Lạng",
+    "description": "Cục Quản lý Dược (Bộ Y tế) vừa đình chỉ lưu hành, thu hồi toàn quốc bộ đôi sản phẩm gồm dầu gội bồ kết thảo dược và dầu xả nha đam gừng dừa mang nhãn hiệu Hoa Xứ Lạng.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/29/11-1782722452-4760-1782722456.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=8dM9r6Z7l3otC-bPo9QCmA",
+    "link": "https://vnexpress.net/thu-hoi-cap-dau-goi-xa-hoa-xu-lang-5091200.html",
+    "published_at": "Mon, 29 Jun 2026 16:10:23 +0700",
+    "createAt": "2026-06-29T09:10:23.000Z",
+    "thumbnail_blurhash": "LEJQ_x?^}l%MiuM|sqIU009aohr?"
+  },
+  {
+    "id": "https://vnexpress.net/thuc-don-mot-thang-giam-mo-hieu-qua-5091060.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Thực đơn một tháng giảm mỡ hiệu quả",
+    "description": "Bác sĩ Phan Thái Tân, huấn luyện viên sức khỏe giảm cân, gợi ý thực đơn một tháng giúp giảm mỡ, no lâu, dáng đẹp.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/29/492826993-n-1782722429-2189-1782722455.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Oo9OiJGP6O397YLCiCPyqQ",
+    "link": "https://vnexpress.net/thuc-don-mot-thang-giam-mo-hieu-qua-5091060.html",
+    "published_at": "Tue, 30 Jun 2026 08:23:52 +0700",
+    "createAt": "2026-06-30T01:23:52.000Z",
+    "thumbnail_blurhash": "L9HnQi0c:6~W=rI@Z~-oxas9R-V@"
+  },
+  {
+    "id": "https://vnexpress.net/xuong-ca-dam-xuyen-hong-nguoi-dan-ong-5091407.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Xương cá đâm xuyên họng người đàn ông",
+    "description": "Ông Lánh, 60 tuổi, hóc xương cá gần hai tuần, nay đau nhiều, nuốt vướng, bác sĩ chẩn đoán xương đâm xuyên xoang lê vào cơ họng gây áp xe.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/30/ba-o-1782783341-1657-1782783410.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=RfHTb9e5A9lxeUZ2jnBc8g",
+    "link": "https://vnexpress.net/xuong-ca-dam-xuyen-hong-nguoi-dan-ong-5091407.html",
+    "published_at": "Tue, 30 Jun 2026 09:00:00 +0700",
+    "createAt": "2026-06-30T02:00:00.000Z",
+    "thumbnail_blurhash": "LUGm7at5RhS%~nxvt7RPt0aet7t6"
+  },
+  {
+    "id": "https://vnexpress.net/co-nen-xit-chong-muoi-cho-tre-so-sinh-5091323.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Có nên xịt chống muỗi cho trẻ sơ sinh?",
+    "description": "Khu vực tôi sống rất nhiều muỗi, có nên xịt chống muỗi cho bé 15 ngày tuổi không? Làm cách nào phòng muỗi an toàn cho trẻ? (Ngân, TP HCM)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/30/image001-1782783170-7962-1782783586.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=WOwM_1phzIOOM6hZL6HNWQ",
+    "link": "https://vnexpress.net/co-nen-xit-chong-muoi-cho-tre-so-sinh-5091323.html",
+    "published_at": "Tue, 30 Jun 2026 09:00:00 +0700",
+    "createAt": "2026-06-30T02:00:00.000Z",
+    "thumbnail_blurhash": "LiNAeqRiRijF_NV@j[oft7WBaet7"
   }
 ]
