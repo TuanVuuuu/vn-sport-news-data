@@ -336,5 +336,44 @@
     "published_at": "Wed, 01 Jul 2026 01:00:00 +0700",
     "createAt": "2026-06-30T18:00:00.000Z",
     "thumbnail_blurhash": "LFFrtjxc05~U-=WAawog4yxr?9M~"
+  },
+  {
+    "id": "https://vnexpress.net/7-chinh-sach-y-te-hieu-luc-tu-1-7-giup-nguoi-dan-nhe-ganh-chi-phi-5091508.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "7 chính sách y tế hiệu lực từ 1/7 giúp người dân 'nhẹ gánh' chi phí",
+    "description": "Từ 1/7, nhiều quy định mới về y tế, dân số, BHYT, tiền lương, phụ cấp y bác sĩ có hiệu lực tạo cơ chế giúp người dân được hưởng lợi trong khám chữa bệnh.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/30/233a4908-1782789773-3072-1782789801.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Os5zZHJ0SKf76Z5FIe-b-w",
+    "link": "https://vnexpress.net/7-chinh-sach-y-te-hieu-luc-tu-1-7-giup-nguoi-dan-nhe-ganh-chi-phi-5091508.html",
+    "published_at": "Wed, 01 Jul 2026 05:00:00 +0700",
+    "createAt": "2026-06-30T22:00:00.000Z",
+    "thumbnail_blurhash": "LSHLSab_ITa0IqozMxWC_NiwIUtR"
+  },
+  {
+    "id": "https://vnexpress.net/9-2-trieu-nguoi-dan-ha-noi-kham-suc-khoe-mien-phi-tu-1-7-5091810.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "9,2 triệu người dân Hà Nội khám sức khỏe miễn phí từ 1/7",
+    "description": "Hà Nội triển khai khám sức khỏe định kỳ và sàng lọc bệnh tật miễn phí cho người dân toàn thành phố kể cả thường trú và tạm trú, từ 1/7.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/30/1-1782827903-2546-1782827967.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=st7ovtLO7g3gQOrN4ZoPRQ",
+    "link": "https://vnexpress.net/9-2-trieu-nguoi-dan-ha-noi-kham-suc-khoe-mien-phi-tu-1-7-5091810.html",
+    "published_at": "Wed, 01 Jul 2026 05:30:00 +0700",
+    "createAt": "2026-06-30T22:30:00.000Z",
+    "thumbnail_blurhash": "LTMHAO.8ogNGyZWFWZxZpJoz%1$*"
+  },
+  {
+    "id": "https://vnexpress.net/chuyen-gia-canh-bao-5-can-benh-bao-mon-chuc-nang-than-5091337.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Chuyên gia cảnh báo 5 căn bệnh bào mòn chức năng thận",
+    "description": "Thay vì diễn tiến đột ngột, phần lớn ca suy thận mạn tính hiện nay đều bắt nguồn từ sự chủ quan trước căn bệnh tiểu đường cùng loạt thói quen tiêu cực phá hủy hệ bài tiết.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/29/chronic-kidney-disease-scaled-7178-7928-1782751034.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=6kSRotqiH_isnDmOpbxf2Q",
+    "link": "https://vnexpress.net/chuyen-gia-canh-bao-5-can-benh-bao-mon-chuc-nang-than-5091337.html",
+    "published_at": "Wed, 01 Jul 2026 06:00:00 +0700",
+    "createAt": "2026-06-30T23:00:00.000Z",
+    "thumbnail_blurhash": "LHMtU8}[Iu9F.9xawH~W_NXStle-"
   }
 ]
