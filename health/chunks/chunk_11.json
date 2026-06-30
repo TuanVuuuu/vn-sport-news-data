@@ -1272,5 +1272,31 @@
     "published_at": "Tue, 30 Jun 2026 10:00:00 +0700",
     "createAt": "2026-06-30T03:00:00.000Z",
     "thumbnail_blurhash": "LdO|FK?Gxsxt~oj=xbM|tSxuM{Rk"
+  },
+  {
+    "id": "https://vnexpress.net/5-thuc-pham-giup-giam-hat-hoi-nghet-mui-do-di-ung-5091004.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "5 thực phẩm giúp giảm hắt hơi, nghẹt mũi do dị ứng",
+    "description": "Các loại thực phẩm giàu chất chống oxy hóa và omega-3, quercetin như trái cây cam quýt, cá hồi, có thể giúp giảm triệu chứng dị ứng.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/29/6353439ecdfff5fd6b6ab2ffe-jpeg-6362-5615-1782701699.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ylDZKlOeKccCZRYAML6B1A",
+    "link": "https://vnexpress.net/5-thuc-pham-giup-giam-hat-hoi-nghet-mui-do-di-ung-5091004.html",
+    "published_at": "Tue, 30 Jun 2026 10:30:00 +0700",
+    "createAt": "2026-06-30T03:30:00.000Z",
+    "thumbnail_blurhash": "LOI3{-^it-x]^kB;o}}qobKkJB#l"
+  },
+  {
+    "id": "https://vnexpress.net/15-trieu-dan-tp-hcm-duoc-lap-ho-so-suc-khoe-dien-tu-theo-vong-doi-5091450.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "15 triệu dân TP HCM được lập hồ sơ sức khỏe điện tử theo vòng đời",
+    "description": "Từ khi còn khỏe mạnh đến lúc phát sinh bệnh tật, toàn bộ dữ liệu khám chữa bệnh của gần 15 triệu người dân TP HCM sẽ được tích lũy trong một hồ sơ sức khỏe điện tử theo vòng đời.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/30/233a5180-1782787813-6717-1782787985.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=JjLLOQ9qhPhAoxJXifTkkg",
+    "link": "https://vnexpress.net/15-trieu-dan-tp-hcm-duoc-lap-ho-so-suc-khoe-dien-tu-theo-vong-doi-5091450.html",
+    "published_at": "Tue, 30 Jun 2026 10:49:23 +0700",
+    "createAt": "2026-06-30T03:49:23.000Z",
+    "thumbnail_blurhash": "LGG[+t004.-p~qtR-;Di.8s.%MRk"
   }
 ]
