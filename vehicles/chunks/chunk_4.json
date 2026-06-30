@@ -960,5 +960,57 @@
     "published_at": "Tue, 30 Jun 2026 14:30:00 +0700",
     "createAt": "2026-06-30T07:30:00.000Z",
     "thumbnail_blurhash": "LgIXjTt7IUxu~Wt6V@WX?Gt6NGof"
+  },
+  {
+    "id": "https://vnexpress.net/byd-hop-tac-phuong-trang-phat-trien-tram-sac-xe-dien-5090863.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "BYD hợp tác Phương Trang phát triển trạm sạc xe điện",
+    "description": "Từ 100 trụ sạc nhanh hiện nay, Futa EV Power sẽ phát triển khoảng 1.000 trụ sạc trong thời gian 3-5 năm tới.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/28/dscf9377-jpeg-1782652928-1719-1782652987.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=b7TKGlkgFbVU4b_D8ATPyg",
+    "link": "https://vnexpress.net/byd-hop-tac-phuong-trang-phat-trien-tram-sac-xe-dien-5090863.html",
+    "published_at": "Mon, 29 Jun 2026 10:41:54 +0700",
+    "createAt": "2026-06-29T03:41:54.000Z",
+    "thumbnail_blurhash": "LBE{nb00MwlU%2xZtSOY00_4%NI9"
+  },
+  {
+    "id": "https://vnexpress.net/ducati-ra-mat-bo-doi-panigale-v2-s-va-streetfighter-v2-s-the-he-moi-5091566.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Ducati ra mắt bộ đôi Panigale V2 S và Streetfighter V2 S thế hệ mới",
+    "description": "Cặp môtô sử dụng động cơ thế hệ mới V2 S, thiết kế cắt giảm trọng lượng, giá 629-759 triệu đồng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/30/ducatistreetfighterv2s20261jpg-6482-7874-1782804648.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=MaHwiyPNUSt82OQKdRSFwQ",
+    "link": "https://vnexpress.net/ducati-ra-mat-bo-doi-panigale-v2-s-va-streetfighter-v2-s-the-he-moi-5091566.html",
+    "published_at": "Tue, 30 Jun 2026 15:28:19 +0700",
+    "createAt": "2026-06-30T08:28:19.000Z",
+    "thumbnail_blurhash": "LGECLOEUl9?c~VNgNw%Loui^IUxB"
+  },
+  {
+    "id": "https://vnexpress.net/hyundai-viet-nam-trieu-hoi-hon-13-600-xe-tucson-sua-loi-phanh-khan-cap-5091671.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Hyundai Việt Nam triệu hồi hơn 13.600 xe Tucson sửa lỗi phanh khẩn cấp",
+    "description": "Các xe trong diện triệu hồi có hệ thống camera phía trước phát hiện, cảnh báo và kích hoạt phanh tự động quá nhạy, không tối ưu trải nghiệm lái.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/30/hyundaitucsonvnexpress-1782808-9840-4324-1782808515.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=35RRl1EgBp2gH4_dgFldUw",
+    "link": "https://vnexpress.net/hyundai-viet-nam-trieu-hoi-hon-13-600-xe-tucson-sua-loi-phanh-khan-cap-5091671.html",
+    "published_at": "Tue, 30 Jun 2026 15:54:03 +0700",
+    "createAt": "2026-06-30T08:54:03.000Z",
+    "thumbnail_blurhash": "LFHL#Soi~S-.9pRo00M_?ZR%0KRi"
+  },
+  {
+    "id": "https://vnexpress.net/nguoi-dung-xe-ban-tai-duoc-go-roi-5091471.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Người dùng xe bán tải được gỡ rối",
+    "description": "Người dùng phấn khởi khi xe bán tải được xem là xe con khi tham gia giao thông, không bị hạn chế về làn đường, khung giờ hoạt động.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/30/ToyotaHilux20260017JPG17784162-7566-2038-1782799953.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=SBRMdRZ0B6kPZ-JyvzfYTA",
+    "link": "https://vnexpress.net/nguoi-dung-xe-ban-tai-duoc-go-roi-5091471.html",
+    "published_at": "Tue, 30 Jun 2026 16:09:58 +0700",
+    "createAt": "2026-06-30T09:09:58.000Z",
+    "thumbnail_blurhash": "LGHx$y9YDhxtPWInRkoz~WIo%Ns;"
   }
 ]
