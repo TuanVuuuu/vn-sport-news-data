@@ -622,5 +622,31 @@
     "published_at": "Tue, 30 Jun 2026 23:00:06 +0700",
     "createAt": "2026-06-30T16:00:06.000Z",
     "thumbnail_blurhash": "LAA,:O}H0{1EEwI.xb-WGYO=rYvh"
+  },
+  {
+    "id": "https://vnexpress.net/bo-bien-nga-v-na-uy-5091775-tong-thuat.html",
+    "category_id": "sports",
+    "category_name": "Thể thao",
+    "source": "VnExpress",
+    "title": "Haaland đưa Na Uy vào gặp Brazil ở vòng 1/8 World Cup 2026",
+    "description": "Erling Haaland ghi bàn quyết định giúp Na Uy hạ Bờ Biển Ngà 2-1 ở vòng 1/16 World Cup 2026 trên sân Dallas.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/07/01/ap26181680453268-1782846336-4323-1782846390.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=HZyVSB3fHNjIQVceWt_3uQ",
+    "link": "https://vnexpress.net/bo-bien-nga-v-na-uy-5091775-tong-thuat.html",
+    "published_at": "Tue, 30 Jun 2026 23:00:06 +0700",
+    "createAt": "2026-06-30T16:00:06.000Z",
+    "thumbnail_blurhash": "L9H1_S~B00?Juj9H.8s%02S_%#NL"
+  },
+  {
+    "id": "https://vnexpress.net/phap-thuy-dien-mbappe-doi-dau-gyokeres-5091837.html",
+    "category_id": "sports",
+    "category_name": "Thể thao",
+    "source": "VnExpress",
+    "title": "Pháp 0-0 Thụy Điển (H1): Gyokeres phối hợp với Isak",
+    "description": "Các ngôi sao tấn công gồm Kylian Mbappe, Ousmane Dembele (Pháp) hay Viktor Gyokeres, Alexander Isak (Thụy Điển) đều đá chính trận vòng 1/16 World Cup 2026.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/07/01/tdPNG-1782853791-6615-1782853961.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=vBAMM0hfdxBBOOEqIEFRCQ",
+    "link": "https://vnexpress.net/phap-thuy-dien-mbappe-doi-dau-gyokeres-5091837.html",
+    "published_at": "Wed, 01 Jul 2026 03:30:00 +0700",
+    "createAt": "2026-06-30T20:30:00.000Z",
+    "thumbnail_blurhash": "LDDSj*9REA~MEE?9xSD?4?NEV@W?"
   }
 ]
