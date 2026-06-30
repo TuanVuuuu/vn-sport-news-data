@@ -830,5 +830,44 @@
     "published_at": "Tue, 30 Jun 2026 07:00:00 +0700",
     "createAt": "2026-06-30T00:00:00.000Z",
     "thumbnail_blurhash": "LACi:g_N%hx]00IU9ZM|I@Rj9ERP"
+  },
+  {
+    "id": "https://vnexpress.net/ferrari-luce-sieu-sedan-dien-gia-586-600-usd-5091174.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Ferrari Luce - siêu sedan điện giá 586.600 USD",
+    "description": "Mẫu xe gầm thấp chạy điện Luce bán giới hạn 88 xe, thách thức những mẫu xe thể thao nội địa BYD Yangwang U9, GAC Hyptec SSR.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/30/ferrarilucethuonghai6800178679-1266-8354-1782780932.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=FuKIRYujvq2FLAhyqKluBA",
+    "link": "https://vnexpress.net/ferrari-luce-sieu-sedan-dien-gia-586-600-usd-5091174.html",
+    "published_at": "Tue, 30 Jun 2026 07:56:02 +0700",
+    "createAt": "2026-06-30T00:56:02.000Z",
+    "thumbnail_blurhash": "LFE.eI-pI:%M00D%9FkCy=%g^+IB"
+  },
+  {
+    "id": "https://vnexpress.net/hyundai-palisade-suc-hut-suv-co-e-gia-tu-1-299-ty-dong-5089008.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Hyundai Palisade - sức hút SUV cỡ E giá từ 1,299 tỷ đồng",
+    "description": "Mẫu SUV hướng đến nhóm người dùng gia đình, doanh nhân nhờ không gian rộng, động cơ diesel, hệ dẫn động bốn bánh toàn thời gian và giá bán tương đương xe cỡ D.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/29/settop-1782724691-1162-1782725117.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ZeQAmqemtmWHVB2mJV9a9w",
+    "link": "https://vnexpress.net/hyundai-palisade-suc-hut-suv-co-e-gia-tu-1-299-ty-dong-5089008.html",
+    "published_at": "Tue, 30 Jun 2026 08:00:00 +0700",
+    "createAt": "2026-06-30T01:00:00.000Z",
+    "thumbnail_blurhash": "LbJ*I@4;s:t6~qIVNGax?HWBIVWB"
+  },
+  {
+    "id": "https://vnexpress.net/hai-nguoi-di-xe-may-lao-vao-duoi-xe-tai-tren-cao-toc-5091389.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Hai người đi xe máy lao vào đuôi xe tải trên cao tốc",
+    "description": "Đi vào đường cao tốc, hai người đàn ông đâm sầm vào đuôi xe tải, ngã lăn ra đường, hôm 29/6 tại Đại lộ Thăng Long.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/30/ezgif2e0c830e9c6bc66f-17827816-7838-9959-1782781813.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=VPj12X4xmPrK93b7lN5yDQ&t=image",
+    "link": "https://vnexpress.net/hai-nguoi-di-xe-may-lao-vao-duoi-xe-tai-tren-cao-toc-5091389.html",
+    "published_at": "Tue, 30 Jun 2026 08:29:26 +0700",
+    "createAt": "2026-06-30T01:29:26.000Z",
+    "thumbnail_blurhash": "LUFFv$RjD%%M~qWBRj%M-;ofof%M"
   }
 ]
