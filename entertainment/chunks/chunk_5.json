@@ -830,5 +830,44 @@
     "published_at": "Wed, 01 Jul 2026 16:38:51 +0700",
     "createAt": "2026-07-01T09:38:51.000Z",
     "thumbnail_blurhash": "LAHd$}-U000f00%1~WSf4:tR-URP"
+  },
+  {
+    "id": "https://vnexpress.net/trung-bay-bo-sach-tu-sai-gon-gia-dinh-den-tp-hcm-5091916.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Trưng bày bộ sách 'Từ Sài Gòn - Gia Định đến TP HCM'",
+    "description": "Bộ sách của học giả Vương Hồng Sển, nhà văn Sơn Nam, được trưng bày dịp 50 năm Sài Gòn - Gia Định mang tên Chủ tịch Hồ Chí Minh.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/07/01/sach-sai-gon-gia-dinh-tp-hcm-j-8925-6985-1782880222.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=M0-tkuGMgm50u_SnzvbERw",
+    "link": "https://vnexpress.net/trung-bay-bo-sach-tu-sai-gon-gia-dinh-den-tp-hcm-5091916.html",
+    "published_at": "Wed, 01 Jul 2026 17:53:57 +0700",
+    "createAt": "2026-07-01T10:53:57.000Z",
+    "thumbnail_blurhash": "LTMQ9S-:%L-U?^SPw{jFniV@S#V["
+  },
+  {
+    "id": "https://vnexpress.net/gu-mac-dam-chat-phap-cua-mbappe-5092151.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Gu mặc đậm chất Pháp của Mbappé",
+    "description": "Siêu sao bóng đá Mbappé được Vogue đánh giá cao với gu mặc theo phong cách Pháp sang trọng.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/07/01/Mbappe-phong-cach-sang-trong-1782897728.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ZTl6hYApcU5DwzYE_HdceQ",
+    "link": "https://vnexpress.net/gu-mac-dam-chat-phap-cua-mbappe-5092151.html",
+    "published_at": "Wed, 01 Jul 2026 18:47:18 +0700",
+    "createAt": "2026-07-01T11:47:18.000Z",
+    "thumbnail_blurhash": "LLOWf[9FlOIo_KxntAITOZxuRpj^"
+  },
+  {
+    "id": "https://vnexpress.net/sharon-stone-catwalk-o-paris-fashion-week-5091995.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Sharon Stone catwalk ở Paris Fashion Week",
+    "description": "Diễn viên Sharon Stone, 68 tuổi, trở lại sàn catwalk sau hơn ba thập niên.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/07/01/SharonStonetrolaisancatwalk-17-1812-3853-1782876993.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=dYuauRziGF6A0n-yooF9ug",
+    "link": "https://vnexpress.net/sharon-stone-catwalk-o-paris-fashion-week-5091995.html",
+    "published_at": "Wed, 01 Jul 2026 19:37:20 +0700",
+    "createAt": "2026-07-01T12:37:20.000Z",
+    "thumbnail_blurhash": "L9EVjB%M00t800RPt,IU?wWVwb%M"
   }
 ]
