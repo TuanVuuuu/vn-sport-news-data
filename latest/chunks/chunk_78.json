@@ -297,5 +297,31 @@
     "published_at": "Thu, 02 Jul 2026 03:00:00 +0700",
     "createAt": "2026-07-01T20:00:00.000Z",
     "thumbnail_blurhash": "LVFh^z_4yEWY4:M_xYWBD$D%IUs+"
+  },
+  {
+    "id": "https://vnexpress.net/tong-thong-cape-verde-ky-vong-thang-argentina-1-0-5092307.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Tổng thống Cape Verde kỳ vọng 'thắng Argentina 1-0'",
+    "description": "Tổng thống Cape Verde Jose Maria Neves tin đội tuyển nước này đủ khả năng tạo nên bất ngờ trước đương kim vô địch Argentina ở vòng 1/16 World Cup 2026.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/07/01/cape-verde-png-1782915248-3515-1782915515.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=FEpZ0GfRi1EexWtkY0WyiA",
+    "link": "https://vnexpress.net/tong-thong-cape-verde-ky-vong-thang-argentina-1-0-5092307.html",
+    "published_at": "Thu, 02 Jul 2026 04:00:00 +0700",
+    "createAt": "2026-07-01T21:00:00.000Z",
+    "thumbnail_blurhash": "LKEMddxL_8xiz^bVxIoPM~j;N3tS"
+  },
+  {
+    "id": "https://vnexpress.net/sagnol-bong-da-gap-van-de-neu-olise-khong-co-qua-bong-vang-5092169.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Sagnol: 'Bóng đá gặp vấn đề nếu Olise không có Quả Bóng Vàng'",
+    "description": "Theo cựu danh thủ Pháp và Bayern Munich Willy Sagnol, ngay cả khi không ghi bàn tại World Cup 2026, Michael Olise vẫn chơi hay hơn Lionel Messi và Kylian Mbappe.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/07/01/ap261818164671911-1782900272-6737-1782900641.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=m_Kh9JHJlefPjefS_VOAJA",
+    "link": "https://vnexpress.net/sagnol-bong-da-gap-van-de-neu-olise-khong-co-qua-bong-vang-5092169.html",
+    "published_at": "Thu, 02 Jul 2026 04:00:00 +0700",
+    "createAt": "2026-07-01T21:00:00.000Z",
+    "thumbnail_blurhash": "LBEWQk%dpm%08]RVnUNe05S3RDes"
   }
 ]
