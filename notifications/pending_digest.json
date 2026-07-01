@@ -1,3 +1,147 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/de-xuat-bo-canh-mam-com-ba-bo-quan-ly-5091531.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Đề xuất bỏ cảnh 'mâm cơm ba bộ quản lý'",
+      "description": "Dự thảo Luật An toàn thực phẩm đề xuất giao Bộ Y tế làm đầu mối quản lý thống nhất, thay cơ chế phân công giữa ba bộ: Y tế, Công Thương và Nông nghiệp và Môi trường.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/30/dsc07865-jpg-1782794319-8314-1782794731.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=x3pqRzZf477gBEHYe_BJZA",
+      "link": "https://vnexpress.net/de-xuat-bo-canh-mam-com-ba-bo-quan-ly-5091531.html",
+      "published_at": "Wed, 01 Jul 2026 00:00:00 +0700",
+      "createAt": "2026-06-30T17:00:00.000Z",
+      "thumbnail_blurhash": "LYG+H;o#Ip-:_NkCs:tRbbxuoJRj"
+    },
+    {
+      "id": "https://vnexpress.net/tra-cuu-diem-thi-tot-nghiep-thpt-2026-tren-vnexpress-nhanh-nhat-5091242.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Tra cứu điểm thi tốt nghiệp THPT 2026 trên VnExpress",
+      "description": "Thí sinh có thể tra cứu điểm thi tốt nghiệp THPT 2026 từ 8h ngày 1/7 trên VnExpress cùng nhiều dữ liệu khác.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/01/729683950-1782839119-5539-1782839183.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=HSrgnwlurLHbPcHCDam0pg",
+      "link": "https://vnexpress.net/tra-cuu-diem-thi-tot-nghiep-thpt-2026-tren-vnexpress-nhanh-nhat-5091242.html",
+      "published_at": "Wed, 01 Jul 2026 00:02:00 +0700",
+      "createAt": "2026-06-30T17:02:00.000Z",
+      "thumbnail_blurhash": "LKSFqs.TyXZM_4M{RPtS%$R5R5yX"
+    },
+    {
+      "id": "https://vnexpress.net/khu-nha-giau-duoc-mbappe-cristiano-ronaldo-chon-lam-noi-o-5091277.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Khu nhà giàu được Mbappé, Cristiano Ronaldo chọn làm nơi ở",
+      "description": "La Finca, khu dân cư khép kín tại Tây Ban Nha, tập trung nhiều biệt thự hiện đại, diện tích lớn, gắn với Mbappé, Cristiano Ronaldo, Gareth Bale...",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/30/ava-1782791978.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=EcUIFC_l5Z1ipe9L-mPa3Q",
+      "link": "https://vnexpress.net/khu-nha-giau-duoc-mbappe-cristiano-ronaldo-chon-lam-noi-o-5091277.html",
+      "published_at": "Wed, 01 Jul 2026 00:03:00 +0700",
+      "createAt": "2026-06-30T17:03:00.000Z",
+      "thumbnail_blurhash": "LODJ*ItxmjNhNkRVOFwGpfoMngox"
+    },
+    {
+      "id": "https://vnexpress.net/cho-nha-xanh-truoc-thong-tin-di-doi-5091096.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Chợ Nhà Xanh trước thông tin di dời",
+      "description": "Chợ Nhà Xanh 40 năm tuổi, nằm cạnh các đại học lớn ở Hà Nội, từng buôn bán sầm uất nhiều năm, nay xuống cấp mất mỹ quan, đang được xem xét di dời để mở rộng đường.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/29/cho-xanh-26-1782709282.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=k58vjBvKyk3ROQAP_0EdyQ",
+      "link": "https://vnexpress.net/cho-nha-xanh-truoc-thong-tin-di-doi-5091096.html",
+      "published_at": "Wed, 01 Jul 2026 00:28:39 +0700",
+      "createAt": "2026-06-30T17:28:39.000Z",
+      "thumbnail_blurhash": "L0A,d@~D008y0EPD,+.700}koWO;"
+    },
+    {
+      "id": "https://vnexpress.net/8-diem-moi-trong-sat-hach-lai-xe-tu-thang-7-5091818.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "8 điểm mới trong sát hạch lái xe từ tháng 7",
+      "description": "Từ tháng 7, sát hạch lái xe bỏ thi mô phỏng, đồng thời có lộ trình bổ sung tình huống thực hành trên đường, tăng độ khó lý thuyết từ 2027-2028.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/30/img-1782831320-5575-1782831328.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=helg0lysaZ9NsJWQO9o0Jw",
+      "link": "https://vnexpress.net/8-diem-moi-trong-sat-hach-lai-xe-tu-thang-7-5091818.html",
+      "published_at": "Wed, 01 Jul 2026 04:00:00 +0700",
+      "createAt": "2026-06-30T21:00:00.000Z",
+      "thumbnail_blurhash": "LWHoLCM{Mxn$_NRjM{Rj?bM_RjWB"
+    },
+    {
+      "id": "https://vnexpress.net/cong-thuc-tinh-diem-xet-tot-nghiep-thpt-nam-2026-5083800.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Công thức tính điểm xét tốt nghiệp THPT năm 2026",
+      "description": "Điểm thi tốt nghiệp THPT chiếm 50% trong công thức tính điểm xét tốt nghiệp, còn lại là học bạ với trọng số khác nhau trong ba năm.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/30/thi-thpt-la-m-thu-tu-c-thpt-ye-1601-3096-1782836757.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=-Z4mdlaEFg8DFEvJBEzDYA",
+      "link": "https://vnexpress.net/cong-thuc-tinh-diem-xet-tot-nghiep-thpt-nam-2026-5083800.html",
+      "published_at": "Wed, 01 Jul 2026 04:07:00 +0700",
+      "createAt": "2026-06-30T21:07:00.000Z",
+      "thumbnail_blurhash": "LHIh4~~W9vRi_34.-p%MbDI9W=Rj"
+    },
+    {
+      "id": "https://vnexpress.net/7-chinh-sach-y-te-hieu-luc-tu-1-7-giup-nguoi-dan-nhe-ganh-chi-phi-5091508.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "7 chính sách y tế hiệu lực từ 1/7 giúp người dân 'nhẹ gánh' chi phí",
+      "description": "Từ 1/7, nhiều quy định mới về y tế, dân số, BHYT, tiền lương, phụ cấp y bác sĩ có hiệu lực tạo cơ chế giúp người dân được hưởng lợi trong khám chữa bệnh.",
+      "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/30/233a4908-1782789773-3072-1782789801.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Os5zZHJ0SKf76Z5FIe-b-w",
+      "link": "https://vnexpress.net/7-chinh-sach-y-te-hieu-luc-tu-1-7-giup-nguoi-dan-nhe-ganh-chi-phi-5091508.html",
+      "published_at": "Wed, 01 Jul 2026 05:00:00 +0700",
+      "createAt": "2026-06-30T22:00:00.000Z",
+      "thumbnail_blurhash": "LSHLSab_ITa0IqozMxWC_NiwIUtR"
+    },
+    {
+      "id": "https://vnexpress.net/chinh-sach-noi-bat-co-hieu-luc-tu-thang-7-5091390.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Chính sách nổi bật có hiệu lực từ tháng 7",
+      "description": "Tăng lương cơ sở, phụ nữ sinh con thứ hai được nghỉ thai sản 7 tháng, quy định mới về quản lý viên chức là những chính sách nổi bật có hiệu lực từ tháng 7.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/30/dsc02197-1782785164-3055-1782785302.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=iOVjS4S9dEQifBukjUiiag",
+      "link": "https://vnexpress.net/chinh-sach-noi-bat-co-hieu-luc-tu-thang-7-5091390.html",
+      "published_at": "Wed, 01 Jul 2026 05:00:00 +0700",
+      "createAt": "2026-06-30T22:00:00.000Z",
+      "thumbnail_blurhash": "LLI}eRVro#s.02M}IU-o~WMwayxZ"
+    },
+    {
+      "id": "https://vnexpress.net/nhieu-cau-thu-duc-tron-da-luan-luu-khi-thua-paraguay-5091801.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Nhiều cầu thủ Đức trốn đá luân lưu khi thua Paraguay",
+      "description": "Leon Goretzka và vài cầu thủ từ chối đá luân lưu, khiến trung vệ Jonathan Tah phải đá ngay lượt thứ sáu và hỏng ăn, khiến Đức thua Paraguay ở vòng 1/16 World Cup 2026.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/06/30/jonathan-tah-1782822623-8501-1782822794.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=9ucYzW8u6qg-bw8LSrEBZQ",
+      "link": "https://vnexpress.net/nhieu-cau-thu-duc-tron-da-luan-luu-khi-thua-paraguay-5091801.html",
+      "published_at": "Wed, 01 Jul 2026 05:00:00 +0700",
+      "createAt": "2026-06-30T22:00:00.000Z",
+      "thumbnail_blurhash": "LAH1M%{er9xJ3ZTe9stRsxpLJDRO"
+    },
+    {
+      "id": "https://vnexpress.net/9-2-trieu-nguoi-dan-ha-noi-kham-suc-khoe-mien-phi-tu-1-7-5091810.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "9,2 triệu người dân Hà Nội khám sức khỏe miễn phí từ 1/7",
+      "description": "Hà Nội triển khai khám sức khỏe định kỳ và sàng lọc bệnh tật miễn phí cho người dân toàn thành phố kể cả thường trú và tạm trú, từ 1/7.",
+      "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/30/1-1782827903-2546-1782827967.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=st7ovtLO7g3gQOrN4ZoPRQ",
+      "link": "https://vnexpress.net/9-2-trieu-nguoi-dan-ha-noi-kham-suc-khoe-mien-phi-tu-1-7-5091810.html",
+      "published_at": "Wed, 01 Jul 2026 05:30:00 +0700",
+      "createAt": "2026-06-30T22:30:00.000Z",
+      "thumbnail_blurhash": "LTMQt|.8ozNGyZWFWsxZpJkW$*xa"
+    },
+    {
+      "id": "https://vnexpress.net/cuoc-canh-tranh-dinh-hinh-luat-choi-moi-o-hormuz-5091415.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Cuộc cạnh tranh định hình luật chơi mới ở Hormuz",
+      "description": "Iran và Oman theo đuổi cách tiếp cận khác nhau trong quản lý Hormuz, khiến hoạt động tàu thuyền qua eo biển huyết mạch trở nên rối ren.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/30/ap26162502155547-1782807704-5752-1782808756.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=TVHCDJSrKyqq0nz3qVH2nA",
+      "link": "https://vnexpress.net/cuoc-canh-tranh-dinh-hinh-luat-choi-moi-o-hormuz-5091415.html",
+      "published_at": "Wed, 01 Jul 2026 06:00:00 +0700",
+      "createAt": "2026-06-30T23:00:00.000Z",
+      "thumbnail_blurhash": "LWHfSht8j[xv?dogWBafR%kCaxWA"
+    }
+  ]
 }
