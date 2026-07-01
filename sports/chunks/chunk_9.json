@@ -921,5 +921,31 @@
     "published_at": "Wed, 01 Jul 2026 17:14:41 +0700",
     "createAt": "2026-07-01T10:14:41.000Z",
     "thumbnail_blurhash": "LDCaP[${t:-;8$WERQRQKO%hRhIq"
+  },
+  {
+    "id": "https://vnexpress.net/he-lo-ly-do-son-heung-min-phai-du-bi-o-world-cup-2026-5092254.html",
+    "category_id": "sports",
+    "category_name": "Thể thao",
+    "source": "VnExpress",
+    "title": "Hé lộ lý do Son Heung-min phải dự bị ở World Cup 2026",
+    "description": "Bất đồng trong vấn đề \"tẩy chay truyền thông\" được cho là lý do khiến tiền đạo thủ quân Hàn Quốc Son Heung-min mất suất đá chính tại World Cup 2026.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/07/01/ap26176114797109-1782900919-8959-1782900936.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=OgwKGOkzn_AU98QIbRAR_w",
+    "link": "https://vnexpress.net/he-lo-ly-do-son-heung-min-phai-du-bi-o-world-cup-2026-5092254.html",
+    "published_at": "Wed, 01 Jul 2026 17:29:22 +0700",
+    "createAt": "2026-07-01T10:29:22.000Z",
+    "thumbnail_blurhash": "L8EBBW=v3AB:1H9ZL$w|AVNe=c~B"
+  },
+  {
+    "id": "https://vnexpress.net/nghe-thuat-doc-tran-dung-binh-cua-ancelotti-5092221.html",
+    "category_id": "sports",
+    "category_name": "Thể thao",
+    "source": "VnExpress",
+    "title": "Nghệ thuật đọc trận, dụng binh của Ancelotti",
+    "description": "Thay đổi chiến thuật ngay sau giờ nghỉ, Carlo Ancelotti đã đánh thức một Brazil rệu rã trong hiệp một, làm nên màn ngược dòng trước Nhật Bản ở vòng 1/16 World Cup.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/07/01/Screenshot20260701154018-17828-1273-6839-1782897271.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=4xK2vbNQ5uR2HgxTvupvTQ",
+    "link": "https://vnexpress.net/nghe-thuat-doc-tran-dung-binh-cua-ancelotti-5092221.html",
+    "published_at": "Wed, 01 Jul 2026 17:54:23 +0700",
+    "createAt": "2026-07-01T10:54:23.000Z",
+    "thumbnail_blurhash": "LKCit7~X%MouI#EUE4I[EVN#V@$j"
   }
 ]
