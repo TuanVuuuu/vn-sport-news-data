@@ -193,5 +193,31 @@
     "published_at": "Wed, 01 Jul 2026 14:30:51 +0700",
     "createAt": "2026-07-01T07:30:51.000Z",
     "thumbnail_blurhash": "LHJ7B#=%0_B{}=,tFwGGMuwH^+5="
+  },
+  {
+    "id": "https://vnexpress.net/sony-lan-dau-ra-mat-the-he-tv-true-rgb-tai-viet-nam-5090091.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Sony lần đầu ra mắt thế hệ TV True RGB tại Việt Nam",
+    "description": "Sony giới thiệu các dòng TV Bravia True RGB sử dụng hệ thống đèn LED xanh dương, đỏ, xanh lá điều khiển độc lập, tái tạo dải màu rộng nhất từ trước đến nay.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/01/TVs-1782882033-9694-1782882203.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=0VeGTe3_qd8i3jN9Muni5A",
+    "link": "https://vnexpress.net/sony-lan-dau-ra-mat-the-he-tv-true-rgb-tai-viet-nam-5090091.html",
+    "published_at": "Wed, 01 Jul 2026 14:00:00 +0700",
+    "createAt": "2026-07-01T07:00:00.000Z",
+    "thumbnail_blurhash": "L9EyPetTTysi07%#%M8_y;rBn7RO"
+  },
+  {
+    "id": "https://vnexpress.net/ly-do-nguoi-phap-chong-nong-bang-phan-trang-5091709.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Lý do người Pháp chống nóng bằng phấn trắng",
+    "description": "Để đối phó với cái nóng trên 40 độ C, nhiều người dân Pháp sử dụng phấn trắng để giảm bớt nhiệt độ trong nhà, khiến mặt hàng này bán chạy.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/30/VNEPaint-1782809537-8654-1782809582.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=d7pV1Xsf7N6pQZPlVWlevA",
+    "link": "https://vnexpress.net/ly-do-nguoi-phap-chong-nong-bang-phan-trang-5091709.html",
+    "published_at": "Wed, 01 Jul 2026 16:00:00 +0700",
+    "createAt": "2026-07-01T09:00:00.000Z",
+    "thumbnail_blurhash": "LBL#5[RN-:_NNZR,8_MxD%WCIUt8"
   }
 ]
