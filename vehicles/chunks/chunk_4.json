@@ -1090,5 +1090,31 @@
     "published_at": "Wed, 01 Jul 2026 05:00:00 +0700",
     "createAt": "2026-06-30T22:00:00.000Z",
     "thumbnail_blurhash": "LuI5rbs;jEt7_NofRjoe_4ofogay"
+  },
+  {
+    "id": "https://vnexpress.net/8-diem-moi-trong-sat-hach-lai-xe-tu-thang-7-5091818.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "8 điểm mới trong sát hạch lái xe từ tháng 7",
+    "description": "Từ tháng 7, sát hạch lái xe bỏ thi mô phỏng, đồng thời có lộ trình bổ sung tình huống thực hành trên đường, tăng độ khó lý thuyết từ 2027-2028.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/30/img-1782831320-5575-1782831328.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=helg0lysaZ9NsJWQO9o0Jw",
+    "link": "https://vnexpress.net/8-diem-moi-trong-sat-hach-lai-xe-tu-thang-7-5091818.html",
+    "published_at": "Wed, 01 Jul 2026 04:00:00 +0700",
+    "createAt": "2026-06-30T21:00:00.000Z",
+    "thumbnail_blurhash": "LWHoLCM{Mxn$_NRjM{Rj?bM_RjWB"
+  },
+  {
+    "id": "https://vnexpress.net/oto-co-the-bi-danh-thue-theo-kich-thuoc-de-ngan-beo-phi-5090923.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Ôtô có thể bị đánh thuế theo kích thước để ngăn 'béo phì'",
+    "description": "Nhằm ngăn chặn tình trạng ôtô ngày càng phình to, các nhà nghiên cứu ở châu Âu đề xuất đánh thuế tính theo mm.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/30/Mercedes4-1782783347-6102-1782783583.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=iJaNzqK2CVYZBGvnRqxheQ",
+    "link": "https://vnexpress.net/oto-co-the-bi-danh-thue-theo-kich-thuoc-de-ngan-beo-phi-5090923.html",
+    "published_at": "Wed, 01 Jul 2026 06:00:00 +0700",
+    "createAt": "2026-06-30T23:00:00.000Z",
+    "thumbnail_blurhash": "L4AJf_70NH]:00,s%M9ZYk=exu9t"
   }
 ]
