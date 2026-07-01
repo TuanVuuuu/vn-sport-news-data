@@ -635,5 +635,44 @@
     "published_at": "Wed, 01 Jul 2026 18:52:26 +0700",
     "createAt": "2026-07-01T11:52:26.000Z",
     "thumbnail_blurhash": "LcKd#j~pRPM{tRo}R+j[DjxZxuRP"
+  },
+  {
+    "id": "https://vnexpress.net/doi-moi-adn-tao-dong-luc-cho-kinh-te-tp-hcm-5092256.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Đổi mới - ADN tạo động lực cho kinh tế TP HCM",
+    "description": "Lập khu chế xuất, đổi đất lấy hạ tầng, xây dựng trung tâm tài chính quốc tế, TP HCM nhiều lần đi đầu trong đổi mới, phá bỏ những rào cản để đưa đô thị thành đầu tàu kinh tế.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/01/IMG5808-1782902764-9905-1782902779.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=CGJu72jRCOWrZFgeWsYQRA",
+    "link": "https://vnexpress.net/doi-moi-adn-tao-dong-luc-cho-kinh-te-tp-hcm-5092256.html",
+    "published_at": "Wed, 01 Jul 2026 19:00:00 +0700",
+    "createAt": "2026-07-01T12:00:00.000Z",
+    "thumbnail_blurhash": "LpE:SnW?WXt7%%ogjZWXbyRkf5oK"
+  },
+  {
+    "id": "https://vnexpress.net/ha-long-them-dong-luc-phat-trien-tu-mo-hinh-lang-dai-hoc-5092252.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Hạ Long thêm động lực phát triển từ mô hình làng đại học",
+    "description": "Kinh nghiệm từ Thâm Quyến và Singapore cho thấy làng đại học có thể góp phần hình thành hệ sinh thái đổi mới sáng tạo, hướng đi đang được Hạ Long quan tâm khi tìm kiếm động lực tăng trưởng mới.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/01/z7990624903093e47b5ecef182fa05-6961-8233-1782902080.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=tDydueEalpJiHN1oV-KctA",
+    "link": "https://vnexpress.net/ha-long-them-dong-luc-phat-trien-tu-mo-hinh-lang-dai-hoc-5092252.html",
+    "published_at": "Wed, 01 Jul 2026 19:00:00 +0700",
+    "createAt": "2026-07-01T12:00:00.000Z",
+    "thumbnail_blurhash": "LNDcdS?Engxu~o%1oIxZWTf8xus:"
+  },
+  {
+    "id": "https://vnexpress.net/vec-mo-rong-hop-tac-chien-luoc-voi-doi-tac-toan-cau-5092275.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "VEC mở rộng hợp tác chiến lược với đối tác toàn cầu",
+    "description": "Trung tâm Triển lãm Việt Nam (VEC) ký hợp tác với nhiều đối tác quốc tế nhằm hoàn thiện hệ sinh thái sự kiện.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/01/a1-1782905166-5672-1782905883.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=LfgpK90hZ4ZnJ6Te9DtHHw",
+    "link": "https://vnexpress.net/vec-mo-rong-hop-tac-chien-luoc-voi-doi-tac-toan-cau-5092275.html",
+    "published_at": "Wed, 01 Jul 2026 20:00:00 +0700",
+    "createAt": "2026-07-01T13:00:00.000Z",
+    "thumbnail_blurhash": "LsJkf^ItWHtPKnD,Rjj=-:M}act4"
   }
 ]
