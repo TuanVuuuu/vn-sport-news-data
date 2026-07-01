@@ -258,5 +258,31 @@
     "published_at": "Thu, 02 Jul 2026 01:00:00 +0700",
     "createAt": "2026-07-01T18:00:00.000Z",
     "thumbnail_blurhash": "LHGQ^FxIb{%L:jVrS1Vru6WEbcjY"
+  },
+  {
+    "id": "https://vnexpress.net/10-nam-lam-du-nghe-cuu-con-mac-benh-hiem-5089712.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "10 năm làm đủ nghề cứu con mắc bệnh hiếm",
+    "description": "Lên phố ở trọ từ khi con trai phát bệnh hiếm, vợ chồng chị Thùy Dương làm đủ nghề từ mò cua, hái rau dại đến bán chuối chiên để chắt chiu viện phí cho con.",
+    "thumbnail_url": "https://vcdn1-giadinh.vnecdn.net/2026/06/27/1782432455015b2d9469a2920d5669-4086-1477-1782526573.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=tvYcj374l91v3ARnwPupWw",
+    "link": "https://vnexpress.net/10-nam-lam-du-nghe-cuu-con-mac-benh-hiem-5089712.html",
+    "published_at": "Thu, 02 Jul 2026 01:07:05 +0700",
+    "createAt": "2026-07-01T18:07:05.000Z",
+    "thumbnail_blurhash": "LAAmb*VD00yZ%hROITx^DhWY-=n#"
+  },
+  {
+    "id": "https://vnexpress.net/dieu-gi-xay-ra-voi-tim-mach-khi-uong-tra-moi-ngay-5091012.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Điều gì xảy ra với tim mạch khi uống trà mỗi ngày?",
+    "description": "Uống 2-4 tách (500-1000 ml) trà không đường mỗi ngày giúp bảo vệ tim mạch và giảm hiệu quả nguy cơ tử vong do các bệnh lý liên quan.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/29/screenshot-at-1782702324-1113-1782702731.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=1SumRWuUeFNs5Wo9iTcoMA",
+    "link": "https://vnexpress.net/dieu-gi-xay-ra-voi-tim-mach-khi-uong-tra-moi-ngay-5091012.html",
+    "published_at": "Thu, 02 Jul 2026 02:00:00 +0700",
+    "createAt": "2026-07-01T19:00:00.000Z",
+    "thumbnail_blurhash": "LeKw,x-;?cxv~VjsIVt7x]RjjZWB"
   }
 ]
