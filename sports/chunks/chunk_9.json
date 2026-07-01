@@ -973,5 +973,31 @@
     "published_at": "Wed, 01 Jul 2026 19:06:30 +0700",
     "createAt": "2026-07-01T12:06:30.000Z",
     "thumbnail_blurhash": "LiK0=^t6%e%L~Txat5jZxUR*V@NG"
+  },
+  {
+    "id": "https://vnexpress.net/doi-tuyen-my-dung-cong-nghe-de-luyen-sut-luan-luu-5092305.html",
+    "category_id": "sports",
+    "category_name": "Thể thao",
+    "source": "VnExpress",
+    "title": "Đội tuyển Mỹ dùng công nghệ để luyện sút luân lưu",
+    "description": "Đội tuyển Mỹ sử dụng công nghệ phân tích sóng não trong quá trình tập luyện nhằm cải thiện khả năng đá luân lưu, khi bước vào vòng 1/16 World Cup 2026 với Bosnia &amp; Herzegovina.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/07/01/75j3rm5uejkpnjznytw5zcvtoq1-17-8218-3780-1782914257.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=vyH_lByXVYJQQwy7UECfBQ",
+    "link": "https://vnexpress.net/doi-tuyen-my-dung-cong-nghe-de-luyen-sut-luan-luu-5092305.html",
+    "published_at": "Wed, 01 Jul 2026 21:16:06 +0700",
+    "createAt": "2026-07-01T14:16:06.000Z",
+    "thumbnail_blurhash": "L9EMy{sjMx_K0BR6VtnoDzs;aNRQ"
+  },
+  {
+    "id": "https://vnexpress.net/anh-chdc-congo-5092298.html",
+    "category_id": "sports",
+    "category_name": "Thể thao",
+    "source": "VnExpress",
+    "title": "Anh - CHDC Congo:",
+    "description": "Tuyển Anh được đánh giá cao hơn khi gặp CHDC Congo ở vòng 1/16 World Cup 2026 trên sân Atlanta. Bóng lăn lúc 23h.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/07/01/anh-png-1782912240-3120-1782912253.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=sIvp9j66XvUuVNkFZos5dQ",
+    "link": "https://vnexpress.net/anh-chdc-congo-5092298.html",
+    "published_at": "Wed, 01 Jul 2026 22:00:00 +0700",
+    "createAt": "2026-07-01T15:00:00.000Z",
+    "thumbnail_blurhash": "LHIMWz=d|{Or_NS4o~NGL1xZX4wK"
   }
 ]

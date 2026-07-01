@@ -63,5 +63,18 @@
     "published_at": "Wed, 01 Jul 2026 00:00:11 +0700",
     "createAt": "2026-06-30T17:00:11.000Z",
     "thumbnail_blurhash": "LCQvwR~qRP?b~qNGtQt7~qRQayjt"
+  },
+  {
+    "id": "https://vnexpress.net/doanh-nghiep-mot-nguoi-5092244.html",
+    "category_id": "perspectives",
+    "category_name": "Góc nhìn",
+    "source": "VnExpress",
+    "title": "Doanh nghiệp một người",
+    "description": "Có một phần mềm tôi đang dùng thử nghiệm hàng sáng, rất tiện lợi. Tôi cứ ngỡ phía sau là một startup dăm người.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/01/acs-1782908147-4686-1782908162.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ELTI8aCK3XXtqK9apI1ZjA",
+    "link": "https://vnexpress.net/doanh-nghiep-mot-nguoi-5092244.html",
+    "published_at": "Wed, 01 Jul 2026 22:26:53 +0700",
+    "createAt": "2026-07-01T15:26:53.000Z",
+    "thumbnail_blurhash": "LEQmCr_3ae-;_3Rjt7t7~qRjRjoL"
   }
 ]
