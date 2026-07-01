@@ -375,5 +375,31 @@
     "published_at": "Wed, 01 Jul 2026 06:00:00 +0700",
     "createAt": "2026-06-30T23:00:00.000Z",
     "thumbnail_blurhash": "LHMtU8}[Iu9F.9xawH~W_NXStle-"
+  },
+  {
+    "id": "https://vnexpress.net/nguoi-cha-nhoi-mau-co-tim-tren-chuyen-xe-dua-con-di-chua-benh-5091782.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Người cha nhồi máu cơ tim trên chuyến xe đưa con đi chữa bệnh",
+    "description": "Người đàn ông 43 tuổi bất ngờ lên cơn nhồi máu cơ tim khi đang trên đường đưa con trai đi khám bệnh, chiếc xe rẽ lối đến bệnh viện gần đó cấp cứu.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/30/1-1782818653-7848-1782818677.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=oi6xa3X9o6X9vK2ZdwtRFA",
+    "link": "https://vnexpress.net/nguoi-cha-nhoi-mau-co-tim-tren-chuyen-xe-dua-con-di-chua-benh-5091782.html",
+    "published_at": "Wed, 01 Jul 2026 07:00:00 +0700",
+    "createAt": "2026-07-01T00:00:00.000Z",
+    "thumbnail_blurhash": "LmNKbb_4M{t7-m%Le:Rk?bIBj]t5"
+  },
+  {
+    "id": "https://vnexpress.net/5-thuc-pham-giau-dinh-duong-nen-an-hang-tuan-5091252.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "5 thực phẩm giàu dinh dưỡng nên ăn hàng tuần",
+    "description": "Hạt hướng dương, cá béo, hạt óc chó, gạo lứt cùng các loại rau củ quả cung cấp dồi dào vitamin, khoáng chất và chất chống oxy hóa, có lợi cho sức khỏe.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/06/29/hat-huong-duong-1731901517-1782726255.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=16Kd4ei4ARGHFEqN3JPpQg",
+    "link": "https://vnexpress.net/5-thuc-pham-giau-dinh-duong-nen-an-hang-tuan-5091252.html",
+    "published_at": "Wed, 01 Jul 2026 07:00:00 +0700",
+    "createAt": "2026-07-01T00:00:00.000Z",
+    "thumbnail_blurhash": "LCHBSVoP0Xx]~pIVSPIp4:V=kXRQ"
   }
 ]
