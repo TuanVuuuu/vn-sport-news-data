@@ -908,5 +908,31 @@
     "published_at": "Wed, 01 Jul 2026 22:34:38 +0700",
     "createAt": "2026-07-01T15:34:38.000Z",
     "thumbnail_blurhash": "LBC615Ip01~B0gWW^jt6IokC-VEL"
+  },
+  {
+    "id": "https://vnexpress.net/sac-voc-tuoi-30-cua-nguoi-mau-nam-anh-5091635.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Sắc vóc tuổi 30 của người mẫu Nam Anh",
+    "description": "Sau gần 10 năm hoạt động showbiz, người đẹp Nam Anh được fan nhận xét có diện mạo sắc sảo, phong thái điềm tĩnh hơn.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/06/30/Nguoi-mau-Nam-Anh-12-1782802957.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=IP6f6-ik2uzTxvDn9i-t4g",
+    "link": "https://vnexpress.net/sac-voc-tuoi-30-cua-nguoi-mau-nam-anh-5091635.html",
+    "published_at": "Thu, 02 Jul 2026 00:00:00 +0700",
+    "createAt": "2026-07-01T17:00:00.000Z",
+    "thumbnail_blurhash": "LHLW#4~WG^tm0#xv^kkD%1jraKxa"
+  },
+  {
+    "id": "https://vnexpress.net/loat-tranh-hoa-sung-chuc-trieu-usd-cua-claude-monet-5091129.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Loạt tranh hoa súng chục triệu USD của Claude Monet",
+    "description": "Họa sĩ Claude Monet vẽ khung cảnh hồ hoa súng tại nơi ông sinh sống những năm tháng cuối đời, được giới sưu tầm săn đón, đạt hàng chục triệu USD.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/06/30/tranh-hoa-sung-1782792580.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=8JGan19GfERjMa3YRE2Ryg",
+    "link": "https://vnexpress.net/loat-tranh-hoa-sung-chuc-trieu-usd-cua-claude-monet-5091129.html",
+    "published_at": "Thu, 02 Jul 2026 00:05:00 +0700",
+    "createAt": "2026-07-01T17:05:00.000Z",
+    "thumbnail_blurhash": "L59as.0ct1pfnsW?RKnOpKVsS*og"
   }
 ]
