@@ -1155,5 +1155,44 @@
     "published_at": "Wed, 01 Jul 2026 09:25:10 +0700",
     "createAt": "2026-07-01T02:25:10.000Z",
     "thumbnail_blurhash": "LNEfWp00%NE2_MR.MxR*yCxuIBxu"
+  },
+  {
+    "id": "https://vnexpress.net/hieu-dung-ve-quy-dinh-cho-tre-em-va-cac-muc-xu-phat-vi-pham-tu-1-7-5091866.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Hiểu đúng về quy định chở trẻ em và các mức xử phạt vi phạm từ 1/7",
+    "description": "Từ 1/7, tài xế không được cho trẻ ngồi ở hàng ghế trước, buộc phải có thiết bị an toàn, từ 15/8 mới xử phạt cảnh cáo.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/01/img-1782864892-3619-1782864917.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=SFKZ215HC-ef9akcPXtPtw",
+    "link": "https://vnexpress.net/hieu-dung-ve-quy-dinh-cho-tre-em-va-cac-muc-xu-phat-vi-pham-tu-1-7-5091866.html",
+    "published_at": "Wed, 01 Jul 2026 10:48:39 +0700",
+    "createAt": "2026-07-01T03:48:39.000Z",
+    "thumbnail_blurhash": "LFDS,e=|4.M{~o-pxu-;ot$*^+xu"
+  },
+  {
+    "id": "https://vnexpress.net/bmw-x5-the-he-moi-ra-mat-toan-cau-5091899.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "BMW X5 thế hệ mới ra mắt toàn cầu",
+    "description": "Mẫu xe gầm cao thiết kế mới, nội thất thêm màn hình ghế phụ, nhiều hệ truyền động, bán ra vào cuối năm, giá 71.250-81.250 USD.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/01/BMWiX520271-1782875595-4966-1782875653.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=5tyhQj9HHa1gb2fKa5wdOw",
+    "link": "https://vnexpress.net/bmw-x5-the-he-moi-ra-mat-toan-cau-5091899.html",
+    "published_at": "Wed, 01 Jul 2026 11:24:09 +0700",
+    "createAt": "2026-07-01T04:24:09.000Z",
+    "thumbnail_blurhash": "LpIO;8emxYt6.TVrM{j@.8WBRjay"
+  },
+  {
+    "id": "https://vnexpress.net/xe-suv-dam-vang-oto-di-lui-tren-cao-toc-4-nguoi-thiet-mang-5091649.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Xe SUV đâm văng ôtô đi lùi trên cao tốc, 4 người thiệt mạng",
+    "description": "Tài xế của chiếc sedan quyết định chạy lùi khi lỡ mất lối ra trên cao tốc Delhi-Dehradun và bị một chiếc SUV đâm từ phía sau.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/01/screenshot20260701114240-17828-8590-5116-1782881035.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=el8ltsrcI3xPmv2r8KvnQQ",
+    "link": "https://vnexpress.net/xe-suv-dam-vang-oto-di-lui-tren-cao-toc-4-nguoi-thiet-mang-5091649.html",
+    "published_at": "Wed, 01 Jul 2026 12:00:00 +0700",
+    "createAt": "2026-07-01T05:00:00.000Z",
+    "thumbnail_blurhash": "LHEfj8~qt2I[_2${IXNGV?Rit9t8"
   }
 ]

@@ -934,5 +934,44 @@
     "published_at": "Wed, 01 Jul 2026 10:32:17 +0700",
     "createAt": "2026-07-01T03:32:17.000Z",
     "thumbnail_blurhash": "LJJRw0Ou*0%$ND?v-;%L4mD*x^tR"
+  },
+  {
+    "id": "https://vnexpress.net/nam-sinh-truong-huyen-la-thu-khoa-30-30-diem-khoi-a00-5092039.html",
+    "category_id": "education",
+    "category_name": "Giáo dục",
+    "source": "VnExpress",
+    "title": "Nam sinh trường huyện là thủ khoa 30/30 điểm khối A00",
+    "description": "Nguyễn Khắc Công, thủ khoa với điểm 10 ở ba môn Toán, Lý, Hóa, nói chỉ học từ thầy cô ở trường và bí quyết là chắc kiến thức nền, không lặp lại lỗi sai.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/01/3b07d991-f658b4eb-bf18f78589e8-8429-6067-1782879540.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=iLSt7SdNeFXzhiHmUZBCEw",
+    "link": "https://vnexpress.net/nam-sinh-truong-huyen-la-thu-khoa-30-30-diem-khoi-a00-5092039.html",
+    "published_at": "Wed, 01 Jul 2026 11:31:54 +0700",
+    "createAt": "2026-07-01T04:31:54.000Z",
+    "thumbnail_blurhash": "LBFh-Qot6Q0$.k.5%Jr?0}Ey~9rq"
+  },
+  {
+    "id": "https://vnexpress.net/du-doan-diem-chuan-dai-hoc-2026-cua-gs-nguyen-dinh-duc-dai-hoc-quoc-gia-ha-noi-5091813.html",
+    "category_id": "education",
+    "category_name": "Giáo dục",
+    "source": "VnExpress",
+    "title": "GS Nguyễn Đình Đức: Điểm chuẩn các ngành 'hot' có thể giảm 1-3 điểm",
+    "description": "Tỷ lệ điểm giỏi nhiều môn thấp hơn mọi năm, số bài thi dưới 5 cao cho thấy đề thi phân hóa tốt, điểm chuẩn các ngành 'hot' có thể giảm 1-3 điểm, theo GS Nguyễn Đình Đức.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/01/gs-tskh-nguya-n-a-a-nh-a-a-c-1-8481-2138-1782882168.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=z261Js1CXoA67Xgw_q1ZNA",
+    "link": "https://vnexpress.net/du-doan-diem-chuan-dai-hoc-2026-cua-gs-nguyen-dinh-duc-dai-hoc-quoc-gia-ha-noi-5091813.html",
+    "published_at": "Wed, 01 Jul 2026 12:02:48 +0700",
+    "createAt": "2026-07-01T05:02:48.000Z",
+    "thumbnail_blurhash": "LBH2G|0000~WDN?I?wRO-;jI=|S3"
+  },
+  {
+    "id": "https://vnexpress.net/thu-khoa-toan-quoc-khoi-b00-co-diem-xet-tuyen-nganh-y-31-5-5092030.html",
+    "category_id": "education",
+    "category_name": "Giáo dục",
+    "source": "VnExpress",
+    "title": "Thủ khoa 30/30 điểm học 3 ca mỗi ngày, giải hơn 1.000 đề",
+    "description": "Hải Lam, thủ khoa khối B00 với 30/30 điểm, nói học khoảng 15 tiếng mỗi ngày, giải hơn 1.000 đề thi là sự \"đánh đổi cần thiết\".",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/01/z7994910463587-a8d6d42f6ab3764-1468-4233-1782882076.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=TfpheGvmyOc1dZf68uCfFA",
+    "link": "https://vnexpress.net/thu-khoa-toan-quoc-khoi-b00-co-diem-xet-tuyen-nganh-y-31-5-5092030.html",
+    "published_at": "Wed, 01 Jul 2026 12:13:01 +0700",
+    "createAt": "2026-07-01T05:13:01.000Z",
+    "thumbnail_blurhash": "LOI;|.~Tp^.S5i?^=yrE-W-WR+EM"
   }
 ]
