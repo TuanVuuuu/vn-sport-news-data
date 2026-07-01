@@ -453,5 +453,31 @@
     "published_at": "Wed, 01 Jul 2026 07:01:00 +0700",
     "createAt": "2026-07-01T00:01:00.000Z",
     "thumbnail_blurhash": "LGE{?P-AGR7Zy.Sh#;$MFZI=RR#q"
+  },
+  {
+    "id": "https://vnexpress.net/khi-nao-khoi-ngoai-ngung-rut-von-khoi-chung-khoan-viet-nam-5091834.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Khi nào khối ngoại ngừng rút vốn khỏi chứng khoán Việt Nam?",
+    "description": "Nhà đầu tư nước ngoài đã rút hơn 3 tỷ USD trong nửa năm nhưng chuyên gia cho rằng tháng 9, khi thị trường được nâng hạng, dòng tiền có thể quay lại.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/06/30/bang-gia-1782832791-7312-1782832806.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=NP_XBBJmeLPOWmwKblnhgQ",
+    "link": "https://vnexpress.net/khi-nao-khoi-ngoai-ngung-rut-von-khoi-chung-khoan-viet-nam-5091834.html",
+    "published_at": "Wed, 01 Jul 2026 08:02:00 +0700",
+    "createAt": "2026-07-01T01:02:00.000Z",
+    "thumbnail_blurhash": "L6Gu5l9HT_3Z3Y{e=q%}$_Z~4nPA"
+  },
+  {
+    "id": "https://vnexpress.net/gia-vang-the-gioi-co-quy-giam-manh-nhat-13-nam-5091888.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Giá vàng thế giới có quý giảm mạnh nhất 13 năm",
+    "description": "Mỗi ounce vàng giảm hơn 11% trong quý II, xuống sát 4.000 USD một ounce - tệ nhất kể từ năm 2013.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/01/goldreu9-1782868446-6334-1782868458.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=PwErCTnY7Pc4Bm2xbbLpVA",
+    "link": "https://vnexpress.net/gia-vang-the-gioi-co-quy-giam-manh-nhat-13-nam-5091888.html",
+    "published_at": "Wed, 01 Jul 2026 08:28:23 +0700",
+    "createAt": "2026-07-01T01:28:23.000Z",
+    "thumbnail_blurhash": "LBBM=4d.%%$x00-?R3o#5GjWxtNK"
   }
 ]
