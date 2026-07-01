@@ -141,5 +141,31 @@
     "published_at": "Wed, 01 Jul 2026 08:00:00 +0700",
     "createAt": "2026-07-01T01:00:00.000Z",
     "thumbnail_blurhash": "LHHnjVE*^j^kys9wEM$*F3VrMxxa"
+  },
+  {
+    "id": "https://vnexpress.net/my-go-lenh-han-che-voi-hai-mo-hinh-toi-tan-cua-anthropic-5091878.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Mỹ gỡ lệnh hạn chế với hai mô hình tối tân của Anthropic",
+    "description": "Anthropic cho biết sẽ sớm khôi phục quyền truy cập toàn cầu với mô hình Fable 5 và Mythos 5 sau khi được chính phủ Mỹ gỡ rào.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/01/claude-fable-1782870088-3746-1782870125.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=Ykmlx5P3FnJJ3E2-zHCL6Q",
+    "link": "https://vnexpress.net/my-go-lenh-han-che-voi-hai-mo-hinh-toi-tan-cua-anthropic-5091878.html",
+    "published_at": "Wed, 01 Jul 2026 09:00:00 +0700",
+    "createAt": "2026-07-01T02:00:00.000Z",
+    "thumbnail_blurhash": "LHRfd._3xa%1~pf6jtof~qayNGtR"
+  },
+  {
+    "id": "https://vnexpress.net/anh-thuc-te-va-so-do-bo-mach-iphone-18-pro-bi-ro-ri-5091832.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Ảnh thực tế và sơ đồ bo mạch iPhone 18 Pro bị rò rỉ",
+    "description": "Vụ tấn công mạng nhắm vào Tata Electronics, đối tác của Apple, được cho là làm rò rỉ 200.000 tệp tin bảo mật, trong đó có linh kiện và ảnh thực tế của iPhone 18 Pro.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/30/massive-iphone-pro-leak-reveal-6728-8093-1782832436.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=7LdnNbN6j6z-dCsXcRgGaw",
+    "link": "https://vnexpress.net/anh-thuc-te-va-so-do-bo-mach-iphone-18-pro-bi-ro-ri-5091832.html",
+    "published_at": "Wed, 01 Jul 2026 09:30:00 +0700",
+    "createAt": "2026-07-01T02:30:00.000Z",
+    "thumbnail_blurhash": "LqAn1c.AtnogogofkCj[j]j[j[j["
   }
 ]
