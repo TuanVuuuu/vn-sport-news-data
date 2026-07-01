@@ -661,5 +661,57 @@
     "published_at": "Wed, 01 Jul 2026 14:00:00 +0700",
     "createAt": "2026-07-01T07:00:00.000Z",
     "thumbnail_blurhash": "LDEVvV~T-=%4~4tQD%MzngW@M|nM"
+  },
+  {
+    "id": "https://vnexpress.net/thu-hoi-4-loai-dau-goi-dau-do-chua-chat-cam-5091973.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Thu hồi 4 loại dầu gội đầu do chứa chất cấm",
+    "description": "Cục Quản lý Dược đình chỉ lưu hành và thu hồi toàn quốc 4 loại dầu gội chứa Clotrimazole - hoạt chất trị nấm, do không còn đáp ứng quy định của Hiệp định Mỹ phẩm ASEAN.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/01/anh-chup-man-hinh-luc-17828760-8944-4676-1782876112.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=gYc1apZs3T6HUXXi8Qd44g",
+    "link": "https://vnexpress.net/thu-hoi-4-loai-dau-goi-dau-do-chua-chat-cam-5091973.html",
+    "published_at": "Wed, 01 Jul 2026 10:32:56 +0700",
+    "createAt": "2026-07-01T03:32:56.000Z",
+    "thumbnail_blurhash": "LQSY{sx]^+~p_3oeWCbIt7ofRjV@"
+  },
+  {
+    "id": "https://vnexpress.net/bi-mo-mau-co-phai-kieng-an-mo-chat-beo-5091890.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Bị mỡ máu có phải kiêng ăn mỡ, chất béo?",
+    "description": "Tôi bị mỡ máu cao, vậy tôi có cần kiêng ăn dầu mỡ, hoặc kiêng hoàn toàn chất béo từ mỡ động vật, nội tạng hay các món chiên rán không? (Nhật, 38 tuổi, Hà Nội)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/01/anh-ran-mo-lon-bang-nuoc-tra-1-8069-1278-1782869330.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=jLY3NUQFddnhLsYZAXoXAw",
+    "link": "https://vnexpress.net/bi-mo-mau-co-phai-kieng-an-mo-chat-beo-5091890.html",
+    "published_at": "Wed, 01 Jul 2026 14:02:15 +0700",
+    "createAt": "2026-07-01T07:02:15.000Z",
+    "thumbnail_blurhash": "L3C~^zMa00~V00IU.8D%01E2o~4:"
+  },
+  {
+    "id": "https://vnexpress.net/vi-sao-mat-ban-nhin-nhu-qua-duong-ham-5092060.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Vì sao mắt bạn nhìn như qua 'đường hầm'?",
+    "description": "Chỉ nhìn rõ phía trước giống như nhìn qua một đường hầm có thể liên quan đến bệnh glôcôm, bong võng mạc, đột quỵ hoặc đau nửa đầu.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/01/mat12-1782882114-9597-1782882134.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=QrYyMQNs_454FXyHYynpsw",
+    "link": "https://vnexpress.net/vi-sao-mat-ban-nhin-nhu-qua-duong-ham-5092060.html",
+    "published_at": "Wed, 01 Jul 2026 15:00:00 +0700",
+    "createAt": "2026-07-01T08:00:00.000Z",
+    "thumbnail_blurhash": "LWMr=1~C%L=|W;WC%1j[xuofIpxa"
+  },
+  {
+    "id": "https://vnexpress.net/suyt-mu-mat-vi-bo-thuoc-uong-nuoc-la-oi-tri-tieu-duong-5092045.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Suýt mù mắt vì bỏ thuốc, uống nước lá ổi trị tiểu đường",
+    "description": "Người đàn ông 43 tuổi, bị tiểu đường song không điều trị, sắc nước từ 20 lá ổi uống mỗi ngày, khiến đường huyết tăng gấp đôi kèm nhiều bệnh nền nguy hiểm.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/01/dc051a6a-d7e4cf2f1f-be2938-178-5460-2540-1782889136.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=xY9pWKn12XYHMXvM-9hKlA",
+    "link": "https://vnexpress.net/suyt-mu-mat-vi-bo-thuoc-uong-nuoc-la-oi-tri-tieu-duong-5092045.html",
+    "published_at": "Wed, 01 Jul 2026 15:24:18 +0700",
+    "createAt": "2026-07-01T08:24:18.000Z",
+    "thumbnail_blurhash": "LCD+O*0OQb~R-nxXw^Rn91%J-,Dm"
   }
 ]
