@@ -271,5 +271,44 @@
     "published_at": "Wed, 01 Jul 2026 05:00:00 +0700",
     "createAt": "2026-06-30T22:00:00.000Z",
     "thumbnail_blurhash": "LLI;|yVrt8s-02M}IU-o~WMwayxZ"
+  },
+  {
+    "id": "https://vnexpress.net/de-xuat-bo-co-che-mam-com-ba-bo-quan-ly-5091531.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Đề xuất bỏ cơ chế 'mâm cơm ba bộ quản lý'",
+    "description": "Dự thảo Luật An toàn thực phẩm đề xuất giao Bộ Y tế làm đầu mối quản lý thống nhất, thay cơ chế phân công giữa ba bộ: Y tế, Công Thương và Nông nghiệp và Môi trường.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/30/dsc07865-jpg-1782794319-8314-1782794731.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=x3pqRzZf477gBEHYe_BJZA",
+    "link": "https://vnexpress.net/de-xuat-bo-co-che-mam-com-ba-bo-quan-ly-5091531.html",
+    "published_at": "Wed, 01 Jul 2026 00:00:00 +0700",
+    "createAt": "2026-06-30T17:00:00.000Z",
+    "thumbnail_blurhash": "LYG+H;o#Ip-:_NkCs:tRbbxuoJRj"
+  },
+  {
+    "id": "https://vnexpress.net/doi-cuu-ho-viet-nam-tim-thay-8-nan-nhan-dong-dat-o-venezuela-5091885.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Đội cứu hộ Việt Nam tìm thấy 8 nạn nhân động đất ở Venezuela",
+    "description": "Chó nghiệp vụ của lực lượng cứu hộ Việt Nam phát hiện 9 vị trí nghi có nạn nhân, giúp công binh đưa 8 thi thể ra khỏi đống đổ nát sau một ngày tìm kiếm tại Venezuela.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/01/tim2-1782869179-2229-1782869921.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=v7ogNeF_aaIZBaIz6CurvA",
+    "link": "https://vnexpress.net/doi-cuu-ho-viet-nam-tim-thay-8-nan-nhan-dong-dat-o-venezuela-5091885.html",
+    "published_at": "Wed, 01 Jul 2026 09:19:54 +0700",
+    "createAt": "2026-07-01T02:19:54.000Z",
+    "thumbnail_blurhash": "LC9G~|?wD#9YD*M{t5%M9YROW?jF"
+  },
+  {
+    "id": "https://vnexpress.net/xe-buyt-tp-hcm-dong-khach-ngay-dau-mien-ve-5091913.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Xe buýt TP HCM đông khách ngày đầu miễn vé",
+    "description": "Nhiều xe chật kín, các điểm dừng đông đúc khách chờ trong ngày đầu TP HCM triển khai miễn vé cho 134 tuyến xe buýt, sáng 1/7.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/01/xebuyt-1782871981.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=oUnsM9HVbPCdTN7tIvDD3Q",
+    "link": "https://vnexpress.net/xe-buyt-tp-hcm-dong-khach-ngay-dau-mien-ve-5091913.html",
+    "published_at": "Wed, 01 Jul 2026 09:40:27 +0700",
+    "createAt": "2026-07-01T02:40:27.000Z",
+    "thumbnail_blurhash": "LhEL]T9sr=Rk~XELr=WC-oS~r=of"
   }
 ]
