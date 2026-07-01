@@ -388,5 +388,31 @@
     "published_at": "Wed, 01 Jul 2026 05:00:00 +0700",
     "createAt": "2026-06-30T22:00:00.000Z",
     "thumbnail_blurhash": "LLMtK,a^Eg%$}%x^?w%#-n%ha$bI"
+  },
+  {
+    "id": "https://vnexpress.net/diem-chuan-dai-hoc-ngoai-thuong-nam-2025-2024-2023-chi-tiet-5091155.html",
+    "category_id": "education",
+    "category_name": "Giáo dục",
+    "source": "VnExpress",
+    "title": "Điểm chuẩn Đại học Ngoại thương ba năm qua",
+    "description": "Nhóm ngành Kinh tế, Kinh doanh quốc tế thường đứng đầu Đại học Ngoại thương (FTU) với điểm chuẩn trên 28, còn lại phổ biến mức 26-27.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/29/727919447-n-jpeg-1782725162-5105-1782725361.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=RdYjcxbDBskPX4B03zlWdg",
+    "link": "https://vnexpress.net/diem-chuan-dai-hoc-ngoai-thuong-nam-2025-2024-2023-chi-tiet-5091155.html",
+    "published_at": "Wed, 01 Jul 2026 05:59:00 +0700",
+    "createAt": "2026-06-30T22:59:00.000Z",
+    "thumbnail_blurhash": "LQHnjb~WAVF^9aS%$krrEgEht8r]"
+  },
+  {
+    "id": "https://vnexpress.net/diem-chuan-dai-hoc-bach-khoa-ha-noi-giai-doan-2023-2025-chi-tiet-5091737.html",
+    "category_id": "education",
+    "category_name": "Giáo dục",
+    "source": "VnExpress",
+    "title": "Điểm chuẩn Đại học Bách khoa Hà Nội ba năm qua",
+    "description": "Điểm chuẩn Đại học Bách khoa Hà Nội (HUST) ba năm qua khoảng 19 đến 29,42/30, ngành Khoa học máy tính hoặc Khoa học dữ liệu và Trí tuệ nhân tạo thường cao nhất.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/30/bkhn-1782813782-4403-1782813889.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=C4x6P2weSwlmgpMD3yFTEA",
+    "link": "https://vnexpress.net/diem-chuan-dai-hoc-bach-khoa-ha-noi-giai-doan-2023-2025-chi-tiet-5091737.html",
+    "published_at": "Wed, 01 Jul 2026 06:05:00 +0700",
+    "createAt": "2026-06-30T23:05:00.000Z",
+    "thumbnail_blurhash": "LCGR9.^,}[-q*I;hI:9Z8G5+OWa#"
   }
 ]
