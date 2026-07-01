@@ -1207,5 +1207,31 @@
     "published_at": "Wed, 01 Jul 2026 10:49:21 +0700",
     "createAt": "2026-07-01T03:49:21.000Z",
     "thumbnail_blurhash": "LNE4A#xup0%N?woJRjkDtnozaIRj"
+  },
+  {
+    "id": "https://vnexpress.net/con-bao-chinh-tri-sau-that-bai-world-cup-cua-han-quoc-5091937.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Cơn bão chính trị sau thất bại World Cup của Hàn Quốc",
+    "description": "Thất bại tại World Cup 2026 của tuyển Hàn Quốc làm dấy lên cơn bão chỉ trích và châm ngòi tranh cãi chính trị về quy trình bổ nhiệm huấn luyện viên.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/01/ap26176110462275-1782880463-8452-1782881142.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=AnvnXFSNU3GNBkDTEo6fpQ",
+    "link": "https://vnexpress.net/con-bao-chinh-tri-sau-that-bai-world-cup-cua-han-quoc-5091937.html",
+    "published_at": "Wed, 01 Jul 2026 12:08:48 +0700",
+    "createAt": "2026-07-01T05:08:48.000Z",
+    "thumbnail_blurhash": "LFDlQH~C4}GF4VM_$]M|F{Te%2-7"
+  },
+  {
+    "id": "https://vnexpress.net/nha-tien-tri-world-cup-xin-loi-ha-lan-5091974.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "'Nhà tiên tri World Cup' xin lỗi Hà Lan",
+    "description": "Joachim Klement, được mệnh danh là \"nhà tiên tri World Cup\", xin lỗi đội Hà Lan vì từng dự đoán họ vô địch, nhưng đội lại dừng bước ở vòng 1/16.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/01/ha-lan-1782875607-6006-1782875839.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Vg0dw8NTWTZ_rtH1-5f38g",
+    "link": "https://vnexpress.net/nha-tien-tri-world-cup-xin-loi-ha-lan-5091974.html",
+    "published_at": "Wed, 01 Jul 2026 12:09:06 +0700",
+    "createAt": "2026-07-01T05:09:06.000Z",
+    "thumbnail_blurhash": "LDFg%mXT:j{_0NJ6kpsq3NwIJVBo"
   }
 ]
