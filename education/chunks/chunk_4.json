@@ -986,5 +986,31 @@
     "published_at": "Wed, 01 Jul 2026 11:00:00 +0700",
     "createAt": "2026-07-01T04:00:00.000Z",
     "thumbnail_blurhash": "LPLNfCQ,8_Mx~pa$jGadx[bcf+a}"
+  },
+  {
+    "id": "https://vnexpress.net/thu-khoa-d01-dat-9-diem-van-voi-de-thi-steve-jobs-viet-nam-5092068.html",
+    "category_id": "education",
+    "category_name": "Giáo dục",
+    "source": "VnExpress",
+    "title": "Thủ khoa D01 đạt 9 điểm Văn với đề thi 'Steve Jobs Việt Nam'",
+    "description": "Trong câu hỏi về 'Steve Jobs Việt Nam' của đề Văn, Tuệ Minh viết về giải pháp để người Việt có nhiều cơ hội tỏa sáng, đạt 9 điểm và trở thành thủ khoa D01 với 29/30 điểm.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/01/4f6c4ecfc1cb78-bacdba29cccde7a-1924-9382-1782885190.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Dqn3YIig8v3V6X9qXbyMsQ",
+    "link": "https://vnexpress.net/thu-khoa-d01-dat-9-diem-van-voi-de-thi-steve-jobs-viet-nam-5092068.html",
+    "published_at": "Wed, 01 Jul 2026 13:00:13 +0700",
+    "createAt": "2026-07-01T06:00:13.000Z",
+    "thumbnail_blurhash": "LQH:2I_3y?X9.Tofa#WBozRji_of"
+  },
+  {
+    "id": "https://vnexpress.net/thu-khoa-a01-toan-quoc-theo-nghe-su-pham-5092082.html",
+    "category_id": "education",
+    "category_name": "Giáo dục",
+    "source": "VnExpress",
+    "title": "Thủ khoa A01 toàn quốc theo nghề Sư phạm",
+    "description": "Thái Sơn - một trong hai thủ khoa tổ hợp A01 toàn quốc với điểm Toán và Vật lý tuyệt đối, sẽ theo đuổi ngành Sư phạm Toán ở đại học.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/01/thisn-1782883948-2296-1782884262.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=82vYNP1esAPdbtLdRuInfg",
+    "link": "https://vnexpress.net/thu-khoa-a01-toan-quoc-theo-nghe-su-pham-5092082.html",
+    "published_at": "Wed, 01 Jul 2026 13:15:49 +0700",
+    "createAt": "2026-07-01T06:15:49.000Z",
+    "thumbnail_blurhash": "LCG[$l00%#~q~pIUbx?b0KM{?HRj"
   }
 ]
