@@ -1259,5 +1259,31 @@
     "published_at": "Thu, 02 Jul 2026 05:00:00 +0700",
     "createAt": "2026-07-01T22:00:00.000Z",
     "thumbnail_blurhash": "L6CP^n_34m?a00D%_4tSIV%Nt6IT"
+  },
+  {
+    "id": "https://vnexpress.net/tai-xe-no-may-phat-dien-de-sac-xe-het-sach-pin-tren-nui-5091871.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Tài xế nổ máy phát điện để sạc xe hết sạch pin trên núi",
+    "description": "Chiếc Audi e-tron GT mắc kẹt vì hết pin được cảnh sát California lấy làm ví dụ hài hước để nhắc nhở các tài xế xe điện khác.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/01/AudietronGT-1782891139-7438-1782892370.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=vKH6oI2G_8laus045DNTmA",
+    "link": "https://vnexpress.net/tai-xe-no-may-phat-dien-de-sac-xe-het-sach-pin-tren-nui-5091871.html",
+    "published_at": "Thu, 02 Jul 2026 06:14:00 +0700",
+    "createAt": "2026-07-01T23:14:00.000Z",
+    "thumbnail_blurhash": "L#A_G4IVodo#X=t7WBa$beofayjZ"
+  },
+  {
+    "id": "https://vnexpress.net/xe-nhat-lan-luot-chu-nha-ve-ty-le-noi-dia-hoa-tai-my-5091892.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Xe Nhật lấn lướt 'chủ nhà' về tỷ lệ nội địa hóa tại Mỹ",
+    "description": "Trong top 10 mẫu xe nội địa hóa có 6 mẫu xe Nhật, nếu tính cả top 20 thì xe của các thương hiệu Mỹ vẫn lép vế.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/01/TeslaModel31-1782893763-3600-1782893973.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=jx8225bsaLTE5ZRnsuCU4Q",
+    "link": "https://vnexpress.net/xe-nhat-lan-luot-chu-nha-ve-ty-le-noi-dia-hoa-tai-my-5091892.html",
+    "published_at": "Thu, 02 Jul 2026 07:00:00 +0700",
+    "createAt": "2026-07-02T00:00:00.000Z",
+    "thumbnail_blurhash": "LVKeTPoK_3xvKRM{M{tR?wozD%WA"
   }
 ]

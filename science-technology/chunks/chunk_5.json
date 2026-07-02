@@ -258,5 +258,31 @@
     "published_at": "Wed, 01 Jul 2026 21:23:23 +0700",
     "createAt": "2026-07-01T14:23:23.000Z",
     "thumbnail_blurhash": "LUH-Ve^$-M-O~7xrIrR,axa{WFf8"
+  },
+  {
+    "id": "https://vnexpress.net/nhan-vien-cong-nghe-trung-quoc-bat-an-vi-ai-5090935.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Nhân viên công nghệ Trung Quốc bất an vì AI",
+    "description": "Khi các công ty công nghệ Trung Quốc thích nghi với kỷ nguyên AI, nhiều nhân viên lại trong tâm trạng sợ bị \"tối ưu hóa\" và mất việc làm.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/29/2384af1b-a216b1ee-d60335a5e700-3667-4644-1782706571.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=B70FipW5BYkEO85EIFP47A",
+    "link": "https://vnexpress.net/nhan-vien-cong-nghe-trung-quoc-bat-an-vi-ai-5090935.html",
+    "published_at": "Thu, 02 Jul 2026 05:00:00 +0700",
+    "createAt": "2026-07-01T22:00:00.000Z",
+    "thumbnail_blurhash": "LJI~GQ~p8^bY?IV=ou%M%#obemWA"
+  },
+  {
+    "id": "https://vnexpress.net/bac-si-ky-su-kem-di-vi-ai-5091209.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Bác sĩ, kỹ sư kém đi vì AI",
+    "description": "Lệ thuộc vào AI có nguy cơ làm suy giảm các kỹ năng chuyên môn và cả những kỹ năng thông thường như phân biệt tin giả.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/30/104a7d20cf86fc9bfb6c872febde0e-6312-5954-1782804403.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=-mfz09iz6tYhxH71IQdd2A",
+    "link": "https://vnexpress.net/bac-si-ky-su-kem-di-vi-ai-5091209.html",
+    "published_at": "Thu, 02 Jul 2026 07:00:00 +0700",
+    "createAt": "2026-07-02T00:00:00.000Z",
+    "thumbnail_blurhash": "L9DJ|w9H0{.T8w-p~D-V~WXnIAWV"
   }
 ]
