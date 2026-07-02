@@ -1233,5 +1233,70 @@
     "published_at": "Thu, 02 Jul 2026 20:17:37 +0700",
     "createAt": "2026-07-02T13:17:37.000Z",
     "thumbnail_blurhash": "LRKv]uNDMxxv_MtSf+s+%~xHbHkV"
+  },
+  {
+    "id": "https://vnexpress.net/vo-mong-vi-dat-niem-tin-vao-tien-so-thuong-hieu-trump-5092590.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Vỡ mộng vì đặt niềm tin vào tiền số thương hiệu Trump",
+    "description": "Nhiều người Mỹ thua lỗ nặng nề khi đầu tư vào tiền số thương hiệu Trump, trái ngược với lợi nhuận khổng lồ của gia đình Tổng thống.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/02/AFP202408062163284377v3HighRes-7935-4346-1782984840.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=wYUCRcCj5YCSskt20rzyDA",
+    "link": "https://vnexpress.net/vo-mong-vi-dat-niem-tin-vao-tien-so-thuong-hieu-trump-5092590.html",
+    "published_at": "Thu, 02 Jul 2026 19:00:00 +0700",
+    "createAt": "2026-07-02T12:00:00.000Z",
+    "thumbnail_blurhash": "L27dXqxG00$*02so^*j[h{W:7jIp"
+  },
+  {
+    "id": "https://vnexpress.net/du-kien-giam-30-dau-moi-truong-cong-trong-ca-nuoc-5092738.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Dự kiến giảm 30% đầu mối trường công trong cả nước",
+    "description": "Bộ Giáo dục dự kiến giảm ít nhất 30% đầu mối trường công nhưng hình thành các cơ sở quy mô lớn, đổi mới quản trị để nâng cao chất lượng giáo dục.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/02/233a3087-1782990491-9130-1782990635.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=PZ6Abo630cIZ1Nvpk1wYNg",
+    "link": "https://vnexpress.net/du-kien-giam-30-dau-moi-truong-cong-trong-ca-nuoc-5092738.html",
+    "published_at": "Thu, 02 Jul 2026 20:18:35 +0700",
+    "createAt": "2026-07-02T13:18:35.000Z",
+    "thumbnail_blurhash": "LGFi46DiM^RO~UNI-=xut2o3MwM_"
+  },
+  {
+    "id": "https://vnexpress.net/duong-day-buon-lau-hon-28-000-vien-kim-cuong-5092792.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Đường dây buôn lậu hơn 28.000 viên kim cương",
+    "description": "22 nghi can bị khởi tố trong đường dây buôn lậu kim cương xuyên quốc gia quy mô lớn, cảnh sát thu giữ 1.100 viên.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/02/13-jpeg-1783005006-9492-1783005018.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=XiHpnTJvVbYyfb-vQLdArQ",
+    "link": "https://vnexpress.net/duong-day-buon-lau-hon-28-000-vien-kim-cuong-5092792.html",
+    "published_at": "Thu, 02 Jul 2026 21:37:32 +0700",
+    "createAt": "2026-07-02T14:37:32.000Z",
+    "thumbnail_blurhash": "LHJuZ7_NNHRj00DN%0a}00-;pJn+"
+  },
+  {
+    "id": "https://vnexpress.net/nguoi-dan-ong-venezuela-song-sot-sau-8-ngay-ket-duoi-dong-do-nat-5092796.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Người đàn ông Venezuela sống sót sau 8 ngày kẹt dưới đống đổ nát",
+    "description": "Lực lượng cứu nạn giải thoát một người đàn ông bị mắc kẹt 8 ngày trong đống đổ nát ở bang La Guaira, Venezuela.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/02/5563187178137269393a-178300183-1732-5679-1783002043.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=wYiqW6gK0d-UbNr1C90C2g",
+    "link": "https://vnexpress.net/nguoi-dan-ong-venezuela-song-sot-sau-8-ngay-ket-duoi-dong-do-nat-5092796.html",
+    "published_at": "Thu, 02 Jul 2026 22:03:40 +0700",
+    "createAt": "2026-07-02T15:03:40.000Z",
+    "thumbnail_blurhash": "LBLETr=]0J4=~WsqtRT14.Ip%M%L"
+  },
+  {
+    "id": "https://vnexpress.net/phao-hoa-mung-50-nam-ngay-tp-hcm-mang-ten-chu-tich-ho-chi-minh-5092790.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Pháo hoa mừng 50 năm ngày TP HCM mang tên Chủ tịch Hồ Chí Minh",
+    "description": "Pháo hoa đồng loạt bung nở trên bầu trời nhân kỷ niệm 50 năm ngày thành phố mang tên Chủ tịch Hồ Chí Minh, tối 2/7.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/02/tphcm_1783002353-1783004203.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=cyF59XoIwlTvTUrMBIubig",
+    "link": "https://vnexpress.net/phao-hoa-mung-50-nam-ngay-tp-hcm-mang-ten-chu-tich-ho-chi-minh-5092790.html",
+    "published_at": "Thu, 02 Jul 2026 22:05:31 +0700",
+    "createAt": "2026-07-02T15:05:31.000Z",
+    "thumbnail_blurhash": "L5A]Ty02%d^k_L56^jX401b@nUEK"
   }
 ]
