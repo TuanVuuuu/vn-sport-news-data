@@ -1246,5 +1246,31 @@
     "published_at": "Thu, 02 Jul 2026 14:00:00 +0700",
     "createAt": "2026-07-02T07:00:00.000Z",
     "thumbnail_blurhash": "LpH_[1SN~Dxbx]WBj]of%3j]X8t7"
+  },
+  {
+    "id": "https://vnexpress.net/5-mon-an-nhe-co-the-kiem-soat-duong-huyet-5092494.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "5 món ăn nhẹ có thể kiểm soát đường huyết",
+    "description": "Ăn nhẹ bánh mì nguyên cám với trứng, quả bơ, các loại hạt có thể giúp duy trì lượng đường trong máu ổn định, no lâu giữa các bữa ăn.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/02/generated-image-septemberpm-jp-8897-8080-1782962211.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=-P4Y3nxvW2JCGe0ZyXZfSw",
+    "link": "https://vnexpress.net/5-mon-an-nhe-co-the-kiem-soat-duong-huyet-5092494.html",
+    "published_at": "Thu, 02 Jul 2026 15:00:00 +0700",
+    "createAt": "2026-07-02T08:00:00.000Z",
+    "thumbnail_blurhash": "LOHw[QD%IUs:~WM_M{WC%hRjRjIV"
+  },
+  {
+    "id": "https://vnexpress.net/4-thuc-don-bua-toi-giup-giam-mo-hieu-qua-5092446.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "4 thực đơn bữa tối giúp giảm mỡ hiệu quả",
+    "description": "PGS.TS.BS Nguyễn Anh Tuấn, Bệnh viện 108, gợi ý cách ăn tối cùng 4 thực đơn cụ thể giúp giảm mỡ, no lâu, không bị tăng cân.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/02/uc-ga-1782981358-2262-1782981366.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=wz6eWcBhodHvIEMlx9myag",
+    "link": "https://vnexpress.net/4-thuc-don-bua-toi-giup-giam-mo-hieu-qua-5092446.html",
+    "published_at": "Thu, 02 Jul 2026 15:13:11 +0700",
+    "createAt": "2026-07-02T08:13:11.000Z",
+    "thumbnail_blurhash": "L5DvGpI80000IBD%_N9F06%1-hNK"
   }
 ]
