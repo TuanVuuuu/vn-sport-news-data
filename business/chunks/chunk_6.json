@@ -934,5 +934,44 @@
     "published_at": "Thu, 02 Jul 2026 17:00:00 +0700",
     "createAt": "2026-07-02T10:00:00.000Z",
     "thumbnail_blurhash": "L48z79o301EL_LoeDjM|NrWTMzRm"
+  },
+  {
+    "id": "https://vnexpress.net/ly-do-khong-tinh-khoan-vay-voi-18-du-an-cua-cac-tap-doan-lon-vao-room-tin-dung-5092530.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Lý do không tính khoản vay với 18 dự án của các tập đoàn lớn vào 'room' tín dụng",
+    "description": "Việc không tính room tín dụng với các khoản vay cho 18 dự án của Vingroup, Masterise và Sun Group nhằm phát triển kinh tế, theo đại diện Ngân hàng Nhà nước.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/02/z7998584789964e8a468bd726e4f57-5008-5329-1782965638.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Q_n7EyOhCbcP65zlAsavrQ",
+    "link": "https://vnexpress.net/ly-do-khong-tinh-khoan-vay-voi-18-du-an-cua-cac-tap-doan-lon-vao-room-tin-dung-5092530.html",
+    "published_at": "Thu, 02 Jul 2026 12:19:03 +0700",
+    "createAt": "2026-07-02T05:19:03.000Z",
+    "thumbnail_blurhash": "LQL|cR0000?^~X8^%ho#M_RQ%gt7"
+  },
+  {
+    "id": "https://vnexpress.net/10-thuong-hieu-gia-tri-nhat-viet-nam-5092673.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "10 thương hiệu giá trị nhất Việt Nam",
+    "description": "Top 10 thương hiệu giá trị nhất Việt Nam năm nay có tổng trị giá 24,5 tỷ USD, tiếp tục dẫn đầu bởi Viettel, Vinamilk và Vietcombank, theo Brand Finance.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/02/trung-tam-du-lieu-datacenter-v-4345-2252-1782984962.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=rvoOHYi8GwxgfA9KE-6vHw",
+    "link": "https://vnexpress.net/10-thuong-hieu-gia-tri-nhat-viet-nam-5092673.html",
+    "published_at": "Thu, 02 Jul 2026 18:20:55 +0700",
+    "createAt": "2026-07-02T11:20:55.000Z",
+    "thumbnail_blurhash": "LgOp_S-;x]oe_4fkWUaxt8RiRPoz"
+  },
+  {
+    "id": "https://vnexpress.net/quy-dau-tu-ve-khi-hau-50-trieu-usd-huong-den-viet-nam-5092737.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Quỹ đầu tư về khí hậu 50 triệu USD hướng đến Việt Nam",
+    "description": "Ngân hàng lớn nhất Đức Deutsche Bank cùng Mekong Capital lập quỹ đầu tư khí hậu trị giá 50 triệu USD hướng đến nông nghiệp của Việt Nam và Lào.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/02/l1120821-jpg-1782987444-4505-1782987540.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=MCjd4kNDzJaxJXSEN3tBfQ",
+    "link": "https://vnexpress.net/quy-dau-tu-ve-khi-hau-50-trieu-usd-huong-den-viet-nam-5092737.html",
+    "published_at": "Thu, 02 Jul 2026 18:28:54 +0700",
+    "createAt": "2026-07-02T11:28:54.000Z",
+    "thumbnail_blurhash": "L7DS$}0B01.54=xv%4M|0P~k?Gaj"
   }
 ]
