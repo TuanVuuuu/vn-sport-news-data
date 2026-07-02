@@ -128,5 +128,31 @@
     "published_at": "Fri, 03 Jul 2026 01:00:00 +0700",
     "createAt": "2026-07-02T18:00:00.000Z",
     "thumbnail_blurhash": "LVKKWZ9zivog~q%MIUofaes.ay%1"
+  },
+  {
+    "id": "https://vnexpress.net/nguoi-dan-tp-hcm-phan-anh-qua-tai-benh-vien-thieu-thuoc-cho-lau-5092051.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Người dân TP HCM phản ánh 'quá tải bệnh viện, thiếu thuốc, chờ lâu'",
+    "description": "Nhiều cử tri TP HCM phản ánh với Sở Y tế về tình trạng quá tải bệnh viện, thiếu thuốc và chờ khám lâu, kiến nghị có giải pháp khắc phục.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/01/233a2559-1782881973-9800-1782882171.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=O0p_GMhTMff_ezduiJlwOg",
+    "link": "https://vnexpress.net/nguoi-dan-tp-hcm-phan-anh-qua-tai-benh-vien-thieu-thuoc-cho-lau-5092051.html",
+    "published_at": "Fri, 03 Jul 2026 05:00:00 +0700",
+    "createAt": "2026-07-02T22:00:00.000Z",
+    "thumbnail_blurhash": "LEF=jv~DS*-:^+?vyCeTPVKMRPxH"
+  },
+  {
+    "id": "https://vnexpress.net/hon-nhan-nguoi-lanh-boi-chung-nghien-video-ngan-5091007.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Hôn nhân nguội lạnh bởi chứng 'nghiện' video ngắn",
+    "description": "21h, sau khi dỗ con ngủ và hoàn thành 'núi' việc nhà không tên, Nguyệt, 31 tuổi, uể oải bước lên giường, cầm điện thoại rồi chìm vào thế giới riêng.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/01/2aoboqh4ui25zn6duvtygfdrz3lxop-2925-7688-1782867886.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=oM7YuU18E_H6XA4H_uGyCA",
+    "link": "https://vnexpress.net/hon-nhan-nguoi-lanh-boi-chung-nghien-video-ngan-5091007.html",
+    "published_at": "Fri, 03 Jul 2026 06:00:00 +0700",
+    "createAt": "2026-07-02T23:00:00.000Z",
+    "thumbnail_blurhash": "LOHB6v0N#Oe9~pRQInngcEaKNHbX"
   }
 ]
