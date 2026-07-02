@@ -1064,5 +1064,31 @@
     "published_at": "Thu, 02 Jul 2026 21:17:32 +0700",
     "createAt": "2026-07-02T14:17:32.000Z",
     "thumbnail_blurhash": "LLLWCOE3IAxs0LVs_N%Lxb-AVtjF"
+  },
+  {
+    "id": "https://vnexpress.net/cuoc-song-tuoi-trung-nien-cua-nghe-si-nguyet-hang-5091567.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Cuộc sống tuổi trung niên của nghệ sĩ Nguyệt Hằng",
+    "description": "Diễn viên Nguyệt Hằng, 53 tuổi, tận hưởng niềm vui từ công việc diễn xuất, giảng dạy, trân trọng sự bình an bên gia đình.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/06/30/nguyet-hang-1782815722-4088-1782818107.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=66hcoIFIXXcJDhg0B_NZUw",
+    "link": "https://vnexpress.net/cuoc-song-tuoi-trung-nien-cua-nghe-si-nguyet-hang-5091567.html",
+    "published_at": "Fri, 03 Jul 2026 00:00:00 +0700",
+    "createAt": "2026-07-02T17:00:00.000Z",
+    "thumbnail_blurhash": "LMNT%goJ.TofDjt7-;t8kWofRPt7"
+  },
+  {
+    "id": "https://vnexpress.net/nghi-van-truyen-doat-giai-khoi-thinh-vuong-chung-do-ai-viet-5092731.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Nghi vấn truyện đoạt giải Khối Thịnh vượng chung do AI viết",
+    "description": "Nhiều người cho rằng ''The Serpent in the Grove'' - đoạt quán quân giải thưởng truyện ngắn Khối Thịnh vượng chung - do AI sáng tác.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/07/02/jamir-nazir-1782986872-6075-1782986893.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=bJPpCl2BY-snO3fgzYU-3A",
+    "link": "https://vnexpress.net/nghi-van-truyen-doat-giai-khoi-thinh-vuong-chung-do-ai-viet-5092731.html",
+    "published_at": "Fri, 03 Jul 2026 00:00:00 +0700",
+    "createAt": "2026-07-02T17:00:00.000Z",
+    "thumbnail_blurhash": "LEJ78s}t3CKO3;PAz;tl;3xZbwkX"
   }
 ]
