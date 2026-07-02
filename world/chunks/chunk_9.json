@@ -284,5 +284,31 @@
     "published_at": "Thu, 02 Jul 2026 09:23:42 +0700",
     "createAt": "2026-07-02T02:23:42.000Z",
     "thumbnail_blurhash": "LaBNmHMuMxtSyGVqV?tSbdadoJkC"
+  },
+  {
+    "id": "https://vnexpress.net/dai-su-my-jennifer-wicks-den-viet-nam-5092432.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Đại sứ Mỹ Jennifer Wicks đến Việt Nam",
+    "description": "Bà Jennifer Wicks đến Hà Nội để chuẩn bị bắt đầu nhiệm kỳ mới trên cương vị nữ Đại sứ Mỹ đầu tiên tại Việt Nam.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/02/cats-1782959944-9870-1782960126.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=4Vq7oWtNOi3xLcdwuJJZPg",
+    "link": "https://vnexpress.net/dai-su-my-jennifer-wicks-den-viet-nam-5092432.html",
+    "published_at": "Thu, 02 Jul 2026 09:52:40 +0700",
+    "createAt": "2026-07-02T02:52:40.000Z",
+    "thumbnail_blurhash": "L8D*-AIV02}s0}M|-AE%0MNa}@rr"
+  },
+  {
+    "id": "https://vnexpress.net/cdv-world-cup-ngu-trong-xe-cam-trai-vi-gia-khach-san-dat-do-5092300.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "CĐV World Cup ngủ trong xe cắm trại vì giá khách sạn đắt đỏ",
+    "description": "Giá vé, chi phí khách sạn và đi lại tăng cao khiến nhiều CĐV đến Texas xem World Cup chọn nghỉ trong xe cắm trại để tiết kiệm.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/01/xe-ca-m-tra-i-1782914138-8472-1782914235.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ZfmRHXprFa3DOXLwPjnmzQ",
+    "link": "https://vnexpress.net/cdv-world-cup-ngu-trong-xe-cam-trai-vi-gia-khach-san-dat-do-5092300.html",
+    "published_at": "Thu, 02 Jul 2026 10:29:58 +0700",
+    "createAt": "2026-07-02T03:29:58.000Z",
+    "thumbnail_blurhash": "LNE:G8oIk7X8_NIUocxu-:xuWBjb"
   }
 ]
