@@ -765,5 +765,31 @@
     "published_at": "Thu, 02 Jul 2026 09:24:11 +0700",
     "createAt": "2026-07-02T02:24:11.000Z",
     "thumbnail_blurhash": "LQI5PkTex]x]_4adSMt7yEr=V@R*"
+  },
+  {
+    "id": "https://vnexpress.net/chu-tich-fed-cho-rang-lam-phat-dang-qua-cao-5092500.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Chủ tịch Fed cho rằng lạm phát đang quá cao",
+    "description": "Chủ tịch Fed Kevin Warsh lo ngại về lạm phát và cam kết sẽ khiến giá cả ở Mỹ ổn định trở lại sau nhiều năm vượt mục tiêu.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/02/screenshot-1782963069-9249-1782963159.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=6Ap4EtjLQlFVaBSRqS-dzw",
+    "link": "https://vnexpress.net/chu-tich-fed-cho-rang-lam-phat-dang-qua-cao-5092500.html",
+    "published_at": "Thu, 02 Jul 2026 10:38:00 +0700",
+    "createAt": "2026-07-02T03:38:00.000Z",
+    "thumbnail_blurhash": "LIEV=_%O_LRlx^xpIXWC-.%3ogod"
+  },
+  {
+    "id": "https://vnexpress.net/ha-tang-tai-chinh-he-tuan-hoan-cua-nen-kinh-te-tp-hcm-5092469.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Hạ tầng tài chính - 'hệ tuần hoàn' của nền kinh tế TP HCM",
+    "description": "TP HCM lần đầu vào nhóm ba trung tâm tài chính hàng đầu Đông Nam Á, phản ánh quá trình tích lũy hạ tầng tài chính qua nhiều thập niên, từ hệ thống ngân hàng, thị trường vốn đến thanh toán số và fintech.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/02/tphcm-1782960757-2710-1782961081.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=HYgCZNpNYfyB6jRtx0FM_A",
+    "link": "https://vnexpress.net/ha-tang-tai-chinh-he-tuan-hoan-cua-nen-kinh-te-tp-hcm-5092469.html",
+    "published_at": "Thu, 02 Jul 2026 11:00:00 +0700",
+    "createAt": "2026-07-02T04:00:00.000Z",
+    "thumbnail_blurhash": "LW8}ruV?R+kD%%aeoLWXtnWVoKoL"
   }
 ]

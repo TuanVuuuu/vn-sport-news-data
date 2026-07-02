@@ -700,5 +700,31 @@
     "published_at": "Thu, 02 Jul 2026 07:10:38 +0700",
     "createAt": "2026-07-02T00:10:38.000Z",
     "thumbnail_blurhash": "LeIrB7~qo|-;e,IUR+xuogjHjIWV"
+  },
+  {
+    "id": "https://vnexpress.net/khoi-cong-cao-toc-ho-tram-cang-hang-khong-quoc-te-long-thanh-5092255.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Khởi công cao tốc Hồ Tràm - Cảng hàng không quốc tế Long Thành",
+    "description": "Dự án cao tốc đô thị Hồ Tràm - Cảng hàng không quốc tế Long Thành, do công ty thành viên của Masterise Group đầu tư, có chiều dài 42km, được khởi công sáng 1/7.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/02/cao-toc-1782901705-2704-1782963244.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=sR6FnLZf8-u0iGz7HFZo7g",
+    "link": "https://vnexpress.net/khoi-cong-cao-toc-ho-tram-cang-hang-khong-quoc-te-long-thanh-5092255.html",
+    "published_at": "Thu, 02 Jul 2026 10:45:00 +0700",
+    "createAt": "2026-07-02T03:45:00.000Z",
+    "thumbnail_blurhash": "LCEMO8~TInoy~p%La$t8xYofWBt6"
+  },
+  {
+    "id": "https://vnexpress.net/oto-dau-keo-chay-rui-o-cua-ngo-tp-hcm-5092514.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Ôtô đầu kéo cháy rụi ở cửa ngõ TP HCM",
+    "description": "Xe đầu kéo đang chạy trên đường Nguyễn Văn Linh (huyện Bình Chánh cũ) bất ngờ bốc cháy dữ dội, giao thông cửa ngõ phía tây TP HCM gián đoạn, sáng 2/7.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/02/Anhmanhinh20260702luc103743-17-2151-2130-1782963850.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=dHrgwEp5qwRH3wt4GCFNrA",
+    "link": "https://vnexpress.net/oto-dau-keo-chay-rui-o-cua-ngo-tp-hcm-5092514.html",
+    "published_at": "Thu, 02 Jul 2026 10:56:26 +0700",
+    "createAt": "2026-07-02T03:56:26.000Z",
+    "thumbnail_blurhash": "LFFq:$0ePA9a4;R4tlM{ysn4%2NF"
   }
 ]
