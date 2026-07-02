@@ -713,5 +713,31 @@
     "published_at": "Thu, 02 Jul 2026 13:00:00 +0700",
     "createAt": "2026-07-02T06:00:00.000Z",
     "thumbnail_blurhash": "LFFif4XTk7xt~qS4xrbX%XWBt5og"
+  },
+  {
+    "id": "https://vnexpress.net/sun-group-mo-rong-he-sinh-thai-bai-chay-cung-doi-tac-quoc-te-5092584.html",
+    "category_id": "real-estate",
+    "category_name": "Bất động sản",
+    "source": "VnExpress",
+    "title": "Sun Group mở rộng hệ sinh thái Bãi Cháy cùng đối tác quốc tế",
+    "description": "Sun Group hợp tác Kohn Pedersen Fox (KPF) xây công viên, qua đó, mở rộng hệ sinh thái du lịch, giải trí tại Bãi Cháy.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/02/3-park-pearl-kpf-sun-elite-cit-9581-8750-1782975412.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=vAQY0fGKpT5bTM7qiTADsw",
+    "link": "https://vnexpress.net/sun-group-mo-rong-he-sinh-thai-bai-chay-cung-doi-tac-quoc-te-5092584.html",
+    "published_at": "Thu, 02 Jul 2026 14:00:00 +0700",
+    "createAt": "2026-07-02T07:00:00.000Z",
+    "thumbnail_blurhash": "LNG[fvE0-pWB~W%MIUofoJ-qNGRj"
+  },
+  {
+    "id": "https://vnexpress.net/se-ung-dung-ai-blockchain-trong-quan-ly-dat-dai-5092568.html",
+    "category_id": "real-estate",
+    "category_name": "Bất động sản",
+    "source": "VnExpress",
+    "title": "Sẽ ứng dụng AI, blockchain trong quản lý đất đai",
+    "description": "Trí tuệ nhân tạo (AI), blockchain sẽ được ứng dụng trong quản lý đất đai để tự động cập nhật dữ liệu, giám sát quy hoạch và tăng minh bạch.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/02/dji06141778478036-1782970339-2109-1782971391.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=9psE0P5lNm-hN83hRpfzOw",
+    "link": "https://vnexpress.net/se-ung-dung-ai-blockchain-trong-quan-ly-dat-dai-5092568.html",
+    "published_at": "Thu, 02 Jul 2026 14:34:16 +0700",
+    "createAt": "2026-07-02T07:34:16.000Z",
+    "thumbnail_blurhash": "LWEV+;W=R*fl~qbHR+of?bt7oKWV"
   }
 ]
