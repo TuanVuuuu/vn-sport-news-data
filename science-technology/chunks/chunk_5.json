@@ -362,5 +362,44 @@
     "published_at": "Thu, 02 Jul 2026 10:48:59 +0700",
     "createAt": "2026-07-02T03:48:59.000Z",
     "thumbnail_blurhash": "LOJt#Zh~z:z;~qn$RPt7^+RjM{Rk"
+  },
+  {
+    "id": "https://vnexpress.net/cha-de-internet-nghi-huu-o-tuoi-83-5092321.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "'Cha đẻ Internet' nghỉ hưu ở tuổi 83",
+    "description": "Vint Cerf, một trong những kiến trúc sư trưởng đặt nền móng cho Internet toàn cầu, sẽ rời vị trí Giám đốc Cổ động Internet tại Google để nghỉ hưu vào tuần tới.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/01/gs-my-giai-chinh-jpg-178291740-7036-8862-1782917483.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=a1Satoms3rpklLRZeZPbiQ",
+    "link": "https://vnexpress.net/cha-de-internet-nghi-huu-o-tuoi-83-5092321.html",
+    "published_at": "Thu, 02 Jul 2026 11:33:32 +0700",
+    "createAt": "2026-07-02T04:33:32.000Z",
+    "thumbnail_blurhash": "LpC@%m%FJ@tStpWFIoWYRPWFV@V?"
+  },
+  {
+    "id": "https://vnexpress.net/final-cut-pro-nang-cap-ai-giup-tu-them-phu-de-cho-video-5092208.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Final Cut Pro nâng cấp AI giúp tự thêm phụ đề cho video",
+    "description": "Ứng dụng chỉnh sửa video Final Cut Pro của Apple tích hợp AI tự động chuyển giọng nói thành phụ đề trong video theo đúng thời gian.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/02/untitled-1782964620-2951-1782964731.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=TQ1ZJqmofgjUApIrzI_uYQ",
+    "link": "https://vnexpress.net/final-cut-pro-nang-cap-ai-giup-tu-them-phu-de-cho-video-5092208.html",
+    "published_at": "Thu, 02 Jul 2026 11:54:20 +0700",
+    "createAt": "2026-07-02T04:54:20.000Z",
+    "thumbnail_blurhash": "LOE:0n_34.%N~q%MIUWV4nM{s:IU"
+  },
+  {
+    "id": "https://vnexpress.net/microsoft-sap-sa-thai-hang-nghin-nhan-vien-5092542.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Microsoft sắp sa thải hàng nghìn nhân viên",
+    "description": "Microsoft được cho là chuẩn bị cắt giảm hàng nghìn vị trí, bao gồm bộ phận game Xbox, bán hàng, tư vấn, nhằm kiểm soát chi phí vận hành.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/02/logo-hang-cong-nghe-1782966505-3732-1782966731.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=NLa0LYdsahyOiaHARPYCSg",
+    "link": "https://vnexpress.net/microsoft-sap-sa-thai-hang-nghin-nhan-vien-5092542.html",
+    "published_at": "Thu, 02 Jul 2026 12:08:08 +0700",
+    "createAt": "2026-07-02T05:08:08.000Z",
+    "thumbnail_blurhash": "L8Amk:~n4q05$]~UsD8}00H?^$?Z"
   }
 ]
