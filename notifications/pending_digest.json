@@ -1,6 +1,19 @@
 {
   "featured": [
     {
+      "id": "https://vnexpress.net/hon-24-gio-tim-kiem-cuu-nan-cua-luc-luong-viet-nam-tai-venezuela-5092210.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Hơn 24 giờ tìm kiếm cứu nạn của lực lượng Việt Nam tại Venezuela",
+      "description": "Sau hơn một ngày tích cực làm nhiệm vụ, lực lượng quân đội, công an Việt Nam đã tìm kiếm và đưa thành công 13 thi thể tại Venezuela ra khỏi đống đổ nát.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/01/cuuho-10-1782907997.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=MosZNoPrsV_R_2nRsB385A",
+      "link": "https://vnexpress.net/hon-24-gio-tim-kiem-cuu-nan-cua-luc-luong-viet-nam-tai-venezuela-5092210.html",
+      "published_at": "Thu, 02 Jul 2026 00:00:39 +0700",
+      "createAt": "2026-07-01T17:00:39.000Z",
+      "thumbnail_blurhash": "LFHxys#%~q?b-;IpoL%N-:ozR.D*"
+    },
+    {
       "id": "https://vnexpress.net/bi-thang-nguoc-senegal-du-bi-dan-hai-ban-o-world-cup-5092351.html",
       "category_id": "featured",
       "category_name": "Tin nổi bật",
@@ -25,6 +38,45 @@
       "published_at": "Thu, 02 Jul 2026 06:00:00 +0700",
       "createAt": "2026-07-01T23:00:00.000Z",
       "thumbnail_blurhash": "L8GR^[?d009r04X2rhIc00Mx~qIn"
+    },
+    {
+      "id": "https://vnexpress.net/me-nuoi-my-thay-doi-cuoc-doi-co-gai-viet-khong-tay-5088273.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Mẹ nuôi Mỹ thay đổi cuộc đời cô gái Việt không tay",
+      "description": "32 năm trước, khi Susan Buchholz ra sân bay đón đứa con nuôi từ Việt Nam sang, nhân viên trao cho bà một em bé, một bình sữa và dặn đứa bé cần được đi khám ngay.",
+      "thumbnail_url": "https://vcdn1-giadinh.vnecdn.net/2026/06/28/untitled-1782529052-7027-1782624149.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=0k0jjiTHtb_oNg4_gQLkSg",
+      "link": "https://vnexpress.net/me-nuoi-my-thay-doi-cuoc-doi-co-gai-viet-khong-tay-5088273.html",
+      "published_at": "Thu, 02 Jul 2026 06:35:49 +0700",
+      "createAt": "2026-07-01T23:35:49.000Z",
+      "thumbnail_blurhash": "LHECnFMy00~W-5xZ%go001xu-pIV"
+    },
+    {
+      "id": "https://vnexpress.net/nhom-lap-hon-100-website-de-dang-tai-26-000-bo-phim-lau-bi-bat-5092357.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Nhóm lập hơn 100 website để đăng tải 26.000 bộ phim lậu bị bắt",
+      "description": "Trong sáu năm, các nghi can đã lập hơn 100 trang web để đăng tải hơn 26.000 bộ phim lậu, thu 308 tỷ đồng.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/02/1-1782948784-3224-1782948832.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=SSy0fOiWJ-_TvUtZVO2olg",
+      "link": "https://vnexpress.net/nhom-lap-hon-100-website-de-dang-tai-26-000-bo-phim-lau-bi-bat-5092357.html",
+      "published_at": "Thu, 02 Jul 2026 06:51:20 +0700",
+      "createAt": "2026-07-01T23:51:20.000Z",
+      "thumbnail_blurhash": "L9KUA#^a5Fw?~pMwtStR4T02-.xF"
+    },
+    {
+      "id": "https://vnexpress.net/14-do-thi-trong-tuong-lai-cua-ha-noi-5091663.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "14 đô thị trong tương lai của Hà Nội",
+      "description": "Hà Nội dự kiến phát triển 14 đô thị, chủ yếu về phía Tây và Nam với 176.708 ha đến 2045, tương ứng hơn một nửa diện tích Thủ đô.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/01/anhmanhinh20260701luc165503-17-1931-8151-1782900298.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=_ztWAOCnTv2K1IJPJcq88A",
+      "link": "https://vnexpress.net/14-do-thi-trong-tuong-lai-cua-ha-noi-5091663.html",
+      "published_at": "Thu, 02 Jul 2026 07:00:00 +0700",
+      "createAt": "2026-07-02T00:00:00.000Z",
+      "thumbnail_blurhash": "LXODp~?^.AV=R3InXSkWbcadRONF"
     }
   ]
 }
