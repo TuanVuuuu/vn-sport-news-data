@@ -765,5 +765,31 @@
     "published_at": "Thu, 02 Jul 2026 15:40:11 +0700",
     "createAt": "2026-07-02T08:40:11.000Z",
     "thumbnail_blurhash": "LUJ7wIROEzxZ~qf+T0t79Ztlt7og"
+  },
+  {
+    "id": "https://vnexpress.net/3-dong-luc-phat-trien-do-thi-tai-vinh-long-5092670.html",
+    "category_id": "real-estate",
+    "category_name": "Bất động sản",
+    "source": "VnExpress",
+    "title": "3 động lực phát triển đô thị tại Vĩnh Long",
+    "description": "Không gian phát triển mở rộng, hạ tầng kết nối liên vùng và hoạt động kinh tế gia tăng tạo nền tảng cho quá trình phát triển đô thị tại Vĩnh Long.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/02/anh-jpg-1782981850-8975-1782983316.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=RzelKwhsxB54E55GrB4OZQ",
+    "link": "https://vnexpress.net/3-dong-luc-phat-trien-do-thi-tai-vinh-long-5092670.html",
+    "published_at": "Thu, 02 Jul 2026 16:30:00 +0700",
+    "createAt": "2026-07-02T09:30:00.000Z",
+    "thumbnail_blurhash": "LWFF{cxtWUt7t:a#ofof%%j]juay"
+  },
+  {
+    "id": "https://vnexpress.net/qp-xanh-doi-ten-thanh-qp-holdings-5092735.html",
+    "category_id": "real-estate",
+    "category_name": "Bất động sản",
+    "source": "VnExpress",
+    "title": "QP Xanh đổi tên thành QP Holdings",
+    "description": "Cùng với tên gọi mới sau 20 năm, QP Holdings công bố ba trụ cột gồm bất động sản dân dụng, bất động sản công nghiệp và đầu tư tài chính, đặt mục tiêu lợi nhuận 2026 tăng hơn 500%.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/02/qpicd-1782987535-9539-1782987630.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=ewxEJakOZ7r91YtIWLWIjg",
+    "link": "https://vnexpress.net/qp-xanh-doi-ten-thanh-qp-holdings-5092735.html",
+    "published_at": "Thu, 02 Jul 2026 17:30:00 +0700",
+    "createAt": "2026-07-02T10:30:00.000Z",
+    "thumbnail_blurhash": "L:Fs=HbajFbFY8ofkBt7T2ofbIWX"
   }
 ]
