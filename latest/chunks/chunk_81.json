@@ -570,5 +570,31 @@
     "published_at": "Fri, 03 Jul 2026 01:00:00 +0700",
     "createAt": "2026-07-02T18:00:00.000Z",
     "thumbnail_blurhash": "LQB3:09a%Lxu.TM{tRkDGHxCR-S5"
+  },
+  {
+    "id": "https://vnexpress.net/lai-suat-trai-phieu-ngan-hang-len-gan-10-5092823.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Lãi suất trái phiếu ngân hàng lên gần 10%",
+    "description": "Loạt ngân hàng tăng hút vốn qua kênh trái phiếu nửa cuối tháng 6, trong đó một số lô có lãi suất đến 9,7%, cao nhất nhiều năm qua.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/02/DSC-2384-8662-1783010530.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Zn0-q0Js_TnjltrJcD7I1A",
+    "link": "https://vnexpress.net/lai-suat-trai-phieu-ngan-hang-len-gan-10-5092823.html",
+    "published_at": "Fri, 03 Jul 2026 04:00:00 +0700",
+    "createAt": "2026-07-02T21:00:00.000Z",
+    "thumbnail_blurhash": "L8FFEO5R00ES~CQ,-;E2=_9Y%NM|"
+  },
+  {
+    "id": "https://vnexpress.net/xe-dau-keo-tesla-bi-nghi-ngo-cong-nghe-an-toan-khi-gay-tai-nan-chet-nguoi-5092610.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Xe đầu kéo Tesla bị nghi ngờ công nghệ an toàn khi gây tai nạn chết người",
+    "description": "Tai nạn đầu tiên liên quan đến xe đầu kéo chạy điện Tesla Semi nghi do tài xế ngủ gật đặt câu hỏi về tính năng an toàn chủ động.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/02/TeslaSemi1-1782979861-3759-1782979988.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=S9QWun2DFuK_oIo3zEM3hQ",
+    "link": "https://vnexpress.net/xe-dau-keo-tesla-bi-nghi-ngo-cong-nghe-an-toan-khi-gay-tai-nan-chet-nguoi-5092610.html",
+    "published_at": "Fri, 03 Jul 2026 04:00:00 +0700",
+    "createAt": "2026-07-02T21:00:00.000Z",
+    "thumbnail_blurhash": "LoK_B~p0M{ad?d%Nayj?M}a#oyt6"
   }
 ]
