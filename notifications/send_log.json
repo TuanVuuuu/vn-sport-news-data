@@ -1,32 +1,6 @@
 {
   "entries": [
     {
-      "sent_at": "2026-06-24T08:40:46.757Z",
-      "topic": null,
-      "device_id": "692BDED7-C485-4DCF-BF17-C1CC61E6F8E8",
-      "slot": "noon",
-      "type": "featured_digest",
-      "article_ids": [
-        "https://vnexpress.net/de-nghi-bo-gioi-han-mot-nam-voi-giay-uy-quyen-nhan-luong-huu-5089246.html",
-        "https://vnexpress.net/de-xuat-hon-235-000-ty-dong-xay-vanh-dai-5-vung-thu-do-5089284.html",
-        "https://vnexpress.net/tuong-lai-thi-truong-dau-co-the-phu-thuoc-vao-trung-quoc-5089257.html",
-        "https://vnexpress.net/duong-xuyen-rung-ma-da-se-co-13-km-tuong-chong-on-5089322.html",
-        "https://vnexpress.net/duong-xuyen-rung-ma-da-se-co-13-km-tuong-chong-on-chan-sang-5089322.html",
-        "https://vnexpress.net/su-tri-tre-khien-anh-thay-6-thu-tuong-trong-10-nam-5089068.html",
-        "https://vnexpress.net/doanh-nghiep-trung-dau-gia-khu-dat-vang-1-379-ty-dong-phuong-ba-dinh-xin-bo-coc-5089352.html",
-        "https://vnexpress.net/bo-tai-chinh-giu-nguong-xac-dinh-thu-nhap-nguoi-phu-thuoc-3-trieu-dong-5089251.html",
-        "https://vnexpress.net/vu-sep-doi-cap-duoi-chia-tien-tham-o-chuyen-gi-cung-do-het-len-dau-toi-5089307.html",
-        "https://vnexpress.net/tp-hcm-tim-nha-dau-tu-hai-khu-do-thi-gan-5-5-ty-usd-5089215.html",
-        "https://vnexpress.net/trum-xe-sang-phan-cong-khanh-duoc-doi-toi-danh-nhe-hon-5089364.html",
-        "https://vnexpress.net/thu-thanh-iran-tu-chang-trai-vo-gia-cu-den-tran-dau-de-doi-o-world-cup-5088457.html",
-        "https://vnexpress.net/du-kien-giao-dai-hoc-tu-phong-giao-su-pho-giao-su-5089012.html",
-        "https://vnexpress.net/messi-va-ky-luc-18-ban-o-world-cup-5088950.html",
-        "https://vnexpress.net/ronaldo-messi-vao-doi-hinh-hay-nhat-luot-hai-world-cup-2026-5089408.html",
-        "https://vnexpress.net/nghien-cuu-tach-tham-chieu-bao-hiem-xa-hoi-khoi-luong-co-so-5089401.html"
-      ],
-      "highlight_id": "https://vnexpress.net/nghien-cuu-tach-tham-chieu-bao-hiem-xa-hoi-khoi-luong-co-so-5089401.html"
-    },
-    {
       "sent_at": "2026-06-24T11:50:44.745Z",
       "topic": null,
       "device_id": "6296C746-2413-4A29-B3CC-39F791042275",
@@ -15764,6 +15738,21 @@
         "https://vnexpress.net/trum-ban-hang-hieu-online-bi-phat-3-ty-dong-trong-vu-giau-doanh-thu-835-ty-dong-5092665.html"
       ],
       "highlight_id": "https://vnexpress.net/trum-ban-hang-hieu-online-bi-phat-3-ty-dong-trong-vu-giau-doanh-thu-835-ty-dong-5092665.html"
+    },
+    {
+      "sent_at": "2026-07-02T12:20:58.286Z",
+      "topic": null,
+      "device_id": "2ba55e08ae9fe631",
+      "slot": "evening",
+      "type": "featured_digest",
+      "article_ids": [
+        "https://vnexpress.net/31-nguoi-bi-khoi-to-trong-dai-an-tai-acv-5092417.html",
+        "https://vnexpress.net/them-14-nguoi-bi-khoi-to-trong-vu-z-holding-san-xuat-hon-4-trieu-hop-sua-gia-5092625.html",
+        "https://vnexpress.net/10-thuong-hieu-gia-tri-nhat-viet-nam-5092673.html",
+        "https://vnexpress.net/47-nguoi-bi-khoi-to-trong-vu-an-tai-tong-cong-ty-truyen-tai-dien-quoc-gia-5092437.html",
+        "https://vnexpress.net/con-khat-cua-ronaldo-o-vong-knock-out-world-cup-5092675.html"
+      ],
+      "highlight_id": "https://vnexpress.net/con-khat-cua-ronaldo-o-vong-knock-out-world-cup-5092675.html"
     }
   ]
 }
