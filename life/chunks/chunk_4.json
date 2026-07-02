@@ -232,5 +232,31 @@
     "published_at": "Thu, 02 Jul 2026 19:16:47 +0700",
     "createAt": "2026-07-02T12:16:47.000Z",
     "thumbnail_blurhash": "L9L4g9iFyE^,~UQ,IAM_.7MIHrtP"
+  },
+  {
+    "id": "https://vnexpress.net/nguoi-dan-ong-nghi-huu-som-kho-vi-qua-co-don-5091741.html",
+    "category_id": "life",
+    "category_name": "Đời sống",
+    "source": "VnExpress",
+    "title": "Người đàn ông nghỉ hưu sớm khổ vì quá cô đơn",
+    "description": "Đạt tự do tài chính và nghỉ hưu ở tuổi 43, Tanaka nhanh chóng rơi vào trạng thái cô đơn, phải đến siêu thị mỗi ngày để tìm người trò chuyện.",
+    "thumbnail_url": "https://vcdn1-giadinh.vnecdn.net/2026/07/02/o-1782960620-7437-1782961133.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=A7mzSs0ax4bNXXuTpVFA5Q",
+    "link": "https://vnexpress.net/nguoi-dan-ong-nghi-huu-som-kho-vi-qua-co-don-5091741.html",
+    "published_at": "Fri, 03 Jul 2026 05:46:00 +0700",
+    "createAt": "2026-07-02T22:46:00.000Z",
+    "thumbnail_blurhash": "LeJ**U_3o|IB~qbFaxRit7xaxtbb"
+  },
+  {
+    "id": "https://vnexpress.net/nguoi-nuoc-ngoai-keu-goi-ton-trong-van-hoa-viet-5084315.html",
+    "category_id": "life",
+    "category_name": "Đời sống",
+    "source": "VnExpress",
+    "title": "Người nước ngoài kêu gọi tôn trọng văn hóa Việt",
+    "description": "Chứng kiến một số khách Tây say xỉn, quậy phá, lợi dụng sự hiếu khách, nhiều người nước ngoài sống lâu năm tại Việt Nam lên tiếng kêu gọi tôn trọng văn hóa bản địa.",
+    "thumbnail_url": "https://vcdn1-giadinh.vnecdn.net/2026/06/12/2aoboqckzekj892f69nioxegehxy1k-5827-2388-1781229175.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=-UsVLhNPZ0-aYkUtelJU9g",
+    "link": "https://vnexpress.net/nguoi-nuoc-ngoai-keu-goi-ton-trong-van-hoa-viet-5084315.html",
+    "published_at": "Fri, 03 Jul 2026 06:00:00 +0700",
+    "createAt": "2026-07-02T23:00:00.000Z",
+    "thumbnail_blurhash": "LUGbxMRY-;.7~n-mxu%MbaxttRRj"
   }
 ]
