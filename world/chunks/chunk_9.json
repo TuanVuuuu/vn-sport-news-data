@@ -648,5 +648,31 @@
     "published_at": "Fri, 03 Jul 2026 09:32:14 +0700",
     "createAt": "2026-07-03T02:32:14.000Z",
     "thumbnail_blurhash": "LUDJYPtSbcxWtTR*M{ad.AbIoeWE"
+  },
+  {
+    "id": "https://vnexpress.net/phong-gym-hoan-tien-huy-the-cua-khach-vi-mui-co-the-5092933.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Phòng gym hoàn tiền, hủy thẻ của khách vì mùi cơ thể",
+    "description": "Shi, khách hàng một phòng gym ở Hàng Châu, được hoàn tiền và tặng thẻ tập ở nơi khác, sau khi nhiều người phàn nàn về mùi hôi cơ thể của anh.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/03/78701d3ca-a7fd-c603da450f70e60-9739-9856-1783047715.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=eEa9tM9zk15QuX86xLPg8A",
+    "link": "https://vnexpress.net/phong-gym-hoan-tien-huy-the-cua-khach-vi-mui-co-the-5092933.html",
+    "published_at": "Fri, 03 Jul 2026 10:47:41 +0700",
+    "createAt": "2026-07-03T03:47:41.000Z",
+    "thumbnail_blurhash": "LEF$eG^+?wT2?]NGRj$*M_t7IU9F"
+  },
+  {
+    "id": "https://vnexpress.net/my-chon-hop-thoi-gian-du-kien-mo-vao-nam-2276-5092902.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Mỹ chôn hộp thời gian, dự kiến mở vào năm 2276",
+    "description": "Giới chức Mỹ chôn hộp thời gian nhân dịp quốc khánh 4/7, chiếc hộp sẽ được mở sau 250 năm.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/03/afp202607022283776390v1highres-7954-8200-1783049278.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=arpMWMRs8dYHKPqSguVeWg",
+    "link": "https://vnexpress.net/my-chon-hop-thoi-gian-du-kien-mo-vao-nam-2276-5092902.html",
+    "published_at": "Fri, 03 Jul 2026 10:56:56 +0700",
+    "createAt": "2026-07-03T03:56:56.000Z",
+    "thumbnail_blurhash": "L7D9bU-q4n4T0MM{_3IUMHIB%N~W"
   }
 ]
