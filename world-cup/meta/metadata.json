@@ -1,5 +1,5 @@
 {
-  "total_articles": 2300,
+  "total_articles": 2302,
   "files": [
     "chunk_1.json",
     "chunk_2.json",
@@ -23,7 +23,8 @@
     "chunk_20.json",
     "chunk_21.json",
     "chunk_22.json",
-    "chunk_23.json"
+    "chunk_23.json",
+    "chunk_24.json"
   ],
   "channel": {
     "title": "World Cup 2026 - Tin tức nổi bật và mới nhất | Thể Thao 247",
@@ -32,7 +33,7 @@
     "copyright": "Thể thao 247",
     "logo_url": "https://thethao247.vn/frontend/images/logo.png",
     "link": "https://thethao247.vn",
-    "last_updated": "Fri, 03 Jul 2026 14:50:42 +0700"
+    "last_updated": "Fri, 03 Jul 2026 15:01:08 +0700"
   },
-  "last_updated": "2026-07-03T07:50:42.606Z"
+  "last_updated": "2026-07-03T08:01:12.427Z"
 }
