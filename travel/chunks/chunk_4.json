@@ -427,5 +427,31 @@
     "published_at": "Thu, 02 Jul 2026 21:36:46 +0700",
     "createAt": "2026-07-02T14:36:46.000Z",
     "thumbnail_blurhash": "LwEfHjojNLxv%jRqRjt8t9bJWCj]"
+  },
+  {
+    "id": "https://vnexpress.net/du-khach-xem-world-cup-phat-cuong-vi-loai-sot-cham-binh-dan-cua-my-5092715.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Du khách xem World Cup 'phát cuồng' vì loại sốt chấm bình dân của Mỹ",
+    "description": "Du khách đến Mỹ xem World Cup đang có trào lưu gom hàng chục chai sốt kem thảo mộc mang về nước, khơi mào cho tranh luận về một xu hướng ẩm thực mới hay chiêu trò marketing.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/07/02/p0nw1j4j-jpg-1782986033-3201-1782986044.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=TyYjAPQjG3sGbBerHYzFYA",
+    "link": "https://vnexpress.net/du-khach-xem-world-cup-phat-cuong-vi-loai-sot-cham-binh-dan-cua-my-5092715.html",
+    "published_at": "Fri, 03 Jul 2026 07:00:23 +0700",
+    "createAt": "2026-07-03T00:00:23.000Z",
+    "thumbnail_blurhash": "LDG[yK}Az=+_IUVGRPjKIo$zIUIn"
+  },
+  {
+    "id": "https://vnexpress.net/con-duong-di-bo-duoc-menh-danh-chet-nguoi-len-dinh-nui-trung-quoc-5092762.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Con đường đi bộ được mệnh danh 'chết người' lên đỉnh núi Trung Quốc",
+    "description": "Nằm trên vách đá ở độ cao hơn 2.000 m, con đường đi bộ tại núi Hoàng Sơn được mệnh danh là đường đi bộ nguy hiểm bậc nhất thế giới, du khách sơ sẩy vài giây có thể mất mạng.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/07/02/5fe449bc7d27e-1782991758-6227-1782991826.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Opo7_G8BZD1HDN4Q2JG6Cw",
+    "link": "https://vnexpress.net/con-duong-di-bo-duoc-menh-danh-chet-nguoi-len-dinh-nui-trung-quoc-5092762.html",
+    "published_at": "Fri, 03 Jul 2026 07:23:20 +0700",
+    "createAt": "2026-07-03T00:23:20.000Z",
+    "thumbnail_blurhash": "LOJ@L3v0Y7nN?wD$-;t5bve-s.t7"
   }
 ]

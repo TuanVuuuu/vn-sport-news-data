@@ -154,5 +154,31 @@
     "published_at": "Fri, 03 Jul 2026 06:00:00 +0700",
     "createAt": "2026-07-02T23:00:00.000Z",
     "thumbnail_blurhash": "LbFj7zbcITa|.mozRhW9XoX9obn#"
+  },
+  {
+    "id": "https://vnexpress.net/gian-nan-thuyet-phuc-con-dung-ghe-tre-em-5086264.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Gian nan thuyết phục con dùng ghế trẻ em",
+    "description": "Không được dùng thường xuyên hoặc làm quen từ sớm, nhiều trẻ em không hợp tác khi ngồi ghế chuyên dụng trên ôtô khiến nhiều phụ huynh \"toát mồ hôi\".",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/02/ghetreemvnexpress-1782984710-8059-1782986873.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=ZbZ3K9_VAJckMmf41BHOOg",
+    "link": "https://vnexpress.net/gian-nan-thuyet-phuc-con-dung-ghe-tre-em-5086264.html",
+    "published_at": "Fri, 03 Jul 2026 06:40:00 +0700",
+    "createAt": "2026-07-02T23:40:00.000Z",
+    "thumbnail_blurhash": "L6EfA;$S00b^~nm;^+4:y400%1%L"
+  },
+  {
+    "id": "https://vnexpress.net/urus-performance-se-suv-manh-me-nhat-cua-lamborghini-5092617.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Urus Performance SE - SUV mạnh mẽ nhất của Lamborghini",
+    "description": "Mẫu xe gầm cao bản hiệu suất cao nâng cấp hệ truyền động PHEV cho tổng công suất hơn 800 mã lực, bán ra từ 2027.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/02/LamborghiniUrusPerformanceSE30-5099-1299-1782984000.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=L9TFNfnazNITcomPLHLhFQ",
+    "link": "https://vnexpress.net/urus-performance-se-suv-manh-me-nhat-cua-lamborghini-5092617.html",
+    "published_at": "Fri, 03 Jul 2026 07:25:00 +0700",
+    "createAt": "2026-07-03T00:25:00.000Z",
+    "thumbnail_blurhash": "LJD]9m~VjFV@_2%LaeWAnmRkIpR%"
   }
 ]
