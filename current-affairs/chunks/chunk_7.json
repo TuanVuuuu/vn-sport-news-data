@@ -1194,5 +1194,31 @@
     "published_at": "Fri, 03 Jul 2026 18:10:58 +0700",
     "createAt": "2026-07-03T11:10:58.000Z",
     "thumbnail_blurhash": "LyI#+gjE%gtS.As9o~t7R,oMs9o0"
+  },
+  {
+    "id": "https://vnexpress.net/quy-dinh-moi-ve-phuc-vu-chuyen-co-voi-lanh-dao-chu-chot-5093265.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Quy định mới về phục vụ chuyên cơ với lãnh đạo chủ chốt",
+    "description": "Thường trực Ban Bí thư được bổ sung vào diện phục vụ chuyên cơ, chuyên khoang, cùng với bốn chức danh lãnh đạo chủ chốt khác của Đảng, Nhà nước.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/03/z7460120749156b4784b395f1aee-j-8095-7976-1783093482.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=7fH2hjtfx14xk2OqU4hnpg",
+    "link": "https://vnexpress.net/quy-dinh-moi-ve-phuc-vu-chuyen-co-voi-lanh-dao-chu-chot-5093265.html",
+    "published_at": "Sat, 04 Jul 2026 06:00:00 +0700",
+    "createAt": "2026-07-03T23:00:00.000Z",
+    "thumbnail_blurhash": "L7B.G@=L56^Q}SnP9a$$0wi_v-W;"
+  },
+  {
+    "id": "https://vnexpress.net/thiet-ke-dac-biet-cua-hai-cau-day-vang-cao-nhat-viet-nam-5092605.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Thiết kế đặc biệt của hai cầu dây văng cao nhất Việt Nam",
+    "description": "Cầu Phước Khánh và Bình Khánh có tĩnh không 55 m, trụ tháp cao 155 m, dùng hệ cáp dây văng luồn qua neo \"yên ngựa\", chịu được va chạm của tàu 20.000 tấn.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/02/DJI202510021511120137D17594796-4477-3780-1782976819.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=5bLfZZbZLK1UdS5XUG_Y6w",
+    "link": "https://vnexpress.net/thiet-ke-dac-biet-cua-hai-cau-day-vang-cao-nhat-viet-nam-5092605.html",
+    "published_at": "Sat, 04 Jul 2026 06:00:00 +0700",
+    "createAt": "2026-07-03T23:00:00.000Z",
+    "thumbnail_blurhash": "LQJ834t7xYxtysNGS4WYx_xZofof"
   }
 ]
