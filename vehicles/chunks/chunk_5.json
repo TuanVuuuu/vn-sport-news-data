@@ -323,5 +323,31 @@
     "published_at": "Fri, 03 Jul 2026 16:30:00 +0700",
     "createAt": "2026-07-03T09:30:00.000Z",
     "thumbnail_blurhash": "L6C6u*p0~9xr?8E28{xt8w9FJE^+"
+  },
+  {
+    "id": "https://vnexpress.net/volvo-sap-ban-hai-xe-thuan-dien-moi-tai-viet-nam-5092875.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Volvo sắp bán hai xe thuần điện mới tại Việt Nam",
+    "description": "Volvo ES90 sedan và EX90 SUV thuần điện dự kiến ra mắt vào cuối 2026, nhập khẩu Malaysia.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/03/VolvoES90EX90vnexpress-1783067-5172-3373-1783068041.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=P0Lj-wH3FiBXor0TGrJS1w",
+    "link": "https://vnexpress.net/volvo-sap-ban-hai-xe-thuan-dien-moi-tai-viet-nam-5092875.html",
+    "published_at": "Sat, 04 Jul 2026 04:34:00 +0700",
+    "createAt": "2026-07-03T21:34:00.000Z",
+    "thumbnail_blurhash": "L2AmSY-BD5^,00Mx^+i{.7%gS}IU"
+  },
+  {
+    "id": "https://vnexpress.net/xe-tu-lai-chay-xuyen-dem-giai-phap-logistics-toi-uu-cua-trung-quoc-5092553.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Xe tự lái chạy xuyên đêm - giải pháp logistics tối ưu của Trung Quốc",
+    "description": "Tại Thâm Quyến, xe tự lái có thể hoạt động 24/7, từ giao hàng ban ngày đến tiếp cấp hàng hóa cho các trạm trung chuyển vào ban đêm.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/02/China8-1782970184-3433-1782970516.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=k_8dr_So451E6JMLudXE1w",
+    "link": "https://vnexpress.net/xe-tu-lai-chay-xuyen-dem-giai-phap-logistics-toi-uu-cua-trung-quoc-5092553.html",
+    "published_at": "Sat, 04 Jul 2026 05:00:00 +0700",
+    "createAt": "2026-07-03T22:00:00.000Z",
+    "thumbnail_blurhash": "LHAJ.]}-vxWGA1ElOZNH9bM{$$-o"
   }
 ]
