@@ -622,5 +622,31 @@
     "published_at": "Fri, 03 Jul 2026 08:42:38 +0700",
     "createAt": "2026-07-03T01:42:38.000Z",
     "thumbnail_blurhash": "LBFOMy^jROaL~BRjE2xuV@S4Iqn~"
+  },
+  {
+    "id": "https://vnexpress.net/my-se-to-chuc-man-phao-hoa-lon-nhat-the-gioi-mung-quoc-khanh-5092859.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Mỹ sẽ tổ chức màn pháo hoa lớn nhất thế giới mừng quốc khánh",
+    "description": "Chính quyền Trump sẽ tổ chức màn bắn pháo hoa kéo dài 40 phút, sử dụng lượng pháo kỷ lục để chào mừng 250 năm quốc khánh Mỹ.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/03/phao-hoa-1783042657-6479-1783043555.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=nGM_HontvB5Jyz5N0iFJKw",
+    "link": "https://vnexpress.net/my-se-to-chuc-man-phao-hoa-lon-nhat-the-gioi-mung-quoc-khanh-5092859.html",
+    "published_at": "Fri, 03 Jul 2026 09:28:36 +0700",
+    "createAt": "2026-07-03T02:28:36.000Z",
+    "thumbnail_blurhash": "LMDSqB=^D%E3_4r;D*I=ENENIpj["
+  },
+  {
+    "id": "https://vnexpress.net/nguoi-nga-chat-vat-voi-tinh-canh-thieu-xang-5092799.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Người Nga chật vật với tình cảnh thiếu xăng",
+    "description": "Các cuộc tập kích bằng UAV của Ukraine nhằm vào hệ thống lọc dầu và kho nhiên liệu đang đẩy Nga vào khủng hoảng xăng dầu nghiêm trọng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/02/nga-jpg-1783008179-3207-1783008233.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=4ltZnSHZjr9_zCW4CAV25w",
+    "link": "https://vnexpress.net/nguoi-nga-chat-vat-voi-tinh-canh-thieu-xang-5092799.html",
+    "published_at": "Fri, 03 Jul 2026 09:32:14 +0700",
+    "createAt": "2026-07-03T02:32:14.000Z",
+    "thumbnail_blurhash": "LUDJYPtSbcxWtTR*M{ad.AbIoeWE"
   }
 ]
