@@ -544,5 +544,44 @@
     "published_at": "Fri, 03 Jul 2026 17:12:45 +0700",
     "createAt": "2026-07-03T10:12:45.000Z",
     "thumbnail_blurhash": "LDN,[3-pxu-;~qtRt8t7xuaeM_Rj"
+  },
+  {
+    "id": "https://vnexpress.net/an-thit-bo-co-beo-khong-5092428.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Ăn thịt bò có béo không?",
+    "description": "Thịt bò không chỉ không làm bạn béo mà còn mang lại nhiều lợi ích trong hành trình kiểm soát thừa cân và béo phì, nếu biết chọn loại thịt bò phù hợp và chế biến đúng cách.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/02/buoc-1782958999-5302-1782959025.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=8qMwrz_6eR5Vzabf2IUL1A",
+    "link": "https://vnexpress.net/an-thit-bo-co-beo-khong-5092428.html",
+    "published_at": "Fri, 03 Jul 2026 18:00:00 +0700",
+    "createAt": "2026-07-03T11:00:00.000Z",
+    "thumbnail_blurhash": "L9FE17R6Bosl}TiwtkS11iM{KONH"
+  },
+  {
+    "id": "https://vnexpress.net/vi-sao-phoi-yeu-du-khong-hut-thuoc-la-5093106.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Vì sao phổi yếu dù không hút thuốc lá?",
+    "description": "Tiếp xúc với bụi và hóa chất nghề nghiệp, mắc bệnh hô hấp kéo dài, chế độ ăn uống thiếu lành mạnh đều có thể âm thầm làm suy giảm chức năng phổi.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/03/2894a9db-aa06c8f2-be84131bf858-4238-9534-1783072304.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=2iUKRtIWYuxj03jLj3Pt5w",
+    "link": "https://vnexpress.net/vi-sao-phoi-yeu-du-khong-hut-thuoc-la-5093106.html",
+    "published_at": "Fri, 03 Jul 2026 18:00:00 +0700",
+    "createAt": "2026-07-03T11:00:00.000Z",
+    "thumbnail_blurhash": "L5F5~kR500T100~BDgE403jFwFtT"
+  },
+  {
+    "id": "https://vnexpress.net/4-cach-giup-nguoi-tieu-duong-bao-ve-nao-5092908.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "4 cách giúp người tiểu đường bảo vệ não",
+    "description": "Vận động thường xuyên, bổ sung thực phẩm giàu omega-3 có thể giúp giảm viêm, hỗ trợ kiểm soát đường huyết, góp phần tăng cường sức khỏe não bộ.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/03/447634352-n-1783045167-6335-1783045241.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=bD0pZPbFhqQxQRBrywmKxQ",
+    "link": "https://vnexpress.net/4-cach-giup-nguoi-tieu-duong-bao-ve-nao-5092908.html",
+    "published_at": "Fri, 03 Jul 2026 18:00:00 +0700",
+    "createAt": "2026-07-03T11:00:00.000Z",
+    "thumbnail_blurhash": "LIF;B4{K}[Vs^+MdXTM{.7E1pINF"
   }
 ]
