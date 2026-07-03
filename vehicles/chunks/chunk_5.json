@@ -219,5 +219,31 @@
     "published_at": "Fri, 03 Jul 2026 10:20:45 +0700",
     "createAt": "2026-07-03T03:20:45.000Z",
     "thumbnail_blurhash": "LVGk|7~V.7%L?b%NNxRjx]-;xvV@"
+  },
+  {
+    "id": "https://vnexpress.net/honda-viet-nam-tang-gia-17-xe-may-5092886.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Honda Việt Nam tăng giá 17 xe máy",
+    "description": "Từ 1/7, các mẫu phổ thông như Wave Alpha, Vision, Air Blade, đến cao cấp như SH tăng khoảng 100.000-700.000 đồng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/03/xemayHondavnexpressJPG-1783048-5132-3809-1783048836.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Lhkj22eJb1_Q14gMxlD9HA",
+    "link": "https://vnexpress.net/honda-viet-nam-tang-gia-17-xe-may-5092886.html",
+    "published_at": "Fri, 03 Jul 2026 10:41:13 +0700",
+    "createAt": "2026-07-03T03:41:13.000Z",
+    "thumbnail_blurhash": "LRFF%9RjouIpZ#Rn%hs+_4RPtQkX"
+  },
+  {
+    "id": "https://vnexpress.net/honda-cr-v-lan-dau-tien-thanh-vua-doanh-so-o-my-5092839.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Honda CR-V lần đầu tiên thành 'vua doanh số' ở Mỹ",
+    "description": "Mẫu crossover của hãng Nhật lần đầu tiên đứng đầu bảng xếp hạng doanh số toàn thị trường sau kết quả của nửa đầu năm.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/03/HondaCRV-1783049418-2847-1783049528.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Z4spo15pAnEVb7EhbH4wpw",
+    "link": "https://vnexpress.net/honda-cr-v-lan-dau-tien-thanh-vua-doanh-so-o-my-5092839.html",
+    "published_at": "Fri, 03 Jul 2026 11:16:19 +0700",
+    "createAt": "2026-07-03T04:16:19.000Z",
+    "thumbnail_blurhash": "LJEfZ[x{.modI]x_4nI9yYo#-Dt7"
   }
 ]
