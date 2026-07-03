@@ -1,3 +1,17 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/bo-dao-nha-vs-croatia-5092817-tong-thuat.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Ronaldo giúp Bồ Đào Nha thắng Croatia ở vòng 1/16 World Cup",
+      "description": "Tiền đạo Goncalo Ramos ấn định tỷ số lên 2-1 sau khi Cristiano Ronaldo gỡ hòa, giúp Bồ Đào Nha thắng ngược Croatia tại vòng 1/16 World Cup 2026.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/07/03/ronaldo-a-n-mu-ng-1783039945-7359-1783039955.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=GSbsw7tKLcS4GaPfV_EyaQ",
+      "link": "https://vnexpress.net/bo-dao-nha-vs-croatia-5092817-tong-thuat.html",
+      "published_at": "Fri, 03 Jul 2026 05:00:00 +0700",
+      "createAt": "2026-07-02T22:00:00.000Z",
+      "thumbnail_blurhash": "L8D9#M.9=y^,4Tq[4.Mxz=bx~q-U"
+    }
+  ]
 }

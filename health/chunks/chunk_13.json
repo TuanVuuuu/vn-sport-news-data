@@ -284,5 +284,31 @@
     "published_at": "Fri, 03 Jul 2026 10:00:00 +0700",
     "createAt": "2026-07-03T03:00:00.000Z",
     "thumbnail_blurhash": "LeL:yJ_4Jp=wxukCa$n$RPM_M_NG"
+  },
+  {
+    "id": "https://vnexpress.net/trung-long-dao-bo-duong-hon-nau-chin-ky-5092674.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Trứng lòng đào bổ dưỡng hơn nấu chín kỹ?",
+    "description": "Nhiều người cho rằng trứng càng nấu chín kỹ càng mất nhiều dinh dưỡng, song chuyên gia khẳng định đây hoàn toàn là một lầm tưởng.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/02/screenshot-at-1782982551-6423-1782982624.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=MshHB4XjE-pvOep88qfPyQ",
+    "link": "https://vnexpress.net/trung-long-dao-bo-duong-hon-nau-chin-ky-5092674.html",
+    "published_at": "Fri, 03 Jul 2026 11:00:00 +0700",
+    "createAt": "2026-07-03T04:00:00.000Z",
+    "thumbnail_blurhash": "LBEy3tWT00RQ00xu~WIU01t7]~kU"
+  },
+  {
+    "id": "https://vnexpress.net/hon-100-nguoi-o-chau-au-nhiem-salmonella-lien-quan-mi-an-lien-5092951.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Hơn 100 người ở châu Âu nhiễm Salmonella liên quan mì ăn liền",
+    "description": "Ít nhất 106 người tại 14 quốc gia châu Âu, chủ yếu là trẻ em và thanh thiếu niên, được xác nhận nhiễm khuẩn Salmonella Stanley sau khi sử dụng mì ăn liền có nguồn gốc từ Ukraine.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/03/mi-1783050483-3556-1783050544.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=FtxJj5mpRe9L9Fe7ng6NTg",
+    "link": "https://vnexpress.net/hon-100-nguoi-o-chau-au-nhiem-salmonella-lien-quan-mi-an-lien-5092951.html",
+    "published_at": "Fri, 03 Jul 2026 11:10:26 +0700",
+    "createAt": "2026-07-03T04:10:26.000Z",
+    "thumbnail_blurhash": "LlM70{%Mu6tR?HaekDkCpKWBn#oJ"
   }
 ]
