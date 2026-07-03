@@ -1090,5 +1090,57 @@
     "published_at": "Fri, 03 Jul 2026 08:44:59 +0700",
     "createAt": "2026-07-03T01:44:59.000Z",
     "thumbnail_blurhash": "LON+z=~CW.^*Eiofs:?G00%Lofxt"
+  },
+  {
+    "id": "https://vnexpress.net/gdp-quy-ii-tang-8-39-5092903.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "GDP quý II tăng 8,39%",
+    "description": "Tốc độ tăng trưởng kinh tế quý II ước đạt 8,39% so với cùng kỳ năm trước, theo Cục Thống kê.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/03/dji202602041705110241d-1783044-8117-1699-1783044604.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=IVLkbP3lFGNoPVziYJ-2lQ",
+    "link": "https://vnexpress.net/gdp-quy-ii-tang-8-39-5092903.html",
+    "published_at": "Fri, 03 Jul 2026 09:14:20 +0700",
+    "createAt": "2026-07-03T02:14:20.000Z",
+    "thumbnail_blurhash": "LOCP;a%2jtkD_NxuofWC?uxafkWV"
+  },
+  {
+    "id": "https://vnexpress.net/shb-trien-khai-canh-bao-tai-khoan-nhan-tien-co-dau-hieu-gian-lan-lua-dao-5092905.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "SHB triển khai cảnh báo tài khoản nhận tiền có dấu hiệu gian lận, lừa đảo",
+    "description": "SHB triển khai tính năng cảnh báo tài khoản nhận tiền có dấu hiệu nghi ngờ gian lận, lừa đảo trên các kênh giao dịch điện tử từ ngày 1/7, giúp khách hàng chủ động nhận diện rủi ro.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/03/shb-tinh-nang-moi-canh-bao-tai-8493-2564-1783045156.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=2Koz3HTGqRaWs0493n8TCg",
+    "link": "https://vnexpress.net/shb-trien-khai-canh-bao-tai-khoan-nhan-tien-co-dau-hieu-gian-lan-lua-dao-5092905.html",
+    "published_at": "Fri, 03 Jul 2026 09:30:00 +0700",
+    "createAt": "2026-07-03T02:30:00.000Z",
+    "thumbnail_blurhash": "LJGt~c0Lx@tjD4_Nv|s8yYVr-pxb"
+  },
+  {
+    "id": "https://vnexpress.net/dragon-capital-go-kho-bai-toan-von-giup-doanh-nghiep-dat-lo-trinh-ben-vung-5092904.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Dragon Capital: Gỡ khó bài toán vốn giúp doanh nghiệp đạt lộ trình bền vững",
+    "description": "Nâng hạng thị trường, nới lỏng quy định niêm yết, tạo cơ chế để nhóm FDI duy trì ngoại tệ, là những đề xuất của Chủ tịch Dragon Capital nhằm giúp doanh nghiệp tăng năng lực cạnh tranh.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/03/dji-1783046086-3360-1783046251.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=UoedTC_GxO7JjBOd3BQaFw",
+    "link": "https://vnexpress.net/dragon-capital-go-kho-bai-toan-von-giup-doanh-nghiep-dat-lo-trinh-ben-vung-5092904.html",
+    "published_at": "Fri, 03 Jul 2026 10:00:00 +0700",
+    "createAt": "2026-07-03T03:00:00.000Z",
+    "thumbnail_blurhash": "LcFPg9oJWBxu_4NHWXkC?boyWVj]"
+  },
+  {
+    "id": "https://vnexpress.net/cham-dut-hoat-dong-du-an-sat-mo-thach-khe-5092909.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Chấm dứt hoạt động dự án sắt mỏ Thạch Khê",
+    "description": "Dự án khai thác và tuyển quặng sắt mỏ Thạch Khê bị chấm dứt hoạt động do nhà đầu tư chậm tiến độ kéo dài sau nhiều năm cấp phép.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/03/mo-sat-thach-khe-1783045614-3891-1783046556.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=j6zIE3rOvqnn9nJe5RKcTA",
+    "link": "https://vnexpress.net/cham-dut-hoat-dong-du-an-sat-mo-thach-khe-5092909.html",
+    "published_at": "Fri, 03 Jul 2026 10:09:18 +0700",
+    "createAt": "2026-07-03T03:09:18.000Z",
+    "thumbnail_blurhash": "L.I#ryaxoes:_4WCazkCx]ofoLfR"
   }
 ]
