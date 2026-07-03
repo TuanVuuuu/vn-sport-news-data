@@ -531,5 +531,44 @@
     "published_at": "Fri, 03 Jul 2026 07:00:00 +0700",
     "createAt": "2026-07-03T00:00:00.000Z",
     "thumbnail_blurhash": "LXF7Djt80IS9xws+IwNNIVRo%KxV"
+  },
+  {
+    "id": "https://vnexpress.net/camera-ky-thuat-so-lon-nhat-the-gioi-bat-dau-quan-sat-vu-tru-5092771.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Camera kỹ thuật số lớn nhất thế giới bắt đầu quan sát vũ trụ",
+    "description": "Camera LSST ở Đài quan sát Vera C. Rubin đi vào hoạt động, hứa hẹn cung cấp thước phim rõ nét nhất về các ngôi sao và thiên hà trong vũ trụ.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/02/VNECam-1782993626-4092-1782993721.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=HT5YAnjlBVugUA1RgeMcRQ",
+    "link": "https://vnexpress.net/camera-ky-thuat-so-lon-nhat-the-gioi-bat-dau-quan-sat-vu-tru-5092771.html",
+    "published_at": "Fri, 03 Jul 2026 08:00:00 +0700",
+    "createAt": "2026-07-03T01:00:00.000Z",
+    "thumbnail_blurhash": "L9DcBt?wFx4n^kxu56IU00r=MxtR"
+  },
+  {
+    "id": "https://vnexpress.net/phat-hanh-ban-tin-ve-khoa-hoc-thuong-thuc-5092642.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Phát hành bản tin về Khoa học thường thức",
+    "description": "Cục Thông tin, thống kê phát hành bản tin định kỳ hàng tháng cung cấp thông tin về các phát hiện khoa học, nghiên cứu mới phục vụ chăm sóc sức khỏe và cải thiện chất lượng cuộc sống.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/03/img-1783043236-4416-1783043246.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=onoUWz33wOCRieqCOjdngQ",
+    "link": "https://vnexpress.net/phat-hanh-ban-tin-ve-khoa-hoc-thuong-thuc-5092642.html",
+    "published_at": "Fri, 03 Jul 2026 08:45:44 +0700",
+    "createAt": "2026-07-03T01:45:44.000Z",
+    "thumbnail_blurhash": "LNNxAk01ID%2_JIqNGt7%3xrNHM|"
+  },
+  {
+    "id": "https://vnexpress.net/nhung-diem-noi-bat-cua-luat-chuyen-doi-so-5092691.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Những điểm nổi bật của Luật Chuyển đổi số",
+    "description": "Luật Chuyển đổi số, có hiệu lực từ 1/7, bổ sung mảnh ghép còn thiếu trong hệ thống pháp luật, hình thành khung pháp lý thống nhất nhằm xây dựng quốc gia số.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/02/robot-1782983498-6833-1782983530.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=r7qgqe7yIJydpKABqcDdQQ",
+    "link": "https://vnexpress.net/nhung-diem-noi-bat-cua-luat-chuyen-doi-so-5092691.html",
+    "published_at": "Fri, 03 Jul 2026 09:00:00 +0700",
+    "createAt": "2026-07-03T02:00:00.000Z",
+    "thumbnail_blurhash": "LRGv3Mt:yE4.tmE2%NNMS$X9WEjb"
   }
 ]
