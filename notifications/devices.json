@@ -19,14 +19,14 @@
       "fcm_token": "fw23AplspEOJkoFq7k5Epd:APA91bFSKFiTZVmLZ99jKs3fgEE7nUlqxYzYhyujOeBqFdJyhrYdTRugYcQcyIPi-gCSav08IYIVSttEevohTSdTpBEM96TSXchRUqw4K6M3q4NDnsdhiaQ",
       "platform": "ios",
       "preferences": {
-        "enabled": true,
+        "enabled": false,
         "max_per_day": 3,
         "categories": [
           "featured"
         ]
       },
       "created_at": "2026-06-21T06:58:48.668Z",
-      "updated_at": "2026-07-03T06:40:57.931Z"
+      "updated_at": "2026-07-03T06:41:08.530Z"
     },
     {
       "device_id": "98e45764fa502cd2",
