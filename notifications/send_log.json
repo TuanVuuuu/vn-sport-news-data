@@ -1,29 +1,6 @@
 {
   "entries": [
     {
-      "sent_at": "2026-06-26T23:01:12.007Z",
-      "topic": null,
-      "device_id": "6296C746-2413-4A29-B3CC-39F791042275",
-      "slot": "morning",
-      "type": "featured_digest",
-      "article_ids": [
-        "https://vnexpress.net/my-tim-cach-thuyet-phuc-dong-minh-vung-vinh-ve-thoa-thuan-voi-iran-5090204.html",
-        "https://vnexpress.net/mua-lu-khien-nhieu-noi-o-cao-bang-ngap-sau-5090336.html",
-        "https://vnexpress.net/camera-ban-tai-viet-nam-sap-phai-dap-ung-quy-chuan-moi-5089430.html",
-        "https://vnexpress.net/chinh-phu-kien-toan-co-cau-bo-khoa-hoc-va-cong-nghe-5090368.html",
-        "https://vnexpress.net/nga-ban-bo-tinh-trang-khan-cap-tai-crimea-5090393.html",
-        "https://vnexpress.net/may-bay-co-nho-dam-vao-toa-nha-cao-nhat-bac-kinh-5090399.html",
-        "https://vnexpress.net/tu-1-7-oto-do-phu-kien-chinh-hang-khong-bi-coi-la-cai-tao-xe-5090392.html",
-        "https://vnexpress.net/so-nguoi-chet-trong-dong-dat-kep-o-venezuela-tang-len-gan-600-5090405.html",
-        "https://vnexpress.net/chuyen-gia-nhat-ban-brazil-de-choi-hon-morocco-5090367.html",
-        "https://vnexpress.net/bo-xay-dung-thong-nhat-vi-tri-nha-ga-duong-sat-tai-san-bay-long-thanh-5090407.html",
-        "https://vnexpress.net/thu-quynh-toi-hanh-phuc-khi-lam-me-don-than-5086393.html",
-        "https://vnexpress.net/chuyen-gia-bong-da-nhat-ban-brazil-de-choi-hon-morocco-5090367.html",
-        "https://vnexpress.net/nguoi-dan-phan-khoi-khi-kham-benh-tai-bach-mai-co-so-2-5090383.html"
-      ],
-      "highlight_id": "https://vnexpress.net/nguoi-dan-phan-khoi-khi-kham-benh-tai-bach-mai-co-so-2-5090383.html"
-    },
-    {
       "sent_at": "2026-06-26T23:01:12.264Z",
       "topic": null,
       "device_id": "EBB7CAB7-FDF1-438F-87F2-A9999FBD4DB9",
@@ -16077,6 +16054,28 @@
         "https://vnexpress.net/bo-giao-duc-noi-gi-ve-diem-toan-truong-chuyen-tuyen-quang-5092934.html"
       ],
       "highlight_id": "https://vnexpress.net/bo-giao-duc-noi-gi-ve-diem-toan-truong-chuyen-tuyen-quang-5092934.html"
+    },
+    {
+      "sent_at": "2026-07-03T08:20:52.141Z",
+      "topic": null,
+      "device_id": "B379A2EA-D969-47ED-972F-E3E49DBDEE71",
+      "slot": "noon",
+      "type": "featured_digest",
+      "article_ids": [
+        "https://vnexpress.net/bo-dao-nha-vs-croatia-5092817-tong-thuat.html",
+        "https://vnexpress.net/thuy-si-v-algeria-5092883-tong-thuat.html",
+        "https://vnexpress.net/camera-ghi-canh-nghi-pham-ban-5-phat-sung-khien-mot-nguoi-tu-vong-5092938.html",
+        "https://vnexpress.net/top-20-truong-co-diem-thi-tot-nghiep-2026-cao-nhat-ha-noi-5093004.html",
+        "https://vnexpress.net/selena-gomez-va-dan-sao-du-tiec-truoc-le-cuoi-cua-taylor-swift-5092898.html",
+        "https://vnexpress.net/cach-xac-thuc-khuon-mat-khi-doi-sim-sang-may-moi-5090193.html",
+        "https://vnexpress.net/quang-ninh-ninh-binh-cam-bien-phong-bao-maysak-5093010.html",
+        "https://vnexpress.net/co-quan-hanh-chinh-phai-chu-dong-cung-cap-thong-tin-cho-bao-chi-5092550.html",
+        "https://vnexpress.net/cuu-nguoi-dan-ong-di-lac-5-ngay-trong-rung-5093015.html",
+        "https://vnexpress.net/tp-hcm-tiep-tuc-de-xuat-tai-xe-cong-nghe-dong-bhxh-bat-buoc-5093045.html",
+        "https://vnexpress.net/tuyen-quang-trong-top-2-ca-nuoc-ve-diem-10-toan-thi-tot-nghiep-2026-5093014.html",
+        "https://vnexpress.net/nguoi-lao-dong-thu-nhap-thang-tren-28-6-trieu-dong-moi-phai-nop-thue-5093063.html"
+      ],
+      "highlight_id": "https://vnexpress.net/nguoi-lao-dong-thu-nhap-thang-tren-28-6-trieu-dong-moi-phai-nop-thue-5093063.html"
     }
   ]
 }
