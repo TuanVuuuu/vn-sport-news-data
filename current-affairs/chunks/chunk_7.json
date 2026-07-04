@@ -1220,5 +1220,31 @@
     "published_at": "Sat, 04 Jul 2026 06:00:00 +0700",
     "createAt": "2026-07-03T23:00:00.000Z",
     "thumbnail_blurhash": "LQJ834t7xYxtysNGS4WYx_xZofof"
+  },
+  {
+    "id": "https://vnexpress.net/bao-maysak-ap-sat-quang-ninh-trua-nay-anh-huong-dat-lien-5093297.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Bão Maysak áp sát Quảng Ninh, trưa nay ảnh hưởng đất liền",
+    "description": "Bão cấp 8-9 dự kiến ảnh hưởng trực tiếp đến ven biển Quảng Ninh, Hải Phòng từ trưa đến chiều nay; hoàn lưu gây mưa lớn cho Đông Bắc Bộ, có nơi trên 500 mm.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/04/screenshot-1783121890-7078-1783121909.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=mkQyehq_7GJ6Z80BNXgX5g",
+    "link": "https://vnexpress.net/bao-maysak-ap-sat-quang-ninh-trua-nay-anh-huong-dat-lien-5093297.html",
+    "published_at": "Sat, 04 Jul 2026 06:46:35 +0700",
+    "createAt": "2026-07-03T23:46:35.000Z",
+    "thumbnail_blurhash": "LGAe?Bv[9nRokanDs~V$EVX3$[oN"
+  },
+  {
+    "id": "https://vnexpress.net/dua-hang-nghin-nguoi-tu-dao-vao-bo-tranh-bao-maysak-5093285.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Đưa hàng nghìn người từ đảo vào bờ tránh bão Maysak",
+    "description": "Ứng phó bão Maysak, chính quyền đặc khu Cô Tô đưa hơn 3.000 người về đất liền, biên phòng sử dụng pháo hiệu cảnh báo tàu thuyền còn trên biển.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/04/1783116893081-1783123878-8200-1783123892.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=WvQDoZhDqJk5glgemVI71g",
+    "link": "https://vnexpress.net/dua-hang-nghin-nguoi-tu-dao-vao-bo-tranh-bao-maysak-5093285.html",
+    "published_at": "Sat, 04 Jul 2026 06:53:33 +0700",
+    "createAt": "2026-07-03T23:53:33.000Z",
+    "thumbnail_blurhash": "LbDc%eoMnOt6%%XAaxW=yFofWAkC"
   }
 ]
