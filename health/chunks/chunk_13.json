@@ -882,5 +882,31 @@
     "published_at": "Sat, 04 Jul 2026 11:00:00 +0700",
     "createAt": "2026-07-04T04:00:00.000Z",
     "thumbnail_blurhash": "LjK.J4oIV]o$~oj]R%t5R~a#xas."
+  },
+  {
+    "id": "https://vnexpress.net/nhieu-nguoi-viet-mac-tang-huyet-ap-va-dai-thao-duong-ma-khong-biet-5093196.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Nhiều người Việt mắc tăng huyết áp và đái tháo đường mà không biết",
+    "description": "Khoảng 62% bệnh nhân đái tháo đường và gần một nửa người tăng huyết áp tại Việt Nam chưa được chẩn đoán, dẫn đến nguy cơ biến chứng nặng và gây áp lực lớn lên hệ thống y tế.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/03/anh-chup-man-hinh-luc-17830792-3249-9167-1783079282.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=TV-mz8bg5JbY4xLTwokmjg",
+    "link": "https://vnexpress.net/nhieu-nguoi-viet-mac-tang-huyet-ap-va-dai-thao-duong-ma-khong-biet-5093196.html",
+    "published_at": "Sat, 04 Jul 2026 12:00:00 +0700",
+    "createAt": "2026-07-04T05:00:00.000Z",
+    "thumbnail_blurhash": "LaGbxO_4IT%L.8W?M{xuITn#xuWY"
+  },
+  {
+    "id": "https://vnexpress.net/giac-mac-chop-co-chua-duoc-khong-5093326.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Giác mạc chóp có chữa được không?",
+    "description": "Con tôi 13 tuổi loạn thị 6 độ, được chẩn đoán do giác mạc chóp. Bệnh này có thể chữa khỏi không? (Nguyệt, Vĩnh Long)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/04/anh-vne-1783129676-3234-1783129827.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=Z3odBs-xD7xEokdy0nCfIg",
+    "link": "https://vnexpress.net/giac-mac-chop-co-chua-duoc-khong-5093326.html",
+    "published_at": "Sat, 04 Jul 2026 12:00:00 +0700",
+    "createAt": "2026-07-04T05:00:00.000Z",
+    "thumbnail_blurhash": "LcOW]Lslxu%M~pofjZxu%LWYfkRi"
   }
 ]
