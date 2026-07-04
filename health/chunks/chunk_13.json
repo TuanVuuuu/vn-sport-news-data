@@ -856,5 +856,31 @@
     "published_at": "Sat, 04 Jul 2026 10:00:00 +0700",
     "createAt": "2026-07-04T03:00:00.000Z",
     "thumbnail_blurhash": "LVDb]1IVR%oz~Va#RjbFx]xtjEad"
+  },
+  {
+    "id": "https://vnexpress.net/mo-tich-tu-quanh-tim-gay-hai-nhu-the-nao-5093309.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Mỡ tích tụ quanh tim gây hại như thế nào",
+    "description": "Mỡ tích tụ quanh tim quá nhiều có thể làm tăng nguy cơ xơ vữa động mạch, bệnh mạch vành và nhồi máu cơ tim.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/04/image001-1783125166-9290-1783125360.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=cv_QFJIhFWw_Yjr6bXhfEw",
+    "link": "https://vnexpress.net/mo-tich-tu-quanh-tim-gay-hai-nhu-the-nao-5093309.html",
+    "published_at": "Sat, 04 Jul 2026 11:00:00 +0700",
+    "createAt": "2026-07-04T04:00:00.000Z",
+    "thumbnail_blurhash": "LHMG;UD$00t8-@00M|InnMxutmt6"
+  },
+  {
+    "id": "https://vnexpress.net/cat-phoi-dieu-tri-ung-thu-co-giam-tuoi-tho-5093258.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Cắt phổi điều trị ung thư có giảm tuổi thọ?",
+    "description": "Tôi mắc ung thư phổi giai đoạn sớm và được chỉ định phẫu thuật cắt một phần phổi. Sau ca phẫu thuật này, tuổi thọ có giảm không? (Minh Hùng, TP HCM)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/03/ba-o-1783090486-5732-1783090612.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=trPDYfowkKAsz42pzPcOzQ",
+    "link": "https://vnexpress.net/cat-phoi-dieu-tri-ung-thu-co-giam-tuoi-tho-5093258.html",
+    "published_at": "Sat, 04 Jul 2026 11:00:00 +0700",
+    "createAt": "2026-07-04T04:00:00.000Z",
+    "thumbnail_blurhash": "LjK.J4oIV]o$~oj]R%t5R~a#xas."
   }
 ]
