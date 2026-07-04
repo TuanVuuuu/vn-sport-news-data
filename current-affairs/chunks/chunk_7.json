@@ -1272,5 +1272,31 @@
     "published_at": "Sat, 04 Jul 2026 11:26:42 +0700",
     "createAt": "2026-07-04T04:26:42.000Z",
     "thumbnail_blurhash": "LWGv6Rofxuxv_4ozjZWBo#V@aya#"
+  },
+  {
+    "id": "https://vnexpress.net/kho-nhua-trong-khu-dan-cu-o-nha-trang-chay-ngun-ngut-5093417.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Kho nhựa trong khu dân cư ở Nha Trang cháy ngùn ngụt",
+    "description": "Lửa bùng lên trong kho chứa nhựa rộng khoảng 300 m2 ở phường Tây Nha Trang, tạo cột khói đen cao hàng chục mét, trưa 4/7.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/04/khonhua-1783145395-4232-1783145403.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Qf61icPm_i72_AU15t6mLQ",
+    "link": "https://vnexpress.net/kho-nhua-trong-khu-dan-cu-o-nha-trang-chay-ngun-ngut-5093417.html",
+    "published_at": "Sat, 04 Jul 2026 13:10:52 +0700",
+    "createAt": "2026-07-04T06:10:52.000Z",
+    "thumbnail_blurhash": "LfF~ggx^RiNF?wx^WBaKt8t8kBae"
+  },
+  {
+    "id": "https://vnexpress.net/bao-maysak-di-qua-vung-bien-bach-long-vy-5093426.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Bão Maysak đi qua vùng biển Bạch Long Vỹ",
+    "description": "Trưa 4/7, bão Maysak đã đi qua vùng biển Bạch Long Vỹ, gây mưa và gió cấp 9 trên nhiều khu vực thuộc Hải Phòng, Quảng Ninh.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/04/1783144896078-fbbfe7ca9ae48a32-6201-5706-1783145665.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=fCh9Nq2HRKzPUBAMESi0pA",
+    "link": "https://vnexpress.net/bao-maysak-di-qua-vung-bien-bach-long-vy-5093426.html",
+    "published_at": "Sat, 04 Jul 2026 13:37:05 +0700",
+    "createAt": "2026-07-04T06:37:05.000Z",
+    "thumbnail_blurhash": "LMH_=B4nD%of_4RjV@t6_3-;ofR*"
   }
 ]
