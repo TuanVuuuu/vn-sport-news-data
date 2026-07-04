@@ -1051,5 +1051,31 @@
     "published_at": "Sat, 04 Jul 2026 12:25:51 +0700",
     "createAt": "2026-07-04T05:25:51.000Z",
     "thumbnail_blurhash": "L99sDKniK0Nf}uRiI:Rj5iX4wcxF"
+  },
+  {
+    "id": "https://vnexpress.net/khong-khi-don-quoc-khanh-khap-nuoc-my-5093330.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Không khí đón quốc khánh khắp nước Mỹ",
+    "description": "Các hoạt động kỷ niệm 250 năm quốc khánh đang diễn ra sôi nổi khắp nước Mỹ, người dân xếp hàng vào bảo tàng, dự hội chợ, ngắm pháo hoa và các màn trình diễn quân sự.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/04/ap26185149816821-1783149305.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=I4Qe6KneKbkAF8q6VcCsYg",
+    "link": "https://vnexpress.net/khong-khi-don-quoc-khanh-khap-nuoc-my-5093330.html",
+    "published_at": "Sat, 04 Jul 2026 14:17:35 +0700",
+    "createAt": "2026-07-04T07:17:35.000Z",
+    "thumbnail_blurhash": "LZDa.h}S}8#SXAWFNHIqodobk8X8"
+  },
+  {
+    "id": "https://vnexpress.net/vi-sao-chau-au-nong-nhu-chao-lua-5093148.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Vì sao châu Âu nóng như 'chảo lửa'?",
+    "description": "Khối chặn Omega giữ khí nóng nhiều ngày, trong khi biến đổi khí hậu khiến nắng nóng tại châu Âu ngày càng kéo dài và dữ dội.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/03/thumbngang-1783067944-7692-1783067959.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=9eWxgSXJlLQ3BG8vLpB2cg",
+    "link": "https://vnexpress.net/vi-sao-chau-au-nong-nhu-chao-lua-5093148.html",
+    "published_at": "Sat, 04 Jul 2026 14:21:42 +0700",
+    "createAt": "2026-07-04T07:21:42.000Z",
+    "thumbnail_blurhash": "LRHn,C}[NFOG0NEUWBw]X9I:IujD"
   }
 ]
