@@ -362,5 +362,31 @@
     "published_at": "Sat, 04 Jul 2026 05:59:00 +0700",
     "createAt": "2026-07-03T22:59:00.000Z",
     "thumbnail_blurhash": "L9L|.W0E00000wOrPC0K00~RM_Dg"
+  },
+  {
+    "id": "https://vnexpress.net/tuyen-quang-ra-soat-khu-vuc-co-thi-sinh-dat-diem-cao-5093358.html",
+    "category_id": "education",
+    "category_name": "Giáo dục",
+    "source": "VnExpress",
+    "title": "Tuyên Quang rà soát khu vực có thí sinh đạt điểm cao",
+    "description": "Chủ tịch Tuyên Quang yêu cầu rà soát, kiểm tra toàn bộ quy trình tổ chức thi tốt nghiệp tại các khu vực có số thí sinh đạt điểm cao, khẳng định \"không có vùng cấm\".",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/04/f3848213-d67cc58af18659f9-jpeg-4934-8445-1783135880.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=PAbbr8Xp2SSzyzbI3kuE4g",
+    "link": "https://vnexpress.net/tuyen-quang-ra-soat-khu-vuc-co-thi-sinh-dat-diem-cao-5093358.html",
+    "published_at": "Sat, 04 Jul 2026 10:31:40 +0700",
+    "createAt": "2026-07-04T03:31:40.000Z",
+    "thumbnail_blurhash": "LyJl8OR.t7o#t:Rkogof%it7RPWB"
+  },
+  {
+    "id": "https://vnexpress.net/thi-sinh-quy-doi-ielts-mat-co-hoi-xet-hoc-bong-cac-nganh-stem-theo-nghi-dinh-179-5093346.html",
+    "category_id": "education",
+    "category_name": "Giáo dục",
+    "source": "VnExpress",
+    "title": "Thí sinh quy đổi IELTS mất cơ hội nhận học bổng 3,7-5,5 triệu đồng mỗi tháng",
+    "description": "Thí sinh quy đổi IELTS thành điểm Tiếng Anh trong tổ hợp xét tuyển vào các ngành khoa học, kỹ thuật, công nghệ không được xét học bổng 3,7-5,5 triệu đồng một tháng theo Nghị định 179.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/04/gs-nguyen-tien-thao-jpeg-17831-5555-9299-1783136466.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Tx0belWcIYwHxxG461QVCw",
+    "link": "https://vnexpress.net/thi-sinh-quy-doi-ielts-mat-co-hoi-xet-hoc-bong-cac-nganh-stem-theo-nghi-dinh-179-5093346.html",
+    "published_at": "Sat, 04 Jul 2026 10:55:22 +0700",
+    "createAt": "2026-07-04T03:55:22.000Z",
+    "thumbnail_blurhash": "LBJ80UyG005c00EKpL.AXoIpMw#j"
   }
 ]
