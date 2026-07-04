@@ -349,5 +349,31 @@
     "published_at": "Sat, 04 Jul 2026 05:00:00 +0700",
     "createAt": "2026-07-03T22:00:00.000Z",
     "thumbnail_blurhash": "LHAJ.]}-vxWGA1ElOZNH9bM{$$-o"
+  },
+  {
+    "id": "https://vnexpress.net/xe-tesla-boc-chay-sau-va-cham-5092579.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Xe Tesla bốc cháy sau va chạm",
+    "description": "Chiếc Tesla trượt trên mặt đường ướt, đâm vào lan can rồi bốc cháy.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/02/Tesla7-1782973850-5250-1782976288.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=AjvNohmtQL8eTuOMZGjg8Q",
+    "link": "https://vnexpress.net/xe-tesla-boc-chay-sau-va-cham-5092579.html",
+    "published_at": "Sat, 04 Jul 2026 06:00:00 +0700",
+    "createAt": "2026-07-03T23:00:00.000Z",
+    "thumbnail_blurhash": "LRGIDo.S?^^QtRRj%Mxax^RP-pS4"
+  },
+  {
+    "id": "https://vnexpress.net/oto-lao-thang-tu-duong-ham-xuong-gian-coc-thep-5092664.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Ôtô lao thẳng từ đường hầm xuống giàn cọc thép",
+    "description": "Một người thiệt mạng và ba người khác bị thương khi ôtô chạy quá tốc độ lao khỏi đường hầm và bay xuống chân cầu đang xây bên dưới.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/02/India6-1782980889-1129-1782980891.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=y5IgpL7ylQH6u9AX4ojYLA",
+    "link": "https://vnexpress.net/oto-lao-thang-tu-duong-ham-xuong-gian-coc-thep-5092664.html",
+    "published_at": "Sat, 04 Jul 2026 06:30:00 +0700",
+    "createAt": "2026-07-03T23:30:00.000Z",
+    "thumbnail_blurhash": "LNJa.f9Z_2xu~pWCWBoe?a%MIUWV"
   }
 ]
