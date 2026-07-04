@@ -1,31 +1,6 @@
 {
   "entries": [
     {
-      "sent_at": "2026-06-28T10:01:10.441Z",
-      "topic": null,
-      "device_id": "f7c37c4383a9b4be",
-      "slot": "evening",
-      "type": "featured_digest",
-      "article_ids": [
-        "https://vnexpress.net/luoi-dien-chau-au-lao-dao-vi-nang-nong-5090330.html",
-        "https://vnexpress.net/jordan-vs-argentina-5090701-tong-thuat.html",
-        "https://vnexpress.net/bai-bien-quat-lam-hoang-vang-5089525.html",
-        "https://vnexpress.net/messi-pha-them-hai-ky-luc-world-cup-5090743.html",
-        "https://vnexpress.net/mien-bac-va-nam-mua-giong-mien-trung-giam-nong-tu-dau-thang-7-5090715.html",
-        "https://vnexpress.net/gat-rong-mo-kiem-tien-trieu-moi-ngay-5090364.html",
-        "https://vnexpress.net/du-an-khu-ma-lang-hon-16-000-ty-dong-du-kien-khoi-cong-quy-iii-5090724.html",
-        "https://vnexpress.net/xac-dinh-du-16-tran-vong-knock-out-world-cup-2026-5090746.html",
-        "https://vnexpress.net/chau-a-co-nhieu-doi-bi-loai-nhat-world-cup-2026-5090760.html",
-        "https://vnexpress.net/bo-doi-viet-nam-xuat-quan-cuu-ho-dong-dat-venezuela-5090749.html",
-        "https://vnexpress.net/111-nganh-ma-sinh-vien-duoc-hoc-bong-3-7-5-5-trieu-dong-thang-5090765.html",
-        "https://vnexpress.net/hlv-bo-dao-nha-chi-tre-con-moi-so-sanh-ronaldo-voi-messi-5090740.html",
-        "https://vnexpress.net/ha-tinh-lam-viec-voi-135-nguoi-tuong-tac-voi-tai-khoan-le-trung-khoa-nguyen-van-dai-5090768.html",
-        "https://vnexpress.net/hai-du-an-nha-xa-hoi-noi-thanh-tp-hcm-co-gia-tu-23-trieu-va-35-trieu-mot-m2-5090748.html",
-        "https://vnexpress.net/cau-be-11-tuoi-duoc-cuu-sau-ba-ngay-mac-ket-tai-venezuela-5090788.html"
-      ],
-      "highlight_id": "https://vnexpress.net/cau-be-11-tuoi-duoc-cuu-sau-ba-ngay-mac-ket-tai-venezuela-5090788.html"
-    },
-    {
       "sent_at": "2026-06-28T10:01:10.528Z",
       "topic": null,
       "device_id": "6bdc5a50d2532007",
@@ -16838,6 +16813,17 @@
         "https://vnexpress.net/viet-nam-thu-9-ty-usd-tu-du-khach-quoc-te-nua-dau-nam-2026-5093467.html"
       ],
       "highlight_id": "https://vnexpress.net/viet-nam-thu-9-ty-usd-tu-du-khach-quoc-te-nua-dau-nam-2026-5093467.html"
+    },
+    {
+      "sent_at": "2026-07-04T11:20:56.381Z",
+      "topic": null,
+      "device_id": "2F788787-BBE7-4E5E-AA09-BC5E8401B0D6",
+      "slot": "evening",
+      "type": "featured_digest",
+      "article_ids": [
+        "https://vnexpress.net/ba-cao-thi-ngoc-dung-pnj-du-nguon-luc-thu-mua-kim-cuong-dung-cam-ket-5093494.html"
+      ],
+      "highlight_id": "https://vnexpress.net/ba-cao-thi-ngoc-dung-pnj-du-nguon-luc-thu-mua-kim-cuong-dung-cam-ket-5093494.html"
     }
   ]
 }
