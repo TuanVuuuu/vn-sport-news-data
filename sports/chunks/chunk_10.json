@@ -674,5 +674,31 @@
     "published_at": "Sat, 04 Jul 2026 07:27:32 +0700",
     "createAt": "2026-07-04T00:27:32.000Z",
     "thumbnail_blurhash": "LDFY=X-;JZ9H~UMcne%eIbMyIXt3"
+  },
+  {
+    "id": "https://vnexpress.net/colombia-ghana-xac-dinh-ve-cuoi-vao-vong-1-8-5093313.html",
+    "category_id": "sports",
+    "category_name": "Thể thao",
+    "source": "VnExpress",
+    "title": "Colombia 1-0 Ghana (H1): Luis Suarez kiến tạo bàn mở tỷ số",
+    "description": "Tiền đạo của Sporting Luis Suarez tạt bóng cho Jhon Arias ghi bàn, giúp Colombia dẫn Ghana 1-0 ở vòng 1/16 World Cup 2026 trên sân Arrowhead.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/07/04/colombiaPNG-1783129466-4890-1783129583.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=UIrNTZpYCMwHIwqQbQ8sjA",
+    "link": "https://vnexpress.net/colombia-ghana-xac-dinh-ve-cuoi-vao-vong-1-8-5093313.html",
+    "published_at": "Sat, 04 Jul 2026 08:00:00 +0700",
+    "createAt": "2026-07-04T01:00:00.000Z",
+    "thumbnail_blurhash": "LFFi-:--IBx8@:$fM#n+4:RhgOS%"
+  },
+  {
+    "id": "https://vnexpress.net/chi-dao-truc-tiep-tu-hlv-scaloni-giup-messi-ghi-ban-5093322.html",
+    "category_id": "sports",
+    "category_name": "Thể thao",
+    "source": "VnExpress",
+    "title": "Chỉ đạo trực tiếp từ HLV Scaloni giúp Messi ghi bàn",
+    "description": "Bàn mở tỷ số của Lionel Messi trong trận thắng Cape Verde 3-2 ở vòng 1/16 World Cup 2026 đến từ những chỉ dẫn của HLV Lionel Scaloni trong lúc nghỉ uống nước.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/07/04/scaloni-1783128344-1364-1783128513.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=sz7Ae712euW6JHg1sCOgPA",
+    "link": "https://vnexpress.net/chi-dao-truc-tiep-tu-hlv-scaloni-giup-messi-ghi-ban-5093322.html",
+    "published_at": "Sat, 04 Jul 2026 08:45:37 +0700",
+    "createAt": "2026-07-04T01:45:37.000Z",
+    "thumbnail_blurhash": "LHGSM[4UIqTK?wkXtmRQD%-qgONI"
   }
 ]
