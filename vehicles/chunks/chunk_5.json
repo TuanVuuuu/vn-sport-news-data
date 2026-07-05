@@ -544,5 +544,31 @@
     "published_at": "Sun, 05 Jul 2026 16:30:00 +0700",
     "createAt": "2026-07-05T09:30:00.000Z",
     "thumbnail_blurhash": "LIH2sE01~qoJ~qD*jEocXAM|IVt7"
+  },
+  {
+    "id": "https://vnexpress.net/kia-giam-gia-loat-oto-trong-thang-7-nhieu-nhat-70-trieu-dong-5093168.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Kia giảm giá loạt ôtô trong tháng 7, nhiều nhất 70 triệu đồng",
+    "description": "Mẫu MPV Carnival 2.2D Signature có mức ưu đãi cao nhất, trong khi Morning chỉ giảm 3 triệu đồng, hoặc 1 năm bảo hiểm vật chất.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/04/CarnivalHEV-1783147182-1671-1783147212.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=RrDT9KPgi8BqyyAonP59yQ",
+    "link": "https://vnexpress.net/kia-giam-gia-loat-oto-trong-thang-7-nhieu-nhat-70-trieu-dong-5093168.html",
+    "published_at": "Mon, 06 Jul 2026 04:00:00 +0700",
+    "createAt": "2026-07-05T21:00:00.000Z",
+    "thumbnail_blurhash": "L9B|Nb4m=;%3_NDi9Zxu%i4.NgIV"
+  },
+  {
+    "id": "https://vnexpress.net/honda-cbr500r-four-sportbike-4-xi-lanh-gia-295-trieu-dong-5093659.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Honda CBR500R Four - sportbike 4 xi-lanh giá 295 triệu đồng",
+    "description": "Mẫu môtô thể thao tầm trung thiết kế góc cạnh, nhập tư nhân, động cơ 500 phân khối, mạnh 71 mã lực.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/05/Honda-CBR500-SF-vnexpress-13-1783224822.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=9gvOpr9Jzp-Xi0iEkh3E3w",
+    "link": "https://vnexpress.net/honda-cbr500r-four-sportbike-4-xi-lanh-gia-295-trieu-dong-5093659.html",
+    "published_at": "Mon, 06 Jul 2026 05:00:00 +0700",
+    "createAt": "2026-07-05T22:00:00.000Z",
+    "thumbnail_blurhash": "LYK^ZI_I,,n~^gtOICRQ%KRUE5sm"
   }
 ]
