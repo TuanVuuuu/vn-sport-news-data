@@ -193,5 +193,44 @@
     "published_at": "Sun, 05 Jul 2026 00:00:00 +0700",
     "createAt": "2026-07-04T17:00:00.000Z",
     "thumbnail_blurhash": "LOF~?ZROM|-ppyf-e-NGb{axWUR*"
+  },
+  {
+    "id": "https://vnexpress.net/bao-vao-trung-quoc-mien-bac-tiep-tuc-mua-5093636.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Bão vào Trung Quốc, miền Bắc tiếp tục mưa",
+    "description": "Tiến chậm vào Quảng Tây (Trung Quốc) từ rạng sáng nay, đến trưa bão Maysak vẫn duy trì cấp 8, tiếp tục gây mưa cho nhiều tỉnh miền Bắc của Việt Nam.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/05/739313272-n-1783222104-2027-1783222261.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=1ztlZrvpHHLda8aaVx_bNQ",
+    "link": "https://vnexpress.net/bao-vao-trung-quoc-mien-bac-tiep-tuc-mua-5093636.html",
+    "published_at": "Sun, 05 Jul 2026 11:37:11 +0700",
+    "createAt": "2026-07-05T04:37:11.000Z",
+    "thumbnail_blurhash": "LGDcO29EITxu*0MwRPog~WInoft7"
+  },
+  {
+    "id": "https://vnexpress.net/hon-3-55-trieu-nguoi-linh-luong-huu-moi-5093634.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Hơn 3,55 triệu người lĩnh lương hưu mới",
+    "description": "Kỳ chi trả đầu tháng 7, hơn 3,55 triệu người nhận lương hưu, trợ cấp bảo hiểm xã hội (BHXH) hàng tháng với mức tăng 8%, tổng kinh phí hơn 24.300 tỷ đồng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/05/IMG9165JPG-1783221920-3434-1783222002.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=zoiZdhzO_QVsJqUQEhOtYg",
+    "link": "https://vnexpress.net/hon-3-55-trieu-nguoi-linh-luong-huu-moi-5093634.html",
+    "published_at": "Sun, 05 Jul 2026 11:47:29 +0700",
+    "createAt": "2026-07-05T04:47:29.000Z",
+    "thumbnail_blurhash": "LDEVvx=s.S00_Ms:tmNa5NNaxc?I"
+  },
+  {
+    "id": "https://vnexpress.net/bao-maysak-gay-ngap-toc-mai-nha-o-mong-cai-5093608.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Bão Maysak gây ngập, tốc mái nhà ở Móng Cái",
+    "description": "Trong đêm 4 và rạng sáng 5/7, bão Maysak lưu lại khu vực Móng Cái với gió mạnh cấp 9-10, gây mưa rất to, ngập cục bộ và nhiều thiệt hại về tài sản.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/05/739313272-990264693878550-3122969609538262645-n-1783218267.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=GB52wxaRAsPpXIJpKBMDPQ",
+    "link": "https://vnexpress.net/bao-maysak-gay-ngap-toc-mai-nha-o-mong-cai-5093608.html",
+    "published_at": "Sun, 05 Jul 2026 11:59:59 +0700",
+    "createAt": "2026-07-05T04:59:59.000Z",
+    "thumbnail_blurhash": "LGD+*w9EITxvh1RORPkC~WITj]t8"
   }
 ]
