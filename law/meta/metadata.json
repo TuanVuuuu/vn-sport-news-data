@@ -1,5 +1,5 @@
 {
-  "total_articles": 510,
+  "total_articles": 512,
   "files": [
     "chunk_1.json",
     "chunk_2.json",
@@ -15,7 +15,7 @@
     "copyright": "",
     "logo_url": "https://s.vnecdn.net/vnexpress/i/v20/logos/vne_logo_rss.png",
     "link": "https://vnexpress.net/rss/phap-luat.rss",
-    "last_updated": "Sun, 05 Jul 2026 12:21:14 +0700"
+    "last_updated": "Sun, 05 Jul 2026 15:11:25 +0700"
   },
-  "last_updated": "2026-07-05T08:20:55.860Z"
+  "last_updated": "2026-07-05T08:31:19.703Z"
 }
