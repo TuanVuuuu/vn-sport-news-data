@@ -635,5 +635,31 @@
     "published_at": "Sun, 05 Jul 2026 11:54:09 +0700",
     "createAt": "2026-07-05T04:54:09.000Z",
     "thumbnail_blurhash": "LFIE%@%gae-;.At7agRkSb%L%MkD"
+  },
+  {
+    "id": "https://vnexpress.net/khach-san-o-co-to-mo-lon-dai-khach-mac-ket-do-bao-maysak-5093584.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Khách sạn ở Cô Tô mổ lợn đãi khách mắc kẹt do bão Maysak",
+    "description": "Khi tàu khách dừng chạy do ảnh hưởng của bão Maysak, chủ khách sạn Đông Á đã quyết định mổ lợn, nấu cơm để thiết đãi gần 50 du khách đang lưu trú trên đảo.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/07/05/1783154688125e968b0e8bb587ee70-3324-2416-1783189148.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=N-NkEigea6hg9k4hkq-evg",
+    "link": "https://vnexpress.net/khach-san-o-co-to-mo-lon-dai-khach-mac-ket-do-bao-maysak-5093584.html",
+    "published_at": "Sun, 05 Jul 2026 09:08:55 +0700",
+    "createAt": "2026-07-05T02:08:55.000Z",
+    "thumbnail_blurhash": "L8Gl0A~Eb@0e1f0Js=-q?^s,t8xu"
+  },
+  {
+    "id": "https://vnexpress.net/quoc-gia-80-nguoi-dan-khong-dung-internet-viet-thu-tay-5093567.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Quốc gia 80% người dân không dùng Internet, viết thư tay",
+    "description": "Tại Eritrea, quốc gia Đông Phi, thời gian như ngừng lại ở những năm 1990 khi người dân viết thư tay để trao đổi thông tin và khoảng 20% có điều kiện tiếp cận Internet.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/07/04/20260606-map507-jpg-1783179870-4933-1783179886.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=wPIbq4NuoBuVM_qwGUVrPQ",
+    "link": "https://vnexpress.net/quoc-gia-80-nguoi-dan-khong-dung-internet-viet-thu-tay-5093567.html",
+    "published_at": "Sun, 05 Jul 2026 16:13:15 +0700",
+    "createAt": "2026-07-05T09:13:15.000Z",
+    "thumbnail_blurhash": "LcIg_t%2V@xZ~V%1oJay-.xZs:W;"
   }
 ]
