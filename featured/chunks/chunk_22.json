@@ -726,5 +726,31 @@
     "published_at": "Sun, 05 Jul 2026 05:00:00 +0700",
     "createAt": "2026-07-04T22:00:00.000Z",
     "thumbnail_blurhash": "LJEVvi%MyDxu~pxu%LxtogtRx[oz"
+  },
+  {
+    "id": "https://vnexpress.net/nut-that-thanh-toan-o-du-an-chong-ngap-10-000-ty-dong-5091712.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Nút thắt thanh toán ở dự án chống ngập 10.000 tỷ đồng",
+    "description": "Dự án ngăn triều lớn nhất TP HCM đạt hơn 90% khối lượng nhưng chưa thể về đích sau 10 năm do vướng pháp lý và chưa thống nhất quỹ đất thanh toán cho nhà đầu tư BT.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/03/178290504937077700476233407389-4139-6010-1783077853.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=eisWtG8g6kDKGTUofnPbvg",
+    "link": "https://vnexpress.net/nut-that-thanh-toan-o-du-an-chong-ngap-10-000-ty-dong-5091712.html",
+    "published_at": "Sun, 05 Jul 2026 00:00:00 +0700",
+    "createAt": "2026-07-04T17:00:00.000Z",
+    "thumbnail_blurhash": "LNF~?ZROM|-plVbdadNGb{axWBR+"
+  },
+  {
+    "id": "https://vnexpress.net/ha-canada-morocco-tro-thanh-doi-chau-phi-thanh-cong-nhat-o-world-cup-5093582.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Hạ Canada, Morocco trở thành đội châu Phi thành công nhất ở World Cup",
+    "description": "Morocco thắng đồng chủ nhà Canada 3-0 ở vòng 1/8 để trở thành đại diện châu Phi đầu tiên hai lần vào tứ kết World Cup.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/07/05/ap26185728237784-1783203923-6219-1783203929.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=-iRySWsUuyEl3D3MEe5UNA",
+    "link": "https://vnexpress.net/ha-canada-morocco-tro-thanh-doi-chau-phi-thanh-cong-nhat-o-world-cup-5093582.html",
+    "published_at": "Sun, 05 Jul 2026 05:26:55 +0700",
+    "createAt": "2026-07-04T22:26:55.000Z",
+    "thumbnail_blurhash": "LFF5%9t89F-:|6r]kWNbrTs+%hI;"
   }
 ]
