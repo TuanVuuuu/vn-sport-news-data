@@ -817,5 +817,18 @@
     "published_at": "Sun, 05 Jul 2026 07:00:00 +0700",
     "createAt": "2026-07-05T00:00:00.000Z",
     "thumbnail_blurhash": "LCKUsBM#==^*-WVt_4-;oaxCidxb"
+  },
+  {
+    "id": "https://vnexpress.net/world-cup-danh-cho-robot-hinh-nguoi-5093450.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "World Cup dành cho robot hình người",
+    "description": "RoboCup 2026, giải bóng đá quốc tế cho robot, đang diễn ra tại Hàn Quốc với sự tham gia của 364 đội và 45 quốc gia.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/04/robocup3-1783151596-3118-1783152082.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=SRwh4HN_TRBpes2TtETk3Q",
+    "link": "https://vnexpress.net/world-cup-danh-cho-robot-hinh-nguoi-5093450.html",
+    "published_at": "Sun, 05 Jul 2026 09:00:00 +0700",
+    "createAt": "2026-07-05T02:00:00.000Z",
+    "thumbnail_blurhash": "LD9[h:$+$+xv|7RjWBV[]=SwWBWB"
   }
 ]
