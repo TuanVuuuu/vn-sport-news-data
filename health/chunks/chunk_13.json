@@ -1272,5 +1272,31 @@
     "published_at": "Sun, 05 Jul 2026 08:00:00 +0700",
     "createAt": "2026-07-05T01:00:00.000Z",
     "thumbnail_blurhash": "LKN,-:?a0K.8.8~q4nog00aJM_tR"
+  },
+  {
+    "id": "https://vnexpress.net/ai-de-mac-viem-phe-quan-khi-thoi-tiet-thay-doi-5093487.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Ai dễ mắc viêm phế quản khi thời tiết thay đổi?",
+    "description": "Người cao tuổi, mắc bệnh nền, người hút thuốc lá, trẻ nhỏ dễ mắc bệnh viêm phế quản khi thời tiết sáng nắng, chiều mưa.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/04/image001-1783169384-5869-1783169907.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=u39dcAcPqwqKK3IRvDrS7Q",
+    "link": "https://vnexpress.net/ai-de-mac-viem-phe-quan-khi-thoi-tiet-thay-doi-5093487.html",
+    "published_at": "Sun, 05 Jul 2026 09:00:00 +0700",
+    "createAt": "2026-07-05T02:00:00.000Z",
+    "thumbnail_blurhash": "LMJt}7EL4o-o_M.8Z$nhxTxuDioz"
+  },
+  {
+    "id": "https://vnexpress.net/hieu-nham-qua-tuoi-tiem-vaccine-hpv-5093438.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Hiểu nhầm quá tuổi tiêm vaccine HPV",
+    "description": "Nhiều người trưởng thành đến 45 tuổi chưa tiêm vaccine HPV vì nghĩ mũi tiêm chỉ dành cho nữ dưới 26 tuổi, đến khi được đồng nghiệp nhắc mới đi tư vấn phòng bệnh.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/04/tiem-vac-xin-hpv-type-vnvcok-1-6562-1680-1783148071.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=1XOXHqA2Tdkuol4Cyj-sEw",
+    "link": "https://vnexpress.net/hieu-nham-qua-tuoi-tiem-vaccine-hpv-5093438.html",
+    "published_at": "Sun, 05 Jul 2026 09:00:00 +0700",
+    "createAt": "2026-07-05T02:00:00.000Z",
+    "thumbnail_blurhash": "LKL#Uv^*.8_NyZM{ogItIAInt8yD"
   }
 ]
