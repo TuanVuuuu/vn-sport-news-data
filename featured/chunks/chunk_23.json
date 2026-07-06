@@ -765,5 +765,44 @@
     "published_at": "Mon, 06 Jul 2026 22:05:09 +0700",
     "createAt": "2026-07-06T15:05:09.000Z",
     "thumbnail_blurhash": "LYHxsJDjNXtl~oIUNax]D+V@VtV["
+  },
+  {
+    "id": "https://vnexpress.net/ha-noi-xay-quang-truong-truoc-cong-vien-thong-nhat-5094214.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Hà Nội xây quảng trường trước Công viên Thống Nhất",
+    "description": "Phường Hai Bà Trưng sẽ cải tạo khu vực trước cổng Công viên Thống Nhất trên phố Trần Nhân Tông, xây dựng quảng trường phố đi bộ và chỉnh trang đồng bộ hạ tầng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/06/cv2-1783351541-7994-1783351558.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=XGFdEWVX3fQheHeEVf6OhA",
+    "link": "https://vnexpress.net/ha-noi-xay-quang-truong-truoc-cong-vien-thong-nhat-5094214.html",
+    "published_at": "Mon, 06 Jul 2026 22:26:28 +0700",
+    "createAt": "2026-07-06T15:26:28.000Z",
+    "thumbnail_blurhash": "LJJICN-;8^IT00j^DhMw_4ogMxWB"
+  },
+  {
+    "id": "https://vnexpress.net/hanh-trinh-tim-ra-hang-dong-nhu-cung-dien-thach-nhu-o-quang-tri-5094144.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Hành trình tìm ra hang động như 'cung điện thạch nhũ' ở Quảng Trị",
+    "description": "Từng bỏ lỡ cửa hang nhỏ trên vách núi, ba năm sau quay lại, anh Nguyễn Quyết Thắng phát hiện luồng gió mạnh thổi ra, dẫn lối vào một \"cung điện thạch nhũ\" chưa từng thấy.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/07/06/anh6-1783330076-2203-1783338328.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Tp81ahtLYL5uMmz-Ypw4rw",
+    "link": "https://vnexpress.net/hanh-trinh-tim-ra-hang-dong-nhu-cung-dien-thach-nhu-o-quang-tri-5094144.html",
+    "published_at": "Mon, 06 Jul 2026 22:46:26 +0700",
+    "createAt": "2026-07-06T15:46:26.000Z",
+    "thumbnail_blurhash": "L8DbvJ_10000~T$~IqNM9Zs8x]%N"
+  },
+  {
+    "id": "https://vnexpress.net/uav-ukraine-tap-kich-nha-may-loc-dau-lon-nhat-nga-5094221.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "UAV Ukraine tập kích nhà máy lọc dầu lớn nhất Nga",
+    "description": "Ukraine cho biết UAV nước này đã tấn công nhà máy lọc dầu Omsk, cơ sở lớn nhất của Nga nằm sâu trong lãnh thổ.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/06/anh1-1783351987-3265-1783352839.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=O7bdzqaw1sgH7p1BHsZPRg",
+    "link": "https://vnexpress.net/uav-ukraine-tap-kich-nha-may-loc-dau-lon-nhat-nga-5094221.html",
+    "published_at": "Mon, 06 Jul 2026 23:05:19 +0700",
+    "createAt": "2026-07-06T16:05:19.000Z",
+    "thumbnail_blurhash": "L?IGAiRjWBoz_4oLWBj[s+xtj[ay"
   }
 ]
