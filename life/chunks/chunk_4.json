@@ -531,5 +531,31 @@
     "published_at": "Mon, 06 Jul 2026 06:00:00 +0700",
     "createAt": "2026-07-05T23:00:00.000Z",
     "thumbnail_blurhash": "L9Db.,~C?F_1+#Ir?aDlo#I[rorp"
+  },
+  {
+    "id": "https://vnexpress.net/chay-dua-tim-300-000-liet-si-chua-tro-ve-5092555.html",
+    "category_id": "life",
+    "category_name": "Đời sống",
+    "source": "VnExpress",
+    "title": "Chạy đua tìm 300.000 liệt sĩ 'chưa trở về'",
+    "description": "Việc thu thập mẫu ADN thân nhân trong \"Chiến dịch 500 ngày đêm\" đang được đẩy nhanh, mở cơ hội xác định danh tính cho 300.000 liệt sĩ chưa tìm thấy sau nửa thế kỷ.",
+    "thumbnail_url": "https://vcdn1-giadinh.vnecdn.net/2026/07/05/0-1783245866-1954-1783251735.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=gp90h3NAgwlnnr5MEeDkUA",
+    "link": "https://vnexpress.net/chay-dua-tim-300-000-liet-si-chua-tro-ve-5092555.html",
+    "published_at": "Mon, 06 Jul 2026 06:00:00 +0700",
+    "createAt": "2026-07-05T23:00:00.000Z",
+    "thumbnail_blurhash": "L9Db.,~C?F_1+#Ir?aDlo#I[rorp"
+  },
+  {
+    "id": "https://vnexpress.net/vo-chong-tre-singapore-ket-hon-nhung-khong-song-chung-5093783.html",
+    "category_id": "life",
+    "category_name": "Đời sống",
+    "source": "VnExpress",
+    "title": "Vợ chồng trẻ Singapore kết hôn nhưng không sống chung",
+    "description": "Giá bất động sản đắt đỏ và thời gian chờ nhà ở xã hội kéo dài khiến nhiều vợ chồng trẻ tại Singapore chọn cách \"cưới nhưng ai ở cùng bố mẹ người ấy\".",
+    "thumbnail_url": "https://vcdn1-giadinh.vnecdn.net/2026/07/06/screen-shot-at-1783278046-9636-1783278520.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=kBKs0_pYyRQEpvaCFHl2zQ",
+    "link": "https://vnexpress.net/vo-chong-tre-singapore-ket-hon-nhung-khong-song-chung-5093783.html",
+    "published_at": "Mon, 06 Jul 2026 08:10:15 +0700",
+    "createAt": "2026-07-06T01:10:15.000Z",
+    "thumbnail_blurhash": "LAC6S:xV56$e~V%1NZ%19tbv^koJ"
   }
 ]
