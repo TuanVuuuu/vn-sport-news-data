@@ -661,5 +661,31 @@
     "published_at": "Mon, 06 Jul 2026 15:00:43 +0700",
     "createAt": "2026-07-06T08:00:43.000Z",
     "thumbnail_blurhash": "LRFOcV}[}F=eMJrDrE#mxbxHs:ni"
+  },
+  {
+    "id": "https://vnexpress.net/5-oto-gia-re-nhat-viet-nam-5094054.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "5 ôtô giá rẻ nhất Việt Nam",
+    "description": "VinFast VF 2 giá 188 triệu đồng vượt Bestune Xiaoma trở thành mẫu ôtô giá rẻ nhất toàn ngành, bên cạnh VF 3, Minio Green và Kia Morning.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/06/otogiarenhatVNVNEXPRESS-178332-8161-1673-1783325780.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=rChvY72WBoPBiFUPFbMh3Q",
+    "link": "https://vnexpress.net/5-oto-gia-re-nhat-viet-nam-5094054.html",
+    "published_at": "Mon, 06 Jul 2026 15:44:11 +0700",
+    "createAt": "2026-07-06T08:44:11.000Z",
+    "thumbnail_blurhash": "LFL4W$pb9Ft6_3o#RkWV_NspMya}"
+  },
+  {
+    "id": "https://vnexpress.net/hieu-dung-quy-dinh-phat-nguoi-16-18-tuoi-lai-xe-moto-tu-15-8-5093971.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Hiểu đúng quy định 'phạt người 16-18 tuổi lái xe môtô' từ 15/8",
+    "description": "Nghị định 238/2026, hiệu lực từ 15/8, sửa cách diễn đạt quy định xử phạt, người từ đủ 16 tuổi vẫn được điều khiển xe gắn máy theo quy định.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/06/trehoadotuoicapbang29272808921-6410-7057-1783311662.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=L0IQegMy-P7v8b7O226O3w",
+    "link": "https://vnexpress.net/hieu-dung-quy-dinh-phat-nguoi-16-18-tuoi-lai-xe-moto-tu-15-8-5093971.html",
+    "published_at": "Mon, 06 Jul 2026 16:09:22 +0700",
+    "createAt": "2026-07-06T09:09:22.000Z",
+    "thumbnail_blurhash": "LDGbq_RPDi-;.3%3Myxt_LsptRRj"
   }
 ]
