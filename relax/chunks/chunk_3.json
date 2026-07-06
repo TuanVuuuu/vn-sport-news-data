@@ -973,5 +973,31 @@
     "published_at": "Mon, 06 Jul 2026 09:16:00 +0700",
     "createAt": "2026-07-06T02:16:00.000Z",
     "thumbnail_blurhash": "LQEyl8WARjWE_4M|Rkoy4nWBj?kC"
+  },
+  {
+    "id": "https://vnexpress.net/cau-do-tieng-viet-do-chu-day-la-chu-gi-tu-gi-tu-nao-de-nguyen-trau-bo-duoi-thanh-ca-5093917.html",
+    "category_id": "relax",
+    "category_name": "Thư giãn",
+    "source": "VnExpress",
+    "title": "Từ nào để nguyên trâu, bỏ đuôi thành cá?",
+    "description": "Bạn tự tin mình là 'bậc thầy' tiếng Việt? Hãy dừng lại vài giây để giải mã câu đố chữ hóc búa, đầy ma thuật biến hóa dưới đây nhé!",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/06/gemini-generated-image-vi91i5v-9285-3643-1783308521.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=9n8-hKNQ9wWtDxKQJuO8bA",
+    "link": "https://vnexpress.net/cau-do-tieng-viet-do-chu-day-la-chu-gi-tu-gi-tu-nao-de-nguyen-trau-bo-duoi-thanh-ca-5093917.html",
+    "published_at": "Mon, 06 Jul 2026 10:30:08 +0700",
+    "createAt": "2026-07-06T03:30:08.000Z",
+    "thumbnail_blurhash": "L6Dm1+4X02^~_M8~9HX4Or?Hox9I"
+  },
+  {
+    "id": "https://vnexpress.net/do-vui-trac-nghiem-chinh-ta-tieng-viet-ca-phe-hay-cafe-dau-moi-la-cach-viet-dung-chinh-ta-5089764.html",
+    "category_id": "relax",
+    "category_name": "Thư giãn",
+    "source": "VnExpress",
+    "title": "Cà phê hay cafe – đâu mới là cách viết đúng chính tả?",
+    "description": "Một từ quen thuộc đến mức ai cũng dùng mỗi ngày, nhưng không phải ai cũng biết cách viết nào mới chuẩn tiếng Việt hiện nay.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/02/gemini-generated-imageeprye2ep-4588-2985-1782975676.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=j0w-By8bkUOV_892qh9Evg",
+    "link": "https://vnexpress.net/do-vui-trac-nghiem-chinh-ta-tieng-viet-ca-phe-hay-cafe-dau-moi-la-cach-viet-dung-chinh-ta-5089764.html",
+    "published_at": "Mon, 06 Jul 2026 11:40:00 +0700",
+    "createAt": "2026-07-06T04:40:00.000Z",
+    "thumbnail_blurhash": "LJH-_N8_M|%0_MIUoLxZ_3M|WYD*"
   }
 ]
