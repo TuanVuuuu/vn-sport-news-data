@@ -1,3 +1,30 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/brazil-va-noi-am-anh-chau-au-o-vong-knock-out-world-cup-5093833.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Brazil và nỗi ám ảnh châu Âu ở vòng knock-out World Cup",
+      "description": "6 kỳ giải liên tiếp kéo dài suốt 24 năm, đội tuyển Brazil đều dừng bước trước các đại diện châu Âu ở vòng đấu loại trực tiếp World Cup.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/07/06/Screenshot20260706081258-17833-7704-8296-1783300732.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=qmL7mNo2JrqiOLKmAqZ9kA",
+      "link": "https://vnexpress.net/brazil-va-noi-am-anh-chau-au-o-vong-knock-out-world-cup-5093833.html",
+      "published_at": "Mon, 06 Jul 2026 08:41:51 +0700",
+      "createAt": "2026-07-06T01:41:51.000Z",
+      "thumbnail_blurhash": "LHE33Rt7D%R:}^bbR%RojBWYoPWE"
+    },
+    {
+      "id": "https://vnexpress.net/tim-thay-7-hai-cot-liet-si-o-cong-vien-le-thi-rieng-5093857.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Tìm thấy 7 hài cốt liệt sĩ ở công viên Lê Thị Riêng",
+      "description": "Sau nhiều ngày tìm kiếm tại công viên Lê Thị Riêng, lực lượng chức năng thu thập 7 hài cốt liệt sĩ cùng nhiều di vật, trong đó một trường hợp được xác định danh tính.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/06/59112a84126b9335ca7a-178330426-1128-4128-1783304268.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=4zFzidcLsxxcyp1Jl0D46g",
+      "link": "https://vnexpress.net/tim-thay-7-hai-cot-liet-si-o-cong-vien-le-thi-rieng-5093857.html",
+      "published_at": "Mon, 06 Jul 2026 09:02:24 +0700",
+      "createAt": "2026-07-06T02:02:24.000Z",
+      "thumbnail_blurhash": "LGEyfAX:tTx^GIkEt7R+~qRjM_R*"
+    }
+  ]
 }
