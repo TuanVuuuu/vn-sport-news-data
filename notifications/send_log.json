@@ -1,39 +1,6 @@
 {
   "entries": [
     {
-      "sent_at": "2026-06-30T08:11:00.424Z",
-      "topic": null,
-      "device_id": "6bdc5a50d2532007",
-      "slot": "noon",
-      "type": "featured_digest",
-      "article_ids": [
-        "https://vnexpress.net/ket-qua-ha-lan-vs-morocco-5091360.html",
-        "https://vnexpress.net/nguoi-ham-mo-han-quoc-la-o-khi-cuu-huan-luyen-vien-cau-thu-ve-nuoc-5091376.html",
-        "https://vnexpress.net/gia-vang-the-gioi-roi-moc-4-000-usd-5091380.html",
-        "https://vnexpress.net/ong-trump-my-va-iran-se-gap-nhau-o-qatar-trong-ngay-30-6-5091358.html",
-        "https://vnexpress.net/tai-xe-cho-tre-em-khong-co-ghe-an-toan-se-bi-phat-canh-cao-5091413.html",
-        "https://vnexpress.net/hai-tinh-huong-var-khien-duc-om-han-truoc-paraguay-5091409.html",
-        "https://vnexpress.net/canh-sat-kham-xet-bat-hang-chuc-nguoi-che-tao-sung-tai-tp-hcm-5091430.html",
-        "https://vnexpress.net/san-giao-dich-carbon-van-hanh-the-nao-5091338.html",
-        "https://vnexpress.net/no-o-monaco-tai-phiet-ukraine-nguy-kich-5091385.html",
-        "https://vnexpress.net/nhieu-tau-ca-boc-chay-tai-ben-lach-o-nghe-an-5091433.html",
-        "https://vnexpress.net/noi-xay-duong-vuot-bien-giup-di-can-gio-vung-tau-trong-10-phut-5091318.html",
-        "https://vnexpress.net/diem-chuan-lop-10-o-tat-ca-truong-tp-hcm-nam-2026-5091408.html",
-        "https://vnexpress.net/hau-phao-xin-tam-dung-phien-toa-de-thoa-thuan-boi-thuong-7-000-ty-voi-nguoi-mua-dat-5091403.html",
-        "https://vnexpress.net/gia-vang-moi-nhat-hom-nay-ngay-30-6-5091495.html",
-        "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-thu-hut-von-fdi-co-chien-luoc-khong-bang-moi-gia-5091522.html",
-        "https://vnexpress.net/dung-thiet-bi-can-camera-nhan-dien-bien-so-bi-phat-4-6-trieu-dong-5091532.html",
-        "https://vnexpress.net/honda-nhat-ban-thua-vi-khoang-cach-ve-nang-luc-ca-nhan-5091498.html",
-        "https://vnexpress.net/cong-an-tp-hcm-tim-manh-moi-vu-thi-the-o-gan-truong-dai-hoc-5091551.html",
-        "https://vnexpress.net/nguoi-than-dong-doi-tien-biet-anh-hung-la-van-cau-5091520.html",
-        "https://vnexpress.net/khoi-cong-mo-rong-cao-toc-ha-noi-thai-nguyen-len-6-lan-xe-5091444.html",
-        "https://vnexpress.net/ac-mong-nang-nong-tung-khien-15-000-nguoi-thiet-mang-tai-phap-5091417.html",
-        "https://vnexpress.net/cac-truong-co-diem-chuan-lop-10-cao-nhat-tp-hcm-2026-5091351.html",
-        "https://vnexpress.net/dong-nai-khoi-cong-ba-du-an-gan-40-000-ty-dong-ket-noi-tp-hcm-5091539.html"
-      ],
-      "highlight_id": "https://vnexpress.net/dong-nai-khoi-cong-ba-du-an-gan-40-000-ty-dong-ket-noi-tp-hcm-5091539.html"
-    },
-    {
       "sent_at": "2026-06-30T08:11:00.545Z",
       "topic": null,
       "device_id": "6ecf868a064e3ff4",
@@ -16426,6 +16393,21 @@
         "https://vnexpress.net/haaland-lap-cu-dup-na-uy-loai-brazil-o-world-cup-2026-5093789.html"
       ],
       "highlight_id": "https://vnexpress.net/haaland-lap-cu-dup-na-uy-loai-brazil-o-world-cup-2026-5093789.html"
+    },
+    {
+      "sent_at": "2026-07-06T02:41:02.578Z",
+      "topic": null,
+      "device_id": "A11EB203-9671-4F19-AEE7-2B068733177A",
+      "slot": "morning",
+      "type": "featured_digest",
+      "article_ids": [
+        "https://vnexpress.net/chay-dua-tim-300-000-liet-si-chua-tro-ve-5092555.html",
+        "https://vnexpress.net/ancelotti-giai-thich-ly-do-vinicius-khong-sut-phat-den-truoc-na-uy-5093809.html",
+        "https://vnexpress.net/thu-tuong-du-le-trien-khai-tim-kiem-quy-tap-hai-cot-liet-si-o-cong-vien-le-thi-rieng-5093810.html",
+        "https://vnexpress.net/thu-tuong-du-le-tim-kiem-hai-cot-liet-si-o-cong-vien-le-thi-rieng-5093810.html",
+        "https://vnexpress.net/thu-tuong-netanyahu-mot-so-ngoi-lang-o-lebanon-muon-sap-nhap-vao-israel-5093826.html"
+      ],
+      "highlight_id": "https://vnexpress.net/thu-tuong-netanyahu-mot-so-ngoi-lang-o-lebanon-muon-sap-nhap-vao-israel-5093826.html"
     }
   ]
 }

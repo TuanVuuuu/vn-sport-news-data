@@ -1012,5 +1012,31 @@
     "published_at": "Mon, 06 Jul 2026 00:05:00 +0700",
     "createAt": "2026-07-05T17:05:00.000Z",
     "thumbnail_blurhash": "LPFPd3W:jZoy?wNHafay.8RkjZof"
+  },
+  {
+    "id": "https://vnexpress.net/nguon-cau-luu-tru-mo-rong-du-dia-cho-can-ho-ven-song-han-5093000.html",
+    "category_id": "real-estate",
+    "category_name": "Bất động sản",
+    "source": "VnExpress",
+    "title": "Nguồn cầu lưu trú mở rộng dư địa cho căn hộ ven sông Hàn",
+    "description": "Sự phục hồi của du lịch cùng dòng vốn đầu tư và lực lượng chuyên gia gia tăng nhu cầu lưu trú, tạo dư địa cho căn hộ ven sông Hàn vừa khai thác dòng tiền vừa hướng đến đầu tư dài hạn.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/05/picture1-1783220053-5447-1783220338.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=AJQS5jzKBtJbUXNX_xXPpg",
+    "link": "https://vnexpress.net/nguon-cau-luu-tru-mo-rong-du-dia-cho-can-ho-ven-song-han-5093000.html",
+    "published_at": "Mon, 06 Jul 2026 08:00:00 +0700",
+    "createAt": "2026-07-06T01:00:00.000Z",
+    "thumbnail_blurhash": "L29?%gc4@q}_hg0%19=;000o^%0x"
+  },
+  {
+    "id": "https://vnexpress.net/van-phu-cong-bo-chinh-sach-ban-hang-du-an-vlasta-premier-phu-thuan-5092209.html",
+    "category_id": "real-estate",
+    "category_name": "Bất động sản",
+    "source": "VnExpress",
+    "title": "Văn Phú công bố chính sách bán hàng dự án Vlasta Premier - Phú Thuận",
+    "description": "Văn Phú giới thiệu ba phương án thanh toán cho dự án Vlasta Premier - Phú Thuận, hướng đến nhiều nhóm khách hàng với nhu cầu mua ở và đầu tư.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/02/1-1782963861-3898-1782964197.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=O7Hjf8NroMngMQfQUPjFWA",
+    "link": "https://vnexpress.net/van-phu-cong-bo-chinh-sach-ban-hang-du-an-vlasta-premier-phu-thuan-5092209.html",
+    "published_at": "Mon, 06 Jul 2026 08:00:00 +0700",
+    "createAt": "2026-07-06T01:00:00.000Z",
+    "thumbnail_blurhash": "LsJkr=IpkCt7.TbbR*oz4;bIjsRk"
   }
 ]
