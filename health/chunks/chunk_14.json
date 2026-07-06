@@ -739,5 +739,31 @@
     "published_at": "Mon, 06 Jul 2026 20:50:18 +0700",
     "createAt": "2026-07-06T13:50:18.000Z",
     "thumbnail_blurhash": "LFHdpYk800xut7%LxZIV00S$~VV@"
+  },
+  {
+    "id": "https://vnexpress.net/5-thuc-pham-ho-tro-phuc-hoi-co-bap-sau-di-bo-5094053.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "5 thực phẩm hỗ trợ phục hồi cơ bắp sau đi bộ",
+    "description": "Trứng, khoai lang, chuối, cá hồi cung cấp protein và carbohydrate, giúp phục hồi cơ bắp, bổ sung năng lượng và giảm mệt mỏi sau khi đi bộ.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/06/chuoi-1783322620.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=fjx1dcV_jYqqxJQyaTPlHw",
+    "link": "https://vnexpress.net/5-thuc-pham-ho-tro-phuc-hoi-co-bap-sau-di-bo-5094053.html",
+    "published_at": "Tue, 07 Jul 2026 00:01:00 +0700",
+    "createAt": "2026-07-06T17:01:00.000Z",
+    "thumbnail_blurhash": "LLG[o@%%El-i~pxuM}jX0ot2%0j^"
+  },
+  {
+    "id": "https://vnexpress.net/nen-dung-voi-xit-hay-lau-giay-khi-di-ve-sinh-5092861.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Nên dùng vòi xịt hay lau giấy khi đi vệ sinh?",
+    "description": "Tôi luôn phân vân không biết sau khi đi vệ sinh nên dùng vòi xịt hay lau giấy vệ sinh vì sợ vệ sinh không đúng cách dễ gây viêm nhiễm hoặc kích ứng vùng kín, đâu là lựa chọn tốt hơn? (Thanh, TP HCM)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/03/gia-y-ve-sinh-1783048057-5223-1783052130.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=GGpWWQzRUMS4fxQ6q-sLng",
+    "link": "https://vnexpress.net/nen-dung-voi-xit-hay-lau-giay-khi-di-ve-sinh-5092861.html",
+    "published_at": "Tue, 07 Jul 2026 00:03:00 +0700",
+    "createAt": "2026-07-06T17:03:00.000Z",
+    "thumbnail_blurhash": "L8D+uPNiIT00~Bog%gj^Mxaex]x]"
   }
 ]
