@@ -778,5 +778,31 @@
     "published_at": "Tue, 07 Jul 2026 08:30:03 +0700",
     "createAt": "2026-07-07T01:30:03.000Z",
     "thumbnail_blurhash": "LxHLh^s:I9xt.AS6Mxa#ksbcobt5"
+  },
+  {
+    "id": "https://vnexpress.net/hai-xe-may-keo-nhau-nga-vi-chung-duong-khac-huong-5093811.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Hai xe máy kéo nhau ngã vì 'chung đường khác hướng'",
+    "description": "Tại vòng xoay, hai xe máy cùng chuyển hướng mắc vào nhau khiến xe đổ ra đường hôm 5/7 tại Võ Công Tồn.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/07/ezgif8a5ef8b499389387-17833857-6749-1788-1783385780.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=JgGE4TNhjAJtZBhRCs7Hzg&t=image",
+    "link": "https://vnexpress.net/hai-xe-may-keo-nhau-nga-vi-chung-duong-khac-huong-5093811.html",
+    "published_at": "Tue, 07 Jul 2026 10:04:30 +0700",
+    "createAt": "2026-07-07T03:04:30.000Z",
+    "thumbnail_blurhash": "L8Ci,T?wWXRO?axuIUbuD%xuxaM{"
+  },
+  {
+    "id": "https://vnexpress.net/cach-trung-quoc-xuat-khau-oto-khi-thieu-tau-van-chuyen-5094280.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Cách Trung Quốc xuất khẩu ôtô khi thiếu tàu vận chuyển",
+    "description": "Những chiếc ôtô được xếp chồng lên nhau trên giá phẳng và chất lên tàu vốn để chở bột giấy trong bối cảnh không đủ tàu chuyên dụng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/07/China10-1783386540-6206-1783386805.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=g2paMQGPTVkpU4zk8kSuDQ",
+    "link": "https://vnexpress.net/cach-trung-quoc-xuat-khau-oto-khi-thieu-tau-van-chuyen-5094280.html",
+    "published_at": "Tue, 07 Jul 2026 10:52:27 +0700",
+    "createAt": "2026-07-07T03:52:27.000Z",
+    "thumbnail_blurhash": "LFD]rB%j-:jc~fxRxVtm-pohMzV="
   }
 ]
