@@ -1129,5 +1129,31 @@
     "published_at": "Tue, 07 Jul 2026 09:12:02 +0700",
     "createAt": "2026-07-07T02:12:02.000Z",
     "thumbnail_blurhash": "L8BM;_tQ0LV@_MSew^xa?Fs8NMR:"
+  },
+  {
+    "id": "https://vnexpress.net/thanh-khoan-can-ho-tp-hcm-tiep-tuc-giam-5094173.html",
+    "category_id": "real-estate",
+    "category_name": "Bất động sản",
+    "source": "VnExpress",
+    "title": "Thanh khoản căn hộ TP HCM tiếp tục giảm",
+    "description": "Nguồn cung tăng mạnh nhưng mặt bằng giá vẫn neo cao khiến thanh khoản căn hộ TP HCM chưa phục hồi như kỳ vọng, bất chấp việc các chủ đầu tư đẩy mạnh kích cầu.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/07/dji-1783386187-9947-1783386333.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=dgaq6vwGGeu9Bx_LJm2KHw",
+    "link": "https://vnexpress.net/thanh-khoan-can-ho-tp-hcm-tiep-tuc-giam-5094173.html",
+    "published_at": "Tue, 07 Jul 2026 10:10:32 +0700",
+    "createAt": "2026-07-07T03:10:32.000Z",
+    "thumbnail_blurhash": "LIBDf@xukCRk?wSOfkt6.8kDofs:"
+  },
+  {
+    "id": "https://vnexpress.net/kusto-home-gioi-thieu-dong-biet-thu-hoan-thien-tai-urban-green-5093900.html",
+    "category_id": "real-estate",
+    "category_name": "Bất động sản",
+    "source": "VnExpress",
+    "title": "Kusto Home giới thiệu dòng biệt thự hoàn thiện tại Urban Green",
+    "description": "Kusto Home ra mắt The 6 Villas gồm 6 biệt thự hoàn thiện tại dự án Urban Green, hướng đến nhóm khách hàng muốn trực tiếp trải nghiệm sản phẩm trước khi quyết định sở hữu.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/07/1-1783394293-5063-1783394516.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ul6M_F2CHY3L7mxNGTVVkg",
+    "link": "https://vnexpress.net/kusto-home-gioi-thieu-dong-biet-thu-hoan-thien-tai-urban-green-5093900.html",
+    "published_at": "Tue, 07 Jul 2026 10:30:00 +0700",
+    "createAt": "2026-07-07T03:30:00.000Z",
+    "thumbnail_blurhash": "L8C6[D$_0L?u~q?EouIW03W9w}9I"
   }
 ]
