@@ -583,5 +583,31 @@
     "published_at": "Tue, 07 Jul 2026 07:14:31 +0700",
     "createAt": "2026-07-07T00:14:31.000Z",
     "thumbnail_blurhash": "LDF}M@[psp#S_]#Sw^xGLFV@+w$*"
+  },
+  {
+    "id": "https://vnexpress.net/my-v-bi-5094226-tong-thuat.html",
+    "category_id": "sports",
+    "category_name": "Thể thao",
+    "source": "VnExpress",
+    "title": "Bỉ loại Mỹ khỏi World Cup 2026",
+    "description": "Sử dụng tiền đạo Folarin Balogun, người đang gây tranh cãi vì được FIFA tạm hoãn án treo giò, đồng chủ nhà Mỹ vẫn đại bại trước Bỉ 1-4 ở vòng 1/8 World Cup 2026.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/07/07/ap26188077105987-1783392902-9043-1783392909.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=AEQd7PbPXpsJJOD_yDgcQQ",
+    "link": "https://vnexpress.net/my-v-bi-5094226-tong-thuat.html",
+    "published_at": "Tue, 07 Jul 2026 06:00:00 +0700",
+    "createAt": "2026-07-06T23:00:00.000Z",
+    "thumbnail_blurhash": "LrG[{6%3xtn%_4xbogoM-;WBWXa$"
+  },
+  {
+    "id": "https://vnexpress.net/tay-ban-nha-pha-ky-luc-giu-sach-luoi-o-world-cup-5094264.html",
+    "category_id": "sports",
+    "category_name": "Thể thao",
+    "source": "VnExpress",
+    "title": "Tây Ban Nha phá kỷ lục giữ sạch lưới ở World Cup",
+    "description": "Tây Ban Nha chạm nhiều cột mốc, trong đó có kỷ lục sáu trận giữ sạch lưới, sau khi thắng Bồ Đào Nha 1-0 ở vòng 1/8 World Cup 2026.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/07/07/simon-1783381312-8855-1783381552.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=-M5HDIua5iaVjzO09BMeYw",
+    "link": "https://vnexpress.net/tay-ban-nha-pha-ky-luc-giu-sach-luoi-o-world-cup-5094264.html",
+    "published_at": "Tue, 07 Jul 2026 11:00:00 +0700",
+    "createAt": "2026-07-07T04:00:00.000Z",
+    "thumbnail_blurhash": "LCAw@A=|xA$_~V=y$enz-C-TxYt5"
   }
 ]
