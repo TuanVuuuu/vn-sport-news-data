@@ -570,5 +570,44 @@
     "published_at": "Tue, 07 Jul 2026 15:16:14 +0700",
     "createAt": "2026-07-07T08:16:14.000Z",
     "thumbnail_blurhash": "LDF$hl05ZLNZDTIYt3v_IT~o4TM{"
+  },
+  {
+    "id": "https://vnexpress.net/gia-vang-moi-nhat-hom-nay-ngay-7-7-5094572.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Vàng miếng giảm về còn 150 triệu đồng một lượng",
+    "description": "Giá vàng miếng SJC giảm về mức 150 triệu đồng một lượng sau hai lần điều chỉnh liên tiếp hôm nay.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/07/233A0887-6850-1783411069.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=nSQn-CpvHP0lL81ri8F2FA",
+    "link": "https://vnexpress.net/gia-vang-moi-nhat-hom-nay-ngay-7-7-5094572.html",
+    "published_at": "Tue, 07 Jul 2026 15:33:07 +0700",
+    "createAt": "2026-07-07T08:33:07.000Z",
+    "thumbnail_blurhash": "LiH-.4.8ohs:?dx^xtWY-=W?Rkt6"
+  },
+  {
+    "id": "https://vnexpress.net/co-phieu-pnj-giam-san-ba-phien-lien-tiep-5094594.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Cổ phiếu PNJ giảm sàn ba phiên liên tiếp",
+    "description": "Áp lực bán tháo khiến PNJ giảm hết biên độ ba phiên liên tiếp, xuống mức thấp nhất một năm qua, trong khi khối lượng chờ khớp lệnh giá sàn hơn 12,5 triệu cổ phiếu.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/07/233A7745-7759-1783412853.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=srqSyUUBYBWgLw2t7zBk1w",
+    "link": "https://vnexpress.net/co-phieu-pnj-giam-san-ba-phien-lien-tiep-5094594.html",
+    "published_at": "Tue, 07 Jul 2026 15:46:34 +0700",
+    "createAt": "2026-07-07T08:46:34.000Z",
+    "thumbnail_blurhash": "LBBpU_00?wQ,8^.9R4o~V=bcRj-;"
+  },
+  {
+    "id": "https://vnexpress.net/samsung-du-bao-loi-nhuan-quy-bang-3-nam-cong-lai-5094546.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Samsung dự báo lợi nhuận quý bằng 3 năm cộng lại",
+    "description": "Lợi nhuận hoạt động quý II của Samsung Electronics có thể đạt gần 60 tỷ USD, cao gấp 19 lần năm ngoái và bằng 3 năm qua cộng lại nhờ giá chip nhớ tăng kỷ lục.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/07/8498769-1783412659-3918-1783412708.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=sT_fek1S7PQZb0eFkdCIvg",
+    "link": "https://vnexpress.net/samsung-du-bao-loi-nhuan-quy-bang-3-nam-cong-lai-5094546.html",
+    "published_at": "Tue, 07 Jul 2026 16:30:00 +0700",
+    "createAt": "2026-07-07T09:30:00.000Z",
+    "thumbnail_blurhash": "LnIFk@~W-p%M~W-;NZnj%MM{D%WA"
   }
 ]
