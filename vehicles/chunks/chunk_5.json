@@ -726,5 +726,31 @@
     "published_at": "Tue, 07 Jul 2026 06:00:00 +0700",
     "createAt": "2026-07-06T23:00:00.000Z",
     "thumbnail_blurhash": "LKC%?FDhk7%gyrW9WAxu?]RiRPj["
+  },
+  {
+    "id": "https://vnexpress.net/sedan-sap-tro-lai-5086478.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Sedan sắp trở lại?",
+    "description": "Khi người dùng không cần tới, hoặc đã thừa những chiếc xe gầm cao để giải quyết nhu cầu công năng, liệu sedan có lấy lại vị thế bằng lợi thế cảm xúc.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/06/Lexus-ES500E-Luxury-Sonic-Copp-4957-1734-1783331980.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=zblqnQqY7kHQECa5JCL2pQ",
+    "link": "https://vnexpress.net/sedan-sap-tro-lai-5086478.html",
+    "published_at": "Tue, 07 Jul 2026 06:32:00 +0700",
+    "createAt": "2026-07-06T23:32:00.000Z",
+    "thumbnail_blurhash": "L-JkvAa~xtog?wf6RkkCx_WBRjay"
+  },
+  {
+    "id": "https://vnexpress.net/vao-cua-nhanh-xe-container-lat-ngang-5093831.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Vào cua nhanh, xe container lật ngang",
+    "description": "Vào cua nhanh, thùng container văng nghiêng đổ sập vào xe có gắn camera hành trình, hôm 5/7 tại QL15, Tuyền Lâm.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/06/ezgif87d3e0e87a00d704-17833002-4298-7045-1783300252.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=sy-c0QRj0URl4FloSJX_SQ&t=image",
+    "link": "https://vnexpress.net/vao-cua-nhanh-xe-container-lat-ngang-5093831.html",
+    "published_at": "Tue, 07 Jul 2026 07:00:00 +0700",
+    "createAt": "2026-07-07T00:00:00.000Z",
+    "thumbnail_blurhash": "LZH2i#-=4-Rj%gbEV[WV~qxuWBj]"
   }
 ]
