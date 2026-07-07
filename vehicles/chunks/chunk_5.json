@@ -895,5 +895,44 @@
     "published_at": "Tue, 07 Jul 2026 16:00:03 +0700",
     "createAt": "2026-07-07T09:00:03.000Z",
     "thumbnail_blurhash": "LjIqv6%Njb%M~XtRWBofxuayWBWB"
+  },
+  {
+    "id": "https://vnexpress.net/cuc-duong-bo-dia-phuong-can-bo-sung-bien-bao-phu-cho-xe-ban-tai-5094674.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Cục Đường bộ: Địa phương cần bổ sung biển báo phụ cho xe bán tải",
+    "description": "Cơ quan quản lý yêu cầu các địa phương rà soát hệ thống biển báo cấm xe tải và bổ sung biển phụ không áp dụng với xe bán tải cabin kép.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/07/isuzu-d-max-test-jpg-178341791-2683-8554-1783418185.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=Eo9PMCtkwKfrX77Y7fM90A",
+    "link": "https://vnexpress.net/cuc-duong-bo-dia-phuong-can-bo-sung-bien-bao-phu-cho-xe-ban-tai-5094674.html",
+    "published_at": "Wed, 08 Jul 2026 05:00:00 +0700",
+    "createAt": "2026-07-07T22:00:00.000Z",
+    "thumbnail_blurhash": "LsKwkGxbbag2k?o#aej]?wX8nis:"
+  },
+  {
+    "id": "https://vnexpress.net/xe-hyundai-khuyen-mai-cao-nhat-220-trieu-dong-5094718.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Xe Hyundai khuyến mãi cao nhất 220 triệu đồng",
+    "description": "Hyundai Thành Công triển khai ưu đãi tháng 7 cho 6 dòng xe, giá trị tối đa 220 triệu đồng, tiếp tục cuộc đua giảm giá trên thị trường.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/07/hyundai-santa-fe-hybrid-jpg-jp-3269-9625-1783425295.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=K7Gv7PjTc8RwgnxMZRdRLw",
+    "link": "https://vnexpress.net/xe-hyundai-khuyen-mai-cao-nhat-220-trieu-dong-5094718.html",
+    "published_at": "Wed, 08 Jul 2026 05:31:00 +0700",
+    "createAt": "2026-07-07T22:31:00.000Z",
+    "thumbnail_blurhash": "LzIhmbj[xat7~qfiWBof-;t7Rkay"
+  },
+  {
+    "id": "https://vnexpress.net/video-be-trai-7-tuoi-lai-oto-gay-phan-no-vi-thu-vui-mang-xa-hoi-5094527.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Video 'bé trai 7 tuổi lái ôtô' gây phẫn nộ vì thú vui mạng xã hội",
+    "description": "Làn sóng phẫn nộ bùng lên sau video một bé trai 7 tuổi ngồi sau vô-lăng một chiếc xe đang di chuyển.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/07/screenshot20260707160422-17834-9255-2389-1783436636.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=aZpFzxyhaqlTdEEOLon7SA",
+    "link": "https://vnexpress.net/video-be-trai-7-tuoi-lai-oto-gay-phan-no-vi-thu-vui-mang-xa-hoi-5094527.html",
+    "published_at": "Wed, 08 Jul 2026 06:00:00 +0700",
+    "createAt": "2026-07-07T23:00:00.000Z",
+    "thumbnail_blurhash": "LIBM*?-;X9fi_NkXafs,.7ofWDW."
   }
 ]
