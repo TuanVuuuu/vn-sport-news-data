@@ -830,5 +830,44 @@
     "published_at": "Wed, 08 Jul 2026 14:03:27 +0700",
     "createAt": "2026-07-08T07:03:27.000Z",
     "thumbnail_blurhash": "LMGu:RxbS+_NktXAIqtTInWBjDIU"
+  },
+  {
+    "id": "https://vnexpress.net/co-phieu-pnj-lap-ky-luc-thanh-khoan-5094884.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Cổ phiếu PNJ lập kỷ lục thanh khoản",
+    "description": "Sau ba phiên giảm hết biên độ và có hàng chục triệu cổ phiếu chờ bán giá sàn, PNJ hôm nay đã tăng trở lại và khớp lệnh kỷ lục hơn 25 triệu cổ phiếu.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/08/233A8046-7432-1783480427.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ULjbD3jSCZX2DARqV6206g",
+    "link": "https://vnexpress.net/co-phieu-pnj-lap-ky-luc-thanh-khoan-5094884.html",
+    "published_at": "Wed, 08 Jul 2026 10:30:10 +0700",
+    "createAt": "2026-07-08T03:30:10.000Z",
+    "thumbnail_blurhash": "LGB;2-00~VITo#RjxtR*brofRPt7"
+  },
+  {
+    "id": "https://vnexpress.net/datvietvac-sap-ipo-voi-dinh-gia-hon-230-trieu-usd-5094986.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "DatVietVAC sắp IPO với định giá hơn 230 triệu USD",
+    "description": "DatVietVAC - nhà sản xuất chương trình \"Anh trai say hi\" - sắp IPO với giá 54.800 đồng mỗi cổ phiếu, tương ứng mức định giá hơn 230 triệu USD khi lên sàn chứng khoán.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/08/DAV-1783493241-4096-1783494915.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=YOymXY78AgW_aCXhB-THbQ",
+    "link": "https://vnexpress.net/datvietvac-sap-ipo-voi-dinh-gia-hon-230-trieu-usd-5094986.html",
+    "published_at": "Wed, 08 Jul 2026 15:16:03 +0700",
+    "createAt": "2026-07-08T08:16:03.000Z",
+    "thumbnail_blurhash": "LC84#y_N-;?br=%2%2xbMwMwMdMx"
+  },
+  {
+    "id": "https://vnexpress.net/trung-quoc-noi-han-che-xuat-khau-nhien-lieu-5095009.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Trung Quốc nới hạn chế xuất khẩu nhiên liệu",
+    "description": "Ngày 8/7, Reuters trích các nguồn tin thân cận cho biết Trung Quốc đã tạm gỡ bỏ lệnh hạn chế xuất khẩu nhiên liệu trong tháng 7.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/08/Screenshot-2026-07-08-151600-1-7398-5339-1783498837.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=XKg7cquLipqCoeFYkXYpuw",
+    "link": "https://vnexpress.net/trung-quoc-noi-han-che-xuat-khau-nhien-lieu-5095009.html",
+    "published_at": "Wed, 08 Jul 2026 15:25:38 +0700",
+    "createAt": "2026-07-08T08:25:38.000Z",
+    "thumbnail_blurhash": "L5ATN4-U00~pE-M{IUbcJp9ZV@og"
   }
 ]

@@ -1064,5 +1064,44 @@
     "published_at": "Wed, 08 Jul 2026 14:29:00 +0700",
     "createAt": "2026-07-08T07:29:00.000Z",
     "thumbnail_blurhash": "LJGlM0_NE2-;8^%Mt7IU0JW=xaRQ"
+  },
+  {
+    "id": "https://vnexpress.net/bo-giao-duc-cong-bo-diem-san-su-pham-cao-nhat-20-5092435.html",
+    "category_id": "education",
+    "category_name": "Giáo dục",
+    "source": "VnExpress",
+    "title": "Bộ Giáo dục công bố điểm sàn Sư phạm cao nhất 20",
+    "description": "Điểm sàn khối ngành Sư phạm ở bậc đại học năm nay là 19-20 cho tổ hợp ba môn, tùy từng ngành, tăng so với năm ngoái.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/08/thi-1782958705-3264-1783499163.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=F02rIw3t2Ks54FSIgC1PEA",
+    "link": "https://vnexpress.net/bo-giao-duc-cong-bo-diem-san-su-pham-cao-nhat-20-5092435.html",
+    "published_at": "Wed, 08 Jul 2026 15:29:06 +0700",
+    "createAt": "2026-07-08T08:29:06.000Z",
+    "thumbnail_blurhash": "L8FY@;~k02=;-q4z?r_702EA9J06"
+  },
+  {
+    "id": "https://vnexpress.net/diem-san-khoi-nganh-y-duoc-tang-tro-lai-5092481.html",
+    "category_id": "education",
+    "category_name": "Giáo dục",
+    "source": "VnExpress",
+    "title": "Điểm sàn khối ngành Y, Dược tăng trở lại",
+    "description": "Điểm sàn 11 ngành khối sức khỏe như Y, Dược năm nay là 18-22, tăng trở lại sau khi giảm mạnh vào năm ngoái.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/08/y-hn-1782961484-7209-1783499357.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=gUZFe4cn_usERmR9tVzRSg",
+    "link": "https://vnexpress.net/diem-san-khoi-nganh-y-duoc-tang-tro-lai-5092481.html",
+    "published_at": "Wed, 08 Jul 2026 15:32:22 +0700",
+    "createAt": "2026-07-08T08:32:22.000Z",
+    "thumbnail_blurhash": "LHJ8ec9Y~q-:DgNF-=xbD#WARP%2"
+  },
+  {
+    "id": "https://vnexpress.net/diem-san-khoi-nganh-phap-luat-nam-2026-chi-tiet-nhat-5094522.html",
+    "category_id": "education",
+    "category_name": "Giáo dục",
+    "source": "VnExpress",
+    "title": "Lần đầu công bố điểm sàn chung khối ngành Pháp luật",
+    "description": "Trong lần đầu quy định ngưỡng đảm bảo chất lượng đầu vào (điểm sàn) với các chương trình đào tạo thuộc lĩnh vực Pháp luật, Bộ yêu cầu thí sinh đạt tối thiểu 20.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/08/thi-1783407224-2385-1783499701.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=XDLNDPPjf92o1HXG6UMyYQ",
+    "link": "https://vnexpress.net/diem-san-khoi-nganh-phap-luat-nam-2026-chi-tiet-nhat-5094522.html",
+    "published_at": "Wed, 08 Jul 2026 15:43:59 +0700",
+    "createAt": "2026-07-08T08:43:59.000Z",
+    "thumbnail_blurhash": "LFH27w~W00tQ4mRit8Ip00jE?bIp"
   }
 ]
