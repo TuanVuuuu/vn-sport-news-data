@@ -804,5 +804,31 @@
     "published_at": "Wed, 08 Jul 2026 05:00:00 +0700",
     "createAt": "2026-07-07T22:00:00.000Z",
     "thumbnail_blurhash": "LEGbSFtkNdW9^Bs;ogM{EIV@xFo#"
+  },
+  {
+    "id": "https://vnexpress.net/my-tap-kich-loat-muc-tieu-o-mien-nam-iran-5094770.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Mỹ tập kích loạt mục tiêu ở miền nam Iran",
+    "description": "Quân đội Mỹ mở loạt không kích nhằm vào các mục tiêu ở phía nam Iran, sau khi nước này bị cáo buộc tấn công tàu qua eo biển Hormuz.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/08/iran-1783465738-6361-1783465890.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=MlNiI02sF9G2BmLKwl5o6Q",
+    "link": "https://vnexpress.net/my-tap-kich-loat-muc-tieu-o-mien-nam-iran-5094770.html",
+    "published_at": "Wed, 08 Jul 2026 06:41:05 +0700",
+    "createAt": "2026-07-07T23:41:05.000Z",
+    "thumbnail_blurhash": "L3A,B^{x0Ll.090hV@+t]evyM|kD"
+  },
+  {
+    "id": "https://vnexpress.net/my-thu-hoi-quyet-dinh-noi-trung-phat-voi-dau-iran-5094772.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Mỹ thu hồi quyết định nới trừng phạt với dầu Iran",
+    "description": "Mỹ thu hồi giấy phép miễn trừ tạm thời lệnh trừng phạt với dầu Iran, sau khi cáo buộc Tehran tấn công 3 tàu hàng ở Hormuz.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/08/tau-dau-iran-1783467155-3728-1783467503.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=ajj-zN5I428utCyvDOWHoA",
+    "link": "https://vnexpress.net/my-thu-hoi-quyet-dinh-noi-trung-phat-voi-dau-iran-5094772.html",
+    "published_at": "Wed, 08 Jul 2026 07:02:21 +0700",
+    "createAt": "2026-07-08T00:02:21.000Z",
+    "thumbnail_blurhash": "L,E|xhofozkC?doLaxj]tlfRV@j["
   }
 ]
