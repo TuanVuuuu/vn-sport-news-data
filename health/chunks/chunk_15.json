@@ -219,5 +219,31 @@
     "published_at": "Wed, 08 Jul 2026 13:00:00 +0700",
     "createAt": "2026-07-08T06:00:00.000Z",
     "thumbnail_blurhash": "LCG+K:NY8w%0009HjbI=4oR*_Nt6"
+  },
+  {
+    "id": "https://vnexpress.net/ba-loi-ich-khi-nam-gioi-tiem-vaccine-hpv-5094994.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Ba lợi ích khi nam giới tiêm vaccine HPV",
+    "description": "Nam giới chủ động tiêm ngừa HPV giúp phòng bệnh ung thư, sùi mào gà, tiết kiệm chi phí điều trị, giảm lây cho nữ và tạo miễn dịch cộng đồng.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/08/3-1783493021-7093-1783493226.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ESrnHIt_KNA7b8-ueXLFpg",
+    "link": "https://vnexpress.net/ba-loi-ich-khi-nam-gioi-tiem-vaccine-hpv-5094994.html",
+    "published_at": "Wed, 08 Jul 2026 14:00:00 +0700",
+    "createAt": "2026-07-08T07:00:00.000Z",
+    "thumbnail_blurhash": "LhJR%AIUkR%M~pW;jsRnxuoea#bI"
+  },
+  {
+    "id": "https://vnexpress.net/5-sai-lam-khi-dung-may-tinh-khien-mat-nhanh-moi-5094908.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "5 sai lầm khi dùng máy tính khiến mắt nhanh mỏi",
+    "description": "Đặt màn hình quá gần, làm việc liên tục không nghỉ, ít chớp mắt hay đeo kính sai độ là những thói quen thường gặp khiến mắt nhanh mỏi khi sử dụng máy tính.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/08/nhanvienvanphong-1783483042-5533-1783483055.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=jrIz7Up4cOpCnu5Io7zVAQ",
+    "link": "https://vnexpress.net/5-sai-lam-khi-dung-may-tinh-khien-mat-nhanh-moi-5094908.html",
+    "published_at": "Wed, 08 Jul 2026 14:00:00 +0700",
+    "createAt": "2026-07-08T07:00:00.000Z",
+    "thumbnail_blurhash": "LwEq2ZXAtT%h%%n$jukDkXadadkC"
   }
 ]
