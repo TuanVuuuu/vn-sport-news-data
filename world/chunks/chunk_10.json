@@ -1207,5 +1207,31 @@
     "published_at": "Wed, 08 Jul 2026 21:57:42 +0700",
     "createAt": "2026-07-08T14:57:42.000Z",
     "thumbnail_blurhash": "LIAmYwAI=_$_.AOt-ooaJXt9R:NG"
+  },
+  {
+    "id": "https://vnexpress.net/bi-sa-thai-oan-vi-cao-buoc-an-trom-banh-quy-1-95-usd-5094923.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Bị sa thải oan vì cáo buộc 'ăn trộm' bánh quy 1,95 USD",
+    "description": "Một nhân viên hãng Ford ở Kentucky gặp lỗi thanh toán khi quẹt thẻ trả tiền cho chiếc bánh quy trị giá 1,95 USD, khiến ông bị cáo buộc ăn trộm và sa thải oan.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/08/ford-1783499555-8384-1783499706.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=qFCI4-S2n3XFBmQZn9QdGw",
+    "link": "https://vnexpress.net/bi-sa-thai-oan-vi-cao-buoc-an-trom-banh-quy-1-95-usd-5094923.html",
+    "published_at": "Thu, 09 Jul 2026 01:00:00 +0700",
+    "createAt": "2026-07-08T18:00:00.000Z",
+    "thumbnail_blurhash": "LEHeav%%-=~W01^*M{Ip?a9Z?a%g"
+  },
+  {
+    "id": "https://vnexpress.net/cach-uav-ukraine-vuot-gan-3-000-km-tap-kich-nha-may-loc-dau-nga-5094447.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Cách UAV Ukraine vượt gần 3.000 km tập kích nhà máy lọc dầu Nga",
+    "description": "UAV Ukraine tấn công nhà máy lọc dầu ở Omsk dường như được nâng cấp, trong khi lưới phòng không Nga không thể bao phủ hết lãnh thổ rộng lớn.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/07/Omsk-1783417763-9825-1783419359.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=EFv5FWVNdK13o5bpg0XBtw",
+    "link": "https://vnexpress.net/cach-uav-ukraine-vuot-gan-3-000-km-tap-kich-nha-may-loc-dau-nga-5094447.html",
+    "published_at": "Thu, 09 Jul 2026 01:00:00 +0700",
+    "createAt": "2026-07-08T18:00:00.000Z",
+    "thumbnail_blurhash": "LhGvFc_3xtRj_4-;ofRjxuxuRjWB"
   }
 ]

@@ -1272,5 +1272,31 @@
     "published_at": "Wed, 08 Jul 2026 22:31:54 +0700",
     "createAt": "2026-07-08T15:31:54.000Z",
     "thumbnail_blurhash": "LHM@J*%M00jE8waK?wozD%WV%Mof"
+  },
+  {
+    "id": "https://vnexpress.net/mo-rong-dieu-kien-cong-nhan-liet-si-5095176.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Mở rộng điều kiện công nhận liệt sĩ",
+    "description": "Thường vụ Quốc hội quyết định nới điều kiện, theo đó thương binh chết do vết thương tái phát, người hy sinh khi thực hiện nhiệm vụ trong điều kiện đặc thù được công nhận liệt sĩ.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/08/anh-1783519731-4447-1783519771.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=s2aSF2_VKBfwUiE79dATYQ",
+    "link": "https://vnexpress.net/mo-rong-dieu-kien-cong-nhan-liet-si-5095176.html",
+    "published_at": "Thu, 09 Jul 2026 00:00:00 +0700",
+    "createAt": "2026-07-08T17:00:00.000Z",
+    "thumbnail_blurhash": "LFG8yN.mDiVY^*?bxGRjSd%2WC9Z"
+  },
+  {
+    "id": "https://vnexpress.net/phat-hien-but-khac-ten-chon-cung-hai-cot-liet-si-o-hue-5095198.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Phát hiện bút khắc tên chôn cùng hài cốt liệt sĩ ở Huế",
+    "description": "Trong quá trình khai quật, lực lượng chức năng phát hiện một cây bút khắc tên \"Nguyễn Duy Năm\" chôn cùng hài cốt liệt sĩ ở nghĩa trang xã Phú Vang.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/09/1-1783531147-8611-1783531158.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=57QeoHIc1BR3J_Q_-w_XHw",
+    "link": "https://vnexpress.net/phat-hien-but-khac-ten-chon-cung-hai-cot-liet-si-o-hue-5095198.html",
+    "published_at": "Thu, 09 Jul 2026 00:19:40 +0700",
+    "createAt": "2026-07-08T17:19:40.000Z",
+    "thumbnail_blurhash": "LHC[5v%3%MtR.8slj]j@p{x^aKtR"
   }
 ]
