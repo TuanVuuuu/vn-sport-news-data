@@ -362,5 +362,57 @@
     "published_at": "Thu, 09 Jul 2026 04:00:00 +0700",
     "createAt": "2026-07-08T21:00:00.000Z",
     "thumbnail_blurhash": "LQJ%wb_3.7~pyC-;xuSh.kw}n6S2"
+  },
+  {
+    "id": "https://vnexpress.net/nhung-buc-anh-goi-mo-ve-ranh-chon-tap-the-san-bay-tan-son-nhat-5095193.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Những bức ảnh gợi mở về rãnh chôn tập thể sân bay Tân Sơn Nhất",
+    "description": "Các bức hình, không ảnh khi đối chiếu, xâu chuỗi dữ liệu giúp khoanh vùng về khả năng nơi chôn tập thể chiến sĩ tại sân bay Tân Sơn Nhất 58 năm trước.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/09/d-n-mi-1783531659-5588-1783532146.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=Bn4SQQ0ZnmEJv33NrcltcQ",
+    "link": "https://vnexpress.net/nhung-buc-anh-goi-mo-ve-ranh-chon-tap-the-san-bay-tan-son-nhat-5095193.html",
+    "published_at": "Thu, 09 Jul 2026 05:00:00 +0700",
+    "createAt": "2026-07-08T22:00:00.000Z",
+    "thumbnail_blurhash": "LnGbk*WVj]of_4xakCa}?vWVofa#"
+  },
+  {
+    "id": "https://vnexpress.net/khach-co-the-duoc-boi-thuong-165-usd-khi-chuyen-bay-cham-huy-5095187.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Khách có thể được bồi thường 165 USD khi chuyến bay chậm, hủy",
+    "description": "Từ 1/7, các hãng hàng không sẽ phải hoàn vé cho hành khách trong thời hạn 14-45 ngày tùy phương thức thanh toán, bồi thường đến 165 USD với chặng quốc tế khi chuyến bay bị hủy, chậm nhiều giờ.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/08/cg2a8643-1783522814-4877-1783523182.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=a3hQUpwQug8EuGZ6Mb9Z_Q",
+    "link": "https://vnexpress.net/khach-co-the-duoc-boi-thuong-165-usd-khi-chuyen-bay-cham-huy-5095187.html",
+    "published_at": "Thu, 09 Jul 2026 05:00:00 +0700",
+    "createAt": "2026-07-08T22:00:00.000Z",
+    "thumbnail_blurhash": "L6E.@O~V-:x]yr^*t7tQI+ozRQR*"
+  },
+  {
+    "id": "https://vnexpress.net/chan-ngan-vi-tiep-xuc-ai-thay-nguoi-that-5094717.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Chán ngán vì tiếp xúc AI thay người thật",
+    "description": "Doanh nghiệp thay thế nhân viên dịch vụ bằng AI, song việc tương tác với chatbot khiến nhiều khách hàng bực bội và cho rằng chúng hoạt động kém hiệu quả.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/07/geminigeneratedimage5gl0zy5gl0-1787-1437-1783428756.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=xmFa19E-9V_vxcpiKB4cwQ",
+    "link": "https://vnexpress.net/chan-ngan-vi-tiep-xuc-ai-thay-nguoi-that-5094717.html",
+    "published_at": "Thu, 09 Jul 2026 05:00:00 +0700",
+    "createAt": "2026-07-08T22:00:00.000Z",
+    "thumbnail_blurhash": "LPEMar?cIUWB_N%MxaxuMxt7%MtR"
+  },
+  {
+    "id": "https://vnexpress.net/bau-duc-toi-khong-quen-di-sau-da-lam-la-phai-dan-dau-5094082.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Bầu Đức: 'Tôi không quen đi sau, đã làm là phải dẫn đầu'",
+    "description": "Từ những quyết định \"đánh lớn, đi nhanh\" đưa Hoàng Anh Gia Lai lên đỉnh cao, đến cú ngã bên bờ vực phá sản, rồi hành trình hồi sinh, bầu Đức chưa từng từ bỏ triết lý: không đi sau ai và sẵn sàng trả giá để dẫn đầu.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/07/DONG7637-JPG-4622-1783404534.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=01W4IGcPmqBer0ZIe-3Ohw",
+    "link": "https://vnexpress.net/bau-duc-toi-khong-quen-di-sau-da-lam-la-phai-dan-dau-5094082.html",
+    "published_at": "Thu, 09 Jul 2026 05:00:00 +0700",
+    "createAt": "2026-07-08T22:00:00.000Z",
+    "thumbnail_blurhash": "LJK,EKI@4nm*{HER%MxuRiIAtlo}"
   }
 ]
