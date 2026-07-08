@@ -817,5 +817,44 @@
     "published_at": "Wed, 08 Jul 2026 08:27:47 +0700",
     "createAt": "2026-07-08T01:27:47.000Z",
     "thumbnail_blurhash": "LEHK@B~B9_IB02s.IVxtpJWANbx]"
+  },
+  {
+    "id": "https://vnexpress.net/gia-dau-tang-vang-giam-5094797.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Giá dầu tăng, vàng giảm",
+    "description": "Mỗi thùng dầu tăng gần 3%, trong khi giá vàng thế giới có thời điểm xuống dưới 4.100 USD sáng nay, do Trung Đông căng thẳng trở lại.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/08/image1775812764721-1783472191-5757-1783472195.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=SCuj6yEQWL47tkECk6h3lA",
+    "link": "https://vnexpress.net/gia-dau-tang-vang-giam-5094797.html",
+    "published_at": "Wed, 08 Jul 2026 08:24:11 +0700",
+    "createAt": "2026-07-08T01:24:11.000Z",
+    "thumbnail_blurhash": "LI8}f9XSI;ni_4X9NGr?tSR*nixZ"
+  },
+  {
+    "id": "https://vnexpress.net/giai-bai-toan-doanh-nghiep-chi-tim-den-dai-hoc-mua-tuyen-dung-5094186.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Giải bài toán 'doanh nghiệp chỉ tìm đến đại học mùa tuyển dụng'",
+    "description": "Muốn doanh nghiệp không chỉ tìm đến đại học vào \"mùa tuyển dụng\", nhà trường cần cởi mở, đưa ra mô hình mang lại lợi ích cho cả hai phía, theo PGS.TS Phùng Trung Nghĩa.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/06/pgs-ts-phung-trung-nghia-dai-h-3594-2620-1783346981.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=gm_ytNmplBnKHo636GLh3g",
+    "link": "https://vnexpress.net/giai-bai-toan-doanh-nghiep-chi-tim-den-dai-hoc-mua-tuyen-dung-5094186.html",
+    "published_at": "Wed, 08 Jul 2026 08:51:16 +0700",
+    "createAt": "2026-07-08T01:51:16.000Z",
+    "thumbnail_blurhash": "L6Gv8_vD4AGpC-Rh%~4:2b5i}?^+"
+  },
+  {
+    "id": "https://vnexpress.net/sieu-bao-ba-vi-gay-gio-manh-tren-bien-dong-tu-ngay-mai-5094824.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Siêu bão Ba Vì gây gió mạnh trên Biển Đông từ ngày mai",
+    "description": "Hoàn lưu siêu bão Ba Vì được dự báo gây gió mạnh cấp 6-7, sóng cao 3-5 m trên nhiều vùng biển Việt Nam từ ngày 9/7, dù bão ít khả năng đi vào Biển Đông.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/08/anh-chup-man-hinh-luc-17834764-4436-5944-1783476450.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=A4ULaQ5doY_KrL4FEKpD2g",
+    "link": "https://vnexpress.net/sieu-bao-ba-vi-gay-gio-manh-tren-bien-dong-tu-ngay-mai-5094824.html",
+    "published_at": "Wed, 08 Jul 2026 09:23:04 +0700",
+    "createAt": "2026-07-08T02:23:04.000Z",
+    "thumbnail_blurhash": "LEB}s.BaNg[Ho*nWr?aQFzvoaRTS"
   }
 ]
