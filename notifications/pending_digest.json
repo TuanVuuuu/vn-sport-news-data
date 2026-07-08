@@ -1,3 +1,69 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/thuy-si-thang-colombia-vao-tu-ket-world-cup-sau-72-nam-5094768.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Thụy Sĩ thắng Colombia, vào tứ kết World Cup sau 72 năm",
+      "description": "Thụy Sĩ thắng Colombia 4-3 trên loạt sút luân lưu ở trận cuối vòng 1/8, để lần đầu vào tứ kết World Cup kể từ năm 1954, sẽ gặp Argentina.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/07/08/thu-y-si-1783465758-8863-1783465998.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=2o2gOxaqOAJUpmFLRimb2A",
+      "link": "https://vnexpress.net/thuy-si-thang-colombia-vao-tu-ket-world-cup-sau-72-nam-5094768.html",
+      "published_at": "Wed, 08 Jul 2026 05:59:49 +0700",
+      "createAt": "2026-07-07T22:59:49.000Z",
+      "thumbnail_blurhash": "L8F4.U}@03DQIV9v~n.60NE~%dOW"
+    },
+    {
+      "id": "https://vnexpress.net/he-thong-chinh-tri-thay-doi-the-nao-sau-mot-nam-tinh-gon-5091870.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Hệ thống chính trị thay đổi thế nào sau một năm tinh gọn?",
+      "description": "Một năm sau cuộc sắp xếp, tinh gọn tổ chức bộ máy trên toàn quốc, cơ cấu hệ thống chính trị từ Trung ương đến địa phương đã có những thay đổi lớn nhất trong nhiều thập niên.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/07/top-1783419994-8433-1783419998.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=0OVuNdH7S2aJ77QjJ6DoHg&t=image",
+      "link": "https://vnexpress.net/he-thong-chinh-tri-thay-doi-the-nao-sau-mot-nam-tinh-gon-5091870.html",
+      "published_at": "Wed, 08 Jul 2026 06:00:00 +0700",
+      "createAt": "2026-07-07T23:00:00.000Z",
+      "thumbnail_blurhash": "LAQ+=,^+xu^+~Vj[oft7-;ofRjfk"
+    },
+    {
+      "id": "https://vnexpress.net/noi-oan-gia-vo-luoi-bieng-cua-nguoi-tram-cam-5093814.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Nỗi oan 'giả vờ, lười biếng' của người trầm cảm",
+      "description": "Có những sáng, Mai, 37 tuổi, cố đi xe máy thật chậm đến cơ quan chỉ vì không đủ can đảm bước lên văn phòng, tim đập nhanh khi nghĩ đến ánh nhìn từ sếp: 'Có tý việc làm mãi không xong, toàn trốn'.",
+      "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/06/2aoboqiqrvehp3fjcuwyhkh49qb97h-3626-6229-1783302742.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=OCRt1Rt20FZ4aTMsSNiD-w",
+      "link": "https://vnexpress.net/noi-oan-gia-vo-luoi-bieng-cua-nguoi-tram-cam-5093814.html",
+      "published_at": "Wed, 08 Jul 2026 06:00:00 +0700",
+      "createAt": "2026-07-07T23:00:00.000Z",
+      "thumbnail_blurhash": "LFBg0l?bfP9Z~qofayRjxuIURjxu"
+    },
+    {
+      "id": "https://vnexpress.net/vi-sao-messi-thuong-xuyen-sut-hong-phat-den-5094775.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Vì sao Messi thường xuyên sút hỏng phạt đền?",
+      "description": "Siêu sao Lionel Messi bỏ lỡ tới hai quả 11 mét tại kỳ giải 2026 và chỉ thành công ở 4 trong 8 pha đá phạt đền trong các lần dự World Cup.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/07/08/truc-tiep-argentina-vs-ai-cap-6217-7492-1783466174.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=pTzmkLDNEFu-G7rGvKxoKw",
+      "link": "https://vnexpress.net/vi-sao-messi-thuong-xuyen-sut-hong-phat-den-5094775.html",
+      "published_at": "Wed, 08 Jul 2026 06:18:01 +0700",
+      "createAt": "2026-07-07T23:18:01.000Z",
+      "thumbnail_blurhash": "L8C7xz9HD=?C?^xWbFRkDeosxtRQ"
+    },
+    {
+      "id": "https://vnexpress.net/my-tap-kich-loat-muc-tieu-o-mien-nam-iran-5094770.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Mỹ tập kích loạt mục tiêu ở miền nam Iran",
+      "description": "Quân đội Mỹ mở loạt không kích nhằm vào các mục tiêu ở phía nam Iran, sau khi nước này bị cáo buộc tấn công tàu qua eo biển Hormuz.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/08/iran-1783465738-6361-1783465890.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=MlNiI02sF9G2BmLKwl5o6Q",
+      "link": "https://vnexpress.net/my-tap-kich-loat-muc-tieu-o-mien-nam-iran-5094770.html",
+      "published_at": "Wed, 08 Jul 2026 06:41:05 +0700",
+      "createAt": "2026-07-07T23:41:05.000Z",
+      "thumbnail_blurhash": "L3A,B^{x0Ll.090hV@+t]evyM|kD"
+    }
+  ]
 }
