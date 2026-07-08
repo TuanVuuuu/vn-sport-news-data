@@ -817,5 +817,31 @@
     "published_at": "Wed, 08 Jul 2026 14:22:38 +0700",
     "createAt": "2026-07-08T07:22:38.000Z",
     "thumbnail_blurhash": "L9Cip?NgFf-V%%?ZtSE1%LWFxXI;"
+  },
+  {
+    "id": "https://vnexpress.net/pham-bang-bang-hoa-bong-hoa-ky-ao-5094936.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Phạm Băng Băng hóa 'bông hoa kỳ ảo'",
+    "description": "Diễn viên Trung Quốc Phạm Băng Băng diện đầm cảm hứng bông hoa ở thế giới siêu thực của Nguyễn Tiến Truyển và Kevin Germanier.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/07/08/top-3-1783496338.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=CL0tr5TJCEN6cokCB5G3RA",
+    "link": "https://vnexpress.net/pham-bang-bang-hoa-bong-hoa-ky-ao-5094936.html",
+    "published_at": "Wed, 08 Jul 2026 15:35:52 +0700",
+    "createAt": "2026-07-08T08:35:52.000Z",
+    "thumbnail_blurhash": "L4Ch.#IA006B3o9}{LZ#;1EL-;-V"
+  },
+  {
+    "id": "https://vnexpress.net/sach-ve-loi-an-tieng-noi-cua-nguoi-viet-5094124.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Sách về lời ăn tiếng nói của người Việt",
+    "description": "Tác giả Lê Minh Quốc phân tích ý nghĩa của một số phương ngữ miền Nam như ''tám hoánh'', ''ví dầu'', trong cuốn ''Tiếng Việt - Từ lời ăn tiếng nói người Việt''.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/07/06/sach-tieng-viet-tu-loi-an-tien-6347-4113-1783333056.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=mB_jSY7MEb-pAzeoqW4uiA",
+    "link": "https://vnexpress.net/sach-ve-loi-an-tieng-noi-cua-nguoi-viet-5094124.html",
+    "published_at": "Wed, 08 Jul 2026 15:57:43 +0700",
+    "createAt": "2026-07-08T08:57:43.000Z",
+    "thumbnail_blurhash": "L6E:ns0f00zpLMR$DQ-:~P0J^jKk"
   }
 ]
