@@ -1233,5 +1233,31 @@
     "published_at": "Wed, 08 Jul 2026 11:00:00 +0700",
     "createAt": "2026-07-08T04:00:00.000Z",
     "thumbnail_blurhash": "LJEL:A00~UR4?wD%oeoJ?Ft6RQxu"
+  },
+  {
+    "id": "https://vnexpress.net/spacex-phong-ve-tinh-hat-nhan-thuong-mai-dau-tien-5094907.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "SpaceX phóng vệ tinh hạt nhân thương mại đầu tiên",
+    "description": "Vệ tinh thương mại đầu tiên sử dụng năng lượng hạt nhân do công ty City Labs chế tạo bay lên quỹ đạo hôm 7/7 trên tên lửa Falcon 9 của SpaceX.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/08/VNEBat-1783482904-7289-1783482998.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Xw436HzIYjrlyfkXsISz8A",
+    "link": "https://vnexpress.net/spacex-phong-ve-tinh-hat-nhan-thuong-mai-dau-tien-5094907.html",
+    "published_at": "Wed, 08 Jul 2026 11:26:27 +0700",
+    "createAt": "2026-07-08T04:26:27.000Z",
+    "thumbnail_blurhash": "LBCPhfRP01IU~qNGIAad0fM{=_xv"
+  },
+  {
+    "id": "https://vnexpress.net/iphone-18-pro-max-lo-dung-luong-pin-5094752.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "iPhone 18 Pro Max lộ dung lượng pin",
+    "description": "Dữ liệu được cho là từ cơ quan kiểm định chất lượng Trung Quốc cho thấy iPhone 18 Pro Max có thể sẽ trang bị viên pin 5.567 mAh, lớn nhất trên các thế hệ iPhone.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/08/iphone-pro-may-resolve-one-178-5176-2074-1783486796.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=mg9bZDEGq3u_lHLAvhhKVA",
+    "link": "https://vnexpress.net/iphone-18-pro-max-lo-dung-luong-pin-5094752.html",
+    "published_at": "Wed, 08 Jul 2026 12:30:36 +0700",
+    "createAt": "2026-07-08T05:30:36.000Z",
+    "thumbnail_blurhash": "L49Y_d-q9@EK}^s;InRj=#t7EKI."
   }
 ]

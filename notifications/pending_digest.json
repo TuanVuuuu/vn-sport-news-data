@@ -1,3 +1,95 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/my-bat-dau-cap-tai-khoan-1-000-usd-cho-tre-em-dau-tu-chung-khoan-5094336.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Mỹ bắt đầu cấp tài khoản 1.000 USD cho trẻ em đầu tư chứng khoán",
+      "description": "Ông Trump cho biết 500.000 trẻ em đã được nhận 1.000 USD vào \"Tài khoản Trump\" để tham gia thị trường chứng khoán và tích lũy tài sản từ nhỏ.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/08/trump-rung-chuo-ng-1783480298-4441-1783480310.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=f6hnEg4JL_K_DDbt-46HiQ",
+      "link": "https://vnexpress.net/my-bat-dau-cap-tai-khoan-1-000-usd-cho-tre-em-dau-tu-chung-khoan-5094336.html",
+      "published_at": "Wed, 08 Jul 2026 10:11:50 +0700",
+      "createAt": "2026-07-08T03:11:50.000Z",
+      "thumbnail_blurhash": "LiIXjP~AVrIA?ZWTS1V@slNGkW%L"
+    },
+    {
+      "id": "https://vnexpress.net/lai-suat-thoa-thuan-cham-moc-9-mot-nam-5094761.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Lãi suất thỏa thuận chạm mốc 9% một năm",
+      "description": "Nhiều ngân hàng gần đây đua nâng lãi suất huy động theo diện thỏa thuận lên 8,5-9% một năm cho khoản tiền gửi từ vài trăm triệu đồng.",
+      "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/08/vpbank-thanhtung12-1783444697-4350-1783445058.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=XtASY8XkSb6iXRFhs4vxPg",
+      "link": "https://vnexpress.net/lai-suat-thoa-thuan-cham-moc-9-mot-nam-5094761.html",
+      "published_at": "Wed, 08 Jul 2026 11:30:47 +0700",
+      "createAt": "2026-07-08T04:30:47.000Z",
+      "thumbnail_blurhash": "LGK1m[8{nP^+~V00IUIU~q-;4:D%"
+    },
+    {
+      "id": "https://vnexpress.net/5-san-bay-tiem-nang-duoc-bo-sung-vao-quy-hoach-5094912.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "5 sân bay tiềm năng được bổ sung vào quy hoạch",
+      "description": "Bộ Xây dựng bổ sung 5 sân bay tiềm năng tại Tuyên Quang, Hà Tĩnh, Quảng Ngãi, Lâm Đồng và Tây Ninh vào quy hoạch để các địa phương nghiên cứu, chuẩn bị điều kiện đầu tư.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/08/huy-1783484186-4191-1783484314.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=-ka61IU-R_g950SvCG3UDg",
+      "link": "https://vnexpress.net/5-san-bay-tiem-nang-duoc-bo-sung-vao-quy-hoach-5094912.html",
+      "published_at": "Wed, 08 Jul 2026 11:35:17 +0700",
+      "createAt": "2026-07-08T04:35:17.000Z",
+      "thumbnail_blurhash": "LfKe4Ytlbvs:yZozW;af-nj[aKkB"
+    },
+    {
+      "id": "https://vnexpress.net/vinfast-dieu-chinh-gia-12-dong-xe-may-dien-5094822.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "VinFast điều chỉnh giá 12 dòng xe máy điện",
+      "description": "Đầu tháng 7, các đại lý VinFast cập nhật giá bán xe máy điện mới trên cơ sở trừ các ưu đãi hiện hành, rẻ nhất 11,6 triệu đồng.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/08/xemayvinfastvnexpressjpg-17834-7803-4161-1783479719.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=FrPaT2b8LIp4gNtJgrJWPQ",
+      "link": "https://vnexpress.net/vinfast-dieu-chinh-gia-12-dong-xe-may-dien-5094822.html",
+      "published_at": "Wed, 08 Jul 2026 11:46:22 +0700",
+      "createAt": "2026-07-08T04:46:22.000Z",
+      "thumbnail_blurhash": "LTJHw5IV-5Td0JIVTJIA~oXToNs+"
+    },
+    {
+      "id": "https://vnexpress.net/cbre-toc-do-tang-gia-chung-cu-cu-o-ha-noi-giam-mot-nua-5094899.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "CBRE: Tốc độ tăng giá chung cư cũ ở Hà Nội giảm một nửa",
+      "description": "Quý II, thị trường chung cư chuyển nhượng ghi nhận tốc độ tăng 13%, bằng một nửa so với mức đỉnh cách đây hai năm, theo CBRE.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/08/dji-d-enhanced-nr-copy-1783481-5419-6628-1783481969.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=LbM9NKjgrLhMlJEcgE7L1A",
+      "link": "https://vnexpress.net/cbre-toc-do-tang-gia-chung-cu-cu-o-ha-noi-giam-mot-nua-5094899.html",
+      "published_at": "Wed, 08 Jul 2026 11:57:44 +0700",
+      "createAt": "2026-07-08T04:57:44.000Z",
+      "thumbnail_blurhash": "LQBNZvRkWBog.Tt6oMay.8Rkj[of"
+    },
+    {
+      "id": "https://vnexpress.net/tra-cuu-diem-thi-danh-gia-vao-7-truong-cong-an-nam-2026-5094953.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Công bố điểm thi đánh giá năng lực 7 trường công an",
+      "description": "Các trường công an đồng loạt thông báo kết quả bài thi đánh giá do Bộ Công an tổ chức, là căn cứ xét tuyển đầu vào.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/08/cand-1783485932-8421-1783485981.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=ihRpZfSDvZ4cUFySUTIU4g",
+      "link": "https://vnexpress.net/tra-cuu-diem-thi-danh-gia-vao-7-truong-cong-an-nam-2026-5094953.html",
+      "published_at": "Wed, 08 Jul 2026 11:58:35 +0700",
+      "createAt": "2026-07-08T04:58:35.000Z",
+      "thumbnail_blurhash": "LNI=JatJ?[%g_L?cx?NX.8%Nnmn%"
+    },
+    {
+      "id": "https://vnexpress.net/quoc-hoi-du-kien-hop-khong-thuong-le-dau-thang-8-5094948.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Quốc hội dự kiến họp không thường lệ đầu tháng 8",
+      "description": "Đầu tháng 8, Quốc hội dự kiến họp không thường lệ để quyết định các nội dung cấp bách, tháo gỡ vướng mắc trong thực tiễn và giảm áp lực cho chương trình lập pháp tại kỳ họp cuối năm.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/08/202607080836442008-z8019172678-1660-8809-1783486967.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=vzH3xxBC7MUJ1x1uqplF1w",
+      "link": "https://vnexpress.net/quoc-hoi-du-kien-hop-khong-thuong-le-dau-thang-8-5094948.html",
+      "published_at": "Wed, 08 Jul 2026 12:03:11 +0700",
+      "createAt": "2026-07-08T05:03:11.000Z",
+      "thumbnail_blurhash": "LGRV2bOvh{-f:zR5t:o$xu%1$*%2"
+    }
+  ]
 }
