@@ -1194,5 +1194,31 @@
     "published_at": "Wed, 08 Jul 2026 16:25:07 +0700",
     "createAt": "2026-07-08T09:25:07.000Z",
     "thumbnail_blurhash": "LC8;iHV[WBof00ofjuae~qWURjfk"
+  },
+  {
+    "id": "https://vnexpress.net/voi-rong-xuat-hien-tren-canh-dong-o-hung-yen-5095053.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Vòi rồng xuất hiện trên cánh đồng ở Hưng Yên",
+    "description": "Một vòi rồng xuất hiện trên cánh đồng ở xã Bình Thanh, kéo dài khoảng hai phút rồi tan dần khi khu vực này mưa lớn, chiều 8/7.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/08/84400a50dc1341a2b1b14ae659bb36-9914-2644-1783503376.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=hWB-wrScrZ2jZcO4DgLmRg&t=image",
+    "link": "https://vnexpress.net/voi-rong-xuat-hien-tren-canh-dong-o-hung-yen-5095053.html",
+    "published_at": "Wed, 08 Jul 2026 17:00:49 +0700",
+    "createAt": "2026-07-08T10:00:49.000Z",
+    "thumbnail_blurhash": "LCH.c@_N-;%MXpRPIUf600RPM{a}"
+  },
+  {
+    "id": "https://vnexpress.net/hai-phuong-an-khac-phuc-cap-ngam-cap-dien-phu-quoc-5095136.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Hai phương án khắc phục cáp ngầm cấp điện Phú Quốc",
+    "description": "Tỉnh An Giang xem xét hai phương án khắc phục cáp ngầm cấp điện Phú Quốc, gồm đường dây vượt biển và nối lại cáp ngầm, sau 8 tháng xảy ra sự cố đứt cáp.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/08/img-1783507052-1582-1783507494.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=lfgSoT5Mtw64sdIFvrHkwg",
+    "link": "https://vnexpress.net/hai-phuong-an-khac-phuc-cap-ngam-cap-dien-phu-quoc-5095136.html",
+    "published_at": "Wed, 08 Jul 2026 17:45:28 +0700",
+    "createAt": "2026-07-08T10:45:28.000Z",
+    "thumbnail_blurhash": "LVDu_oJCI;xa?Kt7R%j]KS$zxCR+"
   }
 ]
