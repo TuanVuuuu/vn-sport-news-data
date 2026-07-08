@@ -115,5 +115,31 @@
     "published_at": "Wed, 08 Jul 2026 10:00:00 +0700",
     "createAt": "2026-07-08T03:00:00.000Z",
     "thumbnail_blurhash": "LtIrjlx^fSt8~VoIROoc$voJWZoc"
+  },
+  {
+    "id": "https://vnexpress.net/tang-huyet-ap-o-tuoi-35-5094796.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Tăng huyết áp ở tuổi 35",
+    "description": "Anh Minh, 35 tuổi, hút thuốc lá gần 20 năm, ngủ khoảng 6 tiếng mỗi ngày, nay đau đầu, nóng bừng mặt, đi khám phát hiện tăng huyết áp.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/08/image001-1783470249-6980-1783470439.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=IWkFMc7oXzbJJ8kspahxcQ",
+    "link": "https://vnexpress.net/tang-huyet-ap-o-tuoi-35-5094796.html",
+    "published_at": "Wed, 08 Jul 2026 11:00:00 +0700",
+    "createAt": "2026-07-08T04:00:00.000Z",
+    "thumbnail_blurhash": "LINmjA00008__4x]-pI99aXn%gxW"
+  },
+  {
+    "id": "https://vnexpress.net/nhiem-trung-ho-hap-kich-hoat-con-hen-phe-quan-cap-5094794.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Nhiễm trùng hô hấp kích hoạt cơn hen phế quản cấp",
+    "description": "Bà Nam, 74 tuổi, khó thở, ho đàm, đau đầu, huyết áp tăng, bác sĩ chẩn đoán do hen phế quản bội nhiễm.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/08/image001-1783474730-7804-1783475053.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=zukiDnz5Iq0cYIDmAJ4Kpw",
+    "link": "https://vnexpress.net/nhiem-trung-ho-hap-kich-hoat-con-hen-phe-quan-cap-5094794.html",
+    "published_at": "Wed, 08 Jul 2026 11:00:00 +0700",
+    "createAt": "2026-07-08T04:00:00.000Z",
+    "thumbnail_blurhash": "LfO3d}E1WU-p_Nt7t8tRxYozX9t7"
   }
 ]
