@@ -1259,5 +1259,44 @@
     "published_at": "Wed, 08 Jul 2026 09:00:00 +0700",
     "createAt": "2026-07-08T02:00:00.000Z",
     "thumbnail_blurhash": "LUL}54-:.99F_NW;oz%2WAoJoMS4"
+  },
+  {
+    "id": "https://vnexpress.net/gia-dau-tang-vang-giam-5094797.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Giá dầu tăng, vàng giảm",
+    "description": "Mỗi thùng dầu tăng gần 3%, trong khi giá vàng thế giới có thời điểm xuống dưới 4.100 USD sáng nay, do Trung Đông căng thẳng trở lại.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/08/image1775812764721-1783472191-5757-1783472195.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=SCuj6yEQWL47tkECk6h3lA",
+    "link": "https://vnexpress.net/gia-dau-tang-vang-giam-5094797.html",
+    "published_at": "Wed, 08 Jul 2026 08:24:11 +0700",
+    "createAt": "2026-07-08T01:24:11.000Z",
+    "thumbnail_blurhash": "LI8}f9XSI;ni_4X9NGr?tSR*nixZ"
+  },
+  {
+    "id": "https://vnexpress.net/nhat-cam-xuat-khau-nhien-lieu-hang-khong-sang-nga-5094807.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Nhật cấm xuất khẩu nhiên liệu hàng không sang Nga",
+    "description": "Nhật Bản thông báo cấm xuất khẩu nhiên liệu máy bay từ nước này sang Nga thông qua quốc gia thứ ba hoặc chuyển giữa các tàu trên biển.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/08/5563187178137269147a-178347349-1560-5484-1783473510.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ALVhcUzsoyu71mEJNjc-Pw",
+    "link": "https://vnexpress.net/nhat-cam-xuat-khau-nhien-lieu-hang-khong-sang-nga-5094807.html",
+    "published_at": "Wed, 08 Jul 2026 09:11:08 +0700",
+    "createAt": "2026-07-08T02:11:08.000Z",
+    "thumbnail_blurhash": "LGC$=yt710XS.A%1xaOYFNt7-BaL"
+  },
+  {
+    "id": "https://vnexpress.net/mot-loi-chao-cua-em-danh-cho-mot-dieu-nghiem-tuc-5094399.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Một lời chào của em dành cho một điều nghiêm túc",
+    "description": "Em không tìm sự hoàn hảo, chỉ mong gặp người tử tế, chân thành, có trách nhiệm với cuộc sống của mình và nghiêm túc trong tình cảm.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/07/GeminiGeneratedImageaskqfwaskq-8807-6371-1783398226.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=j7dTWHRtcHvP0mgeFLMbjQ",
+    "link": "https://vnexpress.net/mot-loi-chao-cua-em-danh-cho-mot-dieu-nghiem-tuc-5094399.html",
+    "published_at": "Wed, 08 Jul 2026 09:12:53 +0700",
+    "createAt": "2026-07-08T02:12:53.000Z",
+    "thumbnail_blurhash": "LGMZ8OD6D4E,HD=sIA5WIH${xqnm"
   }
 ]

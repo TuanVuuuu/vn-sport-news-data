@@ -1194,5 +1194,31 @@
     "published_at": "Wed, 08 Jul 2026 05:00:00 +0700",
     "createAt": "2026-07-07T22:00:00.000Z",
     "thumbnail_blurhash": "L79@Fz-s00~70@16#iwsMJ~U?H4o"
+  },
+  {
+    "id": "https://vnexpress.net/giai-bai-toan-doanh-nghiep-chi-tim-den-dai-hoc-mua-tuyen-dung-5094186.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Giải bài toán 'doanh nghiệp chỉ tìm đến đại học mùa tuyển dụng'",
+    "description": "Muốn doanh nghiệp không chỉ tìm đến đại học vào \"mùa tuyển dụng\", nhà trường cần cởi mở, đưa ra mô hình mang lại lợi ích cho cả hai phía, theo PGS.TS Phùng Trung Nghĩa.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/06/pgs-ts-phung-trung-nghia-dai-h-3594-2620-1783346981.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=gm_ytNmplBnKHo636GLh3g",
+    "link": "https://vnexpress.net/giai-bai-toan-doanh-nghiep-chi-tim-den-dai-hoc-mua-tuyen-dung-5094186.html",
+    "published_at": "Wed, 08 Jul 2026 08:51:16 +0700",
+    "createAt": "2026-07-08T01:51:16.000Z",
+    "thumbnail_blurhash": "L6Gv8_vD4AGpC-Rh%~4:2b5i}?^+"
+  },
+  {
+    "id": "https://vnexpress.net/deepseek-co-the-dang-phat-trien-chip-ai-rieng-5094753.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "DeepSeek có thể đang phát triển chip AI riêng",
+    "description": "DeepSeek, startup AI của Trung Quốc, được cho là đang âm thầm tự thiết kế chip bán dẫn riêng nhằm giảm sự phụ thuộc vào Nvidia và Huawei.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/07/dsc09984-jpg-1783439799-3365-1783439845.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=V8BFxoaQd_3vPsxSK1r2qA",
+    "link": "https://vnexpress.net/deepseek-co-the-dang-phat-trien-chip-ai-rieng-5094753.html",
+    "published_at": "Wed, 08 Jul 2026 10:00:00 +0700",
+    "createAt": "2026-07-08T03:00:00.000Z",
+    "thumbnail_blurhash": "LEH.Z:?c00tQX8D%M}%g00xu.Aoh"
   }
 ]
