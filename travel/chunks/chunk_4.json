@@ -882,5 +882,31 @@
     "published_at": "Wed, 08 Jul 2026 00:00:00 +0700",
     "createAt": "2026-07-07T17:00:00.000Z",
     "thumbnail_blurhash": "L~IYqoxuafof?ds.afoMxuoIa}j["
+  },
+  {
+    "id": "https://vnexpress.net/4-bai-bien-mien-bac-cho-khach-nghi-he-tranh-dong-duc-5091072.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "4 bãi biển miền Bắc cho khách nghỉ hè tránh đông đúc",
+    "description": "Nam Sầm Sơn, Bãi Đông, Xuân Thành và Kỳ Xuân là 4 bãi biển nhận được các đánh giá tốt từ nhiều diễn đàn du lịch nhờ cảnh sắc và không gian bình yên, ít chen chúc, ồn ào.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/07/03/nam-ss-1783066533-9689-1783073949.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=B1a1j3JqaCz_OLcDy72KWg",
+    "link": "https://vnexpress.net/4-bai-bien-mien-bac-cho-khach-nghi-he-tranh-dong-duc-5091072.html",
+    "published_at": "Wed, 08 Jul 2026 10:32:35 +0700",
+    "createAt": "2026-07-08T03:32:35.000Z",
+    "thumbnail_blurhash": "LwFGX,XnIVj]%%NLs;jY-;Rjs:j]"
+  },
+  {
+    "id": "https://vnexpress.net/diem-den-xanh-mat-giua-ngay-he-o-ha-noi-5089236.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Điểm đến xanh mát giữa ngày hè ở Hà Nội",
+    "description": "Công viên Mễ Trì rộng hơn 14 ha trở thành nơi cắm trại, vui chơi, trốn nóng cho du khách người dân nhờ không gian xanh, thoáng.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/07/08/dsc01471-1783486925.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ZvP8axFTlSuGa8_Lii2FZw",
+    "link": "https://vnexpress.net/diem-den-xanh-mat-giua-ngay-he-o-ha-noi-5089236.html",
+    "published_at": "Wed, 08 Jul 2026 11:53:23 +0700",
+    "createAt": "2026-07-08T04:53:23.000Z",
+    "thumbnail_blurhash": "L~LE.;ofR,of-@fRbFj]MwWVj?ay"
   }
 ]
