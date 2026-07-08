@@ -1155,5 +1155,44 @@
     "published_at": "Wed, 08 Jul 2026 19:00:00 +0700",
     "createAt": "2026-07-08T12:00:00.000Z",
     "thumbnail_blurhash": "LRAwrgogIqa~.Aj]WFkCIoayxYoL"
+  },
+  {
+    "id": "https://vnexpress.net/nga-tap-kich-nha-may-linh-kien-ten-lua-flamingo-cua-ukraine-5095108.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Nga tập kích 'nhà máy linh kiện tên lửa Flamingo' của Ukraine",
+    "description": "Nga thông báo tấn công nhà máy Samsung-Ukraine tại thủ đô Kiev, cho rằng đây là nơi chế tạo linh kiện cho tên lửa hành trình FP-5 Flamingo.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/08/Zit7MlIik4gKOWuVSub01-17835027-7326-3971-1783502843.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=Bz8_9COnVAf7ngY1c9ML3g&t=image",
+    "link": "https://vnexpress.net/nga-tap-kich-nha-may-linh-kien-ten-lua-flamingo-cua-ukraine-5095108.html",
+    "published_at": "Wed, 08 Jul 2026 19:54:40 +0700",
+    "createAt": "2026-07-08T12:54:40.000Z",
+    "thumbnail_blurhash": "L9A8=H=a0~1J5SxZ$%Nb0~AD^5}X"
+  },
+  {
+    "id": "https://vnexpress.net/iran-cong-bo-khoanh-khac-phong-ten-lua-ve-phia-can-cu-my-5095161.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Iran công bố khoảnh khắc phóng tên lửa về phía căn cứ Mỹ",
+    "description": "Iran công bố video phóng tên lửa nhằm vào căn cứ Mỹ ở Kuwait và Bahrain, đáp trả việc Washington không kích các mục tiêu của nước này.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/08/downloadt191552-1783512989-5578-1783513395.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=UNdcp7IRhjiXvGL8Pchc4g",
+    "link": "https://vnexpress.net/iran-cong-bo-khoanh-khac-phong-ten-lua-ve-phia-can-cu-my-5095161.html",
+    "published_at": "Wed, 08 Jul 2026 20:00:30 +0700",
+    "createAt": "2026-07-08T13:00:30.000Z",
+    "thumbnail_blurhash": "L-I}n:I=WBt6.Ts:WBoMxbxZoeWE"
+  },
+  {
+    "id": "https://vnexpress.net/iran-dap-tra-tuyen-bo-lenh-ngung-ban-da-het-cua-ong-trump-5095170.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Iran đáp trả tuyên bố 'lệnh ngừng bắn đã hết' của ông Trump",
+    "description": "Iran cho rằng các phần chủ chốt trong bản ghi nhớ đã vô hiệu sau tuyên bố của ông Trump, cảnh báo Mỹ về \"hậu quả nguy hiểm\" từ việc này.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/08/afp-aa-v1-midres-spokespersonf-4198-4944-1783516612.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=0VswP8M-K-dCuVGDIwThIQ",
+    "link": "https://vnexpress.net/iran-dap-tra-tuyen-bo-lenh-ngung-ban-da-het-cua-ong-trump-5095170.html",
+    "published_at": "Wed, 08 Jul 2026 20:27:34 +0700",
+    "createAt": "2026-07-08T13:27:34.000Z",
+    "thumbnail_blurhash": "LVCi?$~U%MkC%iozWTaxI;IoNFkB"
   }
 ]
