@@ -1025,5 +1025,44 @@
     "published_at": "Wed, 08 Jul 2026 11:58:35 +0700",
     "createAt": "2026-07-08T04:58:35.000Z",
     "thumbnail_blurhash": "LNI=JatJ?[%g_L?cx?NX.8%Nnmn%"
+  },
+  {
+    "id": "https://vnexpress.net/nam-sinh-thau-tom-ba-ngoi-thu-khoa-o-phu-tho-5093703.html",
+    "category_id": "education",
+    "category_name": "Giáo dục",
+    "source": "VnExpress",
+    "title": "Nam sinh 'thâu tóm' ba ngôi thủ khoa ở Phú Thọ",
+    "description": "Tự học 3-4 tiếng mỗi tối và gần như không vào mạng xã hội, Duy Vinh 'thâu tóm' ba vị trí thủ khoa thi tốt nghiệp của tỉnh.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/05/phutho-1783240052-9659-1783240104.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=-bDo04j06K-hf-aOstuaxQ",
+    "link": "https://vnexpress.net/nam-sinh-thau-tom-ba-ngoi-thu-khoa-o-phu-tho-5093703.html",
+    "published_at": "Wed, 08 Jul 2026 11:03:00 +0700",
+    "createAt": "2026-07-08T04:03:00.000Z",
+    "thumbnail_blurhash": "LMGkXPEM?En~~UofNHba-nWBbcof"
+  },
+  {
+    "id": "https://vnexpress.net/diem-san-dai-hoc-kinh-te-tp-hcm-la-65-100-5094991.html",
+    "category_id": "education",
+    "category_name": "Giáo dục",
+    "source": "VnExpress",
+    "title": "Điểm sàn Đại học Kinh tế TP HCM là 65/100",
+    "description": "Tất cả ngành, chương trình đào tạo tại cơ sở chính của Đại học Kinh tế TP HCM cùng lấy điểm sàn 65/100, theo cách xét tổng hợp.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/08/thi-1783492666-5495-1783492725.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=R9L4ZS6-E2NMu9vj0IDjfg",
+    "link": "https://vnexpress.net/diem-san-dai-hoc-kinh-te-tp-hcm-la-65-100-5094991.html",
+    "published_at": "Wed, 08 Jul 2026 13:54:14 +0700",
+    "createAt": "2026-07-08T06:54:14.000Z",
+    "thumbnail_blurhash": "L9HeB~N24?0100-:%M_L00DixmMw"
+  },
+  {
+    "id": "https://vnexpress.net/diem-san-dai-hoc-cong-nghe-thong-tin-cao-nhat-23-5095000.html",
+    "category_id": "education",
+    "category_name": "Giáo dục",
+    "source": "VnExpress",
+    "title": "Điểm sàn Đại học Công nghệ Thông tin cao nhất 23",
+    "description": "Điểm sàn hầu hết ngành của trường Đại học Công nghệ Thông tin là 22, riêng Thiết kế vi mạch lấy 23 điểm.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/08/739496722-n-1783494987-7737-1783495043.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=C_4pz8rj4FgO7LHMpztsVg",
+    "link": "https://vnexpress.net/diem-san-dai-hoc-cong-nghe-thong-tin-cao-nhat-23-5095000.html",
+    "published_at": "Wed, 08 Jul 2026 14:29:00 +0700",
+    "createAt": "2026-07-08T07:29:00.000Z",
+    "thumbnail_blurhash": "LJGlM0_NE2-;8^%Mt7IU0JW=xaRQ"
   }
 ]
