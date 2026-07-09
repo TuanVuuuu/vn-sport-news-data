@@ -1,11 +1,12 @@
 {
-  "total_articles": 500,
+  "total_articles": 503,
   "files": [
     "chunk_1.json",
     "chunk_2.json",
     "chunk_3.json",
     "chunk_4.json",
-    "chunk_5.json"
+    "chunk_5.json",
+    "chunk_6.json"
   ],
   "channel": {
     "title": "Giáo dục - VnExpress RSS",
@@ -14,7 +15,7 @@
     "copyright": "",
     "logo_url": "https://s.vnecdn.net/vnexpress/i/v20/logos/vne_logo_rss.png",
     "link": "https://vnexpress.net/rss/giao-duc.rss",
-    "last_updated": "Thu, 09 Jul 2026 19:47:03 +0700"
+    "last_updated": "Thu, 09 Jul 2026 21:21:05 +0700"
   },
-  "last_updated": "2026-07-09T14:41:09.374Z"
+  "last_updated": "2026-07-09T14:51:17.442Z"
 }
