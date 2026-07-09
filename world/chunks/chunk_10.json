@@ -1259,5 +1259,44 @@
     "published_at": "Thu, 09 Jul 2026 06:27:09 +0700",
     "createAt": "2026-07-08T23:27:09.000Z",
     "thumbnail_blurhash": "LuIg1MWY=_xG}=R*$%s.oea#NHay"
+  },
+  {
+    "id": "https://vnexpress.net/nga-chi-trich-cam-ket-cua-nato-voi-ukraine-5095210.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Nga chỉ trích cam kết của NATO với Ukraine",
+    "description": "Bộ Ngoại giao Nga chỉ trích các quyết định viện trợ quân sự cho Ukraine của NATO là \"vô trách nhiệm\" và có thể dẫn tới thảm họa.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/09/1466379-1783554245-2579-1783554637.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=kl0xoP10dOlbHyX-1iMurA",
+    "link": "https://vnexpress.net/nga-chi-trich-cam-ket-cua-nato-voi-ukraine-5095210.html",
+    "published_at": "Thu, 09 Jul 2026 07:19:02 +0700",
+    "createAt": "2026-07-09T00:19:02.000Z",
+    "thumbnail_blurhash": "LgMt54xu_M%M~WWVS5ofN_j?VsWC"
+  },
+  {
+    "id": "https://vnexpress.net/nato-vach-ke-hoach-thay-phi-doi-may-bay-mat-than-cua-my-5095100.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "NATO vạch kế hoạch thay phi đội 'máy bay mắt thần' của Mỹ",
+    "description": "NATO sẽ đàm phán để mua loạt máy bay cảnh báo sớm GlobalEye, thay thế những phi cơ E-3A đời cũ do Mỹ sản xuất.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/08/GlobalEye-1783507768-6708-1783508496.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=Y0OnXy8tIeLz3JUqc_uLwQ",
+    "link": "https://vnexpress.net/nato-vach-ke-hoach-thay-phi-doi-may-bay-mat-than-cua-my-5095100.html",
+    "published_at": "Thu, 09 Jul 2026 07:43:31 +0700",
+    "createAt": "2026-07-09T00:43:31.000Z",
+    "thumbnail_blurhash": "LjG9:VozR.ofL4WCWCfkR:jraxa}"
+  },
+  {
+    "id": "https://vnexpress.net/tai-xe-lao-to-bi-canh-sat-thai-lan-phat-vi-re-o-noi-duoc-phep-re-5095032.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Tài xế Lào tố bị cảnh sát Thái Lan phạt vì 'rẽ ở nơi được phép rẽ'",
+    "description": "Tài xế Lào cáo buộc cảnh sát giao thông ở Bangkok chặn xe và phạt tiền vì lỗi rẽ trái, dù anh tuân thủ đúng vạch kẻ đường.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/08/thaigercoverpicture20260708t13-2096-4519-1783510082.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=e79Hg4g_UHfDTVxH0KaLog",
+    "link": "https://vnexpress.net/tai-xe-lao-to-bi-canh-sat-thai-lan-phat-vi-re-o-noi-duoc-phep-re-5095032.html",
+    "published_at": "Thu, 09 Jul 2026 07:45:00 +0700",
+    "createAt": "2026-07-09T00:45:00.000Z",
+    "thumbnail_blurhash": "L5Ci{z9D9r~pEL%frqxaIT%MkDof"
   }
 ]
