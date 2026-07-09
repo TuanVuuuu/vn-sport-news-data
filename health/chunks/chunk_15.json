@@ -830,5 +830,44 @@
     "published_at": "Thu, 09 Jul 2026 16:00:00 +0700",
     "createAt": "2026-07-09T09:00:00.000Z",
     "thumbnail_blurhash": "L8HBF]%y000C~RX5RX-W2IkX00v{"
+  },
+  {
+    "id": "https://vnexpress.net/who-du-bao-35-trieu-ca-ung-thu-vao-nam-2050-5095469.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "WHO dự báo 35 triệu ca ung thư vào năm 2050",
+    "description": "Tổ chức Y tế Thế giới (WHO) cảnh báo số ca mắc ung thư mới trên toàn cầu sẽ chạm mốc 35 triệu vào năm 2050, tăng 77% so với mức 20 triệu ca của năm 2022.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/09/anh-1783586559-1374-1783586656.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=A3_4eD3QUq2j-uF4Ftv4Vw",
+    "link": "https://vnexpress.net/who-du-bao-35-trieu-ca-ung-thu-vao-nam-2050-5095469.html",
+    "published_at": "Thu, 09 Jul 2026 16:24:55 +0700",
+    "createAt": "2026-07-09T09:24:55.000Z",
+    "thumbnail_blurhash": "L9GuguF#00004;-:-:tS00D$~W_4"
+  },
+  {
+    "id": "https://vnexpress.net/an-gi-co-the-giam-mo-noi-tang-5095392.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Ăn gì có thể giảm mỡ nội tạng?",
+    "description": "Bông cải xanh, trứng và cá hồi giàu chất xơ, protein, chất béo không bão hòa hỗ trợ kiểm soát cân nặng và giảm mỡ nội tạng.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/09/fff11b38-dd84e5c1ab6f4136eb61-4762-7954-1783573205.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=_Tl4wLKpuuqAljdSYG_08w",
+    "link": "https://vnexpress.net/an-gi-co-the-giam-mo-noi-tang-5095392.html",
+    "published_at": "Thu, 09 Jul 2026 17:00:00 +0700",
+    "createAt": "2026-07-09T10:00:00.000Z",
+    "thumbnail_blurhash": "LHIEng~qozozR5RitRxuV@NG9FM_"
+  },
+  {
+    "id": "https://vnexpress.net/loi-ich-khi-dung-giam-tao-truoc-khi-ngu-5095292.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Lợi ích khi dùng giấm táo trước khi ngủ",
+    "description": "Sử dụng giấm táo cho bữa ăn tối, trước khi đi ngủ có thể cải thiện tiêu hóa, hỗ trợ ổn định đường huyết và giúp ngủ ngon hơn.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/09/gemini-generated-image-uyps0iu-4546-6584-1783565618.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=SLSLYcGZCGeBQee5yzkEzw",
+    "link": "https://vnexpress.net/loi-ich-khi-dung-giam-tao-truoc-khi-ngu-5095292.html",
+    "published_at": "Thu, 09 Jul 2026 17:00:00 +0700",
+    "createAt": "2026-07-09T10:00:00.000Z",
+    "thumbnail_blurhash": "LVI50p00tlof~qD%WXWqI=M|Rjoz"
   }
 ]
