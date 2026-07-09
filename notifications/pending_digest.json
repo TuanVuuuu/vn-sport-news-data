@@ -1,3 +1,121 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/dien-bien-hop-bao-ve-diem-toan-truong-thpt-chuyen-tuyen-quang-chieu-9-7-cap-nhat-chi-tiet-5093916.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Chiều nay Tuyên Quang thông báo kết quả điều tra vụ điểm 10 Toán bất thường",
+      "description": "Tỉnh Tuyên Quang sẽ cung cấp kết quả điều tra, xác minh và quá trình xử lý về vụ điểm Toán bất thường tại trường THPT chuyên, vào chiều nay.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/09/2aoboqilkxyzkd1ahgjaabelesbiho-4735-1831-1783565705.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=uTB0mv2sqhEfIlOyO4J8RA",
+      "link": "https://vnexpress.net/dien-bien-hop-bao-ve-diem-toan-truong-thpt-chuyen-tuyen-quang-chieu-9-7-cap-nhat-chi-tiet-5093916.html",
+      "published_at": "Thu, 09 Jul 2026 10:11:40 +0700",
+      "createAt": "2026-07-09T03:11:40.000Z",
+      "thumbnail_blurhash": "LbKvgZ%1J8xZKjoLofWWG^kCsmS4"
+    },
+    {
+      "id": "https://vnexpress.net/duong-pho-hai-phong-ngap-sau-mua-lon-5095283.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Đường phố Hải Phòng ngập sau mưa lớn",
+      "description": "Từ 5h đến 7h30 ngày 9/7, Hải Phòng mưa khoảng 130 mm, nước sông Tam Bạc, Cấm dâng cao khiến nhiều tuyến đường và khu dân cư ngập sâu nhất 50 cm.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/09/1783562543343-d47132d23ee9863a41b300ae6bfbe585-1783573843.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=momx6MA5CaY-puP2VSWhNA",
+      "link": "https://vnexpress.net/duong-pho-hai-phong-ngap-sau-mua-lon-5095283.html",
+      "published_at": "Thu, 09 Jul 2026 11:12:28 +0700",
+      "createAt": "2026-07-09T04:12:28.000Z",
+      "thumbnail_blurhash": "LRFiPq~q%Nx]%MxuIUInofj]WUj="
+    },
+    {
+      "id": "https://vnexpress.net/bo-noi-vu-trinh-chinh-sach-tien-luong-moi-trong-nam-2027-5095291.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Bộ Nội vụ trình chính sách tiền lương mới trong năm 2027",
+      "description": "Bộ Nội vụ đang nghiên cứu chính sách tiền lương mới thay thế Nghị quyết 27 năm 2018, dự kiến trình Hội nghị Trung ương 5 vào năm 2027.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/09/congchucdanang-1783570718-3984-1783570736.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=jt4_u8MGIqrWKGQ1xE4oZg",
+      "link": "https://vnexpress.net/bo-noi-vu-trinh-chinh-sach-tien-luong-moi-trong-nam-2027-5095291.html",
+      "published_at": "Thu, 09 Jul 2026 11:19:21 +0700",
+      "createAt": "2026-07-09T04:19:21.000Z",
+      "thumbnail_blurhash": "LOGIca~W9F00I.WXogogemIUNGxu"
+    },
+    {
+      "id": "https://vnexpress.net/khoanh-khac-ten-lua-iran-lao-xuong-tru-so-ham-doi-my-5095275.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Khoảnh khắc tên lửa Iran lao xuống 'trụ sở hạm đội Mỹ'",
+      "description": "Video mới công bố cho thấy tên lửa đạn đạo lao xuống \"trụ sở Hạm đội 5 hải quân Mỹ\" ở Bahrain trong đòn trả đũa của Iran.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/09/GzMNSWm9t4WOJsF1-1783565636-6778-1783565882.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=9WhQHbgTLnyDwMLBYA3tUQ&t=image",
+      "link": "https://vnexpress.net/khoanh-khac-ten-lua-iran-lao-xuong-tru-so-ham-doi-my-5095275.html",
+      "published_at": "Thu, 09 Jul 2026 11:19:52 +0700",
+      "createAt": "2026-07-09T04:19:52.000Z",
+      "thumbnail_blurhash": "L02FPut7s;j]9wjZNGju-BWXs:fk"
+    },
+    {
+      "id": "https://vnexpress.net/vi-sao-vom-nhiet-o-chau-au-nam-nay-cuc-doan-hon-5095347.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Vì sao vòm nhiệt ở châu Âu năm nay cực đoan hơn?",
+      "description": "Bầu khí quyển nóng lên, băng ở Bắc Cực tan, khiến vòm nhiệt năm nay trải rộng khắp châu Âu, 18 thủ đô đi qua ba ngày nóng nhất lịch sử với hàng loạt kỷ lục nhiệt độ bị phá vỡ.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/09/thumbnailngang-1783567604-6708-1783569525.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=MPino_54jniGbgUPKHvALg",
+      "link": "https://vnexpress.net/vi-sao-vom-nhiet-o-chau-au-nam-nay-cuc-doan-hon-5095347.html",
+      "published_at": "Thu, 09 Jul 2026 11:30:00 +0700",
+      "createAt": "2026-07-09T04:30:00.000Z",
+      "thumbnail_blurhash": "LDJ~r_8{D$}^00-%JO0}*N=#tnti"
+    },
+    {
+      "id": "https://vnexpress.net/nguoi-gaza-xem-world-cup-giua-dong-do-nat-5095287.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Người Gaza xem World Cup giữa đống đổ nát",
+      "description": "Trên dải đất bị chiến sự tàn phá những năm qua, đám đông tập trung trước màn chiếu lớn để theo dõi các trận đấu World Cup của đội tuyển Ai Cập.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/09/afp-mei-pse-yfan-gevcy-v1-highres-gazaegyptvictorycelebr-1783572726.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=M5u9S6RvG-M9AfY7C3yRMg",
+      "link": "https://vnexpress.net/nguoi-gaza-xem-world-cup-giua-dong-do-nat-5095287.html",
+      "published_at": "Thu, 09 Jul 2026 11:54:38 +0700",
+      "createAt": "2026-07-09T04:54:38.000Z",
+      "thumbnail_blurhash": "L97-QRm,n5~p.8D*M{-:D*SzX8My"
+    },
+    {
+      "id": "https://vnexpress.net/tuyen-bo-huy-ngung-ban-voi-iran-day-ong-trump-vao-the-luong-nan-5095227.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Tuyên bố hủy ngừng bắn với Iran đẩy ông Trump vào thế lưỡng nan",
+      "description": "Việc chấm dứt ngừng bắn với Iran đẩy Tổng thống Trump vào thế mắc kẹt giữa nguy cơ xung đột kéo dài và áp lực cạn kho dự trữ dầu trong nước.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/09/AFP20260709radeckanatosumm2607-9925-8013-1783569234.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=s7YA0-u9lxb4iXjp4RCIzA",
+      "link": "https://vnexpress.net/tuyen-bo-huy-ngung-ban-voi-iran-day-ong-trump-vao-the-luong-nan-5095227.html",
+      "published_at": "Thu, 09 Jul 2026 11:56:41 +0700",
+      "createAt": "2026-07-09T04:56:41.000Z",
+      "thumbnail_blurhash": "LD8rOV-sGwL4?vx]E0Iox]ozRORj"
+    },
+    {
+      "id": "https://vnexpress.net/messi-hay-ronaldo-sut-phat-den-gioi-hon-5095134.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Messi hay Ronaldo sút phạt đền giỏi hơn?",
+      "description": "Hiệu quả sút phạt đền của Lionel Messi thấp hơn đáng kể so với Cristiano Ronaldo, nhưng nếu chỉ xét riêng ở cấp đội tuyển quốc gia, cục diện lại khác.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/07/08/messi-ronaldo-1783519187-7958-1783519215.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=I213LJbF2gTpc6UQgowv2w",
+      "link": "https://vnexpress.net/messi-hay-ronaldo-sut-phat-den-gioi-hon-5095134.html",
+      "published_at": "Thu, 09 Jul 2026 12:00:00 +0700",
+      "createAt": "2026-07-09T05:00:00.000Z",
+      "thumbnail_blurhash": "LHH2sEIn9F~V00kD%1NF4TRPt5M{"
+    },
+    {
+      "id": "https://vnexpress.net/ngoi-nha-hai-tang-o-bac-ninh-do-sap-5095391.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Ngôi nhà hai tầng ở Bắc Ninh đổ sập",
+      "description": "Ngôi nhà hai tầng trên đường Lê Lợi, phường Bắc Giang đổ sập khi công trình liền kề đang được phá dỡ để chuẩn bị xây mới, sáng 9/7.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/09/1783571382766-fea0a63c483fe161-9993-5743-1783572879.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=lnvgjZrElLtTkjY_G07rmg",
+      "link": "https://vnexpress.net/ngoi-nha-hai-tang-o-bac-ninh-do-sap-5095391.html",
+      "published_at": "Thu, 09 Jul 2026 12:22:33 +0700",
+      "createAt": "2026-07-09T05:22:33.000Z",
+      "thumbnail_blurhash": "L8D9xAt30JRR_NRi4nIV~pNHD%xZ"
+    }
+  ]
 }
