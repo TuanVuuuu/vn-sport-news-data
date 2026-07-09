@@ -1077,5 +1077,44 @@
     "published_at": "Thu, 09 Jul 2026 15:14:03 +0700",
     "createAt": "2026-07-09T08:14:03.000Z",
     "thumbnail_blurhash": "LDF5sy4nyC9t00?HE1Nd~W%LIpX9"
+  },
+  {
+    "id": "https://vnexpress.net/tp-hcm-van-hanh-nen-tang-ai-ket-noi-nha-dau-tu-5095476.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "TP HCM vận hành nền tảng AI kết nối nhà đầu tư",
+    "description": "TP HCM thử nghiệm nền tảng ứng dụng AI để kết nối nhà đầu tư với khoảng 250 dự án, định hướng và hỗ trợ theo thời gian thực.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/09/dsc05609-lo-n-jpeg-1783585552-1684-1783586724.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=1JRgIVIOpunyND3yde57Kg",
+    "link": "https://vnexpress.net/tp-hcm-van-hanh-nen-tang-ai-ket-noi-nha-dau-tu-5095476.html",
+    "published_at": "Thu, 09 Jul 2026 15:45:51 +0700",
+    "createAt": "2026-07-09T08:45:51.000Z",
+    "thumbnail_blurhash": "L,NTwOgPyC%g?ws*W?o0s:skM|jF"
+  },
+  {
+    "id": "https://vnexpress.net/ap-luc-ban-de-nang-chung-khoan-5095507.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Áp lực bán đè nặng chứng khoán",
+    "description": "Hơn 200 cổ phiếu trên sàn HoSE bị nhuộm đỏ, trong đó có nhiều mã trụ, tạo thành áp lực chính khiến chỉ số VN-Index sụt 13 điểm.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/09/233a7509-1783585458-5427-1783585529.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=qTYpMzpwccnbu0dba3vubA",
+    "link": "https://vnexpress.net/ap-luc-ban-de-nang-chung-khoan-5095507.html",
+    "published_at": "Thu, 09 Jul 2026 16:01:11 +0700",
+    "createAt": "2026-07-09T09:01:11.000Z",
+    "thumbnail_blurhash": "LMBWfG_Nx[My9FD%Rjt7InRPWAbI"
+  },
+  {
+    "id": "https://vnexpress.net/uob-nang-du-bao-tang-truong-viet-nam-len-8-5-5095466.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "UOB nâng dự báo tăng trưởng Việt Nam lên 8,5%",
+    "description": "UOB nâng dự báo GDP Việt Nam năm nay lên 8,5% nhờ kinh tế nửa đầu năm vượt kỳ vọng, giá năng lượng hạ nhiệt và động lực AI mạnh mẽ.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/09/huy-1783586086-8589-1783586236.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=RtNxuguFMyykPU4at7Fa-A",
+    "link": "https://vnexpress.net/uob-nang-du-bao-tang-truong-viet-nam-len-8-5-5095466.html",
+    "published_at": "Thu, 09 Jul 2026 16:25:24 +0700",
+    "createAt": "2026-07-09T09:25:24.000Z",
+    "thumbnail_blurhash": "L584Sl9XI9yF?wE1ITxwn.S2xBag"
   }
 ]
