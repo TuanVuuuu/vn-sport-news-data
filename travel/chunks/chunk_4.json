@@ -1038,5 +1038,31 @@
     "published_at": "Thu, 09 Jul 2026 11:30:00 +0700",
     "createAt": "2026-07-09T04:30:00.000Z",
     "thumbnail_blurhash": "L]LWkWIVf+of~WaLWDoexuxZWCaz"
+  },
+  {
+    "id": "https://vnexpress.net/mien-co-tich-tren-doi-che-hinh-bat-up-o-phu-tho-5093779.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "'Miền cổ tích' trên đồi chè hình bát úp ở Phú Thọ",
+    "description": "Những ngày cuối hè, đồi chè Long Cốc ẩn hiện trong màn sương, được ví đẹp như \"miền cổ tích\", thu hút các tay máy đến săn bình minh.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/07/06/CNT6888-copy-1783273309.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ZqUxix8FsDaWKjCvr4W6Lg",
+    "link": "https://vnexpress.net/mien-co-tich-tren-doi-che-hinh-bat-up-o-phu-tho-5093779.html",
+    "published_at": "Thu, 09 Jul 2026 07:20:11 +0700",
+    "createAt": "2026-07-09T00:20:11.000Z",
+    "thumbnail_blurhash": "LQB3lzW=Rloe~SW=R+oe-nWXWCj["
+  },
+  {
+    "id": "https://vnexpress.net/trang-an-bai-dinh-duoc-vinh-danh-tai-giai-thuong-du-lich-viet-5095571.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Tràng An, Bái Đính được vinh danh tại giải thưởng du lịch Việt",
+    "description": "Nhiều điểm đến nổi tiếng của Ninh Bình như Tràng An, Bái Đính, Tam Cốc được vinh danh trong lễ trao Giải thưởng du lịch Việt Nam 2026 hôm nay.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/07/09/trang-an-jpg-1783590885-5410-1783591297.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=kr5qXylQojs2zPOb5TikRw",
+    "link": "https://vnexpress.net/trang-an-bai-dinh-duoc-vinh-danh-tai-giai-thuong-du-lich-viet-5095571.html",
+    "published_at": "Thu, 09 Jul 2026 19:57:59 +0700",
+    "createAt": "2026-07-09T12:57:59.000Z",
+    "thumbnail_blurhash": "LGE-?iwGGFw[ApTJ56NI*J$e=wWA"
   }
 ]

@@ -154,5 +154,31 @@
     "published_at": "Thu, 09 Jul 2026 19:06:59 +0700",
     "createAt": "2026-07-09T12:06:59.000Z",
     "thumbnail_blurhash": "LGHoE[~pD*-:?C%3D*t600IT-;Ri"
+  },
+  {
+    "id": "https://vnexpress.net/41-doanh-nghiep-kho-tich-hop-ai-vao-he-thong-hien-co-5095564.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "41% doanh nghiệp khó tích hợp AI vào hệ thống hiện có",
+    "description": "Nghiên cứu do FPT phối hợp với Forrester Consulting cho thấy gần nửa số doanh nghiệp được khảo sát gặp khó khăn khi tích hợp AI vào hệ thống hiện hữu.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/09/screenshot-at-1783598994-9443-1783599021.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=D_z00WOC8k1HntpGw-bawg",
+    "link": "https://vnexpress.net/41-doanh-nghiep-kho-tich-hop-ai-vao-he-thong-hien-co-5095564.html",
+    "published_at": "Thu, 09 Jul 2026 20:30:00 +0700",
+    "createAt": "2026-07-09T13:30:00.000Z",
+    "thumbnail_blurhash": "LvCtO^xHVuW?%%a$V[bIKjShoeo0"
+  },
+  {
+    "id": "https://vnexpress.net/tap-trung-nguon-luc-phat-trien-ai-robot-uav-5095494.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "'Tập trung nguồn lực phát triển AI, robot, UAV'",
+    "description": "Tổng Bí thư, Chủ tịch nước Tô Lâm yêu cầu tập trung nguồn lực làm chủ công nghệ chiến lược, tạo ra sản phẩm cụ thể trong các lĩnh vực như AI, dữ liệu lớn, robot, UAV và chip bán dẫn.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/09/2aoboqhiyw11rjvd0gy4rjfpbf5az6-4561-1919-1783587644.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=3y_EeM7tMzxSbH5bAOroHw",
+    "link": "https://vnexpress.net/tap-trung-nguon-luc-phat-trien-ai-robot-uav-5095494.html",
+    "published_at": "Thu, 09 Jul 2026 20:30:52 +0700",
+    "createAt": "2026-07-09T13:30:52.000Z",
+    "thumbnail_blurhash": "LcJZJH~A$vxZ^NofI=azoba}R-jY"
   }
 ]
