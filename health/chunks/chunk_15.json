@@ -596,5 +596,44 @@
     "published_at": "Thu, 09 Jul 2026 09:44:50 +0700",
     "createAt": "2026-07-09T02:44:50.000Z",
     "thumbnail_blurhash": "LOI=6smt_N.7#tInx]nls=NYV_M{"
+  },
+  {
+    "id": "https://vnexpress.net/bac-si-nhat-chi-cach-ngoi-xom-giup-ha-duong-huyet-sau-bua-an-5095101.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Bác sĩ Nhật chỉ cách ngồi xổm giúp hạ đường huyết sau bữa ăn",
+    "description": "Chỉ cần dành hai phút thực hiện bài tập squat chậm ngay sau bữa ăn, bạn có thể kích thích các khối cơ lớn ở chi dưới để ngăn lượng đường trong máu tăng vọt, theo bác sĩ Nhật.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/09/00-1783530048-2772-1783530184.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=QIfiuRsjjhk_8fsy-PVHjQ",
+    "link": "https://vnexpress.net/bac-si-nhat-chi-cach-ngoi-xom-giup-ha-duong-huyet-sau-bua-an-5095101.html",
+    "published_at": "Thu, 09 Jul 2026 10:00:00 +0700",
+    "createAt": "2026-07-09T03:00:00.000Z",
+    "thumbnail_blurhash": "LVK1ai=s_2%g^+RP%Lx]_NM{bbt7"
+  },
+  {
+    "id": "https://vnexpress.net/tang-huyet-ap-kich-phat-do-roi-loan-lo-au-5095234.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Tăng huyết áp kịch phát do rối loạn lo âu",
+    "description": "Chị Vân, 46 tuổi, ba lần tăng huyết áp kịch phát sau phẫu thuật u tuyến thượng thận, bác sĩ xác định mắc rối loạn lo âu.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/09/image001-1783557713-9701-1783557746.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=s9-5ul7mRp3diXSOgI4EMQ",
+    "link": "https://vnexpress.net/tang-huyet-ap-kich-phat-do-roi-loan-lo-au-5095234.html",
+    "published_at": "Thu, 09 Jul 2026 10:00:00 +0700",
+    "createAt": "2026-07-09T03:00:00.000Z",
+    "thumbnail_blurhash": "LaNAY1MaS%tS?dIBW9g4IbIYMzXQ"
+  },
+  {
+    "id": "https://vnexpress.net/vi-sao-uong-nuoc-chanh-buoi-sang-giup-giam-can-5095226.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Vì sao uống nước chanh buổi sáng giúp giảm cân?",
+    "description": "Uống nước chanh vào buổi sáng có thể giúp giữ cho cơ thể đủ nước, bớt cảm giác thèm đồ ngọt, no lâu, hỗ trợ giảm lượng calo nạp vào.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/09/a-nh-ma-n-hi-nh-lu-1783556873-5108-1783556903.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=fYwsdyXQtRlG4U_TwFW1jA",
+    "link": "https://vnexpress.net/vi-sao-uong-nuoc-chanh-buoi-sang-giup-giam-can-5095226.html",
+    "published_at": "Thu, 09 Jul 2026 10:00:00 +0700",
+    "createAt": "2026-07-09T03:00:00.000Z",
+    "thumbnail_blurhash": "LTLNl8_2%hIu~qIURj%M%NW;M_t6"
   }
 ]
