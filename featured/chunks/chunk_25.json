@@ -1090,5 +1090,44 @@
     "published_at": "Fri, 10 Jul 2026 02:00:00 +0700",
     "createAt": "2026-07-09T19:00:00.000Z",
     "thumbnail_blurhash": "LDEB?mPER517F~rpxr-m57VrkDM{"
+  },
+  {
+    "id": "https://vnexpress.net/dong-chay-thu-tuc-hanh-chinh-sau-mot-nam-tinh-gon-5094576.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "'Dòng chảy' thủ tục hành chính sau một năm tinh gọn",
+    "description": "Trong hơn 4.700 thủ tục hành chính công công khai trên Cổng dịch vụ công Quốc gia, Bộ Tài chính là cơ quan đảm nhiệm nhiều thủ tục nhất. Trong khi, Bộ Công an tiếp nhận nhiều nhiệm vụ, chức năng mới nhất.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/09/20260709settop-1783530951-4767-1783530964.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=q24UTu_JFBotLoX_w14nxQ",
+    "link": "https://vnexpress.net/dong-chay-thu-tuc-hanh-chinh-sau-mot-nam-tinh-gon-5094576.html",
+    "published_at": "Fri, 10 Jul 2026 05:00:00 +0700",
+    "createAt": "2026-07-09T22:00:00.000Z",
+    "thumbnail_blurhash": "LMQv,ubc~V~W_1s:WYa}w?WBM}Rj"
+  },
+  {
+    "id": "https://vnexpress.net/mbappe-pha-them-ky-luc-world-cup-5095662.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Mbappe phá thêm kỷ lục World Cup",
+    "description": "Tuyệt phẩm vào lưới Morocco ở tứ kết giúp Kylian Mbappe trở thành cầu thủ đầu tiên ghi từ 8 bàn trở lên ở hai kỳ World Cup liên tiếp.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/07/10/mbappe-1783636731-9930-1783637024.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=_ozIGjq31xoGXiYFpwCFGw",
+    "link": "https://vnexpress.net/mbappe-pha-them-ky-luc-world-cup-5095662.html",
+    "published_at": "Fri, 10 Jul 2026 05:50:03 +0700",
+    "createAt": "2026-07-09T22:50:03.000Z",
+    "thumbnail_blurhash": "L5Dcd+,2019l00P2%|-e8=$,lCOK"
+  },
+  {
+    "id": "https://vnexpress.net/thu-khoa-dai-hoc-cong-nghe-so-huu-3-cong-bo-quoc-te-ve-ai-5094316.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Thủ khoa Đại học Công nghệ sở hữu 3 công bố quốc tế về AI",
+    "description": "Coi việc học như một 'trò chơi dài hạn', Minh Hiển kiên trì theo đuổi Tin-Sinh học, phân tích dữ liệu y sinh bằng AI, trở thành thủ khoa Đại học Công nghệ cùng 3 công bố quốc tế.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/07/hieenr-1783390090-6159-1783390126.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=xTdEu4AUyvdRv_kvzWBurw",
+    "link": "https://vnexpress.net/thu-khoa-dai-hoc-cong-nghe-so-huu-3-cong-bo-quoc-te-ve-ai-5094316.html",
+    "published_at": "Fri, 10 Jul 2026 05:50:48 +0700",
+    "createAt": "2026-07-09T22:50:48.000Z",
+    "thumbnail_blurhash": "LIE3bl^+004n00Mx_4%3D+ITnm%M"
   }
 ]
