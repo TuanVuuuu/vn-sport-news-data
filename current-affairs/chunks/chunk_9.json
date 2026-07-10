@@ -570,5 +570,31 @@
     "published_at": "Fri, 10 Jul 2026 12:15:18 +0700",
     "createAt": "2026-07-10T05:15:18.000Z",
     "thumbnail_blurhash": "L8IERa}+020-00S%=x^MIBE3xY?F"
+  },
+  {
+    "id": "https://vnexpress.net/hang-tram-ho-dan-phan-ung-vi-tien-dien-tang-cao-bat-thuong-5095849.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Hàng trăm hộ dân phản ứng vì tiền điện tăng cao bất thường",
+    "description": "Nhiều hộ dân tại xã Quảng Bình phản ánh tiền điện tháng 6 tăng gấp 2-3 lần dù mức dùng không đổi, buộc chính quyền tổ chức đối thoại và thống nhất kiểm định công tơ.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/10/dien-1783658771-6634-1783658912.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=8r3dCr646vHA6ph8xOvngA",
+    "link": "https://vnexpress.net/hang-tram-ho-dan-phan-ung-vi-tien-dien-tang-cao-bat-thuong-5095849.html",
+    "published_at": "Fri, 10 Jul 2026 12:35:56 +0700",
+    "createAt": "2026-07-10T05:35:56.000Z",
+    "thumbnail_blurhash": "LC8;uw%%ES?wo*W]IXIUIWbKn-Mx"
+  },
+  {
+    "id": "https://vnexpress.net/5-be-gai-tu-vong-duoi-ho-o-lam-dong-5095865.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "5 bé gái tử vong dưới hồ ở Lâm Đồng",
+    "description": "Năm học sinh Trường THCS Nâm N'Đir, xã Nâm Nung, đã tử vong khi rủ nhau đi tắm tại hồ Y Thịnh vào sáng 10/7.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/10/1783662501794e6e909c13f25937b3-1816-4790-1783662580.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=BVWPJo8SFpUC5PH1xKabkw",
+    "link": "https://vnexpress.net/5-be-gai-tu-vong-duoi-ho-o-lam-dong-5095865.html",
+    "published_at": "Fri, 10 Jul 2026 12:49:40 +0700",
+    "createAt": "2026-07-10T05:49:40.000Z",
+    "thumbnail_blurhash": "LsHed{aJaxj?.TRjjrkC-;ozjYof"
   }
 ]
