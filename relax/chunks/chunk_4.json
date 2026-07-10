@@ -63,5 +63,31 @@
     "published_at": "Fri, 10 Jul 2026 08:58:36 +0700",
     "createAt": "2026-07-10T01:58:36.000Z",
     "thumbnail_blurhash": "L8CG70~q000001WU%1NxDi4:xZo#"
+  },
+  {
+    "id": "https://vnexpress.net/thu-gian-do-chu-choi-chu-tieng-viet-tu-tieng-viet-nao-kho-viet-khien-nguoi-lon-cung-de-nham-5095729.html",
+    "category_id": "relax",
+    "category_name": "Thư giãn",
+    "source": "VnExpress",
+    "title": "Từ tiếng Việt nào khó viết, khiến người lớn cũng dễ nhầm?",
+    "description": "Có một từ rất ngắn nhưng lại khiến không ít người viết sai vì cấu tạo lắt léo, bạn có đoán ra đó là từ tiếng Việt nào không?",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/10/gemini-generated-image-r9atctr-8238-5952-1783650430.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=qSQEYHl-LPwOKmVBA_r_7w",
+    "link": "https://vnexpress.net/thu-gian-do-chu-choi-chu-tieng-viet-tu-tieng-viet-nao-kho-viet-khien-nguoi-lon-cung-de-nham-5095729.html",
+    "published_at": "Fri, 10 Jul 2026 10:31:00 +0700",
+    "createAt": "2026-07-10T03:31:00.000Z",
+    "thumbnail_blurhash": "LaOz9|_NRPt2-=V@WAxvx]adx[RQ"
+  },
+  {
+    "id": "https://vnexpress.net/xiu-mai-hay-xi-mai-mon-an-quen-ten-nhung-rat-de-viet-sai-5094892.html",
+    "category_id": "relax",
+    "category_name": "Thư giãn",
+    "source": "VnExpress",
+    "title": "Xíu mại hay xí mại: Món ăn quen tên nhưng rất dễ viết sai",
+    "description": "Nghe quen tai, gọi quen miệng nhưng không phải ai cũng viết đúng tên món ăn này, bạn chọn “xíu mại” hay “xí mại”?",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/10/gemini-generated-image-f85jq7f-1478-8936-1783656375.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=4gRjl1w7xSfPDE0VHacMiA",
+    "link": "https://vnexpress.net/xiu-mai-hay-xi-mai-mon-an-quen-ten-nhung-rat-de-viet-sai-5094892.html",
+    "published_at": "Fri, 10 Jul 2026 12:00:00 +0700",
+    "createAt": "2026-07-10T05:00:00.000Z",
+    "thumbnail_blurhash": "L6H1D2.8q@9unM56}k-m16pK}m0L"
   }
 ]
