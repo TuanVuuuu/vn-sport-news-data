@@ -115,5 +115,44 @@
     "published_at": "Fri, 10 Jul 2026 05:50:03 +0700",
     "createAt": "2026-07-09T22:50:03.000Z",
     "thumbnail_blurhash": "L5Dcd+,2019l00P2%|-e8=$,lCOK"
+  },
+  {
+    "id": "https://vnexpress.net/phap-vs-morocco-5095617-tong-thuat.html",
+    "category_id": "sports",
+    "category_name": "Thể thao",
+    "source": "VnExpress",
+    "title": "Mbappe giúp Pháp thắng Morocco ở tứ kết World Cup",
+    "description": "Tiền đạo Kylian Mbappe ghi dấu giày vào hai bàn thắng, trong đó có tuyệt phẩm giúp Pháp hạ Morocco 2-0 trong trận tứ kết World Cup 2026.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/07/10/mbappe-1783634424-9666-1783634490.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=y7GSVAZSY1pweNES5jAulw",
+    "link": "https://vnexpress.net/phap-vs-morocco-5095617-tong-thuat.html",
+    "published_at": "Fri, 10 Jul 2026 02:00:00 +0700",
+    "createAt": "2026-07-09T19:00:00.000Z",
+    "thumbnail_blurhash": "L8DcU8xwV@R40FxARoN5~Gnlog.3"
+  },
+  {
+    "id": "https://vnexpress.net/mbappe-kho-khan-lon-nhat-con-o-phia-truoc-5095665.html",
+    "category_id": "sports",
+    "category_name": "Thể thao",
+    "source": "VnExpress",
+    "title": "Mbappe: 'Khó khăn lớn nhất còn ở phía trước'",
+    "description": "Thủ quân Kylian Mbappe cho rằng đội tuyển Pháp chưa có gì để ăn mừng dù vừa đánh bại Morocco 2-0 để giành vé vào bán kết World Cup 2026.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/07/10/mbappe-1783638487-3940-1783638642.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=0EJpJi2nAejW0X-8F0ijyA",
+    "link": "https://vnexpress.net/mbappe-kho-khan-lon-nhat-con-o-phia-truoc-5095665.html",
+    "published_at": "Fri, 10 Jul 2026 06:33:48 +0700",
+    "createAt": "2026-07-09T23:33:48.000Z",
+    "thumbnail_blurhash": "LiJkG_?cS5%L}=oHRjnixuIoM{f6"
+  },
+  {
+    "id": "https://vnexpress.net/vi-sao-mbappe-phai-cho-hon-3-phut-truoc-khi-da-phat-den-5095671.html",
+    "category_id": "sports",
+    "category_name": "Thể thao",
+    "source": "VnExpress",
+    "title": "Vì sao Mbappe phải chờ hơn 3 phút trước khi đá phạt đền?",
+    "description": "Ngay cả tiền đạo Erling Haaland cũng phàn nàn vì Kylian Mbappe phải chờ lâu hơn bình thường trước khi đá hỏng phạt đền trong trận tứ kết World Cup 2026 giữa Pháp và Morocco.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/07/10/bono-1783639895-8158-1783640187.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=-Yngqxb7UqXWYgDE9IJRnA",
+    "link": "https://vnexpress.net/vi-sao-mbappe-phai-cho-hon-3-phut-truoc-khi-da-phat-den-5095671.html",
+    "published_at": "Fri, 10 Jul 2026 06:48:46 +0700",
+    "createAt": "2026-07-09T23:48:46.000Z",
+    "thumbnail_blurhash": "L6C%sC=~wQ%f~pQ_RVtQnTID-obW"
   }
 ]
