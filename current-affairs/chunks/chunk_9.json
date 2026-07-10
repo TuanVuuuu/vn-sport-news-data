@@ -492,5 +492,31 @@
     "published_at": "Fri, 10 Jul 2026 09:30:13 +0700",
     "createAt": "2026-07-10T02:30:13.000Z",
     "thumbnail_blurhash": "LQFY[et6WA-=.ARiWAozx^Rit7og"
+  },
+  {
+    "id": "https://vnexpress.net/bao-ba-vi-giam-hai-cap-5095751.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Bão Ba Vì giảm hai cấp",
+    "description": "Siêu bão Ba Vì đã giảm từ cấp 16 xuống 14, đang tiến về đất liền Trung Quốc và tiếp tục gây gió mạnh cấp 6, biển động trên nhiều vùng biển Việt Nam.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/10/screenshot-1783650834-6696-1783650920.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=W2OOqt4vU0kalUEqafRXTQ",
+    "link": "https://vnexpress.net/bao-ba-vi-giam-hai-cap-5095751.html",
+    "published_at": "Fri, 10 Jul 2026 09:51:58 +0700",
+    "createAt": "2026-07-10T02:51:58.000Z",
+    "thumbnail_blurhash": "LEB;~_JaAy:-V,N6oIwaKfnUjJXx"
+  },
+  {
+    "id": "https://vnexpress.net/ha-noi-quy-hoach-mo-hinh-lang-trong-pho-pho-trong-lang-the-nao-5095052.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Hà Nội quy hoạch mô hình 'làng trong phố, phố trong làng' thế nào?",
+    "description": "Hà Nội định hướng hai mô hình phát triển không gian mới gồm \"làng trong phố, phố trong làng\" và \"rừng trong phố, phố trong rừng\" nhằm tăng diện tích cây xanh, bảo tồn làng truyền thống.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/09/duonglam1-1783563956-8232-1783568429.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=tgyHNAGcOQ6jAZHoYijNDA",
+    "link": "https://vnexpress.net/ha-noi-quy-hoach-mo-hinh-lang-trong-pho-pho-trong-lang-the-nao-5095052.html",
+    "published_at": "Fri, 10 Jul 2026 10:04:28 +0700",
+    "createAt": "2026-07-10T03:04:28.000Z",
+    "thumbnail_blurhash": "LAE33P0200~m4mIT-=IVNg-;xt4o"
   }
 ]
