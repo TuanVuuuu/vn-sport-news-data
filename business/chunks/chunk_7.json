@@ -1272,5 +1272,31 @@
     "published_at": "Fri, 10 Jul 2026 09:00:00 +0700",
     "createAt": "2026-07-10T02:00:00.000Z",
     "thumbnail_blurhash": "LdKA4dIpE2s.nORjW=Rk~AWBofjt"
+  },
+  {
+    "id": "https://vnexpress.net/gia-ve-xem-world-cup-giam-manh-sau-khi-bo-dao-nha-va-chu-nha-my-bi-loai-5095590.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Giá vé xem World Cup giảm mạnh sau khi Bồ Đào Nha và chủ nhà Mỹ bị loại",
+    "description": "Sau khi Mỹ và đội của Cristiano Ronaldo lần lượt bị loại, thị trường giá vé xem các trận còn lại của World Cup 2026 đã biến động mạnh.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/09/portugalusacopy-1783594015-1958-1783594182.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Rw7AKyp2iPKDQDgV8OkDIw",
+    "link": "https://vnexpress.net/gia-ve-xem-world-cup-giam-manh-sau-khi-bo-dao-nha-va-chu-nha-my-bi-loai-5095590.html",
+    "published_at": "Thu, 09 Jul 2026 20:38:16 +0700",
+    "createAt": "2026-07-09T13:38:16.000Z",
+    "thumbnail_blurhash": "LLF5Bq=wI-JX~U-mjEnNJ7%NkDnj"
+  },
+  {
+    "id": "https://vnexpress.net/hang-hoa-online-dat-dan-len-5094208.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Hàng hóa online đắt dần lên",
+    "description": "Giá hàng hóa trên các sàn online tăng dần và có lúc đắt hơn offline, do người bán chịu áp lực chi phí đầu vào, vận hành và phí sàn.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/07/box1-1783409936-3482-1783411465.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=he_tCDK9VWQ2t4Ndx6EA-g",
+    "link": "https://vnexpress.net/hang-hoa-online-dat-dan-len-5094208.html",
+    "published_at": "Fri, 10 Jul 2026 11:18:11 +0700",
+    "createAt": "2026-07-10T04:18:11.000Z",
+    "thumbnail_blurhash": "LsOyITnhaJkD~VWoM|jENHo1s.W="
   }
 ]
