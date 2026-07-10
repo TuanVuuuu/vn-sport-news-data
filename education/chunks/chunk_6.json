@@ -89,5 +89,31 @@
     "published_at": "Fri, 10 Jul 2026 10:49:27 +0700",
     "createAt": "2026-07-10T03:49:27.000Z",
     "thumbnail_blurhash": "LFJbEY_N.7^*00X5t7V@00I:ROSi"
+  },
+  {
+    "id": "https://vnexpress.net/cong-an-xac-minh-nghi-van-gian-lan-thi-tot-nghiep-o-quang-tri-5095808.html",
+    "category_id": "education",
+    "category_name": "Giáo dục",
+    "source": "VnExpress",
+    "title": "Công an xác minh nghi vấn gian lận thi tốt nghiệp ở Quảng Trị",
+    "description": "Sở Giáo dục cho biết lập tổ công tác đặc biệt, phối hợp công an để xác minh nghi vấn giám thị chỉ bài cho thí sinh ở trường THPT Lê Trực.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/10/3-1783656323-7524-1783656365.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=vfwmkZ01oqI2T4dyfOfrfw",
+    "link": "https://vnexpress.net/cong-an-xac-minh-nghi-van-gian-lan-thi-tot-nghiep-o-quang-tri-5095808.html",
+    "published_at": "Fri, 10 Jul 2026 11:24:32 +0700",
+    "createAt": "2026-07-10T04:24:32.000Z",
+    "thumbnail_blurhash": "LNHy5qxbt9xas?bb%%o#obt7tmt7"
+  },
+  {
+    "id": "https://vnexpress.net/diem-san-dai-hoc-cong-nghiep-tp-hcm-16-20-5095802.html",
+    "category_id": "education",
+    "category_name": "Giáo dục",
+    "source": "VnExpress",
+    "title": "Điểm sàn Đại học Công nghiệp TP HCM 16-20",
+    "description": "Dược và nhóm Luật là các ngành lấy điểm sàn cao nhất Đại học Công nghiệp TP HCM với 20 điểm trong năm đầu xét tuyển kết hợp.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/10/thitotnghiepthpt-1783656846-9124-1783657205.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=sHQpIIS1Zq8Vaejbk5W-kw",
+    "link": "https://vnexpress.net/diem-san-dai-hoc-cong-nghiep-tp-hcm-16-20-5095802.html",
+    "published_at": "Fri, 10 Jul 2026 12:12:42 +0700",
+    "createAt": "2026-07-10T05:12:42.000Z",
+    "thumbnail_blurhash": "LRLWw{-=M}t8ui-:xtofW9ozNHf+"
   }
 ]
