@@ -1,3 +1,30 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/hai-cau-thu-phap-nhan-diem-5-trong-tran-thang-moroco-5095713.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Hai cầu thủ Pháp nhận điểm 5 trong trận thắng Moroco",
+      "description": "Michael Olise, Jules Kounde nhận điểm 5, còn Kylian Mbappe chỉ được chấm 7 điểm từ báo L'Équipe trong trận Pháp thắng Morocco 2-0 ở tứ kết World Cup 2026.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/07/10/mbappe-1783648922-6577-1783649019.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=vOpS7TaWksIoeNOGptWr3g",
+      "link": "https://vnexpress.net/hai-cau-thu-phap-nhan-diem-5-trong-tran-thang-moroco-5095713.html",
+      "published_at": "Fri, 10 Jul 2026 11:03:13 +0700",
+      "createAt": "2026-07-10T04:03:13.000Z",
+      "thumbnail_blurhash": "L9C6}sbcHXng*ujcjEg3?$so%gbw"
+    },
+    {
+      "id": "https://vnexpress.net/cong-an-xac-minh-nghi-van-gian-lan-thi-tot-nghiep-o-quang-tri-5095808.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Công an xác minh nghi vấn gian lận thi tốt nghiệp ở Quảng Trị",
+      "description": "Sở Giáo dục cho biết lập tổ công tác đặc biệt, phối hợp công an để xác minh nghi vấn giám thị chỉ bài cho thí sinh ở trường THPT Lê Trực.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/10/3-1783656323-7524-1783656365.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=vfwmkZ01oqI2T4dyfOfrfw",
+      "link": "https://vnexpress.net/cong-an-xac-minh-nghi-van-gian-lan-thi-tot-nghiep-o-quang-tri-5095808.html",
+      "published_at": "Fri, 10 Jul 2026 11:24:32 +0700",
+      "createAt": "2026-07-10T04:24:32.000Z",
+      "thumbnail_blurhash": "LNHog_xbt9t7s?bb%%o#fht8tmt7"
+    }
+  ]
 }
