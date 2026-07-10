@@ -1,3 +1,121 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/sinner-djokovic-lan-cuoi-cua-mot-huyen-thoai-5095873.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Sinner - Djokovic: Lần cuối của một huyền thoại?",
+      "description": "Novak Djokovic tái đấu tay vợt số một thế giới Jannik Sinner ở bán kết Wimbledon 2026, trên hành trình chinh phục Grand Slam thứ 25.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/07/10/ap26188797194875-1783662687-4957-1783663118.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=9qN0HVQLZONn9bdt06GIYg",
+      "link": "https://vnexpress.net/sinner-djokovic-lan-cuoi-cua-mot-huyen-thoai-5095873.html",
+      "published_at": "Fri, 10 Jul 2026 14:31:54 +0700",
+      "createAt": "2026-07-10T07:31:54.000Z",
+      "thumbnail_blurhash": "L2EML0_I00_N0DDlMy?b3t?t?ZMc"
+    },
+    {
+      "id": "https://vnexpress.net/chua-huong-giai-toa-loat-hang-quan-tu-phat-5095990.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Chùa Hương giải tỏa loạt hàng quán tự phát",
+      "description": "UBND xã Hương Sơn chỉnh trang Khu di tích quốc gia đặc biệt Chùa Hương, tháo dỡ 64 điểm kinh doanh tự phát và nghiên cứu quy hoạch lại khu vực dịch vụ.",
+      "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/07/10/2aOboQjMjWYp49qkzLGV9AZehbSbmZ-5440-5333-1783677741.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=AeQ8qiVcxfXiJ0mzhEnLUw",
+      "link": "https://vnexpress.net/chua-huong-giai-toa-loat-hang-quan-tu-phat-5095990.html",
+      "published_at": "Fri, 10 Jul 2026 17:14:45 +0700",
+      "createAt": "2026-07-10T10:14:45.000Z",
+      "thumbnail_blurhash": "LKFO}w_3E1WA_3-=D%M{_M-pMxIn"
+    },
+    {
+      "id": "https://vnexpress.net/tuong-quan-truoc-tran-tay-ban-nha-bi-5095947.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Tương quan trước trận Tây Ban Nha - Bỉ",
+      "description": "Lamine Yamal và đồng đội được kỳ vọng tiếp tục khẳng định vị thế ông lớn, khi chạm trán Bỉ ở tứ kết World Cup 2026.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/07/10/TBN-Bi-1783671695.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=xhnFk0t17vWQyV6DbxnEsQ",
+      "link": "https://vnexpress.net/tuong-quan-truoc-tran-tay-ban-nha-bi-5095947.html",
+      "published_at": "Fri, 10 Jul 2026 17:43:23 +0700",
+      "createAt": "2026-07-10T10:43:23.000Z",
+      "thumbnail_blurhash": "LkNllYOHKNRq?^t6aKt3lAxCrrs*"
+    },
+    {
+      "id": "https://vnexpress.net/tai-san-cua-ong-nguyen-dang-quang-xuong-duoi-1-ty-usd-5095917.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Tài sản của ông Nguyễn Đăng Quang xuống dưới 1 tỷ USD",
+      "description": "Khối tài của ông Nguyễn Đăng Quang, Chủ tịch Masan Group, hiện ở mức 990 triệu USD, giảm hơn 100 triệu USD so với đầu năm, do cổ phiếu MSN đi xuống.",
+      "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/10/ong-nguyen-dang-quang-chu-tich-9586-9004-1783671876.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=aWSnq0fo5G03FE-zn_l05w",
+      "link": "https://vnexpress.net/tai-san-cua-ong-nguyen-dang-quang-xuong-duoi-1-ty-usd-5095917.html",
+      "published_at": "Fri, 10 Jul 2026 17:46:54 +0700",
+      "createAt": "2026-07-10T10:46:54.000Z",
+      "thumbnail_blurhash": "L?DUAjotXVkX.To#WUkDtQkAadob"
+    },
+    {
+      "id": "https://vnexpress.net/ketelaere-tu-than-dong-quan-vot-den-hy-vong-moi-cua-bi-5095930.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Ketelaere - từ thần đồng quần vợt đến hy vọng mới của Bỉ",
+      "description": "Từng là thần đồng quần vợt, Charles De Ketelaere chuyển sang bóng đá, vượt ám ảnh chấn thương và thất bại tại AC Milan để trở thành niềm hy vọng mới của tuyển Bỉ trước trận gặp Tây Ban Nha ở tứ kết World Cup 2026.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/07/10/ap26188012134968-1783670475-3951-1783671046.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=5sVbmE0-wYbP7MOGqF-exA",
+      "link": "https://vnexpress.net/ketelaere-tu-than-dong-quan-vot-den-hy-vong-moi-cua-bi-5095930.html",
+      "published_at": "Fri, 10 Jul 2026 17:50:19 +0700",
+      "createAt": "2026-07-10T10:50:19.000Z",
+      "thumbnail_blurhash": "L8E2-7w|00?d0gx^.AD$Q-%No}RO"
+    },
+    {
+      "id": "https://vnexpress.net/trung-quoc-thu-hoi-thanh-cong-ten-lua-tai-su-dung-5095997.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Trung Quốc thu hồi thành công tên lửa tái sử dụng",
+      "description": "Trung Quốc thử nghiệm thành công hệ thống thu hồi tên lửa bằng lưới gắn vào giàn nổi trên biển nhằm cạnh tranh với Mỹ trong lĩnh vực tên lửa tái sử dụng.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/10/RocketOKezgifcomvideotogifconv-6074-4376-1783679481.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=KTz7nW2Zg4Zyam-qU2A5FQ&t=image",
+      "link": "https://vnexpress.net/trung-quoc-thu-hoi-thanh-cong-ten-lua-tai-su-dung-5095997.html",
+      "published_at": "Fri, 10 Jul 2026 17:53:36 +0700",
+      "createAt": "2026-07-10T10:53:36.000Z",
+      "thumbnail_blurhash": "LHDJ-O%gtm%#_Ni{M|ae?utQoxtQ"
+    },
+    {
+      "id": "https://vnexpress.net/hlv-park-hang-seo-duoc-goi-dieu-tran-truoc-quoc-hoi-han-quoc-5096021.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "HLV Park Hang-seo được gọi điều trần trước Quốc hội Hàn Quốc",
+      "description": "Cựu HLV đội tuyển Việt Nam Park Hang-seo nằm trong số 23 nhân vật được triệu tập đến phiên điều trần trước Quốc hội Hàn Quốc liên quan đến thất bại tại World Cup 2026.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/07/10/screenshot-at-1783680769-5952-1783680928.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=MVyGhfH6NRmZyIPmxzUbSQ",
+      "link": "https://vnexpress.net/hlv-park-hang-seo-duoc-goi-dieu-tran-truoc-quoc-hoi-han-quoc-5096021.html",
+      "published_at": "Fri, 10 Jul 2026 18:06:30 +0700",
+      "createAt": "2026-07-10T11:06:30.000Z",
+      "thumbnail_blurhash": "LIE{b0_M9aIW^%o}xZRP?HtRD%I9"
+    },
+    {
+      "id": "https://vnexpress.net/bi-va-vet-thuong-long-cua-tay-ban-nha-o-world-cup-1986-5095991.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Bỉ và vết thương lòng của Tây Ban Nha ở World Cup 1986",
+      "description": "40 năm trước, Tây Ban Nha từng gục ngã trên loạt luân lưu trước Bỉ - đối thủ mà thầy trò Luis de la Fuente chuẩn bị chạm trán, cũng ở tứ kết World Cup.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/07/10/screenshot20260710162902-17836-6040-1245-1783683554.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=HHVKFPObDfgHZOUOlaaUOQ",
+      "link": "https://vnexpress.net/bi-va-vet-thuong-long-cua-tay-ban-nha-o-world-cup-1986-5095991.html",
+      "published_at": "Fri, 10 Jul 2026 18:09:41 +0700",
+      "createAt": "2026-07-10T11:09:41.000Z",
+      "thumbnail_blurhash": "L9EfTi%MM{of~qj[j[t7WBof%Mof"
+    },
+    {
+      "id": "https://vnexpress.net/vi-sao-tay-ban-nha-giu-sach-luoi-o-world-cup-2026-5096010.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Vì sao Tây Ban Nha giữ sạch lưới ở World Cup 2026?",
+      "description": "Nhờ một Unai Simon thăng hoa trước cầu môn và hàng thủ gắn kết, Tây Ban Nha vẫn chưa để thủng lưới tại World Cup 2026, với tổng số bàn thắng kỳ vọng (xG) của các đối thủ qua năm trận chỉ là 1,54.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/07/10/ap26187761324977-1783679176-8116-1783679434.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ExSTX0fxO2QHrVb0zD7tXw",
+      "link": "https://vnexpress.net/vi-sao-tay-ban-nha-giu-sach-luoi-o-world-cup-2026-5096010.html",
+      "published_at": "Fri, 10 Jul 2026 18:21:36 +0700",
+      "createAt": "2026-07-10T11:21:36.000Z",
+      "thumbnail_blurhash": "LDG91}*0%$?c@UOrXRsl-uaLn4n~"
+    }
+  ]
 }
