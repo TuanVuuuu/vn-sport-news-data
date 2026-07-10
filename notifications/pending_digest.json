@@ -1,3 +1,56 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/ga-t1-san-bay-tan-son-nhat-duoc-dinh-huong-xay-moi-5096014.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Ga T1 sân bay Tân Sơn Nhất được định hướng xây mới",
+      "description": "Ga nội địa T1 Tân Sơn Nhất được định hướng xây mới toàn bộ, tích hợp đường ngầm nối nhà xe TCP và ga T3, nhằm tăng năng lực khai thác và kết nối trong sân bay.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/10/nhaga30481605746739-1783680475-2989-1783680481.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=fQLsv1FAaQMi17D1MQzEKw",
+      "link": "https://vnexpress.net/ga-t1-san-bay-tan-son-nhat-duoc-dinh-huong-xay-moi-5096014.html",
+      "published_at": "Sat, 11 Jul 2026 06:00:00 +0700",
+      "createAt": "2026-07-10T23:00:00.000Z",
+      "thumbnail_blurhash": "LCE2^Dt6.9~pOkxvw1RiD$ohELWA"
+    },
+    {
+      "id": "https://vnexpress.net/vi-sao-hinh-thuc-mua-truoc-tra-sau-kiem-hang-ty-usd-du-cho-vay-0-5095970.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Vì sao hình thức 'mua trước trả sau' kiếm hàng tỷ USD dù cho vay 0%?",
+      "description": "Chỉ với vài chục nghìn đồng, người dùng có thể mua món hàng trị giá vài trăm nghìn mà không phải trả lãi, trong khi các nền tảng \"mua trước trả sau\" vẫn thu về hàng tỷ USD nhờ cơ chế giao dịch với người bán.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/10/thumbnailngang-1783674583-1588-1783674672.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=NZd6Pub_Stv3j6u0nKaXeQ",
+      "link": "https://vnexpress.net/vi-sao-hinh-thuc-mua-truoc-tra-sau-kiem-hang-ty-usd-du-cho-vay-0-5095970.html",
+      "published_at": "Sat, 11 Jul 2026 06:00:00 +0700",
+      "createAt": "2026-07-10T23:00:00.000Z",
+      "thumbnail_blurhash": "LOH{Ka8}5Y?]0C$%TK9w5F%1jDM}"
+    },
+    {
+      "id": "https://vnexpress.net/co-don-sinh-benh-o-tuoi-gia-5093838.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Cô đơn sinh bệnh ở tuổi già",
+      "description": "Hết ca trực, bác sĩ Đoàn Dư Mạnh vẫn chưa rời bệnh án cụ bà 75 tuổi nhập viện với huyết áp vọt trên 180/120 mmHg.",
+      "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/08/td5-1783387582-1889-1783475271.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=NAwoRtqpl-9wcpkTeyx_6w",
+      "link": "https://vnexpress.net/co-don-sinh-benh-o-tuoi-gia-5093838.html",
+      "published_at": "Sat, 11 Jul 2026 06:00:00 +0700",
+      "createAt": "2026-07-10T23:00:00.000Z",
+      "thumbnail_blurhash": "LQCP^va%9ao~.TohNGS6JBkDWYR."
+    },
+    {
+      "id": "https://vnexpress.net/djorkaeff-ronaldo-bi-bo-dao-nha-tay-chay-5096068.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Djorkaeff: 'Ronaldo bị Bồ Đào Nha tẩy chay'",
+      "description": "Cựu tuyển thủ Pháp Youri Djorkaeff cho rằng Cristiano Ronaldo bị chính các đồng đội \"tẩy chay\" tại World Cup 2026, vì Bồ Đào Nha không xây dựng lối chơi để phát huy điểm mạnh của tiền đạo 41 tuổi.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/07/10/cristiano-ronaldo-1783691635-3966-1783691772.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=tV3gEf7K65RIujaw96uBqQ",
+      "link": "https://vnexpress.net/djorkaeff-ronaldo-bi-bo-dao-nha-tay-chay-5096068.html",
+      "published_at": "Sat, 11 Jul 2026 06:04:59 +0700",
+      "createAt": "2026-07-10T23:04:59.000Z",
+      "thumbnail_blurhash": "LPG7MM}lW=WZ%JxswMRl5:EkWEoJ"
+    }
+  ]
 }
