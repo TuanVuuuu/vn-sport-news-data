@@ -1207,5 +1207,44 @@
     "published_at": "Fri, 10 Jul 2026 00:05:00 +0700",
     "createAt": "2026-07-09T17:05:00.000Z",
     "thumbnail_blurhash": "LREyJgIVIq-;~nnyIUtm?uR:NJx["
+  },
+  {
+    "id": "https://vnexpress.net/dong-dau-khi-qua-hormuz-khoi-phuc-den-dau-5095547.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Dòng dầu khí qua Hormuz khôi phục đến đâu?",
+    "description": "Sau 3 tuần, lượng tàu qua eo biển Hormuz chỉ bằng một phần ba mức bình thường và còn suy giảm tuần này, khiến nguồn cung dầu khí vẫn thắt chặt.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/09/afp-aa-v1-highres-commercialsh-1215-8994-1783596317.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Hle07MI2YCoKC2PvrI8yOQ",
+    "link": "https://vnexpress.net/dong-dau-khi-qua-hormuz-khoi-phuc-den-dau-5095547.html",
+    "published_at": "Fri, 10 Jul 2026 06:57:41 +0700",
+    "createAt": "2026-07-09T23:57:41.000Z",
+    "thumbnail_blurhash": "LUBEUko#aeog.TkCf6j]ocayfPfk"
+  },
+  {
+    "id": "https://vnexpress.net/cac-ngan-hang-da-chi-hon-48-000-ty-dong-tra-co-tuc-tien-mat-5095499.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Các ngân hàng đã chi hơn 48.000 tỷ đồng trả cổ tức tiền mặt",
+    "description": "11 ngân hàng niêm yết đã chi tổng cộng 48.041 tỷ đồng để trả cổ tức cho năm 2025, nhiều hơn năm ngoái do lượng cổ phiếu lưu hành tăng lên.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/09/huy-1783597658-6284-1783597798.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=zRzwm72B4wrKAqOY3iDEpw",
+    "link": "https://vnexpress.net/cac-ngan-hang-da-chi-hon-48-000-ty-dong-tra-co-tuc-tien-mat-5095499.html",
+    "published_at": "Fri, 10 Jul 2026 07:04:06 +0700",
+    "createAt": "2026-07-10T00:04:06.000Z",
+    "thumbnail_blurhash": "LHIz#OqFE#:kx[?HRk9tyW$QsDK4"
+  },
+  {
+    "id": "https://vnexpress.net/gui-tiet-kiem-vuot-nhieu-kenh-dau-tu-nua-dau-nam-5095381.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Gửi tiết kiệm vượt nhiều kênh đầu tư nửa đầu năm",
+    "description": "Sau nhiều năm lép vế trước chứng khoán và vàng về mức sinh lời, gửi tiết kiệm trở thành kênh đầu tư có hiệu suất cao nhất trong nửa đầu năm.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/09/huy-1783571548-3724-1783571736.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=uuhnVtf6eOn5nImaYhRzbQ",
+    "link": "https://vnexpress.net/gui-tiet-kiem-vuot-nhieu-kenh-dau-tu-nua-dau-nam-5095381.html",
+    "published_at": "Fri, 10 Jul 2026 07:28:45 +0700",
+    "createAt": "2026-07-10T00:28:45.000Z",
+    "thumbnail_blurhash": "LCG*+yT{K*]:Q,p04-IU?]Md-BO="
   }
 ]
