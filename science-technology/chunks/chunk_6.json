@@ -193,5 +193,44 @@
     "published_at": "Fri, 10 Jul 2026 05:00:00 +0700",
     "createAt": "2026-07-09T22:00:00.000Z",
     "thumbnail_blurhash": "LWIEg[~W-;^*?Zxut7-o9HE1IVad"
+  },
+  {
+    "id": "https://vnexpress.net/tau-nasa-thuc-giac-sau-gan-mot-nam-ngu-dong-5095514.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Tàu NASA 'thức giấc' sau gần một năm ngủ đông",
+    "description": "Tàu thăm dò New Horizons của NASA khôi phục hoạt động trong tình trạng tốt khi đang ở cách Trái Đất gần 9,5 tỷ km sau gần một năm ngủ đông.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/09/VNENew-1783585799-1150-1783585850.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=DZzgPiGnTn6Y2h9KariFpw",
+    "link": "https://vnexpress.net/tau-nasa-thuc-giac-sau-gan-mot-nam-ngu-dong-5095514.html",
+    "published_at": "Fri, 10 Jul 2026 07:57:27 +0700",
+    "createAt": "2026-07-10T00:57:27.000Z",
+    "thumbnail_blurhash": "LH9s^-~VozIpR:M}IpWBohxu%Lxs"
+  },
+  {
+    "id": "https://vnexpress.net/co-quan-trung-quoc-canh-bao-anthropic-claude-co-cua-hau-5095438.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Cơ quan Trung Quốc cảnh báo Anthropic Claude có 'cửa hậu'",
+    "description": "Cơ sở dữ liệu lỗ hổng bảo mật quốc gia Trung Quốc (NVDB) cảnh báo người dùng nước này không sử dụng Claude vì chứa \"cửa hậu\" thu thập dữ liệu vị trí.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/09/dsc02951-jpg-1783583578-6399-1783583692.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ZX8OyHryzOjXZ9SzTjgyIQ",
+    "link": "https://vnexpress.net/co-quan-trung-quoc-canh-bao-anthropic-claude-co-cua-hau-5095438.html",
+    "published_at": "Fri, 10 Jul 2026 07:59:52 +0700",
+    "createAt": "2026-07-10T00:59:52.000Z",
+    "thumbnail_blurhash": "LPHx.}~qD$-;Riof-;V@D%of%Naz"
+  },
+  {
+    "id": "https://vnexpress.net/ba-thiet-hai-lon-khi-sang-che-bi-sao-chep-5087987.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Ba thiệt hại lớn khi sáng chế bị sao chép",
+    "description": "Theo Hiệp sĩ sáng chế Phạm Thị Kim Loan, nếu không mạnh tay với hành vi sao chép công nghệ, thiệt hại không chỉ thuộc về một nhà sáng chế mà còn là sự mất mát của cả nền khoa học và động lực đổi mới sáng tạo của quốc gia.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/08/pham-kim-loan-1783481466-7681-1783481700.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=QN9yrUJMMsAW9zWnPdHCgw",
+    "link": "https://vnexpress.net/ba-thiet-hai-lon-khi-sang-che-bi-sao-chep-5087987.html",
+    "published_at": "Fri, 10 Jul 2026 08:00:00 +0700",
+    "createAt": "2026-07-10T01:00:00.000Z",
+    "thumbnail_blurhash": "LIL|+R${F~g5}+%1EmOGRQXBJCxY"
   }
 ]
