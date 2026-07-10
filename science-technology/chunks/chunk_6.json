@@ -297,5 +297,31 @@
     "published_at": "Fri, 10 Jul 2026 17:21:48 +0700",
     "createAt": "2026-07-10T10:21:48.000Z",
     "thumbnail_blurhash": "LAI4t}_O}]*04Toixuw]00P:I.m,"
+  },
+  {
+    "id": "https://vnexpress.net/trung-quoc-thu-hoi-thanh-cong-ten-lua-tai-su-dung-5095997.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Trung Quốc thu hồi thành công tên lửa tái sử dụng",
+    "description": "Trung Quốc thử nghiệm thành công hệ thống thu hồi tên lửa bằng lưới gắn vào giàn nổi trên biển nhằm cạnh tranh với Mỹ trong lĩnh vực tên lửa tái sử dụng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/10/RocketOKezgifcomvideotogifconv-6074-4376-1783679481.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=KTz7nW2Zg4Zyam-qU2A5FQ&t=image",
+    "link": "https://vnexpress.net/trung-quoc-thu-hoi-thanh-cong-ten-lua-tai-su-dung-5095997.html",
+    "published_at": "Fri, 10 Jul 2026 17:53:36 +0700",
+    "createAt": "2026-07-10T10:53:36.000Z",
+    "thumbnail_blurhash": "LHDJ-O%gtm%#_Ni{M|ae?utQoxtQ"
+  },
+  {
+    "id": "https://vnexpress.net/robot-hinh-nguoi-my-lan-dau-thuc-hien-phau-thuat-5095933.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Robot hình người Mỹ lần đầu thực hiện phẫu thuật",
+    "description": "Các robot hình người dùng dụng cụ mổ tiêu chuẩn để tiến hành hai ca phẫu thuật thử nghiệm tiền lâm sàng, dưới sự điều khiển từ xa của bác sĩ.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/10/VNESur-1783670795-4664-1783671189.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=TQhNmzeRiq9sgPNmu1QWCw",
+    "link": "https://vnexpress.net/robot-hinh-nguoi-my-lan-dau-thuc-hien-phau-thuat-5095933.html",
+    "published_at": "Fri, 10 Jul 2026 19:00:00 +0700",
+    "createAt": "2026-07-10T12:00:00.000Z",
+    "thumbnail_blurhash": "L3Amk}_2009F00%N~pRP009Gof%M"
   }
 ]
