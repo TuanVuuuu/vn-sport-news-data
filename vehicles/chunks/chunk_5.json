@@ -1259,5 +1259,31 @@
     "published_at": "Fri, 10 Jul 2026 10:45:00 +0700",
     "createAt": "2026-07-10T03:45:00.000Z",
     "thumbnail_blurhash": "L6IOX#3CR4s=ug8^4o_300VCnOo~"
+  },
+  {
+    "id": "https://vnexpress.net/lynk-co-02-suv-thuan-dien-ca-tinh-sap-ra-mat-viet-nam-5095704.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Lynk &amp; Co 02 – SUV thuần điện cá tính sắp ra mắt Việt Nam",
+    "description": "Mẫu SUV thuần điện mang ngôn ngữ thiết kế đô thị hiện đại, giúp Lynk &amp; Co hoàn thiện dải sản phẩm đa dạng từ xe xăng, hybrid đến thuần điện tại thị trường Việt Nam.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/10/thumb-1783656299-3238-1783656419.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=CfcQFck8EtI4SXkrshAdNw",
+    "link": "https://vnexpress.net/lynk-co-02-suv-thuan-dien-ca-tinh-sap-ra-mat-viet-nam-5095704.html",
+    "published_at": "Fri, 10 Jul 2026 11:00:00 +0700",
+    "createAt": "2026-07-10T04:00:00.000Z",
+    "thumbnail_blurhash": "L-LEWxt7%gj[_Na#RjayxvayRPof"
+  },
+  {
+    "id": "https://vnexpress.net/wuling-uu-dai-3-dong-xe-thuan-dien-thang-7-5095781.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Wuling ưu đãi 3 dòng xe thuần điện tháng 7",
+    "description": "Wuling EV Việt Nam áp dụng đa dạng ưu đãi cho người mua các dòng xe Grango, Mini EV Macaron và Bingo, áp dụng trong tháng 7.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/10/2-1783654219-9510-1783654256.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=3sBdS0OQ4QpwfoQPctI4Lw",
+    "link": "https://vnexpress.net/wuling-uu-dai-3-dong-xe-thuan-dien-thang-7-5095781.html",
+    "published_at": "Fri, 10 Jul 2026 12:00:00 +0700",
+    "createAt": "2026-07-10T05:00:00.000Z",
+    "thumbnail_blurhash": "L9GI$L_NHXkXCT5TIARk009aI[-o"
   }
 ]
