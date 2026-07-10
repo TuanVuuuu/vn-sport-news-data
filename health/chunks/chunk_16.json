@@ -76,5 +76,31 @@
     "published_at": "Fri, 10 Jul 2026 16:00:00 +0700",
     "createAt": "2026-07-10T09:00:00.000Z",
     "thumbnail_blurhash": "LALXGI00004T_K8y$2xY~84=Mx~p"
+  },
+  {
+    "id": "https://vnexpress.net/ba-lam-tuong-ve-sac-to-da-melanin-5095901.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Ba lầm tưởng về sắc tố da melanin",
+    "description": "Melanin chỉ có loại sắc tố tối màu và chỉ tia UV mới gây sản sinh nhiều melanin là những lầm tưởng có thể khiến điều trị sạm nám da khó khăn.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/10/mau-sac-melanin-1783668146-6322-1783668239.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=oxAAZIQjcIOEu1BnmujndA",
+    "link": "https://vnexpress.net/ba-lam-tuong-ve-sac-to-da-melanin-5095901.html",
+    "published_at": "Fri, 10 Jul 2026 17:00:00 +0700",
+    "createAt": "2026-07-10T10:00:00.000Z",
+    "thumbnail_blurhash": "LTQ[oj-;.9xu?^o}niW;u5S~V?fl"
+  },
+  {
+    "id": "https://vnexpress.net/vi-sao-thuc-khuya-de-tang-can-5095725.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Vì sao thức khuya dễ tăng cân?",
+    "description": "Thức khuya hay ngủ không đủ giấc có thể ảnh hưởng đến cảm giác thèm ăn, mức năng lượng, hoạt động thể chất và gây tăng cân.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/10/gemini-generated-image-z1flxpz-1161-5838-1783652717.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=gChmhkE68CqTC0MaODniKg",
+    "link": "https://vnexpress.net/vi-sao-thuc-khuya-de-tang-can-5095725.html",
+    "published_at": "Fri, 10 Jul 2026 17:00:00 +0700",
+    "createAt": "2026-07-10T10:00:00.000Z",
+    "thumbnail_blurhash": "L3M%$M000000~p00pIJ700xHER?c"
   }
 ]
