@@ -258,5 +258,57 @@
     "published_at": "Fri, 10 Jul 2026 16:00:00 +0700",
     "createAt": "2026-07-10T09:00:00.000Z",
     "thumbnail_blurhash": "LALgz@00004T_K8y$MxZ^#4=Mx~p"
+  },
+  {
+    "id": "https://vnexpress.net/dau-bep-bangkok-mang-huong-vi-thai-den-hilton-saigon-5095966.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Đầu bếp Bangkok mang hương vị Thái đến Hilton Saigon",
+    "description": "Hai đầu bếp từ Millennium Hilton Bangkok sẽ giới thiệu các món Thái Lan tại nhà hàng The Strand, Hilton Saigon, trong khuôn khổ chương trình Guest Chefs diễn ra tháng 7.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/07/10/yy1-1783674129-7769-1783674162.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=wx7-GW-I-z7COqL812aIEw",
+    "link": "https://vnexpress.net/dau-bep-bangkok-mang-huong-vi-thai-den-hilton-saigon-5095966.html",
+    "published_at": "Fri, 10 Jul 2026 16:00:00 +0700",
+    "createAt": "2026-07-10T09:00:00.000Z",
+    "thumbnail_blurhash": "L2ASe]?G4U9G}Aof$%$g00AGA@?G"
+  },
+  {
+    "id": "https://vnexpress.net/co-phieu-gilimex-nam-san-sau-khi-thua-kien-amazon-5095954.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Cổ phiếu Gilimex nằm sàn sau khi thua kiện Amazon",
+    "description": "GIL của Gilimex giảm kịch sàn sau khi nhận phán quyết thua kiện Amazon, là một trong hơn 200 cổ phiếu điều chỉnh trong phiên chứng khoán sụt 12 điểm.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/10/20260710-1783672627-5542-1783672701.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=CPBxmg-Elb-6m_ffySyGQg",
+    "link": "https://vnexpress.net/co-phieu-gilimex-nam-san-sau-khi-thua-kien-amazon-5095954.html",
+    "published_at": "Fri, 10 Jul 2026 16:10:53 +0700",
+    "createAt": "2026-07-10T09:10:53.000Z",
+    "thumbnail_blurhash": "L6A0qB.9vd$*}@jE%1s+L}Ri?ct7"
+  },
+  {
+    "id": "https://vnexpress.net/ao-dau-doi-tuyen-na-uy-chay-hang-5095937.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Áo đấu đội tuyển Na Uy 'cháy hàng'",
+    "description": "Áo đấu của tuyển Na Uy tại World Cup 2026 nhanh chóng hết hàng nhờ những cầu thủ như Erling Haaland.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/07/10/aodaunauy-1783671661-9923-1783671694.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=j6D5NGiYLGeRMQif1Rm6Cg",
+    "link": "https://vnexpress.net/ao-dau-doi-tuyen-na-uy-chay-hang-5095937.html",
+    "published_at": "Fri, 10 Jul 2026 16:12:11 +0700",
+    "createAt": "2026-07-10T09:12:11.000Z",
+    "thumbnail_blurhash": "LJIXaF$nyT-Y_4ajxtOY[DJ4ZjV?"
+  },
+  {
+    "id": "https://vnexpress.net/quang-tri-chuan-bi-tim-kiem-26-54-hai-cot-liet-si-o-cau-nhi-5095881.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Quảng Trị chuẩn bị tìm kiếm 26-54 hài cốt liệt sĩ ở Câu Nhi",
+    "description": "Gần 55 năm sau trận đánh tại Câu Nhi khiến 93 chiến sĩ Đại đội 9 hy sinh, tỉnh Quảng Trị chuẩn bị mở rộng tìm kiếm khoảng 26-54 hài cốt liệt sĩ còn lại.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/10/IMG9428-1783665479-7398-1783665793.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=7zM56QrKkGsBQW13xHxkFA",
+    "link": "https://vnexpress.net/quang-tri-chuan-bi-tim-kiem-26-54-hai-cot-liet-si-o-cau-nhi-5095881.html",
+    "published_at": "Fri, 10 Jul 2026 16:13:41 +0700",
+    "createAt": "2026-07-10T09:13:41.000Z",
+    "thumbnail_blurhash": "L;KK+wRPRit7-:j]WVof_Ns;WBa{"
   }
 ]
