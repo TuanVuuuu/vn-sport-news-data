@@ -934,5 +934,31 @@
     "published_at": "Sat, 11 Jul 2026 14:50:54 +0700",
     "createAt": "2026-07-11T07:50:54.000Z",
     "thumbnail_blurhash": "L7F=XQ}%^kb|9i?HwGRg[R0fIns9"
+  },
+  {
+    "id": "https://vnexpress.net/cano-cho-khoang-30-nguoi-lat-o-phu-quoc-5096283.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Canô chở khoảng 30 người lật ở Phú Quốc",
+    "description": "Canô chở khoảng 30 du khách đa số là người nước ngoài bị lật gần Hòn Mây Rút Ngoài, vùng biển An Thới, đặc khu Phú Quốc, chiều 11/7.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/11/1783755880127-c906c412603807ff-5374-5585-1783757126.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=QkmDGjQgPwIouKXBIragKw",
+    "link": "https://vnexpress.net/cano-cho-khoang-30-nguoi-lat-o-phu-quoc-5096283.html",
+    "published_at": "Sat, 11 Jul 2026 14:50:54 +0700",
+    "createAt": "2026-07-11T07:50:54.000Z",
+    "thumbnail_blurhash": "L6F6qd^Ps=~VT00JEgbc00JP.94:"
+  },
+  {
+    "id": "https://vnexpress.net/hon-22-tan-ca-long-be-tren-song-hieu-chet-bat-thuong-5096252.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Hơn 22 tấn cá lồng bè trên sông Hiếu chết bất thường",
+    "description": "Nhiều loại cá nuôi trong lồng bè trên sông Hiếu, xã Cửa Việt, chết hàng loạt, khiến 11 hộ dân thiệt hại hàng chục đến hàng trăm triệu đồng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/11/z803090677867380e884a373880b93-5323-7858-1783750427.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ZQzgy-CSX9wMRfde-4Mumw",
+    "link": "https://vnexpress.net/hon-22-tan-ca-long-be-tren-song-hieu-chet-bat-thuong-5096252.html",
+    "published_at": "Sat, 11 Jul 2026 15:04:02 +0700",
+    "createAt": "2026-07-11T08:04:02.000Z",
+    "thumbnail_blurhash": "LQKwth0dIBX7~WIni_E1M|M_NGRi"
   }
 ]
