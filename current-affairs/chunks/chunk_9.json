@@ -843,5 +843,31 @@
     "published_at": "Sat, 11 Jul 2026 06:00:00 +0700",
     "createAt": "2026-07-10T23:00:00.000Z",
     "thumbnail_blurhash": "LCE2^Dt6.9~pOkxvw1RiD$ohELWA"
+  },
+  {
+    "id": "https://vnexpress.net/29-liet-si-o-cong-vien-le-thi-rieng-co-the-la-biet-dong-sai-gon-va-bo-binh-5096188.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "29 liệt sĩ ở công viên Lê Thị Riêng có thể là biệt động Sài Gòn và bộ binh",
+    "description": "Di vật tìm thấy cùng 29 hài cốt tại công viên Lê Thị Riêng và tài liệu lịch sử cho thấy họ có thể là chiến sĩ biệt động, bộ binh hy sinh trong Tết Mậu Thân 1968.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/11/451a2879-jpg-1783739601-2636-1783739605.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=cetdhL9rDMmiYYB2OcuW_A",
+    "link": "https://vnexpress.net/29-liet-si-o-cong-vien-le-thi-rieng-co-the-la-biet-dong-sai-gon-va-bo-binh-5096188.html",
+    "published_at": "Sat, 11 Jul 2026 10:12:28 +0700",
+    "createAt": "2026-07-11T03:12:28.000Z",
+    "thumbnail_blurhash": "LEAJ~6RP01XS~ps.9ZR-WBxtt7M|"
+  },
+  {
+    "id": "https://vnexpress.net/tran-danh-o-quang-tri-khien-93-chien-si-hy-sinh-54-nam-truoc-5096143.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Trận đánh ở Quảng Trị khiến 93 chiến sĩ hy sinh 54 năm trước",
+    "description": "Hơn 54 năm trước, khoảng 110 chiến sĩ Đại đội 9 vượt sông tiến tấn công trực diện vào khu vực đồn phía nam cầu Câu Nhi, ngăn địch tái chiếm Quảng Trị nhưng bị lộ, khiến 93 người hy sinh.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/11/IMG9432-1783734419-5777-1783736154.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=QJbaUg043oMszyUkn0uH-w",
+    "link": "https://vnexpress.net/tran-danh-o-quang-tri-khien-93-chien-si-hy-sinh-54-nam-truoc-5096143.html",
+    "published_at": "Sat, 11 Jul 2026 10:30:59 +0700",
+    "createAt": "2026-07-11T03:30:59.000Z",
+    "thumbnail_blurhash": "LpFPf^bYI-Ri~XWUIVRi?vR%RjWA"
   }
 ]
