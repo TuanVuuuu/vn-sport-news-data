@@ -1259,5 +1259,31 @@
     "published_at": "Sat, 11 Jul 2026 08:53:21 +0700",
     "createAt": "2026-07-11T01:53:21.000Z",
     "thumbnail_blurhash": "LOEe+4yZ.9JX?GWYogNHxZaeWVbF"
+  },
+  {
+    "id": "https://vnexpress.net/song-hye-kyo-duoc-khen-nhan-sac-vuot-thoi-gian-5096154.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Song Hye Kyo được khen 'nhan sắc vượt thời gian'",
+    "description": "Minh tinh Hàn Song Hye Kyo được nhiều khán giả khen cuốn hút, nhan sắc vượt thời gian khi diện các thiết kế thu đông.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/07/11/song-hye-kyo-du-o-c-khen-nhan-sa-c-vu-o-t-tho-i-gian-michaachannel-mokjungwook-1783735982.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=LjUSCghzazPqeyipKpj5JQ",
+    "link": "https://vnexpress.net/song-hye-kyo-duoc-khen-nhan-sac-vuot-thoi-gian-5096154.html",
+    "published_at": "Sat, 11 Jul 2026 09:43:10 +0700",
+    "createAt": "2026-07-11T02:43:10.000Z",
+    "thumbnail_blurhash": "LNHU|I00%g4o~pIV9Zayt6t7jEjs"
+  },
+  {
+    "id": "https://vnexpress.net/ellie-goulding-bieu-dien-giua-hiep-tu-ket-world-cup-5096173.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Ellie Goulding biểu diễn giữa hiệp tứ kết World Cup",
+    "description": "Ca sĩ Ellie Goulding, nổi tiếng với bài \"Love Me Like You Do\", sẽ diễn giữa hiệp tứ kết trận Anh gặp Na Uy, ngày 11/7 tại Miami.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/07/11/ellie-goulding-1783738511-3468-1783738615.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=3yAu-0jndnTJBw8o_aM1iA",
+    "link": "https://vnexpress.net/ellie-goulding-bieu-dien-giua-hiep-tu-ket-world-cup-5096173.html",
+    "published_at": "Sat, 11 Jul 2026 10:06:21 +0700",
+    "createAt": "2026-07-11T03:06:21.000Z",
+    "thumbnail_blurhash": "LfI4eU_4F3x]I;ofxaf6R*axsoay"
   }
 ]
