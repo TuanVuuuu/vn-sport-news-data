@@ -713,5 +713,44 @@
     "published_at": "Sat, 11 Jul 2026 13:16:19 +0700",
     "createAt": "2026-07-11T06:16:19.000Z",
     "thumbnail_blurhash": "L4D0AQkZIC~o0001RQ-o9ExnyC$,"
+  },
+  {
+    "id": "https://vnexpress.net/aeon-mall-sap-xay-trung-tam-thuong-mai-hon-900-ty-dong-o-ninh-binh-5096243.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Aeon Mall sắp xây trung tâm thương mại hơn 900 tỷ đồng ở Ninh Bình",
+    "description": "Aeon Mall Việt Nam dự kiến khởi công trung tâm thương mại tại Phủ Lý vào đầu tháng 8, mục tiêu vận hành từ quý IV/2027.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/11/img0629284c47554e6b48f797f1805-7975-7187-1783748958.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=CUXP-if9FMjAGQEXQBGq1g",
+    "link": "https://vnexpress.net/aeon-mall-sap-xay-trung-tam-thuong-mai-hon-900-ty-dong-o-ninh-binh-5096243.html",
+    "published_at": "Sat, 11 Jul 2026 13:26:42 +0700",
+    "createAt": "2026-07-11T06:26:42.000Z",
+    "thumbnail_blurhash": "L,I6HARljFt7t:W?oej]Nft7WBR*"
+  },
+  {
+    "id": "https://vnexpress.net/viet-nam-lan-dau-vao-top-7-olympic-vat-ly-quoc-te-5096258.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Việt Nam lần đầu vào top 7 Olympic Vật lý quốc tế",
+    "description": "Với 4 huy chương vàng, trong đó có hai học sinh đạt tuyệt đối bài thi lý thuyết, đoàn Việt Nam lần đầu đứng top 7 trên 85 đội thi Olympic Vật lý quốc tế 2026 (IPhO).",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/11/5b3409b78c400d1e54511783750722-6410-5440-1783751431.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=rV2KNIJ4WC3Dzq9VBNp0PA",
+    "link": "https://vnexpress.net/viet-nam-lan-dau-vao-top-7-olympic-vat-ly-quoc-te-5096258.html",
+    "published_at": "Sat, 11 Jul 2026 13:27:05 +0700",
+    "createAt": "2026-07-11T06:27:05.000Z",
+    "thumbnail_blurhash": "LEFgCCE111%01Ps;[TSh0}s,|?a#"
+  },
+  {
+    "id": "https://vnexpress.net/6-nguoi-bi-bat-vi-do-gan-800-tan-chat-thai-o-tp-hcm-5096261.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "6 người bị bắt vì đổ gần 800 tấn chất thải ở TP HCM",
+    "description": "6 người bị cáo buộc tổ chức thu gom, vận chuyển và đổ trái phép gần 800 tấn chất thải xây dựng tại khu đất ở xã Tân Vĩnh Lộc, gây ô nhiễm môi trường.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/11/chatthai2-1783751019-5157-1783751042.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Udu_XhM5RMMI_W4gsgXe2w",
+    "link": "https://vnexpress.net/6-nguoi-bi-bat-vi-do-gan-800-tan-chat-thai-o-tp-hcm-5096261.html",
+    "published_at": "Sat, 11 Jul 2026 13:33:08 +0700",
+    "createAt": "2026-07-11T06:33:08.000Z",
+    "thumbnail_blurhash": "L6C?cZ?H?v4oT#IAtSo~o~MdE2?w"
   }
 ]
