@@ -1207,5 +1207,31 @@
     "published_at": "Sat, 11 Jul 2026 07:00:00 +0700",
     "createAt": "2026-07-11T00:00:00.000Z",
     "thumbnail_blurhash": "LJGkLF]}b^~W]#-B%NRNOGM{$zkD"
+  },
+  {
+    "id": "https://vnexpress.net/10-diem-den-dep-nhat-nuoc-my-5095921.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "10 điểm đến đẹp nhất nước Mỹ",
+    "description": "Vùng bờ biển Down East, đỉnh Mt Washington, thung lũng Hudson hay khu vực National Mall là những điểm đến được CNN bình chọn vào danh sách đẹp nhát nước Mỹ.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/07/10/10-1783673277.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=uxAKD11eZI_eQA8cPos7dQ",
+    "link": "https://vnexpress.net/10-diem-den-dep-nhat-nuoc-my-5095921.html",
+    "published_at": "Sat, 11 Jul 2026 09:00:00 +0700",
+    "createAt": "2026-07-11T02:00:00.000Z",
+    "thumbnail_blurhash": "LOD]ky-:IUn+_3o$WCs*ThS%nzod"
+  },
+  {
+    "id": "https://vnexpress.net/lieu-trinh-wellness-lay-cam-hung-tu-dai-duong-tai-khu-nghi-duong-cam-ranh-5096132.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Liệu trình wellness lấy cảm hứng từ đại dương tại khu nghỉ dưỡng Cam Ranh",
+    "description": "Radisson Blu Resort Cam Ranh ra mắt ESC Spa với liệu trình wellness lấy cảm hứng từ đại dương, kết hợp chăm sóc sức khỏe và trải nghiệm nghỉ dưỡng.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/07/11/e2-1783732584-2028-1783732598.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=0rKUbo3i_dIyCHHGqUBAtg",
+    "link": "https://vnexpress.net/lieu-trinh-wellness-lay-cam-hung-tu-dai-duong-tai-khu-nghi-duong-cam-ranh-5096132.html",
+    "published_at": "Sat, 11 Jul 2026 09:00:00 +0700",
+    "createAt": "2026-07-11T02:00:00.000Z",
+    "thumbnail_blurhash": "LjJ8kSRjRjoe_4WBWBay4-WBf8WB"
   }
 ]
