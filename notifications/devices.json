@@ -478,7 +478,7 @@
     },
     {
       "device_id": "A72B80C5-D1C5-4E0F-B6AE-A4E5BF8B31BF",
-      "fcm_token": "fTSI_2_fBEUCn2ncgExbiZ:APA91bGFEqtxn692sopS2uqyrnK6DjWDJQRkUjDD_QPGLk7bpAbwtMlOjsen6vWFwki5-fXDFTY8ui_bM69xJ0u-UCHsttsqMkeoOItyAC1qqz5GE1Jpt94",
+      "fcm_token": "dyx3VtN7F08Ij7SF-9IyiO:APA91bE50EYuI64kC0cCPbjHtKIUs7d6ZBORNLdG6fH5fozweiWB49BWcUqzGkLPg2VejYEEE4LM1rTJBmlMEyWJqEaQWAnNOetSO92_i5jr3DrCiS8nhmY",
       "platform": "ios",
       "preferences": {
         "enabled": true,
@@ -488,7 +488,7 @@
         ]
       },
       "created_at": "2026-07-11T09:33:44.022Z",
-      "updated_at": "2026-07-11T09:43:41.197Z"
+      "updated_at": "2026-07-11T09:43:42.414Z"
     }
   ]
 }
