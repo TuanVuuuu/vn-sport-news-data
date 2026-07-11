@@ -193,5 +193,31 @@
     "published_at": "Sat, 11 Jul 2026 00:05:00 +0700",
     "createAt": "2026-07-10T17:05:00.000Z",
     "thumbnail_blurhash": "LC8#Z]00wI~q9G-=adIADO%gXRM{"
+  },
+  {
+    "id": "https://vnexpress.net/th-true-milk-duoc-vinh-danh-doanh-nghiep-xanh-5095806.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "TH True Milk được vinh danh doanh nghiệp xanh",
+    "description": "Tập đoàn TH vào top \"Doanh nghiệp xanh - Net Zero hành động\" tại Diễn đàn Năng lượng và Môi trường Thế giới - Việt Nam 2026, ngày 8/7.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/10/ong-ngo-minh-hai-th-nhan-bieu-4440-8757-1783677676.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=aYKLjBkDEW96U6xpazrN9A",
+    "link": "https://vnexpress.net/th-true-milk-duoc-vinh-danh-doanh-nghiep-xanh-5095806.html",
+    "published_at": "Sat, 11 Jul 2026 08:00:00 +0700",
+    "createAt": "2026-07-11T01:00:00.000Z",
+    "thumbnail_blurhash": "LiLXP*xb%Ns;.mogR%f+VYaeRPfk"
+  },
+  {
+    "id": "https://vnexpress.net/tra-luong-50-trieu-dong-van-kho-tuyen-tai-xe-container-5095548.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Trả lương 50 triệu đồng vẫn khó tuyển tài xế container",
+    "description": "Doanh nghiệp logistics nâng lương tài xế container lên 30-50 triệu đồng (tùy vị trí) mỗi tháng, gần gấp đôi so với năm ngoái, nhưng vẫn không dễ tuyển người phù hợp.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/09/410d3d77-bb4bd3bd5a59cc-jpeg-1-7698-8931-1783589914.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=IEs4Mt8YijhDnnpITrCZXg",
+    "link": "https://vnexpress.net/tra-luong-50-trieu-dong-van-kho-tuyen-tai-xe-container-5095548.html",
+    "published_at": "Sat, 11 Jul 2026 08:02:00 +0700",
+    "createAt": "2026-07-11T01:02:00.000Z",
+    "thumbnail_blurhash": "LKH.NQ4TM}WqL4DgWDbc.9I9RP-;"
   }
 ]
