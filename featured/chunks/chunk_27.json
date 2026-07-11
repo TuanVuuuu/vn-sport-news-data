@@ -232,5 +232,31 @@
     "published_at": "Sun, 12 Jul 2026 03:00:56 +0700",
     "createAt": "2026-07-11T20:00:56.000Z",
     "thumbnail_blurhash": "LFE{hR?vyZ-,w7E2D$SkdBMvMcsS"
+  },
+  {
+    "id": "https://vnexpress.net/dan-nuoc-tu-thac-cao-300-m-de-dan-tre-tu-phat-nhac-5093271.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Dẫn nước từ thác cao 300 m để đàn tre tự phát nhạc",
+    "description": "Dòng nước từ Thác Lụa được dẫn vào máng, tạo lực kéo gần 40 ống tre dài ngắn khác nhau va vào nhau, phát ra âm thanh trầm bổng giữa núi rừng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/10/dan-tu-ong-tre-1783657073-8629-1783657079.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=iN-ktUmOUxAeXzkePo4QJQ",
+    "link": "https://vnexpress.net/dan-nuoc-tu-thac-cao-300-m-de-dan-tre-tu-phat-nhac-5093271.html",
+    "published_at": "Sun, 12 Jul 2026 00:00:00 +0700",
+    "createAt": "2026-07-11T17:00:00.000Z",
+    "thumbnail_blurhash": "L9Gl2%WIyW_Iu-E2E2M#0MxaslMz"
+  },
+  {
+    "id": "https://vnexpress.net/nguoi-viet-tang-mua-xe-may-xang-nua-dau-nam-2026-5095750.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Người Việt tăng mua xe máy xăng nửa đầu năm 2026",
+    "description": "Doanh số xe máy xăng trong 6 tháng đầu năm 2026 đạt 1.367.552 chiếc, ghi nhận mức tăng 6,48% so với cùng kỳ năm 2025.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/10/ngvmxm-jpeg-1783671718-6816-1783671763.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=VTKVjmwc5HS0qofgI1oD2Q",
+    "link": "https://vnexpress.net/nguoi-viet-tang-mua-xe-may-xang-nua-dau-nam-2026-5095750.html",
+    "published_at": "Sun, 12 Jul 2026 04:00:00 +0700",
+    "createAt": "2026-07-11T21:00:00.000Z",
+    "thumbnail_blurhash": "LII#Mw9t4?~VMfyCr=t8=^E19GIU"
   }
 ]
