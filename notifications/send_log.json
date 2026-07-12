@@ -1,40 +1,6 @@
 {
   "entries": [
     {
-      "sent_at": "2026-07-07T10:31:39.394Z",
-      "topic": null,
-      "device_id": "e7368c7543fff02f",
-      "slot": "evening",
-      "type": "featured_digest",
-      "article_ids": [
-        "https://vnexpress.net/my-v-bi-5094226-tong-thuat.html",
-        "https://vnexpress.net/song-nhiet-khong-lo-tac-dong-thoi-tiet-toan-cau-5094146.html",
-        "https://vnexpress.net/8-tuyen-vanh-dai-cua-ha-noi-duoc-quy-hoach-ra-sao-5092728.html",
-        "https://vnexpress.net/taylor-swift-va-travis-kelce-trai-tai-gai-gioi-5093850.html",
-        "https://vnexpress.net/nguoi-sang-tao-dieu-cheo-thuyen-viking-gay-bao-o-world-cup-5094302.html",
-        "https://vnexpress.net/tay-ban-nha-pha-ky-luc-giu-sach-luoi-o-world-cup-5094264.html",
-        "https://vnexpress.net/hoc-boi-tu-ao-lang-den-truong-hoc-o-ha-noi-5094148.html",
-        "https://vnexpress.net/nha-may-dau-tien-tai-viet-nam-duoc-my-chap-thuan-dung-hai-cong-nghe-chieu-xa-trai-cay-5094060.html",
-        "https://vnexpress.net/chinh-phu-mo-rong-dien-tiep-nhan-lam-vien-chuc-5094338.html",
-        "https://vnexpress.net/phim-hoang-hau-cuoi-cung-tung-trailer-dau-tien-5094411.html",
-        "https://vnexpress.net/ong-trump-nguy-co-khuay-bao-chinh-tri-vi-tam-the-do-cua-balogun-5094250.html",
-        "https://vnexpress.net/giong-loc-can-quet-trung-quoc-it-nhat-8-nguoi-chet-5094446.html",
-        "https://vnexpress.net/giong-loc-can-quet-trung-quoc-khien-11-nguoi-chet-5094446.html",
-        "https://vnexpress.net/tay-ban-nha-vuot-phap-tro-thanh-ung-vien-so-mot-o-world-cup-2026-5094427.html",
-        "https://vnexpress.net/giam-doc-holidays-viet-nam-dung-kich-ban-hop-dong-ky-nghi-lua-gan-10-000-nguoi-5094461.html",
-        "https://vnexpress.net/nghe-si-ta-minh-tam-vo-qua-doi-binh-yen-trong-vong-tay-toi-5094421.html",
-        "https://vnexpress.net/ty-phu-game-trung-quoc-lan-dau-cong-khai-anh-hon-100-nguoi-con-5094326.html",
-        "https://vnexpress.net/voi-rong-bien-duong-pho-trung-quoc-thanh-dong-do-nat-5094383.html",
-        "https://vnexpress.net/nhung-tuyen-duong-ket-noi-tp-hcm-voi-vung-lan-can-5094505.html",
-        "https://vnexpress.net/hlv-park-hang-seo-tu-chuc-pho-chu-tich-ldbd-han-quoc-5094547.html",
-        "https://vnexpress.net/tp-hcm-tim-nhan-chung-ve-hai-ranh-chon-tap-the-liet-si-o-tan-son-nhat-5094555.html",
-        "https://vnexpress.net/bien-nguoi-dua-tien-co-lanh-tu-iran-5094353.html",
-        "https://vnexpress.net/nang-luong-hat-nhan-gop-phan-giup-viet-nam-dam-bao-an-ninh-nang-luong-5094483.html",
-        "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-kinh-te-nha-nuoc-khong-dua-vao-bao-cap-doc-quyen-5094521.html"
-      ],
-      "highlight_id": "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-kinh-te-nha-nuoc-khong-dua-vao-bao-cap-doc-quyen-5094521.html"
-    },
-    {
       "sent_at": "2026-07-07T10:31:39.520Z",
       "topic": null,
       "device_id": "87c0924081244390",
@@ -16479,6 +16445,18 @@
         "https://vnexpress.net/mien-bac-nang-tro-lai-dau-tuan-cuoi-tuan-mua-lon-5096513.html"
       ],
       "highlight_id": "https://vnexpress.net/mien-bac-nang-tro-lai-dau-tuan-cuoi-tuan-mua-lon-5096513.html"
+    },
+    {
+      "sent_at": "2026-07-12T12:31:13.618Z",
+      "topic": null,
+      "device_id": "8AE72633-E9FD-488F-AFD4-7E7150C20B96",
+      "slot": "evening",
+      "type": "featured_digest",
+      "article_ids": [
+        "https://vnexpress.net/bien-nguoi-an-mung-argentina-vao-ban-ket-5096529.html",
+        "https://vnexpress.net/giong-loc-lam-sap-vom-cho-toc-mai-nha-dan-o-can-tho-5096530.html"
+      ],
+      "highlight_id": "https://vnexpress.net/giong-loc-lam-sap-vom-cho-toc-mai-nha-dan-o-can-tho-5096530.html"
     }
   ]
 }
