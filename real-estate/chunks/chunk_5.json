@@ -375,5 +375,31 @@
     "published_at": "Sun, 12 Jul 2026 00:03:00 +0700",
     "createAt": "2026-07-11T17:03:00.000Z",
     "thumbnail_blurhash": "L*G]5hV?WBWB?wjXRkj@%htRRjof"
+  },
+  {
+    "id": "https://vnexpress.net/dat-dau-gia-xa-ven-ha-noi-trung-binh-quan-3-5-ty-dong-moi-lo-5096389.html",
+    "category_id": "real-estate",
+    "category_name": "Bất động sản",
+    "source": "VnExpress",
+    "title": "Đất đấu giá xã ven Hà Nội trúng bình quân 3,5 tỷ đồng mỗi lô",
+    "description": "Sáng 11/7, xã Ứng Hòa đấu giá thành công 34 thửa đất và dự kiến thu về gần 119 tỷ đồng, tương đương bình quân 3,5 tỷ mỗi lô.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/12/z803120948224838cf79ed99ce7110-9308-5828-1783792790.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Ka9g3BJCptRcQlmDVr6Z_w",
+    "link": "https://vnexpress.net/dat-dau-gia-xa-ven-ha-noi-trung-binh-quan-3-5-ty-dong-moi-lo-5096389.html",
+    "published_at": "Sun, 12 Jul 2026 07:11:31 +0700",
+    "createAt": "2026-07-12T00:11:31.000Z",
+    "thumbnail_blurhash": "LNGuzh%Mwc-V?waJWB%1.8R*%g$*"
+  },
+  {
+    "id": "https://vnexpress.net/ninh-binh-quy-hoach-khu-do-thi-270-ha-giap-vanh-dai-5-5096380.html",
+    "category_id": "real-estate",
+    "category_name": "Bất động sản",
+    "source": "VnExpress",
+    "title": "Ninh Bình quy hoạch khu đô thị 270 ha giáp vành đai 5",
+    "description": "Khu đô thị sinh thái Phù Vân nằm ở phường Phù Vân, Kim Bảng vừa được duyệt nhiệm vụ quy hoạch chi tiết 1/500 với quy mô 270 ha.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/11/hanam1744945131174494514536831-2683-3019-1783788666.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ut2kGYrDaz3FtWigNgqVeA",
+    "link": "https://vnexpress.net/ninh-binh-quy-hoach-khu-do-thi-270-ha-giap-vanh-dai-5-5096380.html",
+    "published_at": "Sun, 12 Jul 2026 07:16:32 +0700",
+    "createAt": "2026-07-12T00:16:32.000Z",
+    "thumbnail_blurhash": "LhFs3_R+M|xu?wt7oLR*.8a{aeof"
   }
 ]
