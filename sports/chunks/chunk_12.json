@@ -1168,5 +1168,31 @@
     "published_at": "Sun, 12 Jul 2026 18:44:19 +0700",
     "createAt": "2026-07-12T11:44:19.000Z",
     "thumbnail_blurhash": "LHELy%uP?aEjZ24TITNb%#x^xvn$"
+  },
+  {
+    "id": "https://vnexpress.net/fifa-nghien-cuu-mo-rong-world-cup-2030-len-64-doi-5096578.html",
+    "category_id": "sports",
+    "category_name": "Thể thao",
+    "source": "VnExpress",
+    "title": "FIFA nghiên cứu mở rộng World Cup 2030 lên 64 đội",
+    "description": "FIFA sẽ nghiên cứu khả năng nâng số đội dự World Cup 2030 từ 48 lên 64, sau khi Chủ tịch Gianni Infantino khẳng định giải năm nay thành công vượt mong đợi.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/07/12/infantino-1783869178-1388-1783870608.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=YG6LDV1Yyffrv5KolDdTnQ",
+    "link": "https://vnexpress.net/fifa-nghien-cuu-mo-rong-world-cup-2030-len-64-doi-5096578.html",
+    "published_at": "Mon, 13 Jul 2026 00:00:00 +0700",
+    "createAt": "2026-07-12T17:00:00.000Z",
+    "thumbnail_blurhash": "L59Ggq~X0f.9+E4m00Mw-;-=^,?H"
+  },
+  {
+    "id": "https://vnexpress.net/doi-truong-thuy-si-trong-tai-pha-hong-tran-dau-voi-argentina-5096527.html",
+    "category_id": "sports",
+    "category_name": "Thể thao",
+    "source": "VnExpress",
+    "title": "Đội trưởng Thụy Sĩ: 'Trọng tài phá hỏng trận đấu với Argentina'",
+    "description": "Tiền vệ đội trưởng Granit Xhaka đổ lỗi cho trọng tài sau khi Thụy Sĩ thua Argentina 1-3 ở tứ kết World Cup 2026.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/07/12/xhaka-1783850978-6349-1783851029.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=gE46wZ0Yp6PWsYpwX8hMjQ",
+    "link": "https://vnexpress.net/doi-truong-thuy-si-trong-tai-pha-hong-tran-dau-voi-argentina-5096527.html",
+    "published_at": "Mon, 13 Jul 2026 00:00:00 +0700",
+    "createAt": "2026-07-12T17:00:00.000Z",
+    "thumbnail_blurhash": "L9Fr3Bqw0DLIFkX.T8?F0Hy9?kW2"
   }
 ]
