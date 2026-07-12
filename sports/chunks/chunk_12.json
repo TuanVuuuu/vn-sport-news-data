@@ -1012,5 +1012,83 @@
     "published_at": "Sun, 12 Jul 2026 10:17:04 +0700",
     "createAt": "2026-07-12T03:17:04.000Z",
     "thumbnail_blurhash": "L7F6eII$0N000GD?t7xV00tx$[~p"
+  },
+  {
+    "id": "https://vnexpress.net/ket-qua-argentina-vs-thuy-si-5096400-tong-thuat.html",
+    "category_id": "sports",
+    "category_name": "Thể thao",
+    "source": "VnExpress",
+    "title": "Argentina thắng hiệp phụ ở tứ kết World Cup",
+    "description": "Sau khi hòa Thụy Sĩ ở hai hiệp chính, Argentina ghi thêm hai bàn trong thế hơn người ở hiệp phụ, để thắng 3-1 tại tứ kết World Cup 2026.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/07/12/ap261931301446921-1783827536-5951-1783827715.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=okFpqZx9icOb239PQI1r2w",
+    "link": "https://vnexpress.net/ket-qua-argentina-vs-thuy-si-5096400-tong-thuat.html",
+    "published_at": "Sun, 12 Jul 2026 06:59:21 +0700",
+    "createAt": "2026-07-11T23:59:21.000Z",
+    "thumbnail_blurhash": "LGECk2%ND%IU}etRInn%4mInNsoz"
+  },
+  {
+    "id": "https://vnexpress.net/luat-moi-khien-tien-dao-thuy-si-nhan-the-do-o-world-cup-2026-5096447.html",
+    "category_id": "sports",
+    "category_name": "Thể thao",
+    "source": "VnExpress",
+    "title": "Luật mới khiến tiền đạo Thụy Sĩ nhận thẻ đỏ ở World Cup 2026",
+    "description": "Trọng tài Joao Pinheiro áp dụng luật mới về VAR, để rút thẻ vàng thứ hai với Breel Embolo trong trận Thụy Sĩ gặp Argentina ở tứ kết World Cup 2026.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/07/12/thuysiPNG-1783826550-4941-1783826560.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=Lq5ruiYJ5OPN9HNWOFvUGw",
+    "link": "https://vnexpress.net/luat-moi-khien-tien-dao-thuy-si-nhan-the-do-o-world-cup-2026-5096447.html",
+    "published_at": "Sun, 12 Jul 2026 10:40:51 +0700",
+    "createAt": "2026-07-12T03:40:51.000Z",
+    "thumbnail_blurhash": "L8BWhkqtp^A+*DW9w5s932YOVY,u"
+  },
+  {
+    "id": "https://vnexpress.net/vi-sao-messi-chay-mau-mat-o-tran-thang-thuy-si-5096460.html",
+    "category_id": "sports",
+    "category_name": "Thể thao",
+    "source": "VnExpress",
+    "title": "Vì sao Messi chảy máu mắt ở trận thắng Thụy Sĩ?",
+    "description": "Lionel Messi khiến người hâm mộ Argentina lo lắng khi vùng mắt phải chảy máu trong hiệp hai trận thắng Thụy Sĩ 3-1 ở tứ kết World Cup 2026.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/07/12/messi-cha-y-ma-u-ma-t-17838279-5033-2457-1783829175.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=k9pUjRRqx1ugZ2hx17DgbQ",
+    "link": "https://vnexpress.net/vi-sao-messi-chay-mau-mat-o-tran-thang-thuy-si-5096460.html",
+    "published_at": "Sun, 12 Jul 2026 11:22:54 +0700",
+    "createAt": "2026-07-12T04:22:54.000Z",
+    "thumbnail_blurhash": "L5Hd8FpI05#6LIOs0d~W1j~q^*RQ"
+  },
+  {
+    "id": "https://vnexpress.net/bo-cua-haaland-trong-tai-da-thang-5096455.html",
+    "category_id": "sports",
+    "category_name": "Thể thao",
+    "source": "VnExpress",
+    "title": "Bố của Haaland: 'Trọng tài đã thắng'",
+    "description": "Ông Alf-Inge - bố của tiền đạo Erling Haaland - cho rằng tổ trọng tài đã mắc quá nhiều sai lầm theo hướng bất lợi cho Na Uy trong trận thua ngược Anh ở tứ kết World Cup 2026.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/07/12/4fb60d395b9d4d30be5a164364778a-3231-3628-1783828078.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=6C3eLNL4WnXOfnMZ0j_BpA",
+    "link": "https://vnexpress.net/bo-cua-haaland-trong-tai-da-thang-5096455.html",
+    "published_at": "Sun, 12 Jul 2026 11:42:13 +0700",
+    "createAt": "2026-07-12T04:42:13.000Z",
+    "thumbnail_blurhash": "LGF=XI8w~B$k^n%1IU%NT^TJ9a%g"
+  },
+  {
+    "id": "https://vnexpress.net/sinner-zverev-lich-su-wimbledon-goi-ten-ai-5096392.html",
+    "category_id": "sports",
+    "category_name": "Thể thao",
+    "source": "VnExpress",
+    "title": "Sinner - Zverev: Lịch sử Wimbledon gọi tên ai?",
+    "description": "Jannik Sinner hướng đến việc bảo vệ danh hiệu, còn Alexander Zverev bước vào chung kết Wimbledon 2026 với mục tiêu lần đầu đăng quang ở Grand Slam sân cỏ.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/07/12/bvl7ezxtlbixrp7nt6krlzmjae-178-6763-6182-1783800144.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=HkFheac4DFRjNJ08Bs76dQ",
+    "link": "https://vnexpress.net/sinner-zverev-lich-su-wimbledon-goi-ten-ai-5096392.html",
+    "published_at": "Sun, 12 Jul 2026 12:00:00 +0700",
+    "createAt": "2026-07-12T05:00:00.000Z",
+    "thumbnail_blurhash": "LLCiEm*H_2^jMxMyM{e.5SrZRmI;"
+  },
+  {
+    "id": "https://vnexpress.net/xac-dinh-4-doi-vao-ban-ket-world-cup-2026-5096463.html",
+    "category_id": "sports",
+    "category_name": "Thể thao",
+    "source": "VnExpress",
+    "title": "Xác định 4 đội vào bán kết World Cup 2026",
+    "description": "Pháp - Tây Ban Nha và Anh - Argentina là hai trận bán kết World Cup 2026.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/07/12/mbappe-1783832112-6756-1783832143.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=xWEKhQqr4DcRfTQA5FRg1A",
+    "link": "https://vnexpress.net/xac-dinh-4-doi-vao-ban-ket-world-cup-2026-5096463.html",
+    "published_at": "Sun, 12 Jul 2026 12:02:02 +0700",
+    "createAt": "2026-07-12T05:02:02.000Z",
+    "thumbnail_blurhash": "L5Dm8v+%005J4TP8%x-d8$$%t:TO"
   }
 ]
