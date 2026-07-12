@@ -856,5 +856,44 @@
     "published_at": "Sun, 12 Jul 2026 08:07:03 +0700",
     "createAt": "2026-07-12T01:07:03.000Z",
     "thumbnail_blurhash": "LMG[c#~WZ$Md%LNGaes,E0IUn~V?"
+  },
+  {
+    "id": "https://vnexpress.net/viem-co-tim-co-tai-phat-khong-5096315.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Viêm cơ tim có tái phát không?",
+    "description": "Tôi bị viêm cơ tim do nhiễm virus cúm, đã điều trị khỏi. Bệnh có để lại di chứng hay tái phát không? Làm sao phòng ngừa? (Mạnh Hùng, 34 tuổi)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/11/image001-1783762827-3834-1783762947.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=SsnDnmu2VnindujZRTQJbg",
+    "link": "https://vnexpress.net/viem-co-tim-co-tai-phat-khong-5096315.html",
+    "published_at": "Sun, 12 Jul 2026 09:00:00 +0700",
+    "createAt": "2026-07-12T02:00:00.000Z",
+    "thumbnail_blurhash": "LdM7y1_3E1t6~qbwM|t7ROt8RiM|"
+  },
+  {
+    "id": "https://vnexpress.net/song-khoe-sau-10-nam-ghep-than-5096307.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Sống khỏe sau 10 năm ghép thận",
+    "description": "Chỉ từ dấu hiệu đau đầu kéo dài, thường xuyên mệt mỏi, chị Hồng, TP HCM phát hiện căn bệnh suy thận giai đoạn cuối khi mới 32 tuổi.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/11/medium-vecteezy-beautiful-yoga-2345-1203-1783762610.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=7iemu0FmPl1dDMK1Ze7Ifw",
+    "link": "https://vnexpress.net/song-khoe-sau-10-nam-ghep-than-5096307.html",
+    "published_at": "Sun, 12 Jul 2026 09:00:00 +0700",
+    "createAt": "2026-07-12T02:00:00.000Z",
+    "thumbnail_blurhash": "LFIOwUISIm~pI_M{4U%200IE9FWA"
+  },
+  {
+    "id": "https://vnexpress.net/cuoc-chien-loc-gene-de-tim-con-khoe-manh-5093839.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Cuộc chiến 'lọc' gene để tìm con khỏe mạnh",
+    "description": "Cứ mỗi lần gặp hàng xóm, mọi người đều hỏi \"em bé đâu\" khiến chị Hà rơi vào trầm cảm, đành bán ngôi nhà ở thành phố về quê sống.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/11/a-nh-ma-n-hi-nh-lu-c-178378241-9823-7854-1783782704.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=g79nf7Hn-dz1jiqfv7FS2w",
+    "link": "https://vnexpress.net/cuoc-chien-loc-gene-de-tim-con-khoe-manh-5093839.html",
+    "published_at": "Sun, 12 Jul 2026 09:21:21 +0700",
+    "createAt": "2026-07-12T02:21:21.000Z",
+    "thumbnail_blurhash": "LgF$qp_NkDtR_M%NV@oej=ofjYt6"
   }
 ]
