@@ -388,5 +388,31 @@
     "published_at": "Sat, 11 Jul 2026 21:45:03 +0700",
     "createAt": "2026-07-11T14:45:03.000Z",
     "thumbnail_blurhash": "LQO{~m^%IANZ~WMyo}R*NfyDpIV@"
+  },
+  {
+    "id": "https://vnexpress.net/nguoi-viet-chi-hon-2-7-ty-usd-mua-my-pham-5096346.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Người Việt chi hơn 2,7 tỷ USD mua mỹ phẩm",
+    "description": "Quy mô thị trường làm đẹp và chăm sóc cá nhân Việt Nam đạt 2,74 tỷ USD vào 2025, tiến đến 3 tỷ USD.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/11/pkqc1457-1783775850-7074-1783775861.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=EPhAhrtA5HwCqB2KDiEooA",
+    "link": "https://vnexpress.net/nguoi-viet-chi-hon-2-7-ty-usd-mua-my-pham-5096346.html",
+    "published_at": "Sun, 12 Jul 2026 07:08:42 +0700",
+    "createAt": "2026-07-12T00:08:42.000Z",
+    "thumbnail_blurhash": "LLFioZiuo~IV$KR:xVt7?^bGIAxu"
+  },
+  {
+    "id": "https://vnexpress.net/ceo-pnj-muon-mua-1-trieu-co-phieu-5096383.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "CEO PNJ muốn mua 1 triệu cổ phiếu",
+    "description": "Nối tiếp lệnh mua của em trai bà Cao Thị Ngọc Dung, CEO Phan Quốc Công đăng ký gom 1 triệu cổ phiếu PNJ giữa lúc thị giá giảm mạnh.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/11/anh-phan-quo-c-co-ng-178378845-6612-6617-1783788521.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=Ghfm-C4v0a_tWhEWZki9EA",
+    "link": "https://vnexpress.net/ceo-pnj-muon-mua-1-trieu-co-phieu-5096383.html",
+    "published_at": "Sun, 12 Jul 2026 07:14:25 +0700",
+    "createAt": "2026-07-12T00:14:25.000Z",
+    "thumbnail_blurhash": "LXN,[5of_N?v~qoL9Zfk-;ofRjRj"
   }
 ]
