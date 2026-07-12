@@ -726,5 +726,57 @@
     "published_at": "Sun, 12 Jul 2026 06:00:00 +0700",
     "createAt": "2026-07-11T23:00:00.000Z",
     "thumbnail_blurhash": "LCN$.S:+$R$%{lE2+IK#K#KhFsSh"
+  },
+  {
+    "id": "https://vnexpress.net/5-loi-ich-khi-an-gia-do-vao-bua-sang-5096228.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "5 lợi ích khi ăn giá đỗ vào bữa sáng",
+    "description": "Ăn giá đỗ vào bữa sáng giúp bổ sung vitamin, chất xơ và chất chống oxy hóa, hỗ trợ tiêu hóa, tăng cường trao đổi chất.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/11/915f221c-a826df0e318ff7fc2-jpe-6277-5812-1783752997.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ZnQLdJji_QOlqED4aV4seA",
+    "link": "https://vnexpress.net/5-loi-ich-khi-an-gia-do-vao-bua-sang-5096228.html",
+    "published_at": "Sun, 12 Jul 2026 03:00:00 +0700",
+    "createAt": "2026-07-11T20:00:00.000Z",
+    "thumbnail_blurhash": "LGMGqrX.5bTL~NR.EU-p0MD$00s*"
+  },
+  {
+    "id": "https://vnexpress.net/4-thoi-quen-moi-sang-giup-phu-nu-khoe-dep-5096281.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "4 thói quen mỗi sáng giúp phụ nữ khỏe đẹp",
+    "description": "Uống nước ấm sau khi thức dậy, ăn sáng đủ chất, tập kegel, phơi nắng sớm giúp phụ nữ duy trì sức khỏe và làm chậm lão hóa.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/11/a-nh-chu-p-ma-n-hi-nh-lu-c-178-1897-2082-1783763143.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=NBYktbN-wr2l9-VajjjZaw",
+    "link": "https://vnexpress.net/4-thoi-quen-moi-sang-giup-phu-nu-khoe-dep-5096281.html",
+    "published_at": "Sun, 12 Jul 2026 07:00:00 +0700",
+    "createAt": "2026-07-12T00:00:00.000Z",
+    "thumbnail_blurhash": "LFDu;r570N~TX%sDn6x?0M-n=wIW"
+  },
+  {
+    "id": "https://vnexpress.net/co-phai-cu-an-do-luoc-la-tot-5091904.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Có phải cứ ăn đồ luộc là tốt?",
+    "description": "Gia đình tôi ngày nào cũng ăn đồ luộc như rau luộc, thịt luộc vì cho rằng chúng lành mạnh, tốt sức khỏe, giảm cân, vậy có phải cứ ăn đồ luộc là tốt? (Hà, 36 tuổi, Hà Nội)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/01/nuoc-luoc-thit-vnexpress-17828-1477-5020-1782872713.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=xIP0wCRjszQkDZA4HpTcng",
+    "link": "https://vnexpress.net/co-phai-cu-an-do-luoc-la-tot-5091904.html",
+    "published_at": "Sun, 12 Jul 2026 07:02:36 +0700",
+    "createAt": "2026-07-12T00:02:36.000Z",
+    "thumbnail_blurhash": "L4B3+#8^00M{Ob9E?wMv00RO~qM_"
+  },
+  {
+    "id": "https://vnexpress.net/tp-hcm-chuan-bi-mang-luoi-benh-vien-cap-co-ban-5096325.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "TP HCM chuẩn bị mạng lưới bệnh viện cấp cơ bản",
+    "description": "Sở Y tế TP HCM bắt đầu đào tạo đội ngũ lãnh đạo các bệnh viện cấp cơ bản, chuẩn bị cho quá trình chuyển đổi hệ thống y tế theo mô hình đa tầng, đa cực, đa trung tâm.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/11/233a2574-1783766501-2049-1783766564.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=6FG2F2ZwPvGhvGqvQwQcoA",
+    "link": "https://vnexpress.net/tp-hcm-chuan-bi-mang-luoi-benh-vien-cap-co-ban-5096325.html",
+    "published_at": "Sun, 12 Jul 2026 08:00:00 +0700",
+    "createAt": "2026-07-12T01:00:00.000Z",
+    "thumbnail_blurhash": "L7D]MI$y?H^*OUs,o~Neu69tE1V="
   }
 ]
