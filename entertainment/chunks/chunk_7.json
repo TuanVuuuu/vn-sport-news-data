@@ -128,5 +128,31 @@
     "published_at": "Sun, 12 Jul 2026 00:00:00 +0700",
     "createAt": "2026-07-11T17:00:00.000Z",
     "thumbnail_blurhash": "LDCPCZ={009v00M|~Ws-?vbbMw$%"
+  },
+  {
+    "id": "https://vnexpress.net/phong-cach-thoi-trang-cua-doi-truong-na-uy-odegaard-5096050.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Phong cách thời trang của đội trưởng Na Uy Odegaard",
+    "description": "Martin Odegaard, đội trưởng tuyển Na Uy, ưu tiên phong cách athleisure - kết hợp đồ thể thao và trang phục thường ngày, đội mũ len do vợ đan.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/07/11/anh-bia-1783747355.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=IcjEmFrP7w8rMIMizOASSw",
+    "link": "https://vnexpress.net/phong-cach-thoi-trang-cua-doi-truong-na-uy-odegaard-5096050.html",
+    "published_at": "Sun, 12 Jul 2026 08:34:35 +0700",
+    "createAt": "2026-07-12T01:34:35.000Z",
+    "thumbnail_blurhash": "LkJ*YZnitRRj~qt7kCt7x]ofbHof"
+  },
+  {
+    "id": "https://vnexpress.net/trung-bay-co-vat-trieu-nguyen-5096027.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Trưng bày cổ vật triều Nguyễn",
+    "description": "Áo nhật bình của Hoàng hậu Nam Phương, kiệu vàng của vua Bảo Đại cùng 100 hiện vật ở thời nhà Nguyễn được trưng bày.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/07/12/img-2102-jpg-1783681788-1783682066-1783820799.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=g_HRUvGbc-7DO3QZ7u_UMw",
+    "link": "https://vnexpress.net/trung-bay-co-vat-trieu-nguyen-5096027.html",
+    "published_at": "Sun, 12 Jul 2026 08:46:58 +0700",
+    "createAt": "2026-07-12T01:46:58.000Z",
+    "thumbnail_blurhash": "L7H9~h1004wJ}s9v~7S4-oNHEgWV"
   }
 ]
