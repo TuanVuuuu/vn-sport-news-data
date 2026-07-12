@@ -245,5 +245,31 @@
     "published_at": "Sun, 12 Jul 2026 19:30:00 +0700",
     "createAt": "2026-07-12T12:30:00.000Z",
     "thumbnail_blurhash": "L9F5]p-V006K00-n?dE29EM_?d%h"
+  },
+  {
+    "id": "https://vnexpress.net/van-mieu-quoc-tu-giam-xua-qua-tranh-5095451.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Văn Miếu - Quốc Tử Giám xưa qua tranh",
+    "description": "Không gian Văn Miếu - Quốc Tử Giám cuối thế kỷ 19, đầu thế kỷ 20 được thể hiện qua tranh của các họa sĩ Pháp.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/07/09/buc-phac-hoa-ve-mieu-khong-tu-1783585039.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=2Y2tkYLGjXGGzL1XM0X2jw",
+    "link": "https://vnexpress.net/van-mieu-quoc-tu-giam-xua-qua-tranh-5095451.html",
+    "published_at": "Mon, 13 Jul 2026 00:00:00 +0700",
+    "createAt": "2026-07-12T17:00:00.000Z",
+    "thumbnail_blurhash": "LAGudh^gIo%L~U-nM|M|xa%Kaea#"
+  },
+  {
+    "id": "https://vnexpress.net/kho-trang-suc-kim-cuong-he-lo-xuat-than-cua-than-dong-yamal-5094722.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Kho trang sức kim cương hé lộ xuất thân của 'thần đồng' Yamal",
+    "description": "\"Thần đồng\" Yamal sắm loạt trang sức kim cương đính kèm mã bưu chính khu phố nghèo anh từng gắn bó tuổi thơ và tri ân gia đình.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/07/12/Yamal-tuoi-19-1783849109.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=zvBs7QhsU-jfg38gBEXYYA",
+    "link": "https://vnexpress.net/kho-trang-suc-kim-cuong-he-lo-xuat-than-cua-than-dong-yamal-5094722.html",
+    "published_at": "Mon, 13 Jul 2026 00:00:00 +0700",
+    "createAt": "2026-07-12T17:00:00.000Z",
+    "thumbnail_blurhash": "L9CsEq8yNG_MB=Y5-oRP4n^+%LE1"
   }
 ]
