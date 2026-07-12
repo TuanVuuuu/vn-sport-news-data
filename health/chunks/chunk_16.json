@@ -1038,5 +1038,31 @@
     "published_at": "Sun, 12 Jul 2026 16:00:00 +0700",
     "createAt": "2026-07-12T09:00:00.000Z",
     "thumbnail_blurhash": "L25OKZs700M_9FRP~qRPOGIUbIM_"
+  },
+  {
+    "id": "https://vnexpress.net/nhin-doi-co-duoc-tiem-vaccine-hpv-5096519.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Nhịn đói có được tiêm vaccine HPV?",
+    "description": "Tôi nhịn bữa tối hôm trước và bữa sáng hôm sau, khi đến tiêm vaccine HPV được bác sĩ yêu cầu ăn nhẹ để tiêm phòng, vì sao như vậy? (Hà Phượng, 22 tuổi, TP HCM)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/12/vnvc-doi-bung-tiem-vac-xin-hpv-4736-2541-1783848246.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=en0SL4QsXVjemCmW9LMzmA",
+    "link": "https://vnexpress.net/nhin-doi-co-duoc-tiem-vaccine-hpv-5096519.html",
+    "published_at": "Sun, 12 Jul 2026 19:00:00 +0700",
+    "createAt": "2026-07-12T12:00:00.000Z",
+    "thumbnail_blurhash": "LUM7u^%3OY%1_NRn-:RPS6t7oJxZ"
+  },
+  {
+    "id": "https://vnexpress.net/tam-buoi-sang-hay-toi-tot-hon-5096528.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Tắm buổi sáng hay tối tốt hơn?",
+    "description": "Tôi thường tắm vào buổi tối sau khi đi làm về, nhưng nhiều người nói tắm buổi sáng mới tốt cho sức khỏe. Xin bác sĩ cho biết nên tắm vào thời điểm nào trong ngày là tốt nhất? (Minh, TP HCM)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/12/gemini-generated-image-w4rqoew-9882-8946-1783851735.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=ya0NuN-V6OY0mbBtUerISA",
+    "link": "https://vnexpress.net/tam-buoi-sang-hay-toi-tot-hon-5096528.html",
+    "published_at": "Sun, 12 Jul 2026 19:55:48 +0700",
+    "createAt": "2026-07-12T12:55:48.000Z",
+    "thumbnail_blurhash": "LYI4w,~p.8%M%gx]%M%MIpbIW=bI"
   }
 ]
