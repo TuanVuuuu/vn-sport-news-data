@@ -1,3 +1,121 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/tu-chu-chip-viet-can-xoa-khoang-trong-ve-nhan-luc-va-ha-tang-5094998.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "'Tự chủ chip Việt cần xóa khoảng trống về nhân lực và hạ tầng'",
+      "description": "Nhân lực và đi sau là lợi thế khi Việt Nam phát triển ngành vi mạch bán dẫn, nhưng để làm chủ công nghệ thực sự vẫn còn những khoảng trống cần lấp đầy, theo TS Lê Quang Đạm.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/08/qdportrait-1783493659-5179-1783493818.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=EiQuufeq8_w6Q3HNDHXxRQ",
+      "link": "https://vnexpress.net/tu-chu-chip-viet-can-xoa-khoang-trong-ve-nhan-luc-va-ha-tang-5094998.html",
+      "published_at": "Mon, 13 Jul 2026 09:00:00 +0700",
+      "createAt": "2026-07-13T02:00:00.000Z",
+      "thumbnail_blurhash": "LTLXoVtR.m%g-noISjf,JCbIs8n$"
+    },
+    {
+      "id": "https://vnexpress.net/hlv-thuy-si-bi-che-gieu-sau-tran-thua-argentina-5096581.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "HLV Thụy Sĩ bị chế giễu sau trận thua Argentina",
+      "description": "HLV Murat Yakin nếm trái đắng liên quan đến trọng tài ở trận Thụy Sĩ thua Argentina tại tứ kết World Cup 2026, chỉ một ngày sau khi ông chê bai đồng nghiệp với lý do tương tự.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/07/12/murat-yakin-1783872920-8374-1783873352.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Ptk3cdDUZ4m6qxguxUcHGA",
+      "link": "https://vnexpress.net/hlv-thuy-si-bi-che-gieu-sau-tran-thua-argentina-5096581.html",
+      "published_at": "Mon, 13 Jul 2026 09:57:36 +0700",
+      "createAt": "2026-07-13T02:57:36.000Z",
+      "thumbnail_blurhash": "LKFhu3$h4o.mxtS3xuiwDiWXxuMx"
+    },
+    {
+      "id": "https://vnexpress.net/tuyen-thu-colombia-khong-dam-ve-nuoc-sau-world-cup-2026-5096631.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Tuyển thủ Colombia không dám về nước sau World Cup 2026",
+      "description": "Tiền đạo Jaminton Campaz tạm thời ở lại Mỹ thay vì trở về Colombia cùng đồng đội sau World Cup 2026, vì nhận nhiều lời đe dọa tính mạng.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/07/13/colombia1-png-1783909108-6419-1783909119.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=-2vcrHcqkoQaOJYB2mkD5A",
+      "link": "https://vnexpress.net/tuyen-thu-colombia-khong-dam-ve-nuoc-sau-world-cup-2026-5096631.html",
+      "published_at": "Mon, 13 Jul 2026 10:07:42 +0700",
+      "createAt": "2026-07-13T03:07:42.000Z",
+      "thumbnail_blurhash": "LGJkDD9JEFxwq,rf~SISK:,,EuIT"
+    },
+    {
+      "id": "https://vnexpress.net/ly-do-co-the-khien-nhieu-nguoi-chet-ngat-trong-quan-pub-thai-lan-5096623.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Lý do có thể khiến nhiều người chết ngạt trong quán pub Thái Lan",
+      "description": "Lối thoát hiểm nhỏ hẹp, bị chướng ngại vật chắn, cùng việc nhiều nạn nhân chạy nhầm vào nhà vệ sinh có thể là lý do khiến vụ cháy quán pub Thái Lan gây thương vong lớn.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/13/hien-truong-1783912711-9648-1783912920.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=1xfcWGVM7bj7fBOFZMlGKQ",
+      "link": "https://vnexpress.net/ly-do-co-the-khien-nhieu-nguoi-chet-ngat-trong-quan-pub-thai-lan-5096623.html",
+      "published_at": "Mon, 13 Jul 2026 10:23:40 +0700",
+      "createAt": "2026-07-13T03:23:40.000Z",
+      "thumbnail_blurhash": "LLE2%u~pROMw_3%MadV?9aV@ofSP"
+    },
+    {
+      "id": "https://vnexpress.net/tre-duoi-6-tuoi-duoc-kham-suc-khoe-mien-phi-the-nao-5096682.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Trẻ dưới 6 tuổi được khám sức khỏe miễn phí thế nào",
+      "description": "Toàn bộ trẻ dưới 6 tuổi trên toàn quốc sẽ được khám sức khỏe định kỳ miễn phí ít nhất mỗi năm một lần nhằm tầm soát bệnh tật, đánh giá sự phát triển toàn diện và tích hợp dữ liệu vào ứng dụng VNeID.",
+      "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/13/233a3836-1783912352-8781-1783912378.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=E1H1QbWNJoDjX1QrHZZTFg",
+      "link": "https://vnexpress.net/tre-duoi-6-tuoi-duoc-kham-suc-khoe-mien-phi-the-nao-5096682.html",
+      "published_at": "Mon, 13 Jul 2026 10:33:10 +0700",
+      "createAt": "2026-07-13T03:33:10.000Z",
+      "thumbnail_blurhash": "LLHea]-?yZxc9EoyMdW99tROI99Y"
+    },
+    {
+      "id": "https://vnexpress.net/no-luc-cuu-nguoi-trong-vu-chay-quan-pub-thai-lan-5096662.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Nỗ lực cứu người trong vụ cháy quán pub Thái Lan",
+      "description": "Chứng kiến luồng lửa phụt ra từ quán pub ở Bangkok, tài xế xe ôm Surin đã lao vào, giúp 5 người chạy thoát trong tình trạng da bị bỏng, phồng rộp.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/13/ap26193692861468-1783911879-8472-1783913581.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=egKkF1ugkz-1ZAYJZ5ecFg",
+      "link": "https://vnexpress.net/no-luc-cuu-nguoi-trong-vu-chay-quan-pub-thai-lan-5096662.html",
+      "published_at": "Mon, 13 Jul 2026 11:01:41 +0700",
+      "createAt": "2026-07-13T04:01:41.000Z",
+      "thumbnail_blurhash": "L3BgJDL400s9~BH=xnW900e*?HI9"
+    },
+    {
+      "id": "https://vnexpress.net/ve-ho-so-hoa-hau-de-du-khach-tra-sex-tour-gia-150-trieu-dong-5096679.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Vẽ 'hồ sơ hoa hậu' để dụ khách trả sex tour giá 150 triệu đồng",
+      "description": "Hàng chục cô gái trong đường dây môi giới mại dâm được dựng \"hồ sơ\" như sinh viên, người mẫu, gắn mác hoa hậu, kèm hình ảnh và số đo hình thể để quảng cáo với khách.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/13/nghi-can-thao-moi-gioi-mai-dam-1500-7038-1783912797.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=3dptc4SS_upe9dIV2_wYaw",
+      "link": "https://vnexpress.net/ve-ho-so-hoa-hau-de-du-khach-tra-sex-tour-gia-150-trieu-dong-5096679.html",
+      "published_at": "Mon, 13 Jul 2026 11:17:45 +0700",
+      "createAt": "2026-07-13T04:17:45.000Z",
+      "thumbnail_blurhash": "LLHe8y#uImx^~WE#M|s:i_I.I=WA"
+    },
+    {
+      "id": "https://vnexpress.net/tp-hcm-se-xay-4-bai-dau-xe-cao-tang-o-noi-do-5096769.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "TP HCM sẽ xây 4 bãi đậu xe cao tầng ở nội đô",
+      "description": "Bốn bãi đậu tổng sức chứa 200 ôtô, gần 500 xe máy, ứng dụng AI nhận diện biển số được đề xuất xây trong các bến xe buýt lớn ở TP HCM, kinh phí khoảng 80 tỷ đồng.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/13/dji17825510381782551437-178391-8019-3914-1783915769.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=DNXNHY20NQ8jD6Rfxtyblg",
+      "link": "https://vnexpress.net/tp-hcm-se-xay-4-bai-dau-xe-cao-tang-o-noi-do-5096769.html",
+      "published_at": "Mon, 13 Jul 2026 11:29:23 +0700",
+      "createAt": "2026-07-13T04:29:23.000Z",
+      "thumbnail_blurhash": "LED,M=~q?H-;?b-p%Mxuoyxu%MtR"
+    },
+    {
+      "id": "https://vnexpress.net/vi-sao-ha-noi-chon-phuc-thinh-thu-lam-thi-diem-xa-phuong-xa-hoi-chu-nghia-5096707.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Vì sao Hà Nội chọn Phúc Thịnh, Thư Lâm thí điểm xã, phường xã hội chủ nghĩa?",
+      "description": "Hà Nội chọn hai xã Phúc Thịnh và Thư Lâm thí điểm mô hình xã, phường xã hội chủ nghĩa nhờ còn nhiều dư địa phát triển, kết nối giao thông thuận lợi và đủ điều kiện tổ chức không gian đô thị mới.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/13/pttl-1783915007-7174-1783915026.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Ua_fn3bRV7mKTGuDCM3DdQ",
+      "link": "https://vnexpress.net/vi-sao-ha-noi-chon-phuc-thinh-thu-lam-thi-diem-xa-phuong-xa-hoi-chu-nghia-5096707.html",
+      "published_at": "Mon, 13 Jul 2026 11:45:59 +0700",
+      "createAt": "2026-07-13T04:45:59.000Z",
+      "thumbnail_blurhash": "LNMR@txu^mti%dW,xuNF}_ayWDWB"
+    }
+  ]
 }
