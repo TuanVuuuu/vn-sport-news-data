@@ -336,5 +336,31 @@
     "published_at": "Mon, 13 Jul 2026 11:43:00 +0700",
     "createAt": "2026-07-13T04:43:00.000Z",
     "thumbnail_blurhash": "LnLpv^-;Mwo0T}%MIUWB~V%MNHkB"
+  },
+  {
+    "id": "https://vnexpress.net/dung-pin-xe-may-dien-dap-kinh-cuu-nguoi-gap-nan-trong-oto-5096748.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Dùng pin xe máy điện đập kính cứu người gặp nạn trong ôtô",
+    "description": "Gặp chiếc ôtô lật nghiêng bên đường, thanh niên 18 tuổi đi xe máy điện vội dừng lại, tháo bộ pin dùng để phá kính.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/13/ezgif1bb65ea26b31237f-17839185-4992-9535-1783920115.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=vcnInMAFX7TEicU6cl7Nxg&t=image",
+    "link": "https://vnexpress.net/dung-pin-xe-may-dien-dap-kinh-cuu-nguoi-gap-nan-trong-oto-5096748.html",
+    "published_at": "Mon, 13 Jul 2026 13:36:58 +0700",
+    "createAt": "2026-07-13T06:36:58.000Z",
+    "thumbnail_blurhash": "L29QQ:HC^T~q-.IVDlIr00+I00DP"
+  },
+  {
+    "id": "https://vnexpress.net/oto-nhieu-nut-bam-doi-khi-gay-mat-tap-trung-hon-man-hinh-cam-ung-5096615.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Ôtô nhiều nút bấm đôi khi gây mất tập trung hơn màn hình cảm ứng",
+    "description": "50 nút bấm trên một mẫu xe Mazda làm tài xế mất nhiều thời gian thao tác hơn màn hình cảm ứng trên xe Tesla.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/13/MazdaCX60-1783906219-6253-1783907141.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=_feR5mHI6oI6S3hSKxK8bQ",
+    "link": "https://vnexpress.net/oto-nhieu-nut-bam-doi-khi-gay-mat-tap-trung-hon-man-hinh-cam-ung-5096615.html",
+    "published_at": "Mon, 13 Jul 2026 14:00:00 +0700",
+    "createAt": "2026-07-13T07:00:00.000Z",
+    "thumbnail_blurhash": "LMCPLpt7nOxZ~UWXRQoIJ-WBMyR*"
   }
 ]
