@@ -596,5 +596,31 @@
     "published_at": "Mon, 13 Jul 2026 00:00:00 +0700",
     "createAt": "2026-07-12T17:00:00.000Z",
     "thumbnail_blurhash": "LPF5~jtSM{t7~WtRjEkC?E%Ln~R*"
+  },
+  {
+    "id": "https://vnexpress.net/ceo-sk-hynix-khung-hoang-chip-nho-dat-dinh-nam-2027-5096368.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "CEO SK Hynix: Khủng hoảng chip nhớ đạt đỉnh năm 2027",
+    "description": "CEO SK Hynix Kwak Noh-jung cho rằng tình trạng khan hiếm chip nhớ chưa đi xuống, thậm chí đạt đỉnh năm tới và có thể kéo dài đến năm 2030.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/11/sk-1783781345-2172-1783781388.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=Yn8MkRk8Olt4aBGQCz__mw",
+    "link": "https://vnexpress.net/ceo-sk-hynix-khung-hoang-chip-nho-dat-dinh-nam-2027-5096368.html",
+    "published_at": "Mon, 13 Jul 2026 07:53:42 +0700",
+    "createAt": "2026-07-13T00:53:42.000Z",
+    "thumbnail_blurhash": "LWAnZ2%2a1af?]s;V@af.QofV@ay"
+  },
+  {
+    "id": "https://vnexpress.net/nhung-khoang-trong-can-xoa-de-tu-chu-cong-nghe-chip-viet-5094998.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Những khoảng trống cần xóa để tự chủ công nghệ chip Việt",
+    "description": "Nhân lực và đi sau là lợi thế khi Việt Nam phát triển ngành vi mạch bán dẫn, nhưng để làm chủ công nghệ thực sự vẫn còn những khoảng trống cần lấp đầy, theo TS Lê Quang Đạm.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/08/qdportrait-1783493659-5179-1783493818.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=EiQuufeq8_w6Q3HNDHXxRQ",
+    "link": "https://vnexpress.net/nhung-khoang-trong-can-xoa-de-tu-chu-cong-nghe-chip-viet-5094998.html",
+    "published_at": "Mon, 13 Jul 2026 09:00:00 +0700",
+    "createAt": "2026-07-13T02:00:00.000Z",
+    "thumbnail_blurhash": "LTLXoVtR?^%g-noISjkDJCbIs8ni"
   }
 ]
