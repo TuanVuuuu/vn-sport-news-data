@@ -648,5 +648,31 @@
     "published_at": "Mon, 13 Jul 2026 11:00:00 +0700",
     "createAt": "2026-07-13T04:00:00.000Z",
     "thumbnail_blurhash": "LLI}Fi-;$z-p_NjZslofslWBNHRj"
+  },
+  {
+    "id": "https://vnexpress.net/elon-musk-lai-khau-chien-voi-sam-altman-5096601.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Elon Musk lại 'khẩu chiến' với Sam Altman",
+    "description": "Elon Musk và Sam Altman công kích lẫn nhau trên mạng xã hội sau khi Apple kiện OpenAI với cáo buộc \"đánh cắp bí mật kinh doanh\".",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/13/musk-1783905878-9630-1783906077.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=SZ3svzRGdjxVqt9Er9xcJg",
+    "link": "https://vnexpress.net/elon-musk-lai-khau-chien-voi-sam-altman-5096601.html",
+    "published_at": "Mon, 13 Jul 2026 11:28:18 +0700",
+    "createAt": "2026-07-13T04:28:18.000Z",
+    "thumbnail_blurhash": "LCAA5cIUM{%L~WRkWBxa57t8ofRj"
+  },
+  {
+    "id": "https://vnexpress.net/ai-tren-iphone-ipad-ho-tro-kham-chua-benh-o-singapore-5095831.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "AI trên iPhone, iPad hỗ trợ khám chữa bệnh ở Singapore",
+    "description": "Thay vì lắp đặt phòng thí nghiệm dáng đi trị giá triệu USD, bác sĩ phẫu thuật thần kinh tại SingHealth sử dụng CareCam ứng dụng AI trên iPad Pro để hỗ trợ chẩn đoán bệnh.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/13/top-1783915842-7411-1783915872.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=lcRLd0EWtVLCURP3Bz9tlQ",
+    "link": "https://vnexpress.net/ai-tren-iphone-ipad-ho-tro-kham-chua-benh-o-singapore-5095831.html",
+    "published_at": "Mon, 13 Jul 2026 12:10:00 +0700",
+    "createAt": "2026-07-13T05:10:00.000Z",
+    "thumbnail_blurhash": "LUEyoGMwxujF8_xuofae_MaxV@WB"
   }
 ]
