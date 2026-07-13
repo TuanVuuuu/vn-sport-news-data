@@ -635,5 +635,31 @@
     "published_at": "Mon, 13 Jul 2026 15:23:24 +0700",
     "createAt": "2026-07-13T08:23:24.000Z",
     "thumbnail_blurhash": "LVBXc^o#e.og.TkCf6j]j=ayfPfQ"
+  },
+  {
+    "id": "https://vnexpress.net/vn-index-giam-gan-30-diem-5096916.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "VN-Index giảm gần 30 điểm",
+    "description": "Chứng khoán chịu áp lực bán mạnh và đóng cửa ngay mốc 1.800 điểm, giảm gần 30 điểm so với tham chiếu, đánh dấu phiên giảm sâu nhất trong ba tháng.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/13/settopvnindex-1783934342-8881-1783934378.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=fvHl-uGFB_ruQcixlxwefA",
+    "link": "https://vnexpress.net/vn-index-giam-gan-30-diem-5096916.html",
+    "published_at": "Mon, 13 Jul 2026 15:41:57 +0700",
+    "createAt": "2026-07-13T08:41:57.000Z",
+    "thumbnail_blurhash": "LGR7.3}a^lx[_*S~Xm+~spbFkWa1"
+  },
+  {
+    "id": "https://vnexpress.net/techcom-life-nhan-cu-dup-giai-thuong-tai-insurance-asia-awards-2026-5096949.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Techcom Life nhận cú đúp giải thưởng tại Insurance Asia Awards 2026",
+    "description": "Techcom Life được Insurance Asia Awards 2026 trao hai giải thưởng về chuyển đổi số và bảo hiểm nhân thọ, ghi nhận các giải pháp ứng dụng AI và nền tảng số trong hoạt động kinh doanh.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/13/image-thg-1783933546-9006-1783933632.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=d2vbtz4_S3uwdZglmTskGQ",
+    "link": "https://vnexpress.net/techcom-life-nhan-cu-dup-giai-thuong-tai-insurance-asia-awards-2026-5096949.html",
+    "published_at": "Mon, 13 Jul 2026 16:30:00 +0700",
+    "createAt": "2026-07-13T09:30:00.000Z",
+    "thumbnail_blurhash": "LiIy-?x9,^xI^UbcS0f8RQa%NYWX"
   }
 ]
