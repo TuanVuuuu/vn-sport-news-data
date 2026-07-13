@@ -128,5 +128,31 @@
     "published_at": "Mon, 13 Jul 2026 20:29:37 +0700",
     "createAt": "2026-07-13T13:29:37.000Z",
     "thumbnail_blurhash": "LEG8.U9aIq-pyZVrwGt7Z~s*JDkC"
+  },
+  {
+    "id": "https://vnexpress.net/tim-viec-cho-nguoi-tuoi-huu-5096857.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Tìm việc cho người tuổi hưu",
+    "description": "\"Tuổi này rồi bác còn làm được gì? Có công việc nào hợp không?\" là những câu hỏi tư vấn viên Nguyễn Thị Hiền thường nghe khi đối diện là người cao tuổi đang đi tìm việc.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/13/IMG9252-1783940376-2485-1783940702.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=G9QWman9c-HvUuxQMaTtLA",
+    "link": "https://vnexpress.net/tim-viec-cho-nguoi-tuoi-huu-5096857.html",
+    "published_at": "Tue, 14 Jul 2026 00:00:00 +0700",
+    "createAt": "2026-07-13T17:00:00.000Z",
+    "thumbnail_blurhash": "LiJa$j-.R4Ri~nxvIpt6-=oIWBtS"
+  },
+  {
+    "id": "https://vnexpress.net/ha-noi-hoi-sinh-nha-tai-dinh-cu-bo-hoang-5076667.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Hà Nội 'hồi sinh' nhà tái định cư bỏ hoang",
+    "description": "Dự án nhà tái định cư N01 nằm ở ngã tư Duy Tân - Trần Thái Tông, phường Cầu Giấy, với gần 300 căn hộ đang được gấp rút hoàn thiện sau hơn chục năm bỏ hoang.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/05/21/DJI-20260521120233-0373-D-copy-1779356562.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=v5KKLJKDf6oW4GaJu1rZtA",
+    "link": "https://vnexpress.net/ha-noi-hoi-sinh-nha-tai-dinh-cu-bo-hoang-5076667.html",
+    "published_at": "Tue, 14 Jul 2026 00:00:00 +0700",
+    "createAt": "2026-07-13T17:00:00.000Z",
+    "thumbnail_blurhash": "LWGIyDS2Rkt7?wxuofRj-=ofxua#"
   }
 ]
