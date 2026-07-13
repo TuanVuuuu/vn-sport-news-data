@@ -1,5 +1,5 @@
 {
-  "total_articles": 899,
+  "total_articles": 903,
   "files": [
     "chunk_1.json",
     "chunk_2.json",
@@ -9,7 +9,8 @@
     "chunk_6.json",
     "chunk_7.json",
     "chunk_8.json",
-    "chunk_9.json"
+    "chunk_9.json",
+    "chunk_10.json"
   ],
   "channel": {
     "title": "Thời sự - VnExpress RSS",
@@ -18,7 +19,7 @@
     "copyright": "",
     "logo_url": "https://s.vnecdn.net/vnexpress/i/v20/logos/vne_logo_rss.png",
     "link": "https://vnexpress.net/rss/thoi-su.rss",
-    "last_updated": "Mon, 13 Jul 2026 14:31:46 +0700"
+    "last_updated": "Mon, 13 Jul 2026 16:11:25 +0700"
   },
-  "last_updated": "2026-07-13T10:11:31.756Z"
+  "last_updated": "2026-07-13T10:41:20.767Z"
 }
