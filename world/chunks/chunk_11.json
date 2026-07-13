@@ -1168,5 +1168,44 @@
     "published_at": "Mon, 13 Jul 2026 09:36:57 +0700",
     "createAt": "2026-07-13T02:36:57.000Z",
     "thumbnail_blurhash": "LTK1n2s,_Noh-mxaMyWY55WBV?kC"
+  },
+  {
+    "id": "https://vnexpress.net/hien-truong-vu-chay-quan-pub-o-thai-lan-5096628.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Hiện trường vụ cháy quán pub ở Thái Lan",
+    "description": "Đám cháy bùng phát gần sân khấu và nhanh chóng lan lên trần nhà quán pub Na Ladprao ở Bangkok, thiêu rụi mọi thứ và khiến ít nhất 27 người chết.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/13/hien-truong-1783911186.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=gvYebheNnQjsTR69PDKzYQ",
+    "link": "https://vnexpress.net/hien-truong-vu-chay-quan-pub-o-thai-lan-5096628.html",
+    "published_at": "Mon, 13 Jul 2026 09:49:59 +0700",
+    "createAt": "2026-07-13T02:49:59.000Z",
+    "thumbnail_blurhash": "L8C$.cE70K0KA0~WM_IT^*RnIoRP"
+  },
+  {
+    "id": "https://vnexpress.net/sung-may-mat-kiem-soat-linh-nga-thoat-chet-trong-gang-tac-5096630.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Súng máy mất kiểm soát, lính Nga thoát chết trong gang tấc",
+    "description": "Xạ thủ Nga mất kiểm soát súng máy nòng xoay 12,7 mm khi huấn luyện, khiến bệ súng xoay tròn và suýt bắn trúng huấn luyện viên đứng phía sau.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/13/5563187178137269406b-178390666-8182-1387-1783907187.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=MB51KOfJIm2wyBYcHeEycw&t=image",
+    "link": "https://vnexpress.net/sung-may-mat-kiem-soat-linh-nga-thoat-chet-trong-gang-tac-5096630.html",
+    "published_at": "Mon, 13 Jul 2026 10:11:43 +0700",
+    "createAt": "2026-07-13T03:11:43.000Z",
+    "thumbnail_blurhash": "LjEyiHaea}t8~qoga#of%Logj[f6"
+  },
+  {
+    "id": "https://vnexpress.net/ly-do-co-the-khien-nhieu-nguoi-chet-ngat-trong-quan-pub-thai-lan-5096623.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Lý do có thể khiến nhiều người chết ngạt trong quán pub Thái Lan",
+    "description": "Lối thoát hiểm nhỏ hẹp, bị chướng ngại vật chắn, cùng việc nhiều nạn nhân chạy nhầm vào nhà vệ sinh có thể là lý do khiến vụ cháy quán pub Thái Lan gây thương vong lớn.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/13/hien-truong-1783912711-9648-1783912920.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=1xfcWGVM7bj7fBOFZMlGKQ",
+    "link": "https://vnexpress.net/ly-do-co-the-khien-nhieu-nguoi-chet-ngat-trong-quan-pub-thai-lan-5096623.html",
+    "published_at": "Mon, 13 Jul 2026 10:23:40 +0700",
+    "createAt": "2026-07-13T03:23:40.000Z",
+    "thumbnail_blurhash": "LLE2%u~pROMw_3%MadV?9aV@ofSP"
   }
 ]
