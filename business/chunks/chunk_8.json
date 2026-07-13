@@ -661,5 +661,57 @@
     "published_at": "Mon, 13 Jul 2026 16:30:00 +0700",
     "createAt": "2026-07-13T09:30:00.000Z",
     "thumbnail_blurhash": "LiIy-?x9,^xI^UbcS0f8RQa%NYWX"
+  },
+  {
+    "id": "https://vnexpress.net/fitch-ratings-lan-dau-xep-hang-hdbank-o-muc-bb-5097002.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Fitch Ratings lần đầu xếp hạng HDBank ở mức BB-",
+    "description": "HDBank được Fitch Ratings xếp hạng nhà phát hành nợ dài hạn ở mức BB- cùng triển vọng \"Ổn định\", nhờ khả năng sinh lời cao, nguồn vốn ổn định, tăng trưởng tài sản tốt.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/13/2hgb6exo80uksjirnjle77f0nq3ilr-2264-3851-1783939609.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=aWpWwaw_OtQpsCXY1-9bdg",
+    "link": "https://vnexpress.net/fitch-ratings-lan-dau-xep-hang-hdbank-o-muc-bb-5097002.html",
+    "published_at": "Mon, 13 Jul 2026 18:00:00 +0700",
+    "createAt": "2026-07-13T11:00:00.000Z",
+    "thumbnail_blurhash": "LsOC,0ozNZxt~Vofogj[x[Rkocay"
+  },
+  {
+    "id": "https://vnexpress.net/chau-au-co-the-thieu-nhien-lieu-may-bay-5096852.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Châu Âu có thể thiếu nhiên liệu máy bay",
+    "description": "Hãng tư vấn năng lượng Energy Aspects ước tính châu Âu sẽ thiếu gần 600.000 thùng nhiên liệu bay một ngày trong quý III.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/13/screenshot-1783932604-2453-1783933550.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=2EglWXdUVE-FycA0oLzIEw",
+    "link": "https://vnexpress.net/chau-au-co-the-thieu-nhien-lieu-may-bay-5096852.html",
+    "published_at": "Mon, 13 Jul 2026 18:05:00 +0700",
+    "createAt": "2026-07-13T11:05:00.000Z",
+    "thumbnail_blurhash": "LD8=Q@W=p2p1tTn}kCW9ThspaIV="
+  },
+  {
+    "id": "https://vnexpress.net/sun-phuquoc-airways-ra-mat-nhan-dien-tau-bay-moi-5097011.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Sun PhuQuoc Airways ra mắt nhận diện tàu bay mới",
+    "description": "Sun PhuQuoc Airways áp dụng bộ nhận diện thương hiệu mới cho tàu bay, xây dựng hình ảnh thành hãng hàng không 5 sao quốc tế.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/13/kho-ng-co-tie-u-de-dsdsdsdsdsd-6585-3661-1783941868.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=5mXjOejUFHK19TwYX9thpg",
+    "link": "https://vnexpress.net/sun-phuquoc-airways-ra-mat-nhan-dien-tau-bay-moi-5097011.html",
+    "published_at": "Mon, 13 Jul 2026 18:45:00 +0700",
+    "createAt": "2026-07-13T11:45:00.000Z",
+    "thumbnail_blurhash": "LjFGOZogjFoz.AWXt6ofxtbHt7oe"
+  },
+  {
+    "id": "https://vnexpress.net/bo-cong-thuong-co-the-truy-xuat-tung-lo-xang-e10-khi-xay-ra-su-co-5096951.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Bộ Công Thương: Có thể truy xuất từng lô xăng E10 khi xảy ra sự cố",
+    "description": "Khi người dân phản ánh bất thường về xăng E10, cơ quan chức năng có thể truy xuất ngược từ cửa hàng bán lẻ đến tổng kho, khâu pha chế và nhập khẩu qua mẫu nhiên liệu được lưu trữ.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/13/dangtatthanh-1783931263-1738-1783933434.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=waAn-3Kqg4HUanQoi1RkWQ",
+    "link": "https://vnexpress.net/bo-cong-thuong-co-the-truy-xuat-tung-lo-xang-e10-khi-xay-ra-su-co-5096951.html",
+    "published_at": "Mon, 13 Jul 2026 18:45:50 +0700",
+    "createAt": "2026-07-13T11:45:50.000Z",
+    "thumbnail_blurhash": "LIEyb~S%8^RNZe9F?w%gx[RQ%N-p"
   }
 ]
