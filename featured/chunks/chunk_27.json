@@ -999,5 +999,44 @@
     "published_at": "Mon, 13 Jul 2026 07:00:00 +0700",
     "createAt": "2026-07-13T00:00:00.000Z",
     "thumbnail_blurhash": "LbF#?V~B%1WT^i-Ts+R%xaxZoebI"
+  },
+  {
+    "id": "https://vnexpress.net/bo-nghi-huu-som-vi-khong-chiu-duoc-nhan-roi-5095398.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Bỏ nghỉ hưu sớm vì không chịu được nhàn rỗi",
+    "description": "Anh Phát Nguyễn nghỉ hưu ở tuổi 40 khi có khối tài sản 20 tỷ, thu nhập thụ động 35-40 triệu đồng mỗi tháng nhưng 2 năm sau quyết định trở lại công sở vì sợ sự nhàn rỗi.",
+    "thumbnail_url": "https://vcdn1-giadinh.vnecdn.net/2026/07/11/anh2-1783726075-2298-1783738579.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ZJC9Y7z9O1-shcKY2ibRbQ",
+    "link": "https://vnexpress.net/bo-nghi-huu-som-vi-khong-chiu-duoc-nhan-roi-5095398.html",
+    "published_at": "Mon, 13 Jul 2026 06:00:00 +0700",
+    "createAt": "2026-07-12T23:00:00.000Z",
+    "thumbnail_blurhash": "LTHU,{9FD%t4E=xUjDR:M|S*jXjY"
+  },
+  {
+    "id": "https://vnexpress.net/cuoc-cai-cach-moi-truong-kinh-doanh-chua-tung-co-5091182.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Cuộc cải cách môi trường kinh doanh 'chưa từng có'",
+    "description": "Từ sáng sớm đến gần nửa đêm, nhiều cán bộ các bộ, ngành gần như làm việc liên tục tại Bộ Tư pháp. Mỗi khi phát sinh một điểm vướng trong dự thảo nghị quyết, sau vài phút tranh luận, phương án mới được chỉnh sửa ngay trên bản dự thảo.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/13/graphicDKKD-1783901652-2487-1783902261.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=yeybHczEvxz1LPfNURuOuw",
+    "link": "https://vnexpress.net/cuoc-cai-cach-moi-truong-kinh-doanh-chua-tung-co-5091182.html",
+    "published_at": "Mon, 13 Jul 2026 07:25:08 +0700",
+    "createAt": "2026-07-13T00:25:08.000Z",
+    "thumbnail_blurhash": "LIR:1r%f.8^+_NoJrrbcx^t7VrM{"
+  },
+  {
+    "id": "https://vnexpress.net/chay-nha-hang-o-thai-lan-it-nhat-27-nguoi-chet-5096594.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Cháy nhà hàng ở Thái Lan, ít nhất 27 người chết",
+    "description": "Ít nhất 27 người thiệt mạng và hàng chục người bị thương sau vụ cháy tại một nhà hàng ở Thái Lan, nhiều trường hợp đang nguy kịch.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/13/Settop-1783901582-7629-1783902109.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=1mJ5R5n3T1X8d50B37886A",
+    "link": "https://vnexpress.net/chay-nha-hang-o-thai-lan-it-nhat-27-nguoi-chet-5096594.html",
+    "published_at": "Mon, 13 Jul 2026 07:34:45 +0700",
+    "createAt": "2026-07-13T00:34:45.000Z",
+    "thumbnail_blurhash": "LZO1=p~B00Q--7xugNnh4nRjyXXn"
   }
 ]
