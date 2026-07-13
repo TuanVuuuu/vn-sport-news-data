@@ -479,5 +479,31 @@
     "published_at": "Mon, 13 Jul 2026 09:00:00 +0700",
     "createAt": "2026-07-13T02:00:00.000Z",
     "thumbnail_blurhash": "LjGlVHD*s.WC_4NHaejs%gbcRjjY"
+  },
+  {
+    "id": "https://vnexpress.net/xin-phep-xay-dung-nha-o-tai-tp-hcm-chi-con-toi-da-7-ngay-5096734.html",
+    "category_id": "real-estate",
+    "category_name": "Bất động sản",
+    "source": "VnExpress",
+    "title": "Xin phép xây dựng nhà ở tại TP HCM chỉ còn tối đa 7 ngày",
+    "description": "Từ ngày 1/7, hồ sơ cấp mới, sửa chữa, cải tạo hoặc điều chỉnh giấy phép xây dựng nhà ở riêng lẻ tại TP HCM được giao về xã, phường và giải quyết trong tối đa 7 ngày làm việc.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/13/dji-1783915165-1615-1783915187.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=4UR7xT37XjJ3du9lT_1zOg",
+    "link": "https://vnexpress.net/xin-phep-xay-dung-nha-o-tai-tp-hcm-chi-con-toi-da-7-ngay-5096734.html",
+    "published_at": "Mon, 13 Jul 2026 14:30:07 +0700",
+    "createAt": "2026-07-13T07:30:07.000Z",
+    "thumbnail_blurhash": "LJEpKCxuRjxuyZX9kCa#yFozj[a}"
+  },
+  {
+    "id": "https://vnexpress.net/ha-noi-du-kien-co-them-do-thi-da-muc-tieu-cua-vinhomes-5096851.html",
+    "category_id": "real-estate",
+    "category_name": "Bất động sản",
+    "source": "VnExpress",
+    "title": "Hà Nội dự kiến có thêm đô thị đa mục tiêu của Vinhomes",
+    "description": "Vinhomes có thể đầu tư khu đô thị đa mục tiêu với quy mô hơn 270 ha tại xã Bình Minh, TP Hà Nội.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/13/1-1783927724-2100-1783928184.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=xo7YVjjmg-W94qJ7O1wV0A",
+    "link": "https://vnexpress.net/ha-noi-du-kien-co-them-do-thi-da-muc-tieu-cua-vinhomes-5096851.html",
+    "published_at": "Mon, 13 Jul 2026 14:55:18 +0700",
+    "createAt": "2026-07-13T07:55:18.000Z",
+    "thumbnail_blurhash": "L+EzA-V@WBof.AWCoJj[tSWCkCa}"
   }
 ]
