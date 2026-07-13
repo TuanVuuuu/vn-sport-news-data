@@ -609,5 +609,31 @@
     "published_at": "Mon, 13 Jul 2026 10:33:07 +0700",
     "createAt": "2026-07-13T03:33:07.000Z",
     "thumbnail_blurhash": "LIDl.%?c9aDi~q%NIpM{IAt7R*ju"
+  },
+  {
+    "id": "https://vnexpress.net/vinfast-viet-nam-tang-von-gan-gap-doi-5096872.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "VinFast Việt Nam tăng vốn gần gấp đôi",
+    "description": "Bằng cách phát hành 500 triệu cổ phiếu ưu đãi, VinFast Việt Nam đã tăng vốn gần gấp đôi, từ 5.183 tỷ đồng lên 10.183 tỷ đồng.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/13/7a78f7fb93401d1e4451-178392849-3534-7155-1783928551.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=fM_sdYY4HEdsoASLoF46_A",
+    "link": "https://vnexpress.net/vinfast-viet-nam-tang-von-gan-gap-doi-5096872.html",
+    "published_at": "Mon, 13 Jul 2026 15:07:15 +0700",
+    "createAt": "2026-07-13T08:07:15.000Z",
+    "thumbnail_blurhash": "LgGt]D%Lozxa~A%2a}t7$y$*jvS1"
+  },
+  {
+    "id": "https://vnexpress.net/ly-do-gia-dau-khong-tang-manh-du-xung-dot-trung-dong-leo-thang-5096738.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Lý do giá dầu không tăng mạnh dù xung đột Trung Đông leo thang",
+    "description": "Bất chấp căng thẳng Trung Đông leo thang, giá dầu chỉ biến động vài USD do thị trường đã dần thích ứng, nguồn cung tăng còn nhu cầu giảm.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/13/AFP-20260621-AA-21062026-28409-5912-5317-1783918846.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=lyaq05GN8EYSUctPtdeosg",
+    "link": "https://vnexpress.net/ly-do-gia-dau-khong-tang-manh-du-xung-dot-trung-dong-leo-thang-5096738.html",
+    "published_at": "Mon, 13 Jul 2026 15:23:24 +0700",
+    "createAt": "2026-07-13T08:23:24.000Z",
+    "thumbnail_blurhash": "LVBXc^o#e.og.TkCf6j]j=ayfPfQ"
   }
 ]
