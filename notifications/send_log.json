@@ -1,39 +1,6 @@
 {
   "entries": [
     {
-      "sent_at": "2026-07-08T10:51:10.456Z",
-      "topic": null,
-      "device_id": "FA653F7B-321B-4D20-867C-5FF2667949AC",
-      "slot": "evening",
-      "type": "featured_digest",
-      "article_ids": [
-        "https://vnexpress.net/my-bat-dau-cap-tai-khoan-1-000-usd-cho-tre-em-dau-tu-chung-khoan-5094336.html",
-        "https://vnexpress.net/co-phieu-pnj-thoat-gia-san-5094884.html",
-        "https://vnexpress.net/co-phieu-pnj-lap-ky-luc-thanh-khoan-5094884.html",
-        "https://vnexpress.net/my-tuyen-bo-danh-trung-hon-80-muc-tieu-trong-don-tap-kich-iran-5094855.html",
-        "https://vnexpress.net/lai-suat-thoa-thuan-cham-moc-9-mot-nam-5094761.html",
-        "https://vnexpress.net/5-san-bay-tiem-nang-duoc-bo-sung-vao-quy-hoach-5094912.html",
-        "https://vnexpress.net/nhom-nghi-si-chau-au-de-nghi-dieu-tra-chu-tich-fifa-5094896.html",
-        "https://vnexpress.net/vinfast-dieu-chinh-gia-12-dong-xe-may-dien-5094822.html",
-        "https://vnexpress.net/diem-den-xanh-mat-giua-ngay-he-o-ha-noi-5089236.html",
-        "https://vnexpress.net/cbre-toc-do-tang-gia-chung-cu-cu-o-ha-noi-giam-mot-nua-5094899.html",
-        "https://vnexpress.net/tra-cuu-diem-thi-danh-gia-vao-7-truong-cong-an-nam-2026-5094953.html",
-        "https://vnexpress.net/quoc-hoi-du-kien-hop-khong-thuong-le-dau-thang-8-5094948.html",
-        "https://vnexpress.net/benh-vien-viet-duc-co-so-ninh-binh-hien-dai-truoc-ngay-hoat-dong-5094737.html",
-        "https://vnexpress.net/tp-hcm-lay-y-kien-ten-goi-cac-ga-metro-ben-thanh-suoi-tien-tham-luong-5094980.html",
-        "https://vnexpress.net/viet-nam-vien-tro-300-000-usd-cho-venezuela-5094935.html",
-        "https://vnexpress.net/hanh-trinh-tim-nan-nhan-duoi-dong-do-nat-o-venezuela-5094303.html",
-        "https://vnexpress.net/loi-choi-cua-messi-tien-hoa-the-nao-trong-suot-su-nghiep-5095021.html",
-        "https://vnexpress.net/huyen-thoai-brazil-can-loi-vi-messi-5094835.html",
-        "https://vnexpress.net/ong-trump-lenh-ngung-ban-voi-iran-da-het-5095058.html",
-        "https://vnexpress.net/diem-san-khoi-nganh-y-duoc-tang-tro-lai-5092481.html",
-        "https://vnexpress.net/vn-index-tang-hai-phien-lien-tiep-5095057.html",
-        "https://vnexpress.net/diem-san-khoi-nganh-phap-luat-nam-2026-chi-tiet-nhat-5094522.html",
-        "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-dao-tao-nhan-luc-khong-chay-theo-bang-cap-5095046.html"
-      ],
-      "highlight_id": "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-dao-tao-nhan-luc-khong-chay-theo-bang-cap-5095046.html"
-    },
-    {
       "sent_at": "2026-07-08T10:51:10.722Z",
       "topic": null,
       "device_id": "114399F5-85A2-42A5-957C-50F99E8EE78F",
@@ -15442,6 +15409,21 @@
         "https://vnexpress.net/thue-nha-roi-gia-lam-chu-de-ban-lua-gan-8-ty-dong-5096890.html"
       ],
       "highlight_id": "https://vnexpress.net/thue-nha-roi-gia-lam-chu-de-ban-lua-gan-8-ty-dong-5096890.html"
+    },
+    {
+      "sent_at": "2026-07-13T12:21:09.577Z",
+      "topic": null,
+      "device_id": "EBB7CAB7-FDF1-438F-87F2-A9999FBD4DB9",
+      "slot": "evening",
+      "type": "featured_digest",
+      "article_ids": [
+        "https://vnexpress.net/to-giay-tren-coc-tien-trong-ket-sat-lo-duong-day-chay-viec-vao-vien-phap-y-tam-than-5096793.html",
+        "https://vnexpress.net/de-xuat-lap-khu-kinh-te-dac-biet-tai-vi-tri-chien-luoc-ven-bien-5096778.html",
+        "https://vnexpress.net/nha-hang-bi-phat-hon-10-trieu-dong-sau-phan-anh-chat-chem-du-khach-5096912.html",
+        "https://vnexpress.net/tuyen-viet-nam-toan-thang-tai-han-quoc-5097008.html",
+        "https://vnexpress.net/tim-thay-5-hai-cot-liet-si-trong-hang-da-sap-5097005.html"
+      ],
+      "highlight_id": "https://vnexpress.net/tim-thay-5-hai-cot-liet-si-trong-hang-da-sap-5097005.html"
     }
   ]
 }
