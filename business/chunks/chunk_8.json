@@ -791,5 +791,31 @@
     "published_at": "Tue, 14 Jul 2026 10:04:14 +0700",
     "createAt": "2026-07-14T03:04:14.000Z",
     "thumbnail_blurhash": "LPL4KJ$xM]%fPEx^IBs=-?MyIURj"
+  },
+  {
+    "id": "https://vnexpress.net/chia-nho-giao-dich-tien-ma-hoa-co-the-bi-coi-la-dau-hieu-dang-ngo-5097219.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Chia nhỏ giao dịch tiền mã hóa có thể bị coi là dấu hiệu đáng ngờ",
+    "description": "Dự thảo Luật Phòng, chống rửa tiền đề xuất 15 dấu hiệu giao dịch đáng ngờ trong lĩnh vực tài sản mã hóa, trong đó có việc chia nhỏ giao dịch để né báo cáo, sử dụng công cụ hoặc dịch vụ ẩn danh và giao dịch với sàn chưa được cấp phép.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/14/202607140922414559z80402030502-7267-9199-1784004346.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=xT4Hsocd3G6j_XdxwlDcLA",
+    "link": "https://vnexpress.net/chia-nho-giao-dich-tien-ma-hoa-co-the-bi-coi-la-dau-hieu-dang-ngo-5097219.html",
+    "published_at": "Tue, 14 Jul 2026 11:16:43 +0700",
+    "createAt": "2026-07-14T04:16:43.000Z",
+    "thumbnail_blurhash": "LDM$uZ~q00QR4TRPt-%2T1D*?v-="
+  },
+  {
+    "id": "https://vnexpress.net/my-tham-hut-ngan-sach-vi-hoan-thue-nhap-khau-5097230.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Mỹ thâm hụt ngân sách vì hoàn thuế nhập khẩu",
+    "description": "Bộ Tài chính Mỹ cho biết tiền hoàn thuế nhập khẩu tăng lên khiến ngân sách nước này thâm hụt 120 tỷ USD trong tháng 6.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/14/2024t001618z-1784001377-2974-1784001441.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ARGH3QvHmD3kOjcWcciAwg",
+    "link": "https://vnexpress.net/my-tham-hut-ngan-sach-vi-hoan-thue-nhap-khau-5097230.html",
+    "published_at": "Tue, 14 Jul 2026 11:18:46 +0700",
+    "createAt": "2026-07-14T04:18:46.000Z",
+    "thumbnail_blurhash": "L+JH?uRjt7xu_NRjoft7%Mofayj["
   }
 ]
