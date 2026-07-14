@@ -544,5 +544,31 @@
     "published_at": "Wed, 15 Jul 2026 04:00:00 +0700",
     "createAt": "2026-07-14T21:00:00.000Z",
     "thumbnail_blurhash": "LSHVCz_3xuV?~pkCRiV@ITIUtQj["
+  },
+  {
+    "id": "https://vnexpress.net/volkswagen-va-cac-thuong-hieu-con-chuan-bi-khai-tu-mot-nua-mau-xe-tren-toan-cau-5096903.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Volkswagen và các thương hiệu con chuẩn bị khai tử một nửa mẫu xe trên toàn cầu",
+    "description": "Tập đoàn Đức lên kế hoạch cắt giảm 50% số lượng mẫu xe và 75% số lượng phiên bản và tùy chọn hệ truyền động tính đến năm 2030.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/13/VolkswagenID5-1783931435-4004-1783931749.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=DPbcMO2MWT6z4J8VJ9eMXw",
+    "link": "https://vnexpress.net/volkswagen-va-cac-thuong-hieu-con-chuan-bi-khai-tu-mot-nua-mau-xe-tren-toan-cau-5096903.html",
+    "published_at": "Wed, 15 Jul 2026 05:00:00 +0700",
+    "createAt": "2026-07-14T22:00:00.000Z",
+    "thumbnail_blurhash": "LBCsjp_2^FMwT#xsNER.]dM_-=%h"
+  },
+  {
+    "id": "https://vnexpress.net/denza-z-xe-dien-trung-quoc-nhanh-hon-va-re-hon-porsche-911-5097196.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Denza Z - xe điện Trung Quốc nhanh hơn và rẻ hơn Porsche 911",
+    "description": "Mẫu xe điện mới của BYD có công suất 1.582 mã lực, tăng tốc 0-100 km/h trong 1,96 giây kèm giá bán 184.800 USD ở thị trường quốc tế.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/14/BYDDenzaZ2-1784001876-7258-1784012200.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=B-YwYYkFxqyK3ksRRsjX6w",
+    "link": "https://vnexpress.net/denza-z-xe-dien-trung-quoc-nhanh-hon-va-re-hon-porsche-911-5097196.html",
+    "published_at": "Wed, 15 Jul 2026 06:00:00 +0700",
+    "createAt": "2026-07-14T23:00:00.000Z",
+    "thumbnail_blurhash": "LBDS][R:~V_30gxv00RjIC_4_N9F"
   }
 ]
