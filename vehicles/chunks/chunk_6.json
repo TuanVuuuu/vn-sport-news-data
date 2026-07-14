@@ -440,5 +440,44 @@
     "published_at": "Tue, 14 Jul 2026 07:00:00 +0700",
     "createAt": "2026-07-14T00:00:00.000Z",
     "thumbnail_blurhash": "L9FiMg+ssl?a^*%%XSxA-oxvt7i^"
+  },
+  {
+    "id": "https://vnexpress.net/oto-xe-may/v-car/doanh-so/10-oto-xang-dau-nguoi-viet-mua-nhieu-nhat-nua-dau-2026-5096922.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "10 ôtô xăng, dầu người Việt mua nhiều nhất nửa đầu 2026",
+    "description": "Toyota Yaris Cross bàn giao nhiều xe mới nhất trong 6 tháng đầu năm với 8.146 chiếc, Mazda CX-5, Mitsubishi Xpander lần lượt xếp theo sau.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/14/TopXeICEHI-1783932809-3323-1783988139.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=7qQEFhJ1kkkkg3OgTaksww",
+    "link": "https://vnexpress.net/oto-xe-may/v-car/doanh-so/10-oto-xang-dau-nguoi-viet-mua-nhieu-nhat-nua-dau-2026-5096922.html",
+    "published_at": "Tue, 14 Jul 2026 09:05:51 +0700",
+    "createAt": "2026-07-14T02:05:51.000Z",
+    "thumbnail_blurhash": "LDH2cr?d-;-:OtIqR+IU01?b%MIU"
+  },
+  {
+    "id": "https://vnexpress.net/mg-zs-se-co-phien-ban-hybrid-sac-dien-5096866.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "MG ZS sẽ có phiên bản hybrid sạc điện",
+    "description": "Mẫu crossover cỡ B sẽ là sản phẩm đầu tiên của MG ứng dụng công nghệ plug-in hybrid (PHEV) thế hệ mới, dự kiến ra mắt vào 2027.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/13/MGZS1-1783929169-8329-1783929273.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=B5F1blpQSe3kXLab2ggRJQ",
+    "link": "https://vnexpress.net/mg-zs-se-co-phien-ban-hybrid-sac-dien-5096866.html",
+    "published_at": "Tue, 14 Jul 2026 09:35:00 +0700",
+    "createAt": "2026-07-14T02:35:00.000Z",
+    "thumbnail_blurhash": "LCEeP--6*Ix[q]%29YV@3p9]rE$+"
+  },
+  {
+    "id": "https://vnexpress.net/nguoi-phu-nu-di-xe-may-bien-mat-truoc-dau-xe-tai-5097105.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Người phụ nữ đi xe máy biến mất trước đầu xe tải",
+    "description": "Điều khiển xe máy sang ngang đường, người phụ nữ bị xe tải cuốn vào gầm, hôm 13/7 tại xã Quỳnh Lưu.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/14/ezgif645d453c19fc43d1-17839904-7190-7661-1783990491.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=Yexx6LP57UOSk1Ls-EG4Rw&t=image",
+    "link": "https://vnexpress.net/nguoi-phu-nu-di-xe-may-bien-mat-truoc-dau-xe-tai-5097105.html",
+    "published_at": "Tue, 14 Jul 2026 10:23:35 +0700",
+    "createAt": "2026-07-14T03:23:35.000Z",
+    "thumbnail_blurhash": "LAJtrRA100Io~VEl8^InMbtSM|oI"
   }
 ]
