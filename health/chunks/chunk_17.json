@@ -531,5 +531,70 @@
     "published_at": "Tue, 14 Jul 2026 13:00:00 +0700",
     "createAt": "2026-07-14T06:00:00.000Z",
     "thumbnail_blurhash": "LpKLj%-nM^NH~Va$NdR%-otSoyt6"
+  },
+  {
+    "id": "https://vnexpress.net/nguoi-dan-ong-phu-nao-sau-hai-ngay-an-tiet-canh-lon-5097243.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Người đàn ông phù não sau hai ngày ăn tiết canh lợn",
+    "description": "Hai ngày sau ăn tiết canh, người đàn ông 45 tuổi sốt cao, rối loạn ý thức, bác sĩ xác định phù não - biến chứng nguy hiểm của viêm màng não, nguy kịch.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/14/nmq-jpg-1784002809-7265-1784002832.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=oF8rvKjJhUH9p0lgU2EnTQ",
+    "link": "https://vnexpress.net/nguoi-dan-ong-phu-nao-sau-hai-ngay-an-tiet-canh-lon-5097243.html",
+    "published_at": "Tue, 14 Jul 2026 11:46:08 +0700",
+    "createAt": "2026-07-14T04:46:08.000Z",
+    "thumbnail_blurhash": "LODTMCNMM@Ngp3R;s~xUoNkZpJs#"
+  },
+  {
+    "id": "https://vnexpress.net/co-can-sieu-am-do-chieu-dai-co-tu-cung-du-phong-sinh-non-5097292.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Có cần siêu âm đo chiều dài cổ tử cung dự phòng sinh non?",
+    "description": "Tôi mang thai 13 tuần, từng sinh non ở tuần 33. Tôi có cần siêu âm đo chiều dài cổ tử cung không và thực hiện khi nào? (Phượng, Quảng Nam)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/14/image001-1784010933-1925-1784010981.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=QAA0vCF18qej_FIs37nqXA",
+    "link": "https://vnexpress.net/co-can-sieu-am-do-chieu-dai-co-tu-cung-du-phong-sinh-non-5097292.html",
+    "published_at": "Tue, 14 Jul 2026 14:00:00 +0700",
+    "createAt": "2026-07-14T07:00:00.000Z",
+    "thumbnail_blurhash": "LLGc4TD~oH~q00%g?EbdRkx]s+%2"
+  },
+  {
+    "id": "https://vnexpress.net/vo-sinh-5-nam-vi-suy-giam-buong-trung-5097276.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Vô sinh 5 năm vì suy giảm buồng trứng",
+    "description": "Chị Hoa, 36 tuổi, vô sinh 5 năm, đi khám mới biết buồng trứng gần cạn, phải thụ tinh ống nghiệm để có con.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/14/bao-1784005283-9695-1784005467.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=Do_v_DLJ1T1ICBPGSnF7NA",
+    "link": "https://vnexpress.net/vo-sinh-5-nam-vi-suy-giam-buong-trung-5097276.html",
+    "published_at": "Tue, 14 Jul 2026 14:00:00 +0700",
+    "createAt": "2026-07-14T07:00:00.000Z",
+    "thumbnail_blurhash": "LLMj~__NE0o}t5_3ofM|_4Dixv%g"
+  },
+  {
+    "id": "https://vnexpress.net/co-gai-22-tuoi-suy-than-giai-doan-cuoi-tu-thoi-quen-uong-tra-sua-nhin-tieu-5097123.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Cô gái 22 tuổi suy thận giai đoạn cuối từ thói quen uống trà sữa, nhịn tiểu",
+    "description": "Thấy chán ăn, khó ngủ và hơi khó thở, cô gái nghĩ do áp lực công việc nên không đi khám, đến khi khó thở dữ dội, huyết áp tăng cao mới phát hiện chức năng thận suy giảm nghiêm trọng.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/14/suythan2-jpeg-1783995025-1845-1783995201.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=8ulszKlAIro65Qn5coH83Q",
+    "link": "https://vnexpress.net/co-gai-22-tuoi-suy-than-giai-doan-cuoi-tu-thoi-quen-uong-tra-sua-nhin-tieu-5097123.html",
+    "published_at": "Tue, 14 Jul 2026 14:03:33 +0700",
+    "createAt": "2026-07-14T07:03:33.000Z",
+    "thumbnail_blurhash": "LCIX{i-q%D?w$]ROVWIA?aV?tRbI"
+  },
+  {
+    "id": "https://vnexpress.net/suyt-hong-khuon-mat-con-vi-thoi-quen-cao-gio-khi-tre-meo-mieng-5097268.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Suýt hỏng khuôn mặt con vì thói quen cạo gió khi trẻ méo miệng",
+    "description": "Khoa Y học cổ truyền, Bệnh viện Bạch Mai tiếp nhận nhiều bệnh nhi liệt dây thần kinh số VII ngoại biên song bố mẹ tự ý điều trị tại nhà bằng cách cạo gió, lỡ thời điểm vàng chữa bệnh.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/14/1-1784004118-3811-1784004130.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=GMBoBKfjbVtO1SvOM-VCNQ",
+    "link": "https://vnexpress.net/suyt-hong-khuon-mat-con-vi-thoi-quen-cao-gio-khi-tre-meo-mieng-5097268.html",
+    "published_at": "Tue, 14 Jul 2026 14:09:39 +0700",
+    "createAt": "2026-07-14T07:09:39.000Z",
+    "thumbnail_blurhash": "LbL4]8%N-ptl~WD%NZxuo~D%V@x]"
   }
 ]
