@@ -154,5 +154,31 @@
     "published_at": "Tue, 14 Jul 2026 09:15:00 +0700",
     "createAt": "2026-07-14T02:15:00.000Z",
     "thumbnail_blurhash": "L7E;+fVX8{u61BnNi_Ws9bXnngiu"
+  },
+  {
+    "id": "https://vnexpress.net/den-cu-lao-cham-hay-du-lich-tu-tuc-5096286.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "'Đến Cù Lao Chàm, hãy du lịch tự túc'",
+    "description": "Trần Ngọc Tiệp, người Hà Nội, khuyên du khách nên đi tự túc, không theo tour để cảm nhận cuộc sống và vẻ đẹp của đảo Cù Lao Chàm.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/07/11/clc1-jpeg-1783759597-7770-1783760237.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=5rX6qQTxRATPkJC6ES8yXQ",
+    "link": "https://vnexpress.net/den-cu-lao-cham-hay-du-lich-tu-tuc-5096286.html",
+    "published_at": "Tue, 14 Jul 2026 10:14:54 +0700",
+    "createAt": "2026-07-14T03:14:54.000Z",
+    "thumbnail_blurhash": "Ll9SueR5i]e.PEt8t6jYVso~kXoz"
+  },
+  {
+    "id": "https://vnexpress.net/gau-bong-erling-halland-mua-o-my-chay-hang-5097176.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Gấu bông Erling Halland mua ở Mỹ 'cháy hàng'",
+    "description": "Món đồ lưu niệm Erling Halland mua ở Mỹ nhận về hơn 4 triệu lượt quan tâm và lập tức \"cháy hàng\".",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/07/14/454de6e40480ad54016c40295baa35-2142-4645-1783998218.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=TNAazBR2s9D53Z7epmnnlQ",
+    "link": "https://vnexpress.net/gau-bong-erling-halland-mua-o-my-chay-hang-5097176.html",
+    "published_at": "Tue, 14 Jul 2026 11:12:20 +0700",
+    "createAt": "2026-07-14T04:12:20.000Z",
+    "thumbnail_blurhash": "LcG0eQ,9yZt-KSE3NIog%Nx^oJsS"
   }
 ]
