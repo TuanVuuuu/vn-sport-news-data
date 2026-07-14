@@ -505,5 +505,31 @@
     "published_at": "Tue, 14 Jul 2026 19:00:00 +0700",
     "createAt": "2026-07-14T12:00:00.000Z",
     "thumbnail_blurhash": "L%FQ2kx]V@oL?wt8jYj[%MWBj?s:"
+  },
+  {
+    "id": "https://vnexpress.net/iran-tuyen-bo-chien-dau-vi-hormuz-toi-hoi-tho-cuoi-cung-5097476.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Iran tuyên bố chiến đấu vì Hormuz tới 'hơi thở cuối cùng'",
+    "description": "Iran nói eo biển Hormuz sẽ không bao giờ mở cửa nhờ \"hành động thù địch\" của Mỹ, Tehran sẽ bảo vệ quyền lợi ở đây tới \"hơi thở cuối cùng\".",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/14/Iran-1784035123-3187-1784035823.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=2VrDC_0XD1x3KdTVliSu2A",
+    "link": "https://vnexpress.net/iran-tuyen-bo-chien-dau-vi-hormuz-toi-hoi-tho-cuoi-cung-5097476.html",
+    "published_at": "Tue, 14 Jul 2026 21:04:04 +0700",
+    "createAt": "2026-07-14T14:04:04.000Z",
+    "thumbnail_blurhash": "LLC7dAb}M##O%%kYs+ZzITV=%KbH"
+  },
+  {
+    "id": "https://vnexpress.net/bua-may-man-ruy-bang-do-cua-doi-argentina-qua-ba-ky-world-cup-5097487.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "'Bùa may mắn' ruy băng đỏ của đội Argentina qua ba kỳ World Cup",
+    "description": "Từ món quà của một phóng viên Argentina năm 2018, dải ruy băng đỏ đã trở thành \"bùa may mắn\" của Messi và nhiều đồng đội tại World Cup.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/14/Argentina-4-1784036366-6097-1784036605.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=BWnFH2n8b0jvvvrc5-rzxQ",
+    "link": "https://vnexpress.net/bua-may-man-ruy-bang-do-cua-doi-argentina-qua-ba-ky-world-cup-5097487.html",
+    "published_at": "Tue, 14 Jul 2026 21:16:47 +0700",
+    "createAt": "2026-07-14T14:16:47.000Z",
+    "thumbnail_blurhash": "LcE{@Bo#M{s:x|W?WCt6~pa{Wrt7"
   }
 ]
