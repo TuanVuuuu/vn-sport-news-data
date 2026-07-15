@@ -674,5 +674,31 @@
     "published_at": "Wed, 15 Jul 2026 14:26:35 +0700",
     "createAt": "2026-07-15T07:26:35.000Z",
     "thumbnail_blurhash": "L9BDylcZtn%hOWNH?wo~?vIV-=xu"
+  },
+  {
+    "id": "https://vnexpress.net/ford-mustang-la-xe-canh-sat-dep-nhat-my-5097547.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Ford Mustang là xe cảnh sát đẹp nhất Mỹ",
+    "description": "Mẫu Mustang màu đen - nâu ánh vàng giúp cảnh sát bang Florida giành chiến thắng cuộc thi Xe tuần tra đẹp nhất năm thứ tư liên tiếp.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/15/FordMustang2-1784086272-3137-1784086820.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=_TiRCT9WFCEdnzMyZuCMNg",
+    "link": "https://vnexpress.net/ford-mustang-la-xe-canh-sat-dep-nhat-my-5097547.html",
+    "published_at": "Wed, 15 Jul 2026 15:00:00 +0700",
+    "createAt": "2026-07-15T08:00:00.000Z",
+    "thumbnail_blurhash": "LvBrD,sUt8ozThnhjEjuyEoJjEjs"
+  },
+  {
+    "id": "https://vnexpress.net/vinfast-mo-dat-coc-oto-dien-re-nhat-viet-nam-5097760.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "VinFast mở đặt cọc ôtô điện rẻ nhất Việt Nam",
+    "description": "Mẫu xe điện cỡ nhỏ VinFast VF 2 giá 188 triệu đồng, người dùng đặt cọc sớm nhận ưu đãi 8 triệu đồng trong ba ngày, 15-17/7.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/15/1-1784101193-5697-1784101248.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=K5cwiqLJurHJeCVizbDgtw",
+    "link": "https://vnexpress.net/vinfast-mo-dat-coc-oto-dien-re-nhat-viet-nam-5097760.html",
+    "published_at": "Wed, 15 Jul 2026 15:00:00 +0700",
+    "createAt": "2026-07-15T08:00:00.000Z",
+    "thumbnail_blurhash": "LIHB=14o_NM{~WD*jXjYK*IVVZ%2"
   }
 ]
