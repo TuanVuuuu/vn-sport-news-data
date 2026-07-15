@@ -973,5 +973,57 @@
     "published_at": "Wed, 15 Jul 2026 09:06:26 +0700",
     "createAt": "2026-07-15T02:06:26.000Z",
     "thumbnail_blurhash": "L,M7S|_NWrof%gt7RObHx]ozV@NF"
+  },
+  {
+    "id": "https://vnexpress.net/vang-da-long-ban-tay-la-dau-hieu-benh-gi-5097594.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Vàng da lòng bàn tay là dấu hiệu bệnh gì?",
+    "description": "Chế độ ăn uống, các vấn đề về gan và mật, rối loạn chuyển hóa, huyết học đều có thể khiến da lòng bàn tay chuyển vàng.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/15/1-1784081336-9514-1784081415.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=2BRMehQbugGj73b82Cj-Rw",
+    "link": "https://vnexpress.net/vang-da-long-ban-tay-la-dau-hieu-benh-gi-5097594.html",
+    "published_at": "Wed, 15 Jul 2026 10:00:00 +0700",
+    "createAt": "2026-07-15T03:00:00.000Z",
+    "thumbnail_blurhash": "LqNTwS~q9F-;?bxtWAogn#WAt7WB"
+  },
+  {
+    "id": "https://vnexpress.net/nhung-cau-hoi-kho-tuoi-day-thi-5097586.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Những câu hỏi khó tuổi dậy thì",
+    "description": "Từ những lá thư bạn gái gửi con trai đến câu chuyện dự phòng HPV, NSƯT Ốc Thanh Vân nhận ra cần học cách trả lời những câu hỏi khó ở tuổi dậy thì.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/15/1784082147709d7ee5d7dd05d0b44d-1927-2233-1784082446.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=uptWWqASetI2DR2uIryQzA",
+    "link": "https://vnexpress.net/nhung-cau-hoi-kho-tuoi-day-thi-5097586.html",
+    "published_at": "Wed, 15 Jul 2026 10:00:00 +0700",
+    "createAt": "2026-07-15T03:00:00.000Z",
+    "thumbnail_blurhash": "LlJ8haa}Iot7_4ofxuofsCjsV@oL"
+  },
+  {
+    "id": "https://vnexpress.net/khi-nao-nen-cho-tre-uong-sua-cao-nang-luong-5097555.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Khi nào nên cho trẻ uống sữa cao năng lượng?",
+    "description": "Con tôi 4 tuổi, nặng 13 kg, biếng ăn, người quen khuyên cho uống sữa cao năng lượng để nhanh tăng cân. Loại sữa này phù hợp với mọi trẻ không và lưu ý gì khi sử dụng? (Minh Thư, Nghệ An)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/15/image001-1784076424-3028-1784076505.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=r7SDLQOh1grxWxcADGXmYA",
+    "link": "https://vnexpress.net/khi-nao-nen-cho-tre-uong-sua-cao-nang-luong-5097555.html",
+    "published_at": "Wed, 15 Jul 2026 10:00:00 +0700",
+    "createAt": "2026-07-15T03:00:00.000Z",
+    "thumbnail_blurhash": "LFKUQU9F00Vqtm9G4n%M?^xuoMt8"
+  },
+  {
+    "id": "https://vnexpress.net/nao-mo-cau-co-the-tro-nang-sau-vai-gio-dau-dau-5097613.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Não mô cầu có thể trở nặng sau vài giờ đau đầu",
+    "description": "Bệnh do não mô cầu có thể khởi phát bằng sốt, đau đầu dữ dội, nôn ói, dễ nhầm cúm hoặc sốt siêu vi nhưng có thể diễn tiến nặng trong vài giờ.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/15/tu-ban-nao-mo-cau-1784082863-7903-1784083045.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=fT0yKTHElnopJLHJyBTYSw",
+    "link": "https://vnexpress.net/nao-mo-cau-co-the-tro-nang-sau-vai-gio-dau-dau-5097613.html",
+    "published_at": "Wed, 15 Jul 2026 10:30:00 +0700",
+    "createAt": "2026-07-15T03:30:00.000Z",
+    "thumbnail_blurhash": "LDI#77$v0#.8%j4--m%NEnNE=_xa"
   }
 ]
