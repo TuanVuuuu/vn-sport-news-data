@@ -869,5 +869,31 @@
     "published_at": "Wed, 15 Jul 2026 18:44:41 +0700",
     "createAt": "2026-07-15T11:44:41.000Z",
     "thumbnail_blurhash": "LTCszDS%ofoe~qNdfjfi?aNGbHoz"
+  },
+  {
+    "id": "https://vnexpress.net/my-iran-doi-mat-cuoc-dau-suc-ben-5097600.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Mỹ - Iran đối mặt cuộc đấu sức bền",
+    "description": "Mỹ và Iran đang đặt cược vào cuộc đấu sức bền, hy vọng đối phương sẽ lùi bước trước, khi các phương án nhanh chóng chấm dứt cuộc chiến dần cạn kiệt.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/15/afpg69z7-v1-highres-usisraelir-9983-2256-1784092038.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=bo0rZPzytZIrZck3GKdb2Q",
+    "link": "https://vnexpress.net/my-iran-doi-mat-cuoc-dau-suc-ben-5097600.html",
+    "published_at": "Wed, 15 Jul 2026 19:00:00 +0700",
+    "createAt": "2026-07-15T12:00:00.000Z",
+    "thumbnail_blurhash": "LqFiy4xvt7fR_4oejsWBxWofj?of"
+  },
+  {
+    "id": "https://vnexpress.net/thai-lan-dieu-tra-nguoi-bi-nghi-mao-danh-si-quan-tai-vu-chay-quan-pub-5097832.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Thái Lan điều tra người bị nghi mạo danh sĩ quan tại vụ cháy quán pub",
+    "description": "Thái Lan điều tra người đàn ông mặc quân phục, tiếp cận Thủ tướng Anutin tại hiện trường vụ cháy quán pub Na Ladprao và đưa thông tin không đúng về hỏa hoạn.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/15/cats-1784109535-5096-1784109858.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=TWXaKaSYM8D8FSBTTmhuOw",
+    "link": "https://vnexpress.net/thai-lan-dieu-tra-nguoi-bi-nghi-mao-danh-si-quan-tai-vu-chay-quan-pub-5097832.html",
+    "published_at": "Wed, 15 Jul 2026 19:09:36 +0700",
+    "createAt": "2026-07-15T12:09:36.000Z",
+    "thumbnail_blurhash": "LJC?7y0x#3yG?svhK8-m-hIps?xo"
   }
 ]
