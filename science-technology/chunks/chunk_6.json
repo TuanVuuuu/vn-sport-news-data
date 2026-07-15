@@ -908,5 +908,31 @@
     "published_at": "Wed, 15 Jul 2026 08:00:00 +0700",
     "createAt": "2026-07-15T01:00:00.000Z",
     "thumbnail_blurhash": "LNF?-Lbx%b%1_MogyFt8xubwafad"
+  },
+  {
+    "id": "https://vnexpress.net/asus-ra-mat-hai-dong-laptop-do-hoa-proart-5097558.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Asus ra mắt hai dòng laptop đồ họa ProArt",
+    "description": "Laptop Asus ProArt P16 giá 124,99 triệu đồng, ProArt PX13 khoảng 76,99 triệu, hỗ trợ xử lý đồ họa, sáng tạo nội dung, thiết kế, dựng phim cùng loạt tác vụ AI.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/15/image001-1784078195-6843-1784078441.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=3M8cNWSFjheNfCgqhIiR7A",
+    "link": "https://vnexpress.net/asus-ra-mat-hai-dong-laptop-do-hoa-proart-5097558.html",
+    "published_at": "Wed, 15 Jul 2026 10:00:00 +0700",
+    "createAt": "2026-07-15T03:00:00.000Z",
+    "thumbnail_blurhash": "LmI}9rR%oz%g~XnSXSxuM~sRW;NI"
+  },
+  {
+    "id": "https://vnexpress.net/dong-tia-khien-chau-au-hung-chiu-nang-nong-keo-dai-5097418.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Dòng tia khiến châu Âu hứng chịu nắng nóng kéo dài",
+    "description": "Các nhà nghiên cứu phát hiện hai kiểu mô hình dòng tia đang thúc đẩy hình thành các vòm nhiệt kéo dài ở châu Âu.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/14/VNEJet-1784020840-4854-1784021031.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=tFILpLvYFdJTYoQ9ur_gEQ",
+    "link": "https://vnexpress.net/dong-tia-khien-chau-au-hung-chiu-nang-nong-keo-dai-5097418.html",
+    "published_at": "Wed, 15 Jul 2026 11:01:04 +0700",
+    "createAt": "2026-07-15T04:01:04.000Z",
+    "thumbnail_blurhash": "LeRnu@%%.k-W#ScGx]epyrngMdRk"
   }
 ]
