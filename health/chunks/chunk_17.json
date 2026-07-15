@@ -1233,5 +1233,31 @@
     "published_at": "Wed, 15 Jul 2026 16:10:41 +0700",
     "createAt": "2026-07-15T09:10:41.000Z",
     "thumbnail_blurhash": "LFJ~u-$+E1~8oyJQxFK6Em-oi^10"
+  },
+  {
+    "id": "https://vnexpress.net/nguoi-chay-than-co-nen-an-dua-hau-5097757.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Người chạy thận có nên ăn dưa hấu?",
+    "description": "Tôi đang chạy thận nhân tạo định kỳ. Thời tiết nắng nóng nên tôi muốn ăn dưa hấu để giải khát, có được không? (Văn Nam, Hà Nội)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/15/key-logo-vne-1784101229-8284-1784101254.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=r88P6W9dT6Q8V3aT-K540w",
+    "link": "https://vnexpress.net/nguoi-chay-than-co-nen-an-dua-hau-5097757.html",
+    "published_at": "Wed, 15 Jul 2026 17:00:00 +0700",
+    "createAt": "2026-07-15T10:00:00.000Z",
+    "thumbnail_blurhash": "LdKUWf4nIo-q~pt8xukBx[ocoe%L"
+  },
+  {
+    "id": "https://vnexpress.net/ho-do-cam-lanh-khac-viem-phoi-the-nao-5097741.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Ho do cảm lạnh khác viêm phổi thế nào",
+    "description": "Ho do viêm phổi thường kéo dài, nặng dần, có thể kèm khó thở, khác với cơn ho do cảm lạnh thường tự giảm.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/15/image001-1784098781-6731-1784098838.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=MdxFB_T99mrTYBN-zgGJ2Q",
+    "link": "https://vnexpress.net/ho-do-cam-lanh-khac-viem-phoi-the-nao-5097741.html",
+    "published_at": "Wed, 15 Jul 2026 17:00:00 +0700",
+    "createAt": "2026-07-15T10:00:00.000Z",
+    "thumbnail_blurhash": "LsHU;1_N%#?H?Go#SOs-xZR*R+oJ"
   }
 ]
