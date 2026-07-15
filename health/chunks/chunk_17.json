@@ -1077,5 +1077,31 @@
     "published_at": "Wed, 15 Jul 2026 12:00:00 +0700",
     "createAt": "2026-07-15T05:00:00.000Z",
     "thumbnail_blurhash": "LNMQ#J_3J:~V9ss7s+%gMbE0x]xv"
+  },
+  {
+    "id": "https://vnexpress.net/nguoi-tre-co-bi-thoai-hoa-khop-khong-5097710.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Người trẻ có bị thoái hóa khớp không?",
+    "description": "Tôi 27 tuổi, gần đây dễ bị mỏi và đau âm ỉ ở khớp gối, co duỗi chân nghe tiếng \"lục cục\" giống thoái hóa khớp. Người trẻ có mắc bệnh này không? (Thanh Hà, Nha Trang)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/15/bao-1784092423-5603-1784092456.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=uUF1Owmnj-b_2m7se71RCg",
+    "link": "https://vnexpress.net/nguoi-tre-co-bi-thoai-hoa-khop-khong-5097710.html",
+    "published_at": "Wed, 15 Jul 2026 13:00:00 +0700",
+    "createAt": "2026-07-15T06:00:00.000Z",
+    "thumbnail_blurhash": "LQLqeB~AS#t8?vI9ogxtDgM|s:tQ"
+  },
+  {
+    "id": "https://vnexpress.net/dung-laser-xoa-xam-chan-may-5097694.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Dùng laser xóa xăm chân mày",
+    "description": "Sau 6 tháng phun xăm, chân mày chị Thúy (28 tuổi) chuyển sang màu xanh xám loang lổ, phải điều trị bằng laser.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/15/bs-ba-n-laser-1784090718-2769-1784091523.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=fi_59YI2j45AYEoePszMSg",
+    "link": "https://vnexpress.net/dung-laser-xoa-xam-chan-may-5097694.html",
+    "published_at": "Wed, 15 Jul 2026 13:00:00 +0700",
+    "createAt": "2026-07-15T06:00:00.000Z",
+    "thumbnail_blurhash": "LZM7+JV@~W-;%fNHxa%LWsjYjFWB"
   }
 ]
