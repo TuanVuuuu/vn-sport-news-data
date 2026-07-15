@@ -700,5 +700,31 @@
     "published_at": "Wed, 15 Jul 2026 05:41:08 +0700",
     "createAt": "2026-07-14T22:41:08.000Z",
     "thumbnail_blurhash": "L6Eoxz-=m,~W0EakSyE1Pa%LVYbI"
+  },
+  {
+    "id": "https://vnexpress.net/phap-tay-ban-nha-mbappe-doi-dau-yamal-5097478-tong-thuat.html",
+    "category_id": "sports",
+    "category_name": "Thể thao",
+    "source": "VnExpress",
+    "title": "Tây Ban Nha hạ Pháp, lần thứ hai vào chung kết World Cup",
+    "description": "Thu phục và bóp nghẹt Pháp ở mọi tuyến bằng thứ bóng đá kiểm soát bóng đỉnh cao, Tây Ban Nha thắng đương kim á quân 2-0 để lần đầu sau 16 năm vào chung kết World Cup.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/07/15/oyarzabal-1784070568-4853-1784070945.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=HwzhJc_lvDc2lp_NbMDTbQ",
+    "link": "https://vnexpress.net/phap-tay-ban-nha-mbappe-doi-dau-yamal-5097478-tong-thuat.html",
+    "published_at": "Wed, 15 Jul 2026 00:00:00 +0700",
+    "createAt": "2026-07-14T17:00:00.000Z",
+    "thumbnail_blurhash": "L5A-kC~p00In%fM{9YIoEK-X$l9F"
+  },
+  {
+    "id": "https://vnexpress.net/deschamps-trach-trong-tai-sau-khi-thua-ban-ket-world-cup-2026-5097531.html",
+    "category_id": "sports",
+    "category_name": "Thể thao",
+    "source": "VnExpress",
+    "title": "Deschamps trách trọng tài sau khi thua bán kết World Cup 2026",
+    "description": "HLV Didier Deschamps đặt câu hỏi về năng lực của trọng tài Ivan Barton sau khi Pháp thua Tây Ban Nha 0-2 ở bán kết World Cup 2026.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/07/15/deschamps-1784070182-2044-1784070811.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=safZDf7nJJOyfJKquqLTEg",
+    "link": "https://vnexpress.net/deschamps-trach-trong-tai-sau-khi-thua-ban-ket-world-cup-2026-5097531.html",
+    "published_at": "Wed, 15 Jul 2026 06:22:43 +0700",
+    "createAt": "2026-07-14T23:22:43.000Z",
+    "thumbnail_blurhash": "LDE1~+^60K7K_MShn5^Qx[xb-CoJ"
   }
 ]
