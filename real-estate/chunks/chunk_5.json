@@ -739,5 +739,31 @@
     "published_at": "Wed, 15 Jul 2026 00:15:30 +0700",
     "createAt": "2026-07-14T17:15:30.000Z",
     "thumbnail_blurhash": "LCFrOw%K}pA1}%ESN3oz_KV}ActR"
+  },
+  {
+    "id": "https://vnexpress.net/biet-thu-trieu-usd-cua-messi-va-cac-tuyen-thu-argentina-5096709.html",
+    "category_id": "real-estate",
+    "category_name": "Bất động sản",
+    "source": "VnExpress",
+    "title": "Biệt thự triệu USD của Messi và các tuyển thủ Argentina",
+    "description": "Các tuyển thủ Argentina lựa chọn nơi ở gần câu lạc bộ, ưu tiên không gian riêng tư, khu tập luyện và tiện ích ngoài trời.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/14/1784026315-7198-1784029107.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=KETmlvpC6a89zjD_o5r4dw",
+    "link": "https://vnexpress.net/biet-thu-trieu-usd-cua-messi-va-cac-tuyen-thu-argentina-5096709.html",
+    "published_at": "Wed, 15 Jul 2026 08:15:00 +0700",
+    "createAt": "2026-07-15T01:15:00.000Z",
+    "thumbnail_blurhash": "LlGI+Xo#NFs+%%Rks:ogK9WCxabI"
+  },
+  {
+    "id": "https://vnexpress.net/nha-pho-van-phuc-city-chiet-khau-toi-25-5097421.html",
+    "category_id": "real-estate",
+    "category_name": "Bất động sản",
+    "source": "VnExpress",
+    "title": "Nhà phố Van Phuc City chiết khấu tới 25%",
+    "description": "Van Phuc Group chiết khấu đến 25% dòng sản phẩm nhà phố tại Van Phuc City cùng nhiều ưu đãi cho người mua từ nay đến hết 31/8.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/14/1-1784020592-7848-1784021024.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=xdlo6NHFpaXHDITh3y7VPQ",
+    "link": "https://vnexpress.net/nha-pho-van-phuc-city-chiet-khau-toi-25-5097421.html",
+    "published_at": "Wed, 15 Jul 2026 09:00:00 +0700",
+    "createAt": "2026-07-15T02:00:00.000Z",
+    "thumbnail_blurhash": "LaJ+3;x]D%xu_Mx]WBtRo$t8oMt7"
   }
 ]

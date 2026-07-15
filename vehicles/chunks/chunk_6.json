@@ -583,5 +583,44 @@
     "published_at": "Wed, 15 Jul 2026 07:00:00 +0700",
     "createAt": "2026-07-15T00:00:00.000Z",
     "thumbnail_blurhash": "LNHy5o~q_4-;%gM{kCozbwflM{az"
+  },
+  {
+    "id": "https://vnexpress.net/muc-phat-nong-do-con-cho-xe-dap-dien-qua-thap-5096824.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "'Mức phạt nồng độ cồn cho xe đạp điện quá thấp'",
+    "description": "Mức phạt nhẹ hơn rất nhiều so với xe máy có thể khiến nhiều người lợi dụng điều này để đi xe đạp điện đi nhậu.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/15/Screenshot20260715075727-17840-9016-7299-1784077713.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=s7kPF2H_kTSOivLY3Yvwaw",
+    "link": "https://vnexpress.net/muc-phat-nong-do-con-cho-xe-dap-dien-qua-thap-5096824.html",
+    "published_at": "Wed, 15 Jul 2026 08:09:11 +0700",
+    "createAt": "2026-07-15T01:09:11.000Z",
+    "thumbnail_blurhash": "LQGSGqIURj%M?vRjM{t7~qxuWBxu"
+  },
+  {
+    "id": "https://vnexpress.net/vuot-au-tai-khuc-cua-xe-dau-keo-lao-xuong-muong-5097556.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Vượt ẩu tại khúc cua, xe đầu kéo lao xuống mương",
+    "description": "Đi hẳn sang làn đường ngược chiều, lái xe phooc buộc phải đánh lái gấp khi hướng ngược chiều có xe đi tới, hôm 13/7 tại Dân Hóa.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/15/ezgif2a700c9ccde9cecc-17840764-4602-9027-1784076484.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=sBhh6jie5JXuWLyzaglY8w&t=image",
+    "link": "https://vnexpress.net/vuot-au-tai-khuc-cua-xe-dau-keo-lao-xuong-muong-5097556.html",
+    "published_at": "Wed, 15 Jul 2026 08:35:16 +0700",
+    "createAt": "2026-07-15T01:35:16.000Z",
+    "thumbnail_blurhash": "L5DS,ihg0cCm00M1t-5Pl.NwrKwH"
+  },
+  {
+    "id": "https://vnexpress.net/xe-dien-dung-pin-ben-khien-nganh-tai-che-kho-kiem-tien-5097494.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Xe điện dùng pin bền khiến ngành tài chế khó kiếm tiền",
+    "description": "Pin LFP có tuổi thọ cao, giá thành thấp giúp giảm chi phí xe điện, nhưng làm giảm giá trị vật liệu thu hồi, khiến tái chế kém hiệu quả.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/14/webp-1784039301-4099-1784039357.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=rKb1erBnNDW9yAE4Gh9NIQ",
+    "link": "https://vnexpress.net/xe-dien-dung-pin-ben-khien-nganh-tai-che-kho-kiem-tien-5097494.html",
+    "published_at": "Wed, 15 Jul 2026 09:00:00 +0700",
+    "createAt": "2026-07-15T02:00:00.000Z",
+    "thumbnail_blurhash": "LFEp7q~XDR4,~Vs:RSX5HsW8%exd"
   }
 ]
