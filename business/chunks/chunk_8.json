@@ -1064,5 +1064,44 @@
     "published_at": "Wed, 15 Jul 2026 12:12:57 +0700",
     "createAt": "2026-07-15T05:12:57.000Z",
     "thumbnail_blurhash": "LFI5SqDg02DOMc-=$~Nfx@_4I9Io"
+  },
+  {
+    "id": "https://vnexpress.net/ky-nguyen-rac-thai-tu-concert-5097724.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Kỷ nguyên rác thải từ concert",
+    "description": "Sau nửa thế kỷ, một phần rác thải từ 400.000 người tham dự lễ hội âm nhạc Woodstock (Mỹ) năm 1969 vẫn tồn tại, theo tạp chí Ethicalist.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/15/2025t064810z-rc2tcfaqawu8-rtrm-2353-7377-1784096014.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=yCReuMUyMbn588T-ELgNpA",
+    "link": "https://vnexpress.net/ky-nguyen-rac-thai-tu-concert-5097724.html",
+    "published_at": "Wed, 15 Jul 2026 15:04:54 +0700",
+    "createAt": "2026-07-15T08:04:54.000Z",
+    "thumbnail_blurhash": "L;Lg^ct7j]t7_Nofayj[WBazWBay"
+  },
+  {
+    "id": "https://vnexpress.net/my-siet-trung-phat-dau-mo-tien-so-cua-iran-5097759.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Mỹ siết trừng phạt dầu mỏ, tiền số của Iran",
+    "description": "Washington nỗ lực tăng sức ép kinh tế lên Tehran, thông qua trừng phạt hoạt động bán dầu và phong tỏa các ví tiền số.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/15/ap26181388540646-1784103158-6847-1784103204.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=i9QJKTI6cMuwJFcl5IQV4g",
+    "link": "https://vnexpress.net/my-siet-trung-phat-dau-mo-tien-so-cua-iran-5097759.html",
+    "published_at": "Wed, 15 Jul 2026 15:27:34 +0700",
+    "createAt": "2026-07-15T08:27:34.000Z",
+    "thumbnail_blurhash": "LLJ8*G-;WAt7_4ofWBaz_2WBV@t6"
+  },
+  {
+    "id": "https://vnexpress.net/vn-index-xuong-muc-thap-nhat-ba-thang-5097789.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "VN-Index xuống mức thấp nhất ba tháng",
+    "description": "Nhà đầu tư bán tháo chứng khoán khiến chỉ số đại diện cho sàn TP HCM giảm gần 25 điểm, thủng 1.800 điểm, xuống thấp nhất kể từ tháng 4.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/15/233A7758-6440-1784103326.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=_p3SjFUc943v0yrGb4Fn1Q",
+    "link": "https://vnexpress.net/vn-index-xuong-muc-thap-nhat-ba-thang-5097789.html",
+    "published_at": "Wed, 15 Jul 2026 15:35:39 +0700",
+    "createAt": "2026-07-15T08:35:39.000Z",
+    "thumbnail_blurhash": "L9A]aQM055ug*f}]pI0erWxuWVRk"
   }
 ]
