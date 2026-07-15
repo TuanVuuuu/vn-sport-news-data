@@ -1,3 +1,56 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/tuchel-doi-tuyen-anh-kho-vo-hieu-hoa-messi-5097767.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Tuchel: 'Đội tuyển Anh khó vô hiệu hóa Messi'",
+      "description": "HLV Thomas Tuchel cho biết tuyển Anh cân nhắc phương án cử một cầu thủ theo kèm Lionel Messi, nhưng thừa nhận khó có thể vô hiệu hóa hoàn toàn thủ quân Argentina ở bán kết World Cup 2026.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/07/15/tuchel-png-1784102326-4433-1784102345.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=J7LXHu_RF_BT4LGDwgbbDg",
+      "link": "https://vnexpress.net/tuchel-doi-tuyen-anh-kho-vo-hieu-hoa-messi-5097767.html",
+      "published_at": "Wed, 15 Jul 2026 17:59:00 +0700",
+      "createAt": "2026-07-15T10:59:00.000Z",
+      "thumbnail_blurhash": "L37U*V4Y00_KaqDl8|??OOx]-tW$"
+    },
+    {
+      "id": "https://vnexpress.net/lionel-scaloni-ga-mit-uot-cua-argentina-5097630.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Lionel Scaloni - 'gã mít ướt' của Argentina",
+      "description": "Lionel Scaloni bị các học trò trêu là \"Gã mít ướt\", nhưng sự nhạy cảm, khả năng kết nối con người và cách xây dựng tập thể giàu tình cảm của ông đưa Argentina trở lại đỉnh cao bóng đá thế giới.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/07/15/top-1784105824-1131-1784105855.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=GRUfMFlpPvLHiJEGaNjsqg",
+      "link": "https://vnexpress.net/lionel-scaloni-ga-mit-uot-cua-argentina-5097630.html",
+      "published_at": "Wed, 15 Jul 2026 18:00:00 +0700",
+      "createAt": "2026-07-15T11:00:00.000Z",
+      "thumbnail_blurhash": "L59Z}^Mw9Z.800IoX9$*_N%$RjR4"
+    },
+    {
+      "id": "https://vnexpress.net/iran-cong-bo-anh-ve-tinh-trung-tam-dieu-khien-uav-my-sau-don-tap-kich-5097753.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Iran công bố ảnh vệ tinh 'trung tâm điều khiển UAV Mỹ' sau đòn tập kích",
+      "description": "Iran công bố ảnh vệ tinh các địa điểm được cho là trung tâm điều khiển UAV của Mỹ ở Trung Đông bị hư hại sau các đòn tập kích.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/15/kuwait-jpeg-1784101247-6117-1784101280.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=xRG4cp5t1hXrsPm-b_gzHQ",
+      "link": "https://vnexpress.net/iran-cong-bo-anh-ve-tinh-trung-tam-dieu-khien-uav-my-sau-don-tap-kich-5097753.html",
+      "published_at": "Wed, 15 Jul 2026 18:00:00 +0700",
+      "createAt": "2026-07-15T11:00:00.000Z",
+      "thumbnail_blurhash": "LYIrBCRjR*RjRij[ayWB~qofofxt"
+    },
+    {
+      "id": "https://vnexpress.net/hieu-truong-chuyen-tuyen-quang-bi-khoi-to-trong-vu-146-diem-10-mon-toan-5097883.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Hiệu trưởng chuyên Tuyên Quang bị khởi tố trong vụ '146 điểm 10 môn Toán'",
+      "description": "Bà Nguyễn Thị Hằng, Hiệu trưởng Trường THPT Chuyên Tuyên Quang, bị khởi tố với cáo buộc liên quan vụ điểm Toán cao bất thường tại điểm thi này.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/15/2-jpeg-1784114725-6504-1784114796.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=wJN_lXyJA2m6cx-4loVtsA",
+      "link": "https://vnexpress.net/hieu-truong-chuyen-tuyen-quang-bi-khoi-to-trong-vu-146-diem-10-mon-toan-5097883.html",
+      "published_at": "Wed, 15 Jul 2026 18:30:23 +0700",
+      "createAt": "2026-07-15T11:30:23.000Z",
+      "thumbnail_blurhash": "LfJswrnOIoxGbwxuRioec[afRPof"
+    }
+  ]
 }
