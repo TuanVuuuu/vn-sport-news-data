@@ -232,5 +232,44 @@
     "published_at": "Thu, 16 Jul 2026 05:00:00 +0700",
     "createAt": "2026-07-15T22:00:00.000Z",
     "thumbnail_blurhash": "L5F#:p?w00011+?F4-kD#mslR4IV"
+  },
+  {
+    "id": "https://vnexpress.net/thai-phu-kho-tho-do-viem-phoi-5098082.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Thai phụ khó thở do viêm phổi",
+    "description": "Chị Hạnh, 42 tuổi, mang thai tuần 35 thì khó thở, đau ngực trái tưởng triệu chứng thai kỳ song bác sĩ chẩn đoán viêm màng phổi.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/16/image001-1784174515-4407-1784174533.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=ZdIazv8eSJQsROF1akXZbg",
+    "link": "https://vnexpress.net/thai-phu-kho-tho-do-viem-phoi-5098082.html",
+    "published_at": "Thu, 16 Jul 2026 12:00:00 +0700",
+    "createAt": "2026-07-16T05:00:00.000Z",
+    "thumbnail_blurhash": "LGMj,X?wD%-P~StRx^rWt7tSITWB"
+  },
+  {
+    "id": "https://vnexpress.net/suyt-huy-hon-khi-phat-hien-vo-tinh-5098068.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Suýt hủy hôn khi phát hiện vô tinh",
+    "description": "Anh Minh, 32 tuổi, nhiều lần định hủy hôn với vợ sắp cưới vì vô tinh, được bác sĩ vi phẫu tìm thấy tinh trùng để thụ tinh ống nghiệm giúp có con.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/16/key1-1784173435-6825-1784173579.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=boKxwxvY8SWjEe8MzU02iQ",
+    "link": "https://vnexpress.net/suyt-huy-hon-khi-phat-hien-vo-tinh-5098068.html",
+    "published_at": "Thu, 16 Jul 2026 12:00:00 +0700",
+    "createAt": "2026-07-16T05:00:00.000Z",
+    "thumbnail_blurhash": "LKGvL?_N4TE3^txWx^WBRjIVs;x["
+  },
+  {
+    "id": "https://vnexpress.net/5-mon-giau-vitamin-e-tot-cho-mat-5098099.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "5 món giàu vitamin E tốt cho mắt",
+    "description": "Rau cải bó xôi, hạnh nhân, quả bơ và dầu ôliu giàu vitamin E, góp phần bảo vệ mắt, giảm nguy cơ mắc bệnh mắt liên quan tuổi tác.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/16/qua-bo-1-1784175607.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=DetoVEWlX8X9FIaWlMDblA",
+    "link": "https://vnexpress.net/5-mon-giau-vitamin-e-tot-cho-mat-5098099.html",
+    "published_at": "Thu, 16 Jul 2026 12:10:24 +0700",
+    "createAt": "2026-07-16T05:10:24.000Z",
+    "thumbnail_blurhash": "LFFstT%FN1R*_IMzDnt6M#W:RSt6"
   }
 ]
