@@ -194,6 +194,58 @@
       "published_at": "Thu, 16 Jul 2026 20:42:21 +0700",
       "createAt": "2026-07-16T13:42:21.000Z",
       "thumbnail_blurhash": "LAD]SQ-p00E2T#WYZyt6%$xuMcIU"
+    },
+    {
+      "id": "https://vnexpress.net/nguoi-thiet-ke-chiec-cup-vo-dich-world-cup-cach-day-nua-the-ky-5098297.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Người thiết kế chiếc cúp vô địch World Cup cách đây nửa thế kỷ",
+      "description": "Chiếc cúp FIFA World Cup tượng trưng cho cảm xúc chiến thắng của người hâm mộ và cầu thủ, là tác phẩm của nhà điêu khắc Italy Silvio Gazzaniga.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/16/die-u-kha-c-gia-jpg-1784209156-9813-1784209373.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=R9L4cBmm33Rpk_dXqENlpg",
+      "link": "https://vnexpress.net/nguoi-thiet-ke-chiec-cup-vo-dich-world-cup-cach-day-nua-the-ky-5098297.html",
+      "published_at": "Thu, 16 Jul 2026 20:47:03 +0700",
+      "createAt": "2026-07-16T13:47:03.000Z",
+      "thumbnail_blurhash": "LFJQ.t00%gD%Dh_N-;H=XSM{WA%f"
+    },
+    {
+      "id": "https://vnexpress.net/loat-thi-sinh-co-ielts-truot-xet-tuyen-vao-dai-hoc-ha-noi-vi-hieu-nham-5098248.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Loạt thí sinh có IELTS trượt xét tuyển vào Đại học Hà Nội vì hiểu nhầm",
+      "description": "Tưởng dùng IELTS để miễn thi tốt nghiệp thì cũng có thể quy đổi trong xét đại học, hơn 130 thí sinh bị Đại học Hà Nội loại vì không có điểm tiếng Anh.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/16/hanu-loai-1784206199-4191-1784210337.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=WXed-u2CrR8OLie-hK49wA",
+      "link": "https://vnexpress.net/loat-thi-sinh-co-ielts-truot-xet-tuyen-vao-dai-hoc-ha-noi-vi-hieu-nham-5098248.html",
+      "published_at": "Thu, 16 Jul 2026 21:02:37 +0700",
+      "createAt": "2026-07-16T14:02:37.000Z",
+      "thumbnail_blurhash": "LIQJcg00~q~q_3j[xuof_3%MIURj"
+    },
+    {
+      "id": "https://vnexpress.net/duong-day-tieu-thu-bot-ngot-hat-nem-gia-o-cac-tiem-tap-hoa-5098324.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Đường dây tiêu thụ bột ngọt, hạt nêm giả ở các tiệm tạp hóa",
+      "description": "Nguyễn Văn Đại, 39 tuổi, mua nguyên liệu bột ngọt, hạt nêm, bột giặt trôi nổi, rồi đặt làm bao bì, tem giả thương hiệu nổi tiếng để bỏ mối các tiệm tạp hoá.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/16/botngot4-1784212343-6035-1784212534.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=K-UTIdDI2Vlj6iMB3qQhBQ",
+      "link": "https://vnexpress.net/duong-day-tieu-thu-bot-ngot-hat-nem-gia-o-cac-tiem-tap-hoa-5098324.html",
+      "published_at": "Thu, 16 Jul 2026 21:50:29 +0700",
+      "createAt": "2026-07-16T14:50:29.000Z",
+      "thumbnail_blurhash": "L9KKyL00EAUY]{%M?vM{0KKO,osQ"
+    },
+    {
+      "id": "https://vnexpress.net/ong-tap-vuot-ong-trump-ve-muc-do-duoc-quoc-te-tin-tuong-5098316.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Ông Tập vượt ông Trump về 'mức độ được quốc tế tin tưởng'",
+      "description": "Khảo sát dư luận toàn cầu của tổ chức Pew, có trụ sở tại Mỹ, lần đầu thể hiện mức độ tin tưởng dành cho ông Tập cao hơn ông Trump.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/16/ap26134151716977-1784212085-4422-1784212310.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Tita5UjE_VCCh8LRdA___w",
+      "link": "https://vnexpress.net/ong-tap-vuot-ong-trump-ve-muc-do-duoc-quoc-te-tin-tuong-5098316.html",
+      "published_at": "Thu, 16 Jul 2026 21:57:06 +0700",
+      "createAt": "2026-07-16T14:57:06.000Z",
+      "thumbnail_blurhash": "LoJPiNa1wI-U~VRkSgX8TxoJbbS4"
     }
   ]
 }
