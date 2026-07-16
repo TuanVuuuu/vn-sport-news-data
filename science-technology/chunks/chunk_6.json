@@ -1103,5 +1103,18 @@
     "published_at": "Thu, 16 Jul 2026 10:54:10 +0700",
     "createAt": "2026-07-16T03:54:10.000Z",
     "thumbnail_blurhash": "LXKKf?KjMwoI~qTeMxRj4nT1n%fl"
+  },
+  {
+    "id": "https://vnexpress.net/openai-ra-phan-cung-dau-tien-5097988.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "OpenAI ra phần cứng đầu tiên",
+    "description": "OpenAI ra mắt bàn phím hỗ trợ lập trình Codex Micro, thay vì smartphone AI hay loa thông minh như tin đồn trước đó.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/16/screenshot-at-1784167940-1608-1784168294.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=foZwAHvHTq6qdgA-xeSkmQ",
+    "link": "https://vnexpress.net/openai-ra-phan-cung-dau-tien-5097988.html",
+    "published_at": "Thu, 16 Jul 2026 12:00:00 +0700",
+    "createAt": "2026-07-16T05:00:00.000Z",
+    "thumbnail_blurhash": "LePjJm%M~pxZ%Moft6ae%LfPM|az"
   }
 ]
