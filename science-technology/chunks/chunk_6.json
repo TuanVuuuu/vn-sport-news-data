@@ -1051,5 +1051,31 @@
     "published_at": "Thu, 16 Jul 2026 07:00:00 +0700",
     "createAt": "2026-07-16T00:00:00.000Z",
     "thumbnail_blurhash": "L36[aX=$8^P2?wx^R%NF00Oq-piI"
+  },
+  {
+    "id": "https://vnexpress.net/thiet-bi-dau-tien-cua-openai-co-the-la-loa-thong-minh-5097860.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Thiết bị đầu tiên của OpenAI có thể là loa thông minh",
+    "description": "OpenAI được cho là đang phát triển thiết bị giống loa, có các chi tiết chuyển động được và đóng vai trò bạn đồng hành AI trong gia đình.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/15/20260629t000000z2040865915mt1n-8286-3216-1784109803.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=FmM6eLGvFRkan3olpWSNZQ",
+    "link": "https://vnexpress.net/thiet-bi-dau-tien-cua-openai-co-the-la-loa-thong-minh-5097860.html",
+    "published_at": "Thu, 16 Jul 2026 09:00:00 +0700",
+    "createAt": "2026-07-16T02:00:00.000Z",
+    "thumbnail_blurhash": "L27Axf~V0f5RD%9ZR+%200E2~BxY"
+  },
+  {
+    "id": "https://vnexpress.net/de-xuat-cat-giam-loat-thu-tuc-hanh-chinh-trong-linh-vuc-khoa-hoc-cong-nghe-5097986.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Đề xuất cắt giảm loạt thủ tục hành chính trong lĩnh vực khoa học công nghệ",
+    "description": "Chính phủ đề xuất cắt giảm nhiều thủ tục hành chính, điều kiện đầu tư kinh doanh với lĩnh vực tần số vô tuyến điện, viễn thông, chuyển giao công nghệ và giao dịch điện tử.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/16/202607160836282483-z8047412084-7733-3885-1784166299.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=uE6C0myLbltqnUOOvNUocQ",
+    "link": "https://vnexpress.net/de-xuat-cat-giam-loat-thu-tuc-hanh-chinh-trong-linh-vuc-khoa-hoc-cong-nghe-5097986.html",
+    "published_at": "Thu, 16 Jul 2026 09:27:38 +0700",
+    "createAt": "2026-07-16T02:27:38.000Z",
+    "thumbnail_blurhash": "LIMj]#px4TKk5RJDs,O@KnIY?cyF"
   }
 ]
