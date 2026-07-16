@@ -1129,5 +1129,31 @@
     "published_at": "Thu, 16 Jul 2026 13:00:00 +0700",
     "createAt": "2026-07-16T06:00:00.000Z",
     "thumbnail_blurhash": "LAC@H@t905NO4+-.%h9fRbV?adSl"
+  },
+  {
+    "id": "https://vnexpress.net/ao-tang-hinh-in-3d-co-the-che-mat-camera-hong-ngoai-5097864.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Áo tàng hình in 3D có thể 'che mắt' camera hồng ngoại",
+    "description": "Các nhà nghiên cứu Mỹ và Đan Mạch chế tạo thành công áo tàng hình mới có thể che giấu vật thể khỏi tầm quan sát của camera hồng ngoại từ gần như mọi hướng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/15/VNECloak-1784110228-1879-1784110422.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=cb1U4GHbpXHC1lKvJhz12A",
+    "link": "https://vnexpress.net/ao-tang-hinh-in-3d-co-the-che-mat-camera-hong-ngoai-5097864.html",
+    "published_at": "Thu, 16 Jul 2026 14:20:03 +0700",
+    "createAt": "2026-07-16T07:20:03.000Z",
+    "thumbnail_blurhash": "L49@YPIV00tQ9bMy~p-;00-;?cIU"
+  },
+  {
+    "id": "https://vnexpress.net/intel-xuat-xuong-lo-chip-dau-tien-tu-co-may-380-trieu-usd-5098027.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Intel xuất xưởng lô chip đầu tiên từ cỗ máy 380 triệu USD",
+    "description": "Intel trở thành hãng đầu tiên sản xuất chip bằng cỗ máy quang khắc siêu cực tím (EUV) sử dụng công nghệ khẩu độ số lớn High-NA của ASML.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/16/EUV-1784192834-5107-1784192875.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=-iJ7lzWdn8RFTcoTCpq39w",
+    "link": "https://vnexpress.net/intel-xuat-xuong-lo-chip-dau-tien-tu-co-may-380-trieu-usd-5098027.html",
+    "published_at": "Thu, 16 Jul 2026 16:04:15 +0700",
+    "createAt": "2026-07-16T09:04:15.000Z",
+    "thumbnail_blurhash": "LRIOe9?b-;s;?aNGxtR*~q%Mt6ay"
   }
 ]
