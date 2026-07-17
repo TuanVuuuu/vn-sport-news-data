@@ -505,5 +505,31 @@
     "published_at": "Fri, 17 Jul 2026 00:00:00 +0700",
     "createAt": "2026-07-16T17:00:00.000Z",
     "thumbnail_blurhash": "LQM?-,%MFXx[_MIpxwx^_3Ipn$xu"
+  },
+  {
+    "id": "https://vnexpress.net/khanh-hoa-va-grab-hop-tac-so-hoa-trai-nghiem-du-lich-5098481.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Khánh Hòa và Grab hợp tác số hóa trải nghiệm du lịch",
+    "description": "Các điểm đến, ẩm thực nổi bật của Khánh Hòa sẽ được quảng bá thông qua app Grab nhằm tăng trải nghiệm và đến gần hơn với du khách trong - ngoài nước.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/07/17/so-van-hoa-the-thao-va-du-lich-4814-6232-1784260168.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=-19BlmpF71uVMZ-17zzMTQ",
+    "link": "https://vnexpress.net/khanh-hoa-va-grab-hop-tac-so-hoa-trai-nghiem-du-lich-5098481.html",
+    "published_at": "Fri, 17 Jul 2026 11:00:00 +0700",
+    "createAt": "2026-07-17T04:00:00.000Z",
+    "thumbnail_blurhash": "LBA^|I_48wJ{tbO8%i-E55E0RSRP"
+  },
+  {
+    "id": "https://vnexpress.net/ve-xem-chung-ket-world-cup-dat-nhat-lich-su-the-thao-my-5098408.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Vé xem chung kết World Cup đắt nhất lịch sử thể thao Mỹ",
+    "description": "Giá trung bình một vé xem chung kết World Cup khoảng 11.300 USD, cao nhất lịch sử thể thao Mỹ.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/07/17/messi-argentina-1784254201-6802-1784254231.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=rjBtuf2cWn1iLcHes62fKQ",
+    "link": "https://vnexpress.net/ve-xem-chung-ket-world-cup-dat-nhat-lich-su-the-thao-my-5098408.html",
+    "published_at": "Fri, 17 Jul 2026 11:21:10 +0700",
+    "createAt": "2026-07-17T04:21:10.000Z",
+    "thumbnail_blurhash": "L4EyV,_3Iw]{4T*0S1pd00ngImMw"
   }
 ]
