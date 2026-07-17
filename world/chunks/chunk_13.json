@@ -245,5 +245,31 @@
     "published_at": "Fri, 17 Jul 2026 18:00:00 +0700",
     "createAt": "2026-07-17T11:00:00.000Z",
     "thumbnail_blurhash": "LVG[[]~VVtt9T0EMNLRkIAjG-pRi"
+  },
+  {
+    "id": "https://vnexpress.net/su-tu-tien-tri-doan-tay-ban-nha-vo-dich-world-cup-5098698.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Sư tử 'tiên tri' đoán Tây Ban Nha vô địch World Cup",
+    "description": "Sư tử Chao Boy ở Thái Lan, nổi tiếng về khả năng dự đoán kết quả các trận đấu, chọn Tây Ban Nha sẽ thắng Argentina và vô địch World Cup 2026.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/17/downloadt173900-1784285879-5592-1784287134.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=9_204OhB3l1Ik1z09TQ4lA",
+    "link": "https://vnexpress.net/su-tu-tien-tri-doan-tay-ban-nha-vo-dich-world-cup-5098698.html",
+    "published_at": "Fri, 17 Jul 2026 18:43:56 +0700",
+    "createAt": "2026-07-17T11:43:56.000Z",
+    "thumbnail_blurhash": "LABDck~UE1IpD-MyIUIpX9t7obt6"
+  },
+  {
+    "id": "https://vnexpress.net/cuoc-cai-to-phoi-bay-bat-dong-noi-bo-quan-doi-ukraine-5098433.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Cuộc cải tổ phơi bày bất đồng nội bộ quân đội Ukraine",
+    "description": "Ukraine đang giành lợi thế trên chiến trường, nhưng rạn nứt trong nội bộ lãnh đạo sau cuộc cải tổ của ông Zelensky có nguy cơ trở thành trở ngại lớn nhất cho cuộc chiến với Nga.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/17/zelensky-1784264730-7734-1784265023.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=ZuEKlPZT5EBsWIEnNhIqog",
+    "link": "https://vnexpress.net/cuoc-cai-to-phoi-bay-bat-dong-noi-bo-quan-doi-ukraine-5098433.html",
+    "published_at": "Fri, 17 Jul 2026 19:00:00 +0700",
+    "createAt": "2026-07-17T12:00:00.000Z",
+    "thumbnail_blurhash": "LaGutCE1xux]~qa$Rkt7xtjst7ay"
   }
 ]
