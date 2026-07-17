@@ -1207,5 +1207,44 @@
     "published_at": "Fri, 17 Jul 2026 00:00:00 +0700",
     "createAt": "2026-07-16T17:00:00.000Z",
     "thumbnail_blurhash": "LQEff[9cxtog~pIpxZWC?vW?Rja}"
+  },
+  {
+    "id": "https://vnexpress.net/siri-ai-moi-tren-iphone-co-the-lam-nhung-gi-5097928.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Siri AI mới trên iPhone có thể làm những gì?",
+    "description": "Từ iOS 27, trợ lý ảo Siri trên iPhone thay đổi hoàn toàn khi tích hợp AI, có thể hiểu, phân tích yên cầu theo ngữ cảnh cá nhân, hoạt động như chatbot với ứng dụng riêng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/16/top-1784145446.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=epYD-UwuAKxfkh4bM51ynQ",
+    "link": "https://vnexpress.net/siri-ai-moi-tren-iphone-co-the-lam-nhung-gi-5097928.html",
+    "published_at": "Fri, 17 Jul 2026 05:00:00 +0700",
+    "createAt": "2026-07-16T22:00:00.000Z",
+    "thumbnail_blurhash": "LuLE7]yD~W?a_3IUWWt7%MsmRkRj"
+  },
+  {
+    "id": "https://vnexpress.net/gs-thai-tra-my-con-nguoi-de-bi-ai-danh-lua-boi-giong-dieu-tu-tin-5094051.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "GS Thái Trà My: 'Con người dễ bị AI đánh lừa bởi giọng điệu tự tin'",
+    "description": "Một vấn đề nguy hiểm hiện nay là AI tạo sinh được huấn luyện để tạo văn bản mạch lạc và giọng điệu tự tin, khiến con người tắt đi cơ chế phản biện, theo bà Thái Trà My, giáo sư tại Đại học Florida.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/15/5-gs-my-ta-i-le-ra-ma-t-sa-ch-2393-5089-1784110932.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=O0DSQEXnOTi-HwSOXQKOQw",
+    "link": "https://vnexpress.net/gs-thai-tra-my-con-nguoi-de-bi-ai-danh-lua-boi-giong-dieu-tu-tin-5094051.html",
+    "published_at": "Fri, 17 Jul 2026 06:00:00 +0700",
+    "createAt": "2026-07-16T23:00:00.000Z",
+    "thumbnail_blurhash": "LrPG1t-P~UV[?bWVRjoekXayRjof"
+  },
+  {
+    "id": "https://vnexpress.net/ten-lua-manh-nhat-the-gioi-starship-v3-hoan-phong-phut-chot-5098357.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Tên lửa mạnh nhất thế giới Starship V3 hoãn phóng phút chót",
+    "description": "Ngay khi đồng hồ đếm ngược về 0, máy tính kích hoạt lệnh dừng phóng, khiến tên lửa khổng lồ Starship V3 của SpaceX không thể phóng thử nghiệm.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/17/x2tupfqs5mxddv2g8uytzf120080-1-9712-3774-1784245653.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=KJ75_ys6NFgIE3comy40qg",
+    "link": "https://vnexpress.net/ten-lua-manh-nhat-the-gioi-starship-v3-hoan-phong-phut-chot-5098357.html",
+    "published_at": "Fri, 17 Jul 2026 06:55:40 +0700",
+    "createAt": "2026-07-16T23:55:40.000Z",
+    "thumbnail_blurhash": "LPFQI8?w%gtR9%RQWXkC4TngV@Ri"
   }
 ]
