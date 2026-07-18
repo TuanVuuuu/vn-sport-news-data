@@ -596,5 +596,31 @@
     "published_at": "Sat, 18 Jul 2026 07:22:25 +0700",
     "createAt": "2026-07-18T00:22:25.000Z",
     "thumbnail_blurhash": "LEIW_s}RQnk.^gOGRR=r0hS%X4^P"
+  },
+  {
+    "id": "https://vnexpress.net/cam-nang-du-lich-lang-lo-5098278.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Cẩm nang du lịch làng Lò",
+    "description": "Làng Lò hơn 400 tuổi được nhiều du khách biết đến với tên \"làng ngói đỏ ven biển\", sở hữu cảnh quan hoang sơ, nhịp sống yên bình.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/07/16/Unknown511783735231-1784216422-5577-1784216673.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=RA-dgcO5Z-uPmYaON7BNGg",
+    "link": "https://vnexpress.net/cam-nang-du-lich-lang-lo-5098278.html",
+    "published_at": "Sat, 18 Jul 2026 10:54:01 +0700",
+    "createAt": "2026-07-18T03:54:01.000Z",
+    "thumbnail_blurhash": "LSGSS@DhNbt6ys#iELNa6T^gRiEM"
+  },
+  {
+    "id": "https://vnexpress.net/gia-vi-phan-quy-gay-tranh-cai-o-an-do-5097842.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Gia vị 'phân quỷ' gây tranh cãi ở Ấn Độ",
+    "description": "Hing (phân quỷ) là nguyên liệu gây tranh cãi nhất trong ẩm thực Ấn Độ vì người khen ngon, số khác chê thảm họa.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/07/15/hingpowdernotbottled-fb1de7b05-9838-5392-1784107929.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=IWkyelb8fJ69PwsNdQ4m4w",
+    "link": "https://vnexpress.net/gia-vi-phan-quy-gay-tranh-cai-o-an-do-5097842.html",
+    "published_at": "Sat, 18 Jul 2026 11:00:00 +0700",
+    "createAt": "2026-07-18T04:00:00.000Z",
+    "thumbnail_blurhash": "LNH,z]~AMzRl$%I;NHoL0NM}=_%1"
   }
 ]
