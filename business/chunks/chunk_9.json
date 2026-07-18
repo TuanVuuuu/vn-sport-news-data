@@ -440,5 +440,31 @@
     "published_at": "Sat, 18 Jul 2026 17:16:18 +0700",
     "createAt": "2026-07-18T10:16:18.000Z",
     "thumbnail_blurhash": "LzJTI]tR*JkW.Sj@M{kCWVaxe.j["
+  },
+  {
+    "id": "https://vnexpress.net/thuc-pham-tick-xanh-mo-rong-tu-sieu-thi-toi-cho-truong-hoc-5098897.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Thực phẩm 'Tick xanh' mở rộng từ siêu thị tới chợ, trường học",
+    "description": "Sau hơn hai năm triển khai, \"Tick xanh trách nhiệm\" mở rộng từ siêu thị tới chợ truyền thống và bếp ăn trường học, đưa thực phẩm minh bạch nguồn gốc đến gần người tiêu dùng hơn.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/18/rau-1784391437-9529-1784391445.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=L4iUi3eOUnSNgRHu1xmktQ",
+    "link": "https://vnexpress.net/thuc-pham-tick-xanh-mo-rong-tu-sieu-thi-toi-cho-truong-hoc-5098897.html",
+    "published_at": "Sun, 19 Jul 2026 00:02:00 +0700",
+    "createAt": "2026-07-18T17:02:00.000Z",
+    "thumbnail_blurhash": "LBEo_8vgH[pv.m9a8{?bozNGV@-p"
+  },
+  {
+    "id": "https://vnexpress.net/mua-ve-world-cup-thang-lon-cua-fifa-5099010.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Mùa vé World Cup thắng lớn của FIFA",
+    "description": "Bất chấp lo ngại về nguy cơ ế ẩm, canh bạc bán vé World Cup đắt \"cắt cổ\" của FIFA đã thành công lớn, từ vòng bảng đến chung kết.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/18/2026t205518z-up1em7f1m45fw-rtr-5019-8698-1784378321.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=rcI79UVG2Ac80DHYyu5mCA",
+    "link": "https://vnexpress.net/mua-ve-world-cup-thang-lon-cua-fifa-5099010.html",
+    "published_at": "Sun, 19 Jul 2026 00:05:00 +0700",
+    "createAt": "2026-07-18T17:05:00.000Z",
+    "thumbnail_blurhash": "L4Bf@YSjELt88wR+E2WqAOkCjDRk"
   }
 ]
