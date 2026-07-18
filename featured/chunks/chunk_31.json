@@ -128,5 +128,44 @@
     "published_at": "Sat, 18 Jul 2026 06:31:00 +0700",
     "createAt": "2026-07-17T23:31:00.000Z",
     "thumbnail_blurhash": "LlH-oxK7-lt7cu%2R+R-TfkqR-oM"
+  },
+  {
+    "id": "https://vnexpress.net/my-khong-kich-dem-thu-7-lien-tiep-iran-doa-tan-cong-tong-luc-5098778.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Mỹ không kích đêm thứ 7 liên tiếp, Iran dọa tấn công tổng lực",
+    "description": "Mỹ tiếp tục không kích với lý do \"làm suy giảm năng lực quân sự Iran\", trong khi Tehran cảnh báo sẽ mở rộng quy mô tấn công đối phương.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/18/downloadt062356-1784330674-8228-1784331023.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=gKrC-LU2rQS8rQudn71Wnw",
+    "link": "https://vnexpress.net/my-khong-kich-dem-thu-7-lien-tiep-iran-doa-tan-cong-tong-luc-5098778.html",
+    "published_at": "Sat, 18 Jul 2026 06:51:08 +0700",
+    "createAt": "2026-07-17T23:51:08.000Z",
+    "thumbnail_blurhash": "LWDcqFado#f6_4a$bIj?t8j[Rij]"
+  },
+  {
+    "id": "https://vnexpress.net/an-so-sau-cu-giam-manh-mua-dau-tho-cua-trung-quoc-5098607.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Ẩn số sau cú giảm mạnh mua dầu thô của Trung Quốc",
+    "description": "Lượng dầu thô nhập khẩu của Trung Quốc bất ngờ giảm xuống mức thấp nhất một thập kỷ, trở thành ẩn số lớn thách thức giới phân tích và thị trường năng lượng toàn cầu.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/17/2005t000000z-rp6drnatwtaa-rtrm-9661-5465-1784279240.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=nQGXvu2YONyaNFKshknQnw",
+    "link": "https://vnexpress.net/an-so-sau-cu-giam-manh-mua-dau-tho-cua-trung-quoc-5098607.html",
+    "published_at": "Sat, 18 Jul 2026 07:00:00 +0700",
+    "createAt": "2026-07-18T00:00:00.000Z",
+    "thumbnail_blurhash": "LmG9XLR:WBjY.AM|t7WBx^WEt7oL"
+  },
+  {
+    "id": "https://vnexpress.net/xe-tai-lat-tren-cao-toc-ham-nghi-vung-ang-mot-nguoi-chet-5098806.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Xe tải lật trên cao tốc Hàm Nghi – Vũng Áng, một người chết",
+    "description": "Xe tải chở hai người tông gãy hộ lan tôn rồi lật xuống taluy âm trên cao tốc Hàm Nghi - Vũng Áng khiến một người tử vong, sáng 18/7.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/18/hien-truong-tai-nan-cao-toc-ha-8157-3721-1784338206.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=d-jED3jU2twihcRNrJyXCw",
+    "link": "https://vnexpress.net/xe-tai-lat-tren-cao-toc-ham-nghi-vung-ang-mot-nguoi-chet-5098806.html",
+    "published_at": "Sat, 18 Jul 2026 08:40:15 +0700",
+    "createAt": "2026-07-18T01:40:15.000Z",
+    "thumbnail_blurhash": "LzCHB0tRjqn}%%WZayoLx_axa$bI"
   }
 ]
