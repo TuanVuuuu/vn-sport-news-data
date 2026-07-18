@@ -1129,5 +1129,31 @@
     "published_at": "Sat, 18 Jul 2026 11:35:00 +0700",
     "createAt": "2026-07-18T04:35:00.000Z",
     "thumbnail_blurhash": "LD8z[RR%Rkxa~pWWbIsm_2M{Rjxa"
+  },
+  {
+    "id": "https://vnexpress.net/xe-dien-lan-dau-tien-vuot-doanh-so-xe-xang-o-duc-5098862.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Xe điện lần đầu tiên vượt doanh số xe xăng ở Đức",
+    "description": "Thị trường xe điện ghi nhận mức tăng trưởng kỷ lục trong tháng 6, cho thấy bước chuyển dịch mạnh mẽ của ngành xe Đức.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/18/VWID4-1784345818-5988-1784345941.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Or1XEqlf6RoaWTKgI9iv8g",
+    "link": "https://vnexpress.net/xe-dien-lan-dau-tien-vuot-doanh-so-xe-xang-o-duc-5098862.html",
+    "published_at": "Sun, 19 Jul 2026 05:00:00 +0700",
+    "createAt": "2026-07-18T22:00:00.000Z",
+    "thumbnail_blurhash": "LHEME]-iKG9b?@W=RNRPyr%Mijrr"
+  },
+  {
+    "id": "https://vnexpress.net/robotaxi-bi-trieu-hoi-vi-lao-vao-noi-hoa-hoan-5098833.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Robotaxi bị triệu hồi vì lao vào nơi hỏa hoạn",
+    "description": "Zoox, công ty thuộc Amazon, triệu hồi phần mềm của 105 chiếc robotaxi sau sự cố xe không nhận diện được khói và lao vào hiện trường cháy.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/18/Zoox1-1784344209-3802-1784344316.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=M4uTn4ZFng28HQK_PR1uqA",
+    "link": "https://vnexpress.net/robotaxi-bi-trieu-hoi-vi-lao-vao-noi-hoa-hoan-5098833.html",
+    "published_at": "Sun, 19 Jul 2026 06:00:00 +0700",
+    "createAt": "2026-07-18T23:00:00.000Z",
+    "thumbnail_blurhash": "LQEV{E%NDhM|*0tSD$V@-=x]M_oc"
   }
 ]
