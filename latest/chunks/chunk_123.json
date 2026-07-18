@@ -544,5 +544,57 @@
     "published_at": "Sun, 19 Jul 2026 00:14:00 +0700",
     "createAt": "2026-07-18T17:14:00.000Z",
     "thumbnail_blurhash": "L3D,K1IU~B-ptC$~t5-p;1-P01D%"
+  },
+  {
+    "id": "https://vnexpress.net/don-giang-vao-quan-doi-ukraine-sau-vu-mien-nhiem-bo-truong-quoc-phong-5098479.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Đòn giáng vào quân đội Ukraine sau vụ miễn nhiệm Bộ trưởng Quốc phòng",
+    "description": "Sự ra đi của cựu bộ trưởng Mykhailo Fedorov được cho là \"món quà\" với Nga, có thể thay đổi cục diện chiến sự theo hướng có lợi cho Moskva.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/17/UAVUKraine-1784277677-3523-1784280127.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=wIMnzeQagcv7f13BaSsJTQ",
+    "link": "https://vnexpress.net/don-giang-vao-quan-doi-ukraine-sau-vu-mien-nhiem-bo-truong-quoc-phong-5098479.html",
+    "published_at": "Sun, 19 Jul 2026 01:00:00 +0700",
+    "createAt": "2026-07-18T18:00:00.000Z",
+    "thumbnail_blurhash": "L57xL5*08w8wyMW+tTyEIQoY%jyF"
+  },
+  {
+    "id": "https://vnexpress.net/ba-nguoi-chet-trong-trang-trai-nuoi-lon-5099075.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Ba người chết trong trang trại nuôi lợn",
+    "description": "Bị điện giật và rơi xuống hố sâu khiến ba công nhân chết, bốn người bị thương tại khu xử lý chất thải của trang trại nuôi lợn Dabaco, xã Thạch Quảng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/19/1784395871546f95f53df891c41d66-8999-7630-1784397950.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=K1FtLQ6bvFvUSmp4dVIxCw",
+    "link": "https://vnexpress.net/ba-nguoi-chet-trong-trang-trai-nuoi-lon-5099075.html",
+    "published_at": "Sun, 19 Jul 2026 01:26:53 +0700",
+    "createAt": "2026-07-18T18:26:53.000Z",
+    "thumbnail_blurhash": "LDC@vQie00x[AJMx~X$,9JM{k9a}"
+  },
+  {
+    "id": "https://vnexpress.net/cha-me-quat-mang-de-khien-tre-mat-loi-the-trong-thoi-ai-5098959.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Cha mẹ quát mắng dễ khiến trẻ mất lợi thế trong thời AI",
+    "description": "Thường xuyên quát mắng khiến trẻ mất cảm giác an toàn, ngại đặt câu hỏi và kém sáng tạo - những năng lực được xem là lợi thế trong thời đại AI.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/18/tre-ho-c-ho-i-1784367681-3369-1784367817.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=rul_Mgk_2MKMZSJv3bVJWQ",
+    "link": "https://vnexpress.net/cha-me-quat-mang-de-khien-tre-mat-loi-the-trong-thoi-ai-5098959.html",
+    "published_at": "Sun, 19 Jul 2026 02:00:00 +0700",
+    "createAt": "2026-07-18T19:00:00.000Z",
+    "thumbnail_blurhash": "LMIFnatm7^o|y:kCxtS#Suadv#i{"
+  },
+  {
+    "id": "https://vnexpress.net/my-co-the-tu-choi-cap-the-xanh-cho-nguoi-nhap-cu-su-dung-phuc-loi-cong-cong-5098618.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Mỹ có thể từ chối cấp thẻ xanh cho người nhập cư sử dụng phúc lợi công cộng",
+    "description": "Người nhập cư sử dụng các phúc lợi công cộng, như tem phiếu thực phẩm, bảo hiểm y tế của chính phủ, phiếu hỗ trợ nhà ở… có thể bị từ chối cấp thẻ xanh.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/18/green-card-1784366617-6598-1784366860.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=1oD5TkmAshWhOyRsU45WWA",
+    "link": "https://vnexpress.net/my-co-the-tu-choi-cap-the-xanh-cho-nguoi-nhap-cu-su-dung-phuc-loi-cong-cong-5098618.html",
+    "published_at": "Sun, 19 Jul 2026 02:00:00 +0700",
+    "createAt": "2026-07-18T19:00:00.000Z",
+    "thumbnail_blurhash": "LCJacjS7_N?b4m9a_3-:w?0LIot7"
   }
 ]
