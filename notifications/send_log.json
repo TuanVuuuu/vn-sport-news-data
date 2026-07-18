@@ -1,32 +1,6 @@
 {
   "entries": [
     {
-      "sent_at": "2026-07-13T04:01:25.339Z",
-      "topic": null,
-      "device_id": "b557c896d6bacca4",
-      "slot": "noon",
-      "type": "featured_digest",
-      "article_ids": [
-        "https://vnexpress.net/bo-nghi-huu-som-vi-khong-chiu-duoc-nhan-roi-5095398.html",
-        "https://vnexpress.net/nut-giao-lon-nhat-tp-hcm-ngon-ngang-betong-cot-thep-sau-hai-lan-tre-hen-5096056.html",
-        "https://vnexpress.net/sinner-bao-ve-danh-hieu-wimbledon-5096593.html",
-        "https://vnexpress.net/my-tiep-tuc-tan-cong-muc-tieu-o-iran-5096589.html",
-        "https://vnexpress.net/9-truc-dong-luc-cua-ha-noi-trong-quy-hoach-100-nam-5096278.html",
-        "https://vnexpress.net/cuoc-cai-cach-moi-truong-kinh-doanh-chua-tung-co-5091182.html",
-        "https://vnexpress.net/chay-nha-hang-o-thai-lan-it-nhat-27-nguoi-chet-5096594.html",
-        "https://vnexpress.net/chay-quan-pub-o-thai-lan-it-nhat-27-nguoi-chet-5096594.html",
-        "https://vnexpress.net/vong-ban-ket-world-cup-2026-chua-co-tien-le-5096543.html",
-        "https://vnexpress.net/canh-hon-loan-khi-lua-bao-trum-quan-bar-o-thai-lan-khien-27-nguoi-chet-5096618.html",
-        "https://vnexpress.net/gia-vang-the-gioi-giam-dau-tho-bat-tang-5096613.html",
-        "https://vnexpress.net/iran-tuyen-bo-tap-kich-to-hop-himars-my-o-kuwait-5096617.html",
-        "https://vnexpress.net/nhung-khoang-trong-can-xoa-de-tu-chu-cong-nghe-chip-viet-5094998.html",
-        "https://vnexpress.net/them-15-nguoi-bi-khoi-to-trong-vu-gian-lan-diem-thi-toan-o-tuyen-quang-5096651.html",
-        "https://vnexpress.net/thi-the-be-gai-trong-balo-ven-duong-5096644.html",
-        "https://vnexpress.net/hien-truong-vu-chay-quan-pub-o-thai-lan-5096628.html"
-      ],
-      "highlight_id": "https://vnexpress.net/hien-truong-vu-chay-quan-pub-o-thai-lan-5096628.html"
-    },
-    {
       "sent_at": "2026-07-13T04:01:25.461Z",
       "topic": null,
       "device_id": "e7368c7543fff02f",
@@ -16386,6 +16360,22 @@
         "https://vnexpress.net/be-trai-gan-3-tuoi-nguy-kich-sau-buoi-hoc-tai-lop-can-thiep-5098831.html"
       ],
       "highlight_id": "https://vnexpress.net/be-trai-gan-3-tuoi-nguy-kich-sau-buoi-hoc-tai-lop-can-thiep-5098831.html"
+    },
+    {
+      "sent_at": "2026-07-18T05:01:12.567Z",
+      "topic": null,
+      "device_id": "B6573471-8CFF-492D-B7B6-2EEFA4FD21A2",
+      "slot": "noon",
+      "type": "featured_digest",
+      "article_ids": [
+        "https://vnexpress.net/mien-bac-tiep-tuc-mua-lon-hang-tram-xa-nguy-co-sat-lo-lu-quet-5098754.html",
+        "https://vnexpress.net/noi-oan-cua-hlv-tuchel-5098680.html",
+        "https://vnexpress.net/9-chuyen-it-biet-ve-tran-tranh-giai-ba-world-cup-5098810.html",
+        "https://vnexpress.net/thu-tuong-de-nghi-doanh-nghiep-gop-y-thang-khen-de-dip-khac-5098870.html",
+        "https://vnexpress.net/giao-vien-nghi-huu-duoc-ky-hop-dong-day-toan-thoi-gian-5098864.html",
+        "https://vnexpress.net/phat-hien-bom-350-kg-khi-dao-mong-nha-5098892.html"
+      ],
+      "highlight_id": "https://vnexpress.net/phat-hien-bom-350-kg-khi-dao-mong-nha-5098892.html"
     }
   ]
 }
