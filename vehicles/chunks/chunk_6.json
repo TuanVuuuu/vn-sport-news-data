@@ -1090,5 +1090,44 @@
     "published_at": "Sat, 18 Jul 2026 08:00:00 +0700",
     "createAt": "2026-07-18T01:00:00.000Z",
     "thumbnail_blurhash": "LyLE1t%1xat6~qt6WBj[s.f5M|f6"
+  },
+  {
+    "id": "https://vnexpress.net/toyota-viet-nam-chua-co-ke-hoach-ban-veloz-hybrid-nam-toi-5098587.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Toyota Việt Nam: Chưa có kế hoạch bán Veloz hybrid năm tới",
+    "description": "Trong khi một số đại lý úp mở thông tin về việc có thể sắp bán Veloz hybrid, đại diện hãng nói chưa có kế hoạch.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/17/toyotavelozhybridvnexpress3-17-9114-8836-1784277042.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Q695JsOxP_TwOqvnR0-_0Q",
+    "link": "https://vnexpress.net/toyota-viet-nam-chua-co-ke-hoach-ban-veloz-hybrid-nam-toi-5098587.html",
+    "published_at": "Sat, 18 Jul 2026 05:00:00 +0700",
+    "createAt": "2026-07-17T22:00:00.000Z",
+    "thumbnail_blurhash": "LHF6nXyGg4%MVBxsIUs:ouNGM{og"
+  },
+  {
+    "id": "https://vnexpress.net/con-sot-ai-dang-nuot-chung-cac-loai-chip-oto-5098373.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Cơn sốt AI đang 'nuốt chửng' các loại chip ôtô",
+    "description": "Giá chip tăng 450% do nhu cầu từ ngành AI buộc Ford, GM và Volkswagen phải nâng dự báo chi phí mua nguyên liệu để bảo vệ chuỗi cung ứng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/17/VW2-1784261649-8570-1784263312.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=fMbOrZVG06zJe_ICC6lEBw",
+    "link": "https://vnexpress.net/con-sot-ai-dang-nuot-chung-cac-loai-chip-oto-5098373.html",
+    "published_at": "Sat, 18 Jul 2026 11:16:09 +0700",
+    "createAt": "2026-07-18T04:16:09.000Z",
+    "thumbnail_blurhash": "LGHek8Rl-;-q~ps:9Gt7-:WC%Mxu"
+  },
+  {
+    "id": "https://vnexpress.net/ky-su-toyota-khach-hang-trung-quoc-cung-muon-nut-bam-5098798.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Kỹ sư Toyota: Khách hàng Trung Quốc cũng muốn nút bấm",
+    "description": "Kỹ sư trưởng của Toyota RAV4 thừa nhận ngay cả người dùng Trung Quốc, vốn chuộng công nghệ, cũng muốn nút bấm vật lý quay trở lại.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/18/Toyota1-1784337122-9302-1784337296.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=aOmVDeBWwatvQ5TGVPGnnA",
+    "link": "https://vnexpress.net/ky-su-toyota-khach-hang-trung-quoc-cung-muon-nut-bam-5098798.html",
+    "published_at": "Sat, 18 Jul 2026 11:35:00 +0700",
+    "createAt": "2026-07-18T04:35:00.000Z",
+    "thumbnail_blurhash": "LD8z[RR%Rkxa~pWWbIsm_2M{Rjxa"
   }
 ]
