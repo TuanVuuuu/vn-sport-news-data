@@ -1064,5 +1064,31 @@
     "published_at": "Sat, 18 Jul 2026 06:00:00 +0700",
     "createAt": "2026-07-17T23:00:00.000Z",
     "thumbnail_blurhash": "LWF5~xIAo0s:~XM{jFjZ%NjZV@Rj"
+  },
+  {
+    "id": "https://vnexpress.net/robot-tu-hanh-boc-xep-oto-xuat-khau-thay-con-nguoi-5098564.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Robot tự hành bốc xếp ôtô xuất khẩu thay con người",
+    "description": "Nhờ AI và robot tự hành, cảng Yên Đài, tỉnh Sơn Đông, tăng 20% hiệu suất bốc xếp xe xuất khẩu.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/17/Yantai1-1784272754-2274-1784274611.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=JRqDxrzFwC9mu6bul2B-zA",
+    "link": "https://vnexpress.net/robot-tu-hanh-boc-xep-oto-xuat-khau-thay-con-nguoi-5098564.html",
+    "published_at": "Sat, 18 Jul 2026 07:00:00 +0700",
+    "createAt": "2026-07-18T00:00:00.000Z",
+    "thumbnail_blurhash": "LOF$ePIV?GbI.TNHNHWB?at7t8s,"
+  },
+  {
+    "id": "https://vnexpress.net/xe-gam-cao-co-d-nua-dau-2026-ford-everest-va-phan-con-lai-5098460.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Xe gầm cao cỡ D nửa đầu 2026: Ford Everest và phần còn lại",
+    "description": "Mẫu xe của Ford giảm lượng bán so với tháng trước những vẫn bỏ xa so với Mazda CX-8 ở vị trí thứ hai.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/17/gamcaophakhucd2026-1784259628-7847-1784259669.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=qQXlEpK8syMdzZvAIk9zaA",
+    "link": "https://vnexpress.net/xe-gam-cao-co-d-nua-dau-2026-ford-everest-va-phan-con-lai-5098460.html",
+    "published_at": "Sat, 18 Jul 2026 08:00:00 +0700",
+    "createAt": "2026-07-18T01:00:00.000Z",
+    "thumbnail_blurhash": "LyLE1t%1xat6~qt6WBj[s.f5M|f6"
   }
 ]
