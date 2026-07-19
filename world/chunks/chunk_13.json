@@ -635,5 +635,31 @@
     "published_at": "Sun, 19 Jul 2026 02:00:00 +0700",
     "createAt": "2026-07-18T19:00:00.000Z",
     "thumbnail_blurhash": "LCJacjS7_N?b4m9a_3-:w?0LIot7"
+  },
+  {
+    "id": "https://vnexpress.net/hai-linh-my-thiet-mang-vi-hoa-luc-iran-5099083.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Hai lính Mỹ thiệt mạng vì hỏa lực Iran",
+    "description": "Quân đội Mỹ xác nhận hai binh sĩ nước này thiệt mạng sau đòn tấn công của Iran vào Jordan, đánh dấu trường hợp tử vong đầu tiên kể từ tháng 3.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/19/afp-c2hy39e-v1-highres-usirani-6783-1143-1784418572.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=2WqldaK75VUndW2e7tYm7Q",
+    "link": "https://vnexpress.net/hai-linh-my-thiet-mang-vi-hoa-luc-iran-5099083.html",
+    "published_at": "Sun, 19 Jul 2026 06:58:57 +0700",
+    "createAt": "2026-07-18T23:58:57.000Z",
+    "thumbnail_blurhash": "L36jak-V0jNYtQShIqw]0NNF^MR:"
+  },
+  {
+    "id": "https://vnexpress.net/cach-nguoi-viet-o-my-ung-pho-voi-lam-phat-5094909.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Cách người Việt ở Mỹ ứng phó với lạm phát",
+    "description": "Lạm phát tăng cao do chiến sự Iran buộc nhiều người Việt ở Mỹ tìm các giải pháp tiết kiệm chi phí, giảm đi ăn ngoài, gác lại kế hoạch mua nhà.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/16/nguoi-viet-o-my-lam-phat-17841-7766-1266-1784168301.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=KemiZZ7n0asV8DOZDN-Dmw",
+    "link": "https://vnexpress.net/cach-nguoi-viet-o-my-ung-pho-voi-lam-phat-5094909.html",
+    "published_at": "Sun, 19 Jul 2026 08:00:00 +0700",
+    "createAt": "2026-07-19T01:00:00.000Z",
+    "thumbnail_blurhash": "LFHdNS~RtQ={D%r^nmxVyX%K$%tR"
   }
 ]
