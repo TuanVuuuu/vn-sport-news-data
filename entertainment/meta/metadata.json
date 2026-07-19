@@ -1,5 +1,5 @@
 {
-  "total_articles": 700,
+  "total_articles": 701,
   "files": [
     "chunk_1.json",
     "chunk_2.json",
@@ -7,7 +7,8 @@
     "chunk_4.json",
     "chunk_5.json",
     "chunk_6.json",
-    "chunk_7.json"
+    "chunk_7.json",
+    "chunk_8.json"
   ],
   "channel": {
     "title": "Giải trí - VnExpress RSS",
@@ -16,7 +17,7 @@
     "copyright": "",
     "logo_url": "https://s.vnecdn.net/vnexpress/i/v20/logos/vne_logo_rss.png",
     "link": "https://vnexpress.net/rss/giai-tri.rss",
-    "last_updated": "Sun, 19 Jul 2026 07:31:21 +0700"
+    "last_updated": "Sun, 19 Jul 2026 09:20:43 +0700"
   },
-  "last_updated": "2026-07-19T02:31:04.523Z"
+  "last_updated": "2026-07-19T02:40:39.389Z"
 }
