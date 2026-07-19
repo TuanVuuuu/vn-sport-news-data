@@ -531,5 +531,31 @@
     "published_at": "Sun, 19 Jul 2026 14:00:00 +0700",
     "createAt": "2026-07-19T07:00:00.000Z",
     "thumbnail_blurhash": "LKG+8P%%El%F~qxuM}e-0ot2%0o4"
+  },
+  {
+    "id": "https://vnexpress.net/bi-quyet-chong-lao-hoa-khong-ton-tien-cua-ty-phu-jensen-huang-5099057.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Bí quyết chống lão hóa không tốn tiền của tỷ phú Jensen Huang",
+    "description": "CEO Nvidia Jensen Huang duy trì phong độ ở tuổi lục tuần thông qua rèn luyện thể chất, giấc ngủ điều độ và tinh thần học hỏi không ngừng.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/19/ty-phu-1784397134-1377-1784397482.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=bnpTuepb4kW_g-ULcDB2gA",
+    "link": "https://vnexpress.net/bi-quyet-chong-lao-hoa-khong-ton-tien-cua-ty-phu-jensen-huang-5099057.html",
+    "published_at": "Sun, 19 Jul 2026 15:00:00 +0700",
+    "createAt": "2026-07-19T08:00:00.000Z",
+    "thumbnail_blurhash": "LAEox%0000aM}--o0MRO0LM{^io~"
+  },
+  {
+    "id": "https://vnexpress.net/co-nen-uong-ca-phe-de-giam-tao-bon-5099053.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Có nên uống cà phê để giảm táo bón?",
+    "description": "Cà phê giàu caffein và chất chống oxy có thể kích thích sản xuất axit dạ dày, giúp nhu động ruột hoạt động ổn định hơn.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/18/432425169107107466061666159867-1301-4047-1784389652.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=QkzjwUUu08GP9o6o2FMZAQ",
+    "link": "https://vnexpress.net/co-nen-uong-ca-phe-de-giam-tao-bon-5099053.html",
+    "published_at": "Sun, 19 Jul 2026 15:00:00 +0700",
+    "createAt": "2026-07-19T08:00:00.000Z",
+    "thumbnail_blurhash": "LHKdPMI98w~q_30f4.9}0Kxu%0XT"
   }
 ]
