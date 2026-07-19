@@ -310,5 +310,44 @@
     "published_at": "Sun, 19 Jul 2026 21:37:44 +0700",
     "createAt": "2026-07-19T14:37:44.000Z",
     "thumbnail_blurhash": "LcKK7qrA%Lxu_4m*WYozJERixDkD"
+  },
+  {
+    "id": "https://vnexpress.net/chay-bai-rac-lon-nhat-nghe-an-lua-lan-sang-rung-phong-ho-5099243.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Cháy bãi rác lớn nhất Nghệ An, lửa lan sang rừng phòng hộ",
+    "description": "Bãi rác Nghi Yên rộng hơn 50 ha ở xã Hải Lộc bốc cháy dữ dội, tàn lửa bay xa hơn 100 m, làm cháy rừng thông phòng hộ 7-8 năm tuổi, chiều 19/7.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/19/chaybairac-1784472302-8506-1784472590.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=-RUx4bNNR2RH_9DTO3APVQ&t=image",
+    "link": "https://vnexpress.net/chay-bai-rac-lon-nhat-nghe-an-lua-lan-sang-rung-phong-ho-5099243.html",
+    "published_at": "Sun, 19 Jul 2026 22:35:28 +0700",
+    "createAt": "2026-07-19T15:35:28.000Z",
+    "thumbnail_blurhash": "LCGbVN00%N~VI[9aJ7aJx]%0-9Is"
+  },
+  {
+    "id": "https://vnexpress.net/cdv-argentina-tay-ban-nha-xuong-duong-truoc-tran-chung-ket-world-cup-5099244.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "CĐV Argentina, Tây Ban Nha xuống đường trước trận chung kết World Cup",
+    "description": "Hàng nghìn cổ động viên Argentina và Tây Ban Nha đang tập trung tại những địa điểm nổi tiếng ở New York trước trận chung kết World Cup 2026.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/19/co-dong-vien-argentina-1784474-4278-5612-1784474922.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=zhE3Y_Vqwhx2BThIFnunwA",
+    "link": "https://vnexpress.net/cdv-argentina-tay-ban-nha-xuong-duong-truoc-tran-chung-ket-world-cup-5099244.html",
+    "published_at": "Sun, 19 Jul 2026 23:04:47 +0700",
+    "createAt": "2026-07-19T16:04:47.000Z",
+    "thumbnail_blurhash": "LPE{%vNN#Bt1?;sERCNry3xcssWB"
+  },
+  {
+    "id": "https://vnexpress.net/tay-ban-nha-argentina-le-be-mac-world-cup-2026-5099242.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Lễ bế mạc World Cup 2026",
+    "description": "Ca sĩ người Mỹ Post Malone sẽ là nghệ sĩ chính tại lễ bế mạc World Cup 2026, 90 phút trước trận chung kết giữa Tây Ban Nha và Argentina trên sân New York New Jersey.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/07/19/messi-1784471431-5230-1784471485.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=2gxqAEo5wJe3jvC4O0pK0g",
+    "link": "https://vnexpress.net/tay-ban-nha-argentina-le-be-mac-world-cup-2026-5099242.html",
+    "published_at": "Mon, 20 Jul 2026 00:00:00 +0700",
+    "createAt": "2026-07-19T17:00:00.000Z",
+    "thumbnail_blurhash": "LDFYy7^,XB~Wx7k8M_ad00OHIU9a"
   }
 ]
