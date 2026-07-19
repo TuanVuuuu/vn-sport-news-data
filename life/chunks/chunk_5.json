@@ -804,5 +804,31 @@
     "published_at": "Sun, 19 Jul 2026 12:00:00 +0700",
     "createAt": "2026-07-19T05:00:00.000Z",
     "thumbnail_blurhash": "L8GbVUzT0c.A,]Me0KxZ00?wEUVX"
+  },
+  {
+    "id": "https://vnexpress.net/cau-thu-bi-gach-ten-khoi-tuyen-anh-van-duoc-trao-huy-chuong-5099151.html",
+    "category_id": "life",
+    "category_name": "Đời sống",
+    "source": "VnExpress",
+    "title": "Cầu thủ bị gạch tên khỏi tuyển Anh vẫn được trao huy chương",
+    "description": "Dù bị loại khỏi danh sách thi đấu chính thức, thủ môn Jason Steele vẫn được các cầu thủ Anh mời lên bục nhận huy chương đồng World Cup 2026.",
+    "thumbnail_url": "https://vcdn1-giadinh.vnecdn.net/2026/07/19/a-nh-ma-n-hi-nh-lu-c-178443819-8343-6593-1784438384.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=M86JpE_8Ccw7jtuK5ZYVKQ",
+    "link": "https://vnexpress.net/cau-thu-bi-gach-ten-khoi-tuyen-anh-van-duoc-trao-huy-chuong-5099151.html",
+    "published_at": "Sun, 19 Jul 2026 15:13:22 +0700",
+    "createAt": "2026-07-19T08:13:22.000Z",
+    "thumbnail_blurhash": "LDLW-Lz;tl%}ITpIxCxD9@tm_N?G"
+  },
+  {
+    "id": "https://vnexpress.net/messi-dien-cung-nguoi-nhen-de-chieu-con-5099155.html",
+    "category_id": "life",
+    "category_name": "Đời sống",
+    "source": "VnExpress",
+    "title": "Messi diễn cùng Người Nhện để chiều con",
+    "description": "Tiền đạo Lionel Messi góp mặt trong đoạn giới thiệu phim \"Spider-Man: Brand New Day\" vì ba con trai hâm mộ siêu anh hùng.",
+    "thumbnail_url": "https://vcdn1-giadinh.vnecdn.net/2026/07/19/a-nh-ma-n-hi-nh-lu-c-178444090-5013-8480-1784441058.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=UNLfeQtQzKxf5UetQ0X_sg",
+    "link": "https://vnexpress.net/messi-dien-cung-nguoi-nhen-de-chieu-con-5099155.html",
+    "published_at": "Sun, 19 Jul 2026 15:39:34 +0700",
+    "createAt": "2026-07-19T08:39:34.000Z",
+    "thumbnail_blurhash": "LLCsdN%L009G~pt74.IV%MWBIUt6"
   }
 ]
