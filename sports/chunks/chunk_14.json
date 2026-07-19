@@ -791,5 +791,31 @@
     "published_at": "Sun, 19 Jul 2026 12:00:00 +0700",
     "createAt": "2026-07-19T05:00:00.000Z",
     "thumbnail_blurhash": "LU8OMyxTO_XBtTW?NFbdkYoLngae"
+  },
+  {
+    "id": "https://vnexpress.net/10-tran-chung-ket-hap-dan-nhat-lich-su-world-cup-5098923.html",
+    "category_id": "sports",
+    "category_name": "Thể thao",
+    "source": "VnExpress",
+    "title": "10 trận chung kết hấp dẫn nhất lịch sử World Cup",
+    "description": "Trận chung kết World Cup 2022 được báo Anh BBC xếp thứ hai. Liệu năm nay, cuộc đại chiến giữa Argentina và Tây Ban Nha có thể chen vào danh sách này?",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/07/18/ronaldo-world-cup-2002-1784350679.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=rjDhiIpPNotqotzOjspXJA",
+    "link": "https://vnexpress.net/10-tran-chung-ket-hap-dan-nhat-lich-su-world-cup-5098923.html",
+    "published_at": "Sun, 19 Jul 2026 13:00:00 +0700",
+    "createAt": "2026-07-19T06:00:00.000Z",
+    "thumbnail_blurhash": "LEDvcS~q%$tU4rIAD$W8KNxutQN1"
+  },
+  {
+    "id": "https://vnexpress.net/dibu-martinez-nen-dau-du-chung-ket-world-cup-5099152.html",
+    "category_id": "sports",
+    "category_name": "Thể thao",
+    "source": "VnExpress",
+    "title": "Dibu Martinez nén đau dự chung kết World Cup",
+    "description": "Thủ môn Emiliano Dibu Martinez tiết lộ bản thân từ chối phẫu thuật để kịp cùng Argentina bảo vệ chức vô địch thế giới tại World Cup 2026.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/07/19/ap26196741649066-1784440874-5773-1784441046.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=QuZysJPQRBwdeNE6j6ZE2Q",
+    "link": "https://vnexpress.net/dibu-martinez-nen-dau-du-chung-ket-world-cup-5099152.html",
+    "published_at": "Sun, 19 Jul 2026 13:04:56 +0700",
+    "createAt": "2026-07-19T06:04:56.000Z",
+    "thumbnail_blurhash": "L48Xak}@%3t,~U^+xHt800TJxbrp"
   }
 ]
