@@ -427,5 +427,31 @@
     "published_at": "Sun, 19 Jul 2026 09:00:00 +0700",
     "createAt": "2026-07-19T02:00:00.000Z",
     "thumbnail_blurhash": "LiK1?Ai]#JRQ~mjunQaew5t8aIoJ"
+  },
+  {
+    "id": "https://vnexpress.net/5-benh-ly-co-the-khien-mat-com-nhu-co-di-vat-5099022.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "5 bệnh lý có thể khiến mắt cộm như có dị vật",
+    "description": "Cảm giác cộm mắt như có cát hoặc dị vật trong mắt kéo dài có thể là dấu hiệu của các bệnh về giác mạc, mí mắt hoặc tuyến lệ cần được điều trị.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/18/mat12-1784382148-4456-1784382162.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=JSxd8wBDgGUiYnaMaj3fBg",
+    "link": "https://vnexpress.net/5-benh-ly-co-the-khien-mat-com-nhu-co-di-vat-5099022.html",
+    "published_at": "Sun, 19 Jul 2026 10:00:00 +0700",
+    "createAt": "2026-07-19T03:00:00.000Z",
+    "thumbnail_blurhash": "LWMiQR~C%L=|W;WC%1j[xuofIpxa"
+  },
+  {
+    "id": "https://vnexpress.net/huyet-ap-thay-doi-nhu-the-nao-sau-tuoi-50-5098992.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Huyết áp thay đổi như thế nào sau tuổi 50?",
+    "description": "Tôi 52 tuổi, gần đây đo huyết áp thấy chỉ số cao hơn trước dù chế độ sinh hoạt vẫn vậy. Huyết áp sau tuổi 50 thường thay đổi ra sao và nên làm gì? (Thu Ba, TP HCM)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/18/image001-1784370235-9999-1784370362.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=sb5nR_Ueo_zM0MdgpEHvoQ",
+    "link": "https://vnexpress.net/huyet-ap-thay-doi-nhu-the-nao-sau-tuoi-50-5098992.html",
+    "published_at": "Sun, 19 Jul 2026 10:00:00 +0700",
+    "createAt": "2026-07-19T03:00:00.000Z",
+    "thumbnail_blurhash": "LYL;Q+~V^+NHMwROxuay?vtRo#M{"
   }
 ]

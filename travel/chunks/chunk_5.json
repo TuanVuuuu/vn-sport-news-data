@@ -687,5 +687,31 @@
     "published_at": "Sun, 19 Jul 2026 07:00:00 +0700",
     "createAt": "2026-07-19T00:00:00.000Z",
     "thumbnail_blurhash": "LVD]l9xvNbogX=WFkCkDyGj]jtof"
+  },
+  {
+    "id": "https://vnexpress.net/san-guong-troi-tai-bien-khanh-hoa-5098938.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Săn 'gương trời' tại biển Khánh Hòa",
+    "description": "Những ngày đầu tháng 6 và 7, nhiều người dân và du khách đổ tới biển Mỹ Hòa, xã Vĩnh Hải, săn hiệu ứng gương khổng lồ phản chiếu trên mặt biển khi bình minh lên.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/07/18/2026-bienvocucmyhoa-hoanthoan-1784364264.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=hshT40VQRTQRqZXiuLddwg",
+    "link": "https://vnexpress.net/san-guong-troi-tai-bien-khanh-hoa-5098938.html",
+    "published_at": "Sun, 19 Jul 2026 09:00:00 +0700",
+    "createAt": "2026-07-19T02:00:00.000Z",
+    "thumbnail_blurhash": "L}KS04s.fjoL}?odfjoL%0bGfQj@"
+  },
+  {
+    "id": "https://vnexpress.net/mot-thap-ky-cap-treo-fansipan-thuc-day-du-lich-lao-cai-5099111.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Một thập kỷ cáp treo Fansipan thúc đẩy du lịch Lào Cai",
+    "description": "Sun Group kỷ niệm 10 năm vận hành tuyến cáp treo Fansipan, đánh dấu chặng đường công trình góp phần thúc đẩy tăng trưởng du lịch và kinh tế địa phương, tối 18/7.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/07/19/ca-p-treo-fansipan-mu-a-do-n-l-1331-5134-1784427997.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=jEJ9s8gMaJ5DTdkkQ6q6DQ",
+    "link": "https://vnexpress.net/mot-thap-ky-cap-treo-fansipan-thuc-day-du-lich-lao-cai-5099111.html",
+    "published_at": "Sun, 19 Jul 2026 09:29:00 +0700",
+    "createAt": "2026-07-19T02:29:00.000Z",
+    "thumbnail_blurhash": "L~MtN:V@o#t6yskDofkCsSt7jFf7"
   }
 ]
