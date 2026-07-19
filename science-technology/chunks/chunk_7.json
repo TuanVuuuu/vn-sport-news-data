@@ -128,5 +128,31 @@
     "published_at": "Sun, 19 Jul 2026 05:00:00 +0700",
     "createAt": "2026-07-18T22:00:00.000Z",
     "thumbnail_blurhash": "LtLEKBRP~o?b-:Rik8t7xuocjbj@"
+  },
+  {
+    "id": "https://vnexpress.net/ma-hoa-tai-san-thuc-dang-tro-thanh-xu-huong-5099020.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Mã hóa tài sản thực đang trở thành xu hướng",
+    "description": "Mã hóa tài sản thực (RWA) được nhiều chuyên gia đánh giá là xu hướng mới của kinh tế số, cần khung pháp lý và hạ tầng phù hợp để phát triển bền vững.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/19/ts-can-van-luc-1784417598-5436-1784417618.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=wL4wiJGvm30q1OQuJA4hdA",
+    "link": "https://vnexpress.net/ma-hoa-tai-san-thuc-dang-tro-thanh-xu-huong-5099020.html",
+    "published_at": "Sat, 18 Jul 2026 23:00:00 +0700",
+    "createAt": "2026-07-18T16:00:00.000Z",
+    "thumbnail_blurhash": "LgG+j*IU00oM~qM{IAogIAj[tRt7"
+  },
+  {
+    "id": "https://vnexpress.net/sieu-may-tinh-ai-tiep-tuc-du-doan-tay-ban-nha-vo-dich-world-cup-2026-5098966.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Siêu máy tính, AI tiếp tục dự đoán Tây Ban Nha vô địch World Cup 2026",
+    "description": "Đa số AI và siêu máy tính chuyên dự đoán thể thao cho rằng Tây Ban Nha sẽ thắng trận chung kết trước Argentina để trở thành nhà vô địch World Cup 2026.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/19/ap26191760695552-1784417391-2641-1784417430.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Z4WodUAUTUVkYqMv3hWxJw",
+    "link": "https://vnexpress.net/sieu-may-tinh-ai-tiep-tuc-du-doan-tay-ban-nha-vo-dich-world-cup-2026-5098966.html",
+    "published_at": "Sun, 19 Jul 2026 06:32:10 +0700",
+    "createAt": "2026-07-18T23:32:10.000Z",
+    "thumbnail_blurhash": "LDE-%TV@I.jE{pX8WBNau2OYe-OB"
   }
 ]
