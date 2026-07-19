@@ -505,5 +505,31 @@
     "published_at": "Sun, 19 Jul 2026 11:43:00 +0700",
     "createAt": "2026-07-19T04:43:00.000Z",
     "thumbnail_blurhash": "L596{__40f.9+E4m00Mw-;-=^,?H"
+  },
+  {
+    "id": "https://vnexpress.net/eu-cam-cac-hang-thoi-trang-tieu-huy-quan-ao-khong-ban-duoc-5099127.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "EU cấm các hãng thời trang tiêu hủy quần áo không bán được",
+    "description": "Từ ngày 19/7, EU chính thức cấm các hãng thời trang lớn tiêu hủy quần áo, giày dép tồn kho nhằm ngăn chặn lãng phí và bảo vệ môi trường.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/19/2026t000000z-mt1dpapixprt60028-4687-3326-1784431379.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=mONzBmhPWQbJO-kO9ZMjcw",
+    "link": "https://vnexpress.net/eu-cam-cac-hang-thoi-trang-tieu-huy-quan-ao-khong-ban-duoc-5099127.html",
+    "published_at": "Sun, 19 Jul 2026 13:30:00 +0700",
+    "createAt": "2026-07-19T06:30:00.000Z",
+    "thumbnail_blurhash": "LDDT0C-E==%%v$oubKt6Il-?kpV@"
+  },
+  {
+    "id": "https://vnexpress.net/nhieu-ngan-hang-dong-tai-khoan-khong-du-so-du-5099153.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Nhiều ngân hàng đóng tài khoản không đủ số dư",
+    "description": "Nhiều ngân hàng thông báo đóng tài khoản thanh toán không đủ số dư và không phát sinh giao dịch trong 1-2 năm.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/19/appbankthay-1784441338-3198-1784441504.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=6w7GKLCYyLUAFARbbYlbaQ",
+    "link": "https://vnexpress.net/nhieu-ngan-hang-dong-tai-khoan-khong-du-so-du-5099153.html",
+    "published_at": "Sun, 19 Jul 2026 14:10:00 +0700",
+    "createAt": "2026-07-19T07:10:00.000Z",
+    "thumbnail_blurhash": "L9ECLQTe_0.8xUENtT~W4.xa%3$k"
   }
 ]
