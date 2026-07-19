@@ -466,5 +466,31 @@
     "published_at": "Sun, 19 Jul 2026 10:58:34 +0700",
     "createAt": "2026-07-19T03:58:34.000Z",
     "thumbnail_blurhash": "LNH-[dKlTLxaMLu6Xo-qPDE,W@tS"
+  },
+  {
+    "id": "https://vnexpress.net/nhung-kieu-an-uong-de-lam-tang-axit-uric-5096064.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Những kiểu ăn uống dễ làm tăng axit uric",
+    "description": "Ăn nhiều thịt đỏ, hải sản, nội tạng, uống bia rượu, nước ngọt có đường đều có thể làm tăng nguy cơ tích tụ axit uric.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/11/3ef0f2eca-bcea-c23b326103eb-jp-5350-7866-1783765031.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=rF6QMPJ7s-EzngvYboO-0g",
+    "link": "https://vnexpress.net/nhung-kieu-an-uong-de-lam-tang-axit-uric-5096064.html",
+    "published_at": "Sun, 19 Jul 2026 12:00:00 +0700",
+    "createAt": "2026-07-19T05:00:00.000Z",
+    "thumbnail_blurhash": "L7CYm,=w0LD%1J%Ms.ae00gN}@t7"
+  },
+  {
+    "id": "https://vnexpress.net/meo-cai-thuoc-la-5098978.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Mẹo cai thuốc lá",
+    "description": "Kiểm soát cơn thèm nicotine bằng cách nhai kẹo cao su, uống nước, kiểm soát căng thẳng có thể giúp cai thuốc lá.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/19/uong-nuoc-1784420390-5659-1784420716.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=KmjNIaOjMe8FEaLI5y3eWw",
+    "link": "https://vnexpress.net/meo-cai-thuoc-la-5098978.html",
+    "published_at": "Sun, 19 Jul 2026 12:00:00 +0700",
+    "createAt": "2026-07-19T05:00:00.000Z",
+    "thumbnail_blurhash": "LKI}t@~VRiotxSXSRPx]x]ofjds9"
   }
 ]
