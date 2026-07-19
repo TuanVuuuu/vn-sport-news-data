@@ -271,5 +271,31 @@
     "published_at": "Sun, 19 Jul 2026 06:00:00 +0700",
     "createAt": "2026-07-18T23:00:00.000Z",
     "thumbnail_blurhash": "LCF#N_~V1RS7?vkXWA-5FzNbxB$$"
+  },
+  {
+    "id": "https://vnexpress.net/cach-tu-kiem-tra-nguc-giup-phat-hien-dau-hieu-bat-thuong-5099049.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Cách tự kiểm tra ngực giúp phát hiện dấu hiệu bất thường",
+    "description": "Dùng lòng bàn tay ấn từ nhẹ đến mạnh quanh vùng ngực ở tư thế nằm và đứng có thể giúp phát hiện các thay đổi cảnh báo khối u.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/18/gemini-generated-imageuxlov4ux-9662-7213-1784387784.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=dovqYMG_pIT8_nUKMZ-rLA",
+    "link": "https://vnexpress.net/cach-tu-kiem-tra-nguc-giup-phat-hien-dau-hieu-bat-thuong-5099049.html",
+    "published_at": "Sun, 19 Jul 2026 07:00:00 +0700",
+    "createAt": "2026-07-19T00:00:00.000Z",
+    "thumbnail_blurhash": "LDI#DQ0000xB~ptS9FM{%~WrrqIA"
+  },
+  {
+    "id": "https://vnexpress.net/suc-khoe/cam-nang/hoi-chung-marfan-441",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Hội chứng Marfan",
+    "description": "Hội chứng Marfan là rối loạn di truyền ảnh hưởng đến mô liên kết, dẫn đến các bất thường về mắt, cơ xương khớp và tim mạch.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/18/chatgptimage19381118thg72026-1-9110-8048-1784382283.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=maLvx41lm_vxx6GpbXrDyw",
+    "link": "https://vnexpress.net/suc-khoe/cam-nang/hoi-chung-marfan-441",
+    "published_at": "Sun, 19 Jul 2026 07:37:16 +0700",
+    "createAt": "2026-07-19T00:37:16.000Z",
+    "thumbnail_blurhash": "LQP$zRxDcExF_4pIVsnNuPkDjFkr"
   }
 ]
