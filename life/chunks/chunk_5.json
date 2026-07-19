@@ -843,5 +843,31 @@
     "published_at": "Sun, 19 Jul 2026 15:50:54 +0700",
     "createAt": "2026-07-19T08:50:54.000Z",
     "thumbnail_blurhash": "LPF$U@~q%NX2Dlozx@RoDhMxIAk8"
+  },
+  {
+    "id": "https://vnexpress.net/5-trung-hop-thu-vi-o-chung-ket-world-cup-2026-5099186.html",
+    "category_id": "life",
+    "category_name": "Đời sống",
+    "source": "VnExpress",
+    "title": "5 trùng hợp thú vị ở chung kết World Cup 2026",
+    "description": "Trận chung kết World Cup 2026 giữa tuyển Argentina và tuyển Tây Ban Nha mang 5 sự trùng hợp xoay quanh lịch sử thi đấu cùng các cá nhân.",
+    "thumbnail_url": "https://vcdn1-giadinh.vnecdn.net/2026/07/19/a-nh-ma-n-hi-nh-lu-1784451903-5193-1784451914.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=XVBAllEG8cwpmRigTD8AgA",
+    "link": "https://vnexpress.net/5-trung-hop-thu-vi-o-chung-ket-world-cup-2026-5099186.html",
+    "published_at": "Sun, 19 Jul 2026 19:00:00 +0700",
+    "createAt": "2026-07-19T12:00:00.000Z",
+    "thumbnail_blurhash": "L8840]+q4,F*}nr?ElS}D}XBp0ny"
+  },
+  {
+    "id": "https://vnexpress.net/huyme-va-quang-viet-ke-trai-nghiem-xem-world-cup-2026-tai-my-5099179.html",
+    "category_id": "life",
+    "category_name": "Đời sống",
+    "source": "VnExpress",
+    "title": "HuyMe và Quang Việt kể trải nghiệm xem World Cup 2026 tại Mỹ",
+    "description": "Vlogger HuyMe và BLV Quang Việt, lần đầu chứng kiến Messi thi đấu trực tiếp là dấu ấn khó quên trong hành trình xem FIFA World Cup 2026 tại Mỹ cùng Budweiser.",
+    "thumbnail_url": "https://vcdn1-giadinh.vnecdn.net/2026/07/19/image293422147extractword1out-7943-8144-1784450678.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=NIPRlUh6McihF0ZsrAPv-Q",
+    "link": "https://vnexpress.net/huyme-va-quang-viet-ke-trai-nghiem-xem-world-cup-2026-tai-my-5099179.html",
+    "published_at": "Sun, 19 Jul 2026 19:00:00 +0700",
+    "createAt": "2026-07-19T12:00:00.000Z",
+    "thumbnail_blurhash": "L8D]J0?I4@I-D3IUMysp00Rh-2Rp"
   }
 ]
