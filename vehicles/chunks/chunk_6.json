@@ -1220,5 +1220,31 @@
     "published_at": "Mon, 20 Jul 2026 05:00:00 +0700",
     "createAt": "2026-07-19T22:00:00.000Z",
     "thumbnail_blurhash": "LaFiiJ?Y-:IT.9x]oyWA?wR:WEt6"
+  },
+  {
+    "id": "https://vnexpress.net/nganh-oto-nhat-lien-minh-doi-pho-suc-ep-tu-trung-quoc-5098602.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Ngành ôtô Nhật liên minh đối phó sức ép từ Trung Quốc",
+    "description": "Các hãng xe Nhật lên kế hoạch chuẩn hóa linh kiện toàn ngành nhằm giảm chi phí, tăng sức cạnh tranh trước sự trỗi dậy của Trung Quốc.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/17/248845-1784274227-4665-1784274234.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Uft6CL7VoCyMrUQp745A-g",
+    "link": "https://vnexpress.net/nganh-oto-nhat-lien-minh-doi-pho-suc-ep-tu-trung-quoc-5098602.html",
+    "published_at": "Mon, 20 Jul 2026 06:00:00 +0700",
+    "createAt": "2026-07-19T23:00:00.000Z",
+    "thumbnail_blurhash": "LDCGfOnh~S%gNjR--go$?c%hnfn#"
+  },
+  {
+    "id": "https://vnexpress.net/hyundai-tucson-hybrid-sap-ra-mat-viet-nam-gia-tu-duoi-999-trieu-dong-5099118.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Hyundai Tucson Hybrid sắp ra mắt Việt Nam, giá từ dưới 999 triệu đồng",
+    "description": "Mẫu gầm cao cỡ C lần đầu trang bị hệ truyền động hybrid, bổ sung thêm lựa chọn cho khách Việt, dự kiến bán ra đầu tháng 9.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/19/HyundaiTucsonHybridVnE5ok-1784-8142-7112-1784475455.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=alAPixFCCg062JJA_ip7JA",
+    "link": "https://vnexpress.net/hyundai-tucson-hybrid-sap-ra-mat-viet-nam-gia-tu-duoi-999-trieu-dong-5099118.html",
+    "published_at": "Mon, 20 Jul 2026 06:30:00 +0700",
+    "createAt": "2026-07-19T23:30:00.000Z",
+    "thumbnail_blurhash": "LHHdaO^DY8VV}8-nENIT*GEN-pRQ"
   }
 ]

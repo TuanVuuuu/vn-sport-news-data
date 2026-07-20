@@ -817,5 +817,70 @@
     "published_at": "Sun, 19 Jul 2026 23:04:47 +0700",
     "createAt": "2026-07-19T16:04:47.000Z",
     "thumbnail_blurhash": "LPE{%vNN#Bt1?;sERCNry3xcssWB"
+  },
+  {
+    "id": "https://vnexpress.net/linh-my-thiet-mang-khi-huy-no-uav-iran-bi-ban-ha-5099272.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Lính Mỹ thiệt mạng khi hủy nổ UAV Iran bị bắn hạ",
+    "description": "Một binh sĩ Mỹ thiệt mạng trong quá trình xử lý đầu đạn chưa phát nổ trên UAV Iran bị bắn hạ ở miền bắc Iraq.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/20/shahed-jpeg-1784504883-1538-1784505225.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=-DFU91fzmLYs_H-xuJpZfg",
+    "link": "https://vnexpress.net/linh-my-thiet-mang-khi-huy-no-uav-iran-bi-ban-ha-5099272.html",
+    "published_at": "Mon, 20 Jul 2026 06:54:44 +0700",
+    "createAt": "2026-07-19T23:54:44.000Z",
+    "thumbnail_blurhash": "LJDwqFt9ThtnxufOXAkCXqbJitng"
+  },
+  {
+    "id": "https://vnexpress.net/de-nhi-phu-nhan-my-sinh-con-thu-tu-5099283.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Đệ nhị phu nhân Mỹ sinh con thứ tư",
+    "description": "Đệ nhị phu nhân Usha Vance sinh con trai, đánh dấu trường hợp rất hiếm là Phó tổng thống Mỹ có thêm con trong thời gian đương nhiệm.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/20/afp-v2-highres-presidenttrumpa-2231-7092-1784505991.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=4xviE_rUOW8L8Ao_NusGcQ",
+    "link": "https://vnexpress.net/de-nhi-phu-nhan-my-sinh-con-thu-tu-5099283.html",
+    "published_at": "Mon, 20 Jul 2026 07:25:39 +0700",
+    "createAt": "2026-07-20T00:25:39.000Z",
+    "thumbnail_blurhash": "LNDlf[00t7E1~WIUNGah-:WCIon%"
+  },
+  {
+    "id": "https://vnexpress.net/israel-doa-tra-dua-tong-luc-neu-bi-iran-tap-kich-ten-lua-5099282.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Israel dọa trả đũa tổng lực nếu bị Iran tập kích tên lửa",
+    "description": "Israel cảnh báo sẽ đáp trả tổng lực nếu bị Iran tấn công tên lửa, nêu khả năng tham chiến nếu Mỹ thay đổi chính sách.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/20/5563187178137269414a-178450520-7879-2803-1784505505.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=93bokY0iGVBuI-cpwSWMAw",
+    "link": "https://vnexpress.net/israel-doa-tra-dua-tong-luc-neu-bi-iran-tap-kich-ten-lua-5099282.html",
+    "published_at": "Mon, 20 Jul 2026 07:41:57 +0700",
+    "createAt": "2026-07-20T00:41:57.000Z",
+    "thumbnail_blurhash": "LSHfSQ-:-:tR?w%1xujZE4WYRjWB"
+  },
+  {
+    "id": "https://vnexpress.net/gia-nha-cao-nguoi-tre-my-quay-ve-song-cung-cha-me-5099252.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Giá nhà cao, người trẻ Mỹ quay về sống cùng cha mẹ",
+    "description": "Samantha Stobo quyết định chuyển về sống với bố mẹ ở Miami sau khi chia tay người yêu vì không đủ khả năng chi trả cho căn hộ ở Manhattan.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/20/1-1784512893-8287-1784513215.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=4Uvad1QPhNOX1oWtCO_V7Q",
+    "link": "https://vnexpress.net/gia-nha-cao-nguoi-tre-my-quay-ve-song-cung-cha-me-5099252.html",
+    "published_at": "Mon, 20 Jul 2026 09:20:57 +0700",
+    "createAt": "2026-07-20T02:20:57.000Z",
+    "thumbnail_blurhash": "LEE:I%+o.6?u07J_IpNL?YM{xuxb"
+  },
+  {
+    "id": "https://vnexpress.net/bat-dong-trong-nha-trang-ve-lenh-cam-dac-vu-ice-chan-xe-kiem-tra-5099319.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Bất đồng trong Nhà Trắng về lệnh cấm đặc vụ ICE chặn xe kiểm tra",
+    "description": "Giới chức nhập cư Mỹ cho rằng ICE cần bỏ việc tùy tiện chặn xe kiểm tra để cải thiện hình ảnh, song Tổng thống Trump không đồng tình.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/20/mullin-1784512266-4315-1784512386.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=mIPTmoF-gwjgLtuH19IqFQ",
+    "link": "https://vnexpress.net/bat-dong-trong-nha-trang-ve-lenh-cam-dac-vu-ice-chan-xe-kiem-tra-5099319.html",
+    "published_at": "Mon, 20 Jul 2026 09:33:46 +0700",
+    "createAt": "2026-07-20T02:33:46.000Z",
+    "thumbnail_blurhash": "LEFYiVi_AV%#~VVsIpx]9uoznNMx"
   }
 ]

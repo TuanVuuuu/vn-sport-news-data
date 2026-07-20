@@ -284,5 +284,31 @@
     "published_at": "Mon, 20 Jul 2026 05:52:19 +0700",
     "createAt": "2026-07-19T22:52:19.000Z",
     "thumbnail_blurhash": "LYE|0R-:o}x[=R%2oft7b=ohr?sA"
+  },
+  {
+    "id": "https://vnexpress.net/ai-chi-phat-huy-gia-tri-khi-ket-hop-mot-linh-vuc-cu-the-5097350.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "'AI chỉ phát huy giá trị khi kết hợp một lĩnh vực cụ thể'",
+    "description": "Muốn theo đuổi AI, người trẻ cần hiểu sâu một chuyên ngành thay vì chỉ học thuật toán, biết xây dựng sản phẩm và làm việc liên ngành, theo PGS.TS Nguyễn Văn Hiển.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/14/neec-dr-hien-nguyen-hinh-17840-3820-3078-1784025446.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=GAhXH2QdZEMfoQzEz1I20w",
+    "link": "https://vnexpress.net/ai-chi-phat-huy-gia-tri-khi-ket-hop-mot-linh-vuc-cu-the-5097350.html",
+    "published_at": "Mon, 20 Jul 2026 07:00:00 +0700",
+    "createAt": "2026-07-20T00:00:00.000Z",
+    "thumbnail_blurhash": "LSH-[P4ncDoe~VIUS6xuIqkC$#ay"
+  },
+  {
+    "id": "https://vnexpress.net/neuracle-doi-thu-chip-nao-cua-neuralink-tai-trung-quoc-5098622.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Neuracle - đối thủ chip não của Neuralink tại Trung Quốc",
+    "description": "Neuracle trở thành công ty đầu tiên hoàn thành ca cấy chip não - máy tính (BCI) thương mại và được xem là đối thủ lớn nhất của Neuralink, công ty do Elon sáng lập.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/18/e60deecaa65184759490aa4782a-c6-3249-4553-1784307742.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=9MSnN9DU_m8gIKDURDZK6g",
+    "link": "https://vnexpress.net/neuracle-doi-thu-chip-nao-cua-neuralink-tai-trung-quoc-5098622.html",
+    "published_at": "Mon, 20 Jul 2026 09:00:00 +0700",
+    "createAt": "2026-07-20T02:00:00.000Z",
+    "thumbnail_blurhash": "LKIX,L}i8w.9=;yEI9v|_2-;NMNH"
   }
 ]

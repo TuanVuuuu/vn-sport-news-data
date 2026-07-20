@@ -765,5 +765,44 @@
     "published_at": "Sun, 19 Jul 2026 21:37:44 +0700",
     "createAt": "2026-07-19T14:37:44.000Z",
     "thumbnail_blurhash": "LcKK7qrA%Lxu_4m*WYozJERixDkD"
+  },
+  {
+    "id": "https://vnexpress.net/hai-nam-rung-gia-hon-1-000-usd-mot-kg-o-trung-quoc-5098884.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Hái nấm rừng giá hơn 1.000 USD một kg ở Trung Quốc",
+    "description": "Đến Vân Nam, Trung Quốc tháng 7-9, du khách và người dân bản địa thường săn tìm nấm hiếm, có loại giá lên tới 1.100 USD (khoảng 29 triệu đồng) mỗi kg.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/07/18/e2a6923b-e237d8b-b065a71e3aa48-1840-8639-1784348160.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=9jrtp_Vc1_Flh7T74LRWdA",
+    "link": "https://vnexpress.net/hai-nam-rung-gia-hon-1-000-usd-mot-kg-o-trung-quoc-5098884.html",
+    "published_at": "Sun, 19 Jul 2026 00:00:00 +0700",
+    "createAt": "2026-07-18T17:00:00.000Z",
+    "thumbnail_blurhash": "LOIhK9tktxxs_MxaIos:T2WYVsof"
+  },
+  {
+    "id": "https://vnexpress.net/ben-trong-nha-hang-nhan-mot-sao-michelin-sau-hon-nam-mo-cua-5093180.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Bên trong nhà hàng nhận một sao Michelin sau hơn năm mở cửa",
+    "description": "Nhà hàng TP HCM lấy cảm hứng từ ẩm thực miền Trung được Michelin Guide trao sao sau hơn một năm mở cửa.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/07/18/copy-of-dsc01236-1784348166-1784348197.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=o2-WdFNAapFSUhGG3GrGMA",
+    "link": "https://vnexpress.net/ben-trong-nha-hang-nhan-mot-sao-michelin-sau-hon-nam-mo-cua-5093180.html",
+    "published_at": "Mon, 20 Jul 2026 07:00:00 +0700",
+    "createAt": "2026-07-20T00:00:00.000Z",
+    "thumbnail_blurhash": "LEEB{UIo00Ny00xu~pV?5rs9$e-p"
+  },
+  {
+    "id": "https://vnexpress.net/ba-khu-vuon-quoc-gia-tranh-nong-mua-he-5087593.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Ba khu vườn quốc gia tránh nóng mùa hè",
+    "description": "Các vườn quốc gia tại Phú Thọ, Nghệ An và TP Huế là những nơi phù hợp cho du khách nghỉ hè nhờ không khí mát mẻ và nhiều trải nghiệm.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/07/14/k75-1784000784-9250-1784000819.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=mFmzxJjxoiCu1zEXerSFMQ",
+    "link": "https://vnexpress.net/ba-khu-vuon-quoc-gia-tranh-nong-mua-he-5087593.html",
+    "published_at": "Mon, 20 Jul 2026 09:00:00 +0700",
+    "createAt": "2026-07-20T02:00:00.000Z",
+    "thumbnail_blurhash": "LCED6f00aJ?w55?cDho|4-?vi]IT"
   }
 ]
