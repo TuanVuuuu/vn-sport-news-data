@@ -1259,5 +1259,31 @@
     "published_at": "Mon, 20 Jul 2026 09:00:47 +0700",
     "createAt": "2026-07-20T02:00:47.000Z",
     "thumbnail_blurhash": "LgG[?1_2WFay~q?at8WA-;xvWUM{"
+  },
+  {
+    "id": "https://vnexpress.net/toyota-ban-hon-35-000-xe-nua-dau-nam-5099366.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Toyota bán hơn 35.000 xe nửa đầu năm",
+    "description": "Toyota duy trì vị thế hãng nước ngoài bán chạy nhất thị trường ở nửa đầu 2026, đạt mức 35.410 xe bàn giao 6 tháng đầu năm nay.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/20/1-1784515172-2488-1784515223.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=U8Rn1AL8vpYMjtrFQyRLJg",
+    "link": "https://vnexpress.net/toyota-ban-hon-35-000-xe-nua-dau-nam-5099366.html",
+    "published_at": "Mon, 20 Jul 2026 10:00:00 +0700",
+    "createAt": "2026-07-20T03:00:00.000Z",
+    "thumbnail_blurhash": "L6Gu,g.m~p~qMH560K~p00pFk=R4"
+  },
+  {
+    "id": "https://vnexpress.net/oto-xoay-tron-khi-tranh-xe-dap-cat-ngang-duong-5099326.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Ôtô xoay tròn khi tránh xe đạp cắt ngang đường",
+    "description": "Tài xế ôtô lấn làn để vượt gặp xe đạp cắt ngang đường nên đánh lái gấp khiến xe xoay vòng, hôm 16/7 tại quốc lộ 32, Thanh Sơn.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/20/ezgif600b1692c2b95a23-17845114-7754-7193-1784511457.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=2DfN1e2L41nyL6C8SA6MJg&t=image",
+    "link": "https://vnexpress.net/oto-xoay-tron-khi-tranh-xe-dap-cat-ngang-duong-5099326.html",
+    "published_at": "Mon, 20 Jul 2026 10:04:47 +0700",
+    "createAt": "2026-07-20T03:04:47.000Z",
+    "thumbnail_blurhash": "L3I#x^0000ROpS00R5MyI]^-$-8_"
   }
 ]
