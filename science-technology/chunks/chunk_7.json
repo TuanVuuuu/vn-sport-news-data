@@ -323,5 +323,31 @@
     "published_at": "Mon, 20 Jul 2026 09:54:31 +0700",
     "createAt": "2026-07-20T02:54:31.000Z",
     "thumbnail_blurhash": "LJGi{0lU5,jb?c?IK5wy2bXn}tay"
+  },
+  {
+    "id": "https://vnexpress.net/ten-lua-tu-nhan-dau-tien-cua-an-do-bay-len-quy-dao-5099444.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Tên lửa tư nhân đầu tiên của Ấn Độ bay lên quỹ đạo",
+    "description": "Công ty Skyroot Aerospace phóng thành công tên lửa Vikram-1 chở kim cương và cánh tay robot lên quỹ đạo thấp của Trái Đất (LEO) vào sáng ngày 18/7.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/20/VNEVik-1784520410-6035-1784520415.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=tg_LGyvGYxetYxj0OZ9bXg",
+    "link": "https://vnexpress.net/ten-lua-tu-nhan-dau-tien-cua-an-do-bay-len-quy-dao-5099444.html",
+    "published_at": "Mon, 20 Jul 2026 12:00:00 +0700",
+    "createAt": "2026-07-20T05:00:00.000Z",
+    "thumbnail_blurhash": "LAH.HAo#k[%100IUH=D%.8_4oy%M"
+  },
+  {
+    "id": "https://vnexpress.net/mua-phan-mem-gia-re-tren-mang-co-vi-pham-ban-quyen-5098899.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Mua phần mềm giá rẻ trên mạng có vi phạm bản quyền?",
+    "description": "Key Windows, tài khoản Office bán trên mạng giá chỉ vài trăm nghìn đồng, tôi mua những sản phẩm này có được xem là dùng phần mềm bản quyền không?",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/18/phan-mem-gia-re-1784349964-1524-1784350102.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=85-LHCAh0jYt6EThn5EF2Q",
+    "link": "https://vnexpress.net/mua-phan-mem-gia-re-tren-mang-co-vi-pham-ban-quyen-5098899.html",
+    "published_at": "Mon, 20 Jul 2026 12:00:00 +0700",
+    "createAt": "2026-07-20T05:00:00.000Z",
+    "thumbnail_blurhash": "LcP$:wxVD%pb*0k9M|r=IVkVVsbF"
   }
 ]

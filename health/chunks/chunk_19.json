@@ -817,5 +817,44 @@
     "published_at": "Mon, 20 Jul 2026 10:25:10 +0700",
     "createAt": "2026-07-20T03:25:10.000Z",
     "thumbnail_blurhash": "LADlGn~904s:-n=_xsxZ4=%0^$M}"
+  },
+  {
+    "id": "https://vnexpress.net/dau-nhoi-trong-mat-canh-bao-benh-gi-5099400.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Đau nhói trong mắt cảnh báo bệnh gì?",
+    "description": "Đau nhói ở mắt thường do bụi hoặc lông mi mắc kẹt trong mắt song đôi khi cũng có thể là dấu hiệu của viêm giác mạc, viêm màng bồ đào hay tăng nhãn áp.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/20/dau-mat-1784517456-2122-1784517466.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=hijuLczLXlJBwHBsHx8IQw",
+    "link": "https://vnexpress.net/dau-nhoi-trong-mat-canh-bao-benh-gi-5099400.html",
+    "published_at": "Mon, 20 Jul 2026 11:00:00 +0700",
+    "createAt": "2026-07-20T04:00:00.000Z",
+    "thumbnail_blurhash": "L9Ox%X00t,gO%fE*o}IV~q9Z009u"
+  },
+  {
+    "id": "https://vnexpress.net/robot-phau-thuat-giu-lai-than-cho-nguoi-phu-nu-ung-thu-5099415.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Robot phẫu thuật giữ lại thận cho người phụ nữ ung thư",
+    "description": "Bà Hồng, 67 tuổi, có khối u thận nằm sát đài bể thận phải, được bác sĩ phẫu thuật bằng robot cắt u giữ lại thận.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/20/bao-1784519520-2987-1784520085.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=PkA0qgfWnmkodTNJaU8o3g",
+    "link": "https://vnexpress.net/robot-phau-thuat-giu-lai-than-cho-nguoi-phu-nu-ung-thu-5099415.html",
+    "published_at": "Mon, 20 Jul 2026 12:00:00 +0700",
+    "createAt": "2026-07-20T05:00:00.000Z",
+    "thumbnail_blurhash": "LWKLalD,X9%g~o%1t2j]t3xaM|s+"
+  },
+  {
+    "id": "https://vnexpress.net/thoi-quen-tre-nen-duy-tri-de-phat-trien-the-chat-tri-tue-5098902.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Thói quen trẻ nên duy trì để phát triển thể chất, trí tuệ",
+    "description": "Ăn uống cân đối, đọc sách, vui chơi ngoài trời, ngủ đủ giấc góp phần tạo nền tảng cho sự phát triển toàn diện của trẻ.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/20/buoc-thanh-pham-1784516855-7713-1784517056.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=Y02CZGZSxO9lPIC1gq4p4A",
+    "link": "https://vnexpress.net/thoi-quen-tre-nen-duy-tri-de-phat-trien-the-chat-tri-tue-5098902.html",
+    "published_at": "Mon, 20 Jul 2026 12:00:00 +0700",
+    "createAt": "2026-07-20T05:00:00.000Z",
+    "thumbnail_blurhash": "LDE_]9RP04N1^di$SPVt03W=};sl"
   }
 ]
