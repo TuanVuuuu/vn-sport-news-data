@@ -765,5 +765,44 @@
     "published_at": "Mon, 20 Jul 2026 09:19:09 +0700",
     "createAt": "2026-07-20T02:19:09.000Z",
     "thumbnail_blurhash": "L8ID?f_NG95Q=}57yC5X?^=g-UIV"
+  },
+  {
+    "id": "https://vnexpress.net/4-mon-an-sang-tot-cho-duong-ruot-5099322.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "4 món ăn sáng tốt cho đường ruột",
+    "description": "Trứng, yến mạch, cá hồi giàu protein, chất béo lành mạnh và omega-3, giúp no lâu, tăng cường lợi khuẩn cho đường ruột.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/20/431847036-n-1784510898.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=RbAtUCplYXGNpbZyGNBuHQ",
+    "link": "https://vnexpress.net/4-mon-an-sang-tot-cho-duong-ruot-5099322.html",
+    "published_at": "Mon, 20 Jul 2026 09:00:00 +0700",
+    "createAt": "2026-07-20T02:00:00.000Z",
+    "thumbnail_blurhash": "LDKw^79*00$_~VM{NMxB03-NNGt8"
+  },
+  {
+    "id": "https://vnexpress.net/vi-sao-day-thi-som-anh-huong-chieu-cao-cua-tre-5099355.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Vì sao dậy thì sớm ảnh hưởng chiều cao của trẻ?",
+    "description": "Con gái tôi 8 tuổi đã có kinh nguyệt. Trẻ dậy thì sớm thường không thể phát triển chiều cao tối ưu đúng không? (Thanh Hương, Hà Nội)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/20/key-1784513924-3777-1784514036.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=vycAqFF9wr9OniLYrtdgiA",
+    "link": "https://vnexpress.net/vi-sao-day-thi-som-anh-huong-chieu-cao-cua-tre-5099355.html",
+    "published_at": "Mon, 20 Jul 2026 10:00:00 +0700",
+    "createAt": "2026-07-20T03:00:00.000Z",
+    "thumbnail_blurhash": "LJK_B]00NK?b~qg4%0r=xoxuNFD*"
+  },
+  {
+    "id": "https://vnexpress.net/hai-lan-sua-di-tat-tim-cho-be-gai-5099292.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Hai lần sửa dị tật tim cho bé gái",
+    "description": "Bé Nhiên tím tái do mắc bệnh tim bẩm sinh, được bác sĩ phẫu thuật đặt ống nối tạm thời giúp tăng oxy trong máu, một năm sau “sửa” toàn bộ dị tật.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/20/image003-1784507230-4857-1784507267.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=p5pkHba9X69u3iFQNv-tew",
+    "link": "https://vnexpress.net/hai-lan-sua-di-tat-tim-cho-be-gai-5099292.html",
+    "published_at": "Mon, 20 Jul 2026 10:00:00 +0700",
+    "createAt": "2026-07-20T03:00:00.000Z",
+    "thumbnail_blurhash": "LMMH0_9F4mx^_Nf9IAxG.7%MShIU"
   }
 ]
