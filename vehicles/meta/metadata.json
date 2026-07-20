@@ -1,12 +1,13 @@
 {
-  "total_articles": 600,
+  "total_articles": 601,
   "files": [
     "chunk_1.json",
     "chunk_2.json",
     "chunk_3.json",
     "chunk_4.json",
     "chunk_5.json",
-    "chunk_6.json"
+    "chunk_6.json",
+    "chunk_7.json"
   ],
   "channel": {
     "title": "Xe - VnExpress RSS",
@@ -15,7 +16,7 @@
     "copyright": "",
     "logo_url": "https://s.vnecdn.net/vnexpress/i/v20/logos/vne_logo_rss.png",
     "link": "https://vnexpress.net/rss/oto-xe-may.rss",
-    "last_updated": "Mon, 20 Jul 2026 13:20:53 +0700"
+    "last_updated": "Mon, 20 Jul 2026 15:20:54 +0700"
   },
-  "last_updated": "2026-07-20T08:20:54.367Z"
+  "last_updated": "2026-07-20T08:31:17.239Z"
 }
