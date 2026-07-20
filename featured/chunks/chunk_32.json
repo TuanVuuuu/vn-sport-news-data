@@ -1142,5 +1142,70 @@
     "published_at": "Tue, 21 Jul 2026 00:00:00 +0700",
     "createAt": "2026-07-20T17:00:00.000Z",
     "thumbnail_blurhash": "LhMsiuR4_2%1~WaJS5xtI;ofnia#"
+  },
+  {
+    "id": "https://vnexpress.net/con-thinh-no-cua-phe-sieu-cung-ran-iran-voi-nhom-chu-hoa-5099530.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Cơn thịnh nộ của phe 'siêu cứng rắn' Iran với nhóm chủ hòa",
+    "description": "Phe \"siêu cứng rắn\" tại Iran đang gia tăng sức ép với nhóm lãnh đạo theo đuổi đàm phán, hé lộ cuộc đấu giành ảnh hưởng trong nội bộ Tehran.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/20/afp-aa-v1-highres-thousandsgat-6842-1117-1784542742.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=wjJiKmDjoNZ73LDK0Jlifg",
+    "link": "https://vnexpress.net/con-thinh-no-cua-phe-sieu-cung-ran-iran-voi-nhom-chu-hoa-5099530.html",
+    "published_at": "Tue, 21 Jul 2026 05:00:00 +0700",
+    "createAt": "2026-07-20T22:00:00.000Z",
+    "thumbnail_blurhash": "LBB:Hg~Wau-p=?%0kDobRNMcR5M_"
+  },
+  {
+    "id": "https://vnexpress.net/nghich-ly-khi-tay-ban-nha-vo-dich-world-cup-2026-5099700.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Nghịch lý khi Tây Ban Nha vô địch World Cup 2026",
+    "description": "Lối chơi tập thể và kiểm soát bóng của Tây Ban Nha làm lu mờ toàn bộ các siêu sao tấn công trong một kỳ World Cup 2026 ngập tràn bàn thắng.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/07/21/ap26200831244991-1784568549-4300-1784568563.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ebgdK5m83yoeQoX1P9Js_A",
+    "link": "https://vnexpress.net/nghich-ly-khi-tay-ban-nha-vo-dich-world-cup-2026-5099700.html",
+    "published_at": "Tue, 21 Jul 2026 05:34:19 +0700",
+    "createAt": "2026-07-20T22:34:19.000Z",
+    "thumbnail_blurhash": "LAGHPB{nt%@x32-oZPNscCxZ%MJ-"
+  },
+  {
+    "id": "https://vnexpress.net/cuoc-khung-hoang-mat-gia-tri-sau-ngay-nghi-huu-5096019.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Cuộc khủng hoảng 'mất giá trị' sau ngày nghỉ hưu",
+    "description": "Kể từ ngày nghỉ hưu bà Thu Hường cảm thấy mình như cô sinh viên mới ra trường, lúng túng tự học từ đầu những việc nhỏ nhất như cách gõ máy tính, soạn văn bản.",
+    "thumbnail_url": "https://vcdn1-giadinh.vnecdn.net/2026/07/21/1-1784567105-7768-1784567278.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=AO_sgNybqHsjANEd9ayE_w",
+    "link": "https://vnexpress.net/cuoc-khung-hoang-mat-gia-tri-sau-ngay-nghi-huu-5096019.html",
+    "published_at": "Tue, 21 Jul 2026 06:00:00 +0700",
+    "createAt": "2026-07-20T23:00:00.000Z",
+    "thumbnail_blurhash": "LWG]Ef9FSctQ_NE0odjZsrfgIVRm"
+  },
+  {
+    "id": "https://vnexpress.net/quy-trinh-kiem-dinh-kim-cuong-dien-ra-nhu-the-nao-5099674.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Quy trình kiểm định kim cương diễn ra như thế nào?",
+    "description": "Để được cấp chứng thư quốc tế, mỗi viên kim cương phải trải qua các bước kiểm tra nghiêm ngặt để đánh giá chất lượng, sau đó được mã hóa bằng một dãy số khắc laser trên vành kim cương.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/20/Thumbngang-1784555953-3122-1784557226.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=HQPhRxnCvW3O-GtDudhRGA",
+    "link": "https://vnexpress.net/quy-trinh-kiem-dinh-kim-cuong-dien-ra-nhu-the-nao-5099674.html",
+    "published_at": "Tue, 21 Jul 2026 06:00:00 +0700",
+    "createAt": "2026-07-20T23:00:00.000Z",
+    "thumbnail_blurhash": "L5AJvTxu00V[00NG~qofBpbH=cju"
+  },
+  {
+    "id": "https://vnexpress.net/rung-san-ho-tung-bi-du-khach-xam-hai-o-bien-hon-chong-5099637.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "'Rừng' san hô từng bị du khách xâm hại ở biển Hòn Chồng",
+    "description": "Những cụm san hô sừng, lá cùng hải quỳ, huệ biển tạo nên hệ sinh thái phong phú ở biển Hòn Chồng, nơi hai du khách vừa bị phạt 50 triệu đồng vì bẻ hơn 10 kg sinh vật tạo rạn.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/20/wm1-sanhohonchong-1784555111.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=dp9N2V2gelhJipGEhIj_Cw",
+    "link": "https://vnexpress.net/rung-san-ho-tung-bi-du-khach-xam-hai-o-bien-hon-chong-5099637.html",
+    "published_at": "Tue, 21 Jul 2026 06:00:00 +0700",
+    "createAt": "2026-07-20T23:00:00.000Z",
+    "thumbnail_blurhash": "L2DAehuv00-U490C_J9I0602?s.6"
   }
 ]
