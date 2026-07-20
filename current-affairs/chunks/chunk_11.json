@@ -388,5 +388,31 @@
     "published_at": "Mon, 20 Jul 2026 12:56:14 +0700",
     "createAt": "2026-07-20T05:56:14.000Z",
     "thumbnail_blurhash": "LIR37rx]D$m+~q}s$iJox^$Os:XS"
+  },
+  {
+    "id": "https://vnexpress.net/phat-hien-quan-the-lo-nung-1-800-nam-tuoi-cua-nguoi-cham-5099407.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Phát hiện quần thể lò nung 1.800 năm tuổi của người Chăm",
+    "description": "Khai quật khẩn cấp tại thành cổ Châu Sa, các chuyên gia phát hiện ba lò nung ngói, cho thấy nơi đây từng là trung tâm sản xuất vật liệu xây dựng của người Chăm.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/20/img-jpeg-1784531411-6308-1784531451.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=8CdXkDdFQFPDSBl_3ufECw",
+    "link": "https://vnexpress.net/phat-hien-quan-the-lo-nung-1-800-nam-tuoi-cua-nguoi-cham-5099407.html",
+    "published_at": "Mon, 20 Jul 2026 14:11:38 +0700",
+    "createAt": "2026-07-20T07:11:38.000Z",
+    "thumbnail_blurhash": "L8E.hSOItQ~W?wR54n9a?ts%4:Rk"
+  },
+  {
+    "id": "https://vnexpress.net/tim-thay-hai-nan-nhan-mat-tich-sau-lu-quet-o-muong-than-5099480.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Tìm thấy hai nạn nhân mất tích sau lũ quét ở Mường Than",
+    "description": "Hai thi thể nạn nhận được tìm thấy ở khu vực hồ thủy điện, cách hiện trường lũ quét khoảng 15-20 km về phía hạ lưu.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/20/dji-1784524573-2976-1784524654.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=AAbjqOGai8wcGHShptnyGA",
+    "link": "https://vnexpress.net/tim-thay-hai-nan-nhan-mat-tich-sau-lu-quet-o-muong-than-5099480.html",
+    "published_at": "Mon, 20 Jul 2026 14:28:13 +0700",
+    "createAt": "2026-07-20T07:28:13.000Z",
+    "thumbnail_blurhash": "LPFi40%NE1Rku6tSt7xupdtSs-a}"
   }
 ]
