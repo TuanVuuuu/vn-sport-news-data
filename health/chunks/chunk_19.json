@@ -908,5 +908,44 @@
     "published_at": "Mon, 20 Jul 2026 14:00:00 +0700",
     "createAt": "2026-07-20T07:00:00.000Z",
     "thumbnail_blurhash": "L8IN{iaK?]BsznX9?G%Z*HK6;2-o"
+  },
+  {
+    "id": "https://vnexpress.net/vo-hay-thit-tom-giau-dinh-duong-hon-5098468.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Vỏ hay thịt tôm giàu dinh dưỡng hơn?",
+    "description": "Tôi hay cho con ăn cả vỏ tôm vì nghĩ rằng đây là phần giàu dinh dưỡng, canxi hơn cả phần thịt, điều này có đúng? (Hạnh, 40 tuổi, Hà Nội)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/20/vnexpress-tom-hap-nuoc-dua-178-5464-6443-1784520341.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=qQqlXFzTgP2jMFWgp68E6Q",
+    "link": "https://vnexpress.net/vo-hay-thit-tom-giau-dinh-duong-hon-5098468.html",
+    "published_at": "Mon, 20 Jul 2026 14:59:37 +0700",
+    "createAt": "2026-07-20T07:59:37.000Z",
+    "thumbnail_blurhash": "LCI3?r003rwG~VIAS5t67~rpD*EM"
+  },
+  {
+    "id": "https://vnexpress.net/ung-thu-than-co-tai-phat-khong-5099509.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Ung thư thận có tái phát không?",
+    "description": "Tôi đã phẫu thuật cắt bỏ một phần thận điều trị ung thư. Bệnh có nguy cơ tái phát không và làm thế nào để nhận biết sớm? (Tú Trinh, An Giang)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/20/anh-bao-1784531313-4887-1784531414.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=Yx5LCrwBho6gPQwCHoW8BA",
+    "link": "https://vnexpress.net/ung-thu-than-co-tai-phat-khong-5099509.html",
+    "published_at": "Mon, 20 Jul 2026 15:00:00 +0700",
+    "createAt": "2026-07-20T08:00:00.000Z",
+    "thumbnail_blurhash": "LWI?E9_0RNS*~Ut9aixYRhIpRjn~"
+  },
+  {
+    "id": "https://vnexpress.net/ca-nha-nhiem-ky-sinh-trung-cho-meo-5099500.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Cả nhà nhiễm ký sinh trùng chó mèo",
+    "description": "Chị Lan, 38 tuổi, cùng chồng 42 tuổi và con gái 9 tuổi mệt mỏi, ngứa, xét nghiệm xác định nhiễm ấu trùng giun đũa chó mèo.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/20/keylogo-1784530650-4450-1784530673.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=A2yBqyBvILGDKYbtbEHC2w",
+    "link": "https://vnexpress.net/ca-nha-nhiem-ky-sinh-trung-cho-meo-5099500.html",
+    "published_at": "Mon, 20 Jul 2026 15:00:00 +0700",
+    "createAt": "2026-07-20T08:00:00.000Z",
+    "thumbnail_blurhash": "LGGug_MvI9~W00MwxaaK?b^,t7M{"
   }
 ]

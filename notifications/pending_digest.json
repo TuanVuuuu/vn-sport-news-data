@@ -129,6 +129,32 @@
       "published_at": "Mon, 20 Jul 2026 14:11:38 +0700",
       "createAt": "2026-07-20T07:11:38.000Z",
       "thumbnail_blurhash": "L8E.hSOItQ~W?wR54n9a?ts%4:Rk"
+    },
+    {
+      "id": "https://vnexpress.net/khoanh-khac-xe-container-dam-don-8-oto-tren-cao-toc-5099462.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Khoảnh khắc xe container đâm dồn 8 ôtô trên cao tốc",
+      "description": "Camera hành trình ghi cảnh xe container tông hai ôtô trên cao tốc Mai Sơn - Ninh Bình, khiến 6 xe khác bị đâm dồn trong vụ tai nạn liên hoàn trưa 19/7.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/20/damlienhoan-1784521938-5970-1784521941.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=bTN3ybvmMB8-LvRi0DgdHw&t=image",
+      "link": "https://vnexpress.net/khoanh-khac-xe-container-dam-don-8-oto-tren-cao-toc-5099462.html",
+      "published_at": "Mon, 20 Jul 2026 14:24:27 +0700",
+      "createAt": "2026-07-20T07:24:27.000Z",
+      "thumbnail_blurhash": "LnFi_TtQRjae_NofWVbHxboLbIa}"
+    },
+    {
+      "id": "https://vnexpress.net/tim-thay-hai-nan-nhan-mat-tich-sau-lu-quet-o-muong-than-5099480.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Tìm thấy hai nạn nhân mất tích sau lũ quét ở Mường Than",
+      "description": "Hai thi thể nạn nhận được tìm thấy ở khu vực hồ thủy điện, cách hiện trường lũ quét khoảng 15-20 km về phía hạ lưu.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/20/dji-1784524573-2976-1784524654.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=AAbjqOGai8wcGHShptnyGA",
+      "link": "https://vnexpress.net/tim-thay-hai-nan-nhan-mat-tich-sau-lu-quet-o-muong-than-5099480.html",
+      "published_at": "Mon, 20 Jul 2026 14:28:13 +0700",
+      "createAt": "2026-07-20T07:28:13.000Z",
+      "thumbnail_blurhash": "LPFi40%NE1Rku6tSt7xupdtSs-a}"
     }
   ]
 }
