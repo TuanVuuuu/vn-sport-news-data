@@ -1272,5 +1272,31 @@
     "published_at": "Mon, 20 Jul 2026 08:21:09 +0700",
     "createAt": "2026-07-20T01:21:09.000Z",
     "thumbnail_blurhash": "LFIhvs{]:#t6s=#lvxkpIATKOYX9"
+  },
+  {
+    "id": "https://vnexpress.net/hoc-sinh-gioi-toan-bi-huy-diem-10-thi-tot-nghiep-thpt-5099484.html",
+    "category_id": "education",
+    "category_name": "Giáo dục",
+    "source": "VnExpress",
+    "title": "Học sinh giỏi Toán bị hủy điểm 10 thi tốt nghiệp THPT",
+    "description": "Từ tố cáo trên mạng, nam sinh từng lọt đội tuyển thi học sinh giỏi Toán cấp tỉnh, được 10 điểm thi tốt nghiệp môn này bị hủy kết quả vì dùng điện thoại.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/20/thi-1784529346-6324-1784529364.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=GpDJ3XnRBiVWVzllf8_zmA",
+    "link": "https://vnexpress.net/hoc-sinh-gioi-toan-bi-huy-diem-10-thi-tot-nghiep-thpt-5099484.html",
+    "published_at": "Mon, 20 Jul 2026 13:28:45 +0700",
+    "createAt": "2026-07-20T06:28:45.000Z",
+    "thumbnail_blurhash": "LDQcuB?c%M~q~qxuogWXIAt6ozWC"
+  },
+  {
+    "id": "https://vnexpress.net/quang-ninh-lap-dieu-hoa-dien-mat-troi-cho-truong-cong-5099172.html",
+    "category_id": "education",
+    "category_name": "Giáo dục",
+    "source": "VnExpress",
+    "title": "Quảng Ninh lắp điều hòa, điện mặt trời cho trường công",
+    "description": "Các trường công lập sẽ được trang bị điều hòa, hướng tới dùng điện mặt trời, thay vì tất cả do phụ huynh chi trả như hiện nay.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/19/chl8-1784446101-8325-1784446106.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=_r2gVLaqPBMEINldQEagSA",
+    "link": "https://vnexpress.net/quang-ninh-lap-dieu-hoa-dien-mat-troi-cho-truong-cong-5099172.html",
+    "published_at": "Mon, 20 Jul 2026 14:19:21 +0700",
+    "createAt": "2026-07-20T07:19:21.000Z",
+    "thumbnail_blurhash": "LVG[=$obD%f5%%RPV?WBT2Ris+R%"
   }
 ]
