@@ -544,5 +544,31 @@
     "published_at": "Tue, 21 Jul 2026 22:00:36 +0700",
     "createAt": "2026-07-21T15:00:36.000Z",
     "thumbnail_blurhash": "LAECXr.8x^S$~qV@IVNba0jYV@xu"
+  },
+  {
+    "id": "https://vnexpress.net/lua-nhan-tin-thong-bao-phat-nguoi-de-danh-cap-thong-tin-5099971.html",
+    "category_id": "law",
+    "category_name": "Pháp luật",
+    "source": "VnExpress",
+    "title": "Lừa nhắn tin thông báo phạt nguội để đánh cắp thông tin",
+    "description": "Kẻ lừa đảo nhắn tin thông báo bạn bị phạt nguội để dụ truy cập vào trang web có giao diện gần giống Cổng dịch vụ công quốc gia rồi đánh cắp thông tin, chiếm đoạt tài sản.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/21/2-1784618813-9536-1784618949.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=lxsffW3XuSv6K6mvHKc_Iw",
+    "link": "https://vnexpress.net/lua-nhan-tin-thong-bao-phat-nguoi-de-danh-cap-thong-tin-5099971.html",
+    "published_at": "Tue, 21 Jul 2026 14:53:33 +0700",
+    "createAt": "2026-07-21T07:53:33.000Z",
+    "thumbnail_blurhash": "L6Qcr4?^_400~q4nM{kC~W%1-p-;"
+  },
+  {
+    "id": "https://vnexpress.net/tai-xe-xe-khach-ngu-gat-gay-tai-nan-lam-7-nguoi-chet-bi-khoi-to-5100125.html",
+    "category_id": "law",
+    "category_name": "Pháp luật",
+    "source": "VnExpress",
+    "title": "Tài xế xe khách ngủ gật, gây tai nạn làm 7 người chết bị khởi tố",
+    "description": "Trần Thanh Hải, tài xế lái xe khách giường nằm, gây tai nạn làm xe bùng cháy khiến 7 người chết đã bị bắt sau chưa đầy 24 tiếng xảy ra sự việc.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/21/745046100126650081215089855968-9163-3660-1784646328.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=9RtQvFy_DGJmx8t3qvWHDg",
+    "link": "https://vnexpress.net/tai-xe-xe-khach-ngu-gat-gay-tai-nan-lam-7-nguoi-chet-bi-khoi-to-5100125.html",
+    "published_at": "Tue, 21 Jul 2026 22:22:13 +0700",
+    "createAt": "2026-07-21T15:22:13.000Z",
+    "thumbnail_blurhash": "LbFiY~%L?b-p~q%2%g%2x^xaxvog"
   }
 ]
