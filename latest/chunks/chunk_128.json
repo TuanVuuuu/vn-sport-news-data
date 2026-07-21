@@ -440,5 +440,31 @@
     "published_at": "Tue, 21 Jul 2026 07:00:00 +0700",
     "createAt": "2026-07-21T00:00:00.000Z",
     "thumbnail_blurhash": "L5E36pNw?b.800M{%MWU00~W9FV@"
+  },
+  {
+    "id": "https://vnexpress.net/hang-banh-cuon-michelin-gan-100-nam-o-pho-co-5098993.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Hàng bánh cuốn Michelin gần 100 năm ở phố cổ",
+    "description": "Hàng bánh cuốn Thanh Vân trên phố Hàng Gà được truyền qua 4 thế hệ và Michelin vinh danh là \"quán ngon, giá cả phải chăng\".",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/07/18/banh-cuon-hang-ga-of-1784371479.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=n7TNvZ6SzujL0NwWcE5dBA",
+    "link": "https://vnexpress.net/hang-banh-cuon-michelin-gan-100-nam-o-pho-co-5098993.html",
+    "published_at": "Tue, 21 Jul 2026 07:00:00 +0700",
+    "createAt": "2026-07-21T00:00:00.000Z",
+    "thumbnail_blurhash": "LMIq=S~WRq.8-;RiRP-=pJbcNaoz"
+  },
+  {
+    "id": "https://vnexpress.net/asml-niem-hy-vong-cong-ty-nghin-ty-dau-tien-cua-chau-au-5099491.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "ASML - niềm hy vọng công ty nghìn tỷ đầu tiên của châu Âu",
+    "description": "Nhờ đơn hàng bùng nổ từ làn sóng AI, ASML vốn hóa gần 700 tỷ USD, được kỳ vọng thành doanh nghiệp nghìn tỷ USD đầu tiên của châu Âu.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/20/2026t000000z-mt1abcpr100519500-2031-4488-1784532251.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Mn7f6yMCkrf0VMJpvH2MwQ",
+    "link": "https://vnexpress.net/asml-niem-hy-vong-cong-ty-nghin-ty-dau-tien-cua-chau-au-5099491.html",
+    "published_at": "Tue, 21 Jul 2026 07:03:35 +0700",
+    "createAt": "2026-07-21T00:03:35.000Z",
+    "thumbnail_blurhash": "LuKA=^RSNf%1_4IXN1aytTahoLWB"
   }
 ]
