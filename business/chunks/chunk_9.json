@@ -960,5 +960,31 @@
     "published_at": "Tue, 21 Jul 2026 17:20:04 +0700",
     "createAt": "2026-07-21T10:20:04.000Z",
     "thumbnail_blurhash": "LORf5y~pF_^*-4o}tmnNR-e-nhbw"
+  },
+  {
+    "id": "https://vnexpress.net/thuong-20-000-euro-de-giu-nhan-vien-o-lai-cong-ty-5099808.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Thưởng 20.000 euro để giữ nhân viên ở lại công ty",
+    "description": "ASML - hãng sản xuất thiết bị làm chip lớn nhất thế giới - sẽ thưởng cổ phiếu cho nhân viên nếu họ ở lại công ty vài năm nữa.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/21/screenshot-1784609377-4736-1784609390.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=pW78oOh8zfEnrkrPFAb0gA",
+    "link": "https://vnexpress.net/thuong-20-000-euro-de-giu-nhan-vien-o-lai-cong-ty-5099808.html",
+    "published_at": "Tue, 21 Jul 2026 17:45:00 +0700",
+    "createAt": "2026-07-21T10:45:00.000Z",
+    "thumbnail_blurhash": "LtKxC.t7t5of~qM{flWCRjV@ayj["
+  },
+  {
+    "id": "https://vnexpress.net/cay-xang-bi-phat-40-trieu-dong-vi-tu-y-tang-gia-5100024.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Cây xăng bị phạt 40 triệu đồng vì tự ý tăng giá",
+    "description": "Tự ý điều chỉnh giá bán lẻ xăng dầu không đúng thời điểm thương nhân phân phối quy định, cây xăng Thanh Bình ở xã Đức Châu bị phạt 40 triệu đồng.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/21/kiem-tra-cay-xang-1784623821-3588-1784623983.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=fxAqBxvdXE_XYkD9K1C04g",
+    "link": "https://vnexpress.net/cay-xang-bi-phat-40-trieu-dong-vi-tu-y-tang-gia-5100024.html",
+    "published_at": "Tue, 21 Jul 2026 17:48:59 +0700",
+    "createAt": "2026-07-21T10:48:59.000Z",
+    "thumbnail_blurhash": "LHF?eMDg-pT#^$N#%LMwIu^iwGIo"
   }
 ]
