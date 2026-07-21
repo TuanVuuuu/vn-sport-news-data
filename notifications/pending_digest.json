@@ -1,3 +1,17 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/bac-si-vu-ly-hon-nghin-ty-bi-cao-buoc-lua-1-2-trieu-luot-khach-lam-rang-su-5099780.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Bác sĩ vụ 'ly hôn nghìn tỷ' bị cáo buộc lừa 1,2 triệu lượt khách làm răng sứ",
+      "description": "Hồ Ngọc Tiên Trung - bác sĩ trong vụ \"ly hôn nghìn tỷ\", chủ Nha khoa thẩm mỹ Đại Nam, bị xác định thu tiền lắp răng sứ cao cấp cho hàng triệu lượt khách nhưng lại dùng vật liệu Trung Quốc.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/21/da-i-1784599453-7516-1784599559.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ESTcs1zVht9jqXKzEjiM3w",
+      "link": "https://vnexpress.net/bac-si-vu-ly-hon-nghin-ty-bi-cao-buoc-lua-1-2-trieu-luot-khach-lam-rang-su-5099780.html",
+      "published_at": "Tue, 21 Jul 2026 09:09:11 +0700",
+      "createAt": "2026-07-21T02:09:11.000Z",
+      "thumbnail_blurhash": "LVOWsXx[.mxun}j[x^ayT0ayrqkC"
+    }
+  ]
 }
