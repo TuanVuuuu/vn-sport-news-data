@@ -518,5 +518,31 @@
     "published_at": "Tue, 21 Jul 2026 16:17:57 +0700",
     "createAt": "2026-07-21T09:17:57.000Z",
     "thumbnail_blurhash": "L8FFyx-.00D%NVE0?t-;0Js;~qE1"
+  },
+  {
+    "id": "https://vnexpress.net/viet-nam-chuan-bi-cho-ky-nguyen-mat-ma-hau-luong-tu-5100045.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Việt Nam chuẩn bị cho kỷ nguyên mật mã hậu lượng tử",
+    "description": "Các chuyên gia đánh giá, điện toán lượng tử có thể làm suy giảm độ an toàn của nhiều thuật toán bảo mật, nên Việt Nam cần chuẩn bị lộ trình chuyển đổi sang tiêu chuẩn mật mã hậu lượng tử.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/21/neac-to-thi-thu-huong-jfif-178-2678-7889-1784626208.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ax5Ni34ZHUhF_AOhbmKrYA",
+    "link": "https://vnexpress.net/viet-nam-chuan-bi-cho-ky-nguyen-mat-ma-hau-luong-tu-5100045.html",
+    "published_at": "Tue, 21 Jul 2026 16:58:13 +0700",
+    "createAt": "2026-07-21T09:58:13.000Z",
+    "thumbnail_blurhash": "LsLqneRRyEx^%%RibHxvWZt6adWB"
+  },
+  {
+    "id": "https://vnexpress.net/chu-tich-sk-gia-chip-nho-cao-bat-thuong-5099692.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Chủ tịch SK: Giá chip nhớ cao bất thường",
+    "description": "Chủ tịch Tập đoàn SK Group cho rằng giá chip nhớ hiện quá cao và đang cân nhắc xây nhà máy bán dẫn tại Mỹ để mở rộng nguồn cung, ngăn nguy cơ lạm phát chip.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/21/hk-1784589092-1750-1784589610.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=7xTVu-RnXakGW22fytYVCw",
+    "link": "https://vnexpress.net/chu-tich-sk-gia-chip-nho-cao-bat-thuong-5099692.html",
+    "published_at": "Tue, 21 Jul 2026 17:00:00 +0700",
+    "createAt": "2026-07-21T10:00:00.000Z",
+    "thumbnail_blurhash": "LGGQR*.9^7-WAb#r-BS#}rX8EfWB"
   }
 ]

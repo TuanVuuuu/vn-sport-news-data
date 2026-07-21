@@ -180,5 +180,31 @@
     "published_at": "Tue, 21 Jul 2026 15:12:40 +0700",
     "createAt": "2026-07-21T08:12:40.000Z",
     "thumbnail_blurhash": "LHG+XU%N~p-;_4j[IUt74.xa9GIU"
+  },
+  {
+    "id": "https://vnexpress.net/volkswagen-tang-toc-dien-hoa-sap-ban-xe-dien-o-viet-nam-5100004.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Volkswagen tăng tốc điện hóa, sắp bán xe điện ở Việt Nam",
+    "description": "Hãng xe lớn nhất nước Đức ngày càng mở rộng dải sản phẩm điện hóa trên toàn cầu, trong đó Việt Nam là thị trường mới sắp phân phối xe điện.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/21/1-1784622149-1650-1784622214.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=VDS2RPuGaHhSmGaDcDRPsw",
+    "link": "https://vnexpress.net/volkswagen-tang-toc-dien-hoa-sap-ban-xe-dien-o-viet-nam-5100004.html",
+    "published_at": "Tue, 21 Jul 2026 16:00:00 +0700",
+    "createAt": "2026-07-21T09:00:00.000Z",
+    "thumbnail_blurhash": "LjF=gYNdR*oL~VR+WXof%gWXa#fk"
+  },
+  {
+    "id": "https://vnexpress.net/viet-nam-lan-dau-phan-loai-xe-dien-mo-rong-pham-vi-5099983.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Việt Nam lần đầu phân loại 'xe điện mở rộng phạm vi'",
+    "description": "Bộ Xây dựng lần đầu đưa \"xe điện mở rộng phạm vi hoạt động\" (EREV hoặc REEV) vào danh sách các dòng xe điện hóa.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/21/BYDYangwangU8L3195017577477709-7820-4711-1784625217.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=RLbQSWfet_GFF9wmFvcCNg",
+    "link": "https://vnexpress.net/viet-nam-lan-dau-phan-loai-xe-dien-mo-rong-pham-vi-5099983.html",
+    "published_at": "Tue, 21 Jul 2026 17:22:45 +0700",
+    "createAt": "2026-07-21T10:22:45.000Z",
+    "thumbnail_blurhash": "LYHx7,~V%L%LDinho0WBR+RjRkRj"
   }
 ]
