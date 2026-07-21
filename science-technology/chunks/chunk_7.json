@@ -479,5 +479,31 @@
     "published_at": "Tue, 21 Jul 2026 07:00:00 +0700",
     "createAt": "2026-07-21T00:00:00.000Z",
     "thumbnail_blurhash": "LBG91[0000-Y_MkiIWQ:0Kt8%MIU"
+  },
+  {
+    "id": "https://vnexpress.net/drone-tang-hinh-nho-quay-sieu-nhanh-5099470.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Drone 'tàng hình' nhờ quay siêu nhanh",
+    "description": "Phantom Twist, drone do nhóm nghiên cứu từ Đại học Northwestern chế tạo, quay nhanh đến mức trở nên khó quan sát nhờ hiệu ứng nhòe chuyển động.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/20/Dronetanghinh-1784523589-9309-1784523793.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=GKWDrwbnwZgC9g60MHZfrw&t=image",
+    "link": "https://vnexpress.net/drone-tang-hinh-nho-quay-sieu-nhanh-5099470.html",
+    "published_at": "Tue, 21 Jul 2026 10:00:00 +0700",
+    "createAt": "2026-07-21T03:00:00.000Z",
+    "thumbnail_blurhash": "LiK1wL4-xb-p~XRjWBay-;aeWBf7"
+  },
+  {
+    "id": "https://vnexpress.net/ngheu-nhat-xam-chiem-bo-bien-phia-dong-nuoc-my-5098682.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Nghêu Nhật xâm chiếm bờ biển phía đông nước Mỹ",
+    "description": "Nghêu Nhật, loại nghêu được ưa chuộng với giá trị thương mại toàn cầu lên đến 7 tỷ USD mỗi năm, trở thành loài xâm lấn mới nhất tại bờ biển các bang Mỹ ở bờ đông.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/20/VNEClam-1784542686-7854-1784542739.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=0MIePd2YijvFrZcJgnMYKQ",
+    "link": "https://vnexpress.net/ngheu-nhat-xam-chiem-bo-bien-phia-dong-nuoc-my-5098682.html",
+    "published_at": "Tue, 21 Jul 2026 11:34:44 +0700",
+    "createAt": "2026-07-21T04:34:44.000Z",
+    "thumbnail_blurhash": "LIG+H-I9Ndn*~qjFayM{tlRjRioL"
   }
 ]
