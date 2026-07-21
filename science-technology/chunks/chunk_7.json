@@ -453,5 +453,31 @@
     "published_at": "Tue, 21 Jul 2026 05:00:00 +0700",
     "createAt": "2026-07-20T22:00:00.000Z",
     "thumbnail_blurhash": "L78;S[S,00~R0qOH=;MwZL^hx^9H"
+  },
+  {
+    "id": "https://vnexpress.net/giai-phap-giup-rut-ngan-san-xuat-chip-xuong-vai-giay-5099603.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Giải pháp giúp rút ngắn sản xuất chip xuống vài giây",
+    "description": "Các nhà khoa học Trung Quốc giới thiệu phương pháp chế tạo song song chỉ mất vài giây để biến mô hình 2D thành cấu trúc quang học 3D phức tạp trên toàn bộ tấm bán dẫn.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/20/VNEFIB-1784540054-3093-1784540269.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=yTStIl-MW8TOiu4MviIuTg",
+    "link": "https://vnexpress.net/giai-phap-giup-rut-ngan-san-xuat-chip-xuong-vai-giay-5099603.html",
+    "published_at": "Tue, 21 Jul 2026 00:00:00 +0700",
+    "createAt": "2026-07-20T17:00:00.000Z",
+    "thumbnail_blurhash": "LsKK.*t7t6og~qj]s:ofxut7fkay"
+  },
+  {
+    "id": "https://vnexpress.net/trung-quoc-siet-nguoi-yeu-ai-keo-nguoi-dung-quay-ve-thuc-tai-5099707.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Trung Quốc siết 'người yêu AI', kéo người dùng quay về thực tại",
+    "description": "Trong bối cảnh tỷ lệ sinh giảm, Trung Quốc siết quy định về tính năng \"bạn ảo\" của AI nhằm khuyến khích người dùng xây dựng quan hệ ngoài đời thực.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/21/20260212t010440z989271391r2780-5943-5599-1784578875.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=EuRdSua894AmykOZb185jA",
+    "link": "https://vnexpress.net/trung-quoc-siet-nguoi-yeu-ai-keo-nguoi-dung-quay-ve-thuc-tai-5099707.html",
+    "published_at": "Tue, 21 Jul 2026 07:00:00 +0700",
+    "createAt": "2026-07-21T00:00:00.000Z",
+    "thumbnail_blurhash": "LBG91[0000-Y_MkiIWQ:0Kt8%MIU"
   }
 ]
