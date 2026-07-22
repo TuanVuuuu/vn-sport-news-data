@@ -414,5 +414,31 @@
     "published_at": "Wed, 22 Jul 2026 09:00:00 +0700",
     "createAt": "2026-07-22T02:00:00.000Z",
     "thumbnail_blurhash": "LeJlUQR=tSxt~Sfhxuae--s*aeay"
+  },
+  {
+    "id": "https://vnexpress.net/co-nen-phau-thuat-u-diep-the-5100203.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Có nên phẫu thuật u diệp thể?",
+    "description": "Tôi bị u diệp thể, kích thước 5 cm. Có phải u diệp thể rất dễ tái phát đúng không, có nên phẫu thuật? (Hồng Nhung)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/22/ac-1784684904-1395-1784685063.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=rTLEtNHouPl1gTPB6oow3Q",
+    "link": "https://vnexpress.net/co-nen-phau-thuat-u-diep-the-5100203.html",
+    "published_at": "Wed, 22 Jul 2026 10:00:00 +0700",
+    "createAt": "2026-07-22T03:00:00.000Z",
+    "thumbnail_blurhash": "L6Nmye000J00_K004;4TL#r;tnXn"
+  },
+  {
+    "id": "https://vnexpress.net/giun-luon-mang-vi-khuan-e-coli-tan-cong-nao-phoi-nguoi-dan-ong-5100159.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Giun lươn mang vi khuẩn E.Coli tấn công não, phổi người đàn ông",
+    "description": "Ông Chinh, 70 tuổi, rối loạn tri giác, co giật và suy hô hấp cấp, bác sĩ chẩn đoán giun lươn, vi khuẩn E.Coli tấn công não, phổi.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/22/image001-1784676506-6771-1784676678.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=UTV3IXwjv7Zr3YxahrShvA",
+    "link": "https://vnexpress.net/giun-luon-mang-vi-khuan-e-coli-tan-cong-nao-phoi-nguoi-dan-ong-5100159.html",
+    "published_at": "Wed, 22 Jul 2026 10:00:00 +0700",
+    "createAt": "2026-07-22T03:00:00.000Z",
+    "thumbnail_blurhash": "LaN0k|?w%fxBwGyDtRnho$V=t7WZ"
   }
 ]
