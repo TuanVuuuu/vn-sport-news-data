@@ -1,23 +1,6 @@
 {
   "entries": [
     {
-      "sent_at": "2026-07-18T04:20:48.743Z",
-      "topic": null,
-      "device_id": "b9ffbb33ac6e18b3",
-      "slot": "noon",
-      "type": "featured_digest",
-      "article_ids": [
-        "https://vnexpress.net/my-khong-kich-dem-thu-7-lien-tiep-iran-doa-tan-cong-tong-luc-5098778.html",
-        "https://vnexpress.net/an-so-sau-cu-giam-manh-mua-dau-tho-cua-trung-quoc-5098607.html",
-        "https://vnexpress.net/xe-tai-lat-tren-cao-toc-ham-nghi-vung-ang-mot-nguoi-chet-5098806.html",
-        "https://vnexpress.net/muong-than-truoc-sau-tran-lu-quet-5098804.html",
-        "https://vnexpress.net/viet-anh-quynh-nga-tu-ban-den-yeu-5098491.html",
-        "https://vnexpress.net/gia-vang-moi-nhat-hom-nay-ngay-18-7-5098824.html",
-        "https://vnexpress.net/be-trai-gan-3-tuoi-nguy-kich-sau-buoi-hoc-tai-lop-can-thiep-5098831.html"
-      ],
-      "highlight_id": "https://vnexpress.net/be-trai-gan-3-tuoi-nguy-kich-sau-buoi-hoc-tai-lop-can-thiep-5098831.html"
-    },
-    {
       "sent_at": "2026-07-18T04:20:48.945Z",
       "topic": null,
       "device_id": "730d096a4aca0cc7",
@@ -14766,6 +14749,30 @@
         "https://vnexpress.net/trung-uong-thao-luan-de-an-thanh-lap-thanh-pho-quang-ninh-bac-ninh-5099517.html"
       ],
       "highlight_id": "https://vnexpress.net/trung-uong-thao-luan-de-an-thanh-lap-thanh-pho-quang-ninh-bac-ninh-5099517.html"
+    },
+    {
+      "sent_at": "2026-07-22T14:50:50.502Z",
+      "topic": null,
+      "device_id": "d07f4918dfe3afe6",
+      "slot": "evening",
+      "type": "featured_digest",
+      "article_ids": [
+        "https://vnexpress.net/nha-ban-le-viet-lo-iphone-som-tang-gia-5092525.html",
+        "https://vnexpress.net/pnj-gian-tien-do-thanh-toan-voi-khach-ban-vang-bac-5100394.html",
+        "https://vnexpress.net/dan-nghe-si-nhan-cat-xe-0-dong-khi-dien-o-world-cup-5100321.html",
+        "https://vnexpress.net/3-400-vien-kim-cuong-lau-duoc-tuon-vao-he-thong-ban-le-sjc-5100482.html",
+        "https://vnexpress.net/3-400-vien-kim-cuong-lau-tuon-vao-he-thong-ban-le-sjc-5100482.html",
+        "https://vnexpress.net/chuyen-gia-can-ap-tran-gia-nha-o-thuong-mai-vua-tui-tien-5100491.html",
+        "https://vnexpress.net/chay-can-ho-tang-19-cu-dan-thao-chay-5100501.html",
+        "https://vnexpress.net/cuoc-song-o-nha-thue-cua-hoa-hau-diem-huong-5098939.html",
+        "https://vnexpress.net/tan-tong-tu-lenh-duoc-long-quan-dan-cua-ukraine-5100237.html",
+        "https://vnexpress.net/ong-mai-xuan-liem-dieu-hanh-ubnd-tinh-thanh-hoa-5100504.html",
+        "https://vnexpress.net/viet-nam-de-xuat-bien-phap-thuc-day-quan-he-asean-voi-cac-doi-tac-5100502.html",
+        "https://vnexpress.net/messi-duoc-iffhs-vinh-danh-la-cau-thu-hay-nhat-world-cup-2026-5100507.html",
+        "https://vnexpress.net/ba-thach-thuc-lon-khi-trien-khai-ai-chu-quyen-5100489.html",
+        "https://vnexpress.net/vi-sao-chung-khoan-lao-doc-mat-hon-60-diem-5100511.html"
+      ],
+      "highlight_id": "https://vnexpress.net/vi-sao-chung-khoan-lao-doc-mat-hon-60-diem-5100511.html"
     }
   ]
 }
