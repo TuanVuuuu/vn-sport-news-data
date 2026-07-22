@@ -284,5 +284,57 @@
     "published_at": "Wed, 22 Jul 2026 07:30:18 +0700",
     "createAt": "2026-07-22T00:30:18.000Z",
     "thumbnail_blurhash": "LdKn3ZD*?tt7~oV?M~xZD*M{IVRl"
+  },
+  {
+    "id": "https://vnexpress.net/ong-zelensky-cach-chuc-tong-tu-lenh-quan-doi-ukraine-5100153.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Ông Zelensky cách chức tổng tư lệnh quân đội Ukraine",
+    "description": "Tổng thống Zelensky cách chức tổng tư lệnh quân đội, khi Ukraine đang đối mặt với khủng hoảng chính trị sau vụ ông Fedorov mất chức bộ trưởng quốc phòng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/22/OleksandrSyrsky-1784675756-6853-1784676122.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=rDczJCXOetVPTlh17a6duQ",
+    "link": "https://vnexpress.net/ong-zelensky-cach-chuc-tong-tu-lenh-quan-doi-ukraine-5100153.html",
+    "published_at": "Wed, 22 Jul 2026 06:50:00 +0700",
+    "createAt": "2026-07-21T23:50:00.000Z",
+    "thumbnail_blurhash": "LZHL3cx^-=%L~VkDS6oIoft7RjR%"
+  },
+  {
+    "id": "https://vnexpress.net/quy-dinh-khien-nguoi-duc-khong-the-ban-mi-tom-khoai-tay-vao-chu-nhat-5099498.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Quy định khiến người Đức không thể bán mì tôm, khoai tây vào chủ nhật",
+    "description": "Bedran Gunes, 23 tuổi, đang trực tại quầy thu ngân trong cửa hàng tạp hóa tại Berlin thì hai cảnh sát bước vào, yêu cầu kiểm tra hàng hóa.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/21/rewe-green-farming-berlin-fris-8886-9651-1784604456.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=S31nQ6U1SNhAg3eJGjmkDw",
+    "link": "https://vnexpress.net/quy-dinh-khien-nguoi-duc-khong-the-ban-mi-tom-khoai-tay-vao-chu-nhat-5099498.html",
+    "published_at": "Wed, 22 Jul 2026 08:00:00 +0700",
+    "createAt": "2026-07-22T01:00:00.000Z",
+    "thumbnail_blurhash": "LIJj;%~Ay9?XK~r:%0nMyDIp#=x]"
+  },
+  {
+    "id": "https://vnexpress.net/my-tuyen-bo-tap-kich-trung-tam-tac-chien-kho-uav-cua-iran-5100165.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Mỹ tuyên bố tập kích 'trung tâm tác chiến. kho UAV' của Iran",
+    "description": "Quân đội Mỹ phát động đợt tấn công mới nhằm vào Iran, sau khi Tổng thống Trump tuyên bố Washington \"chưa xong việc\" với Tehran.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/22/Set-top-1784682563-4306-1784682625.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=JWO9QgJUuBekEK7Nsp9stg&t=image",
+    "link": "https://vnexpress.net/my-tuyen-bo-tap-kich-trung-tam-tac-chien-kho-uav-cua-iran-5100165.html",
+    "published_at": "Wed, 22 Jul 2026 08:30:26 +0700",
+    "createAt": "2026-07-22T01:30:26.000Z",
+    "thumbnail_blurhash": "L8B|KZ~qxu~q00IUoffQt7D%9FM{"
+  },
+  {
+    "id": "https://vnexpress.net/canada-huy-le-khanh-thanh-cau-bien-gioi-voi-my-5100181.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Canada hủy lễ khánh thành cầu biên giới với Mỹ",
+    "description": "Canada hủy lễ khánh thành cầu nối sang Mỹ, dự kiến có sự tham dự của quan chức hai bên, do lời đe dọa áp thuế của ông Trump.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/22/2026t094602z-mt1usatoday293993-8069-2256-1784682276.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=jLnMwbnuHuFAlXhREfMs3Q",
+    "link": "https://vnexpress.net/canada-huy-le-khanh-thanh-cau-bien-gioi-voi-my-5100181.html",
+    "published_at": "Wed, 22 Jul 2026 08:45:28 +0700",
+    "createAt": "2026-07-22T01:45:28.000Z",
+    "thumbnail_blurhash": "L^HC.rocogkC?wt6ofa#xuxtf5WC"
   }
 ]
