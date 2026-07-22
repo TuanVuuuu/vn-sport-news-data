@@ -518,5 +518,44 @@
     "published_at": "Wed, 22 Jul 2026 17:00:00 +0700",
     "createAt": "2026-07-22T10:00:00.000Z",
     "thumbnail_blurhash": "LrB$l]HqawV{.mS7R5jEoyoxRPaJ"
+  },
+  {
+    "id": "https://vnexpress.net/kho-hang-tap-doan-ban-le-nga-boc-chay-sau-don-tap-kich-cua-ukraine-5100480.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Kho hàng tập đoàn bán lẻ Nga bốc cháy sau đòn tập kích của Ukraine",
+    "description": "Ukraine tiến hành cuộc tập kích nhằm vào hai nhà kho của Wildberries, nhà bán lẻ trực tuyến lớn nhất tại Nga, gây ra hỏa hoạn lớn.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/22/Settop-1784717192-6111-1784718175.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=uWtsQM-fwadGbTczmsblUg",
+    "link": "https://vnexpress.net/kho-hang-tap-doan-ban-le-nga-boc-chay-sau-don-tap-kich-cua-ukraine-5100480.html",
+    "published_at": "Wed, 22 Jul 2026 18:54:30 +0700",
+    "createAt": "2026-07-22T11:54:30.000Z",
+    "thumbnail_blurhash": "LOFYDfMJ.TtSK6IoxaxZM_f5aeRj"
+  },
+  {
+    "id": "https://vnexpress.net/tan-tong-tu-lenh-duoc-long-quan-dan-cua-ukraine-5100237.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Tân Tổng tư lệnh 'được lòng quân, dân' của Ukraine",
+    "description": "Mykhailo Drapatyi, sĩ quan mới nhậm chức Tổng tư lệnh quân đội Ukraine, được cả binh sĩ và người dân tôn trọng nhờ các chiến công trong quá khứ.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/22/MykhailoDrapatyi-1784694694-6081-1784695960.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=eyc9tOYXq6nsLcY55Lp_CA",
+    "link": "https://vnexpress.net/tan-tong-tu-lenh-duoc-long-quan-dan-cua-ukraine-5100237.html",
+    "published_at": "Wed, 22 Jul 2026 19:00:00 +0700",
+    "createAt": "2026-07-22T12:00:00.000Z",
+    "thumbnail_blurhash": "L27wf^%z00~V;Qt7o|~AJ7V@V@bH"
+  },
+  {
+    "id": "https://vnexpress.net/nu-nguoi-mau-ke-ve-cuoc-song-truy-lac-cua-ty-phu-au-dam-epstein-5099935.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Nữ người mẫu kể về cuộc sống trụy lạc của tỷ phú ấu dâm Epstein",
+    "description": "Tội ác của Epstein ngay cả trong thời gian thụ án được hé lộ qua lời kể từ một người mẫu từng là nạn nhân bị ông ta xâm hại.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/21/anh1-1784621513-4334-1784622408.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=M3Kg26HX0Nzyuy_h-cn0EQ",
+    "link": "https://vnexpress.net/nu-nguoi-mau-ke-ve-cuoc-song-truy-lac-cua-ty-phu-au-dam-epstein-5099935.html",
+    "published_at": "Wed, 22 Jul 2026 19:00:00 +0700",
+    "createAt": "2026-07-22T12:00:00.000Z",
+    "thumbnail_blurhash": "LLDSRF~ptlog,-D%9ZoM^%xtNGR*"
   }
 ]
