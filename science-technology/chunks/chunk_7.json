@@ -622,5 +622,18 @@
     "published_at": "Wed, 22 Jul 2026 07:46:10 +0700",
     "createAt": "2026-07-22T00:46:10.000Z",
     "thumbnail_blurhash": "LAE3h:xB00_Nx_%g%L%300t7kW8_"
+  },
+  {
+    "id": "https://vnexpress.net/mo-hinh-openai-mat-kiem-soat-gay-vu-dot-nhap-chua-co-tien-le-5100172.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Mô hình OpenAI mất kiểm soát, gây vụ đột nhập 'chưa có tiền lệ'",
+    "description": "OpenAI cho biết một số mô hình AI của công ty mất kiểm soát trong thử nghiệm an ninh, dẫn tới vụ tấn công hạ tầng của startup Hugging Face.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/22/ai-1784682374-4326-1784682416.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=uAwA_lJs4HKaYAeQ9O4M0Q",
+    "link": "https://vnexpress.net/mo-hinh-openai-mat-kiem-soat-gay-vu-dot-nhap-chua-co-tien-le-5100172.html",
+    "published_at": "Wed, 22 Jul 2026 09:00:00 +0700",
+    "createAt": "2026-07-22T02:00:00.000Z",
+    "thumbnail_blurhash": "LBCGPy00yU=$?]MzkoR%00_MxHRi"
   }
 ]
