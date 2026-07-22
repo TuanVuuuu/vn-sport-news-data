@@ -609,5 +609,70 @@
     "published_at": "Wed, 22 Jul 2026 15:30:00 +0700",
     "createAt": "2026-07-22T08:30:00.000Z",
     "thumbnail_blurhash": "LQMa3B~q8_-pyXt7RPD*Z~DhR+S5"
+  },
+  {
+    "id": "https://vnexpress.net/4-cach-giam-muoi-cho-nguoi-benh-xuong-khop-5100386.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "4 cách giảm muối cho người bệnh xương khớp",
+    "description": "Nguyên tắc \"một thìa muối gạt ngang cho một ngày\", ưu tiên dùng gia vị thảo mộc giúp giảm lượng muối trong khẩu phần, hạn chế nguy cơ viêm khớp.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/22/gemini-generated-image-p60rp7p-8856-4656-1784705694.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=eWDgJ7xXoA_eo2y_VHoetQ",
+    "link": "https://vnexpress.net/4-cach-giam-muoi-cho-nguoi-benh-xuong-khop-5100386.html",
+    "published_at": "Wed, 22 Jul 2026 16:00:00 +0700",
+    "createAt": "2026-07-22T09:00:00.000Z",
+    "thumbnail_blurhash": "LUH24a9ZDOOZ_4RPD$o#?GWWIVs:"
+  },
+  {
+    "id": "https://vnexpress.net/dau-hieu-nuoc-tieu-canh-bao-benh-than-5100375.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Dấu hiệu nước tiểu cảnh báo bệnh thận",
+    "description": "Tiểu nhiều lần, nước tiểu bọt hoặc lẫn máu có thể là dấu hiệu sớm cho thấy chức năng thận suy giảm.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/22/vne-1784704895-2412-1784704908.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Mg8hwRUOJhZXA_IBVVfYtw",
+    "link": "https://vnexpress.net/dau-hieu-nuoc-tieu-canh-bao-benh-than-5100375.html",
+    "published_at": "Wed, 22 Jul 2026 16:00:00 +0700",
+    "createAt": "2026-07-22T09:00:00.000Z",
+    "thumbnail_blurhash": "LON0@[~pIU%goa_3M{%MITs:9F-;"
+  },
+  {
+    "id": "https://vnexpress.net/hiem-muon-do-u-lac-noi-mac-tu-cung-buong-trung-5100370.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Hiếm muộn do u lạc nội mạc tử cung buồng trứng",
+    "description": "Chị Thùy, 39 tuổi, hiếm muộn 6 năm do u lạc nội mạc tử cung tại buồng trứng gây giảm dự trữ buồng trứng, phải gom noãn nhiều lần để thụ tinh ống nghiệm.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/22/a-nh-1784704494-4735-1784704522.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=YjxvLWJbJacNlilR_nXtPg",
+    "link": "https://vnexpress.net/hiem-muon-do-u-lac-noi-mac-tu-cung-buong-trung-5100370.html",
+    "published_at": "Wed, 22 Jul 2026 16:00:00 +0700",
+    "createAt": "2026-07-22T09:00:00.000Z",
+    "thumbnail_blurhash": "LIHyC3Qk00H=E=vwtnx_1UtjR5Tg"
+  },
+  {
+    "id": "https://vnexpress.net/5-sai-lam-khien-tre-ngu-khong-sau-giac-5100316.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "5 sai lầm khiến trẻ ngủ không sâu giấc",
+    "description": "Ăn quá no vào buổi tối, dùng thiết bị điện tử trước giờ đi ngủ hoặc vận động quá mạnh vào buổi tối đều có thể khiến trẻ khó ngủ sâu giấc.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/22/3f08d2b526be87e0deaf-178469719-9879-9841-1784697321.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=bkCrFPVlTK3gbtyKpsZePQ",
+    "link": "https://vnexpress.net/5-sai-lam-khien-tre-ngu-khong-sau-giac-5100316.html",
+    "published_at": "Wed, 22 Jul 2026 16:00:00 +0700",
+    "createAt": "2026-07-22T09:00:00.000Z",
+    "thumbnail_blurhash": "LMF#:udqMd_4t8f5t,%2MwyDxtrq"
+  },
+  {
+    "id": "https://vnexpress.net/benh-vien-ngung-lam-viec-voi-bao-ve-bi-phan-anh-lon-tieng-nhan-tien-giu-xe-5100352.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Bệnh viện ngưng làm việc với bảo vệ bị phản ánh 'lớn tiếng, nhận tiền giữ xe'",
+    "description": "Bệnh viện Nguyễn Tri Phương yêu cầu điều chuyển một nhân viên bảo vệ sau khi xác minh phản ánh về thái độ lớn tiếng với người dân và nhận tiền sau khi hỗ trợ trông xe tại cổng cấp cứu.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/22/gemini-generated-imageih0649ih-3172-9136-1784704054.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=u4QkPnB9oxAzR6ZYeBHeWg",
+    "link": "https://vnexpress.net/benh-vien-ngung-lam-viec-voi-bao-ve-bi-phan-anh-lon-tieng-nhan-tien-giu-xe-5100352.html",
+    "published_at": "Wed, 22 Jul 2026 16:13:20 +0700",
+    "createAt": "2026-07-22T09:13:20.000Z",
+    "thumbnail_blurhash": "LMF~X7_3E29E~qt7IVIUR:WBoMxu"
   }
 ]
