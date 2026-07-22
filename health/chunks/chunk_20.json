@@ -310,5 +310,57 @@
     "published_at": "Wed, 22 Jul 2026 06:58:33 +0700",
     "createAt": "2026-07-21T23:58:33.000Z",
     "thumbnail_blurhash": "LEAv:]02rqO[~qD*Mw%gx_RiQ--:"
+  },
+  {
+    "id": "https://vnexpress.net/nguoi-cao-tuoi-can-kham-tim-mach-the-nao-5100166.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Người cao tuổi cần khám tim mạch thế nào?",
+    "description": "Tôi khỏe mạnh nhưng lo ngại nguy cơ mắc bệnh tăng theo tuổi tác nên muốn khám tim mạch tổng quát để tầm soát. Tôi cần thực hiện những xét nghiệm gì? (Trần Trung, 61 tuổi, Lạng Sơn)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/22/image001-1784678184-7857-1784678255.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=RmbbhaKExrtO6J_ZgrxYzA",
+    "link": "https://vnexpress.net/nguoi-cao-tuoi-can-kham-tim-mach-the-nao-5100166.html",
+    "published_at": "Wed, 22 Jul 2026 08:00:00 +0700",
+    "createAt": "2026-07-22T01:00:00.000Z",
+    "thumbnail_blurhash": "LZKdoOE0Os~Aa0xvXSn#oz%MRjRk"
+  },
+  {
+    "id": "https://vnexpress.net/soc-tim-do-nhoi-mau-co-tim-5100164.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Sốc tim do nhồi máu cơ tim",
+    "description": "Bà Lam, 79 tuổi, sốc tim do nhồi máu cơ tim cấp trên nền tổn thương động mạch vành.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/22/image001-1784679193-8022-1784679243.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=SSSMlJC5sRd7f11T73d9WA",
+    "link": "https://vnexpress.net/soc-tim-do-nhoi-mau-co-tim-5100164.html",
+    "published_at": "Wed, 22 Jul 2026 08:00:00 +0700",
+    "createAt": "2026-07-22T01:00:00.000Z",
+    "thumbnail_blurhash": "LNH.c^9FMdM|?w-;M|ofofg4o#tR"
+  },
+  {
+    "id": "https://vnexpress.net/be-so-sinh-nhiem-trung-ron-bien-chung-viem-mang-nao-5100160.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Bé sơ sinh nhiễm trùng rốn biến chứng viêm màng não",
+    "description": "Bé trai 14 ngày tuổi sốt nhẹ, rốn rỉ dịch, sưng đỏ, bác sĩ chẩn đoán nhiễm trùng rốn, biến chứng nhiễm trùng huyết, viêm màng não.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/22/image001-1784676964-3689-1784677005.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=54XnGmhAQbFX6GWdDEv7GA",
+    "link": "https://vnexpress.net/be-so-sinh-nhiem-trung-ron-bien-chung-viem-mang-nao-5100160.html",
+    "published_at": "Wed, 22 Jul 2026 08:00:00 +0700",
+    "createAt": "2026-07-22T01:00:00.000Z",
+    "thumbnail_blurhash": "LWLN_d~qIU%2Mcx]x]xtIAxv%Maz"
+  },
+  {
+    "id": "https://vnexpress.net/duc-thuy-tinh-the-do-viem-mang-bo-dao-5100120.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Đục thủy tinh thể do viêm màng bồ đào",
+    "description": "Sau hai tháng điều trị viêm màng bồ đào, chị Hằng, 30 tuổi, bất ngờ mờ mắt trái, thị lực còn 1/10 do bệnh biến chứng gây đục thủy tinh thể.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/21/anh-vne-1784645032-7196-1784645044.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=4n3JGmsomM5wK3kVns74Kg",
+    "link": "https://vnexpress.net/duc-thuy-tinh-the-do-viem-mang-bo-dao-5100120.html",
+    "published_at": "Wed, 22 Jul 2026 08:00:00 +0700",
+    "createAt": "2026-07-22T01:00:00.000Z",
+    "thumbnail_blurhash": "LgLhGSt9x^%1~Toft7WXo}n#slt7"
   }
 ]
