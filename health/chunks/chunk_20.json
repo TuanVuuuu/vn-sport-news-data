@@ -791,5 +791,31 @@
     "published_at": "Thu, 23 Jul 2026 05:00:00 +0700",
     "createAt": "2026-07-22T22:00:00.000Z",
     "thumbnail_blurhash": "LhNmp0x[?u-;~poKIVoeRloeV@j["
+  },
+  {
+    "id": "https://vnexpress.net/bac-si-trung-quoc-chi-ra-nhung-thoi-quen-sinh-hoat-co-the-dan-den-ung-thu-5100426.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Bác sĩ Trung Quốc chỉ ra những thói quen sinh hoạt có thể dẫn đến ung thư",
+    "description": "Bác sĩ cảnh báo phần lớn các ca ung thư đến từ thói quen sinh hoạt xấu, ô nhiễm và miễn dịch suy giảm chứ không hoàn toàn do di truyền.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/22/wm1-wm1-screenshot-at-1784709980-9477-1784710101.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=h2RGGZZZ7oyXexl-xfE6yA",
+    "link": "https://vnexpress.net/bac-si-trung-quoc-chi-ra-nhung-thoi-quen-sinh-hoat-co-the-dan-den-ung-thu-5100426.html",
+    "published_at": "Thu, 23 Jul 2026 05:43:12 +0700",
+    "createAt": "2026-07-22T22:43:12.000Z",
+    "thumbnail_blurhash": "LJHv*R~Bt--pvz9uIU-9%f-otS={"
+  },
+  {
+    "id": "https://vnexpress.net/xin-triet-san-vi-so-de-5099370.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Xin triệt sản vì sợ đẻ",
+    "description": "Cố nán lại đến cuối ngày, người đàn ông 35 tuổi đề nghị kiểm tra sức khỏe để triệt sản dù mới có một con, khiến bác sĩ Khải, Bệnh viện E, sững sờ.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/22/z5686092150582-fda992240265a42-4354-3764-1784690329.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=-G2bzazpI3gF_nwvA0IXRg",
+    "link": "https://vnexpress.net/xin-triet-san-vi-so-de-5099370.html",
+    "published_at": "Thu, 23 Jul 2026 06:00:00 +0700",
+    "createAt": "2026-07-22T23:00:00.000Z",
+    "thumbnail_blurhash": "LhGln[yA%LRj~Wnj%LWC?aR-V@of"
   }
 ]
