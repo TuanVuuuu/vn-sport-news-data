@@ -258,5 +258,31 @@
     "published_at": "Wed, 22 Jul 2026 06:50:00 +0700",
     "createAt": "2026-07-21T23:50:00.000Z",
     "thumbnail_blurhash": "LZHL3cx^-=%L~VkDS6oIoft7RjR%"
+  },
+  {
+    "id": "https://vnexpress.net/chua-han-quoc-mo-su-kien-mai-moi-cho-nam-thanh-nu-tu-5099828.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Chùa Hàn Quốc mở sự kiện mai mối cho nam thanh nữ tú",
+    "description": "Chương trình mai mối được Quỹ Phúc lợi Xã hội Phật giáo Hàn Quốc khởi xướng nhằm kết nối nam nữ thanh niên độc thân, giải quyết tình trạng giảm tỷ lệ sinh.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/21/2026t054433z-lynxmpem6c04y-rtr-3831-7827-1784633827.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=QHZGsYqOMfreawhJIMDrVA",
+    "link": "https://vnexpress.net/chua-han-quoc-mo-su-kien-mai-moi-cho-nam-thanh-nu-tu-5099828.html",
+    "published_at": "Wed, 22 Jul 2026 07:29:00 +0700",
+    "createAt": "2026-07-22T00:29:00.000Z",
+    "thumbnail_blurhash": "LYG*~LsnROoz.Tj]D%bHk9oyRPjY"
+  },
+  {
+    "id": "https://vnexpress.net/ong-trump-my-chua-xong-viec-voi-iran-5100168.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Ông Trump: Mỹ chưa xong việc với Iran",
+    "description": "Tổng thống Trump tuyên bố Mỹ \"chưa xong việc\" và còn lâu mới chấm dứt xung đột với Iran, đồng thời cho biết Núi Pickaxe sẽ là mục tiêu tiếp theo.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/22/5563187178137269420a-178467905-2660-2189-1784679244.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=XqKk9g0f2jTqVl-OgR8ziQ",
+    "link": "https://vnexpress.net/ong-trump-my-chua-xong-viec-voi-iran-5100168.html",
+    "published_at": "Wed, 22 Jul 2026 07:30:18 +0700",
+    "createAt": "2026-07-22T00:30:18.000Z",
+    "thumbnail_blurhash": "LdKn3ZD*?tt7~oV?M~xZD*M{IVRl"
   }
 ]
