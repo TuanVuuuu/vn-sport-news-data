@@ -310,5 +310,31 @@
     "published_at": "Wed, 22 Jul 2026 10:26:09 +0700",
     "createAt": "2026-07-22T03:26:09.000Z",
     "thumbnail_blurhash": "LRIhsh~Xk7M{I*oNogxsNGoy%4j^"
+  },
+  {
+    "id": "https://vnexpress.net/the-gioi-quy-dinh-the-nao-ve-thoi-gian-lai-xe-cua-tai-xe-xe-khach-5100256.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Thế giới quy định thế nào về thời gian lái xe của tài xế xe khách?",
+    "description": "EU yêu cầu nghỉ sau 4,5 giờ lái, Mỹ giới hạn giờ làm, Australia quy trách nhiệm cả doanh nghiệp nhằm giảm nguy cơ tài xế buồn ngủ.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/22/eld-1784689486-3077-1784689497.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=RJjuWqgbJd1mqUoITm2llw",
+    "link": "https://vnexpress.net/the-gioi-quy-dinh-the-nao-ve-thoi-gian-lai-xe-cua-tai-xe-xe-khach-5100256.html",
+    "published_at": "Wed, 22 Jul 2026 11:27:13 +0700",
+    "createAt": "2026-07-22T04:27:13.000Z",
+    "thumbnail_blurhash": "LcF$R{9FM_s;~qIURjWBxsWEogWA"
+  },
+  {
+    "id": "https://vnexpress.net/vinfast-kyo-doi-trong-moi-cua-honda-vision-5100295.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "VinFast Kyo - đối trọng mới của Honda Vision",
+    "description": "Kyo có tầm hoạt động 160 km (hai pin), tốc độ tối đa 64 km/h, giá 30-35,5 triệu đồng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/22/VinFast-Kyo-vnexpress-10-1784687904.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=MgaFnI6v950q9woByle5bg",
+    "link": "https://vnexpress.net/vinfast-kyo-doi-trong-moi-cua-honda-vision-5100295.html",
+    "published_at": "Wed, 22 Jul 2026 11:49:46 +0700",
+    "createAt": "2026-07-22T04:49:46.000Z",
+    "thumbnail_blurhash": "L5Eyh^~o.9.7b%ou00t26F%d8|?Z"
   }
 ]
