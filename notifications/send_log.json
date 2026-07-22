@@ -1,35 +1,6 @@
 {
   "entries": [
     {
-      "sent_at": "2026-07-17T11:01:21.190Z",
-      "topic": null,
-      "device_id": "8324162817fc22a6",
-      "slot": "evening",
-      "type": "featured_digest",
-      "article_ids": [
-        "https://vnexpress.net/cam-nang-tich-hop-ai-cua-csgt-ha-noi-co-gi-5096742.html",
-        "https://vnexpress.net/ung-dung-ai-cua-csgt-ha-noi-giup-nguoi-dan-the-nao-5096742.html",
-        "https://vnexpress.net/fifa-lan-dau-trao-nhan-cho-nha-vo-dich-world-cup-5098503.html",
-        "https://vnexpress.net/messi-lam-hlv-tren-san-pha-chien-thuat-anh-nhu-the-nao-5098410.html",
-        "https://vnexpress.net/hanh-khach-vu-tai-nan-khien-4-nguoi-chet-sau-tieng-ram-xe-lao-khoi-cao-toc-5098516.html",
-        "https://vnexpress.net/chuyen-di-choi-thanh-tham-kich-khien-4-nguoi-chet-5098480.html",
-        "https://vnexpress.net/f-35a-my-phat-tin-hieu-khan-giua-dot-khong-kich-iran-5098511.html",
-        "https://vnexpress.net/nhung-dia-diem-cong-an-se-kiem-tra-dot-xuat-ve-cu-tru-5098496.html",
-        "https://vnexpress.net/lu-quet-tran-qua-khu-dan-cu-o-lai-chau-5098559.html",
-        "https://vnexpress.net/lu-do-ve-nhu-thac-cuon-phang-nhieu-tai-san-o-lai-chau-5098559.html",
-        "https://vnexpress.net/bay-tu-than-khien-33-nguoi-chet-trong-vu-chay-quan-pub-thai-lan-5098271.html",
-        "https://vnexpress.net/manh-moi-tu-lo-thuy-tinh-chua-danh-tinh-liet-si-5098435.html",
-        "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-dang-huong-liet-si-o-cong-vien-le-thi-rieng-5098396.html",
-        "https://vnexpress.net/nguoi-phu-nu-lai-xe-lam-chong-tu-vong-bi-phat-18-thang-tu-5098556.html",
-        "https://vnexpress.net/lai-chau-son-la-tan-hoang-sau-lu-5098635.html",
-        "https://vnexpress.net/chinh-phu-giao-vuon-quoc-gia-cat-tien-cho-dong-nai-quan-ly-5098679.html",
-        "https://vnexpress.net/mot-giao-vien-ra-dau-thu-trong-vu-diem-toan-cao-bat-thuong-o-tuyen-quang-5098681.html",
-        "https://vnexpress.net/giai-cuu-hai-nguoi-mac-ket-giua-lu-du-5098661.html",
-        "https://vnexpress.net/trung-quoc-phan-bac-cao-buoc-can-thiep-bau-cu-cua-ong-trump-5098656.html"
-      ],
-      "highlight_id": "https://vnexpress.net/trung-quoc-phan-bac-cao-buoc-can-thiep-bau-cu-cua-ong-trump-5098656.html"
-    },
-    {
       "sent_at": "2026-07-17T11:01:21.297Z",
       "topic": null,
       "device_id": "979bdb8856573cb2",
@@ -15331,6 +15302,23 @@
         "https://vnexpress.net/chelsea-cong-bo-cau-thu-nguoi-anh-dat-gia-nhat-lich-su-5100155.html"
       ],
       "highlight_id": "https://vnexpress.net/chelsea-cong-bo-cau-thu-nguoi-anh-dat-gia-nhat-lich-su-5100155.html"
+    },
+    {
+      "sent_at": "2026-07-22T03:31:00.615Z",
+      "topic": null,
+      "device_id": "A94924FF-7231-4062-AB25-6360B9D12D33",
+      "slot": "morning",
+      "type": "featured_digest",
+      "article_ids": [
+        "https://vnexpress.net/chuyen-dua-hai-con-di-kham-thanh-bi-kich-tren-xe-khach-chay-5100104.html",
+        "https://vnexpress.net/tai-xe-duong-dai-vat-lon-voi-con-ngu-gat-5100156.html",
+        "https://vnexpress.net/ong-zelensky-cach-chuc-tong-tu-lenh-quan-doi-ukraine-5100153.html",
+        "https://vnexpress.net/my-tuyen-bo-tap-kich-trung-tam-tac-chien-kho-uav-cua-iran-5100165.html",
+        "https://vnexpress.net/mo-hinh-openai-mat-kiem-soat-gay-vu-dot-nhap-chua-co-tien-le-5100172.html",
+        "https://vnexpress.net/duong-day-dua-pod-chill-chua-ma-tuy-vao-tp-hcm-bi-triet-pha-5100230.html",
+        "https://vnexpress.net/bo-sung-hai-tuyen-duong-sat-quoc-gia-moi-vao-quy-hoach-5100241.html"
+      ],
+      "highlight_id": "https://vnexpress.net/bo-sung-hai-tuyen-duong-sat-quoc-gia-moi-vao-quy-hoach-5100241.html"
     }
   ]
 }
