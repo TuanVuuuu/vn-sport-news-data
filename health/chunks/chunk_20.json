@@ -765,5 +765,31 @@
     "published_at": "Thu, 23 Jul 2026 01:00:00 +0700",
     "createAt": "2026-07-22T18:00:00.000Z",
     "thumbnail_blurhash": "LOKKsD~WOF?GE1xuRP-ps:slIUWE"
+  },
+  {
+    "id": "https://vnexpress.net/4-sai-lam-khi-an-sang-can-tranh-de-song-tho-5099569.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "4 sai lầm khi ăn sáng cần tránh để sống thọ",
+    "description": "Tránh xa đồ chiên rán, tinh bột tinh chế, ngũ cốc nhiều đường và thói quen bỏ bữa sáng để bảo vệ hệ trao đổi chất cùng sức khỏe lâu dài.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/20/screenshot-at-1784537093-2536-1784537171.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=RGIe1_ocAhaA7-Y-Zwzueg",
+    "link": "https://vnexpress.net/4-sai-lam-khi-an-sang-can-tranh-de-song-tho-5099569.html",
+    "published_at": "Thu, 23 Jul 2026 05:00:00 +0700",
+    "createAt": "2026-07-22T22:00:00.000Z",
+    "thumbnail_blurhash": "LBHxyV=^00~oMzDjIAMy9FxYV@WE"
+  },
+  {
+    "id": "https://vnexpress.net/cau-be-ung-thu-ngheo-va-co-hoi-dieu-tri-hep-do-kiet-que-tai-chinh-5097744.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Cậu bé ung thư nghèo và cơ hội điều trị hẹp do kiệt quệ tài chính",
+    "description": "Phát hiện ung thư khi đã suy hô hấp, cơ hội điều trị của Chamaléa Khang, 13 tuổi, càng khó do gia đình nghèo kiệt quệ kinh phí.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/15/khang-hue-1784102401-2805-1784104651.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=iN9RFrN33pvafey-2kK_Rw",
+    "link": "https://vnexpress.net/cau-be-ung-thu-ngheo-va-co-hoi-dieu-tri-hep-do-kiet-que-tai-chinh-5097744.html",
+    "published_at": "Thu, 23 Jul 2026 05:00:00 +0700",
+    "createAt": "2026-07-22T22:00:00.000Z",
+    "thumbnail_blurhash": "LhNmp0x[?u-;~poKIVoeRloeV@j["
   }
 ]
