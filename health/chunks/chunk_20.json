@@ -453,5 +453,31 @@
     "published_at": "Wed, 22 Jul 2026 10:25:39 +0700",
     "createAt": "2026-07-22T03:25:39.000Z",
     "thumbnail_blurhash": "LKIEX-={?^_24U$%ELNGw}MyS#of"
+  },
+  {
+    "id": "https://vnexpress.net/ngu-hay-giat-minh-choi-voi-co-can-kham-5100246.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Ngủ hay giật mình, chới với có cần khám?",
+    "description": "Tôi 38 tuổi, hay giật mình, chới với cảm giác như rơi từ trên cao xuống, tỉnh giấc giữa đêm. Đây có phải dấu hiệu bất thường và khi nào cần khám? (Thu Hà, TP HCM)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/22/tk-1784688297-8701-1784688318.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=xaHDzmH399tULW62Su1Wcw",
+    "link": "https://vnexpress.net/ngu-hay-giat-minh-choi-voi-co-can-kham-5100246.html",
+    "published_at": "Wed, 22 Jul 2026 11:00:00 +0700",
+    "createAt": "2026-07-22T04:00:00.000Z",
+    "thumbnail_blurhash": "LFMGed.SY6?b~p%LIV9Z9^Z~X9r="
+  },
+  {
+    "id": "https://vnexpress.net/rung-toc-mat-kinh-sau-8-thang-giam-can-sai-cach-5100157.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Rụng tóc, mất kinh sau 8 tháng giảm cân sai cách",
+    "description": "Sau 8 tháng kiêng tinh bột và tập luyện cường độ cao, Linh, 29 tuổi, rối loạn nội tiết do thiếu năng lượng gây rụng tóc, mất kinh.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/22/vne-1784690143-2713-1784690844.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=35oYAG17WgUFV618I6_yiA",
+    "link": "https://vnexpress.net/rung-toc-mat-kinh-sau-8-thang-giam-can-sai-cach-5100157.html",
+    "published_at": "Wed, 22 Jul 2026 11:00:00 +0700",
+    "createAt": "2026-07-22T04:00:00.000Z",
+    "thumbnail_blurhash": "LMNAuD4TD%jFyXo#Z#xD~q.8NFoe"
   }
 ]
