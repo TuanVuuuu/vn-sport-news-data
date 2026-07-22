@@ -1194,5 +1194,31 @@
     "published_at": "Wed, 22 Jul 2026 18:10:47 +0700",
     "createAt": "2026-07-22T11:10:47.000Z",
     "thumbnail_blurhash": "LfL;X1IB4Toz_NIoxvay%fWUx]ad"
+  },
+  {
+    "id": "https://vnexpress.net/vinfast-xuat-khau-lo-xe-dien-thu-38-5100496.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "VinFast xuất khẩu lô xe điện thứ 38",
+    "description": "Hơn 5.000 ôtô điện VinFast được hãng vận chuyển trên 2 tàu vận tải đến các thị trường châu Âu và khu vực, ngày 20-21/7.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/22/1-1784718700-1201-1784718792.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=w30cu67zscrozwRYBWOWcA",
+    "link": "https://vnexpress.net/vinfast-xuat-khau-lo-xe-dien-thu-38-5100496.html",
+    "published_at": "Wed, 22 Jul 2026 19:00:00 +0700",
+    "createAt": "2026-07-22T12:00:00.000Z",
+    "thumbnail_blurhash": "LUG[WpvfNZso~WM~WUxZ.RT0aeof"
+  },
+  {
+    "id": "https://vnexpress.net/tai-san-cua-cac-ty-phu-viet-giam-hon-3-ty-usd-5100486.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Tài sản của các tỷ phú Việt giảm hơn 3 tỷ USD",
+    "description": "Tài sản của các tỷ phú Việt giảm 3,1 tỷ USD sau phiên chứng khoán \"bốc hơi\" hơn 60 điểm hôm nay.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/22/wm1-wm1-thiet-ke-chua-co-ten-17847-1635-9394-1784724985.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=9QLU7w_oR9BOcI8qXscgOw",
+    "link": "https://vnexpress.net/tai-san-cua-cac-ty-phu-viet-giam-hon-3-ty-usd-5100486.html",
+    "published_at": "Wed, 22 Jul 2026 19:56:25 +0700",
+    "createAt": "2026-07-22T12:56:25.000Z",
+    "thumbnail_blurhash": "LkNA0Stl-;iw_MnOIVo}_3kCxtxu"
   }
 ]
