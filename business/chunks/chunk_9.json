@@ -1103,5 +1103,31 @@
     "published_at": "Wed, 22 Jul 2026 10:45:16 +0700",
     "createAt": "2026-07-22T03:45:16.000Z",
     "thumbnail_blurhash": "L9H_0^00.7I8?dxuWAE2xa%NV?i^"
+  },
+  {
+    "id": "https://vnexpress.net/vn-index-thung-moc-1-700-diem-5100338.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "VN-Index thủng mốc 1.700 điểm",
+    "description": "Nhà đầu tư tiếp tục bán tháo chứng khoán khiến VN-Index mất thêm 37 điểm trong phiên sáng nay, thủng mốc tâm lý 1.700 điểm sau hơn 4 tháng.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/22/CKthay-1784697633-6374-1784697673.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Hg8nj-TbMVSAEuoEDSWP5Q",
+    "link": "https://vnexpress.net/vn-index-thung-moc-1-700-diem-5100338.html",
+    "published_at": "Wed, 22 Jul 2026 12:21:13 +0700",
+    "createAt": "2026-07-22T05:21:13.000Z",
+    "thumbnail_blurhash": "LDDSzWITxc~X8|sERiIUDz-=R%In"
+  },
+  {
+    "id": "https://vnexpress.net/kieu-hoi-ve-tp-hcm-giam-xuong-4-ty-usd-5100333.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Kiều hối về TP HCM giảm xuống 4 tỷ USD",
+    "description": "Nửa đầu năm nay, kiều hối về TP HCM giảm hơn 20% so với cùng kỳ năm ngoái, ước đạt 4 tỷ USD.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/22/wm1-wm1-vpbank-thanhtung18-1784697-3781-5553-1784697245.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=p_PM6sdTbCOi8Lk_2xzOwA",
+    "link": "https://vnexpress.net/kieu-hoi-ve-tp-hcm-giam-xuong-4-ty-usd-5100333.html",
+    "published_at": "Wed, 22 Jul 2026 12:23:50 +0700",
+    "createAt": "2026-07-22T05:23:50.000Z",
+    "thumbnail_blurhash": "LOHe,*NFD*-p_Nx[_3ax-;oe-;M_"
   }
 ]
