@@ -1051,5 +1051,31 @@
     "published_at": "Wed, 22 Jul 2026 00:00:00 +0700",
     "createAt": "2026-07-21T17:00:00.000Z",
     "thumbnail_blurhash": "LfG[fzo}n,NZ_4xut7f*%hozf+sC"
+  },
+  {
+    "id": "https://vnexpress.net/gia-dau-the-gioi-cao-nhat-5-tuan-5100169.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Giá dầu thế giới cao nhất 5 tuần",
+    "description": "Mỗi thùng Brent hiện có giá gần 92 USD, do lo ngại nguồn cung gián đoạn hơn nữa khi lực lượng Houthi phong tỏa hàng hải với Arab Saudi.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/22/Screenshot20260606113508-17846-7395-7793-1784681083.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=MlO9zYaU7zTWnNCLM8Lx6w",
+    "link": "https://vnexpress.net/gia-dau-the-gioi-cao-nhat-5-tuan-5100169.html",
+    "published_at": "Wed, 22 Jul 2026 07:48:44 +0700",
+    "createAt": "2026-07-22T00:48:44.000Z",
+    "thumbnail_blurhash": "LC7K-%ogE1bJyGt7oJWVTMfixajZ"
+  },
+  {
+    "id": "https://vnexpress.net/vi-sao-kim-cuong-khong-phai-la-kenh-dau-tu-an-toan-5099414.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Vì sao kim cương không phải là kênh đầu tư an toàn?",
+    "description": "Kim cương có thể tăng giá, nhưng không phải lúc nào cũng là lựa chọn phù hợp cho những người tìm kiếm một kênh đầu tư an toàn.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/20/https-archive-images-prod-glob-3817-5594-1784517934.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=idWNsmiHN65ljsn-BTSrPg",
+    "link": "https://vnexpress.net/vi-sao-kim-cuong-khong-phai-la-kenh-dau-tu-an-toan-5099414.html",
+    "published_at": "Wed, 22 Jul 2026 07:59:26 +0700",
+    "createAt": "2026-07-22T00:59:26.000Z",
+    "thumbnail_blurhash": "LEDcacITRjt6~qWBM{WB4nIUNGt7"
   }
 ]
