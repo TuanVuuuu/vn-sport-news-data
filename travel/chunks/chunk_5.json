@@ -1077,5 +1077,31 @@
     "published_at": "Thu, 23 Jul 2026 08:30:00 +0700",
     "createAt": "2026-07-23T01:30:00.000Z",
     "thumbnail_blurhash": "LDD]C#-pDiV?~qR.ELR*?bozEMRk"
+  },
+  {
+    "id": "https://vnexpress.net/ba-chang-kham-pha-singapore-cho-gia-dinh-5098107.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Ba chặng khám phá Singapore cho gia đình",
+    "description": "Singapore mang đến đa dạng lựa chọn lịch trình cho gia đình có trẻ nhỏ, từ vui chơi tại sân bay, thăm bảo tàng tương tác đến khám phá thành phố bằng xe buýt hai tầng.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/07/22/image004-1784714698-3352-1784717162.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=fT-0rWR67MYcNDifvfH-og",
+    "link": "https://vnexpress.net/ba-chang-kham-pha-singapore-cho-gia-dinh-5098107.html",
+    "published_at": "Thu, 23 Jul 2026 09:00:00 +0700",
+    "createAt": "2026-07-23T02:00:00.000Z",
+    "thumbnail_blurhash": "LrHoX+aI%L%MyZV?s8kWb{o#xYf5"
+  },
+  {
+    "id": "https://vnexpress.net/ve-may-bay-trong-nuoc-re-hiem-thay-giua-he-5100545.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Vé máy bay trong nước 'rẻ hiếm thấy' giữa hè",
+    "description": "Mặt bằng giá vé trên nhiều chặng nội địa thấp hơn 30-50% so với đầu hè khi chi phí nhiên liệu hạ nhiệt, nguồn cung tăng và các hãng bay đẩy mạnh cạnh tranh.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/07/23/img-jpg-1784740373-4240-1784740384.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=WkRVVGza7ivjIjjFXK5H_Q",
+    "link": "https://vnexpress.net/ve-may-bay-trong-nuoc-re-hiem-thay-giua-he-5100545.html",
+    "published_at": "Thu, 23 Jul 2026 09:42:30 +0700",
+    "createAt": "2026-07-23T02:42:30.000Z",
+    "thumbnail_blurhash": "LOHU?}^%V@?a~pxto#R+%hIUR.Rk"
   }
 ]
