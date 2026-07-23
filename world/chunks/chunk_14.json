@@ -999,5 +999,31 @@
     "published_at": "Fri, 24 Jul 2026 00:00:00 +0700",
     "createAt": "2026-07-23T17:00:00.000Z",
     "thumbnail_blurhash": "LTIFGOxaR+xu~qItoLt6-:RlRka}"
+  },
+  {
+    "id": "https://vnexpress.net/canh-sat-michigan-phat-hien-chieu-gan-oc-vit-de-do-ke-o-tram-xang-5100818.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Cảnh sát Michigan phát hiện chiêu gắn ốc vít để 'đổ ké' ở trạm xăng",
+    "description": "Kẻ gian lận tại Michigan khoan một lỗ vào bộ phận giữ vòi bơm xăng để số tiền mua xăng được tính vào giao dịch của khách hàng trước.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/23/6a5a4efaaf0a0-image-1784798711-9939-1784798818.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=CdQ3386gOTRt5qKdJ1VehA",
+    "link": "https://vnexpress.net/canh-sat-michigan-phat-hien-chieu-gan-oc-vit-de-do-ke-o-tram-xang-5100818.html",
+    "published_at": "Fri, 24 Jul 2026 01:00:00 +0700",
+    "createAt": "2026-07-23T18:00:00.000Z",
+    "thumbnail_blurhash": "LEF=:as8_N01w{DiE3Ipn4WCJAI:"
+  },
+  {
+    "id": "https://vnexpress.net/lo-hong-bao-mat-co-the-giup-iran-tap-kich-linh-my-o-vung-vinh-5099878.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Lỗ hổng bảo mật có thể giúp Iran tập kích lính Mỹ ở vùng Vịnh",
+    "description": "Lỗ hổng trong giao thức chuyển vùng và dữ liệu định vị quảng cáo dường như đã giúp Iran tìm vị trí lính Mỹ tại Trung Đông để tập kích.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/22/5563187178137269423a-178469453-9151-1183-1784694859.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=DZg29W2lmYwswuOr4Yrijg",
+    "link": "https://vnexpress.net/lo-hong-bao-mat-co-the-giup-iran-tap-kich-linh-my-o-vung-vinh-5099878.html",
+    "published_at": "Fri, 24 Jul 2026 01:00:00 +0700",
+    "createAt": "2026-07-23T18:00:00.000Z",
+    "thumbnail_blurhash": "L5B3Qe~VDi~Avz=Fof694:S$Ej0e"
   }
 ]
