@@ -921,5 +921,44 @@
     "published_at": "Thu, 23 Jul 2026 19:00:00 +0700",
     "createAt": "2026-07-23T12:00:00.000Z",
     "thumbnail_blurhash": "LvHTys-noKV@~A%1azV@xtozWWWB"
+  },
+  {
+    "id": "https://vnexpress.net/may-bay-canh-bao-som-my-phat-tin-hieu-khan-giua-dot-tap-kich-iran-5100882.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Máy bay cảnh báo sớm Mỹ phát tín hiệu khẩn giữa đợt tập kích Iran",
+    "description": "Máy bay E-3 Sentry phát tín hiệu khẩn nguy trên vùng trời Arab Saudi, giữa lúc Mỹ tiến hành chiến dịch tập kích Iran, chưa rõ nguyên nhân.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/23/5563187178137269424b-178479837-7025-4971-1784798475.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=0nZ5hutAUBPNGAm8KK77kg",
+    "link": "https://vnexpress.net/may-bay-canh-bao-som-my-phat-tin-hieu-khan-giua-dot-tap-kich-iran-5100882.html",
+    "published_at": "Thu, 23 Jul 2026 18:44:19 +0700",
+    "createAt": "2026-07-23T11:44:19.000Z",
+    "thumbnail_blurhash": "LOC*YHbxtotSt9j[j]V?cIs:VqV?"
+  },
+  {
+    "id": "https://vnexpress.net/iran-tuyen-bo-pha-huy-radar-mat-than-cua-la-chan-thaad-my-5100925.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Iran tuyên bố phá hủy 'radar mắt thần' của lá chắn THAAD Mỹ",
+    "description": "Vệ binh Iran thông báo tập kích trả đũa Mỹ và phá hủy nhiều khí tài phòng không đối phương, trong đó có radar AN/TPY-2 của lá chắn THAAD.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/23/radar-thaad-1784812921-7983-1784812938.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=n7gM3EIp7WDluslOl0rIIw",
+    "link": "https://vnexpress.net/iran-tuyen-bo-pha-huy-radar-mat-than-cua-la-chan-thaad-my-5100925.html",
+    "published_at": "Thu, 23 Jul 2026 19:37:49 +0700",
+    "createAt": "2026-07-23T12:37:49.000Z",
+    "thumbnail_blurhash": "LaIO%?xuM{xYBYNGRke.pfWqoJfl"
+  },
+  {
+    "id": "https://vnexpress.net/may-bay-nghi-la-tiem-kich-su-57-nga-roi-o-tinh-moskva-5100948.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Máy bay nghi là tiêm kích Su-57 Nga rơi ở tỉnh Moskva",
+    "description": "Bộ Quốc phòng Nga thông báo máy bay huấn luyện chiến đấu rơi tại tỉnh Moskva, truyền thông nước này nhận định đó là tiêm kích Su-57.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/23/Nga-1784812655-9858-1784812943.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=_2yPIsIWYrG7s6Gd5zKcfg",
+    "link": "https://vnexpress.net/may-bay-nghi-la-tiem-kich-su-57-nga-roi-o-tinh-moskva-5100948.html",
+    "published_at": "Thu, 23 Jul 2026 20:51:44 +0700",
+    "createAt": "2026-07-23T13:51:44.000Z",
+    "thumbnail_blurhash": "LIBgVl.8.T%fyG.8_3xvw?xvRlxv"
   }
 ]
