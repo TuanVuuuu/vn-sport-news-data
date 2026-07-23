@@ -375,5 +375,57 @@
     "published_at": "Thu, 23 Jul 2026 04:15:00 +0700",
     "createAt": "2026-07-22T21:15:00.000Z",
     "thumbnail_blurhash": "LUP%Rt}Qj3s;kM+[nnV@W7$Lnlae"
+  },
+  {
+    "id": "https://vnexpress.net/mg-khuyen-mai-hon-100-trieu-dong-xa-hang-ton-5100391.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "MG khuyến mãi hơn 100 triệu đồng xả hàng tồn",
+    "description": "Tháng 7, nhiều dòng xe MG như ZS, MG5, HS, G50 khuyến mãi hàng chục đến hàng trăm triệu đồng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/22/mgzsvnexpress-1784710828-3344-1784711255.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=eekHpGuiXU8b1lMR7tLzKw",
+    "link": "https://vnexpress.net/mg-khuyen-mai-hon-100-trieu-dong-xa-hang-ton-5100391.html",
+    "published_at": "Thu, 23 Jul 2026 05:01:00 +0700",
+    "createAt": "2026-07-22T22:01:00.000Z",
+    "thumbnail_blurhash": "LCH2yYOR-:tl8yEKD%Ri~D.S-=9E"
+  },
+  {
+    "id": "https://vnexpress.net/maserati-grecale-gt-thoi-trang-pha-toc-do-5094653.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Maserati Grecale GT - thời trang pha tốc độ",
+    "description": "Khi trước mặt là cỗ máy 300 mã lực, tăng tốc 0-100 km/h trong 5,6 giây, treo khí nén điện tử, cảm giác kích thích là khó cưỡng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/21/wm1-wm1-materati-1784593340-3891-1784609931.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ZMEzYPf9pEAAzuGhJeeSMg",
+    "link": "https://vnexpress.net/maserati-grecale-gt-thoi-trang-pha-toc-do-5094653.html",
+    "published_at": "Thu, 23 Jul 2026 05:30:00 +0700",
+    "createAt": "2026-07-22T22:30:00.000Z",
+    "thumbnail_blurhash": "L~GJHxkDxuogyZWYfla}x^f6Rjf6"
+  },
+  {
+    "id": "https://vnexpress.net/xe-dien-hyundai-ioniq-5-san-xuat-khong-du-ban-5100186.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Xe điện Hyundai Ioniq 5 sản xuất không đủ bán",
+    "description": "Đứng thứ ba về doanh số xe điện tại Mỹ trong quý II, Ioniq 5 đang đối mặt nguy cơ thiếu hụt nguồn cung nghiêm trọng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/22/HyundaiIoniq5-1784686373-7295-1784686416.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=qvb45leuahM3Pd8kEW57sg",
+    "link": "https://vnexpress.net/xe-dien-hyundai-ioniq-5-san-xuat-khong-du-ban-5100186.html",
+    "published_at": "Thu, 23 Jul 2026 06:01:00 +0700",
+    "createAt": "2026-07-22T23:01:00.000Z",
+    "thumbnail_blurhash": "LQG+aSsk~psl.7xWRjIU_1M{IUV?"
+  },
+  {
+    "id": "https://vnexpress.net/nhung-pin-xe-dien-tot-nhat-sau-100-000-km-5100171.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Những pin xe điện tốt nhất sau 100.000 km",
+    "description": "Phân tích gần 10.000 bộ pin xe điện cho thấy dung lượng đều giữ trên 90% sau 100.000 km, với những cái tên vượt trội.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/22/KiaeNiro-1784704021-8772-1784704479.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=bXw4IP88-eVy9vwSYLuURQ",
+    "link": "https://vnexpress.net/nhung-pin-xe-dien-tot-nhat-sau-100-000-km-5100171.html",
+    "published_at": "Thu, 23 Jul 2026 06:40:00 +0700",
+    "createAt": "2026-07-22T23:40:00.000Z",
+    "thumbnail_blurhash": "LRIOa|t8skRj~qt6M|Rj9FIU-;xu"
   }
 ]
