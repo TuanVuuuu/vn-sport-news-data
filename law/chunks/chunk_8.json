@@ -791,5 +791,31 @@
     "published_at": "Thu, 23 Jul 2026 06:00:00 +0700",
     "createAt": "2026-07-22T23:00:00.000Z",
     "thumbnail_blurhash": "LXE3C-_3?v.8?wx]%Mxv-pRPRPV?"
+  },
+  {
+    "id": "https://vnexpress.net/cong-an-viet-nam-sang-lao-triet-pha-o-lua-dao-qua-vneid-quet-ma-qr-5100627.html",
+    "category_id": "law",
+    "category_name": "Pháp luật",
+    "source": "VnExpress",
+    "title": "Công an Việt Nam sang Lào triệt phá ổ lừa đảo qua VNeID, quét mã QR",
+    "description": "Phối hợp với Công an Lào, lực lượng chức năng Việt Nam bắt 40 người giả nhân viên bảo hiểm gọi video hướng dẫn phụ huynh mở VNeID rồi quét mã QR để chiếm đoạt tiền.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/23/3-jpeg-1784774547-1762-1784774557.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ma0KVc_2BrrJCMugnf9mFw",
+    "link": "https://vnexpress.net/cong-an-viet-nam-sang-lao-triet-pha-o-lua-dao-qua-vneid-quet-ma-qr-5100627.html",
+    "published_at": "Thu, 23 Jul 2026 09:50:54 +0700",
+    "createAt": "2026-07-23T02:50:54.000Z",
+    "thumbnail_blurhash": "LOH-$5~D9aSclC9~jE?F-=WGs+W9"
+  },
+  {
+    "id": "https://vnexpress.net/de-che-lua-dao-phia-sau-than-dong-kinh-doanh-pho-wall-5100505.html",
+    "category_id": "law",
+    "category_name": "Pháp luật",
+    "source": "VnExpress",
+    "title": "Đế chế lừa đảo phía sau 'thần đồng kinh doanh' Phố Wall",
+    "description": "Khởi nghiệp từ tuổi 15, Barry Minkow trở thành ông chủ của đế chế kinh doanh \"biến\" những con số trên giấy thành tiền thật.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/22/ldn-l-conman-1784734719-8320-1784738317.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=e27_8mVMTfIUQgFq6PBIrA",
+    "link": "https://vnexpress.net/de-che-lua-dao-phia-sau-than-dong-kinh-doanh-pho-wall-5100505.html",
+    "published_at": "Thu, 23 Jul 2026 09:55:03 +0700",
+    "createAt": "2026-07-23T02:55:03.000Z",
+    "thumbnail_blurhash": "LUF~R1%3I9RP~Xt7D%WAn%j[NGof"
   }
 ]

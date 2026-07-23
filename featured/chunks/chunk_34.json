@@ -323,5 +323,70 @@
     "published_at": "Thu, 23 Jul 2026 07:14:02 +0700",
     "createAt": "2026-07-23T00:14:02.000Z",
     "thumbnail_blurhash": "LGE.%,Rg.l.PE0SJxrM{NK%2i|a%"
+  },
+  {
+    "id": "https://vnexpress.net/4-dai-hoc-du-bao-diem-chuan-khoi-nganh-cong-nghe-ky-thuat-5100439.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "4 đại học dự báo điểm chuẩn khối ngành công nghệ, kỹ thuật",
+    "description": "Hơn 50% số thí sinh đăng ký nhóm ngành STEM, song nhiều đại học dự báo điểm chuẩn ổn định, biên độ tăng - giảm trong khoảng 1 điểm.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/22/thi-1784713720-6700-1784713951.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=oxXylui-b7Xb856FynB8Zw",
+    "link": "https://vnexpress.net/4-dai-hoc-du-bao-diem-chuan-khoi-nganh-cong-nghe-ky-thuat-5100439.html",
+    "published_at": "Thu, 23 Jul 2026 06:22:37 +0700",
+    "createAt": "2026-07-22T23:22:37.000Z",
+    "thumbnail_blurhash": "L8FYT1?Z000L00oy^-xB008_e@?b"
+  },
+  {
+    "id": "https://vnexpress.net/nhung-pin-xe-dien-tot-nhat-sau-100-000-km-5100171.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Những pin xe điện tốt nhất sau 100.000 km",
+    "description": "Phân tích gần 10.000 bộ pin xe điện cho thấy dung lượng đều giữ trên 90% sau 100.000 km, với những cái tên vượt trội.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/22/KiaeNiro-1784704021-8772-1784704479.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=bXw4IP88-eVy9vwSYLuURQ",
+    "link": "https://vnexpress.net/nhung-pin-xe-dien-tot-nhat-sau-100-000-km-5100171.html",
+    "published_at": "Thu, 23 Jul 2026 06:40:00 +0700",
+    "createAt": "2026-07-22T23:40:00.000Z",
+    "thumbnail_blurhash": "LRIOa|t8skRj~qt6M|Rj9FIU-;xu"
+  },
+  {
+    "id": "https://vnexpress.net/iran-doa-dap-tra-tuong-xung-neu-my-pha-cau-nha-may-dien-5100555.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Iran dọa đáp trả tương xứng nếu Mỹ phá cầu, nhà máy điện",
+    "description": "Ngoại trưởng Iran Araghchi cảnh báo nước này sẽ đáp trả tương xứng với bất kỳ cuộc tấn công nào của Mỹ nhắm vào cơ sở hạ tầng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/23/afp20260628aa280620262854040v1-7040-4040-1784765012.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=8fPRtq_A1hWrYfVmXpwPQw",
+    "link": "https://vnexpress.net/iran-doa-dap-tra-tuong-xung-neu-my-pha-cau-nha-may-dien-5100555.html",
+    "published_at": "Thu, 23 Jul 2026 07:26:14 +0700",
+    "createAt": "2026-07-23T00:26:14.000Z",
+    "thumbnail_blurhash": "LNH1lEIU}@%e~Vs:n$XlRjt7NFRj"
+  },
+  {
+    "id": "https://vnexpress.net/yamal-haaland-lap-ky-luc-gia-tri-cau-thu-5100601.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Yamal, Haaland lập kỷ lục giá trị cầu thủ",
+    "description": "Lamine Yamal và Erling Haaland trở thành những cầu thủ đầu tiên trong lịch sử vượt mốc 200 triệu euro (228 triệu USD) về giá trị thị trường.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/07/23/yamal-haaland-1784770463-9238-1784771238.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=1I5yb5mzRvAYTd_VXGcX-Q",
+    "link": "https://vnexpress.net/yamal-haaland-lap-ky-luc-gia-tri-cau-thu-5100601.html",
+    "published_at": "Thu, 23 Jul 2026 08:53:05 +0700",
+    "createAt": "2026-07-23T01:53:05.000Z",
+    "thumbnail_blurhash": "LMB|8J*0t8Q-Muv|n~S~Mva0axS4"
+  },
+  {
+    "id": "https://vnexpress.net/my-ky-thoa-thuan-hat-nhan-mo-duong-cho-arab-saudi-lam-giau-uranium-5100579.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Mỹ ký thỏa thuận hạt nhân, mở đường cho Arab Saudi làm giàu uranium",
+    "description": "Mỹ ký thỏa thuận mang tính bước ngoặt với Arab Saudi nhằm thiết lập chương trình hạt nhân dân sự, mở đường cho đồng minh vùng Vịnh làm giàu uranium.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/23/afpbg2g6-v1-highres-saudiusmid-6645-2761-1784769639.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=kiJt8YNIxeRq8WXMBxRPHQ",
+    "link": "https://vnexpress.net/my-ky-thoa-thuan-hat-nhan-mo-duong-cho-arab-saudi-lam-giau-uranium-5100579.html",
+    "published_at": "Thu, 23 Jul 2026 08:59:20 +0700",
+    "createAt": "2026-07-23T01:59:20.000Z",
+    "thumbnail_blurhash": "LFFPHN00~qIBtmIAkD-:D*Wnt7WV"
   }
 ]
