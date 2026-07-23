@@ -1220,5 +1220,31 @@
     "published_at": "Thu, 23 Jul 2026 18:08:31 +0700",
     "createAt": "2026-07-23T11:08:31.000Z",
     "thumbnail_blurhash": "LID_7_Xl00=|~WRj4.xu0LV@-pS~"
+  },
+  {
+    "id": "https://vnexpress.net/vi-sao-bo-me-khoe-manh-van-sinh-con-mac-benh-hiem-ngheo-5099609.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Vì sao bố mẹ khỏe mạnh vẫn sinh con mắc bệnh hiểm nghèo?",
+    "description": "Nhiều cặp vợ chồng sở hữu thể trạng hoàn toàn bình thường, gia đình không có tiền sử bệnh tật nhưng vẫn sinh con mắc các dị tật di truyền nghiêm trọng do gene lặn.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/20/a-nh-ma-n-hi-nh-lu-c-178454041-7800-4007-1784540525.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=blmlIBiCNe0_qwwgYI4G2g",
+    "link": "https://vnexpress.net/vi-sao-bo-me-khoe-manh-van-sinh-con-mac-benh-hiem-ngheo-5099609.html",
+    "published_at": "Thu, 23 Jul 2026 19:00:00 +0700",
+    "createAt": "2026-07-23T12:00:00.000Z",
+    "thumbnail_blurhash": "LDEVZ.IpI[_4KHRj9aI9ELw0rs%M"
+  },
+  {
+    "id": "https://vnexpress.net/mua-he-an-mang-cut-thay-rau-duoc-khong-5100880.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Mùa hè ăn măng cụt thay rau được không?",
+    "description": "Tôi nghe nói măng cụt rất giàu vitamin C, có thể ăn thay rau để tăng cường sức đề kháng được không? (Thanh Hậu, 52 tuổi, Nghệ An)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/23/qua-mang-cut-1784798085-7800-1784798194.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=zM95PbEaJtT7YYOhcWZWZg",
+    "link": "https://vnexpress.net/mua-he-an-mang-cut-thay-rau-duoc-khong-5100880.html",
+    "published_at": "Thu, 23 Jul 2026 19:00:00 +0700",
+    "createAt": "2026-07-23T12:00:00.000Z",
+    "thumbnail_blurhash": "LOJkAc?u^+VX_LxBohtQEJ$eWGtS"
   }
 ]
