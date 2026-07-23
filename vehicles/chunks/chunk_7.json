@@ -440,5 +440,31 @@
     "published_at": "Thu, 23 Jul 2026 07:15:00 +0700",
     "createAt": "2026-07-23T00:15:00.000Z",
     "thumbnail_blurhash": "L8Bg3q~q-:t700V@R%WA4TD%Rj-:"
+  },
+  {
+    "id": "https://vnexpress.net/oto-chuyen-huong-hat-bay-hai-co-gai-di-xe-may-5100575.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Ôtô chuyển hướng hất bay hai cô gái đi xe máy",
+    "description": "Ôtô chuyển hướng rẽ trái ở vòng xuyến ngay khi hai cô gái chở nhau trên xe máy đi tới, hôm 19/7 tại QL91C gần cửa khẩu Long Bình.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/23/ezgif3838930ec806bf93-17847684-9850-9159-1784768523.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=a_Mc5lOkOqW909OMCdZzlg&t=image",
+    "link": "https://vnexpress.net/oto-chuyen-huong-hat-bay-hai-co-gai-di-xe-may-5100575.html",
+    "published_at": "Thu, 23 Jul 2026 08:53:32 +0700",
+    "createAt": "2026-07-23T01:53:32.000Z",
+    "thumbnail_blurhash": "LyI}kt-;IUay~q%MM{of-;ofaexu"
+  },
+  {
+    "id": "https://vnexpress.net/sinotruk-va-tmt-group-phat-trien-to-hop-san-xuat-xe-thuong-mai-5100498.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Sinotruk và TMT Group phát triển tổ hợp sản xuất xe thương mại",
+    "description": "Hai doanh nghiệp ký biên bản ghi nhớ hợp tác, hướng đến nâng cấp mô hình sản xuất, lắp ráp xe thương mại năng lượng mới tại Việt Nam.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/22/1-1784718991-9004-1784719092.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=vTFOP-0vt4x6Ob3K6ZAoLA",
+    "link": "https://vnexpress.net/sinotruk-va-tmt-group-phat-trien-to-hop-san-xuat-xe-thuong-mai-5100498.html",
+    "published_at": "Thu, 23 Jul 2026 09:00:00 +0700",
+    "createAt": "2026-07-23T02:00:00.000Z",
+    "thumbnail_blurhash": "L_CthljwRpWEyZahaOflNZWAn}oe"
   }
 ]
