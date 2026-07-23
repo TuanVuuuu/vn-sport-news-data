@@ -921,5 +921,31 @@
     "published_at": "Thu, 23 Jul 2026 22:44:30 +0700",
     "createAt": "2026-07-23T15:44:30.000Z",
     "thumbnail_blurhash": "LFHv|^4T~VIV01?u4:of58jFRk%1"
+  },
+  {
+    "id": "https://vnexpress.net/tinh-tri-ky-cua-dien-vien-van-son-bao-liem-5097755.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Tình tri kỷ của diễn viên Vân Sơn, Bảo Liêm",
+    "description": "Diễn viên Vân Sơn nói biết ơn vì có Bảo Liêm làm tri kỷ, gắn bó từ thuở hàn vi đến khi cả hai có sự nghiệp nổi tiếng.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/07/17/van-son-bao-liem-top-1784280810.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=cgIPet5P5RKUCjOVV0I_Uw",
+    "link": "https://vnexpress.net/tinh-tri-ky-cua-dien-vien-van-son-bao-liem-5097755.html",
+    "published_at": "Fri, 24 Jul 2026 00:00:00 +0700",
+    "createAt": "2026-07-23T17:00:00.000Z",
+    "thumbnail_blurhash": "LbM?-*eT%%I;?woznixGgOo}V@jE"
+  },
+  {
+    "id": "https://vnexpress.net/loat-tranh-ruc-ro-nang-he-cua-danh-hoa-van-gogh-5100883.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Loạt tranh 'rực rỡ nắng hè' của danh họa Van Gogh",
+    "description": "Họa sĩ Van Gogh vẽ cánh đồng lúa mì trong nắng hè, người lao động dưới ánh hoàng hôn khi sống ở Arles, Pháp.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/07/23/the-harvest-1784797422.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=-EyCwy9KSLBwVChbIqum5Q",
+    "link": "https://vnexpress.net/loat-tranh-ruc-ro-nang-he-cua-danh-hoa-van-gogh-5100883.html",
+    "published_at": "Fri, 24 Jul 2026 00:00:00 +0700",
+    "createAt": "2026-07-23T17:00:00.000Z",
+    "thumbnail_blurhash": "L8F5yhoMbJ%1LgR+RkNH.RxVR+WY"
   }
 ]
