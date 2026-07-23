@@ -908,5 +908,44 @@
     "published_at": "Thu, 23 Jul 2026 08:53:25 +0700",
     "createAt": "2026-07-23T01:53:25.000Z",
     "thumbnail_blurhash": "L9A0UN9F0f~VyDM{RQxu^iR*9u%1"
+  },
+  {
+    "id": "https://vnexpress.net/4-van-de-suc-khoe-o-tre-duoi-hai-tuoi-cha-me-de-bo-qua-5100580.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "4 vấn đề sức khỏe ở trẻ dưới hai tuổi cha mẹ dễ bỏ qua",
+    "description": "Thiếu máu, bệnh tim bẩm sinh, suy giảm thị lực và thính lực thường diễn tiến âm thầm, có thể được phát hiện khi khám sức khỏe định kỳ.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/23/image001-1784772949-5302-1784773252.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=Qz5bSqoVOwy3K8R62HX7vA",
+    "link": "https://vnexpress.net/4-van-de-suc-khoe-o-tre-duoi-hai-tuoi-cha-me-de-bo-qua-5100580.html",
+    "published_at": "Thu, 23 Jul 2026 10:00:00 +0700",
+    "createAt": "2026-07-23T03:00:00.000Z",
+    "thumbnail_blurhash": "LSK_wb_3%f_4-n%3oztSD%s,t8of"
+  },
+  {
+    "id": "https://vnexpress.net/suy-tim-sau-10-nam-ho-van-tim-5100565.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Suy tim sau 10 năm hở van tim",
+    "description": "Ông Phát, 60 tuổi, hở van tim hơn 10 năm, nay khó thở, bác sĩ chẩn đoán suy tim nặng và phẫu thuật sửa van.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/23/image001-1784766296-8387-1784766391.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=0mdbhFDQorsvGtl8YBxM5A",
+    "link": "https://vnexpress.net/suy-tim-sau-10-nam-ho-van-tim-5100565.html",
+    "published_at": "Thu, 23 Jul 2026 10:00:00 +0700",
+    "createAt": "2026-07-23T03:00:00.000Z",
+    "thumbnail_blurhash": "LWKK$w?uo}~p59tR-qoyogt7oJD%"
+  },
+  {
+    "id": "https://vnexpress.net/bac-si-bach-mai-dung-da-dau-cuu-doi-chan-be-trai-bi-ran-ho-mang-can-5100640.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Bác sĩ Bạch Mai dùng da đầu cứu đôi chân bé trai bị rắn hổ mang cắn",
+    "description": "Các bác sĩ Bệnh viện Bạch Mai vừa ghép thành công da đầu để che phủ vết thương hoại tử toàn bộ chân trái cho bé trai 41 tháng tuổi bị rắn hổ mang cắn.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/23/pexelstitusfr24022825-17847766-5643-4079-1784776615.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=60KOtLXsHxQdX-0BLrgZtQ",
+    "link": "https://vnexpress.net/bac-si-bach-mai-dung-da-dau-cuu-doi-chan-be-trai-bi-ran-ho-mang-can-5100640.html",
+    "published_at": "Thu, 23 Jul 2026 10:17:25 +0700",
+    "createAt": "2026-07-23T03:17:25.000Z",
+    "thumbnail_blurhash": "LCAmPLRo00xt?HNHIVxZ00ax~Wf9"
   }
 ]
