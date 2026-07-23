@@ -1259,5 +1259,44 @@
     "published_at": "Thu, 23 Jul 2026 09:13:07 +0700",
     "createAt": "2026-07-23T02:13:07.000Z",
     "thumbnail_blurhash": "LGG8+OR;_2_2?wxrIU-Vxws*9ZtR"
+  },
+  {
+    "id": "https://vnexpress.net/hai-xa-ven-do-duoc-chon-thi-diem-mo-hinh-xa-phuong-xa-hoi-chu-nghia-5100300.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Hai xã ven đô được chọn thí điểm mô hình 'xã, phường xã hội chủ nghĩa'",
+    "description": "Được hình thành sau sắp xếp đơn vị hành chính, Phúc Thịnh và Thư Lâm là hai xã cửa ngõ phía bắc Hà Nội, có hạ tầng giao thông phát triển, dân số đông và tốc độ đô thị hóa nhanh.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/22/wm1-phucthinh1-1784692133-1784692615.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=IrW8F1oBAYd-xwwBr9Y8nQ",
+    "link": "https://vnexpress.net/hai-xa-ven-do-duoc-chon-thi-diem-mo-hinh-xa-phuong-xa-hoi-chu-nghia-5100300.html",
+    "published_at": "Thu, 23 Jul 2026 10:33:50 +0700",
+    "createAt": "2026-07-23T03:33:50.000Z",
+    "thumbnail_blurhash": "LNDcm$-m%2f$.Tj?M|WCtTWFoLof"
+  },
+  {
+    "id": "https://vnexpress.net/ap-thap-nhiet-doi-xuat-hien-gan-bien-dong-5100624.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Áp thấp nhiệt đới xuất hiện gần Biển Đông",
+    "description": "Áp thấp nhiệt đới ở phía đông Philippines đang theo hướng tây tây bắc, dự kiến mạnh lên thành bão trước khi tiến vào Biển Đông.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/23/anh-chup-man-hinh-luc-17847727-6086-7207-1784772785.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=pdLiCenoC643U4T7TKNwNA",
+    "link": "https://vnexpress.net/ap-thap-nhiet-doi-xuat-hien-gan-bien-dong-5100624.html",
+    "published_at": "Thu, 23 Jul 2026 11:06:10 +0700",
+    "createAt": "2026-07-23T04:06:10.000Z",
+    "thumbnail_blurhash": "LJA34KexV=sqjQr^VzWmV|bnjKaf"
+  },
+  {
+    "id": "https://vnexpress.net/csgt-phat-hien-hon-4-000-lai-xe-co-dau-hieu-lam-viec-qua-gio-5100715.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "CSGT phát hiện hơn 4.000 lái xe có dấu hiệu làm việc quá giờ",
+    "description": "Cục Cảnh sát giao thông phát hiện hơn 4.000 lái xe kinh doanh vận tải có dấu hiệu vi phạm thời gian làm việc qua hệ thống giám sát hành trình.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/23/753150543106309771605354627190-9779-1382-1784778311.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=qvqtCQHQIMXIsvH7Gjalzg",
+    "link": "https://vnexpress.net/csgt-phat-hien-hon-4-000-lai-xe-co-dau-hieu-lam-viec-qua-gio-5100715.html",
+    "published_at": "Thu, 23 Jul 2026 11:40:25 +0700",
+    "createAt": "2026-07-23T04:40:25.000Z",
+    "thumbnail_blurhash": "LLI59}Y8D$n19x%0adE100xA%NkY"
   }
 ]
