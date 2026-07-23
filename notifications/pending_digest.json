@@ -155,6 +155,32 @@
       "published_at": "Thu, 23 Jul 2026 18:57:51 +0700",
       "createAt": "2026-07-23T11:57:51.000Z",
       "thumbnail_blurhash": "LiJa$TbHrDv#xgoMRiWAPooyIpOE"
+    },
+    {
+      "id": "https://vnexpress.net/tai-xe-lung-tung-khi-csgt-kiem-tra-dung-cu-thoat-hiem-tren-xe-khach-5100821.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Tài xế lúng túng khi CSGT kiểm tra dụng cụ thoát hiểm trên xe khách",
+      "description": "Lực lượng chức năng kiểm tra hàng loạt xe khách trên Đại lộ Thăng Long, phát hiện nhiều phương tiện thiếu hoặc bố trí không đúng quy định búa phá kính, dây đai an toàn.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/23/topbua-1784792382-6068-1784792474.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=FwMjovZzq1nS8WGnEDxIzA",
+      "link": "https://vnexpress.net/tai-xe-lung-tung-khi-csgt-kiem-tra-dung-cu-thoat-hiem-tren-xe-khach-5100821.html",
+      "published_at": "Thu, 23 Jul 2026 19:45:49 +0700",
+      "createAt": "2026-07-23T12:45:49.000Z",
+      "thumbnail_blurhash": "LME1?:~C$xS+-;NzRjozXkJBWEbc"
+    },
+    {
+      "id": "https://vnexpress.net/bon-nha-toan-hoc-thang-giai-fields-2026-5100637.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Bốn nhà toán học thắng giải Fields 2026",
+      "description": "Ba trong 4 gương mặt thắng giải Fields 2026 từng giành huy chương vàng Toán, Tin quốc tế, hai người lớn lên ở Trung Quốc - là lần đầu tiên trong lịch sử.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/23/thumb-1784781945-5560-1784782034.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=HxsWOiiCD9pSxpOa1cf2aQ",
+      "link": "https://vnexpress.net/bon-nha-toan-hoc-thang-giai-fields-2026-5100637.html",
+      "published_at": "Thu, 23 Jul 2026 21:02:19 +0700",
+      "createAt": "2026-07-23T14:02:19.000Z",
+      "thumbnail_blurhash": "L9IO920000pJI9_M9G-;X:R5E2~C"
     }
   ]
 }
