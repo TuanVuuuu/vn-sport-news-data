@@ -141,5 +141,44 @@
     "published_at": "Thu, 23 Jul 2026 14:59:59 +0700",
     "createAt": "2026-07-23T07:59:59.000Z",
     "thumbnail_blurhash": "LZFa2nozayo#~Xj[ayoMxYj@ayj["
+  },
+  {
+    "id": "https://vnexpress.net/chung-khoan-tien-sat-moc-1-700-diem-5100613.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Chứng khoán tiến sát mốc 1.700 điểm",
+    "description": "Lực cầu của cổ phiếu trụ thuộc nhóm bất động sản và chứng khoán dẫn dắt thị trường phục hồi, VN-Index có phiên tăng điểm mạnh nhất một tháng qua.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/23/233a7815-1784794518-8111-1784794596.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=_--SseyfOKVkCfwE1uafcw",
+    "link": "https://vnexpress.net/chung-khoan-tien-sat-moc-1-700-diem-5100613.html",
+    "published_at": "Thu, 23 Jul 2026 16:05:35 +0700",
+    "createAt": "2026-07-23T09:05:35.000Z",
+    "thumbnail_blurhash": "LE854tD*8{~pDixu%MD%Ndt7r=S4"
+  },
+  {
+    "id": "https://vnexpress.net/elon-musk-de-ngo-viec-sap-nhap-spacex-va-tesla-5100849.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Elon Musk để ngỏ việc sáp nhập SpaceX và Tesla",
+    "description": "Người giàu nhất thế giới không phủ nhận khả năng sáp nhập hãng xe điện Tesla với SpaceX và cho biết hai công ty có nhiều hoạt động chồng lấn.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/23/2026t095346z-rc2kxka3n3xk-rtrm-2672-8927-1784797363.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=B1TeHDfr1YskJkn-GqCD0g",
+    "link": "https://vnexpress.net/elon-musk-de-ngo-viec-sap-nhap-spacex-va-tesla-5100849.html",
+    "published_at": "Thu, 23 Jul 2026 16:07:59 +0700",
+    "createAt": "2026-07-23T09:07:59.000Z",
+    "thumbnail_blurhash": "LLD]uYIo00~W.AxttSRiIo%L-;E1"
+  },
+  {
+    "id": "https://vnexpress.net/du-kien-kiem-tra-5-doanh-nghiep-kinh-doanh-vang-bac-kim-cuong-da-quy-5100839.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Dự kiến kiểm tra 5 doanh nghiệp kinh doanh vàng bạc, kim cương, đá quý",
+    "description": "Bộ Công Thương cho biết trong tháng 8 sẽ kiểm tra chuyên đề 5 doanh nghiệp kinh doanh vàng bạc, kim cương, đá quý, nhằm phục vụ công tác phòng, chống rửa tiền.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/23/nhmnhnh20260723lc154905-178479-4575-6125-1784796859.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=DIojxCUHZU1jAfZaDR2SIQ",
+    "link": "https://vnexpress.net/du-kien-kiem-tra-5-doanh-nghiep-kinh-doanh-vang-bac-kim-cuong-da-quy-5100839.html",
+    "published_at": "Thu, 23 Jul 2026 16:18:50 +0700",
+    "createAt": "2026-07-23T09:18:50.000Z",
+    "thumbnail_blurhash": "LMFY[d%1WFfS_4oJERM|lCbJV?bc"
   }
 ]
