@@ -1259,5 +1259,44 @@
     "published_at": "Fri, 24 Jul 2026 11:56:22 +0700",
     "createAt": "2026-07-24T04:56:22.000Z",
     "thumbnail_blurhash": "LdH-[TxtVEW=~pt8MdWVo#V@M|WU"
+  },
+  {
+    "id": "https://vnexpress.net/ha-vien-my-dong-y-doi-ten-bo-quoc-phong-thanh-bo-chien-tranh-5101223.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Hạ viện Mỹ đồng ý đổi tên Bộ Quốc phòng thành Bộ Chiến tranh",
+    "description": "Hạ viện Mỹ thông qua dự luật ngân sách quốc phòng 2027, trong đó có điều khoản đổi tên Bộ Quốc phòng thành Bộ Chiến tranh.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/24/bo-chien-tranh-jpg-1784880173-4806-1784880336.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=VhqP3tETwsI1mmkH4e1tBQ",
+    "link": "https://vnexpress.net/ha-vien-my-dong-y-doi-ten-bo-quoc-phong-thanh-bo-chien-tranh-5101223.html",
+    "published_at": "Fri, 24 Jul 2026 15:26:25 +0700",
+    "createAt": "2026-07-24T08:26:25.000Z",
+    "thumbnail_blurhash": "LFD*Uz-A9^E2}@oLR-RjEQWVofoL"
+  },
+  {
+    "id": "https://vnexpress.net/phap-so-tan-toan-bo-ban-dao-nghi-duong-vi-chay-rung-5101248.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Pháp sơ tán toàn bộ bán đảo nghỉ dưỡng vì cháy rừng",
+    "description": "Pháp lệnh sơ tán toàn bộ bán đảo Cap Ferret, điều động tàu thuyền đưa người dân và du khách rời khu vực đang bị đám cháy rừng lớn đe dọa.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/24/2026t231344z-rc2xjmasczwm-rtrm-7297-3033-1784880641.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Yb5axzZm8ZsCzXX9QgKt_g",
+    "link": "https://vnexpress.net/phap-so-tan-toan-bo-ban-dao-nghi-duong-vi-chay-rung-5101248.html",
+    "published_at": "Fri, 24 Jul 2026 15:38:49 +0700",
+    "createAt": "2026-07-24T08:38:49.000Z",
+    "thumbnail_blurhash": "LME0x~}WEO9^=v$$R+NI0%Eh$$$~"
+  },
+  {
+    "id": "https://vnexpress.net/anh-ve-tinh-trung-tam-amazon-nha-o-linh-my-trung-don-cua-iran-5101226.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Ảnh vệ tinh 'trung tâm Amazon, nhà ở lính Mỹ' trúng đòn của Iran",
+    "description": "Iran công bố ảnh vệ tinh chụp thiệt hại ở trung tâm dữ liệu Amazon và nhiều căn cứ Mỹ tại Trung Đông sau những vụ tập kích gần đây.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/24/5563187178137269166a-1784882636.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=LZPhOSw0hrMw6rl4H6zItg",
+    "link": "https://vnexpress.net/anh-ve-tinh-trung-tam-amazon-nha-o-linh-my-trung-don-cua-iran-5101226.html",
+    "published_at": "Fri, 24 Jul 2026 15:44:12 +0700",
+    "createAt": "2026-07-24T08:44:12.000Z",
+    "thumbnail_blurhash": "LBKd[3_N?uo#?bazM{a#E2oJ4nxu"
   }
 ]
