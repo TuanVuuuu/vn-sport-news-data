@@ -1,10 +1,11 @@
 {
-  "total_articles": 400,
+  "total_articles": 401,
   "files": [
     "chunk_1.json",
     "chunk_2.json",
     "chunk_3.json",
-    "chunk_4.json"
+    "chunk_4.json",
+    "chunk_5.json"
   ],
   "channel": {
     "title": "Thư giãn - VnExpress RSS",
@@ -13,7 +14,7 @@
     "copyright": "",
     "logo_url": "https://s.vnecdn.net/vnexpress/i/v20/logos/vne_logo_rss.png",
     "link": "https://vnexpress.net/rss/thu-gian.rss",
-    "last_updated": "Fri, 24 Jul 2026 14:30:56 +0700"
+    "last_updated": "Fri, 24 Jul 2026 15:40:46 +0700"
   },
-  "last_updated": "2026-07-24T09:20:41.644Z"
+  "last_updated": "2026-07-24T09:31:05.858Z"
 }
