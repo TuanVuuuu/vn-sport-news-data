@@ -960,5 +960,44 @@
     "published_at": "Fri, 24 Jul 2026 07:00:00 +0700",
     "createAt": "2026-07-24T00:00:00.000Z",
     "thumbnail_blurhash": "LJHU|S~q00s:%MM{IU%M00D%?bkC"
+  },
+  {
+    "id": "https://vnexpress.net/lg-swing-thiet-bi-giai-tri-xoay-da-huong-do-phan-giai-4k-5099449.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "LG Swing - thiết bị giải trí xoay đa hướng, độ phân giải 4K",
+    "description": "LG Swing kế thừa thiết bị StandbyME, nâng kích thước lên 31,5 inch, độ phân giải 4K, hỗ trợ xoay đa hướng, đáp ứng nhu cầu giải trí tại gia.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/23/image001-1784798871-8787-1784798982.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=g31pPrhFiGGpLw7gnxFvnQ",
+    "link": "https://vnexpress.net/lg-swing-thiet-bi-giai-tri-xoay-da-huong-do-phan-giai-4k-5099449.html",
+    "published_at": "Fri, 24 Jul 2026 08:00:00 +0700",
+    "createAt": "2026-07-24T01:00:00.000Z",
+    "thumbnail_blurhash": "LUJHp]WU_NkD?baetSWC?]ofVYof"
+  },
+  {
+    "id": "https://vnexpress.net/google-bi-chau-au-phat-mot-ty-usd-5100966.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Google bị châu Âu phạt một tỷ USD",
+    "description": "Ủy ban châu Âu (EC) phạt Alphabet, công ty mẹ của Google, 890 triệu euro (1 tỷ USD) vì ưu ái các dịch vụ của hãng và cản trở nhà phát triển ứng dụng trên Play Store.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/24/wm1-wm1-img-1784855371-3159-1784855744.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=_2qNypCOD4I8GxZpr8QIXg",
+    "link": "https://vnexpress.net/google-bi-chau-au-phat-mot-ty-usd-5100966.html",
+    "published_at": "Fri, 24 Jul 2026 08:34:44 +0700",
+    "createAt": "2026-07-24T01:34:44.000Z",
+    "thumbnail_blurhash": "LFC6u^Mz-ljaX=9ZIok9~qVr%1xZ"
+  },
+  {
+    "id": "https://vnexpress.net/ai-giup-giai-bai-toan-kho-ton-tai-gan-90-nam-5100336.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "AI giúp giải bài toán khó tồn tại gần 90 năm",
+    "description": "Levent Alpoge, nhà toán học 33 tuổi tại Đại học Harvard, thu hút chú ý khi công bố lời giải với AI hỗ trợ cho giả thuyết Jacobian trên X.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/22/screenshot20260610at1047899069-5926-2049-1784697885.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=ocF1myRw2aCQFnvE2BX1aw",
+    "link": "https://vnexpress.net/ai-giup-giai-bai-toan-kho-ton-tai-gan-90-nam-5100336.html",
+    "published_at": "Fri, 24 Jul 2026 09:00:00 +0700",
+    "createAt": "2026-07-24T02:00:00.000Z",
+    "thumbnail_blurhash": "LHRV|K~poI-:~pf6j[of~qRjNHof"
   }
 ]
