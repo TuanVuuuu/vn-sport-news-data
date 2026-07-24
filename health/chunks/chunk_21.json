@@ -492,5 +492,31 @@
     "published_at": "Fri, 24 Jul 2026 20:00:00 +0700",
     "createAt": "2026-07-24T13:00:00.000Z",
     "thumbnail_blurhash": "L6C=nu0C05]iPB}@#S0ND]$*xr-l"
+  },
+  {
+    "id": "https://vnexpress.net/sai-lam-khi-an-trung-lam-giam-dinh-duong-5100742.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Sai lầm khi ăn trứng làm giảm dinh dưỡng",
+    "description": "Chỉ ăn lòng trắng, ăn trứng sống, nấu quá kỹ, kết hợp với nhiều thịt chế biến là những thói quen có thể làm giảm lợi ích dinh dưỡng của thực phẩm này.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/23/trung-1784780698-7605-1784780713.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=uyPOe-Ygo_pN77r9t7mEeQ",
+    "link": "https://vnexpress.net/sai-lam-khi-an-trung-lam-giam-dinh-duong-5100742.html",
+    "published_at": "Sat, 25 Jul 2026 00:01:00 +0700",
+    "createAt": "2026-07-24T17:01:00.000Z",
+    "thumbnail_blurhash": "L9IE;B4T000M%hNGITxY01Iw~S-N"
+  },
+  {
+    "id": "https://vnexpress.net/di-ve-sinh-ngay-sau-khi-uong-nuoc-co-phai-than-yeu-5100609.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Đi vệ sinh ngay sau khi uống nước có phải thận yếu?",
+    "description": "Sau khi uống nước, tôi thường buồn đi vệ sinh, một ngày đi 7-10 lần, liệu có phải do thận yếu hay yếu sinh lý không?(Hoàng, 29 tuổi, Hà Nội).",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/23/uong-nuoc-1784815746-8171-1784817132.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=f3FIgxwWBIiDIK9ZjvhNtw",
+    "link": "https://vnexpress.net/di-ve-sinh-ngay-sau-khi-uong-nuoc-co-phai-than-yeu-5100609.html",
+    "published_at": "Sat, 25 Jul 2026 00:03:00 +0700",
+    "createAt": "2026-07-24T17:03:00.000Z",
+    "thumbnail_blurhash": "LRFEih~As+oepI%2s:R*WDxZt6a|"
   }
 ]
