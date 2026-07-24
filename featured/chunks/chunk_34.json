@@ -1259,5 +1259,44 @@
     "published_at": "Fri, 24 Jul 2026 07:19:41 +0700",
     "createAt": "2026-07-24T00:19:41.000Z",
     "thumbnail_blurhash": "LOF?68t8t6xu.ToKRia#t-e.o0bH"
+  },
+  {
+    "id": "https://vnexpress.net/gia-dau-the-gioi-vuot-100-usd-gia-vang-giam-manh-5101011.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Giá dầu thế giới vượt 100 USD, giá vàng giảm mạnh",
+    "description": "Căng thẳng Trung Đông leo thang nhanh chóng khiến giá dầu Brent hiện lên trên 100 USD, trong khi giá vàng mất mốc 4.100 USD.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/24/goldreu9-1784855144-1555-1784855194.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=u7OclJOqHgRmBseGkbfgMw",
+    "link": "https://vnexpress.net/gia-dau-the-gioi-vuot-100-usd-gia-vang-giam-manh-5101011.html",
+    "published_at": "Fri, 24 Jul 2026 08:12:53 +0700",
+    "createAt": "2026-07-24T01:12:53.000Z",
+    "thumbnail_blurhash": "LBBM=4d.%%$x00-?R3o#5GjWxtNK"
+  },
+  {
+    "id": "https://vnexpress.net/ha-vien-my-yeu-cau-ong-trump-cham-dut-chien-su-iran-thuong-vien-bac-bo-5101002.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Hạ viện Mỹ yêu cầu ông Trump chấm dứt chiến sự Iran, Thượng viện bác bỏ",
+    "description": "Hạ viện Mỹ thông qua nghị quyết yêu cầu Tổng thống Trump chấm dứt cuộc chiến với Iran, nhưng Thượng viện Mỹ bỏ phiếu bác bỏ.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/24/M-1784852775-7005-1784853133.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=FlD0LnlwKupaaQFBmIYu6w",
+    "link": "https://vnexpress.net/ha-vien-my-yeu-cau-ong-trump-cham-dut-chien-su-iran-thuong-vien-bac-bo-5101002.html",
+    "published_at": "Fri, 24 Jul 2026 08:37:36 +0700",
+    "createAt": "2026-07-24T01:37:36.000Z",
+    "thumbnail_blurhash": "LPCZ6F-oxvNG~VxZf,M|-TjERjM|"
+  },
+  {
+    "id": "https://vnexpress.net/duong-trung-tam-tp-hcm-giai-toa-mo-rong-gap-5-lan-5100328.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Đường trung tâm TP HCM giải tỏa, mở rộng gấp 5 lần",
+    "description": "Nhiều hộ dân trên đường Trần Bình Trọng, phường Vườn Lài đồng loạt tháo dỡ nhà, bàn giao mặt bằng phục vụ dự án mở rộng đường từ 5 m lên 23 m.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/23/wm1-dji-d_1784689551-1784796555.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=x091tr-4GyOG7ob3jBXxeA",
+    "link": "https://vnexpress.net/duong-trung-tam-tp-hcm-giai-toa-mo-rong-gap-5-lan-5100328.html",
+    "published_at": "Fri, 24 Jul 2026 09:00:00 +0700",
+    "createAt": "2026-07-24T02:00:00.000Z",
+    "thumbnail_blurhash": "LGDvo~.A-;xs?^.9%Mofo$ofRnRj"
   }
 ]
