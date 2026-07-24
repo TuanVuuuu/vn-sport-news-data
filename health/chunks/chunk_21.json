@@ -193,5 +193,31 @@
     "published_at": "Fri, 24 Jul 2026 11:00:00 +0700",
     "createAt": "2026-07-24T04:00:00.000Z",
     "thumbnail_blurhash": "LaG^P6xuD*x]~mtRx[a#$^WBRmay"
+  },
+  {
+    "id": "https://vnexpress.net/nhung-mon-thit-cang-an-nhieu-da-day-cang-keu-cuu-5100315.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Những món thịt càng ăn nhiều, dạ dày càng 'kêu cứu'",
+    "description": "Thịt nướng cháy xém, thịt nhiều mỡ hay thịt chế biến sẵn... là những sản phẩm không tốt cho sức khỏe, nên hạn chế ăn, theo chuyên gia.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/22/thnhphm-1784694003-7171-1784694028.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=nCKC50JdJbCu8E_s-Qha7w",
+    "link": "https://vnexpress.net/nhung-mon-thit-cang-an-nhieu-da-day-cang-keu-cuu-5100315.html",
+    "published_at": "Fri, 24 Jul 2026 12:00:00 +0700",
+    "createAt": "2026-07-24T05:00:00.000Z",
+    "thumbnail_blurhash": "L7CF;d~qE5.9%Mo#bIxuOFxv%M%M"
+  },
+  {
+    "id": "https://vnexpress.net/tra-xanh-va-nuoc-chanh-co-tot-cho-gan-5101006.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Trà xanh và nước chanh có tốt cho gan?",
+    "description": "Trà xanh và nước chanh đều giàu chất chống oxy hóa, ít đường, góp phần cung cấp nước cho cơ thể, hỗ trợ chức năng gan.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/24/generatedimageseptember0620251-1858-7273-1784850850.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=XwYU-A3061vRvE3u_yrETQ",
+    "link": "https://vnexpress.net/tra-xanh-va-nuoc-chanh-co-tot-cho-gan-5101006.html",
+    "published_at": "Fri, 24 Jul 2026 12:00:00 +0700",
+    "createAt": "2026-07-24T05:00:00.000Z",
+    "thumbnail_blurhash": "L9LzsXKl00~00000?pOu02X2_KT1"
   }
 ]
