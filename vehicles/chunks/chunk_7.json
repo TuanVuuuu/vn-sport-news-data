@@ -583,5 +583,44 @@
     "published_at": "Fri, 24 Jul 2026 06:00:00 +0700",
     "createAt": "2026-07-23T23:00:00.000Z",
     "thumbnail_blurhash": "L7DAJd00?]XkIS00?us:Na4o-q%3"
+  },
+  {
+    "id": "https://vnexpress.net/mg-khuyen-mai-hon-100-trieu-dong-xe-doi-2025-5100391.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "MG khuyến mãi hơn 100 triệu đồng xe đời 2025",
+    "description": "Tháng 7, nhiều dòng xe MG như ZS, MG5, HS, G50 khuyến mãi hàng chục đến hàng trăm triệu đồng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/22/mgzsvnexpress-1784710828-3344-1784711255.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=eekHpGuiXU8b1lMR7tLzKw",
+    "link": "https://vnexpress.net/mg-khuyen-mai-hon-100-trieu-dong-xe-doi-2025-5100391.html",
+    "published_at": "Thu, 23 Jul 2026 05:01:00 +0700",
+    "createAt": "2026-07-22T22:01:00.000Z",
+    "thumbnail_blurhash": "LCH2yYOR-:tl8yEKD%Ri~D.S-=9E"
+  },
+  {
+    "id": "https://vnexpress.net/hanh-trinh-nang-cap-ky-thuat-cua-toyota-innova-5094536.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Hành trình nâng cấp kỹ thuật của Toyota Innova",
+    "description": "Từ dòng xe nổi tiếng “ăn chắc mặc bền” với khung gầm sắt xi rời, Toyota trang bị nền tảng khung gầm liền khối hợp thời hơn cho Innova Cross.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/23/settop-1784791239-2659-1784791538.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=9dOIFYMgLO9xuzLfPqp5qg",
+    "link": "https://vnexpress.net/hanh-trinh-nang-cap-ky-thuat-cua-toyota-innova-5094536.html",
+    "published_at": "Fri, 24 Jul 2026 08:00:00 +0700",
+    "createAt": "2026-07-24T01:00:00.000Z",
+    "thumbnail_blurhash": "LwK2q@t7x]t8.Taen$j[E2oejEjZ"
+  },
+  {
+    "id": "https://vnexpress.net/vinfast-amio-s2-lua-chon-xe-may-dien-gia-mem-cho-hoc-sinh-5100643.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "VinFast Amio S2 - lựa chọn xe máy điện giá 'mềm' cho học sinh",
+    "description": "Xe máy điện lắp pin LFP 1,024 kWh, phạm vi hoạt động 65 km, tốc độ tối đa 25 km/h, cốp dung tích 12 lít, 5 màu lựa chọn.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/23/wm1-vinfast-amio-s2-vne-1784777154.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=cwvBZlpxN-jZJCG3MZueVw",
+    "link": "https://vnexpress.net/vinfast-amio-s2-lua-chon-xe-may-dien-gia-mem-cho-hoc-sinh-5100643.html",
+    "published_at": "Fri, 24 Jul 2026 08:35:39 +0700",
+    "createAt": "2026-07-24T01:35:39.000Z",
+    "thumbnail_blurhash": "L7H2lxE9~VIU0JD%4p9E8xD%s]~V"
   }
 ]
