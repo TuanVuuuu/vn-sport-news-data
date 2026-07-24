@@ -999,5 +999,18 @@
     "published_at": "Fri, 24 Jul 2026 09:00:00 +0700",
     "createAt": "2026-07-24T02:00:00.000Z",
     "thumbnail_blurhash": "LHRV|K~poI-:~pf6j[of~qRjNHof"
+  },
+  {
+    "id": "https://vnexpress.net/nghi-si-my-de-xuat-cong-tac-ngat-khan-cap-ai-5101032.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Nghị sĩ Mỹ đề xuất 'Công tắc ngắt khẩn cấp AI'",
+    "description": "Sau vụ mô hình OpenAI thoát vòng kiểm soát và đột nhập nền tảng Hugging Face, hai nghị sĩ Mỹ cho rằng cần có cơ chế công tắc ngắt khẩn cấp AI.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/24/openai-1784856297-4840-1784856309.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=rXOFwWgmXaNhKjRRvaWuLQ",
+    "link": "https://vnexpress.net/nghi-si-my-de-xuat-cong-tac-ngat-khan-cap-ai-5101032.html",
+    "published_at": "Fri, 24 Jul 2026 11:01:10 +0700",
+    "createAt": "2026-07-24T04:01:10.000Z",
+    "thumbnail_blurhash": "LiE-t{}xivNFN{NZR%f,E1Ioj[kW"
   }
 ]
