@@ -141,5 +141,57 @@
     "published_at": "Fri, 24 Jul 2026 09:00:00 +0700",
     "createAt": "2026-07-24T02:00:00.000Z",
     "thumbnail_blurhash": "LJNT?__4Em%N.T?cvyMwrp?aS%NH"
+  },
+  {
+    "id": "https://vnexpress.net/4-nguyen-lieu-quen-thuoc-chua-dau-nhuc-trong-gian-bep-5093078.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "4 nguyên liệu quen thuộc chữa đau nhức trong gian bếp",
+    "description": "Chuẩn bị gừng, sả, ngải cứu, muối hột rồi làm nóng trên lửa, cho vào túi lọc để chườm lên vùng cơ thể bị đau nhức, hỗ trợ thải độc, giảm đau.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/23/gemini-generated-image-k22icvk-6566-3744-1784817109.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=OmBGVm-jfXNCQeLFQMKsKQ",
+    "link": "https://vnexpress.net/4-nguyen-lieu-quen-thuoc-chua-dau-nhuc-trong-gian-bep-5093078.html",
+    "published_at": "Fri, 24 Jul 2026 10:00:00 +0700",
+    "createAt": "2026-07-24T03:00:00.000Z",
+    "thumbnail_blurhash": "L5D[|AB{01re.5pG4:8}04}]0201"
+  },
+  {
+    "id": "https://vnexpress.net/hit-phai-hoa-chat-co-nguy-co-di-tat-thai-nhi-5101104.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Hít phải hóa chất có nguy cơ dị tật thai nhi?",
+    "description": "Tôi 25 tuổi, đang mang thai, sống gần khu công nghiệp nên thường xuyên hít mùi hóa chất từ các nhà máy. Điều này có làm tăng nguy cơ dị tật thai nhi? (Thanh Nga, TP HCM)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/24/image001-1784863519-3105-1784863592.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=j_lfpZzP7P_A5TX16ogR6g",
+    "link": "https://vnexpress.net/hit-phai-hoa-chat-co-nguy-co-di-tat-thai-nhi-5101104.html",
+    "published_at": "Fri, 24 Jul 2026 11:00:00 +0700",
+    "createAt": "2026-07-24T04:00:00.000Z",
+    "thumbnail_blurhash": "LJMa6I9F4ojJ_Naer=Rk?Ap0tR%K"
+  },
+  {
+    "id": "https://vnexpress.net/uong-nuoc-chanh-co-giup-giam-trieu-chung-gout-5101044.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Uống nước chanh có giúp giảm triệu chứng gout?",
+    "description": "Tôi mắc bệnh gout, bạn bè khuyên uống nước chanh để cải thiện bệnh. Điều này có đúng không? (Đức Bùi, TP HCM)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/24/nu-o-c-chanh-jpeg-1784857589-8020-1784857596.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=lalegbq3UYOOAGn6Oq44ng",
+    "link": "https://vnexpress.net/uong-nuoc-chanh-co-giup-giam-trieu-chung-gout-5101044.html",
+    "published_at": "Fri, 24 Jul 2026 11:00:00 +0700",
+    "createAt": "2026-07-24T04:00:00.000Z",
+    "thumbnail_blurhash": "LtJuP|%2oLs:_4t7j[ayRjR%axj]"
+  },
+  {
+    "id": "https://vnexpress.net/mac-hai-benh-tuyen-giap-o-tuoi-15-5100999.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Mắc hai bệnh tuyến giáp ở tuổi 15",
+    "description": "Ethan, 15 tuổi, cổ to và đổi giọng, khó thở, tưởng do dậy thì song bác sĩ chẩn đoán mắc cường giáp kèm nang giáp lớn.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/24/a-nh-1784848648-4433-1784848832.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=WesPRQ1_gtmuvoIjDpwrEA",
+    "link": "https://vnexpress.net/mac-hai-benh-tuyen-giap-o-tuoi-15-5100999.html",
+    "published_at": "Fri, 24 Jul 2026 11:00:00 +0700",
+    "createAt": "2026-07-24T04:00:00.000Z",
+    "thumbnail_blurhash": "LaG^P6xuD*x]~mtRx[a#$^WBRmay"
   }
 ]
