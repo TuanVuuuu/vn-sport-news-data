@@ -310,5 +310,57 @@
     "published_at": "Fri, 24 Jul 2026 08:00:00 +0700",
     "createAt": "2026-07-24T01:00:00.000Z",
     "thumbnail_blurhash": "LWJafnSit7oM}@s8S4t6^+ROnhoe"
+  },
+  {
+    "id": "https://vnexpress.net/thiet-ke-can-bang-tinh-rieng-tu-va-ket-noi-tai-the-6-villas-5101028.html",
+    "category_id": "real-estate",
+    "category_name": "Bất động sản",
+    "source": "VnExpress",
+    "title": "Thiết kế cân bằng tính riêng tư và kết nối tại The 6 Villas",
+    "description": "The 6 Villas được Kusto Home phát triển theo hướng cân bằng không gian riêng tư và sự gắn kết của gia đình đa thế hệ qua thiết kế phân tầng, tiện ích wellness và quy mô giới hạn.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/24/a2-new-1784855949-1946-1784856645.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=sERH8v0yUNPAYxy1_S5QRw",
+    "link": "https://vnexpress.net/thiet-ke-can-bang-tinh-rieng-tu-va-ket-noi-tai-the-6-villas-5101028.html",
+    "published_at": "Fri, 24 Jul 2026 09:00:00 +0700",
+    "createAt": "2026-07-24T02:00:00.000Z",
+    "thumbnail_blurhash": "LNJacW$*D*aK~VbcIo%L-;%2e-NG"
+  },
+  {
+    "id": "https://vnexpress.net/wow-town-artisan-park-theo-duoi-mo-hinh-pho-thuong-mai-da-trai-nghiem-5100817.html",
+    "category_id": "real-estate",
+    "category_name": "Bất động sản",
+    "source": "VnExpress",
+    "title": "Wow Town Artisan Park theo đuổi mô hình phố thương mại đa trải nghiệm",
+    "description": "Song song hoạt động bán lẻ, khu phố thương mại theo mô hình Wow Town tại Artisan Park định hướng phát triển không gian mở, hướng đến khả năng duy trì dòng khách và nhịp sinh hoạt đô thị phía Bắc TP HCM.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/23/settop1-1784797143-9123-1784799541.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=IfA-3zdHjw2sq3vcQqutYw",
+    "link": "https://vnexpress.net/wow-town-artisan-park-theo-duoi-mo-hinh-pho-thuong-mai-da-trai-nghiem-5100817.html",
+    "published_at": "Fri, 24 Jul 2026 09:00:00 +0700",
+    "createAt": "2026-07-24T02:00:00.000Z",
+    "thumbnail_blurhash": "LsK-IARp%1xa~qNKt7t7yES1NekW"
+  },
+  {
+    "id": "https://vnexpress.net/tp-hcm-giao-them-dat-cho-doanh-nghiep-lam-khu-do-thi-gan-46-ha-5101026.html",
+    "category_id": "real-estate",
+    "category_name": "Bất động sản",
+    "source": "VnExpress",
+    "title": "TP HCM giao thêm đất cho doanh nghiệp làm khu đô thị gần 46 ha",
+    "description": "UBND TP HCM giao hơn 8.000 m2 đất cho Công ty Cổ phần Đầu tư và Phát triển Santosa để hoàn thiện quỹ đất triển khai Khu đô thị sinh thái Đại An quy mô gần 46 ha tại xã Long Điền.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/24/dai-an-jpeg-1784854929-4825-1784854968.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=WxxYtVvKswUp0URhi5oq2Q",
+    "link": "https://vnexpress.net/tp-hcm-giao-them-dat-cho-doanh-nghiep-lam-khu-do-thi-gan-46-ha-5101026.html",
+    "published_at": "Fri, 24 Jul 2026 10:21:01 +0700",
+    "createAt": "2026-07-24T03:21:01.000Z",
+    "thumbnail_blurhash": "LSDT9O%hbcxu?wt8ofxu%goIxakD"
+  },
+  {
+    "id": "https://vnexpress.net/de-xuat-quan-ly-hoat-dong-kinh-doanh-dat-nen-ngoai-du-an-5100712.html",
+    "category_id": "real-estate",
+    "category_name": "Bất động sản",
+    "source": "VnExpress",
+    "title": "Đề xuất quản lý hoạt động kinh doanh đất nền ngoài dự án",
+    "description": "HoREA đề xuất đưa hoạt động phân lô, bán nền ngoài các dự án bất động sản vào Luật Kinh doanh bất động sản nhằm bịt khoảng trống pháp lý, hạn chế hành vi trục lợi.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/24/dji-d-1784856112-7303-1784856127.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=VCTMVjRfB6vCXNZDzbaquQ",
+    "link": "https://vnexpress.net/de-xuat-quan-ly-hoat-dong-kinh-doanh-dat-nen-ngoai-du-an-5100712.html",
+    "published_at": "Fri, 24 Jul 2026 10:25:09 +0700",
+    "createAt": "2026-07-24T03:25:09.000Z",
+    "thumbnail_blurhash": "LEAm;#-;j=oyk@NGa~WB.Axat7t7"
   }
 ]
