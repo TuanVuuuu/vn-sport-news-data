@@ -219,5 +219,31 @@
     "published_at": "Fri, 24 Jul 2026 12:00:00 +0700",
     "createAt": "2026-07-24T05:00:00.000Z",
     "thumbnail_blurhash": "L9LzsXKl00~00000?pOu02X2_KT1"
+  },
+  {
+    "id": "https://vnexpress.net/dau-hieu-canh-bao-tre-day-thi-som-5101168.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Dấu hiệu cảnh báo trẻ dậy thì sớm",
+    "description": "Phát triển tuyến vú, tinh hoàn, tăng chiều cao nhanh bất thường, nổi mụn trứng cá có thể là những dấu hiệu cảnh báo trẻ dậy thì sớm.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/24/image001-1784867694-4940-1784867738.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=cUfK92cC0sajWMnCYVoEag",
+    "link": "https://vnexpress.net/dau-hieu-canh-bao-tre-day-thi-som-5101168.html",
+    "published_at": "Fri, 24 Jul 2026 12:30:00 +0700",
+    "createAt": "2026-07-24T05:30:00.000Z",
+    "thumbnail_blurhash": "LiKnoBIUD%WB~qozj?M{t6oeoMR+"
+  },
+  {
+    "id": "https://vnexpress.net/hon-1-000-nguoi-dan-tp-hcm-duoc-kham-suc-khoe-dinh-ky-mien-phi-tai-nha-5101127.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Hơn 1.000 người dân TP HCM được khám sức khỏe định kỳ miễn phí tại nhà",
+    "description": "Hơn 1.000 người không có khả năng đi lại tại TP HCM đã được nhân viên y tế đến tận nhà khám sức khỏe định kỳ và lập hồ sơ sức khỏe điện tử.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/24/xa-hiep-phuoc-1784867000-9364-1784867021.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=liR4A3w1GQZ5aYI57TKDXg",
+    "link": "https://vnexpress.net/hon-1-000-nguoi-dan-tp-hcm-duoc-kham-suc-khoe-dinh-ky-mien-phi-tai-nha-5101127.html",
+    "published_at": "Fri, 24 Jul 2026 13:28:48 +0700",
+    "createAt": "2026-07-24T06:28:48.000Z",
+    "thumbnail_blurhash": "L9Gbk*00^-5XB@00OF%6yExww}yC"
   }
 ]
