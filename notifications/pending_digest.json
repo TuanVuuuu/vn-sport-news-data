@@ -1,3 +1,56 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/houthi-tuyen-bo-phong-ten-lua-tra-dua-arab-saudi-5101583.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Houthi tuyên bố phóng tên lửa trả đũa Arab Saudi",
+      "description": "Houthi thông báo đã phóng tên lửa vào Arab Saudi để đáp trả sau khi liên minh do Riyadh dẫn đầu tập kích nhóm vũ trang.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/25/TnlaHouthi-1784973468-5530-1784973969.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=JQl5iOaeEHPvyFkF3RVAxw",
+      "link": "https://vnexpress.net/houthi-tuyen-bo-phong-ten-lua-tra-dua-arab-saudi-5101583.html",
+      "published_at": "Sat, 25 Jul 2026 17:18:40 +0700",
+      "createAt": "2026-07-25T10:18:40.000Z",
+      "thumbnail_blurhash": "L~Fi_vofozof.At8ofWBW?o#WAax"
+    },
+    {
+      "id": "https://vnexpress.net/kho-hang-chay-ngun-ngut-trong-khu-dan-cu-tp-hcm-5101608.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Kho hàng cháy ngùn ngụt trong khu dân cư TP HCM",
+      "description": "Kho chứa bao bì và hàng đông lạnh rộng hơn 600 m2 ở phường Bình Hưng (quận 8 cũ) bốc cháy dữ dội, khiến một phần mái tôn đổ sập, chiều 25/7.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/25/wm1aoboqms0fcngtbnxdjny9zgl2-1-9463-1856-1784977769.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=IJeGjfanwcQ-qfHOc-jhMg",
+      "link": "https://vnexpress.net/kho-hang-chay-ngun-ngut-trong-khu-dan-cu-tp-hcm-5101608.html",
+      "published_at": "Sat, 25 Jul 2026 18:01:25 +0700",
+      "createAt": "2026-07-25T11:01:25.000Z",
+      "thumbnail_blurhash": "LBGbr2Dj0J?a.9R+4n?b~qITM{oz"
+    },
+    {
+      "id": "https://vnexpress.net/hung-yen-duoc-dinh-huong-len-thanh-pho-truc-thuoc-trung-uong-truoc-nam-2030-5101573.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Hưng Yên được định hướng lên thành phố trực thuộc Trung ương trước năm 2030",
+      "description": "Phó thủ tướng yêu cầu tỉnh Hưng Yên đẩy nhanh tiến độ lập quy hoạch đô thị và nông thôn, đáp ứng phát triển đa mục tiêu, phấn đấu lên thành phố trực thuộc Trung ương trước năm 2030.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/25/edit-bai-1784968113-8534-1784968265.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=RVdK0SLWPuPRY7PH_OO3kg",
+      "link": "https://vnexpress.net/hung-yen-duoc-dinh-huong-len-thanh-pho-truc-thuoc-trung-uong-truoc-nam-2030-5101573.html",
+      "published_at": "Sat, 25 Jul 2026 18:22:05 +0700",
+      "createAt": "2026-07-25T11:22:05.000Z",
+      "thumbnail_blurhash": "LhFZQZxa$*%2u6WWWVWq-?azNaaz"
+    },
+    {
+      "id": "https://vnexpress.net/du-kien-bo-thoi-han-toi-da-12-thang-uy-quyen-nhan-luong-huu-5101610.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Dự kiến bỏ thời hạn tối đa 12 tháng ủy quyền nhận lương hưu",
+      "description": "Bộ Nội vụ đề xuất người hưởng lương hưu, chế độ bảo hiểm xã hội (BHXH) vẫn làm văn bản ủy quyền song bỏ thời hạn tối đa 12 tháng.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/25/IMG9165JPG-1784976823-5514-1784976921.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=GnRa6jMS63DX0rHzuLvylw",
+      "link": "https://vnexpress.net/du-kien-bo-thoi-han-toi-da-12-thang-uy-quyen-nhan-luong-huu-5101610.html",
+      "published_at": "Sat, 25 Jul 2026 18:31:42 +0700",
+      "createAt": "2026-07-25T11:31:42.000Z",
+      "thumbnail_blurhash": "LGE{R?^P_N4-_3s9tSNY9qEKRlxv"
+    }
+  ]
 }
