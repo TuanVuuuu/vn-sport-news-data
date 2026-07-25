@@ -1,32 +1,6 @@
 {
   "entries": [
     {
-      "sent_at": "2026-07-20T23:40:55.151Z",
-      "topic": null,
-      "device_id": "2F788787-BBE7-4E5E-AA09-BC5E8401B0D6",
-      "slot": "morning",
-      "type": "featured_digest",
-      "article_ids": [
-        "https://vnexpress.net/gan-1900-truong-cong-o-tp-hcm-thuoc-dien-sap-xep-sap-nhap-5099492.html",
-        "https://vnexpress.net/cuoc-song-tam-cu-cua-800-nguoi-sau-lu-o-muong-than-5099614.html",
-        "https://vnexpress.net/nguyen-bi-thu-bac-giang-bui-van-hai-bi-cach-tat-ca-chuc-vu-dang-5099418.html",
-        "https://vnexpress.net/trung-uong-ban-quan-diem-sua-luat-dat-dai-5099647.html",
-        "https://vnexpress.net/iran-tuyen-bo-chien-tranh-tong-luc-voi-my-5099648.html",
-        "https://vnexpress.net/fifa-dieu-tra-argentina-vu-au-da-o-chung-ket-world-cup-2026-5099662.html",
-        "https://vnexpress.net/argentina-bi-chi-trich-vi-quay-lung-khi-tay-ban-nha-nang-cup-5099669.html",
-        "https://vnexpress.net/muong-than-guong-day-sau-lu-quet-5099678.html",
-        "https://vnexpress.net/ta-hien-doi-lang-tu-phong-luu-5099634.html",
-        "https://vnexpress.net/quy-hoach-mang-luoi-cao-toc-viet-nam-5099510.html",
-        "https://vnexpress.net/nghe-si-thanh-tuan-tai-xuat-sau-bao-benh-5099688.html",
-        "https://vnexpress.net/con-thinh-no-cua-phe-sieu-cung-ran-iran-voi-nhom-chu-hoa-5099530.html",
-        "https://vnexpress.net/nghich-ly-khi-tay-ban-nha-vo-dich-world-cup-2026-5099700.html",
-        "https://vnexpress.net/cuoc-khung-hoang-mat-gia-tri-sau-ngay-nghi-huu-5096019.html",
-        "https://vnexpress.net/quy-trinh-kiem-dinh-kim-cuong-dien-ra-nhu-the-nao-5099674.html",
-        "https://vnexpress.net/rung-san-ho-tung-bi-du-khach-xam-hai-o-bien-hon-chong-5099637.html"
-      ],
-      "highlight_id": "https://vnexpress.net/rung-san-ho-tung-bi-du-khach-xam-hai-o-bien-hon-chong-5099637.html"
-    },
-    {
       "sent_at": "2026-07-20T23:40:55.668Z",
       "topic": null,
       "device_id": "A11EB203-9671-4F19-AEE7-2B068733177A",
@@ -15030,6 +15004,24 @@
         "https://vnexpress.net/gan-1-500-hai-cot-liet-si-duoc-quy-tap-sau-4-thang-5101407.html"
       ],
       "highlight_id": "https://vnexpress.net/gan-1-500-hai-cot-liet-si-duoc-quy-tap-sau-4-thang-5101407.html"
+    },
+    {
+      "sent_at": "2026-07-25T08:40:47.688Z",
+      "topic": null,
+      "device_id": "eca79c2698bd5223",
+      "slot": "noon",
+      "type": "featured_digest",
+      "article_ids": [
+        "https://vnexpress.net/khoanh-khac-ten-lua-patriot-quay-dau-bo-nhao-xuong-dat-5101474.html",
+        "https://vnexpress.net/no-luc-dung-lai-hang-rao-thue-quan-cua-ong-trump-5101452.html",
+        "https://vnexpress.net/30-ngay-dem-tim-lai-ten-cho-cac-liet-si-tai-hang-tam-co-5101099.html",
+        "https://vnexpress.net/hieu-dung-ly-giai-cua-csgt-ve-su-dung-lan-trai-cao-toc-5101522.html",
+        "https://vnexpress.net/tuan-toi-te-cua-cuu-nghin-ty-phu-elon-musk-5101520.html",
+        "https://vnexpress.net/hlv-indonesia-asean-cup-de-thu-lua-world-cup-moi-la-dich-den-5101541.html",
+        "https://vnexpress.net/ong-trump-doi-chuyen-co-sau-hoi-nghi-nato-co-the-vi-moi-de-doa-ten-lua-5101524.html",
+        "https://vnexpress.net/ong-do-thanh-binh-lam-bi-thu-thanh-uy-can-tho-5101552.html"
+      ],
+      "highlight_id": "https://vnexpress.net/ong-do-thanh-binh-lam-bi-thu-thanh-uy-can-tho-5101552.html"
     }
   ]
 }
