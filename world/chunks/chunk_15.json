@@ -362,5 +362,31 @@
     "published_at": "Sat, 25 Jul 2026 17:18:40 +0700",
     "createAt": "2026-07-25T10:18:40.000Z",
     "thumbnail_blurhash": "L~Fi[oofozof.At8ofWBW?o#WAax"
+  },
+  {
+    "id": "https://vnexpress.net/ong-trump-dan-can-hy-vong-dam-phan-voi-iran-5101237.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Ông Trump dần cạn hy vọng đàm phán với Iran",
+    "description": "Sau nhiều tháng theo đuổi giải pháp ngoại giao, ông Trump dường như dần mất niềm tin vào việc đạt được thỏa thuận với Iran và nghiêng về giải pháp quân sự cứng rắn.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/24/ap26203826522100-1784886749-8572-1784887767.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=lOlYSfeXQpCk2-1tAHKygA",
+    "link": "https://vnexpress.net/ong-trump-dan-can-hy-vong-dam-phan-voi-iran-5101237.html",
+    "published_at": "Sat, 25 Jul 2026 19:00:00 +0700",
+    "createAt": "2026-07-25T12:00:00.000Z",
+    "thumbnail_blurhash": "LJ42TFncSoWZs=j;W9WXR+a}jYay"
+  },
+  {
+    "id": "https://vnexpress.net/bo-truong-giao-duc-an-do-tu-chuc-sau-be-boi-lo-de-thi-5101618.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Bộ trưởng Giáo dục Ấn Độ từ chức sau bê bối lộ đề thi",
+    "description": "Bộ trưởng Giáo dục Ấn Độ Pradhan từ chức sau làn sóng biểu tình yêu cầu ông chịu trách nhiệm với bê bối lộ đề trong kỳ tuyển sinh đại học y quốc gia.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/25/n-1784979360-2086-1784979362.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=KG5xa0E2tniag1dXvKAlTg",
+    "link": "https://vnexpress.net/bo-truong-giao-duc-an-do-tu-chuc-sau-be-boi-lo-de-thi-5101618.html",
+    "published_at": "Sat, 25 Jul 2026 19:01:11 +0700",
+    "createAt": "2026-07-25T12:01:11.000Z",
+    "thumbnail_blurhash": "LGG8o:-:00I94TM_~px]%JIVV@tS"
   }
 ]
