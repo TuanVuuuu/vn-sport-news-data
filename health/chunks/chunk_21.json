@@ -557,5 +557,70 @@
     "published_at": "Sat, 25 Jul 2026 06:00:00 +0700",
     "createAt": "2026-07-24T23:00:00.000Z",
     "thumbnail_blurhash": "LBJ83800IV-SS*?wM{D*02?wWYM{"
+  },
+  {
+    "id": "https://vnexpress.net/hep-ba-mach-mau-nuoi-tim-5101390.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Hẹp ba mạch máu nuôi tim",
+    "description": "Ông Vũ, 57 tuổi, đau tức ngực kèm khó thở, đau tăng khi vận động, bác sĩ phát hiện hẹp khít cả ba nhánh mạch vành.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/24/image001-1784900972-8583-1784901095.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=AkCWWUQsP14WAt2fkJaHdg",
+    "link": "https://vnexpress.net/hep-ba-mach-mau-nuoi-tim-5101390.html",
+    "published_at": "Sat, 25 Jul 2026 08:00:00 +0700",
+    "createAt": "2026-07-25T01:00:00.000Z",
+    "thumbnail_blurhash": "LYMH_dEAIW%M~o${oa%L_LbVt7Rj"
+  },
+  {
+    "id": "https://vnexpress.net/tre-an-dau-phu-uong-sua-dau-nanh-co-day-thi-som-5101388.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Trẻ ăn đậu phụ, uống sữa đậu nành có dậy thì sớm?",
+    "description": "Con tôi 8 tuổi, rất thích ăn đậu phụ và uống sữa đậu nành. Tôi nghe nói đậu nành chứa estrogen, bé ăn nhiều có thể bị dậy thì sớm, điều này có đúng? (Minh Anh, Hà Nội)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/25/image001-1784939267-7830-1784939751.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=ew5aL_1REAyZmSiNpxaZ6g",
+    "link": "https://vnexpress.net/tre-an-dau-phu-uong-sua-dau-nanh-co-day-thi-som-5101388.html",
+    "published_at": "Sat, 25 Jul 2026 08:00:00 +0700",
+    "createAt": "2026-07-25T01:00:00.000Z",
+    "thumbnail_blurhash": "LmIq_qD*E1sl~qt7M{Rjxs%MjZWB"
+  },
+  {
+    "id": "https://vnexpress.net/me-bau-an-gi-phong-tieu-duong-thai-ky-5101291.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Mẹ bầu ăn gì phòng tiểu đường thai kỳ?",
+    "description": "Tôi đang mang thai 20 tuần, thích ăn đồ ngọt nhưng lo tiểu đường thai kỳ? Tôi nên ăn uống thế nào để phòng tránh? (Vy Thanh, 29 tuổi)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/24/456209100-n-1784882473-8802-1784882536.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=8_gOdueT1KtpOBqTdt7Yug",
+    "link": "https://vnexpress.net/me-bau-an-gi-phong-tieu-duong-thai-ky-5101291.html",
+    "published_at": "Sat, 25 Jul 2026 08:00:00 +0700",
+    "createAt": "2026-07-25T01:00:00.000Z",
+    "thumbnail_blurhash": "LIHm}Q}A3W0}L8tkD*OEK}I:$+iy"
+  },
+  {
+    "id": "https://vnexpress.net/bac-si-chi-ra-dau-hieu-u-tuyen-giap-de-bo-qua-5101286.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Bác sĩ chỉ ra dấu hiệu u tuyến giáp dễ bỏ qua",
+    "description": "Khàn tiếng kéo dài, sờ thấy khối cộm ở cổ, nuốt nghẹn là dấu hiệu u tuyến giáp nhưng dễ nhầm lẫn với bệnh mũi họng, trào ngược dạ dày thực quản.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/25/dsc00082-crop-jpg-1784940159-9609-1784940449.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=JUZx8i1MxCJjN0Llj1wIMw",
+    "link": "https://vnexpress.net/bac-si-chi-ra-dau-hieu-u-tuyen-giap-de-bo-qua-5101286.html",
+    "published_at": "Sat, 25 Jul 2026 08:00:00 +0700",
+    "createAt": "2026-07-25T01:00:00.000Z",
+    "thumbnail_blurhash": "LYK_B{_NM{-p%foLoMf,?aD$M{t7"
+  },
+  {
+    "id": "https://vnexpress.net/thit-da-ra-dong-co-nen-tru-lanh-lai-5101393.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Thịt đã rã đông có nên trữ lạnh lại?",
+    "description": "Sau khi rã đông, tôi thấy lượng thịt nhiều thì có thể bỏ bớt một nửa vào tủ trữ đông lại được không và nên trữ thế nào để không gây hại?(Hoa, 29 tuổi, Hà Nội).",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/24/a-nh-ma-n-hi-nh-lu-c-178490330-8920-1598-1784904178.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=4zTi18siCi5fO9-oi7GoPA",
+    "link": "https://vnexpress.net/thit-da-ra-dong-co-nen-tru-lanh-lai-5101393.html",
+    "published_at": "Sat, 25 Jul 2026 08:18:47 +0700",
+    "createAt": "2026-07-25T01:18:47.000Z",
+    "thumbnail_blurhash": "LRHeON~p%gbcx]t6tRfkX8WCR*oL"
   }
 ]
