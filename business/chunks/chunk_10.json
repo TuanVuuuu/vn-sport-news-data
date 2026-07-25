@@ -466,5 +466,31 @@
     "published_at": "Sat, 25 Jul 2026 06:00:00 +0700",
     "createAt": "2026-07-24T23:00:00.000Z",
     "thumbnail_blurhash": "LGB;2,00~VITt8M|xuRjozjcRPtR"
+  },
+  {
+    "id": "https://vnexpress.net/loat-nha-may-pin-mat-troi-an-do-dong-cua-vi-thieu-linh-kien-trung-quoc-5101508.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Loạt nhà máy pin mặt trời Ấn Độ đóng cửa vì thiếu linh kiện Trung Quốc",
+    "description": "Một phần ba doanh nghiệp pin mặt trời Ấn Độ ngừng sản xuất, do không thể tìm được nguồn cell pin nội địa thay thế lượng nhập khẩu từ Trung Quốc.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/25/2026t125700z-rc2157a7g02x-rtrm-5947-3268-1784951753.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=SGqEPFXRINGQnefxtwFhIg",
+    "link": "https://vnexpress.net/loat-nha-may-pin-mat-troi-an-do-dong-cua-vi-thieu-linh-kien-trung-quoc-5101508.html",
+    "published_at": "Sat, 25 Jul 2026 11:24:41 +0700",
+    "createAt": "2026-07-25T04:24:41.000Z",
+    "thumbnail_blurhash": "LeD+;]ogRjt6~qbIWBof^+oLa}a}"
+  },
+  {
+    "id": "https://vnexpress.net/no-luc-dung-lai-hang-rao-thue-quan-cua-ong-trump-5101452.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Nỗ lực dựng lại hàng rào thuế quan của ông Trump",
+    "description": "4 tháng sau khi bị Tòa án Tối cao bác bỏ thuế đối ứng, Tổng thống Trump liên tiếp áp thêm thuế nhập khẩu mới với các đối tác thương mại.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/25/AFP-20260713-C23Y7D2-v2-HighRe-8302-5494-1784953327.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=lFNxynuKCfhnWt0GUCiD6Q",
+    "link": "https://vnexpress.net/no-luc-dung-lai-hang-rao-thue-quan-cua-ong-trump-5101452.html",
+    "published_at": "Sat, 25 Jul 2026 11:50:42 +0700",
+    "createAt": "2026-07-25T04:50:42.000Z",
+    "thumbnail_blurhash": "LEC$7i%10LkV~BR-M~%2$%R+X9t7"
   }
 ]
