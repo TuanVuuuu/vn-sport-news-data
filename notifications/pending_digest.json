@@ -1,3 +1,43 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/tuan-toi-te-cua-cuu-ty-phu-nghin-ty-elon-musk-5101520.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Tuần tồi tệ của cựu tỷ phú nghìn tỷ Elon Musk",
+      "description": "Cổ phiếu Tesla và SpaceX cùng lao dốc khiến tài sản người giàu nhất thế giới bốc hơi 130 tỷ USD chỉ trong một tuần.",
+      "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/25/2023-10-05T202538Z-1025299644-6947-7391-1784958867.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=nAtp0nl7mt9oZyBPK29pTg",
+      "link": "https://vnexpress.net/tuan-toi-te-cua-cuu-ty-phu-nghin-ty-elon-musk-5101520.html",
+      "published_at": "Sat, 25 Jul 2026 13:05:38 +0700",
+      "createAt": "2026-07-25T06:05:38.000Z",
+      "thumbnail_blurhash": "LD83^kE10e~BRikCo#aeI:oL$*Na"
+    },
+    {
+      "id": "https://vnexpress.net/viet-nam-len-tieng-ve-viec-my-ap-muc-thue-moi-12-5-5101563.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Việt Nam lên tiếng về việc Mỹ áp mức thuế mới 12,5%",
+      "description": "Bộ Ngoại giao cho biết việc Mỹ áp thuế mới 12,5% theo Mục 301 chưa phản ánh đầy đủ nỗ lực của Việt Nam trong phòng ngừa, giảm thiểu lao động cưỡng bức.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/25/BPhmThuHng-1784964323-4318-1784964761.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=VQpLVefFCNvVnNmug8FNkQ",
+      "link": "https://vnexpress.net/viet-nam-len-tieng-ve-viec-my-ap-muc-thue-moi-12-5-5101563.html",
+      "published_at": "Sat, 25 Jul 2026 14:47:51 +0700",
+      "createAt": "2026-07-25T07:47:51.000Z",
+      "thumbnail_blurhash": "LSN9FP3E+E~KNNxH%zrVaAo[V?iy"
+    },
+    {
+      "id": "https://vnexpress.net/tai-xe-xe-dau-keo-thong-hang-loat-chot-canh-sat-bo-chay-130-km-5101570.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Tài xế xe đầu kéo 'thông' hàng loạt chốt cảnh sát, bỏ chạy 130 km",
+      "description": "Bùi Văn Bảo không chấp hành yêu cầu dừng xe đầu kéo, đâm đổ các lô phản quang tại nhiều chốt kiểm soát rồi bỏ chạy suốt 130 km trước sự truy đuổi của cảnh sát.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/25/2-1784965715-2278-1784965867.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=2vtcRoaW9iAZC-WrE9f-mg",
+      "link": "https://vnexpress.net/tai-xe-xe-dau-keo-thong-hang-loat-chot-canh-sat-bo-chay-130-km-5101570.html",
+      "published_at": "Sat, 25 Jul 2026 15:00:17 +0700",
+      "createAt": "2026-07-25T08:00:17.000Z",
+      "thumbnail_blurhash": "LgN1Gns:9E%M~qt7jGWB%Mof%3s:"
+    }
+  ]
 }
