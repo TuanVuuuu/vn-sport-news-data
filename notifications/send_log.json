@@ -1,947 +1,6 @@
 {
   "entries": [
     {
-      "sent_at": "2026-07-20T23:40:55.668Z",
-      "topic": null,
-      "device_id": "A11EB203-9671-4F19-AEE7-2B068733177A",
-      "slot": "morning",
-      "type": "featured_digest",
-      "article_ids": [
-        "https://vnexpress.net/gan-1900-truong-cong-o-tp-hcm-thuoc-dien-sap-xep-sap-nhap-5099492.html",
-        "https://vnexpress.net/cuoc-song-tam-cu-cua-800-nguoi-sau-lu-o-muong-than-5099614.html",
-        "https://vnexpress.net/nguyen-bi-thu-bac-giang-bui-van-hai-bi-cach-tat-ca-chuc-vu-dang-5099418.html",
-        "https://vnexpress.net/trung-uong-ban-quan-diem-sua-luat-dat-dai-5099647.html",
-        "https://vnexpress.net/iran-tuyen-bo-chien-tranh-tong-luc-voi-my-5099648.html",
-        "https://vnexpress.net/fifa-dieu-tra-argentina-vu-au-da-o-chung-ket-world-cup-2026-5099662.html",
-        "https://vnexpress.net/argentina-bi-chi-trich-vi-quay-lung-khi-tay-ban-nha-nang-cup-5099669.html",
-        "https://vnexpress.net/muong-than-guong-day-sau-lu-quet-5099678.html",
-        "https://vnexpress.net/ta-hien-doi-lang-tu-phong-luu-5099634.html",
-        "https://vnexpress.net/quy-hoach-mang-luoi-cao-toc-viet-nam-5099510.html",
-        "https://vnexpress.net/nghe-si-thanh-tuan-tai-xuat-sau-bao-benh-5099688.html",
-        "https://vnexpress.net/con-thinh-no-cua-phe-sieu-cung-ran-iran-voi-nhom-chu-hoa-5099530.html",
-        "https://vnexpress.net/nghich-ly-khi-tay-ban-nha-vo-dich-world-cup-2026-5099700.html",
-        "https://vnexpress.net/cuoc-khung-hoang-mat-gia-tri-sau-ngay-nghi-huu-5096019.html",
-        "https://vnexpress.net/quy-trinh-kiem-dinh-kim-cuong-dien-ra-nhu-the-nao-5099674.html",
-        "https://vnexpress.net/rung-san-ho-tung-bi-du-khach-xam-hai-o-bien-hon-chong-5099637.html"
-      ],
-      "highlight_id": "https://vnexpress.net/rung-san-ho-tung-bi-du-khach-xam-hai-o-bien-hon-chong-5099637.html"
-    },
-    {
-      "sent_at": "2026-07-20T23:40:55.984Z",
-      "topic": null,
-      "device_id": "900F95DF-6125-4744-BF3A-03080BB0D09F",
-      "slot": "morning",
-      "type": "featured_digest",
-      "article_ids": [
-        "https://vnexpress.net/gan-1900-truong-cong-o-tp-hcm-thuoc-dien-sap-xep-sap-nhap-5099492.html",
-        "https://vnexpress.net/cuoc-song-tam-cu-cua-800-nguoi-sau-lu-o-muong-than-5099614.html",
-        "https://vnexpress.net/nguyen-bi-thu-bac-giang-bui-van-hai-bi-cach-tat-ca-chuc-vu-dang-5099418.html",
-        "https://vnexpress.net/trung-uong-ban-quan-diem-sua-luat-dat-dai-5099647.html",
-        "https://vnexpress.net/iran-tuyen-bo-chien-tranh-tong-luc-voi-my-5099648.html",
-        "https://vnexpress.net/fifa-dieu-tra-argentina-vu-au-da-o-chung-ket-world-cup-2026-5099662.html",
-        "https://vnexpress.net/argentina-bi-chi-trich-vi-quay-lung-khi-tay-ban-nha-nang-cup-5099669.html",
-        "https://vnexpress.net/muong-than-guong-day-sau-lu-quet-5099678.html",
-        "https://vnexpress.net/ta-hien-doi-lang-tu-phong-luu-5099634.html",
-        "https://vnexpress.net/quy-hoach-mang-luoi-cao-toc-viet-nam-5099510.html",
-        "https://vnexpress.net/nghe-si-thanh-tuan-tai-xuat-sau-bao-benh-5099688.html",
-        "https://vnexpress.net/con-thinh-no-cua-phe-sieu-cung-ran-iran-voi-nhom-chu-hoa-5099530.html",
-        "https://vnexpress.net/nghich-ly-khi-tay-ban-nha-vo-dich-world-cup-2026-5099700.html",
-        "https://vnexpress.net/cuoc-khung-hoang-mat-gia-tri-sau-ngay-nghi-huu-5096019.html",
-        "https://vnexpress.net/quy-trinh-kiem-dinh-kim-cuong-dien-ra-nhu-the-nao-5099674.html",
-        "https://vnexpress.net/rung-san-ho-tung-bi-du-khach-xam-hai-o-bien-hon-chong-5099637.html"
-      ],
-      "highlight_id": "https://vnexpress.net/rung-san-ho-tung-bi-du-khach-xam-hai-o-bien-hon-chong-5099637.html"
-    },
-    {
-      "sent_at": "2026-07-20T23:40:56.292Z",
-      "topic": null,
-      "device_id": "A72B80C5-D1C5-4E0F-B6AE-A4E5BF8B31BF",
-      "slot": "morning",
-      "type": "featured_digest",
-      "article_ids": [
-        "https://vnexpress.net/gan-1900-truong-cong-o-tp-hcm-thuoc-dien-sap-xep-sap-nhap-5099492.html",
-        "https://vnexpress.net/cuoc-song-tam-cu-cua-800-nguoi-sau-lu-o-muong-than-5099614.html",
-        "https://vnexpress.net/nguyen-bi-thu-bac-giang-bui-van-hai-bi-cach-tat-ca-chuc-vu-dang-5099418.html",
-        "https://vnexpress.net/trung-uong-ban-quan-diem-sua-luat-dat-dai-5099647.html",
-        "https://vnexpress.net/iran-tuyen-bo-chien-tranh-tong-luc-voi-my-5099648.html",
-        "https://vnexpress.net/fifa-dieu-tra-argentina-vu-au-da-o-chung-ket-world-cup-2026-5099662.html",
-        "https://vnexpress.net/argentina-bi-chi-trich-vi-quay-lung-khi-tay-ban-nha-nang-cup-5099669.html",
-        "https://vnexpress.net/muong-than-guong-day-sau-lu-quet-5099678.html",
-        "https://vnexpress.net/ta-hien-doi-lang-tu-phong-luu-5099634.html",
-        "https://vnexpress.net/quy-hoach-mang-luoi-cao-toc-viet-nam-5099510.html",
-        "https://vnexpress.net/nghe-si-thanh-tuan-tai-xuat-sau-bao-benh-5099688.html",
-        "https://vnexpress.net/con-thinh-no-cua-phe-sieu-cung-ran-iran-voi-nhom-chu-hoa-5099530.html",
-        "https://vnexpress.net/nghich-ly-khi-tay-ban-nha-vo-dich-world-cup-2026-5099700.html",
-        "https://vnexpress.net/cuoc-khung-hoang-mat-gia-tri-sau-ngay-nghi-huu-5096019.html",
-        "https://vnexpress.net/quy-trinh-kiem-dinh-kim-cuong-dien-ra-nhu-the-nao-5099674.html",
-        "https://vnexpress.net/rung-san-ho-tung-bi-du-khach-xam-hai-o-bien-hon-chong-5099637.html"
-      ],
-      "highlight_id": "https://vnexpress.net/rung-san-ho-tung-bi-du-khach-xam-hai-o-bien-hon-chong-5099637.html"
-    },
-    {
-      "sent_at": "2026-07-20T23:40:56.594Z",
-      "topic": null,
-      "device_id": "8AE72633-E9FD-488F-AFD4-7E7150C20B96",
-      "slot": "morning",
-      "type": "featured_digest",
-      "article_ids": [
-        "https://vnexpress.net/gan-1900-truong-cong-o-tp-hcm-thuoc-dien-sap-xep-sap-nhap-5099492.html",
-        "https://vnexpress.net/cuoc-song-tam-cu-cua-800-nguoi-sau-lu-o-muong-than-5099614.html",
-        "https://vnexpress.net/nguyen-bi-thu-bac-giang-bui-van-hai-bi-cach-tat-ca-chuc-vu-dang-5099418.html",
-        "https://vnexpress.net/trung-uong-ban-quan-diem-sua-luat-dat-dai-5099647.html",
-        "https://vnexpress.net/iran-tuyen-bo-chien-tranh-tong-luc-voi-my-5099648.html",
-        "https://vnexpress.net/fifa-dieu-tra-argentina-vu-au-da-o-chung-ket-world-cup-2026-5099662.html",
-        "https://vnexpress.net/argentina-bi-chi-trich-vi-quay-lung-khi-tay-ban-nha-nang-cup-5099669.html",
-        "https://vnexpress.net/muong-than-guong-day-sau-lu-quet-5099678.html",
-        "https://vnexpress.net/ta-hien-doi-lang-tu-phong-luu-5099634.html",
-        "https://vnexpress.net/quy-hoach-mang-luoi-cao-toc-viet-nam-5099510.html",
-        "https://vnexpress.net/nghe-si-thanh-tuan-tai-xuat-sau-bao-benh-5099688.html",
-        "https://vnexpress.net/con-thinh-no-cua-phe-sieu-cung-ran-iran-voi-nhom-chu-hoa-5099530.html",
-        "https://vnexpress.net/nghich-ly-khi-tay-ban-nha-vo-dich-world-cup-2026-5099700.html",
-        "https://vnexpress.net/cuoc-khung-hoang-mat-gia-tri-sau-ngay-nghi-huu-5096019.html",
-        "https://vnexpress.net/quy-trinh-kiem-dinh-kim-cuong-dien-ra-nhu-the-nao-5099674.html",
-        "https://vnexpress.net/rung-san-ho-tung-bi-du-khach-xam-hai-o-bien-hon-chong-5099637.html"
-      ],
-      "highlight_id": "https://vnexpress.net/rung-san-ho-tung-bi-du-khach-xam-hai-o-bien-hon-chong-5099637.html"
-    },
-    {
-      "sent_at": "2026-07-20T23:40:57.371Z",
-      "topic": null,
-      "device_id": "B3D4B7F7-C2A7-4E7A-A92F-53B6A2B611D0",
-      "slot": "morning",
-      "type": "featured_digest",
-      "article_ids": [
-        "https://vnexpress.net/gan-1900-truong-cong-o-tp-hcm-thuoc-dien-sap-xep-sap-nhap-5099492.html",
-        "https://vnexpress.net/cuoc-song-tam-cu-cua-800-nguoi-sau-lu-o-muong-than-5099614.html",
-        "https://vnexpress.net/nguyen-bi-thu-bac-giang-bui-van-hai-bi-cach-tat-ca-chuc-vu-dang-5099418.html",
-        "https://vnexpress.net/trung-uong-ban-quan-diem-sua-luat-dat-dai-5099647.html",
-        "https://vnexpress.net/iran-tuyen-bo-chien-tranh-tong-luc-voi-my-5099648.html",
-        "https://vnexpress.net/fifa-dieu-tra-argentina-vu-au-da-o-chung-ket-world-cup-2026-5099662.html",
-        "https://vnexpress.net/argentina-bi-chi-trich-vi-quay-lung-khi-tay-ban-nha-nang-cup-5099669.html",
-        "https://vnexpress.net/muong-than-guong-day-sau-lu-quet-5099678.html",
-        "https://vnexpress.net/ta-hien-doi-lang-tu-phong-luu-5099634.html",
-        "https://vnexpress.net/quy-hoach-mang-luoi-cao-toc-viet-nam-5099510.html",
-        "https://vnexpress.net/nghe-si-thanh-tuan-tai-xuat-sau-bao-benh-5099688.html",
-        "https://vnexpress.net/con-thinh-no-cua-phe-sieu-cung-ran-iran-voi-nhom-chu-hoa-5099530.html",
-        "https://vnexpress.net/nghich-ly-khi-tay-ban-nha-vo-dich-world-cup-2026-5099700.html",
-        "https://vnexpress.net/cuoc-khung-hoang-mat-gia-tri-sau-ngay-nghi-huu-5096019.html",
-        "https://vnexpress.net/quy-trinh-kiem-dinh-kim-cuong-dien-ra-nhu-the-nao-5099674.html",
-        "https://vnexpress.net/rung-san-ho-tung-bi-du-khach-xam-hai-o-bien-hon-chong-5099637.html"
-      ],
-      "highlight_id": "https://vnexpress.net/rung-san-ho-tung-bi-du-khach-xam-hai-o-bien-hon-chong-5099637.html"
-    },
-    {
-      "sent_at": "2026-07-20T23:40:57.658Z",
-      "topic": null,
-      "device_id": "CA5CB6C0-86C9-4280-AF90-C97FC0C407BD",
-      "slot": "morning",
-      "type": "featured_digest",
-      "article_ids": [
-        "https://vnexpress.net/gan-1900-truong-cong-o-tp-hcm-thuoc-dien-sap-xep-sap-nhap-5099492.html",
-        "https://vnexpress.net/cuoc-song-tam-cu-cua-800-nguoi-sau-lu-o-muong-than-5099614.html",
-        "https://vnexpress.net/nguyen-bi-thu-bac-giang-bui-van-hai-bi-cach-tat-ca-chuc-vu-dang-5099418.html",
-        "https://vnexpress.net/trung-uong-ban-quan-diem-sua-luat-dat-dai-5099647.html",
-        "https://vnexpress.net/iran-tuyen-bo-chien-tranh-tong-luc-voi-my-5099648.html",
-        "https://vnexpress.net/fifa-dieu-tra-argentina-vu-au-da-o-chung-ket-world-cup-2026-5099662.html",
-        "https://vnexpress.net/argentina-bi-chi-trich-vi-quay-lung-khi-tay-ban-nha-nang-cup-5099669.html",
-        "https://vnexpress.net/muong-than-guong-day-sau-lu-quet-5099678.html",
-        "https://vnexpress.net/ta-hien-doi-lang-tu-phong-luu-5099634.html",
-        "https://vnexpress.net/quy-hoach-mang-luoi-cao-toc-viet-nam-5099510.html",
-        "https://vnexpress.net/nghe-si-thanh-tuan-tai-xuat-sau-bao-benh-5099688.html",
-        "https://vnexpress.net/con-thinh-no-cua-phe-sieu-cung-ran-iran-voi-nhom-chu-hoa-5099530.html",
-        "https://vnexpress.net/nghich-ly-khi-tay-ban-nha-vo-dich-world-cup-2026-5099700.html",
-        "https://vnexpress.net/cuoc-khung-hoang-mat-gia-tri-sau-ngay-nghi-huu-5096019.html",
-        "https://vnexpress.net/quy-trinh-kiem-dinh-kim-cuong-dien-ra-nhu-the-nao-5099674.html",
-        "https://vnexpress.net/rung-san-ho-tung-bi-du-khach-xam-hai-o-bien-hon-chong-5099637.html"
-      ],
-      "highlight_id": "https://vnexpress.net/rung-san-ho-tung-bi-du-khach-xam-hai-o-bien-hon-chong-5099637.html"
-    },
-    {
-      "sent_at": "2026-07-20T23:40:57.865Z",
-      "topic": null,
-      "device_id": "B6573471-8CFF-492D-B7B6-2EEFA4FD21A2",
-      "slot": "morning",
-      "type": "featured_digest",
-      "article_ids": [
-        "https://vnexpress.net/gan-1900-truong-cong-o-tp-hcm-thuoc-dien-sap-xep-sap-nhap-5099492.html",
-        "https://vnexpress.net/cuoc-song-tam-cu-cua-800-nguoi-sau-lu-o-muong-than-5099614.html",
-        "https://vnexpress.net/nguyen-bi-thu-bac-giang-bui-van-hai-bi-cach-tat-ca-chuc-vu-dang-5099418.html",
-        "https://vnexpress.net/trung-uong-ban-quan-diem-sua-luat-dat-dai-5099647.html",
-        "https://vnexpress.net/iran-tuyen-bo-chien-tranh-tong-luc-voi-my-5099648.html",
-        "https://vnexpress.net/fifa-dieu-tra-argentina-vu-au-da-o-chung-ket-world-cup-2026-5099662.html",
-        "https://vnexpress.net/argentina-bi-chi-trich-vi-quay-lung-khi-tay-ban-nha-nang-cup-5099669.html",
-        "https://vnexpress.net/muong-than-guong-day-sau-lu-quet-5099678.html",
-        "https://vnexpress.net/ta-hien-doi-lang-tu-phong-luu-5099634.html",
-        "https://vnexpress.net/quy-hoach-mang-luoi-cao-toc-viet-nam-5099510.html",
-        "https://vnexpress.net/nghe-si-thanh-tuan-tai-xuat-sau-bao-benh-5099688.html",
-        "https://vnexpress.net/con-thinh-no-cua-phe-sieu-cung-ran-iran-voi-nhom-chu-hoa-5099530.html",
-        "https://vnexpress.net/nghich-ly-khi-tay-ban-nha-vo-dich-world-cup-2026-5099700.html",
-        "https://vnexpress.net/cuoc-khung-hoang-mat-gia-tri-sau-ngay-nghi-huu-5096019.html",
-        "https://vnexpress.net/quy-trinh-kiem-dinh-kim-cuong-dien-ra-nhu-the-nao-5099674.html",
-        "https://vnexpress.net/rung-san-ho-tung-bi-du-khach-xam-hai-o-bien-hon-chong-5099637.html"
-      ],
-      "highlight_id": "https://vnexpress.net/rung-san-ho-tung-bi-du-khach-xam-hai-o-bien-hon-chong-5099637.html"
-    },
-    {
-      "sent_at": "2026-07-21T04:01:17.770Z",
-      "topic": null,
-      "device_id": "6296C746-2413-4A29-B3CC-39F791042275",
-      "slot": "noon",
-      "type": "featured_digest",
-      "article_ids": [
-        "https://vnexpress.net/boi-roi-vi-nhan-vien-het-gio-la-ngat-ket-noi-5099218.html",
-        "https://vnexpress.net/nua-doi-tim-me-5098243.html",
-        "https://vnexpress.net/nua-doi-tim-me-cua-nhung-dua-tre-babylift-5098243.html",
-        "https://vnexpress.net/nam-thoi-giuong-ca-cuoi-tuan-5099305.html",
-        "https://vnexpress.net/rung-san-ho-o-nha-trang-tung-bi-du-khach-xam-hai-5099637.html",
-        "https://vnexpress.net/my-khong-kich-iran-ngay-thu-10-lien-tiep-5099713.html",
-        "https://vnexpress.net/dang-sau-nhung-con-so-ky-luc-cua-world-cup-2026-5099706.html",
-        "https://vnexpress.net/nguoi-tre-ve-que-lam-truong-thon-5097399.html",
-        "https://vnexpress.net/chay-xe-khach-giuong-nam-7-nguoi-chet-5099724.html",
-        "https://vnexpress.net/messi-that-bai-o-chung-ket-world-cup-2026-la-noi-dau-lon-5099729.html",
-        "https://vnexpress.net/bac-si-vu-ly-hon-nghin-ty-bi-cao-buoc-lua-hon-1-2-trieu-khach-hang-5099780.html",
-        "https://vnexpress.net/hon-2-trieu-nguoi-nhuom-do-madrid-mung-tay-ban-nha-vo-dich-world-cup-5099746.html",
-        "https://vnexpress.net/hien-truong-xe-giuong-nam-chay-lam-7-nguoi-chet-5099768.html"
-      ],
-      "highlight_id": "https://vnexpress.net/hien-truong-xe-giuong-nam-chay-lam-7-nguoi-chet-5099768.html"
-    },
-    {
-      "sent_at": "2026-07-21T04:01:18.056Z",
-      "topic": null,
-      "device_id": "EBB7CAB7-FDF1-438F-87F2-A9999FBD4DB9",
-      "slot": "noon",
-      "type": "featured_digest",
-      "article_ids": [
-        "https://vnexpress.net/boi-roi-vi-nhan-vien-het-gio-la-ngat-ket-noi-5099218.html",
-        "https://vnexpress.net/nua-doi-tim-me-5098243.html",
-        "https://vnexpress.net/nua-doi-tim-me-cua-nhung-dua-tre-babylift-5098243.html",
-        "https://vnexpress.net/nam-thoi-giuong-ca-cuoi-tuan-5099305.html",
-        "https://vnexpress.net/rung-san-ho-o-nha-trang-tung-bi-du-khach-xam-hai-5099637.html",
-        "https://vnexpress.net/my-khong-kich-iran-ngay-thu-10-lien-tiep-5099713.html",
-        "https://vnexpress.net/dang-sau-nhung-con-so-ky-luc-cua-world-cup-2026-5099706.html",
-        "https://vnexpress.net/nguoi-tre-ve-que-lam-truong-thon-5097399.html",
-        "https://vnexpress.net/chay-xe-khach-giuong-nam-7-nguoi-chet-5099724.html",
-        "https://vnexpress.net/messi-that-bai-o-chung-ket-world-cup-2026-la-noi-dau-lon-5099729.html",
-        "https://vnexpress.net/bac-si-vu-ly-hon-nghin-ty-bi-cao-buoc-lua-hon-1-2-trieu-khach-hang-5099780.html",
-        "https://vnexpress.net/hon-2-trieu-nguoi-nhuom-do-madrid-mung-tay-ban-nha-vo-dich-world-cup-5099746.html",
-        "https://vnexpress.net/hien-truong-xe-giuong-nam-chay-lam-7-nguoi-chet-5099768.html"
-      ],
-      "highlight_id": "https://vnexpress.net/hien-truong-xe-giuong-nam-chay-lam-7-nguoi-chet-5099768.html"
-    },
-    {
-      "sent_at": "2026-07-21T04:01:18.521Z",
-      "topic": null,
-      "device_id": "6C7D6B0A-A321-4963-9796-97F607334CAD",
-      "slot": "noon",
-      "type": "featured_digest",
-      "article_ids": [
-        "https://vnexpress.net/boi-roi-vi-nhan-vien-het-gio-la-ngat-ket-noi-5099218.html",
-        "https://vnexpress.net/nua-doi-tim-me-5098243.html",
-        "https://vnexpress.net/nua-doi-tim-me-cua-nhung-dua-tre-babylift-5098243.html",
-        "https://vnexpress.net/nam-thoi-giuong-ca-cuoi-tuan-5099305.html",
-        "https://vnexpress.net/rung-san-ho-o-nha-trang-tung-bi-du-khach-xam-hai-5099637.html",
-        "https://vnexpress.net/my-khong-kich-iran-ngay-thu-10-lien-tiep-5099713.html",
-        "https://vnexpress.net/dang-sau-nhung-con-so-ky-luc-cua-world-cup-2026-5099706.html",
-        "https://vnexpress.net/nguoi-tre-ve-que-lam-truong-thon-5097399.html",
-        "https://vnexpress.net/chay-xe-khach-giuong-nam-7-nguoi-chet-5099724.html",
-        "https://vnexpress.net/messi-that-bai-o-chung-ket-world-cup-2026-la-noi-dau-lon-5099729.html",
-        "https://vnexpress.net/bac-si-vu-ly-hon-nghin-ty-bi-cao-buoc-lua-hon-1-2-trieu-khach-hang-5099780.html",
-        "https://vnexpress.net/hon-2-trieu-nguoi-nhuom-do-madrid-mung-tay-ban-nha-vo-dich-world-cup-5099746.html",
-        "https://vnexpress.net/hien-truong-xe-giuong-nam-chay-lam-7-nguoi-chet-5099768.html"
-      ],
-      "highlight_id": "https://vnexpress.net/hien-truong-xe-giuong-nam-chay-lam-7-nguoi-chet-5099768.html"
-    },
-    {
-      "sent_at": "2026-07-21T04:01:18.964Z",
-      "topic": null,
-      "device_id": "B344B30F-A3BA-4BAB-8F7A-812FBF982B53",
-      "slot": "noon",
-      "type": "featured_digest",
-      "article_ids": [
-        "https://vnexpress.net/boi-roi-vi-nhan-vien-het-gio-la-ngat-ket-noi-5099218.html",
-        "https://vnexpress.net/nua-doi-tim-me-5098243.html",
-        "https://vnexpress.net/nua-doi-tim-me-cua-nhung-dua-tre-babylift-5098243.html",
-        "https://vnexpress.net/nam-thoi-giuong-ca-cuoi-tuan-5099305.html",
-        "https://vnexpress.net/rung-san-ho-o-nha-trang-tung-bi-du-khach-xam-hai-5099637.html",
-        "https://vnexpress.net/my-khong-kich-iran-ngay-thu-10-lien-tiep-5099713.html",
-        "https://vnexpress.net/dang-sau-nhung-con-so-ky-luc-cua-world-cup-2026-5099706.html",
-        "https://vnexpress.net/nguoi-tre-ve-que-lam-truong-thon-5097399.html",
-        "https://vnexpress.net/chay-xe-khach-giuong-nam-7-nguoi-chet-5099724.html",
-        "https://vnexpress.net/messi-that-bai-o-chung-ket-world-cup-2026-la-noi-dau-lon-5099729.html",
-        "https://vnexpress.net/bac-si-vu-ly-hon-nghin-ty-bi-cao-buoc-lua-hon-1-2-trieu-khach-hang-5099780.html",
-        "https://vnexpress.net/hon-2-trieu-nguoi-nhuom-do-madrid-mung-tay-ban-nha-vo-dich-world-cup-5099746.html",
-        "https://vnexpress.net/hien-truong-xe-giuong-nam-chay-lam-7-nguoi-chet-5099768.html"
-      ],
-      "highlight_id": "https://vnexpress.net/hien-truong-xe-giuong-nam-chay-lam-7-nguoi-chet-5099768.html"
-    },
-    {
-      "sent_at": "2026-07-21T04:01:19.245Z",
-      "topic": null,
-      "device_id": "692BDED7-C485-4DCF-BF17-C1CC61E6F8E8",
-      "slot": "noon",
-      "type": "featured_digest",
-      "article_ids": [
-        "https://vnexpress.net/boi-roi-vi-nhan-vien-het-gio-la-ngat-ket-noi-5099218.html",
-        "https://vnexpress.net/nua-doi-tim-me-5098243.html",
-        "https://vnexpress.net/nua-doi-tim-me-cua-nhung-dua-tre-babylift-5098243.html",
-        "https://vnexpress.net/nam-thoi-giuong-ca-cuoi-tuan-5099305.html",
-        "https://vnexpress.net/rung-san-ho-o-nha-trang-tung-bi-du-khach-xam-hai-5099637.html",
-        "https://vnexpress.net/my-khong-kich-iran-ngay-thu-10-lien-tiep-5099713.html",
-        "https://vnexpress.net/dang-sau-nhung-con-so-ky-luc-cua-world-cup-2026-5099706.html",
-        "https://vnexpress.net/nguoi-tre-ve-que-lam-truong-thon-5097399.html",
-        "https://vnexpress.net/chay-xe-khach-giuong-nam-7-nguoi-chet-5099724.html",
-        "https://vnexpress.net/messi-that-bai-o-chung-ket-world-cup-2026-la-noi-dau-lon-5099729.html",
-        "https://vnexpress.net/bac-si-vu-ly-hon-nghin-ty-bi-cao-buoc-lua-hon-1-2-trieu-khach-hang-5099780.html",
-        "https://vnexpress.net/hon-2-trieu-nguoi-nhuom-do-madrid-mung-tay-ban-nha-vo-dich-world-cup-5099746.html",
-        "https://vnexpress.net/hien-truong-xe-giuong-nam-chay-lam-7-nguoi-chet-5099768.html"
-      ],
-      "highlight_id": "https://vnexpress.net/hien-truong-xe-giuong-nam-chay-lam-7-nguoi-chet-5099768.html"
-    },
-    {
-      "sent_at": "2026-07-21T04:01:19.375Z",
-      "topic": null,
-      "device_id": "42646ea1f2848272",
-      "slot": "noon",
-      "type": "featured_digest",
-      "article_ids": [
-        "https://vnexpress.net/boi-roi-vi-nhan-vien-het-gio-la-ngat-ket-noi-5099218.html",
-        "https://vnexpress.net/nua-doi-tim-me-5098243.html",
-        "https://vnexpress.net/nua-doi-tim-me-cua-nhung-dua-tre-babylift-5098243.html",
-        "https://vnexpress.net/nam-thoi-giuong-ca-cuoi-tuan-5099305.html",
-        "https://vnexpress.net/rung-san-ho-o-nha-trang-tung-bi-du-khach-xam-hai-5099637.html",
-        "https://vnexpress.net/my-khong-kich-iran-ngay-thu-10-lien-tiep-5099713.html",
-        "https://vnexpress.net/dang-sau-nhung-con-so-ky-luc-cua-world-cup-2026-5099706.html",
-        "https://vnexpress.net/nguoi-tre-ve-que-lam-truong-thon-5097399.html",
-        "https://vnexpress.net/chay-xe-khach-giuong-nam-7-nguoi-chet-5099724.html",
-        "https://vnexpress.net/messi-that-bai-o-chung-ket-world-cup-2026-la-noi-dau-lon-5099729.html",
-        "https://vnexpress.net/bac-si-vu-ly-hon-nghin-ty-bi-cao-buoc-lua-hon-1-2-trieu-khach-hang-5099780.html",
-        "https://vnexpress.net/hon-2-trieu-nguoi-nhuom-do-madrid-mung-tay-ban-nha-vo-dich-world-cup-5099746.html",
-        "https://vnexpress.net/hien-truong-xe-giuong-nam-chay-lam-7-nguoi-chet-5099768.html"
-      ],
-      "highlight_id": "https://vnexpress.net/hien-truong-xe-giuong-nam-chay-lam-7-nguoi-chet-5099768.html"
-    },
-    {
-      "sent_at": "2026-07-21T04:01:19.506Z",
-      "topic": null,
-      "device_id": "8324162817fc22a6",
-      "slot": "noon",
-      "type": "featured_digest",
-      "article_ids": [
-        "https://vnexpress.net/boi-roi-vi-nhan-vien-het-gio-la-ngat-ket-noi-5099218.html",
-        "https://vnexpress.net/nua-doi-tim-me-5098243.html",
-        "https://vnexpress.net/nua-doi-tim-me-cua-nhung-dua-tre-babylift-5098243.html",
-        "https://vnexpress.net/nam-thoi-giuong-ca-cuoi-tuan-5099305.html",
-        "https://vnexpress.net/rung-san-ho-o-nha-trang-tung-bi-du-khach-xam-hai-5099637.html",
-        "https://vnexpress.net/my-khong-kich-iran-ngay-thu-10-lien-tiep-5099713.html",
-        "https://vnexpress.net/dang-sau-nhung-con-so-ky-luc-cua-world-cup-2026-5099706.html",
-        "https://vnexpress.net/nguoi-tre-ve-que-lam-truong-thon-5097399.html",
-        "https://vnexpress.net/chay-xe-khach-giuong-nam-7-nguoi-chet-5099724.html",
-        "https://vnexpress.net/messi-that-bai-o-chung-ket-world-cup-2026-la-noi-dau-lon-5099729.html",
-        "https://vnexpress.net/bac-si-vu-ly-hon-nghin-ty-bi-cao-buoc-lua-hon-1-2-trieu-khach-hang-5099780.html",
-        "https://vnexpress.net/hon-2-trieu-nguoi-nhuom-do-madrid-mung-tay-ban-nha-vo-dich-world-cup-5099746.html",
-        "https://vnexpress.net/hien-truong-xe-giuong-nam-chay-lam-7-nguoi-chet-5099768.html"
-      ],
-      "highlight_id": "https://vnexpress.net/hien-truong-xe-giuong-nam-chay-lam-7-nguoi-chet-5099768.html"
-    },
-    {
-      "sent_at": "2026-07-21T04:01:19.612Z",
-      "topic": null,
-      "device_id": "979bdb8856573cb2",
-      "slot": "noon",
-      "type": "featured_digest",
-      "article_ids": [
-        "https://vnexpress.net/boi-roi-vi-nhan-vien-het-gio-la-ngat-ket-noi-5099218.html",
-        "https://vnexpress.net/nua-doi-tim-me-5098243.html",
-        "https://vnexpress.net/nua-doi-tim-me-cua-nhung-dua-tre-babylift-5098243.html",
-        "https://vnexpress.net/nam-thoi-giuong-ca-cuoi-tuan-5099305.html",
-        "https://vnexpress.net/rung-san-ho-o-nha-trang-tung-bi-du-khach-xam-hai-5099637.html",
-        "https://vnexpress.net/my-khong-kich-iran-ngay-thu-10-lien-tiep-5099713.html",
-        "https://vnexpress.net/dang-sau-nhung-con-so-ky-luc-cua-world-cup-2026-5099706.html",
-        "https://vnexpress.net/nguoi-tre-ve-que-lam-truong-thon-5097399.html",
-        "https://vnexpress.net/chay-xe-khach-giuong-nam-7-nguoi-chet-5099724.html",
-        "https://vnexpress.net/messi-that-bai-o-chung-ket-world-cup-2026-la-noi-dau-lon-5099729.html",
-        "https://vnexpress.net/bac-si-vu-ly-hon-nghin-ty-bi-cao-buoc-lua-hon-1-2-trieu-khach-hang-5099780.html",
-        "https://vnexpress.net/hon-2-trieu-nguoi-nhuom-do-madrid-mung-tay-ban-nha-vo-dich-world-cup-5099746.html",
-        "https://vnexpress.net/hien-truong-xe-giuong-nam-chay-lam-7-nguoi-chet-5099768.html"
-      ],
-      "highlight_id": "https://vnexpress.net/hien-truong-xe-giuong-nam-chay-lam-7-nguoi-chet-5099768.html"
-    },
-    {
-      "sent_at": "2026-07-21T04:01:19.722Z",
-      "topic": null,
-      "device_id": "3596e06ad574c091",
-      "slot": "noon",
-      "type": "featured_digest",
-      "article_ids": [
-        "https://vnexpress.net/boi-roi-vi-nhan-vien-het-gio-la-ngat-ket-noi-5099218.html",
-        "https://vnexpress.net/nua-doi-tim-me-5098243.html",
-        "https://vnexpress.net/nua-doi-tim-me-cua-nhung-dua-tre-babylift-5098243.html",
-        "https://vnexpress.net/nam-thoi-giuong-ca-cuoi-tuan-5099305.html",
-        "https://vnexpress.net/rung-san-ho-o-nha-trang-tung-bi-du-khach-xam-hai-5099637.html",
-        "https://vnexpress.net/my-khong-kich-iran-ngay-thu-10-lien-tiep-5099713.html",
-        "https://vnexpress.net/dang-sau-nhung-con-so-ky-luc-cua-world-cup-2026-5099706.html",
-        "https://vnexpress.net/nguoi-tre-ve-que-lam-truong-thon-5097399.html",
-        "https://vnexpress.net/chay-xe-khach-giuong-nam-7-nguoi-chet-5099724.html",
-        "https://vnexpress.net/messi-that-bai-o-chung-ket-world-cup-2026-la-noi-dau-lon-5099729.html",
-        "https://vnexpress.net/bac-si-vu-ly-hon-nghin-ty-bi-cao-buoc-lua-hon-1-2-trieu-khach-hang-5099780.html",
-        "https://vnexpress.net/hon-2-trieu-nguoi-nhuom-do-madrid-mung-tay-ban-nha-vo-dich-world-cup-5099746.html",
-        "https://vnexpress.net/hien-truong-xe-giuong-nam-chay-lam-7-nguoi-chet-5099768.html"
-      ],
-      "highlight_id": "https://vnexpress.net/hien-truong-xe-giuong-nam-chay-lam-7-nguoi-chet-5099768.html"
-    },
-    {
-      "sent_at": "2026-07-21T04:01:19.837Z",
-      "topic": null,
-      "device_id": "f7c37c4383a9b4be",
-      "slot": "noon",
-      "type": "featured_digest",
-      "article_ids": [
-        "https://vnexpress.net/boi-roi-vi-nhan-vien-het-gio-la-ngat-ket-noi-5099218.html",
-        "https://vnexpress.net/nua-doi-tim-me-5098243.html",
-        "https://vnexpress.net/nua-doi-tim-me-cua-nhung-dua-tre-babylift-5098243.html",
-        "https://vnexpress.net/nam-thoi-giuong-ca-cuoi-tuan-5099305.html",
-        "https://vnexpress.net/rung-san-ho-o-nha-trang-tung-bi-du-khach-xam-hai-5099637.html",
-        "https://vnexpress.net/my-khong-kich-iran-ngay-thu-10-lien-tiep-5099713.html",
-        "https://vnexpress.net/dang-sau-nhung-con-so-ky-luc-cua-world-cup-2026-5099706.html",
-        "https://vnexpress.net/nguoi-tre-ve-que-lam-truong-thon-5097399.html",
-        "https://vnexpress.net/chay-xe-khach-giuong-nam-7-nguoi-chet-5099724.html",
-        "https://vnexpress.net/messi-that-bai-o-chung-ket-world-cup-2026-la-noi-dau-lon-5099729.html",
-        "https://vnexpress.net/bac-si-vu-ly-hon-nghin-ty-bi-cao-buoc-lua-hon-1-2-trieu-khach-hang-5099780.html",
-        "https://vnexpress.net/hon-2-trieu-nguoi-nhuom-do-madrid-mung-tay-ban-nha-vo-dich-world-cup-5099746.html",
-        "https://vnexpress.net/hien-truong-xe-giuong-nam-chay-lam-7-nguoi-chet-5099768.html"
-      ],
-      "highlight_id": "https://vnexpress.net/hien-truong-xe-giuong-nam-chay-lam-7-nguoi-chet-5099768.html"
-    },
-    {
-      "sent_at": "2026-07-21T04:01:19.945Z",
-      "topic": null,
-      "device_id": "6bdc5a50d2532007",
-      "slot": "noon",
-      "type": "featured_digest",
-      "article_ids": [
-        "https://vnexpress.net/boi-roi-vi-nhan-vien-het-gio-la-ngat-ket-noi-5099218.html",
-        "https://vnexpress.net/nua-doi-tim-me-5098243.html",
-        "https://vnexpress.net/nua-doi-tim-me-cua-nhung-dua-tre-babylift-5098243.html",
-        "https://vnexpress.net/nam-thoi-giuong-ca-cuoi-tuan-5099305.html",
-        "https://vnexpress.net/rung-san-ho-o-nha-trang-tung-bi-du-khach-xam-hai-5099637.html",
-        "https://vnexpress.net/my-khong-kich-iran-ngay-thu-10-lien-tiep-5099713.html",
-        "https://vnexpress.net/dang-sau-nhung-con-so-ky-luc-cua-world-cup-2026-5099706.html",
-        "https://vnexpress.net/nguoi-tre-ve-que-lam-truong-thon-5097399.html",
-        "https://vnexpress.net/chay-xe-khach-giuong-nam-7-nguoi-chet-5099724.html",
-        "https://vnexpress.net/messi-that-bai-o-chung-ket-world-cup-2026-la-noi-dau-lon-5099729.html",
-        "https://vnexpress.net/bac-si-vu-ly-hon-nghin-ty-bi-cao-buoc-lua-hon-1-2-trieu-khach-hang-5099780.html",
-        "https://vnexpress.net/hon-2-trieu-nguoi-nhuom-do-madrid-mung-tay-ban-nha-vo-dich-world-cup-5099746.html",
-        "https://vnexpress.net/hien-truong-xe-giuong-nam-chay-lam-7-nguoi-chet-5099768.html"
-      ],
-      "highlight_id": "https://vnexpress.net/hien-truong-xe-giuong-nam-chay-lam-7-nguoi-chet-5099768.html"
-    },
-    {
-      "sent_at": "2026-07-21T04:01:20.069Z",
-      "topic": null,
-      "device_id": "6ecf868a064e3ff4",
-      "slot": "noon",
-      "type": "featured_digest",
-      "article_ids": [
-        "https://vnexpress.net/boi-roi-vi-nhan-vien-het-gio-la-ngat-ket-noi-5099218.html",
-        "https://vnexpress.net/nua-doi-tim-me-5098243.html",
-        "https://vnexpress.net/nua-doi-tim-me-cua-nhung-dua-tre-babylift-5098243.html",
-        "https://vnexpress.net/nam-thoi-giuong-ca-cuoi-tuan-5099305.html",
-        "https://vnexpress.net/rung-san-ho-o-nha-trang-tung-bi-du-khach-xam-hai-5099637.html",
-        "https://vnexpress.net/my-khong-kich-iran-ngay-thu-10-lien-tiep-5099713.html",
-        "https://vnexpress.net/dang-sau-nhung-con-so-ky-luc-cua-world-cup-2026-5099706.html",
-        "https://vnexpress.net/nguoi-tre-ve-que-lam-truong-thon-5097399.html",
-        "https://vnexpress.net/chay-xe-khach-giuong-nam-7-nguoi-chet-5099724.html",
-        "https://vnexpress.net/messi-that-bai-o-chung-ket-world-cup-2026-la-noi-dau-lon-5099729.html",
-        "https://vnexpress.net/bac-si-vu-ly-hon-nghin-ty-bi-cao-buoc-lua-hon-1-2-trieu-khach-hang-5099780.html",
-        "https://vnexpress.net/hon-2-trieu-nguoi-nhuom-do-madrid-mung-tay-ban-nha-vo-dich-world-cup-5099746.html",
-        "https://vnexpress.net/hien-truong-xe-giuong-nam-chay-lam-7-nguoi-chet-5099768.html"
-      ],
-      "highlight_id": "https://vnexpress.net/hien-truong-xe-giuong-nam-chay-lam-7-nguoi-chet-5099768.html"
-    },
-    {
-      "sent_at": "2026-07-21T04:01:20.196Z",
-      "topic": null,
-      "device_id": "b9ffbb33ac6e18b3",
-      "slot": "noon",
-      "type": "featured_digest",
-      "article_ids": [
-        "https://vnexpress.net/boi-roi-vi-nhan-vien-het-gio-la-ngat-ket-noi-5099218.html",
-        "https://vnexpress.net/nua-doi-tim-me-5098243.html",
-        "https://vnexpress.net/nua-doi-tim-me-cua-nhung-dua-tre-babylift-5098243.html",
-        "https://vnexpress.net/nam-thoi-giuong-ca-cuoi-tuan-5099305.html",
-        "https://vnexpress.net/rung-san-ho-o-nha-trang-tung-bi-du-khach-xam-hai-5099637.html",
-        "https://vnexpress.net/my-khong-kich-iran-ngay-thu-10-lien-tiep-5099713.html",
-        "https://vnexpress.net/dang-sau-nhung-con-so-ky-luc-cua-world-cup-2026-5099706.html",
-        "https://vnexpress.net/nguoi-tre-ve-que-lam-truong-thon-5097399.html",
-        "https://vnexpress.net/chay-xe-khach-giuong-nam-7-nguoi-chet-5099724.html",
-        "https://vnexpress.net/messi-that-bai-o-chung-ket-world-cup-2026-la-noi-dau-lon-5099729.html",
-        "https://vnexpress.net/bac-si-vu-ly-hon-nghin-ty-bi-cao-buoc-lua-hon-1-2-trieu-khach-hang-5099780.html",
-        "https://vnexpress.net/hon-2-trieu-nguoi-nhuom-do-madrid-mung-tay-ban-nha-vo-dich-world-cup-5099746.html",
-        "https://vnexpress.net/hien-truong-xe-giuong-nam-chay-lam-7-nguoi-chet-5099768.html"
-      ],
-      "highlight_id": "https://vnexpress.net/hien-truong-xe-giuong-nam-chay-lam-7-nguoi-chet-5099768.html"
-    },
-    {
-      "sent_at": "2026-07-21T04:01:20.313Z",
-      "topic": null,
-      "device_id": "730d096a4aca0cc7",
-      "slot": "noon",
-      "type": "featured_digest",
-      "article_ids": [
-        "https://vnexpress.net/boi-roi-vi-nhan-vien-het-gio-la-ngat-ket-noi-5099218.html",
-        "https://vnexpress.net/nua-doi-tim-me-5098243.html",
-        "https://vnexpress.net/nua-doi-tim-me-cua-nhung-dua-tre-babylift-5098243.html",
-        "https://vnexpress.net/nam-thoi-giuong-ca-cuoi-tuan-5099305.html",
-        "https://vnexpress.net/rung-san-ho-o-nha-trang-tung-bi-du-khach-xam-hai-5099637.html",
-        "https://vnexpress.net/my-khong-kich-iran-ngay-thu-10-lien-tiep-5099713.html",
-        "https://vnexpress.net/dang-sau-nhung-con-so-ky-luc-cua-world-cup-2026-5099706.html",
-        "https://vnexpress.net/nguoi-tre-ve-que-lam-truong-thon-5097399.html",
-        "https://vnexpress.net/chay-xe-khach-giuong-nam-7-nguoi-chet-5099724.html",
-        "https://vnexpress.net/messi-that-bai-o-chung-ket-world-cup-2026-la-noi-dau-lon-5099729.html",
-        "https://vnexpress.net/bac-si-vu-ly-hon-nghin-ty-bi-cao-buoc-lua-hon-1-2-trieu-khach-hang-5099780.html",
-        "https://vnexpress.net/hon-2-trieu-nguoi-nhuom-do-madrid-mung-tay-ban-nha-vo-dich-world-cup-5099746.html",
-        "https://vnexpress.net/hien-truong-xe-giuong-nam-chay-lam-7-nguoi-chet-5099768.html"
-      ],
-      "highlight_id": "https://vnexpress.net/hien-truong-xe-giuong-nam-chay-lam-7-nguoi-chet-5099768.html"
-    },
-    {
-      "sent_at": "2026-07-21T04:01:20.444Z",
-      "topic": null,
-      "device_id": "4b7b7217a1ea1e79",
-      "slot": "noon",
-      "type": "featured_digest",
-      "article_ids": [
-        "https://vnexpress.net/boi-roi-vi-nhan-vien-het-gio-la-ngat-ket-noi-5099218.html",
-        "https://vnexpress.net/nua-doi-tim-me-5098243.html",
-        "https://vnexpress.net/nua-doi-tim-me-cua-nhung-dua-tre-babylift-5098243.html",
-        "https://vnexpress.net/nam-thoi-giuong-ca-cuoi-tuan-5099305.html",
-        "https://vnexpress.net/rung-san-ho-o-nha-trang-tung-bi-du-khach-xam-hai-5099637.html",
-        "https://vnexpress.net/my-khong-kich-iran-ngay-thu-10-lien-tiep-5099713.html",
-        "https://vnexpress.net/dang-sau-nhung-con-so-ky-luc-cua-world-cup-2026-5099706.html",
-        "https://vnexpress.net/nguoi-tre-ve-que-lam-truong-thon-5097399.html",
-        "https://vnexpress.net/chay-xe-khach-giuong-nam-7-nguoi-chet-5099724.html",
-        "https://vnexpress.net/messi-that-bai-o-chung-ket-world-cup-2026-la-noi-dau-lon-5099729.html",
-        "https://vnexpress.net/bac-si-vu-ly-hon-nghin-ty-bi-cao-buoc-lua-hon-1-2-trieu-khach-hang-5099780.html",
-        "https://vnexpress.net/hon-2-trieu-nguoi-nhuom-do-madrid-mung-tay-ban-nha-vo-dich-world-cup-5099746.html",
-        "https://vnexpress.net/hien-truong-xe-giuong-nam-chay-lam-7-nguoi-chet-5099768.html"
-      ],
-      "highlight_id": "https://vnexpress.net/hien-truong-xe-giuong-nam-chay-lam-7-nguoi-chet-5099768.html"
-    },
-    {
-      "sent_at": "2026-07-21T04:01:20.594Z",
-      "topic": null,
-      "device_id": "2c939316dd386076",
-      "slot": "noon",
-      "type": "featured_digest",
-      "article_ids": [
-        "https://vnexpress.net/boi-roi-vi-nhan-vien-het-gio-la-ngat-ket-noi-5099218.html",
-        "https://vnexpress.net/nua-doi-tim-me-5098243.html",
-        "https://vnexpress.net/nua-doi-tim-me-cua-nhung-dua-tre-babylift-5098243.html",
-        "https://vnexpress.net/nam-thoi-giuong-ca-cuoi-tuan-5099305.html",
-        "https://vnexpress.net/rung-san-ho-o-nha-trang-tung-bi-du-khach-xam-hai-5099637.html",
-        "https://vnexpress.net/my-khong-kich-iran-ngay-thu-10-lien-tiep-5099713.html",
-        "https://vnexpress.net/dang-sau-nhung-con-so-ky-luc-cua-world-cup-2026-5099706.html",
-        "https://vnexpress.net/nguoi-tre-ve-que-lam-truong-thon-5097399.html",
-        "https://vnexpress.net/chay-xe-khach-giuong-nam-7-nguoi-chet-5099724.html",
-        "https://vnexpress.net/messi-that-bai-o-chung-ket-world-cup-2026-la-noi-dau-lon-5099729.html",
-        "https://vnexpress.net/bac-si-vu-ly-hon-nghin-ty-bi-cao-buoc-lua-hon-1-2-trieu-khach-hang-5099780.html",
-        "https://vnexpress.net/hon-2-trieu-nguoi-nhuom-do-madrid-mung-tay-ban-nha-vo-dich-world-cup-5099746.html",
-        "https://vnexpress.net/hien-truong-xe-giuong-nam-chay-lam-7-nguoi-chet-5099768.html"
-      ],
-      "highlight_id": "https://vnexpress.net/hien-truong-xe-giuong-nam-chay-lam-7-nguoi-chet-5099768.html"
-    },
-    {
-      "sent_at": "2026-07-21T04:01:20.742Z",
-      "topic": null,
-      "device_id": "3e907a09e5d79376",
-      "slot": "noon",
-      "type": "featured_digest",
-      "article_ids": [
-        "https://vnexpress.net/boi-roi-vi-nhan-vien-het-gio-la-ngat-ket-noi-5099218.html",
-        "https://vnexpress.net/nua-doi-tim-me-5098243.html",
-        "https://vnexpress.net/nua-doi-tim-me-cua-nhung-dua-tre-babylift-5098243.html",
-        "https://vnexpress.net/nam-thoi-giuong-ca-cuoi-tuan-5099305.html",
-        "https://vnexpress.net/rung-san-ho-o-nha-trang-tung-bi-du-khach-xam-hai-5099637.html",
-        "https://vnexpress.net/my-khong-kich-iran-ngay-thu-10-lien-tiep-5099713.html",
-        "https://vnexpress.net/dang-sau-nhung-con-so-ky-luc-cua-world-cup-2026-5099706.html",
-        "https://vnexpress.net/nguoi-tre-ve-que-lam-truong-thon-5097399.html",
-        "https://vnexpress.net/chay-xe-khach-giuong-nam-7-nguoi-chet-5099724.html",
-        "https://vnexpress.net/messi-that-bai-o-chung-ket-world-cup-2026-la-noi-dau-lon-5099729.html",
-        "https://vnexpress.net/bac-si-vu-ly-hon-nghin-ty-bi-cao-buoc-lua-hon-1-2-trieu-khach-hang-5099780.html",
-        "https://vnexpress.net/hon-2-trieu-nguoi-nhuom-do-madrid-mung-tay-ban-nha-vo-dich-world-cup-5099746.html",
-        "https://vnexpress.net/hien-truong-xe-giuong-nam-chay-lam-7-nguoi-chet-5099768.html"
-      ],
-      "highlight_id": "https://vnexpress.net/hien-truong-xe-giuong-nam-chay-lam-7-nguoi-chet-5099768.html"
-    },
-    {
-      "sent_at": "2026-07-21T04:01:20.874Z",
-      "topic": null,
-      "device_id": "fca9cd74cd63b81b",
-      "slot": "noon",
-      "type": "featured_digest",
-      "article_ids": [
-        "https://vnexpress.net/boi-roi-vi-nhan-vien-het-gio-la-ngat-ket-noi-5099218.html",
-        "https://vnexpress.net/nua-doi-tim-me-5098243.html",
-        "https://vnexpress.net/nua-doi-tim-me-cua-nhung-dua-tre-babylift-5098243.html",
-        "https://vnexpress.net/nam-thoi-giuong-ca-cuoi-tuan-5099305.html",
-        "https://vnexpress.net/rung-san-ho-o-nha-trang-tung-bi-du-khach-xam-hai-5099637.html",
-        "https://vnexpress.net/my-khong-kich-iran-ngay-thu-10-lien-tiep-5099713.html",
-        "https://vnexpress.net/dang-sau-nhung-con-so-ky-luc-cua-world-cup-2026-5099706.html",
-        "https://vnexpress.net/nguoi-tre-ve-que-lam-truong-thon-5097399.html",
-        "https://vnexpress.net/chay-xe-khach-giuong-nam-7-nguoi-chet-5099724.html",
-        "https://vnexpress.net/messi-that-bai-o-chung-ket-world-cup-2026-la-noi-dau-lon-5099729.html",
-        "https://vnexpress.net/bac-si-vu-ly-hon-nghin-ty-bi-cao-buoc-lua-hon-1-2-trieu-khach-hang-5099780.html",
-        "https://vnexpress.net/hon-2-trieu-nguoi-nhuom-do-madrid-mung-tay-ban-nha-vo-dich-world-cup-5099746.html",
-        "https://vnexpress.net/hien-truong-xe-giuong-nam-chay-lam-7-nguoi-chet-5099768.html"
-      ],
-      "highlight_id": "https://vnexpress.net/hien-truong-xe-giuong-nam-chay-lam-7-nguoi-chet-5099768.html"
-    },
-    {
-      "sent_at": "2026-07-21T04:01:20.991Z",
-      "topic": null,
-      "device_id": "dc4c855bfd4f5c56",
-      "slot": "noon",
-      "type": "featured_digest",
-      "article_ids": [
-        "https://vnexpress.net/boi-roi-vi-nhan-vien-het-gio-la-ngat-ket-noi-5099218.html",
-        "https://vnexpress.net/nua-doi-tim-me-5098243.html",
-        "https://vnexpress.net/nua-doi-tim-me-cua-nhung-dua-tre-babylift-5098243.html",
-        "https://vnexpress.net/nam-thoi-giuong-ca-cuoi-tuan-5099305.html",
-        "https://vnexpress.net/rung-san-ho-o-nha-trang-tung-bi-du-khach-xam-hai-5099637.html",
-        "https://vnexpress.net/my-khong-kich-iran-ngay-thu-10-lien-tiep-5099713.html",
-        "https://vnexpress.net/dang-sau-nhung-con-so-ky-luc-cua-world-cup-2026-5099706.html",
-        "https://vnexpress.net/nguoi-tre-ve-que-lam-truong-thon-5097399.html",
-        "https://vnexpress.net/chay-xe-khach-giuong-nam-7-nguoi-chet-5099724.html",
-        "https://vnexpress.net/messi-that-bai-o-chung-ket-world-cup-2026-la-noi-dau-lon-5099729.html",
-        "https://vnexpress.net/bac-si-vu-ly-hon-nghin-ty-bi-cao-buoc-lua-hon-1-2-trieu-khach-hang-5099780.html",
-        "https://vnexpress.net/hon-2-trieu-nguoi-nhuom-do-madrid-mung-tay-ban-nha-vo-dich-world-cup-5099746.html",
-        "https://vnexpress.net/hien-truong-xe-giuong-nam-chay-lam-7-nguoi-chet-5099768.html"
-      ],
-      "highlight_id": "https://vnexpress.net/hien-truong-xe-giuong-nam-chay-lam-7-nguoi-chet-5099768.html"
-    },
-    {
-      "sent_at": "2026-07-21T04:01:21.115Z",
-      "topic": null,
-      "device_id": "b557c896d6bacca4",
-      "slot": "noon",
-      "type": "featured_digest",
-      "article_ids": [
-        "https://vnexpress.net/boi-roi-vi-nhan-vien-het-gio-la-ngat-ket-noi-5099218.html",
-        "https://vnexpress.net/nua-doi-tim-me-5098243.html",
-        "https://vnexpress.net/nua-doi-tim-me-cua-nhung-dua-tre-babylift-5098243.html",
-        "https://vnexpress.net/nam-thoi-giuong-ca-cuoi-tuan-5099305.html",
-        "https://vnexpress.net/rung-san-ho-o-nha-trang-tung-bi-du-khach-xam-hai-5099637.html",
-        "https://vnexpress.net/my-khong-kich-iran-ngay-thu-10-lien-tiep-5099713.html",
-        "https://vnexpress.net/dang-sau-nhung-con-so-ky-luc-cua-world-cup-2026-5099706.html",
-        "https://vnexpress.net/nguoi-tre-ve-que-lam-truong-thon-5097399.html",
-        "https://vnexpress.net/chay-xe-khach-giuong-nam-7-nguoi-chet-5099724.html",
-        "https://vnexpress.net/messi-that-bai-o-chung-ket-world-cup-2026-la-noi-dau-lon-5099729.html",
-        "https://vnexpress.net/bac-si-vu-ly-hon-nghin-ty-bi-cao-buoc-lua-hon-1-2-trieu-khach-hang-5099780.html",
-        "https://vnexpress.net/hon-2-trieu-nguoi-nhuom-do-madrid-mung-tay-ban-nha-vo-dich-world-cup-5099746.html",
-        "https://vnexpress.net/hien-truong-xe-giuong-nam-chay-lam-7-nguoi-chet-5099768.html"
-      ],
-      "highlight_id": "https://vnexpress.net/hien-truong-xe-giuong-nam-chay-lam-7-nguoi-chet-5099768.html"
-    },
-    {
-      "sent_at": "2026-07-21T04:01:21.222Z",
-      "topic": null,
-      "device_id": "e7368c7543fff02f",
-      "slot": "noon",
-      "type": "featured_digest",
-      "article_ids": [
-        "https://vnexpress.net/boi-roi-vi-nhan-vien-het-gio-la-ngat-ket-noi-5099218.html",
-        "https://vnexpress.net/nua-doi-tim-me-5098243.html",
-        "https://vnexpress.net/nua-doi-tim-me-cua-nhung-dua-tre-babylift-5098243.html",
-        "https://vnexpress.net/nam-thoi-giuong-ca-cuoi-tuan-5099305.html",
-        "https://vnexpress.net/rung-san-ho-o-nha-trang-tung-bi-du-khach-xam-hai-5099637.html",
-        "https://vnexpress.net/my-khong-kich-iran-ngay-thu-10-lien-tiep-5099713.html",
-        "https://vnexpress.net/dang-sau-nhung-con-so-ky-luc-cua-world-cup-2026-5099706.html",
-        "https://vnexpress.net/nguoi-tre-ve-que-lam-truong-thon-5097399.html",
-        "https://vnexpress.net/chay-xe-khach-giuong-nam-7-nguoi-chet-5099724.html",
-        "https://vnexpress.net/messi-that-bai-o-chung-ket-world-cup-2026-la-noi-dau-lon-5099729.html",
-        "https://vnexpress.net/bac-si-vu-ly-hon-nghin-ty-bi-cao-buoc-lua-hon-1-2-trieu-khach-hang-5099780.html",
-        "https://vnexpress.net/hon-2-trieu-nguoi-nhuom-do-madrid-mung-tay-ban-nha-vo-dich-world-cup-5099746.html",
-        "https://vnexpress.net/hien-truong-xe-giuong-nam-chay-lam-7-nguoi-chet-5099768.html"
-      ],
-      "highlight_id": "https://vnexpress.net/hien-truong-xe-giuong-nam-chay-lam-7-nguoi-chet-5099768.html"
-    },
-    {
-      "sent_at": "2026-07-21T04:01:21.354Z",
-      "topic": null,
-      "device_id": "87c0924081244390",
-      "slot": "noon",
-      "type": "featured_digest",
-      "article_ids": [
-        "https://vnexpress.net/boi-roi-vi-nhan-vien-het-gio-la-ngat-ket-noi-5099218.html",
-        "https://vnexpress.net/nua-doi-tim-me-5098243.html",
-        "https://vnexpress.net/nua-doi-tim-me-cua-nhung-dua-tre-babylift-5098243.html",
-        "https://vnexpress.net/nam-thoi-giuong-ca-cuoi-tuan-5099305.html",
-        "https://vnexpress.net/rung-san-ho-o-nha-trang-tung-bi-du-khach-xam-hai-5099637.html",
-        "https://vnexpress.net/my-khong-kich-iran-ngay-thu-10-lien-tiep-5099713.html",
-        "https://vnexpress.net/dang-sau-nhung-con-so-ky-luc-cua-world-cup-2026-5099706.html",
-        "https://vnexpress.net/nguoi-tre-ve-que-lam-truong-thon-5097399.html",
-        "https://vnexpress.net/chay-xe-khach-giuong-nam-7-nguoi-chet-5099724.html",
-        "https://vnexpress.net/messi-that-bai-o-chung-ket-world-cup-2026-la-noi-dau-lon-5099729.html",
-        "https://vnexpress.net/bac-si-vu-ly-hon-nghin-ty-bi-cao-buoc-lua-hon-1-2-trieu-khach-hang-5099780.html",
-        "https://vnexpress.net/hon-2-trieu-nguoi-nhuom-do-madrid-mung-tay-ban-nha-vo-dich-world-cup-5099746.html",
-        "https://vnexpress.net/hien-truong-xe-giuong-nam-chay-lam-7-nguoi-chet-5099768.html"
-      ],
-      "highlight_id": "https://vnexpress.net/hien-truong-xe-giuong-nam-chay-lam-7-nguoi-chet-5099768.html"
-    },
-    {
-      "sent_at": "2026-07-21T04:01:21.476Z",
-      "topic": null,
-      "device_id": "1e45a3bcd48e2b1c",
-      "slot": "noon",
-      "type": "featured_digest",
-      "article_ids": [
-        "https://vnexpress.net/boi-roi-vi-nhan-vien-het-gio-la-ngat-ket-noi-5099218.html",
-        "https://vnexpress.net/nua-doi-tim-me-5098243.html",
-        "https://vnexpress.net/nua-doi-tim-me-cua-nhung-dua-tre-babylift-5098243.html",
-        "https://vnexpress.net/nam-thoi-giuong-ca-cuoi-tuan-5099305.html",
-        "https://vnexpress.net/rung-san-ho-o-nha-trang-tung-bi-du-khach-xam-hai-5099637.html",
-        "https://vnexpress.net/my-khong-kich-iran-ngay-thu-10-lien-tiep-5099713.html",
-        "https://vnexpress.net/dang-sau-nhung-con-so-ky-luc-cua-world-cup-2026-5099706.html",
-        "https://vnexpress.net/nguoi-tre-ve-que-lam-truong-thon-5097399.html",
-        "https://vnexpress.net/chay-xe-khach-giuong-nam-7-nguoi-chet-5099724.html",
-        "https://vnexpress.net/messi-that-bai-o-chung-ket-world-cup-2026-la-noi-dau-lon-5099729.html",
-        "https://vnexpress.net/bac-si-vu-ly-hon-nghin-ty-bi-cao-buoc-lua-hon-1-2-trieu-khach-hang-5099780.html",
-        "https://vnexpress.net/hon-2-trieu-nguoi-nhuom-do-madrid-mung-tay-ban-nha-vo-dich-world-cup-5099746.html",
-        "https://vnexpress.net/hien-truong-xe-giuong-nam-chay-lam-7-nguoi-chet-5099768.html"
-      ],
-      "highlight_id": "https://vnexpress.net/hien-truong-xe-giuong-nam-chay-lam-7-nguoi-chet-5099768.html"
-    },
-    {
-      "sent_at": "2026-07-21T04:01:21.619Z",
-      "topic": null,
-      "device_id": "1fd7919f9343d992",
-      "slot": "noon",
-      "type": "featured_digest",
-      "article_ids": [
-        "https://vnexpress.net/boi-roi-vi-nhan-vien-het-gio-la-ngat-ket-noi-5099218.html",
-        "https://vnexpress.net/nua-doi-tim-me-5098243.html",
-        "https://vnexpress.net/nua-doi-tim-me-cua-nhung-dua-tre-babylift-5098243.html",
-        "https://vnexpress.net/nam-thoi-giuong-ca-cuoi-tuan-5099305.html",
-        "https://vnexpress.net/rung-san-ho-o-nha-trang-tung-bi-du-khach-xam-hai-5099637.html",
-        "https://vnexpress.net/my-khong-kich-iran-ngay-thu-10-lien-tiep-5099713.html",
-        "https://vnexpress.net/dang-sau-nhung-con-so-ky-luc-cua-world-cup-2026-5099706.html",
-        "https://vnexpress.net/nguoi-tre-ve-que-lam-truong-thon-5097399.html",
-        "https://vnexpress.net/chay-xe-khach-giuong-nam-7-nguoi-chet-5099724.html",
-        "https://vnexpress.net/messi-that-bai-o-chung-ket-world-cup-2026-la-noi-dau-lon-5099729.html",
-        "https://vnexpress.net/bac-si-vu-ly-hon-nghin-ty-bi-cao-buoc-lua-hon-1-2-trieu-khach-hang-5099780.html",
-        "https://vnexpress.net/hon-2-trieu-nguoi-nhuom-do-madrid-mung-tay-ban-nha-vo-dich-world-cup-5099746.html",
-        "https://vnexpress.net/hien-truong-xe-giuong-nam-chay-lam-7-nguoi-chet-5099768.html"
-      ],
-      "highlight_id": "https://vnexpress.net/hien-truong-xe-giuong-nam-chay-lam-7-nguoi-chet-5099768.html"
-    },
-    {
-      "sent_at": "2026-07-21T04:01:21.961Z",
-      "topic": null,
-      "device_id": "FA653F7B-321B-4D20-867C-5FF2667949AC",
-      "slot": "noon",
-      "type": "featured_digest",
-      "article_ids": [
-        "https://vnexpress.net/boi-roi-vi-nhan-vien-het-gio-la-ngat-ket-noi-5099218.html",
-        "https://vnexpress.net/nua-doi-tim-me-5098243.html",
-        "https://vnexpress.net/nua-doi-tim-me-cua-nhung-dua-tre-babylift-5098243.html",
-        "https://vnexpress.net/nam-thoi-giuong-ca-cuoi-tuan-5099305.html",
-        "https://vnexpress.net/rung-san-ho-o-nha-trang-tung-bi-du-khach-xam-hai-5099637.html",
-        "https://vnexpress.net/my-khong-kich-iran-ngay-thu-10-lien-tiep-5099713.html",
-        "https://vnexpress.net/dang-sau-nhung-con-so-ky-luc-cua-world-cup-2026-5099706.html",
-        "https://vnexpress.net/nguoi-tre-ve-que-lam-truong-thon-5097399.html",
-        "https://vnexpress.net/chay-xe-khach-giuong-nam-7-nguoi-chet-5099724.html",
-        "https://vnexpress.net/messi-that-bai-o-chung-ket-world-cup-2026-la-noi-dau-lon-5099729.html",
-        "https://vnexpress.net/bac-si-vu-ly-hon-nghin-ty-bi-cao-buoc-lua-hon-1-2-trieu-khach-hang-5099780.html",
-        "https://vnexpress.net/hon-2-trieu-nguoi-nhuom-do-madrid-mung-tay-ban-nha-vo-dich-world-cup-5099746.html",
-        "https://vnexpress.net/hien-truong-xe-giuong-nam-chay-lam-7-nguoi-chet-5099768.html"
-      ],
-      "highlight_id": "https://vnexpress.net/hien-truong-xe-giuong-nam-chay-lam-7-nguoi-chet-5099768.html"
-    },
-    {
-      "sent_at": "2026-07-21T04:01:22.179Z",
-      "topic": null,
-      "device_id": "8209d66f306cfde5",
-      "slot": "noon",
-      "type": "featured_digest",
-      "article_ids": [
-        "https://vnexpress.net/boi-roi-vi-nhan-vien-het-gio-la-ngat-ket-noi-5099218.html",
-        "https://vnexpress.net/nua-doi-tim-me-5098243.html",
-        "https://vnexpress.net/nua-doi-tim-me-cua-nhung-dua-tre-babylift-5098243.html",
-        "https://vnexpress.net/nam-thoi-giuong-ca-cuoi-tuan-5099305.html",
-        "https://vnexpress.net/rung-san-ho-o-nha-trang-tung-bi-du-khach-xam-hai-5099637.html",
-        "https://vnexpress.net/my-khong-kich-iran-ngay-thu-10-lien-tiep-5099713.html",
-        "https://vnexpress.net/dang-sau-nhung-con-so-ky-luc-cua-world-cup-2026-5099706.html",
-        "https://vnexpress.net/nguoi-tre-ve-que-lam-truong-thon-5097399.html",
-        "https://vnexpress.net/chay-xe-khach-giuong-nam-7-nguoi-chet-5099724.html",
-        "https://vnexpress.net/messi-that-bai-o-chung-ket-world-cup-2026-la-noi-dau-lon-5099729.html",
-        "https://vnexpress.net/bac-si-vu-ly-hon-nghin-ty-bi-cao-buoc-lua-hon-1-2-trieu-khach-hang-5099780.html",
-        "https://vnexpress.net/hon-2-trieu-nguoi-nhuom-do-madrid-mung-tay-ban-nha-vo-dich-world-cup-5099746.html",
-        "https://vnexpress.net/hien-truong-xe-giuong-nam-chay-lam-7-nguoi-chet-5099768.html"
-      ],
-      "highlight_id": "https://vnexpress.net/hien-truong-xe-giuong-nam-chay-lam-7-nguoi-chet-5099768.html"
-    },
-    {
-      "sent_at": "2026-07-21T04:01:22.273Z",
-      "topic": null,
-      "device_id": "2ba55e08ae9fe631",
-      "slot": "noon",
-      "type": "featured_digest",
-      "article_ids": [
-        "https://vnexpress.net/boi-roi-vi-nhan-vien-het-gio-la-ngat-ket-noi-5099218.html",
-        "https://vnexpress.net/nua-doi-tim-me-5098243.html",
-        "https://vnexpress.net/nua-doi-tim-me-cua-nhung-dua-tre-babylift-5098243.html",
-        "https://vnexpress.net/nam-thoi-giuong-ca-cuoi-tuan-5099305.html",
-        "https://vnexpress.net/rung-san-ho-o-nha-trang-tung-bi-du-khach-xam-hai-5099637.html",
-        "https://vnexpress.net/my-khong-kich-iran-ngay-thu-10-lien-tiep-5099713.html",
-        "https://vnexpress.net/dang-sau-nhung-con-so-ky-luc-cua-world-cup-2026-5099706.html",
-        "https://vnexpress.net/nguoi-tre-ve-que-lam-truong-thon-5097399.html",
-        "https://vnexpress.net/chay-xe-khach-giuong-nam-7-nguoi-chet-5099724.html",
-        "https://vnexpress.net/messi-that-bai-o-chung-ket-world-cup-2026-la-noi-dau-lon-5099729.html",
-        "https://vnexpress.net/bac-si-vu-ly-hon-nghin-ty-bi-cao-buoc-lua-hon-1-2-trieu-khach-hang-5099780.html",
-        "https://vnexpress.net/hon-2-trieu-nguoi-nhuom-do-madrid-mung-tay-ban-nha-vo-dich-world-cup-5099746.html",
-        "https://vnexpress.net/hien-truong-xe-giuong-nam-chay-lam-7-nguoi-chet-5099768.html"
-      ],
-      "highlight_id": "https://vnexpress.net/hien-truong-xe-giuong-nam-chay-lam-7-nguoi-chet-5099768.html"
-    },
-    {
-      "sent_at": "2026-07-21T04:01:22.486Z",
-      "topic": null,
-      "device_id": "B379A2EA-D969-47ED-972F-E3E49DBDEE71",
-      "slot": "noon",
-      "type": "featured_digest",
-      "article_ids": [
-        "https://vnexpress.net/boi-roi-vi-nhan-vien-het-gio-la-ngat-ket-noi-5099218.html",
-        "https://vnexpress.net/nua-doi-tim-me-5098243.html",
-        "https://vnexpress.net/nua-doi-tim-me-cua-nhung-dua-tre-babylift-5098243.html",
-        "https://vnexpress.net/nam-thoi-giuong-ca-cuoi-tuan-5099305.html",
-        "https://vnexpress.net/rung-san-ho-o-nha-trang-tung-bi-du-khach-xam-hai-5099637.html",
-        "https://vnexpress.net/my-khong-kich-iran-ngay-thu-10-lien-tiep-5099713.html",
-        "https://vnexpress.net/dang-sau-nhung-con-so-ky-luc-cua-world-cup-2026-5099706.html",
-        "https://vnexpress.net/nguoi-tre-ve-que-lam-truong-thon-5097399.html",
-        "https://vnexpress.net/chay-xe-khach-giuong-nam-7-nguoi-chet-5099724.html",
-        "https://vnexpress.net/messi-that-bai-o-chung-ket-world-cup-2026-la-noi-dau-lon-5099729.html",
-        "https://vnexpress.net/bac-si-vu-ly-hon-nghin-ty-bi-cao-buoc-lua-hon-1-2-trieu-khach-hang-5099780.html",
-        "https://vnexpress.net/hon-2-trieu-nguoi-nhuom-do-madrid-mung-tay-ban-nha-vo-dich-world-cup-5099746.html",
-        "https://vnexpress.net/hien-truong-xe-giuong-nam-chay-lam-7-nguoi-chet-5099768.html"
-      ],
-      "highlight_id": "https://vnexpress.net/hien-truong-xe-giuong-nam-chay-lam-7-nguoi-chet-5099768.html"
-    },
-    {
-      "sent_at": "2026-07-21T04:01:22.882Z",
-      "topic": null,
-      "device_id": "2F788787-BBE7-4E5E-AA09-BC5E8401B0D6",
-      "slot": "noon",
-      "type": "featured_digest",
-      "article_ids": [
-        "https://vnexpress.net/boi-roi-vi-nhan-vien-het-gio-la-ngat-ket-noi-5099218.html",
-        "https://vnexpress.net/nua-doi-tim-me-5098243.html",
-        "https://vnexpress.net/nua-doi-tim-me-cua-nhung-dua-tre-babylift-5098243.html",
-        "https://vnexpress.net/nam-thoi-giuong-ca-cuoi-tuan-5099305.html",
-        "https://vnexpress.net/rung-san-ho-o-nha-trang-tung-bi-du-khach-xam-hai-5099637.html",
-        "https://vnexpress.net/my-khong-kich-iran-ngay-thu-10-lien-tiep-5099713.html",
-        "https://vnexpress.net/dang-sau-nhung-con-so-ky-luc-cua-world-cup-2026-5099706.html",
-        "https://vnexpress.net/nguoi-tre-ve-que-lam-truong-thon-5097399.html",
-        "https://vnexpress.net/chay-xe-khach-giuong-nam-7-nguoi-chet-5099724.html",
-        "https://vnexpress.net/messi-that-bai-o-chung-ket-world-cup-2026-la-noi-dau-lon-5099729.html",
-        "https://vnexpress.net/bac-si-vu-ly-hon-nghin-ty-bi-cao-buoc-lua-hon-1-2-trieu-khach-hang-5099780.html",
-        "https://vnexpress.net/hon-2-trieu-nguoi-nhuom-do-madrid-mung-tay-ban-nha-vo-dich-world-cup-5099746.html",
-        "https://vnexpress.net/hien-truong-xe-giuong-nam-chay-lam-7-nguoi-chet-5099768.html"
-      ],
-      "highlight_id": "https://vnexpress.net/hien-truong-xe-giuong-nam-chay-lam-7-nguoi-chet-5099768.html"
-    },
-    {
-      "sent_at": "2026-07-21T04:01:23.103Z",
-      "topic": null,
-      "device_id": "A11EB203-9671-4F19-AEE7-2B068733177A",
-      "slot": "noon",
-      "type": "featured_digest",
-      "article_ids": [
-        "https://vnexpress.net/boi-roi-vi-nhan-vien-het-gio-la-ngat-ket-noi-5099218.html",
-        "https://vnexpress.net/nua-doi-tim-me-5098243.html",
-        "https://vnexpress.net/nua-doi-tim-me-cua-nhung-dua-tre-babylift-5098243.html",
-        "https://vnexpress.net/nam-thoi-giuong-ca-cuoi-tuan-5099305.html",
-        "https://vnexpress.net/rung-san-ho-o-nha-trang-tung-bi-du-khach-xam-hai-5099637.html",
-        "https://vnexpress.net/my-khong-kich-iran-ngay-thu-10-lien-tiep-5099713.html",
-        "https://vnexpress.net/dang-sau-nhung-con-so-ky-luc-cua-world-cup-2026-5099706.html",
-        "https://vnexpress.net/nguoi-tre-ve-que-lam-truong-thon-5097399.html",
-        "https://vnexpress.net/chay-xe-khach-giuong-nam-7-nguoi-chet-5099724.html",
-        "https://vnexpress.net/messi-that-bai-o-chung-ket-world-cup-2026-la-noi-dau-lon-5099729.html",
-        "https://vnexpress.net/bac-si-vu-ly-hon-nghin-ty-bi-cao-buoc-lua-hon-1-2-trieu-khach-hang-5099780.html",
-        "https://vnexpress.net/hon-2-trieu-nguoi-nhuom-do-madrid-mung-tay-ban-nha-vo-dich-world-cup-5099746.html",
-        "https://vnexpress.net/hien-truong-xe-giuong-nam-chay-lam-7-nguoi-chet-5099768.html"
-      ],
-      "highlight_id": "https://vnexpress.net/hien-truong-xe-giuong-nam-chay-lam-7-nguoi-chet-5099768.html"
-    },
-    {
-      "sent_at": "2026-07-21T04:01:23.352Z",
-      "topic": null,
-      "device_id": "900F95DF-6125-4744-BF3A-03080BB0D09F",
-      "slot": "noon",
-      "type": "featured_digest",
-      "article_ids": [
-        "https://vnexpress.net/boi-roi-vi-nhan-vien-het-gio-la-ngat-ket-noi-5099218.html",
-        "https://vnexpress.net/nua-doi-tim-me-5098243.html",
-        "https://vnexpress.net/nua-doi-tim-me-cua-nhung-dua-tre-babylift-5098243.html",
-        "https://vnexpress.net/nam-thoi-giuong-ca-cuoi-tuan-5099305.html",
-        "https://vnexpress.net/rung-san-ho-o-nha-trang-tung-bi-du-khach-xam-hai-5099637.html",
-        "https://vnexpress.net/my-khong-kich-iran-ngay-thu-10-lien-tiep-5099713.html",
-        "https://vnexpress.net/dang-sau-nhung-con-so-ky-luc-cua-world-cup-2026-5099706.html",
-        "https://vnexpress.net/nguoi-tre-ve-que-lam-truong-thon-5097399.html",
-        "https://vnexpress.net/chay-xe-khach-giuong-nam-7-nguoi-chet-5099724.html",
-        "https://vnexpress.net/messi-that-bai-o-chung-ket-world-cup-2026-la-noi-dau-lon-5099729.html",
-        "https://vnexpress.net/bac-si-vu-ly-hon-nghin-ty-bi-cao-buoc-lua-hon-1-2-trieu-khach-hang-5099780.html",
-        "https://vnexpress.net/hon-2-trieu-nguoi-nhuom-do-madrid-mung-tay-ban-nha-vo-dich-world-cup-5099746.html",
-        "https://vnexpress.net/hien-truong-xe-giuong-nam-chay-lam-7-nguoi-chet-5099768.html"
-      ],
-      "highlight_id": "https://vnexpress.net/hien-truong-xe-giuong-nam-chay-lam-7-nguoi-chet-5099768.html"
-    },
-    {
-      "sent_at": "2026-07-21T04:01:23.581Z",
-      "topic": null,
-      "device_id": "A72B80C5-D1C5-4E0F-B6AE-A4E5BF8B31BF",
-      "slot": "noon",
-      "type": "featured_digest",
-      "article_ids": [
-        "https://vnexpress.net/boi-roi-vi-nhan-vien-het-gio-la-ngat-ket-noi-5099218.html",
-        "https://vnexpress.net/nua-doi-tim-me-5098243.html",
-        "https://vnexpress.net/nua-doi-tim-me-cua-nhung-dua-tre-babylift-5098243.html",
-        "https://vnexpress.net/nam-thoi-giuong-ca-cuoi-tuan-5099305.html",
-        "https://vnexpress.net/rung-san-ho-o-nha-trang-tung-bi-du-khach-xam-hai-5099637.html",
-        "https://vnexpress.net/my-khong-kich-iran-ngay-thu-10-lien-tiep-5099713.html",
-        "https://vnexpress.net/dang-sau-nhung-con-so-ky-luc-cua-world-cup-2026-5099706.html",
-        "https://vnexpress.net/nguoi-tre-ve-que-lam-truong-thon-5097399.html",
-        "https://vnexpress.net/chay-xe-khach-giuong-nam-7-nguoi-chet-5099724.html",
-        "https://vnexpress.net/messi-that-bai-o-chung-ket-world-cup-2026-la-noi-dau-lon-5099729.html",
-        "https://vnexpress.net/bac-si-vu-ly-hon-nghin-ty-bi-cao-buoc-lua-hon-1-2-trieu-khach-hang-5099780.html",
-        "https://vnexpress.net/hon-2-trieu-nguoi-nhuom-do-madrid-mung-tay-ban-nha-vo-dich-world-cup-5099746.html",
-        "https://vnexpress.net/hien-truong-xe-giuong-nam-chay-lam-7-nguoi-chet-5099768.html"
-      ],
-      "highlight_id": "https://vnexpress.net/hien-truong-xe-giuong-nam-chay-lam-7-nguoi-chet-5099768.html"
-    },
-    {
-      "sent_at": "2026-07-21T04:01:23.706Z",
-      "topic": null,
-      "device_id": "8AE72633-E9FD-488F-AFD4-7E7150C20B96",
-      "slot": "noon",
-      "type": "featured_digest",
-      "article_ids": [
-        "https://vnexpress.net/boi-roi-vi-nhan-vien-het-gio-la-ngat-ket-noi-5099218.html",
-        "https://vnexpress.net/nua-doi-tim-me-5098243.html",
-        "https://vnexpress.net/nua-doi-tim-me-cua-nhung-dua-tre-babylift-5098243.html",
-        "https://vnexpress.net/nam-thoi-giuong-ca-cuoi-tuan-5099305.html",
-        "https://vnexpress.net/rung-san-ho-o-nha-trang-tung-bi-du-khach-xam-hai-5099637.html",
-        "https://vnexpress.net/my-khong-kich-iran-ngay-thu-10-lien-tiep-5099713.html",
-        "https://vnexpress.net/dang-sau-nhung-con-so-ky-luc-cua-world-cup-2026-5099706.html",
-        "https://vnexpress.net/nguoi-tre-ve-que-lam-truong-thon-5097399.html",
-        "https://vnexpress.net/chay-xe-khach-giuong-nam-7-nguoi-chet-5099724.html",
-        "https://vnexpress.net/messi-that-bai-o-chung-ket-world-cup-2026-la-noi-dau-lon-5099729.html",
-        "https://vnexpress.net/bac-si-vu-ly-hon-nghin-ty-bi-cao-buoc-lua-hon-1-2-trieu-khach-hang-5099780.html",
-        "https://vnexpress.net/hon-2-trieu-nguoi-nhuom-do-madrid-mung-tay-ban-nha-vo-dich-world-cup-5099746.html",
-        "https://vnexpress.net/hien-truong-xe-giuong-nam-chay-lam-7-nguoi-chet-5099768.html"
-      ],
-      "highlight_id": "https://vnexpress.net/hien-truong-xe-giuong-nam-chay-lam-7-nguoi-chet-5099768.html"
-    },
-    {
       "sent_at": "2026-07-21T04:01:23.964Z",
       "topic": null,
       "device_id": "B3D4B7F7-C2A7-4E7A-A92F-53B6A2B611D0",
@@ -15022,6 +14081,686 @@
         "https://vnexpress.net/ong-do-thanh-binh-lam-bi-thu-thanh-uy-can-tho-5101552.html"
       ],
       "highlight_id": "https://vnexpress.net/ong-do-thanh-binh-lam-bi-thu-thanh-uy-can-tho-5101552.html"
+    },
+    {
+      "sent_at": "2026-07-25T10:50:44.859Z",
+      "topic": null,
+      "device_id": "6296C746-2413-4A29-B3CC-39F791042275",
+      "slot": "evening",
+      "type": "featured_digest",
+      "article_ids": [
+        "https://vnexpress.net/tuan-toi-te-cua-cuu-ty-phu-nghin-ty-elon-musk-5101520.html",
+        "https://vnexpress.net/nguoi-ban-hang-rong-noi-tieng-o-nha-trang-bi-thu-giu-quang-ganh-5100629.html",
+        "https://vnexpress.net/viet-nam-len-tieng-ve-viec-my-ap-muc-thue-moi-12-5-5101563.html",
+        "https://vnexpress.net/tai-xe-xe-dau-keo-thong-hang-loat-chot-canh-sat-bo-chay-130-km-5101570.html",
+        "https://vnexpress.net/nhan-chung-ke-giay-phut-ten-lua-nga-danh-trung-trien-lam-drone-ukraine-5101555.html",
+        "https://vnexpress.net/cach-cac-nuoc-gioi-han-thoi-gian-tre-choi-game-5101425.html",
+        "https://vnexpress.net/tai-xe-xe-tai-tong-nu-sinh-tu-vong-o-vinh-long-bi-de-nghi-truy-to-5101580.html"
+      ],
+      "highlight_id": "https://vnexpress.net/tai-xe-xe-tai-tong-nu-sinh-tu-vong-o-vinh-long-bi-de-nghi-truy-to-5101580.html"
+    },
+    {
+      "sent_at": "2026-07-25T10:50:44.997Z",
+      "topic": null,
+      "device_id": "98e45764fa502cd2",
+      "slot": "evening",
+      "type": "featured_digest",
+      "article_ids": [
+        "https://vnexpress.net/tuan-toi-te-cua-cuu-ty-phu-nghin-ty-elon-musk-5101520.html",
+        "https://vnexpress.net/nguoi-ban-hang-rong-noi-tieng-o-nha-trang-bi-thu-giu-quang-ganh-5100629.html",
+        "https://vnexpress.net/viet-nam-len-tieng-ve-viec-my-ap-muc-thue-moi-12-5-5101563.html",
+        "https://vnexpress.net/tai-xe-xe-dau-keo-thong-hang-loat-chot-canh-sat-bo-chay-130-km-5101570.html",
+        "https://vnexpress.net/nhan-chung-ke-giay-phut-ten-lua-nga-danh-trung-trien-lam-drone-ukraine-5101555.html",
+        "https://vnexpress.net/cach-cac-nuoc-gioi-han-thoi-gian-tre-choi-game-5101425.html",
+        "https://vnexpress.net/tai-xe-xe-tai-tong-nu-sinh-tu-vong-o-vinh-long-bi-de-nghi-truy-to-5101580.html"
+      ],
+      "highlight_id": "https://vnexpress.net/tai-xe-xe-tai-tong-nu-sinh-tu-vong-o-vinh-long-bi-de-nghi-truy-to-5101580.html"
+    },
+    {
+      "sent_at": "2026-07-25T10:50:45.221Z",
+      "topic": null,
+      "device_id": "EBB7CAB7-FDF1-438F-87F2-A9999FBD4DB9",
+      "slot": "evening",
+      "type": "featured_digest",
+      "article_ids": [
+        "https://vnexpress.net/tuan-toi-te-cua-cuu-ty-phu-nghin-ty-elon-musk-5101520.html",
+        "https://vnexpress.net/nguoi-ban-hang-rong-noi-tieng-o-nha-trang-bi-thu-giu-quang-ganh-5100629.html",
+        "https://vnexpress.net/viet-nam-len-tieng-ve-viec-my-ap-muc-thue-moi-12-5-5101563.html",
+        "https://vnexpress.net/tai-xe-xe-dau-keo-thong-hang-loat-chot-canh-sat-bo-chay-130-km-5101570.html",
+        "https://vnexpress.net/nhan-chung-ke-giay-phut-ten-lua-nga-danh-trung-trien-lam-drone-ukraine-5101555.html",
+        "https://vnexpress.net/cach-cac-nuoc-gioi-han-thoi-gian-tre-choi-game-5101425.html",
+        "https://vnexpress.net/tai-xe-xe-tai-tong-nu-sinh-tu-vong-o-vinh-long-bi-de-nghi-truy-to-5101580.html"
+      ],
+      "highlight_id": "https://vnexpress.net/tai-xe-xe-tai-tong-nu-sinh-tu-vong-o-vinh-long-bi-de-nghi-truy-to-5101580.html"
+    },
+    {
+      "sent_at": "2026-07-25T10:50:45.360Z",
+      "topic": null,
+      "device_id": "6C7D6B0A-A321-4963-9796-97F607334CAD",
+      "slot": "evening",
+      "type": "featured_digest",
+      "article_ids": [
+        "https://vnexpress.net/tuan-toi-te-cua-cuu-ty-phu-nghin-ty-elon-musk-5101520.html",
+        "https://vnexpress.net/nguoi-ban-hang-rong-noi-tieng-o-nha-trang-bi-thu-giu-quang-ganh-5100629.html",
+        "https://vnexpress.net/viet-nam-len-tieng-ve-viec-my-ap-muc-thue-moi-12-5-5101563.html",
+        "https://vnexpress.net/tai-xe-xe-dau-keo-thong-hang-loat-chot-canh-sat-bo-chay-130-km-5101570.html",
+        "https://vnexpress.net/nhan-chung-ke-giay-phut-ten-lua-nga-danh-trung-trien-lam-drone-ukraine-5101555.html",
+        "https://vnexpress.net/cach-cac-nuoc-gioi-han-thoi-gian-tre-choi-game-5101425.html",
+        "https://vnexpress.net/tai-xe-xe-tai-tong-nu-sinh-tu-vong-o-vinh-long-bi-de-nghi-truy-to-5101580.html"
+      ],
+      "highlight_id": "https://vnexpress.net/tai-xe-xe-tai-tong-nu-sinh-tu-vong-o-vinh-long-bi-de-nghi-truy-to-5101580.html"
+    },
+    {
+      "sent_at": "2026-07-25T10:50:45.772Z",
+      "topic": null,
+      "device_id": "B344B30F-A3BA-4BAB-8F7A-812FBF982B53",
+      "slot": "evening",
+      "type": "featured_digest",
+      "article_ids": [
+        "https://vnexpress.net/tuan-toi-te-cua-cuu-ty-phu-nghin-ty-elon-musk-5101520.html",
+        "https://vnexpress.net/nguoi-ban-hang-rong-noi-tieng-o-nha-trang-bi-thu-giu-quang-ganh-5100629.html",
+        "https://vnexpress.net/viet-nam-len-tieng-ve-viec-my-ap-muc-thue-moi-12-5-5101563.html",
+        "https://vnexpress.net/tai-xe-xe-dau-keo-thong-hang-loat-chot-canh-sat-bo-chay-130-km-5101570.html",
+        "https://vnexpress.net/nhan-chung-ke-giay-phut-ten-lua-nga-danh-trung-trien-lam-drone-ukraine-5101555.html",
+        "https://vnexpress.net/cach-cac-nuoc-gioi-han-thoi-gian-tre-choi-game-5101425.html",
+        "https://vnexpress.net/tai-xe-xe-tai-tong-nu-sinh-tu-vong-o-vinh-long-bi-de-nghi-truy-to-5101580.html"
+      ],
+      "highlight_id": "https://vnexpress.net/tai-xe-xe-tai-tong-nu-sinh-tu-vong-o-vinh-long-bi-de-nghi-truy-to-5101580.html"
+    },
+    {
+      "sent_at": "2026-07-25T10:50:46.165Z",
+      "topic": null,
+      "device_id": "692BDED7-C485-4DCF-BF17-C1CC61E6F8E8",
+      "slot": "evening",
+      "type": "featured_digest",
+      "article_ids": [
+        "https://vnexpress.net/tuan-toi-te-cua-cuu-ty-phu-nghin-ty-elon-musk-5101520.html",
+        "https://vnexpress.net/nguoi-ban-hang-rong-noi-tieng-o-nha-trang-bi-thu-giu-quang-ganh-5100629.html",
+        "https://vnexpress.net/viet-nam-len-tieng-ve-viec-my-ap-muc-thue-moi-12-5-5101563.html",
+        "https://vnexpress.net/tai-xe-xe-dau-keo-thong-hang-loat-chot-canh-sat-bo-chay-130-km-5101570.html",
+        "https://vnexpress.net/nhan-chung-ke-giay-phut-ten-lua-nga-danh-trung-trien-lam-drone-ukraine-5101555.html",
+        "https://vnexpress.net/cach-cac-nuoc-gioi-han-thoi-gian-tre-choi-game-5101425.html",
+        "https://vnexpress.net/tai-xe-xe-tai-tong-nu-sinh-tu-vong-o-vinh-long-bi-de-nghi-truy-to-5101580.html"
+      ],
+      "highlight_id": "https://vnexpress.net/tai-xe-xe-tai-tong-nu-sinh-tu-vong-o-vinh-long-bi-de-nghi-truy-to-5101580.html"
+    },
+    {
+      "sent_at": "2026-07-25T10:50:46.285Z",
+      "topic": null,
+      "device_id": "42646ea1f2848272",
+      "slot": "evening",
+      "type": "featured_digest",
+      "article_ids": [
+        "https://vnexpress.net/tuan-toi-te-cua-cuu-ty-phu-nghin-ty-elon-musk-5101520.html",
+        "https://vnexpress.net/nguoi-ban-hang-rong-noi-tieng-o-nha-trang-bi-thu-giu-quang-ganh-5100629.html",
+        "https://vnexpress.net/viet-nam-len-tieng-ve-viec-my-ap-muc-thue-moi-12-5-5101563.html",
+        "https://vnexpress.net/tai-xe-xe-dau-keo-thong-hang-loat-chot-canh-sat-bo-chay-130-km-5101570.html",
+        "https://vnexpress.net/nhan-chung-ke-giay-phut-ten-lua-nga-danh-trung-trien-lam-drone-ukraine-5101555.html",
+        "https://vnexpress.net/cach-cac-nuoc-gioi-han-thoi-gian-tre-choi-game-5101425.html",
+        "https://vnexpress.net/tai-xe-xe-tai-tong-nu-sinh-tu-vong-o-vinh-long-bi-de-nghi-truy-to-5101580.html"
+      ],
+      "highlight_id": "https://vnexpress.net/tai-xe-xe-tai-tong-nu-sinh-tu-vong-o-vinh-long-bi-de-nghi-truy-to-5101580.html"
+    },
+    {
+      "sent_at": "2026-07-25T10:50:46.400Z",
+      "topic": null,
+      "device_id": "8324162817fc22a6",
+      "slot": "evening",
+      "type": "featured_digest",
+      "article_ids": [
+        "https://vnexpress.net/tuan-toi-te-cua-cuu-ty-phu-nghin-ty-elon-musk-5101520.html",
+        "https://vnexpress.net/nguoi-ban-hang-rong-noi-tieng-o-nha-trang-bi-thu-giu-quang-ganh-5100629.html",
+        "https://vnexpress.net/viet-nam-len-tieng-ve-viec-my-ap-muc-thue-moi-12-5-5101563.html",
+        "https://vnexpress.net/tai-xe-xe-dau-keo-thong-hang-loat-chot-canh-sat-bo-chay-130-km-5101570.html",
+        "https://vnexpress.net/nhan-chung-ke-giay-phut-ten-lua-nga-danh-trung-trien-lam-drone-ukraine-5101555.html",
+        "https://vnexpress.net/cach-cac-nuoc-gioi-han-thoi-gian-tre-choi-game-5101425.html",
+        "https://vnexpress.net/tai-xe-xe-tai-tong-nu-sinh-tu-vong-o-vinh-long-bi-de-nghi-truy-to-5101580.html"
+      ],
+      "highlight_id": "https://vnexpress.net/tai-xe-xe-tai-tong-nu-sinh-tu-vong-o-vinh-long-bi-de-nghi-truy-to-5101580.html"
+    },
+    {
+      "sent_at": "2026-07-25T10:50:46.540Z",
+      "topic": null,
+      "device_id": "979bdb8856573cb2",
+      "slot": "evening",
+      "type": "featured_digest",
+      "article_ids": [
+        "https://vnexpress.net/tuan-toi-te-cua-cuu-ty-phu-nghin-ty-elon-musk-5101520.html",
+        "https://vnexpress.net/nguoi-ban-hang-rong-noi-tieng-o-nha-trang-bi-thu-giu-quang-ganh-5100629.html",
+        "https://vnexpress.net/viet-nam-len-tieng-ve-viec-my-ap-muc-thue-moi-12-5-5101563.html",
+        "https://vnexpress.net/tai-xe-xe-dau-keo-thong-hang-loat-chot-canh-sat-bo-chay-130-km-5101570.html",
+        "https://vnexpress.net/nhan-chung-ke-giay-phut-ten-lua-nga-danh-trung-trien-lam-drone-ukraine-5101555.html",
+        "https://vnexpress.net/cach-cac-nuoc-gioi-han-thoi-gian-tre-choi-game-5101425.html",
+        "https://vnexpress.net/tai-xe-xe-tai-tong-nu-sinh-tu-vong-o-vinh-long-bi-de-nghi-truy-to-5101580.html"
+      ],
+      "highlight_id": "https://vnexpress.net/tai-xe-xe-tai-tong-nu-sinh-tu-vong-o-vinh-long-bi-de-nghi-truy-to-5101580.html"
+    },
+    {
+      "sent_at": "2026-07-25T10:50:46.670Z",
+      "topic": null,
+      "device_id": "3596e06ad574c091",
+      "slot": "evening",
+      "type": "featured_digest",
+      "article_ids": [
+        "https://vnexpress.net/tuan-toi-te-cua-cuu-ty-phu-nghin-ty-elon-musk-5101520.html",
+        "https://vnexpress.net/nguoi-ban-hang-rong-noi-tieng-o-nha-trang-bi-thu-giu-quang-ganh-5100629.html",
+        "https://vnexpress.net/viet-nam-len-tieng-ve-viec-my-ap-muc-thue-moi-12-5-5101563.html",
+        "https://vnexpress.net/tai-xe-xe-dau-keo-thong-hang-loat-chot-canh-sat-bo-chay-130-km-5101570.html",
+        "https://vnexpress.net/nhan-chung-ke-giay-phut-ten-lua-nga-danh-trung-trien-lam-drone-ukraine-5101555.html",
+        "https://vnexpress.net/cach-cac-nuoc-gioi-han-thoi-gian-tre-choi-game-5101425.html",
+        "https://vnexpress.net/tai-xe-xe-tai-tong-nu-sinh-tu-vong-o-vinh-long-bi-de-nghi-truy-to-5101580.html"
+      ],
+      "highlight_id": "https://vnexpress.net/tai-xe-xe-tai-tong-nu-sinh-tu-vong-o-vinh-long-bi-de-nghi-truy-to-5101580.html"
+    },
+    {
+      "sent_at": "2026-07-25T10:50:46.805Z",
+      "topic": null,
+      "device_id": "f7c37c4383a9b4be",
+      "slot": "evening",
+      "type": "featured_digest",
+      "article_ids": [
+        "https://vnexpress.net/tuan-toi-te-cua-cuu-ty-phu-nghin-ty-elon-musk-5101520.html",
+        "https://vnexpress.net/nguoi-ban-hang-rong-noi-tieng-o-nha-trang-bi-thu-giu-quang-ganh-5100629.html",
+        "https://vnexpress.net/viet-nam-len-tieng-ve-viec-my-ap-muc-thue-moi-12-5-5101563.html",
+        "https://vnexpress.net/tai-xe-xe-dau-keo-thong-hang-loat-chot-canh-sat-bo-chay-130-km-5101570.html",
+        "https://vnexpress.net/nhan-chung-ke-giay-phut-ten-lua-nga-danh-trung-trien-lam-drone-ukraine-5101555.html",
+        "https://vnexpress.net/cach-cac-nuoc-gioi-han-thoi-gian-tre-choi-game-5101425.html",
+        "https://vnexpress.net/tai-xe-xe-tai-tong-nu-sinh-tu-vong-o-vinh-long-bi-de-nghi-truy-to-5101580.html"
+      ],
+      "highlight_id": "https://vnexpress.net/tai-xe-xe-tai-tong-nu-sinh-tu-vong-o-vinh-long-bi-de-nghi-truy-to-5101580.html"
+    },
+    {
+      "sent_at": "2026-07-25T10:50:46.936Z",
+      "topic": null,
+      "device_id": "6bdc5a50d2532007",
+      "slot": "evening",
+      "type": "featured_digest",
+      "article_ids": [
+        "https://vnexpress.net/tuan-toi-te-cua-cuu-ty-phu-nghin-ty-elon-musk-5101520.html",
+        "https://vnexpress.net/nguoi-ban-hang-rong-noi-tieng-o-nha-trang-bi-thu-giu-quang-ganh-5100629.html",
+        "https://vnexpress.net/viet-nam-len-tieng-ve-viec-my-ap-muc-thue-moi-12-5-5101563.html",
+        "https://vnexpress.net/tai-xe-xe-dau-keo-thong-hang-loat-chot-canh-sat-bo-chay-130-km-5101570.html",
+        "https://vnexpress.net/nhan-chung-ke-giay-phut-ten-lua-nga-danh-trung-trien-lam-drone-ukraine-5101555.html",
+        "https://vnexpress.net/cach-cac-nuoc-gioi-han-thoi-gian-tre-choi-game-5101425.html",
+        "https://vnexpress.net/tai-xe-xe-tai-tong-nu-sinh-tu-vong-o-vinh-long-bi-de-nghi-truy-to-5101580.html"
+      ],
+      "highlight_id": "https://vnexpress.net/tai-xe-xe-tai-tong-nu-sinh-tu-vong-o-vinh-long-bi-de-nghi-truy-to-5101580.html"
+    },
+    {
+      "sent_at": "2026-07-25T10:50:47.059Z",
+      "topic": null,
+      "device_id": "6ecf868a064e3ff4",
+      "slot": "evening",
+      "type": "featured_digest",
+      "article_ids": [
+        "https://vnexpress.net/tuan-toi-te-cua-cuu-ty-phu-nghin-ty-elon-musk-5101520.html",
+        "https://vnexpress.net/nguoi-ban-hang-rong-noi-tieng-o-nha-trang-bi-thu-giu-quang-ganh-5100629.html",
+        "https://vnexpress.net/viet-nam-len-tieng-ve-viec-my-ap-muc-thue-moi-12-5-5101563.html",
+        "https://vnexpress.net/tai-xe-xe-dau-keo-thong-hang-loat-chot-canh-sat-bo-chay-130-km-5101570.html",
+        "https://vnexpress.net/nhan-chung-ke-giay-phut-ten-lua-nga-danh-trung-trien-lam-drone-ukraine-5101555.html",
+        "https://vnexpress.net/cach-cac-nuoc-gioi-han-thoi-gian-tre-choi-game-5101425.html",
+        "https://vnexpress.net/tai-xe-xe-tai-tong-nu-sinh-tu-vong-o-vinh-long-bi-de-nghi-truy-to-5101580.html"
+      ],
+      "highlight_id": "https://vnexpress.net/tai-xe-xe-tai-tong-nu-sinh-tu-vong-o-vinh-long-bi-de-nghi-truy-to-5101580.html"
+    },
+    {
+      "sent_at": "2026-07-25T10:50:47.179Z",
+      "topic": null,
+      "device_id": "b9ffbb33ac6e18b3",
+      "slot": "evening",
+      "type": "featured_digest",
+      "article_ids": [
+        "https://vnexpress.net/tuan-toi-te-cua-cuu-ty-phu-nghin-ty-elon-musk-5101520.html",
+        "https://vnexpress.net/nguoi-ban-hang-rong-noi-tieng-o-nha-trang-bi-thu-giu-quang-ganh-5100629.html",
+        "https://vnexpress.net/viet-nam-len-tieng-ve-viec-my-ap-muc-thue-moi-12-5-5101563.html",
+        "https://vnexpress.net/tai-xe-xe-dau-keo-thong-hang-loat-chot-canh-sat-bo-chay-130-km-5101570.html",
+        "https://vnexpress.net/nhan-chung-ke-giay-phut-ten-lua-nga-danh-trung-trien-lam-drone-ukraine-5101555.html",
+        "https://vnexpress.net/cach-cac-nuoc-gioi-han-thoi-gian-tre-choi-game-5101425.html",
+        "https://vnexpress.net/tai-xe-xe-tai-tong-nu-sinh-tu-vong-o-vinh-long-bi-de-nghi-truy-to-5101580.html"
+      ],
+      "highlight_id": "https://vnexpress.net/tai-xe-xe-tai-tong-nu-sinh-tu-vong-o-vinh-long-bi-de-nghi-truy-to-5101580.html"
+    },
+    {
+      "sent_at": "2026-07-25T10:50:47.310Z",
+      "topic": null,
+      "device_id": "730d096a4aca0cc7",
+      "slot": "evening",
+      "type": "featured_digest",
+      "article_ids": [
+        "https://vnexpress.net/tuan-toi-te-cua-cuu-ty-phu-nghin-ty-elon-musk-5101520.html",
+        "https://vnexpress.net/nguoi-ban-hang-rong-noi-tieng-o-nha-trang-bi-thu-giu-quang-ganh-5100629.html",
+        "https://vnexpress.net/viet-nam-len-tieng-ve-viec-my-ap-muc-thue-moi-12-5-5101563.html",
+        "https://vnexpress.net/tai-xe-xe-dau-keo-thong-hang-loat-chot-canh-sat-bo-chay-130-km-5101570.html",
+        "https://vnexpress.net/nhan-chung-ke-giay-phut-ten-lua-nga-danh-trung-trien-lam-drone-ukraine-5101555.html",
+        "https://vnexpress.net/cach-cac-nuoc-gioi-han-thoi-gian-tre-choi-game-5101425.html",
+        "https://vnexpress.net/tai-xe-xe-tai-tong-nu-sinh-tu-vong-o-vinh-long-bi-de-nghi-truy-to-5101580.html"
+      ],
+      "highlight_id": "https://vnexpress.net/tai-xe-xe-tai-tong-nu-sinh-tu-vong-o-vinh-long-bi-de-nghi-truy-to-5101580.html"
+    },
+    {
+      "sent_at": "2026-07-25T10:50:47.441Z",
+      "topic": null,
+      "device_id": "4b7b7217a1ea1e79",
+      "slot": "evening",
+      "type": "featured_digest",
+      "article_ids": [
+        "https://vnexpress.net/tuan-toi-te-cua-cuu-ty-phu-nghin-ty-elon-musk-5101520.html",
+        "https://vnexpress.net/nguoi-ban-hang-rong-noi-tieng-o-nha-trang-bi-thu-giu-quang-ganh-5100629.html",
+        "https://vnexpress.net/viet-nam-len-tieng-ve-viec-my-ap-muc-thue-moi-12-5-5101563.html",
+        "https://vnexpress.net/tai-xe-xe-dau-keo-thong-hang-loat-chot-canh-sat-bo-chay-130-km-5101570.html",
+        "https://vnexpress.net/nhan-chung-ke-giay-phut-ten-lua-nga-danh-trung-trien-lam-drone-ukraine-5101555.html",
+        "https://vnexpress.net/cach-cac-nuoc-gioi-han-thoi-gian-tre-choi-game-5101425.html",
+        "https://vnexpress.net/tai-xe-xe-tai-tong-nu-sinh-tu-vong-o-vinh-long-bi-de-nghi-truy-to-5101580.html"
+      ],
+      "highlight_id": "https://vnexpress.net/tai-xe-xe-tai-tong-nu-sinh-tu-vong-o-vinh-long-bi-de-nghi-truy-to-5101580.html"
+    },
+    {
+      "sent_at": "2026-07-25T10:50:47.572Z",
+      "topic": null,
+      "device_id": "2c939316dd386076",
+      "slot": "evening",
+      "type": "featured_digest",
+      "article_ids": [
+        "https://vnexpress.net/tuan-toi-te-cua-cuu-ty-phu-nghin-ty-elon-musk-5101520.html",
+        "https://vnexpress.net/nguoi-ban-hang-rong-noi-tieng-o-nha-trang-bi-thu-giu-quang-ganh-5100629.html",
+        "https://vnexpress.net/viet-nam-len-tieng-ve-viec-my-ap-muc-thue-moi-12-5-5101563.html",
+        "https://vnexpress.net/tai-xe-xe-dau-keo-thong-hang-loat-chot-canh-sat-bo-chay-130-km-5101570.html",
+        "https://vnexpress.net/nhan-chung-ke-giay-phut-ten-lua-nga-danh-trung-trien-lam-drone-ukraine-5101555.html",
+        "https://vnexpress.net/cach-cac-nuoc-gioi-han-thoi-gian-tre-choi-game-5101425.html",
+        "https://vnexpress.net/tai-xe-xe-tai-tong-nu-sinh-tu-vong-o-vinh-long-bi-de-nghi-truy-to-5101580.html"
+      ],
+      "highlight_id": "https://vnexpress.net/tai-xe-xe-tai-tong-nu-sinh-tu-vong-o-vinh-long-bi-de-nghi-truy-to-5101580.html"
+    },
+    {
+      "sent_at": "2026-07-25T10:50:47.706Z",
+      "topic": null,
+      "device_id": "3e907a09e5d79376",
+      "slot": "evening",
+      "type": "featured_digest",
+      "article_ids": [
+        "https://vnexpress.net/tuan-toi-te-cua-cuu-ty-phu-nghin-ty-elon-musk-5101520.html",
+        "https://vnexpress.net/nguoi-ban-hang-rong-noi-tieng-o-nha-trang-bi-thu-giu-quang-ganh-5100629.html",
+        "https://vnexpress.net/viet-nam-len-tieng-ve-viec-my-ap-muc-thue-moi-12-5-5101563.html",
+        "https://vnexpress.net/tai-xe-xe-dau-keo-thong-hang-loat-chot-canh-sat-bo-chay-130-km-5101570.html",
+        "https://vnexpress.net/nhan-chung-ke-giay-phut-ten-lua-nga-danh-trung-trien-lam-drone-ukraine-5101555.html",
+        "https://vnexpress.net/cach-cac-nuoc-gioi-han-thoi-gian-tre-choi-game-5101425.html",
+        "https://vnexpress.net/tai-xe-xe-tai-tong-nu-sinh-tu-vong-o-vinh-long-bi-de-nghi-truy-to-5101580.html"
+      ],
+      "highlight_id": "https://vnexpress.net/tai-xe-xe-tai-tong-nu-sinh-tu-vong-o-vinh-long-bi-de-nghi-truy-to-5101580.html"
+    },
+    {
+      "sent_at": "2026-07-25T10:50:47.809Z",
+      "topic": null,
+      "device_id": "fca9cd74cd63b81b",
+      "slot": "evening",
+      "type": "featured_digest",
+      "article_ids": [
+        "https://vnexpress.net/tuan-toi-te-cua-cuu-ty-phu-nghin-ty-elon-musk-5101520.html",
+        "https://vnexpress.net/nguoi-ban-hang-rong-noi-tieng-o-nha-trang-bi-thu-giu-quang-ganh-5100629.html",
+        "https://vnexpress.net/viet-nam-len-tieng-ve-viec-my-ap-muc-thue-moi-12-5-5101563.html",
+        "https://vnexpress.net/tai-xe-xe-dau-keo-thong-hang-loat-chot-canh-sat-bo-chay-130-km-5101570.html",
+        "https://vnexpress.net/nhan-chung-ke-giay-phut-ten-lua-nga-danh-trung-trien-lam-drone-ukraine-5101555.html",
+        "https://vnexpress.net/cach-cac-nuoc-gioi-han-thoi-gian-tre-choi-game-5101425.html",
+        "https://vnexpress.net/tai-xe-xe-tai-tong-nu-sinh-tu-vong-o-vinh-long-bi-de-nghi-truy-to-5101580.html"
+      ],
+      "highlight_id": "https://vnexpress.net/tai-xe-xe-tai-tong-nu-sinh-tu-vong-o-vinh-long-bi-de-nghi-truy-to-5101580.html"
+    },
+    {
+      "sent_at": "2026-07-25T10:50:47.933Z",
+      "topic": null,
+      "device_id": "dc4c855bfd4f5c56",
+      "slot": "evening",
+      "type": "featured_digest",
+      "article_ids": [
+        "https://vnexpress.net/tuan-toi-te-cua-cuu-ty-phu-nghin-ty-elon-musk-5101520.html",
+        "https://vnexpress.net/nguoi-ban-hang-rong-noi-tieng-o-nha-trang-bi-thu-giu-quang-ganh-5100629.html",
+        "https://vnexpress.net/viet-nam-len-tieng-ve-viec-my-ap-muc-thue-moi-12-5-5101563.html",
+        "https://vnexpress.net/tai-xe-xe-dau-keo-thong-hang-loat-chot-canh-sat-bo-chay-130-km-5101570.html",
+        "https://vnexpress.net/nhan-chung-ke-giay-phut-ten-lua-nga-danh-trung-trien-lam-drone-ukraine-5101555.html",
+        "https://vnexpress.net/cach-cac-nuoc-gioi-han-thoi-gian-tre-choi-game-5101425.html",
+        "https://vnexpress.net/tai-xe-xe-tai-tong-nu-sinh-tu-vong-o-vinh-long-bi-de-nghi-truy-to-5101580.html"
+      ],
+      "highlight_id": "https://vnexpress.net/tai-xe-xe-tai-tong-nu-sinh-tu-vong-o-vinh-long-bi-de-nghi-truy-to-5101580.html"
+    },
+    {
+      "sent_at": "2026-07-25T10:50:48.062Z",
+      "topic": null,
+      "device_id": "b557c896d6bacca4",
+      "slot": "evening",
+      "type": "featured_digest",
+      "article_ids": [
+        "https://vnexpress.net/tuan-toi-te-cua-cuu-ty-phu-nghin-ty-elon-musk-5101520.html",
+        "https://vnexpress.net/nguoi-ban-hang-rong-noi-tieng-o-nha-trang-bi-thu-giu-quang-ganh-5100629.html",
+        "https://vnexpress.net/viet-nam-len-tieng-ve-viec-my-ap-muc-thue-moi-12-5-5101563.html",
+        "https://vnexpress.net/tai-xe-xe-dau-keo-thong-hang-loat-chot-canh-sat-bo-chay-130-km-5101570.html",
+        "https://vnexpress.net/nhan-chung-ke-giay-phut-ten-lua-nga-danh-trung-trien-lam-drone-ukraine-5101555.html",
+        "https://vnexpress.net/cach-cac-nuoc-gioi-han-thoi-gian-tre-choi-game-5101425.html",
+        "https://vnexpress.net/tai-xe-xe-tai-tong-nu-sinh-tu-vong-o-vinh-long-bi-de-nghi-truy-to-5101580.html"
+      ],
+      "highlight_id": "https://vnexpress.net/tai-xe-xe-tai-tong-nu-sinh-tu-vong-o-vinh-long-bi-de-nghi-truy-to-5101580.html"
+    },
+    {
+      "sent_at": "2026-07-25T10:50:48.179Z",
+      "topic": null,
+      "device_id": "e7368c7543fff02f",
+      "slot": "evening",
+      "type": "featured_digest",
+      "article_ids": [
+        "https://vnexpress.net/tuan-toi-te-cua-cuu-ty-phu-nghin-ty-elon-musk-5101520.html",
+        "https://vnexpress.net/nguoi-ban-hang-rong-noi-tieng-o-nha-trang-bi-thu-giu-quang-ganh-5100629.html",
+        "https://vnexpress.net/viet-nam-len-tieng-ve-viec-my-ap-muc-thue-moi-12-5-5101563.html",
+        "https://vnexpress.net/tai-xe-xe-dau-keo-thong-hang-loat-chot-canh-sat-bo-chay-130-km-5101570.html",
+        "https://vnexpress.net/nhan-chung-ke-giay-phut-ten-lua-nga-danh-trung-trien-lam-drone-ukraine-5101555.html",
+        "https://vnexpress.net/cach-cac-nuoc-gioi-han-thoi-gian-tre-choi-game-5101425.html",
+        "https://vnexpress.net/tai-xe-xe-tai-tong-nu-sinh-tu-vong-o-vinh-long-bi-de-nghi-truy-to-5101580.html"
+      ],
+      "highlight_id": "https://vnexpress.net/tai-xe-xe-tai-tong-nu-sinh-tu-vong-o-vinh-long-bi-de-nghi-truy-to-5101580.html"
+    },
+    {
+      "sent_at": "2026-07-25T10:50:48.319Z",
+      "topic": null,
+      "device_id": "87c0924081244390",
+      "slot": "evening",
+      "type": "featured_digest",
+      "article_ids": [
+        "https://vnexpress.net/tuan-toi-te-cua-cuu-ty-phu-nghin-ty-elon-musk-5101520.html",
+        "https://vnexpress.net/nguoi-ban-hang-rong-noi-tieng-o-nha-trang-bi-thu-giu-quang-ganh-5100629.html",
+        "https://vnexpress.net/viet-nam-len-tieng-ve-viec-my-ap-muc-thue-moi-12-5-5101563.html",
+        "https://vnexpress.net/tai-xe-xe-dau-keo-thong-hang-loat-chot-canh-sat-bo-chay-130-km-5101570.html",
+        "https://vnexpress.net/nhan-chung-ke-giay-phut-ten-lua-nga-danh-trung-trien-lam-drone-ukraine-5101555.html",
+        "https://vnexpress.net/cach-cac-nuoc-gioi-han-thoi-gian-tre-choi-game-5101425.html",
+        "https://vnexpress.net/tai-xe-xe-tai-tong-nu-sinh-tu-vong-o-vinh-long-bi-de-nghi-truy-to-5101580.html"
+      ],
+      "highlight_id": "https://vnexpress.net/tai-xe-xe-tai-tong-nu-sinh-tu-vong-o-vinh-long-bi-de-nghi-truy-to-5101580.html"
+    },
+    {
+      "sent_at": "2026-07-25T10:50:48.440Z",
+      "topic": null,
+      "device_id": "1e45a3bcd48e2b1c",
+      "slot": "evening",
+      "type": "featured_digest",
+      "article_ids": [
+        "https://vnexpress.net/tuan-toi-te-cua-cuu-ty-phu-nghin-ty-elon-musk-5101520.html",
+        "https://vnexpress.net/nguoi-ban-hang-rong-noi-tieng-o-nha-trang-bi-thu-giu-quang-ganh-5100629.html",
+        "https://vnexpress.net/viet-nam-len-tieng-ve-viec-my-ap-muc-thue-moi-12-5-5101563.html",
+        "https://vnexpress.net/tai-xe-xe-dau-keo-thong-hang-loat-chot-canh-sat-bo-chay-130-km-5101570.html",
+        "https://vnexpress.net/nhan-chung-ke-giay-phut-ten-lua-nga-danh-trung-trien-lam-drone-ukraine-5101555.html",
+        "https://vnexpress.net/cach-cac-nuoc-gioi-han-thoi-gian-tre-choi-game-5101425.html",
+        "https://vnexpress.net/tai-xe-xe-tai-tong-nu-sinh-tu-vong-o-vinh-long-bi-de-nghi-truy-to-5101580.html"
+      ],
+      "highlight_id": "https://vnexpress.net/tai-xe-xe-tai-tong-nu-sinh-tu-vong-o-vinh-long-bi-de-nghi-truy-to-5101580.html"
+    },
+    {
+      "sent_at": "2026-07-25T10:50:48.573Z",
+      "topic": null,
+      "device_id": "1fd7919f9343d992",
+      "slot": "evening",
+      "type": "featured_digest",
+      "article_ids": [
+        "https://vnexpress.net/tuan-toi-te-cua-cuu-ty-phu-nghin-ty-elon-musk-5101520.html",
+        "https://vnexpress.net/nguoi-ban-hang-rong-noi-tieng-o-nha-trang-bi-thu-giu-quang-ganh-5100629.html",
+        "https://vnexpress.net/viet-nam-len-tieng-ve-viec-my-ap-muc-thue-moi-12-5-5101563.html",
+        "https://vnexpress.net/tai-xe-xe-dau-keo-thong-hang-loat-chot-canh-sat-bo-chay-130-km-5101570.html",
+        "https://vnexpress.net/nhan-chung-ke-giay-phut-ten-lua-nga-danh-trung-trien-lam-drone-ukraine-5101555.html",
+        "https://vnexpress.net/cach-cac-nuoc-gioi-han-thoi-gian-tre-choi-game-5101425.html",
+        "https://vnexpress.net/tai-xe-xe-tai-tong-nu-sinh-tu-vong-o-vinh-long-bi-de-nghi-truy-to-5101580.html"
+      ],
+      "highlight_id": "https://vnexpress.net/tai-xe-xe-tai-tong-nu-sinh-tu-vong-o-vinh-long-bi-de-nghi-truy-to-5101580.html"
+    },
+    {
+      "sent_at": "2026-07-25T10:50:48.861Z",
+      "topic": null,
+      "device_id": "FA653F7B-321B-4D20-867C-5FF2667949AC",
+      "slot": "evening",
+      "type": "featured_digest",
+      "article_ids": [
+        "https://vnexpress.net/tuan-toi-te-cua-cuu-ty-phu-nghin-ty-elon-musk-5101520.html",
+        "https://vnexpress.net/nguoi-ban-hang-rong-noi-tieng-o-nha-trang-bi-thu-giu-quang-ganh-5100629.html",
+        "https://vnexpress.net/viet-nam-len-tieng-ve-viec-my-ap-muc-thue-moi-12-5-5101563.html",
+        "https://vnexpress.net/tai-xe-xe-dau-keo-thong-hang-loat-chot-canh-sat-bo-chay-130-km-5101570.html",
+        "https://vnexpress.net/nhan-chung-ke-giay-phut-ten-lua-nga-danh-trung-trien-lam-drone-ukraine-5101555.html",
+        "https://vnexpress.net/cach-cac-nuoc-gioi-han-thoi-gian-tre-choi-game-5101425.html",
+        "https://vnexpress.net/tai-xe-xe-tai-tong-nu-sinh-tu-vong-o-vinh-long-bi-de-nghi-truy-to-5101580.html"
+      ],
+      "highlight_id": "https://vnexpress.net/tai-xe-xe-tai-tong-nu-sinh-tu-vong-o-vinh-long-bi-de-nghi-truy-to-5101580.html"
+    },
+    {
+      "sent_at": "2026-07-25T10:50:49.125Z",
+      "topic": null,
+      "device_id": "8209d66f306cfde5",
+      "slot": "evening",
+      "type": "featured_digest",
+      "article_ids": [
+        "https://vnexpress.net/tuan-toi-te-cua-cuu-ty-phu-nghin-ty-elon-musk-5101520.html",
+        "https://vnexpress.net/nguoi-ban-hang-rong-noi-tieng-o-nha-trang-bi-thu-giu-quang-ganh-5100629.html",
+        "https://vnexpress.net/viet-nam-len-tieng-ve-viec-my-ap-muc-thue-moi-12-5-5101563.html",
+        "https://vnexpress.net/tai-xe-xe-dau-keo-thong-hang-loat-chot-canh-sat-bo-chay-130-km-5101570.html",
+        "https://vnexpress.net/nhan-chung-ke-giay-phut-ten-lua-nga-danh-trung-trien-lam-drone-ukraine-5101555.html",
+        "https://vnexpress.net/cach-cac-nuoc-gioi-han-thoi-gian-tre-choi-game-5101425.html",
+        "https://vnexpress.net/tai-xe-xe-tai-tong-nu-sinh-tu-vong-o-vinh-long-bi-de-nghi-truy-to-5101580.html"
+      ],
+      "highlight_id": "https://vnexpress.net/tai-xe-xe-tai-tong-nu-sinh-tu-vong-o-vinh-long-bi-de-nghi-truy-to-5101580.html"
+    },
+    {
+      "sent_at": "2026-07-25T10:50:49.257Z",
+      "topic": null,
+      "device_id": "2ba55e08ae9fe631",
+      "slot": "evening",
+      "type": "featured_digest",
+      "article_ids": [
+        "https://vnexpress.net/tuan-toi-te-cua-cuu-ty-phu-nghin-ty-elon-musk-5101520.html",
+        "https://vnexpress.net/nguoi-ban-hang-rong-noi-tieng-o-nha-trang-bi-thu-giu-quang-ganh-5100629.html",
+        "https://vnexpress.net/viet-nam-len-tieng-ve-viec-my-ap-muc-thue-moi-12-5-5101563.html",
+        "https://vnexpress.net/tai-xe-xe-dau-keo-thong-hang-loat-chot-canh-sat-bo-chay-130-km-5101570.html",
+        "https://vnexpress.net/nhan-chung-ke-giay-phut-ten-lua-nga-danh-trung-trien-lam-drone-ukraine-5101555.html",
+        "https://vnexpress.net/cach-cac-nuoc-gioi-han-thoi-gian-tre-choi-game-5101425.html",
+        "https://vnexpress.net/tai-xe-xe-tai-tong-nu-sinh-tu-vong-o-vinh-long-bi-de-nghi-truy-to-5101580.html"
+      ],
+      "highlight_id": "https://vnexpress.net/tai-xe-xe-tai-tong-nu-sinh-tu-vong-o-vinh-long-bi-de-nghi-truy-to-5101580.html"
+    },
+    {
+      "sent_at": "2026-07-25T10:50:49.461Z",
+      "topic": null,
+      "device_id": "B379A2EA-D969-47ED-972F-E3E49DBDEE71",
+      "slot": "evening",
+      "type": "featured_digest",
+      "article_ids": [
+        "https://vnexpress.net/tuan-toi-te-cua-cuu-ty-phu-nghin-ty-elon-musk-5101520.html",
+        "https://vnexpress.net/nguoi-ban-hang-rong-noi-tieng-o-nha-trang-bi-thu-giu-quang-ganh-5100629.html",
+        "https://vnexpress.net/viet-nam-len-tieng-ve-viec-my-ap-muc-thue-moi-12-5-5101563.html",
+        "https://vnexpress.net/tai-xe-xe-dau-keo-thong-hang-loat-chot-canh-sat-bo-chay-130-km-5101570.html",
+        "https://vnexpress.net/nhan-chung-ke-giay-phut-ten-lua-nga-danh-trung-trien-lam-drone-ukraine-5101555.html",
+        "https://vnexpress.net/cach-cac-nuoc-gioi-han-thoi-gian-tre-choi-game-5101425.html",
+        "https://vnexpress.net/tai-xe-xe-tai-tong-nu-sinh-tu-vong-o-vinh-long-bi-de-nghi-truy-to-5101580.html"
+      ],
+      "highlight_id": "https://vnexpress.net/tai-xe-xe-tai-tong-nu-sinh-tu-vong-o-vinh-long-bi-de-nghi-truy-to-5101580.html"
+    },
+    {
+      "sent_at": "2026-07-25T10:50:49.764Z",
+      "topic": null,
+      "device_id": "2F788787-BBE7-4E5E-AA09-BC5E8401B0D6",
+      "slot": "evening",
+      "type": "featured_digest",
+      "article_ids": [
+        "https://vnexpress.net/tuan-toi-te-cua-cuu-ty-phu-nghin-ty-elon-musk-5101520.html",
+        "https://vnexpress.net/nguoi-ban-hang-rong-noi-tieng-o-nha-trang-bi-thu-giu-quang-ganh-5100629.html",
+        "https://vnexpress.net/viet-nam-len-tieng-ve-viec-my-ap-muc-thue-moi-12-5-5101563.html",
+        "https://vnexpress.net/tai-xe-xe-dau-keo-thong-hang-loat-chot-canh-sat-bo-chay-130-km-5101570.html",
+        "https://vnexpress.net/nhan-chung-ke-giay-phut-ten-lua-nga-danh-trung-trien-lam-drone-ukraine-5101555.html",
+        "https://vnexpress.net/cach-cac-nuoc-gioi-han-thoi-gian-tre-choi-game-5101425.html",
+        "https://vnexpress.net/tai-xe-xe-tai-tong-nu-sinh-tu-vong-o-vinh-long-bi-de-nghi-truy-to-5101580.html"
+      ],
+      "highlight_id": "https://vnexpress.net/tai-xe-xe-tai-tong-nu-sinh-tu-vong-o-vinh-long-bi-de-nghi-truy-to-5101580.html"
+    },
+    {
+      "sent_at": "2026-07-25T10:50:50.048Z",
+      "topic": null,
+      "device_id": "A11EB203-9671-4F19-AEE7-2B068733177A",
+      "slot": "evening",
+      "type": "featured_digest",
+      "article_ids": [
+        "https://vnexpress.net/tuan-toi-te-cua-cuu-ty-phu-nghin-ty-elon-musk-5101520.html",
+        "https://vnexpress.net/nguoi-ban-hang-rong-noi-tieng-o-nha-trang-bi-thu-giu-quang-ganh-5100629.html",
+        "https://vnexpress.net/viet-nam-len-tieng-ve-viec-my-ap-muc-thue-moi-12-5-5101563.html",
+        "https://vnexpress.net/tai-xe-xe-dau-keo-thong-hang-loat-chot-canh-sat-bo-chay-130-km-5101570.html",
+        "https://vnexpress.net/nhan-chung-ke-giay-phut-ten-lua-nga-danh-trung-trien-lam-drone-ukraine-5101555.html",
+        "https://vnexpress.net/cach-cac-nuoc-gioi-han-thoi-gian-tre-choi-game-5101425.html",
+        "https://vnexpress.net/tai-xe-xe-tai-tong-nu-sinh-tu-vong-o-vinh-long-bi-de-nghi-truy-to-5101580.html"
+      ],
+      "highlight_id": "https://vnexpress.net/tai-xe-xe-tai-tong-nu-sinh-tu-vong-o-vinh-long-bi-de-nghi-truy-to-5101580.html"
+    },
+    {
+      "sent_at": "2026-07-25T10:50:50.304Z",
+      "topic": null,
+      "device_id": "900F95DF-6125-4744-BF3A-03080BB0D09F",
+      "slot": "evening",
+      "type": "featured_digest",
+      "article_ids": [
+        "https://vnexpress.net/tuan-toi-te-cua-cuu-ty-phu-nghin-ty-elon-musk-5101520.html",
+        "https://vnexpress.net/nguoi-ban-hang-rong-noi-tieng-o-nha-trang-bi-thu-giu-quang-ganh-5100629.html",
+        "https://vnexpress.net/viet-nam-len-tieng-ve-viec-my-ap-muc-thue-moi-12-5-5101563.html",
+        "https://vnexpress.net/tai-xe-xe-dau-keo-thong-hang-loat-chot-canh-sat-bo-chay-130-km-5101570.html",
+        "https://vnexpress.net/nhan-chung-ke-giay-phut-ten-lua-nga-danh-trung-trien-lam-drone-ukraine-5101555.html",
+        "https://vnexpress.net/cach-cac-nuoc-gioi-han-thoi-gian-tre-choi-game-5101425.html",
+        "https://vnexpress.net/tai-xe-xe-tai-tong-nu-sinh-tu-vong-o-vinh-long-bi-de-nghi-truy-to-5101580.html"
+      ],
+      "highlight_id": "https://vnexpress.net/tai-xe-xe-tai-tong-nu-sinh-tu-vong-o-vinh-long-bi-de-nghi-truy-to-5101580.html"
+    },
+    {
+      "sent_at": "2026-07-25T10:50:50.731Z",
+      "topic": null,
+      "device_id": "A72B80C5-D1C5-4E0F-B6AE-A4E5BF8B31BF",
+      "slot": "evening",
+      "type": "featured_digest",
+      "article_ids": [
+        "https://vnexpress.net/tuan-toi-te-cua-cuu-ty-phu-nghin-ty-elon-musk-5101520.html",
+        "https://vnexpress.net/nguoi-ban-hang-rong-noi-tieng-o-nha-trang-bi-thu-giu-quang-ganh-5100629.html",
+        "https://vnexpress.net/viet-nam-len-tieng-ve-viec-my-ap-muc-thue-moi-12-5-5101563.html",
+        "https://vnexpress.net/tai-xe-xe-dau-keo-thong-hang-loat-chot-canh-sat-bo-chay-130-km-5101570.html",
+        "https://vnexpress.net/nhan-chung-ke-giay-phut-ten-lua-nga-danh-trung-trien-lam-drone-ukraine-5101555.html",
+        "https://vnexpress.net/cach-cac-nuoc-gioi-han-thoi-gian-tre-choi-game-5101425.html",
+        "https://vnexpress.net/tai-xe-xe-tai-tong-nu-sinh-tu-vong-o-vinh-long-bi-de-nghi-truy-to-5101580.html"
+      ],
+      "highlight_id": "https://vnexpress.net/tai-xe-xe-tai-tong-nu-sinh-tu-vong-o-vinh-long-bi-de-nghi-truy-to-5101580.html"
+    },
+    {
+      "sent_at": "2026-07-25T10:50:50.911Z",
+      "topic": null,
+      "device_id": "8AE72633-E9FD-488F-AFD4-7E7150C20B96",
+      "slot": "evening",
+      "type": "featured_digest",
+      "article_ids": [
+        "https://vnexpress.net/tuan-toi-te-cua-cuu-ty-phu-nghin-ty-elon-musk-5101520.html",
+        "https://vnexpress.net/nguoi-ban-hang-rong-noi-tieng-o-nha-trang-bi-thu-giu-quang-ganh-5100629.html",
+        "https://vnexpress.net/viet-nam-len-tieng-ve-viec-my-ap-muc-thue-moi-12-5-5101563.html",
+        "https://vnexpress.net/tai-xe-xe-dau-keo-thong-hang-loat-chot-canh-sat-bo-chay-130-km-5101570.html",
+        "https://vnexpress.net/nhan-chung-ke-giay-phut-ten-lua-nga-danh-trung-trien-lam-drone-ukraine-5101555.html",
+        "https://vnexpress.net/cach-cac-nuoc-gioi-han-thoi-gian-tre-choi-game-5101425.html",
+        "https://vnexpress.net/tai-xe-xe-tai-tong-nu-sinh-tu-vong-o-vinh-long-bi-de-nghi-truy-to-5101580.html"
+      ],
+      "highlight_id": "https://vnexpress.net/tai-xe-xe-tai-tong-nu-sinh-tu-vong-o-vinh-long-bi-de-nghi-truy-to-5101580.html"
+    },
+    {
+      "sent_at": "2026-07-25T10:50:51.144Z",
+      "topic": null,
+      "device_id": "B3D4B7F7-C2A7-4E7A-A92F-53B6A2B611D0",
+      "slot": "evening",
+      "type": "featured_digest",
+      "article_ids": [
+        "https://vnexpress.net/tuan-toi-te-cua-cuu-ty-phu-nghin-ty-elon-musk-5101520.html",
+        "https://vnexpress.net/nguoi-ban-hang-rong-noi-tieng-o-nha-trang-bi-thu-giu-quang-ganh-5100629.html",
+        "https://vnexpress.net/viet-nam-len-tieng-ve-viec-my-ap-muc-thue-moi-12-5-5101563.html",
+        "https://vnexpress.net/tai-xe-xe-dau-keo-thong-hang-loat-chot-canh-sat-bo-chay-130-km-5101570.html",
+        "https://vnexpress.net/nhan-chung-ke-giay-phut-ten-lua-nga-danh-trung-trien-lam-drone-ukraine-5101555.html",
+        "https://vnexpress.net/cach-cac-nuoc-gioi-han-thoi-gian-tre-choi-game-5101425.html",
+        "https://vnexpress.net/tai-xe-xe-tai-tong-nu-sinh-tu-vong-o-vinh-long-bi-de-nghi-truy-to-5101580.html"
+      ],
+      "highlight_id": "https://vnexpress.net/tai-xe-xe-tai-tong-nu-sinh-tu-vong-o-vinh-long-bi-de-nghi-truy-to-5101580.html"
+    },
+    {
+      "sent_at": "2026-07-25T10:50:51.373Z",
+      "topic": null,
+      "device_id": "CA5CB6C0-86C9-4280-AF90-C97FC0C407BD",
+      "slot": "evening",
+      "type": "featured_digest",
+      "article_ids": [
+        "https://vnexpress.net/tuan-toi-te-cua-cuu-ty-phu-nghin-ty-elon-musk-5101520.html",
+        "https://vnexpress.net/nguoi-ban-hang-rong-noi-tieng-o-nha-trang-bi-thu-giu-quang-ganh-5100629.html",
+        "https://vnexpress.net/viet-nam-len-tieng-ve-viec-my-ap-muc-thue-moi-12-5-5101563.html",
+        "https://vnexpress.net/tai-xe-xe-dau-keo-thong-hang-loat-chot-canh-sat-bo-chay-130-km-5101570.html",
+        "https://vnexpress.net/nhan-chung-ke-giay-phut-ten-lua-nga-danh-trung-trien-lam-drone-ukraine-5101555.html",
+        "https://vnexpress.net/cach-cac-nuoc-gioi-han-thoi-gian-tre-choi-game-5101425.html",
+        "https://vnexpress.net/tai-xe-xe-tai-tong-nu-sinh-tu-vong-o-vinh-long-bi-de-nghi-truy-to-5101580.html"
+      ],
+      "highlight_id": "https://vnexpress.net/tai-xe-xe-tai-tong-nu-sinh-tu-vong-o-vinh-long-bi-de-nghi-truy-to-5101580.html"
+    },
+    {
+      "sent_at": "2026-07-25T10:50:51.670Z",
+      "topic": null,
+      "device_id": "B6573471-8CFF-492D-B7B6-2EEFA4FD21A2",
+      "slot": "evening",
+      "type": "featured_digest",
+      "article_ids": [
+        "https://vnexpress.net/tuan-toi-te-cua-cuu-ty-phu-nghin-ty-elon-musk-5101520.html",
+        "https://vnexpress.net/nguoi-ban-hang-rong-noi-tieng-o-nha-trang-bi-thu-giu-quang-ganh-5100629.html",
+        "https://vnexpress.net/viet-nam-len-tieng-ve-viec-my-ap-muc-thue-moi-12-5-5101563.html",
+        "https://vnexpress.net/tai-xe-xe-dau-keo-thong-hang-loat-chot-canh-sat-bo-chay-130-km-5101570.html",
+        "https://vnexpress.net/nhan-chung-ke-giay-phut-ten-lua-nga-danh-trung-trien-lam-drone-ukraine-5101555.html",
+        "https://vnexpress.net/cach-cac-nuoc-gioi-han-thoi-gian-tre-choi-game-5101425.html",
+        "https://vnexpress.net/tai-xe-xe-tai-tong-nu-sinh-tu-vong-o-vinh-long-bi-de-nghi-truy-to-5101580.html"
+      ],
+      "highlight_id": "https://vnexpress.net/tai-xe-xe-tai-tong-nu-sinh-tu-vong-o-vinh-long-bi-de-nghi-truy-to-5101580.html"
+    },
+    {
+      "sent_at": "2026-07-25T10:50:51.880Z",
+      "topic": null,
+      "device_id": "A94924FF-7231-4062-AB25-6360B9D12D33",
+      "slot": "evening",
+      "type": "featured_digest",
+      "article_ids": [
+        "https://vnexpress.net/tuan-toi-te-cua-cuu-ty-phu-nghin-ty-elon-musk-5101520.html",
+        "https://vnexpress.net/nguoi-ban-hang-rong-noi-tieng-o-nha-trang-bi-thu-giu-quang-ganh-5100629.html",
+        "https://vnexpress.net/viet-nam-len-tieng-ve-viec-my-ap-muc-thue-moi-12-5-5101563.html",
+        "https://vnexpress.net/tai-xe-xe-dau-keo-thong-hang-loat-chot-canh-sat-bo-chay-130-km-5101570.html",
+        "https://vnexpress.net/nhan-chung-ke-giay-phut-ten-lua-nga-danh-trung-trien-lam-drone-ukraine-5101555.html",
+        "https://vnexpress.net/cach-cac-nuoc-gioi-han-thoi-gian-tre-choi-game-5101425.html",
+        "https://vnexpress.net/tai-xe-xe-tai-tong-nu-sinh-tu-vong-o-vinh-long-bi-de-nghi-truy-to-5101580.html"
+      ],
+      "highlight_id": "https://vnexpress.net/tai-xe-xe-tai-tong-nu-sinh-tu-vong-o-vinh-long-bi-de-nghi-truy-to-5101580.html"
+    },
+    {
+      "sent_at": "2026-07-25T10:50:51.997Z",
+      "topic": null,
+      "device_id": "d07f4918dfe3afe6",
+      "slot": "evening",
+      "type": "featured_digest",
+      "article_ids": [
+        "https://vnexpress.net/tuan-toi-te-cua-cuu-ty-phu-nghin-ty-elon-musk-5101520.html",
+        "https://vnexpress.net/nguoi-ban-hang-rong-noi-tieng-o-nha-trang-bi-thu-giu-quang-ganh-5100629.html",
+        "https://vnexpress.net/viet-nam-len-tieng-ve-viec-my-ap-muc-thue-moi-12-5-5101563.html",
+        "https://vnexpress.net/tai-xe-xe-dau-keo-thong-hang-loat-chot-canh-sat-bo-chay-130-km-5101570.html",
+        "https://vnexpress.net/nhan-chung-ke-giay-phut-ten-lua-nga-danh-trung-trien-lam-drone-ukraine-5101555.html",
+        "https://vnexpress.net/cach-cac-nuoc-gioi-han-thoi-gian-tre-choi-game-5101425.html",
+        "https://vnexpress.net/tai-xe-xe-tai-tong-nu-sinh-tu-vong-o-vinh-long-bi-de-nghi-truy-to-5101580.html"
+      ],
+      "highlight_id": "https://vnexpress.net/tai-xe-xe-tai-tong-nu-sinh-tu-vong-o-vinh-long-bi-de-nghi-truy-to-5101580.html"
+    },
+    {
+      "sent_at": "2026-07-25T10:50:52.132Z",
+      "topic": null,
+      "device_id": "eca79c2698bd5223",
+      "slot": "evening",
+      "type": "featured_digest",
+      "article_ids": [
+        "https://vnexpress.net/tuan-toi-te-cua-cuu-ty-phu-nghin-ty-elon-musk-5101520.html",
+        "https://vnexpress.net/nguoi-ban-hang-rong-noi-tieng-o-nha-trang-bi-thu-giu-quang-ganh-5100629.html",
+        "https://vnexpress.net/viet-nam-len-tieng-ve-viec-my-ap-muc-thue-moi-12-5-5101563.html",
+        "https://vnexpress.net/tai-xe-xe-dau-keo-thong-hang-loat-chot-canh-sat-bo-chay-130-km-5101570.html",
+        "https://vnexpress.net/nhan-chung-ke-giay-phut-ten-lua-nga-danh-trung-trien-lam-drone-ukraine-5101555.html",
+        "https://vnexpress.net/cach-cac-nuoc-gioi-han-thoi-gian-tre-choi-game-5101425.html",
+        "https://vnexpress.net/tai-xe-xe-tai-tong-nu-sinh-tu-vong-o-vinh-long-bi-de-nghi-truy-to-5101580.html"
+      ],
+      "highlight_id": "https://vnexpress.net/tai-xe-xe-tai-tong-nu-sinh-tu-vong-o-vinh-long-bi-de-nghi-truy-to-5101580.html"
     }
   ]
 }
