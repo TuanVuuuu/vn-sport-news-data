@@ -778,5 +778,31 @@
     "published_at": "Sat, 25 Jul 2026 09:23:10 +0700",
     "createAt": "2026-07-25T02:23:10.000Z",
     "thumbnail_blurhash": "L9HVF:_3X5_N00xaWAE1^a-VV@9F"
+  },
+  {
+    "id": "https://vnexpress.net/doanh-so-cuv-co-c-nua-dau-2026-vf-7-bam-sat-cx-5-5101478.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Doanh số CUV cỡ C nửa đầu 2026 - VF 7 bám sát CX-5",
+    "description": "Hai mẫu xe ăn khách nhất phân khúc gầm cao cỡ C 6 tháng qua lần lượt là Mazda CX-5 và VinFast VF 7.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/25/VF7VNEXPRESS-1784949084-4547-1784949429.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=y7MsgNeqt1UXTwXBFRtM7w",
+    "link": "https://vnexpress.net/doanh-so-cuv-co-c-nua-dau-2026-vf-7-bam-sat-cx-5-5101478.html",
+    "published_at": "Sat, 25 Jul 2026 10:43:52 +0700",
+    "createAt": "2026-07-25T03:43:52.000Z",
+    "thumbnail_blurhash": "LPG+%d.A_3D$XVawobxc?wW?D$V@"
+  },
+  {
+    "id": "https://vnexpress.net/honda-ra-mat-xe-may-dien-qc3-5101268.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Honda ra mắt xe máy điện QC3",
+    "description": "Mẫu xe máy điện mới hướng đến gia đình, lắp pin 3 kWh, phạm vi hoạt động 145 km, cốp rộng 32 lít.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/24/hondaqc3202610-1784882061-9995-1784882218.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=WhFG7vk2DDzmdB-XkEzBgQ",
+    "link": "https://vnexpress.net/honda-ra-mat-xe-may-dien-qc3-5101268.html",
+    "published_at": "Sat, 25 Jul 2026 11:05:00 +0700",
+    "createAt": "2026-07-25T04:05:00.000Z",
+    "thumbnail_blurhash": "L5DJL=NgI8Ip00D$D+-pWB_2~qM_"
   }
 ]
