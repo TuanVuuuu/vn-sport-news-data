@@ -544,5 +544,31 @@
     "published_at": "Sat, 25 Jul 2026 19:00:00 +0700",
     "createAt": "2026-07-25T12:00:00.000Z",
     "thumbnail_blurhash": "LUK9rpXT$gtl~9tROrbv?Gs;i_s:"
+  },
+  {
+    "id": "https://vnexpress.net/co-nen-ban-bot-can-chung-cu-o-hung-yen-de-gui-tiet-kiem-5101664.html",
+    "category_id": "real-estate",
+    "category_name": "Bất động sản",
+    "source": "VnExpress",
+    "title": "Có nên bán bớt căn chung cư ở Hưng Yên để gửi tiết kiệm?",
+    "description": "Tôi băn khoăn có nên bán căn chung cư ở Hưng Yên để thu tiền về gửi tiết kiệm trong bối cảnh hiệu suất cho thuê ngày càng thấp.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/25/55c5d7db5817452190f3a7421888ed-3697-7059-1784993707.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=oItb9dIqe78KtiLhgW90ag",
+    "link": "https://vnexpress.net/co-nen-ban-bot-can-chung-cu-o-hung-yen-de-gui-tiet-kiem-5101664.html",
+    "published_at": "Sun, 26 Jul 2026 00:05:00 +0700",
+    "createAt": "2026-07-25T17:05:00.000Z",
+    "thumbnail_blurhash": "L?EWh0kDWBj].Aogaej[x^bHaxj["
+  },
+  {
+    "id": "https://vnexpress.net/nha-450-m2-nhuom-bon-tang-bang-mau-cua-dat-5101225.html",
+    "category_id": "real-estate",
+    "category_name": "Bất động sản",
+    "source": "VnExpress",
+    "title": "Nhà 450 m2 'nhuộm' bốn tầng bằng màu của đất",
+    "description": "Các sắc nâu, be và đất nung xuất hiện từ khu sinh hoạt chung đến phòng ngủ, tạo sự thống nhất giữa những không gian khác nhau.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/24/1-1784876301.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=k8rxHSTJYlhlmdVY08WqXg",
+    "link": "https://vnexpress.net/nha-450-m2-nhuom-bon-tang-bang-mau-cua-dat-5101225.html",
+    "published_at": "Sun, 26 Jul 2026 00:14:00 +0700",
+    "createAt": "2026-07-25T17:14:00.000Z",
+    "thumbnail_blurhash": "LPHKI4%LNH%0xtWBj[WX~At6WCay"
   }
 ]
