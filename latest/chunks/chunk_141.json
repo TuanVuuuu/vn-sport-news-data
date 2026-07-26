@@ -1259,5 +1259,44 @@
     "published_at": "Sun, 26 Jul 2026 10:57:39 +0700",
     "createAt": "2026-07-26T03:57:39.000Z",
     "thumbnail_blurhash": "LZFa2nozayo#~Xj[ayoMxYjtayj@"
+  },
+  {
+    "id": "https://vnexpress.net/biet-vo-vao-khach-san-voi-nguoi-khac-ma-toi-khong-dam-lam-gi-5101748.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Biết vợ vào khách sạn với người khác mà tôi không dám làm gì",
+    "description": "Tôi đã qua một lần đổ vỡ, không muốn lại bỏ vợ lần hai; tôi chấp nhận vợ ngoại tình để giữ cô ấy bên mình.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/26/gemini-generated-image-y4blh9y-6074-3233-1785043254.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=Xuy-B6Qrd0JWdXDma29FNw",
+    "link": "https://vnexpress.net/biet-vo-vao-khach-san-voi-nguoi-khac-ma-toi-khong-dam-lam-gi-5101748.html",
+    "published_at": "Sun, 26 Jul 2026 11:00:00 +0700",
+    "createAt": "2026-07-26T04:00:00.000Z",
+    "thumbnail_blurhash": "L3BDc}?w0N$e02-:~A9I$,jdXTIS"
+  },
+  {
+    "id": "https://vnexpress.net/kien-openai-vi-suyt-chet-khi-nghe-theo-bac-si-chatgpt-5101711.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Kiện OpenAI vì suýt chết khi nghe theo 'bác sĩ ChatGPT'",
+    "description": "Một người đàn ông bị tắc mạch phổi không đi bệnh viện mà nhờ ChatGPT tư vấn, được nó trả lời \"không có gì nghiêm trọng\", nhưng thực tế đã suýt tử vong.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/26/wm1wm1ai2167539915026831675380-4686-5458-1785033881.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=lU71YlKEJaNznThkksh0uw",
+    "link": "https://vnexpress.net/kien-openai-vi-suyt-chet-khi-nghe-theo-bac-si-chatgpt-5101711.html",
+    "published_at": "Sun, 26 Jul 2026 11:07:02 +0700",
+    "createAt": "2026-07-26T04:07:02.000Z",
+    "thumbnail_blurhash": "LCCP;Z00yU=$?]MzkoR%00_3xHRi"
+  },
+  {
+    "id": "https://vnexpress.net/lanh-dao-dang-nha-nuoc-dang-huong-tuong-niem-anh-hung-liet-si-5101734.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Lãnh đạo Đảng, Nhà nước dâng hương tưởng niệm Anh hùng liệt sĩ",
+    "description": "Sáng 26/7, đoàn đại biểu Ban Chấp hành Trung ương, Chủ tịch nước, Quốc hội, Chính phủ đã dâng hương, tưởng niệm các Anh hùng liệt sĩ và đặt vòng hoa, vào lăng viếng Chủ tịch Hồ Chí Minh.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/26/base64-1785038855-4886-1785039212.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=o35xAJpSu1ARxYGlp_q__w",
+    "link": "https://vnexpress.net/lanh-dao-dang-nha-nuoc-dang-huong-tuong-niem-anh-hung-liet-si-5101734.html",
+    "published_at": "Sun, 26 Jul 2026 11:27:31 +0700",
+    "createAt": "2026-07-26T04:27:31.000Z",
+    "thumbnail_blurhash": "LcMGk.t9~qx].logITni~pxZE0Se"
   }
 ]
