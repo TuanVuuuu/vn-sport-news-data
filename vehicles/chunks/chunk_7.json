@@ -843,5 +843,31 @@
     "published_at": "Sun, 26 Jul 2026 05:00:00 +0700",
     "createAt": "2026-07-25T22:00:00.000Z",
     "thumbnail_blurhash": "LH8N,}of_Nt7?cay-=oft7WBxuay"
+  },
+  {
+    "id": "https://vnexpress.net/bmw-trieu-hoi-hon-318-000-xe-vi-nguy-co-chay-5101446.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "BMW triệu hồi hơn 318.000 xe vì nguy cơ cháy",
+    "description": "BMW triệu hồi hơn 318.000 xe do bộ đề có thể quá nhiệt, tăng nguy cơ cháy, ảnh hưởng nhiều mẫu BMW và Toyota Supra.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/25/2022-bmw-x3-facelift-frozen-gr-1853-2192-1784939751.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=harpgwgLE7HXlwQXhjZvTQ",
+    "link": "https://vnexpress.net/bmw-trieu-hoi-hon-318-000-xe-vi-nguy-co-chay-5101446.html",
+    "published_at": "Sun, 26 Jul 2026 06:00:00 +0700",
+    "createAt": "2026-07-25T23:00:00.000Z",
+    "thumbnail_blurhash": "LGCsjgITxsxt~qa$Rkj[-=WFt9M|"
+  },
+  {
+    "id": "https://vnexpress.net/nu-tai-xe-vien-ly-do-dua-ba-di-cap-cuu-khi-bi-phat-qua-toc-do-5101471.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Nữ tài xế viện lý do 'đưa bà đi cấp cứu' khi bị phạt quá tốc độ",
+    "description": "Cô gái 19 tuổi bị lập biên bản sau 9 lần trước đó đều dùng lý do người thân phải cấp cứu để né án phạt chạy quá tốc độ.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/25/Police2-1784948083-8564-1784948815.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=GWLVl1OE8jXi2yQcVhIsjA",
+    "link": "https://vnexpress.net/nu-tai-xe-vien-ly-do-dua-ba-di-cap-cuu-khi-bi-phat-qua-toc-do-5101471.html",
+    "published_at": "Sun, 26 Jul 2026 06:30:00 +0700",
+    "createAt": "2026-07-25T23:30:00.000Z",
+    "thumbnail_blurhash": "LSHpIzIWnz.SPnxYaLcFL4jYV_Si"
   }
 ]
