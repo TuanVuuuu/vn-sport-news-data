@@ -531,5 +531,31 @@
     "published_at": "Sun, 26 Jul 2026 14:03:52 +0700",
     "createAt": "2026-07-26T07:03:52.000Z",
     "thumbnail_blurhash": "LREV{dH?yZJ9X:tmi^rqo~t7nhWB"
+  },
+  {
+    "id": "https://vnexpress.net/tau-viet-nam-chim-o-bien-dong-45-nguoi-duoc-cuu-song-5101772.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Tàu Việt Nam chìm ở Biển Đông, 45 người được cứu sống",
+    "description": "Tàu Khôi Nguyên 18, gồm 62 thuyền viên, bị chìm khi hoạt động trong điều kiện thời tiết xấu ở Biển Đông, ít nhất 45 người đã được cứu.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/26/chim-tau-viet-nam-o-bien-17850-3663-8491-1785054930.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=qW07W-1H1VFhF9ltoC_IGw",
+    "link": "https://vnexpress.net/tau-viet-nam-chim-o-bien-dong-45-nguoi-duoc-cuu-song-5101772.html",
+    "published_at": "Sun, 26 Jul 2026 14:03:52 +0700",
+    "createAt": "2026-07-26T07:03:52.000Z",
+    "thumbnail_blurhash": "LME{PNm~b5-@?J$sxQxt%0-mx9xU"
+  },
+  {
+    "id": "https://vnexpress.net/binh-si-anh-say-xin-lai-thiet-giap-dam-hong-loat-oto-5101707.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Binh sĩ Anh say xỉn, lái thiết giáp đâm hỏng loạt ôtô",
+    "description": "Hai lính công binh Anh trở về từ quán rượu, đánh cắp một xe thiết giáp và đâm hỏng nhiều ôtô đậu trong doanh trại.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/26/xe-boc-thep-1785036347-7013-1785036712.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=5DNz7k8D7kUfdCPHbfbUoA",
+    "link": "https://vnexpress.net/binh-si-anh-say-xin-lai-thiet-giap-dam-hong-loat-oto-5101707.html",
+    "published_at": "Sun, 26 Jul 2026 15:40:14 +0700",
+    "createAt": "2026-07-26T08:40:14.000Z",
+    "thumbnail_blurhash": "LF9s^:~U-O$%NFNHIqNHR+f6R+Rk"
   }
 ]
