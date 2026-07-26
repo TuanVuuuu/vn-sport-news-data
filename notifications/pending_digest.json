@@ -1,6 +1,32 @@
 {
   "featured": [
     {
+      "id": "https://vnexpress.net/de-xuat-luat-hoa-nguyen-tac-noi-o-moi-bang-hoac-tot-hon-noi-o-cu-khi-thu-hoi-dat-5101718.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Đề xuất luật hóa nguyên tắc 'nơi ở mới bằng hoặc tốt hơn nơi ở cũ' khi thu hồi đất",
+      "description": "Dự luật Đất đai sửa đổi luật hóa nguyên tắc người có đất bị thu hồi phải có chỗ ở, điều kiện sống bằng hoặc tốt hơn trước gồm sinh kế, thu nhập, trường học, y tế, giao thông, dịch vụ công.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/26/atteH0ubojxQ0m2EfidnLvzLb8a0Ya-1528-5944-1785038586.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=NgxkHN8_DqEXYmNVx2IThQ",
+      "link": "https://vnexpress.net/de-xuat-luat-hoa-nguyen-tac-noi-o-moi-bang-hoac-tot-hon-noi-o-cu-khi-thu-hoi-dat-5101718.html",
+      "published_at": "Sun, 26 Jul 2026 10:55:21 +0700",
+      "createAt": "2026-07-26T03:55:21.000Z",
+      "thumbnail_blurhash": "LKE.kasEyDOX~WIAs,%2_3jbaes."
+    },
+    {
+      "id": "https://vnexpress.net/lanh-dao-dang-nha-nuoc-dang-huong-tuong-niem-anh-hung-liet-si-5101734.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Lãnh đạo Đảng, Nhà nước dâng hương tưởng niệm Anh hùng liệt sĩ",
+      "description": "Sáng 26/7, đoàn đại biểu Ban Chấp hành Trung ương, Chủ tịch nước, Quốc hội, Chính phủ đã dâng hương, tưởng niệm các Anh hùng liệt sĩ và đặt vòng hoa, vào lăng viếng Chủ tịch Hồ Chí Minh.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/26/base64-1785038855-4886-1785039212.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=o35xAJpSu1ARxYGlp_q__w",
+      "link": "https://vnexpress.net/lanh-dao-dang-nha-nuoc-dang-huong-tuong-niem-anh-hung-liet-si-5101734.html",
+      "published_at": "Sun, 26 Jul 2026 11:27:31 +0700",
+      "createAt": "2026-07-26T04:27:31.000Z",
+      "thumbnail_blurhash": "LcMGk.t9~qx].logITni~pxZE0Se"
+    },
+    {
       "id": "https://vnexpress.net/gio-bao-noul-quat-nga-nguoi-di-duong-o-trung-quoc-5101742.html",
       "category_id": "featured",
       "category_name": "Tin nổi bật",
@@ -12,6 +38,19 @@
       "published_at": "Sun, 26 Jul 2026 12:14:25 +0700",
       "createAt": "2026-07-26T05:14:25.000Z",
       "thumbnail_blurhash": "LFK^KkyY~W-V[WY5xZjF}tX.WAxa"
+    },
+    {
+      "id": "https://vnexpress.net/nga-phong-loat-ten-lua-dan-dao-gay-chay-lon-tai-kiev-5101730.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Nga phóng loạt tên lửa đạn đạo, gây cháy lớn tại Kiev",
+      "description": "Giới chức Ukraine thông báo Nga tiến hành đợt tập kích Kiev bằng tên lửa đạn đạo, gây cháy tại nhiều khu vực trong thành phố.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/26/nga-khong-kich-ukraine-jpeg-17-6815-1216-1785039234.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=XHME2dWNOGDITQxquzjvYw",
+      "link": "https://vnexpress.net/nga-phong-loat-ten-lua-dan-dao-gay-chay-lon-tai-kiev-5101730.html",
+      "published_at": "Sun, 26 Jul 2026 12:31:30 +0700",
+      "createAt": "2026-07-26T05:31:30.000Z",
+      "thumbnail_blurhash": "L7B..LT100ib0NNG~U%20N$e^hEl"
     }
   ]
 }
