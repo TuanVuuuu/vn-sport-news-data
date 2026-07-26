@@ -115,5 +115,31 @@
     "published_at": "Sun, 26 Jul 2026 13:00:00 +0700",
     "createAt": "2026-07-26T06:00:00.000Z",
     "thumbnail_blurhash": "LIKKWpIT00AJysDh%g%#4:xu-p%1"
+  },
+  {
+    "id": "https://vnexpress.net/10-dao-hap-dan-nhat-the-gioi-5100716.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "10 đảo hấp dẫn nhất thế giới",
+    "description": "Phú Quốc nổi lên như một trong 10 hòn đảo hấp dẫn bậc nhất toàn cầu năm 2026 nhờ những trải nghiệm cao cấp nhưng giá hợp lý.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/07/23/praslin-seychelles-best-for-nature-lovers1-1784792473.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=rajw4tezyijpTjZPvkySeQ",
+    "link": "https://vnexpress.net/10-dao-hap-dan-nhat-the-gioi-5100716.html",
+    "published_at": "Thu, 23 Jul 2026 19:00:00 +0700",
+    "createAt": "2026-07-23T12:00:00.000Z",
+    "thumbnail_blurhash": "LWCtIaY8%Kt8E:%3aJW=bxIVRibc"
+  },
+  {
+    "id": "https://vnexpress.net/ly-giai-mat-ma-cua-phi-cong-5101704.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Lý giải mật mã của phi công",
+    "description": "\"Tiên cá\" là thuật ngữ tổ bay thường dùng để miêu tả những khách nằm dài chiếm cả hàng ghế còn \"Code 300\" báo hiệu có người đang gặp nguy.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/07/26/stock-photo-cockpit-of-a-passe-9024-4220-1785033227.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=FPFjRuGweSNtXfWS_CiRDg",
+    "link": "https://vnexpress.net/ly-giai-mat-ma-cua-phi-cong-5101704.html",
+    "published_at": "Sun, 26 Jul 2026 21:39:48 +0700",
+    "createAt": "2026-07-26T14:39:48.000Z",
+    "thumbnail_blurhash": "L88gjKE2ae%L~p9bWB%1?GM{Rjs:"
   }
 ]
