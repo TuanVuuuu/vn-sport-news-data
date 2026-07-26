@@ -986,5 +986,70 @@
     "published_at": "Sun, 26 Jul 2026 00:04:00 +0700",
     "createAt": "2026-07-25T17:04:00.000Z",
     "thumbnail_blurhash": "LLMsDz~qt-^k-TxuR*s;rwaf%zbb"
+  },
+  {
+    "id": "https://vnexpress.net/noi-so-chieu-chu-nhat-5100290.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Nỗi sợ chiều Chủ nhật",
+    "description": "4h chiều Chủ nhật, Nam rời quán cà phê. Niềm vui cuối tuần chưa kịp nguội thì một cảm giác đè nặng đã dâng lên nơi lồng ngực chuyên viên truyền thông 26 tuổi.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/22/screenshot-at-1784692435-7534-1784692942.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=LmK3U66IGX3ZeJSacsONGg",
+    "link": "https://vnexpress.net/noi-so-chieu-chu-nhat-5100290.html",
+    "published_at": "Sun, 26 Jul 2026 06:00:00 +0700",
+    "createAt": "2026-07-25T23:00:00.000Z",
+    "thumbnail_blurhash": "L4F#:p_400001,^i0KkD#ls+VXMy"
+  },
+  {
+    "id": "https://vnexpress.net/4-thoi-quen-buoi-sang-co-the-hai-duong-ruot-5101397.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "4 thói quen buổi sáng có thể hại đường ruột",
+    "description": "Bỏ bữa sáng, uống cà phê khi bụng đói hay thường xuyên ăn thực phẩm chế biến sẵn có thể ảnh hưởng đến hệ tiêu hóa, làm mất cân bằng hệ vi sinh đường ruột.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/25/z6593414933573-f3aa11c2037afd7-7538-7652-1784943584.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=ICA3_XsedzDhNvj8ONm1sQ",
+    "link": "https://vnexpress.net/4-thoi-quen-buoi-sang-co-the-hai-duong-ruot-5101397.html",
+    "published_at": "Sun, 26 Jul 2026 06:44:54 +0700",
+    "createAt": "2026-07-25T23:44:54.000Z",
+    "thumbnail_blurhash": "LMFif0yD9YRj0Ni{nNof~WRPt6tR"
+  },
+  {
+    "id": "https://vnexpress.net/ma-cao-thu-hoi-lo-sua-bot-royal-friso-so-1-do-nghi-nhiem-chi-5101676.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Ma Cao thu hồi lô sữa bột Royal Friso Số 1 do nghi nhiễm chì",
+    "description": "Lô sữa bột trẻ em Royal Friso Số 1 xuất xứ Hà Lan bị cơ quan chức năng Ma Cao (Trung Quốc) thu hồi khẩn cấp sau khi phát hiện mẫu thử nhiễm chì gấp 10 lần.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/26/mfile-l-1785007028-2384-1785008039.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=H49-w9yTsuMO10NHz2W8PQ",
+    "link": "https://vnexpress.net/ma-cao-thu-hoi-lo-sua-bot-royal-friso-so-1-do-nghi-nhiem-chi-5101676.html",
+    "published_at": "Sun, 26 Jul 2026 06:52:42 +0700",
+    "createAt": "2026-07-25T23:52:42.000Z",
+    "thumbnail_blurhash": "LUPQ81xu?d-;$xj@tmkBwZjtNzay"
+  },
+  {
+    "id": "https://vnexpress.net/hai-lan-that-bai-nguoi-dan-ong-duoc-vo-hien-than-cuu-song-trong-dot-ghep-thu-3-5101596.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Hai lần thất bại, người đàn ông được vợ hiến thận cứu sống trong đợt ghép thứ 3",
+    "description": "Người đàn ông 57 tuổi được vợ hiến thận để ghép lần thứ ba, trước đó hai lần ghép thất bại và có bất thường mạch máu khiến ca mổ rất phức tạp.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/25/1784963830438e6d4b0d3d2770c34a-1923-6648-1784973692.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=fXWmRE-NfbKEIZi4Nl-muA",
+    "link": "https://vnexpress.net/hai-lan-that-bai-nguoi-dan-ong-duoc-vo-hien-than-cuu-song-trong-dot-ghep-thu-3-5101596.html",
+    "published_at": "Sun, 26 Jul 2026 07:00:00 +0700",
+    "createAt": "2026-07-26T00:00:00.000Z",
+    "thumbnail_blurhash": "LADS,P9Z01?G?F-:%2WB~UWBxtE1"
+  },
+  {
+    "id": "https://vnexpress.net/5-thoi-quen-cua-nhung-nguoi-song-tho-5101309.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "5 thói quen của những người sống thọ",
+    "description": "Những người sống thọ ở các Vùng Xanh thường duy trì lối sống đơn giản với chế độ ăn lành mạnh, vận động thường xuyên, ngủ đủ và gắn kết xã hội.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/24/z7903676155832b4b54198360971f8-2750-2289-1784884604.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=derF_1EdDna8fGdt2c0wsQ",
+    "link": "https://vnexpress.net/5-thoi-quen-cua-nhung-nguoi-song-tho-5101309.html",
+    "published_at": "Sun, 26 Jul 2026 07:00:00 +0700",
+    "createAt": "2026-07-26T00:00:00.000Z",
+    "thumbnail_blurhash": "LJLpgV?sm;Y6_N-oE1xbu6#.cD-V"
   }
 ]
