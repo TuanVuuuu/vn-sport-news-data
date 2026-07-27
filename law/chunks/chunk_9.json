@@ -154,5 +154,31 @@
     "published_at": "Mon, 27 Jul 2026 21:30:09 +0700",
     "createAt": "2026-07-27T14:30:09.000Z",
     "thumbnail_blurhash": null
+  },
+  {
+    "id": "https://vnexpress.net/be-boi-tinh-ai-phia-sau-cai-chet-bi-an-cua-trieu-phu-5102222.html",
+    "category_id": "law",
+    "category_name": "Pháp luật",
+    "source": "VnExpress",
+    "title": "Bê bối tình ái phía sau cái chết bí ẩn của triệu phú",
+    "description": "Sau cái chết thảm với 39 nhát dao của người chồng triệu phú Jacques Mossler, người mẫu Candy Mossler bị nghi âm mưu cùng tình nhân trẻ giết ông để chiếm tài sản.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/27/candace-mossler-mel-powers-178-6733-3660-1785150912.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=NdQ6dMi9mjtMbKkHAKufEg",
+    "link": "https://vnexpress.net/be-boi-tinh-ai-phia-sau-cai-chet-bi-an-cua-trieu-phu-5102222.html",
+    "published_at": "Tue, 28 Jul 2026 00:00:00 +0700",
+    "createAt": "2026-07-27T17:00:00.000Z",
+    "thumbnail_blurhash": "LDIr84%M?b_3IU9F%MIU~qIUIUWB"
+  },
+  {
+    "id": "https://vnexpress.net/tre-tu-y-treo-tuong-vao-nha-bi-cho-can-toi-co-phai-boi-thuong-5102017.html",
+    "category_id": "law",
+    "category_name": "Pháp luật",
+    "source": "VnExpress",
+    "title": "Trẻ tự ý trèo tường vào nhà bị chó cắn, tôi có phải bồi thường?",
+    "description": "Gia đình tôi đi dự đám cưới cả ngày nên khóa cổng, không có ai ở nhà. Con chó được xích trong góc sân như thường lệ.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/27/6-jpg-1785124864-9810-1785125004.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=auqbWdEzwA_82s4WJQE38A",
+    "link": "https://vnexpress.net/tre-tu-y-treo-tuong-vao-nha-bi-cho-can-toi-co-phai-boi-thuong-5102017.html",
+    "published_at": "Tue, 28 Jul 2026 00:00:00 +0700",
+    "createAt": "2026-07-27T17:00:00.000Z",
+    "thumbnail_blurhash": "L7E{Rq0g%NR;00N#WBNL*0?b-;t9"
   }
 ]
