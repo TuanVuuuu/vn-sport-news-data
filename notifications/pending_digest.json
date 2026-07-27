@@ -1,3 +1,17 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/lu-quet-khu-cam-trai-o-trung-quoc-khien-10-nguoi-chet-5102050.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Lũ quét khu cắm trại ở Trung Quốc khiến 10 người chết",
+      "description": "Nhiều người tháo chạy khi dòng lũ bất ngờ quét qua khu cắm trại ở tỉnh Cam Túc, vụ việc khiến 10 người chết và 23 người bị thương.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/27/Lark20260727134334-1785134637-3797-1785134711.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=NuXYPvjrfkYkdLS9DdNWFg&t=image",
+      "link": "https://vnexpress.net/lu-quet-khu-cam-trai-o-trung-quoc-khien-10-nguoi-chet-5102050.html",
+      "published_at": "Mon, 27 Jul 2026 13:48:52 +0700",
+      "createAt": "2026-07-27T06:48:52.000Z",
+      "thumbnail_blurhash": "L4DvQK^,D$xV-@NFIUWA0JIU%N%N"
+    }
+  ]
 }
