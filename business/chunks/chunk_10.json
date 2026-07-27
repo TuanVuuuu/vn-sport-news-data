@@ -895,5 +895,31 @@
     "published_at": "Tue, 28 Jul 2026 00:00:00 +0700",
     "createAt": "2026-07-27T17:00:00.000Z",
     "thumbnail_blurhash": "LHFYMi00M_~oaQ-oE2ozM~-ns,Rl"
+  },
+  {
+    "id": "https://vnexpress.net/mot-ngan-hang-giam-gan-700-nhan-vien-nua-dau-nam-5102252.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Một ngân hàng giảm gần 700 nhân viên nửa đầu năm",
+    "description": "VIB giảm gần 7% nhân viên trong nửa đầu năm, còn 9.250 người, khi tập trung phát triển nhân lực chất lượng và có năng suất làm việc cao.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/27/wm1-wm1-dsc-1785164329-6051-1785164687.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=XquVCBoku2GodUl5bnLEHQ",
+    "link": "https://vnexpress.net/mot-ngan-hang-giam-gan-700-nhan-vien-nua-dau-nam-5102252.html",
+    "published_at": "Tue, 28 Jul 2026 03:37:50 +0700",
+    "createAt": "2026-07-27T20:37:50.000Z",
+    "thumbnail_blurhash": "LaJ*k;D%IVD%?waeoIR*x]%1xttR"
+  },
+  {
+    "id": "https://vnexpress.net/ai-trung-quoc-dat-khach-tai-my-5102036.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "AI Trung Quốc 'đắt khách' tại Mỹ",
+    "description": "Chi phí thấp và năng lực xử lý cải thiện nhanh, các mô hình trí tuệ nhân tạo (AI) Trung Quốc ngày càng được ưa chuộng tại Mỹ.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/27/dsc03013-jpg-1785129298-2166-1785129499.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=NBLJ4LD1WuVMaZWhj3x5zQ",
+    "link": "https://vnexpress.net/ai-trung-quoc-dat-khach-tai-my-5102036.html",
+    "published_at": "Tue, 28 Jul 2026 03:45:27 +0700",
+    "createAt": "2026-07-27T20:45:27.000Z",
+    "thumbnail_blurhash": "LD7UrFo#8^ad.TofMwWBROadjEfk"
   }
 ]
