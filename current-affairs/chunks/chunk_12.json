@@ -1168,5 +1168,31 @@
     "published_at": "Mon, 27 Jul 2026 21:00:26 +0700",
     "createAt": "2026-07-27T14:00:26.000Z",
     "thumbnail_blurhash": "LPJsUj=r=y}@{^-U56RitlR*tRX9"
+  },
+  {
+    "id": "https://vnexpress.net/ha-noi-muon-tai-che-phe-thai-xay-dung-5102241.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Hà Nội muốn tái chế phế thải xây dựng",
+    "description": "Thành phố yêu cầu các dự án trong giai đoạn giải phóng mặt bằng phải tái chế chất thải rắn ngay tại công trường, sản phẩm tái chế dùng san lấp, đắp nền, làm móng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/27/docvankiep-1785162344-7536-1785162684.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=7WC24LA5tuMC1JV3ucDESA",
+    "link": "https://vnexpress.net/ha-noi-muon-tai-che-phe-thai-xay-dung-5102241.html",
+    "published_at": "Tue, 28 Jul 2026 00:00:00 +0700",
+    "createAt": "2026-07-27T17:00:00.000Z",
+    "thumbnail_blurhash": "L8FiDOx^00%MuPRjDi%L,.InS$tR"
+  },
+  {
+    "id": "https://vnexpress.net/cuoc-tro-ve-sau-49-nam-cua-hai-anh-em-liet-si-5101995.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Cuộc trở về sau 49 năm của hai anh em liệt sĩ",
+    "description": "Sau gần nửa thế kỷ, cốt hai anh em liệt sĩ Tư và Năm được đưa về quê an táng, khép lại những ngày dài gia đình chỉ biết thắp hương và ngóng tin.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/27/hai-cot-hai-liet-si-tu-va-nam-5878-8627-1785121949.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=nm_D5eUySaa-K54Kfw8fMA",
+    "link": "https://vnexpress.net/cuoc-tro-ve-sau-49-nam-cua-hai-anh-em-liet-si-5101995.html",
+    "published_at": "Tue, 28 Jul 2026 00:00:00 +0700",
+    "createAt": "2026-07-27T17:00:00.000Z",
+    "thumbnail_blurhash": "LAKul;,E_O;N0eJRGHxZ42NaC6Op"
   }
 ]
