@@ -622,5 +622,31 @@
     "published_at": "Mon, 27 Jul 2026 05:00:00 +0700",
     "createAt": "2026-07-26T22:00:00.000Z",
     "thumbnail_blurhash": "LAD1T|o$XTyE.Taej[ofkskXZ~em"
+  },
+  {
+    "id": "https://vnexpress.net/canh-sat-duc-ban-ha-nghi-pham-lao-xe-o-berlin-5101863.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Cảnh sát Đức bắn hạ nghi phạm lao xe ở Berlin",
+    "description": "Cảnh sát Đức bắn chết nghi phạm chính trong \"vụ khủng bố mang động cơ Hồi giáo cực đoan\" gần lễ diễu hành ủng hộ LGBT tại Berlin.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/27/nghi-pham-jpeg-1785109922-6208-1785109926.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=4hohskPCTTU2SNFmFgwerA",
+    "link": "https://vnexpress.net/canh-sat-duc-ban-ha-nghi-pham-lao-xe-o-berlin-5101863.html",
+    "published_at": "Mon, 27 Jul 2026 06:52:06 +0700",
+    "createAt": "2026-07-26T23:52:06.000Z",
+    "thumbnail_blurhash": "L5H1lF_2Uuv}0fWBD%M|UHbbU^ni"
+  },
+  {
+    "id": "https://vnexpress.net/iran-canh-bao-dap-tra-ukraine-vi-vu-tap-kich-tau-hang-o-bien-caspi-5101867.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Iran cảnh báo đáp trả Ukraine vì vụ tập kích tàu hàng ở biển Caspi",
+    "description": "Ngoại trưởng Iran cáo buộc Tổng thống Zelensky tìm cách kéo châu Âu vào xung đột Trung Đông sau vụ Ukraine tập kích tàu hàng Iran trên biển Caspi.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/27/ap26179328845342-1785109904-9405-1785110006.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=5AsRY73eu1ntMqnD9MAPMw",
+    "link": "https://vnexpress.net/iran-canh-bao-dap-tra-ukraine-vi-vu-tap-kich-tau-hang-o-bien-caspi-5101867.html",
+    "published_at": "Mon, 27 Jul 2026 07:18:10 +0700",
+    "createAt": "2026-07-27T00:18:10.000Z",
+    "thumbnail_blurhash": "LPEyD6-pK4%g~WWANbt7o#M{oIWB"
   }
 ]
