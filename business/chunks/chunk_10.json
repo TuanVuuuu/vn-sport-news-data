@@ -843,5 +843,31 @@
     "published_at": "Mon, 27 Jul 2026 14:28:56 +0700",
     "createAt": "2026-07-27T07:28:56.000Z",
     "thumbnail_blurhash": "LRE{UwIUWYM{~qoJj?IUx]RjRjIo"
+  },
+  {
+    "id": "https://vnexpress.net/doanh-nghiep-ban-le-xang-dau-keu-kho-nhap-hang-5102085.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Doanh nghiệp bán lẻ xăng dầu kêu khó nhập hàng",
+    "description": "Một số doanh nghiệp bán lẻ xăng dầu kêu khó nhập hàng, trong khi doanh nghiệp đầu mối và cơ quan quản lý khẳng định tình trạng này chỉ xảy ra \"cục bộ, tại một số thời điểm\".",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/27/wm1-wm1-17851259689426203620031976-7353-7625-1785133781.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=f4jjea0bZNoIc-rRoKWi3Q",
+    "link": "https://vnexpress.net/doanh-nghiep-ban-le-xang-dau-keu-kho-nhap-hang-5102085.html",
+    "published_at": "Mon, 27 Jul 2026 15:45:34 +0700",
+    "createAt": "2026-07-27T08:45:34.000Z",
+    "thumbnail_blurhash": "LHFPKj%%-=?a-%-ioZM{I.nhtMR*"
+  },
+  {
+    "id": "https://vnexpress.net/co-phieu-pnj-tang-tran-5102161.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Cổ phiếu PNJ tăng trần",
+    "description": "Sau 4 phiên giảm sàn liên tiếp và xuống mức thấp nhất trong gần 6 năm qua, cổ phiếu PNJ đột ngột đảo chiều tăng hết biên độ, dư mua hơn 200.000 cổ phiếu.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/27/wm1-wm1-td5-1785141506-2297-1785141527.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Ujh9fsoYdzd_OYf4AVlH-A",
+    "link": "https://vnexpress.net/co-phieu-pnj-tang-tran-5102161.html",
+    "published_at": "Mon, 27 Jul 2026 15:58:10 +0700",
+    "createAt": "2026-07-27T08:58:10.000Z",
+    "thumbnail_blurhash": "L8BCZVVU9WAh^SJ4I;M]9$T0I]-2"
   }
 ]
