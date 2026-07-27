@@ -557,5 +557,57 @@
     "published_at": "Tue, 28 Jul 2026 02:00:00 +0700",
     "createAt": "2026-07-27T19:00:00.000Z",
     "thumbnail_blurhash": "L7HUqd~V00t9HXEUp1sQ01$dtRM|"
+  },
+  {
+    "id": "https://vnexpress.net/ha-noi-se-tai-che-phe-thai-xay-dung-ngay-tai-cong-truong-5102241.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Hà Nội sẽ tái chế phế thải xây dựng ngay tại công trường",
+    "description": "Thành phố yêu cầu các dự án trong giai đoạn giải phóng mặt bằng phải tái chế chất thải rắn ngay tại công trường, sản phẩm tái chế dùng san lấp, đắp nền, làm móng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/27/docvankiep-1785162344-7536-1785162684.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=7WC24LA5tuMC1JV3ucDESA",
+    "link": "https://vnexpress.net/ha-noi-se-tai-che-phe-thai-xay-dung-ngay-tai-cong-truong-5102241.html",
+    "published_at": "Tue, 28 Jul 2026 00:00:00 +0700",
+    "createAt": "2026-07-27T17:00:00.000Z",
+    "thumbnail_blurhash": "L8FiDOx^00-puPV@Di%L,.InSit8"
+  },
+  {
+    "id": "https://vnexpress.net/mot-ngan-hang-giam-gan-700-nhan-vien-nua-dau-nam-5102252.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Một ngân hàng giảm gần 700 nhân viên nửa đầu năm",
+    "description": "VIB giảm gần 7% nhân viên trong nửa đầu năm, còn 9.250 người, khi tập trung phát triển nhân lực chất lượng và có năng suất làm việc cao.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/27/wm1-wm1-dsc-1785164329-6051-1785164687.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=XquVCBoku2GodUl5bnLEHQ",
+    "link": "https://vnexpress.net/mot-ngan-hang-giam-gan-700-nhan-vien-nua-dau-nam-5102252.html",
+    "published_at": "Tue, 28 Jul 2026 03:37:50 +0700",
+    "createAt": "2026-07-27T20:37:50.000Z",
+    "thumbnail_blurhash": "LaJ*k;D$IoD%?waeoIR+x]%1xttR"
+  },
+  {
+    "id": "https://vnexpress.net/ai-trung-quoc-dat-khach-tai-my-5102036.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "AI Trung Quốc 'đắt khách' tại Mỹ",
+    "description": "Chi phí thấp và năng lực xử lý cải thiện nhanh, các mô hình trí tuệ nhân tạo (AI) Trung Quốc ngày càng được ưa chuộng tại Mỹ.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/27/dsc03013-jpg-1785129298-2166-1785129499.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=NBLJ4LD1WuVMaZWhj3x5zQ",
+    "link": "https://vnexpress.net/ai-trung-quoc-dat-khach-tai-my-5102036.html",
+    "published_at": "Tue, 28 Jul 2026 03:45:27 +0700",
+    "createAt": "2026-07-27T20:45:27.000Z",
+    "thumbnail_blurhash": "LD7UrFo#8^ad.TofMwWBROadjEfk"
+  },
+  {
+    "id": "https://vnexpress.net/xe-khach-lat-ngua-tren-duong-tron-5102056.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Xe khách lật ngửa trên đường trơn",
+    "description": "Xe khách bất ngờ mất lái lao lên dải phân cách rồi lật ngửa, đè lên một ôtô con đang đỗ và khiến hơn 30 người thương vong.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/27/ezgif8d0930128cc3b225-17851279-4189-7164-1785136666.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=y3BkpV0Kh09-0g0hbeCQUA&t=image",
+    "link": "https://vnexpress.net/xe-khach-lat-ngua-tren-duong-tron-5102056.html",
+    "published_at": "Tue, 28 Jul 2026 04:00:00 +0700",
+    "createAt": "2026-07-27T21:00:00.000Z",
+    "thumbnail_blurhash": "LEH{gAQ*RMyE.ANFMwV?MxWBV?M^"
   }
 ]
