@@ -1025,5 +1025,31 @@
     "published_at": "Mon, 27 Jul 2026 09:11:56 +0700",
     "createAt": "2026-07-27T02:11:56.000Z",
     "thumbnail_blurhash": "LNHUa:rq%gNdPXD%EMxtyZad%2s;"
+  },
+  {
+    "id": "https://vnexpress.net/mercedes-amg-gt-chay-rui-khi-dang-chay-thu-5101882.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Mercedes-AMG GT cháy rụi khi đang chạy thử",
+    "description": "Chiếc Mercedes-AMG GT bất ngờ bốc cháy và bị phá hủy hoàn toàn trong đợt thử nghiệm khí hậu nóng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/27/MercedesAMGGT1-1785117743-9318-1785118227.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=q6sdxI0_xJm-AZCQGauiyw",
+    "link": "https://vnexpress.net/mercedes-amg-gt-chay-rui-khi-dang-chay-thu-5101882.html",
+    "published_at": "Mon, 27 Jul 2026 11:23:08 +0700",
+    "createAt": "2026-07-27T04:23:08.000Z",
+    "thumbnail_blurhash": "LDEx@c?^i^-VvK9sRP#,R2oyxva0"
+  },
+  {
+    "id": "https://vnexpress.net/mini-aceman-xe-dien-nho-gon-gia-2-419-ty-dong-5101866.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Mini Aceman - xe điện nhỏ gọn giá 2,419 tỷ đồng",
+    "description": "Aceman nhập Đức, kích cỡ định vị giữa Cooper và Countryman, môtơ ở cầu trước với công suất 218 mã lực.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/27/ACEMANVNEXPRESS-1785110453-5633-1785110697.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=vYe0EIswM0jUsb-7dmb4JQ",
+    "link": "https://vnexpress.net/mini-aceman-xe-dien-nho-gon-gia-2-419-ty-dong-5101866.html",
+    "published_at": "Mon, 27 Jul 2026 11:43:12 +0700",
+    "createAt": "2026-07-27T04:43:12.000Z",
+    "thumbnail_blurhash": "LmHL#nngxUxYt-W9ROWA?wNGRjRj"
   }
 ]
