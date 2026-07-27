@@ -154,5 +154,31 @@
     "published_at": "Mon, 27 Jul 2026 15:41:19 +0700",
     "createAt": "2026-07-27T08:41:19.000Z",
     "thumbnail_blurhash": "LfK-UzR2?wkC?bxWW?RkS2aeaxRl"
+  },
+  {
+    "id": "https://vnexpress.net/nha-khoa-hoc-tu-dau-doc-khi-carbon-monoxide-de-thi-nghiem-5100902.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Nhà khoa học tự 'đầu độc' khí carbon monoxide để thí nghiệm",
+    "description": "Nhà sinh lý học John Scott Haldane giam mình trong hòm kín như quan tài suốt 8 tiếng, tự đầu độc khí carbon monoxide và clo, từ đó ra đời những phát minh cứu sống nhiều sinh mạng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/23/VNEScientist-1784800240-8006-1784800289.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Lj-wH4RehvGT-WS6LDDowQ",
+    "link": "https://vnexpress.net/nha-khoa-hoc-tu-dau-doc-khi-carbon-monoxide-de-thi-nghiem-5100902.html",
+    "published_at": "Mon, 27 Jul 2026 00:00:00 +0700",
+    "createAt": "2026-07-26T17:00:00.000Z",
+    "thumbnail_blurhash": "LMEe;_0M4:?G~VIoM{t7?GM|R*of"
+  },
+  {
+    "id": "https://vnexpress.net/gpu-nvidia-co-the-bay-len-mat-trang-nam-nay-5101770.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "GPU Nvidia có thể bay lên Mặt Trăng năm nay",
+    "description": "Jetson của Nvidia dự kiến theo robot tự hành bay lên Mặt Trăng vào cuối năm, trở thành GPU đầu tiên hoạt động trên bề mặt thiên thể này.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/26/8a645911150609e43f48b5b857ab59-2527-8612-1785049301.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=d280j1UMCaMUVs5woQF2Og",
+    "link": "https://vnexpress.net/gpu-nvidia-co-the-bay-len-mat-trang-nam-nay-5101770.html",
+    "published_at": "Mon, 27 Jul 2026 18:00:00 +0700",
+    "createAt": "2026-07-27T11:00:00.000Z",
+    "thumbnail_blurhash": "L3Av^CIU00~p00M|NGj[00-;_29Z"
   }
 ]
