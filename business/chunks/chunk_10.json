@@ -778,5 +778,31 @@
     "published_at": "Mon, 27 Jul 2026 11:27:31 +0700",
     "createAt": "2026-07-27T04:27:31.000Z",
     "thumbnail_blurhash": "LDK1%dx]00ni.TD%%1%gKNM{E1Nb"
+  },
+  {
+    "id": "https://vnexpress.net/gia-usd-tien-sat-dinh-5102021.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Giá USD tiến sát đỉnh",
+    "description": "Tỷ giá trung tâm USD/VND do Ngân hàng Nhà nước công bố tăng 10 đồng, vọt lên 25.293 đồng, chỉ cách kỷ lục được thiết lập năm ngoái 5 đồng.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/27/VPBank-ThanhTung20-5503-1785124764.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=NTHRnrCy9gUBwYUYK2P-ew",
+    "link": "https://vnexpress.net/gia-usd-tien-sat-dinh-5102021.html",
+    "published_at": "Mon, 27 Jul 2026 11:27:31 +0700",
+    "createAt": "2026-07-27T04:27:31.000Z",
+    "thumbnail_blurhash": "LDK1%dx]00ni.TD%%1%gKNM{E1Nb"
+  },
+  {
+    "id": "https://vnexpress.net/vib-lai-truoc-thue-hon-5-100-ty-nua-dau-nam-5102049.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "VIB lãi trước thuế hơn 5.100 tỷ nửa đầu năm",
+    "description": "VIB ghi nhận lợi nhuận trước thuế hơn 5.180 tỷ đồng, tăng 3% cùng kỳ; tổng tài sản vượt 580.000 tỷ đồng, tăng 4% so với đầu năm, tính đến ngày 30/6.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/27/h4-1785127276-3878-1785127580.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=U0UceKeeL6JEc3SDqlUNpA",
+    "link": "https://vnexpress.net/vib-lai-truoc-thue-hon-5-100-ty-nua-dau-nam-5102049.html",
+    "published_at": "Mon, 27 Jul 2026 13:00:00 +0700",
+    "createAt": "2026-07-27T06:00:00.000Z",
+    "thumbnail_blurhash": "LZN-A+xu.8s;?wt6V?t7snkDRPVs"
   }
 ]
