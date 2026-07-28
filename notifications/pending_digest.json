@@ -1,6 +1,19 @@
 {
   "featured": [
     {
+      "id": "https://vnexpress.net/dong-luc-co-the-thuc-day-ong-trump-doi-giong-voi-ukraine-5102302.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Động lực có thể thúc đẩy ông Trump đổi giọng với Ukraine",
+      "description": "Từ chỗ hoài nghi, Tổng thống Trump dần xoay chuyển thái độ với Kiev sau những kết quả Ukraine đạt được trên chiến trường và các nỗ lực kết nối ngoại giao.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/28/anh1-1785204835-6505-1785205992.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=kbAAkD40HOhA56aKeXX7Bg",
+      "link": "https://vnexpress.net/dong-luc-co-the-thuc-day-ong-trump-doi-giong-voi-ukraine-5102302.html",
+      "published_at": "Tue, 28 Jul 2026 10:47:10 +0700",
+      "createAt": "2026-07-28T03:47:10.000Z",
+      "thumbnail_blurhash": "LXH1}GW+R%%2~VjYt8Rj?GV@kDt5"
+    },
+    {
       "id": "https://vnexpress.net/cuu-trai-cau-hung-lu-bun-da-nhieu-khach-mac-ket-5102345.html",
       "category_id": "featured",
       "category_name": "Tin nổi bật",
@@ -38,6 +51,32 @@
       "published_at": "Tue, 28 Jul 2026 11:24:17 +0700",
       "createAt": "2026-07-28T04:24:17.000Z",
       "thumbnail_blurhash": "LNDlv4~SkXD+DkN2Ipxt9bD+f4kU"
+    },
+    {
+      "id": "https://vnexpress.net/doan-bao-chau-bi-xet-xu-ve-cao-buoc-tuyen-truyen-chong-pha-nha-nuoc-5102340.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Đoàn Bảo Châu bị xét xử về cáo buộc tuyên truyền chống phá Nhà nước",
+      "description": "Ông Đoàn Bảo Châu bị cáo buộc quay, phát trên Facebook cá nhân 6 video có nội dung phao tin bịa đặt, tuyên truyền chống Nhà nước, chính quyền; hiện bị truy nã.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/28/img7675jpeg51755177691-1785208-3521-8925-1785208093.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=DqR4oJasB7Qy0MoFqUGVCw",
+      "link": "https://vnexpress.net/doan-bao-chau-bi-xet-xu-ve-cao-buoc-tuyen-truyen-chong-pha-nha-nuoc-5102340.html",
+      "published_at": "Tue, 28 Jul 2026 12:34:52 +0700",
+      "createAt": "2026-07-28T05:34:52.000Z",
+      "thumbnail_blurhash": "LGC%N#00AdRk_3DjxuWB4T*0n2jZ"
+    },
+    {
+      "id": "https://vnexpress.net/cac-nuoc-dong-nam-a-quy-dinh-lan-trai-cao-toc-chi-de-vuot-5102454.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Các nước Đông Nam Á quy định làn trái cao tốc chỉ để vượt",
+      "description": "Nhiều nước Đông Nam Á quy định làn vượt riêng, xử phạt tài xế chiếm làn nhằm duy trì lưu thông và giảm tai nạn.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/28/133607646-n-1785213736-1166-1785213992.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=IMQCbDrgNFw0YRQXBVfX6A",
+      "link": "https://vnexpress.net/cac-nuoc-dong-nam-a-quy-dinh-lan-trai-cao-toc-chi-de-vuot-5102454.html",
+      "published_at": "Tue, 28 Jul 2026 12:41:01 +0700",
+      "createAt": "2026-07-28T05:41:01.000Z",
+      "thumbnail_blurhash": "LVHCGy?vi{s9*J-p%3oz57IU-po#"
     }
   ]
 }
