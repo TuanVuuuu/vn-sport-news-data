@@ -1,3 +1,56 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/lai-suat-cao-anh-huong-ra-sao-toi-moi-loai-tai-san-5102265.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Lãi suất cao ảnh hưởng ra sao tới mọi loại tài sản?",
+      "description": "Lãi suất huy động tại nhiều ngân hàng đã lên tới 9%, giúp người gửi tiết kiệm hưởng lãi cao hơn nhưng cũng tăng chi phí vay vốn, đồng thời tạo áp lực lên chứng khoán, bất động sản và vàng.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/28/thumb5x3-1785171894-9156-1785171998.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=gQaRh4Mt3lit1dY3U-tfWw",
+      "link": "https://vnexpress.net/lai-suat-cao-anh-huong-ra-sao-toi-moi-loai-tai-san-5102265.html",
+      "published_at": "Tue, 28 Jul 2026 06:33:14 +0700",
+      "createAt": "2026-07-27T23:33:14.000Z",
+      "thumbnail_blurhash": "LIDRpJNe0m-717WD}Sj@nj$zoeAH"
+    },
+    {
+      "id": "https://vnexpress.net/ong-trump-neu-ly-do-my-dung-khong-kich-iran-5102271.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Ông Trump nêu lý do Mỹ dừng không kích Iran",
+      "description": "Tổng thống Trump cho biết Mỹ dừng không kích Iran theo đề nghị từ Iran, trong khi Tehran bác bỏ thông tin nước này chủ động đề nghị đàm phán với Washington.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/28/ap26208719305425-1785194002-9778-1785195177.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=rDSYtkCnjGTQ46fg3_crpA",
+      "link": "https://vnexpress.net/ong-trump-neu-ly-do-my-dung-khong-kich-iran-5102271.html",
+      "published_at": "Tue, 28 Jul 2026 06:47:48 +0700",
+      "createAt": "2026-07-27T23:47:48.000Z",
+      "thumbnail_blurhash": "LHBfFaI@R%oz~BWXR*xaj=%2ofae"
+    },
+    {
+      "id": "https://vnexpress.net/mot-ty-ruoi-cho-to-a4-giup-thong-quan-trong-qua-trinh-san-xuat-thuc-pham-gia-5102255.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Một tỷ rưỡi cho 'tờ A4' giúp thông quan trong quá trình sản xuất thực phẩm giả",
+      "description": "Khi lô nguyên liệu 20 tỷ đồng \"tắc biên\", cựu CEO MediUSA khai gửi công văn đến nhiều bộ ngành song không có phản hồi, \"đành qua quan hệ xã hội\" dùng tiền tác động.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/27/2aoboqng3qkz4pebmlfshbjvk3vxoz-6766-4254-1785170569.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Ej2Rs-Kw2KMK-Z_v6aa15g",
+      "link": "https://vnexpress.net/mot-ty-ruoi-cho-to-a4-giup-thong-quan-trong-qua-trinh-san-xuat-thuc-pham-gia-5102255.html",
+      "published_at": "Tue, 28 Jul 2026 07:04:30 +0700",
+      "createAt": "2026-07-28T00:04:30.000Z",
+      "thumbnail_blurhash": "LLIhpoDiRO%M~U_3t8oy~ps:ogx]"
+    },
+    {
+      "id": "https://vnexpress.net/vi-sao-hlv-indonesia-vang-mat-o-khu-ky-thuat-khi-gap-campuchia-5102267.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Vì sao HLV Indonesia vắng mặt ở khu kỹ thuật khi gặp Campuchia?",
+      "description": "HLV John Herdman không chịu án phạt nhưng vắng mặt khoảng 35 phút đầu trận Indonesia thắng Campuchia 5-1 ở lượt ra quân bảng A ASEAN Cup 2026.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/07/28/screenshot-at-1785177141-9716-1785177151.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=EgrAHLmHKdI6I3gEuZQtwQ",
+      "link": "https://vnexpress.net/vi-sao-hlv-indonesia-vang-mat-o-khu-ky-thuat-khi-gap-campuchia-5102267.html",
+      "published_at": "Tue, 28 Jul 2026 07:08:21 +0700",
+      "createAt": "2026-07-28T00:08:21.000Z",
+      "thumbnail_blurhash": "LIF~UB_M%f%3^*$%s.R+tQM|R*jZ"
+    }
+  ]
 }
