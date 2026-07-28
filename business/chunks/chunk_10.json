@@ -921,5 +921,31 @@
     "published_at": "Tue, 28 Jul 2026 03:45:27 +0700",
     "createAt": "2026-07-27T20:45:27.000Z",
     "thumbnail_blurhash": "LD7UrFo#8^ad.TofMwWBROadjEfk"
+  },
+  {
+    "id": "https://vnexpress.net/apple-lay-lai-ngoi-cong-ty-gia-tri-nhat-the-gioi-tu-tay-nvidia-5102294.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Apple lấy lại ngôi công ty giá trị nhất thế giới từ tay Nvidia",
+    "description": "Lần đầu tiên kể từ tháng 4/2025, vốn hóa Apple chốt phiên cao hơn Nvidia, giúp họ trở thành công ty giá trị nhất thế giới.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/28/dscf5557-1785201880-3989-1785201950.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=sbLf5xEZKMcawNEXyWfHOg",
+    "link": "https://vnexpress.net/apple-lay-lai-ngoi-cong-ty-gia-tri-nhat-the-gioi-tu-tay-nvidia-5102294.html",
+    "published_at": "Tue, 28 Jul 2026 08:46:58 +0700",
+    "createAt": "2026-07-28T01:46:58.000Z",
+    "thumbnail_blurhash": "LlJkTEozkCn$~qofWVn%IUf6oLa}"
+  },
+  {
+    "id": "https://vnexpress.net/viet-nam-can-gi-o-nhung-doanh-nghiep-fdi-nhu-intel-samsung-5100312.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Việt Nam cần gì ở những doanh nghiệp FDI như Intel, Samsung?",
+    "description": "Việc Fab-9, một doanh nghiệp kiểm thử nhỏ được Intel đào tạo thành nhà cung ứng xuất sắc, cho thấy mục tiêu của Việt Nam không chỉ là thu hút vốn mà còn là công nghệ, chuỗi cung ứng.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/22/ipv-1784702937-5278-1784704078.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ck_SX82bosTKkpzUWZ_Phw",
+    "link": "https://vnexpress.net/viet-nam-can-gi-o-nhung-doanh-nghiep-fdi-nhu-intel-samsung-5100312.html",
+    "published_at": "Tue, 28 Jul 2026 08:55:48 +0700",
+    "createAt": "2026-07-28T01:55:48.000Z",
+    "thumbnail_blurhash": "LlF~mpt6R.t7%jt7WUbIN#Rkn~WB"
   }
 ]
