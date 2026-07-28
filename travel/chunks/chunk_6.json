@@ -258,5 +258,31 @@
     "published_at": "Tue, 28 Jul 2026 06:30:00 +0700",
     "createAt": "2026-07-27T23:30:00.000Z",
     "thumbnail_blurhash": "LEG[pF00Kl~q?YRVZ~%#_3Vsi^%g"
+  },
+  {
+    "id": "https://vnexpress.net/an-vit-quay-bac-kinh-dung-cach-5102005.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Ăn vịt quay Bắc Kinh đúng cách",
+    "description": "Vịt quay Bắc Kinh được thái thành từng lát mỏng, chấm tương ngọt, cuốn cùng bánh tráng và hành lá, tuyệt đối không cho dưa chuột.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/07/27/vitquay-1785124467-2916-1785124516.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=lpz37psEix5zqtbwcOjHEw",
+    "link": "https://vnexpress.net/an-vit-quay-bac-kinh-dung-cach-5102005.html",
+    "published_at": "Tue, 28 Jul 2026 09:28:11 +0700",
+    "createAt": "2026-07-28T02:28:11.000Z",
+    "thumbnail_blurhash": "LXMH3~?b?wxu%Mt6DjkDXBt6IAM|"
+  },
+  {
+    "id": "https://vnexpress.net/5-nha-leo-nui-chet-tren-dinh-nui-cao-nhat-chau-au-o-nga-5102338.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "5 nhà leo núi chết trên đỉnh núi cao nhất châu Âu ở Nga",
+    "description": "Lực lượng cứu hộ đã tìm thấy 5 nhà leo núi người Bosnia và Herzegovina tử vong do gặp bão tuyết trên đỉnh Elbrus, đỉnh núi cao nhất châu Âu ở Nga.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/07/28/ejjwbqdj0huu176wqzleeb6ez7uu2f-8947-7851-1785206810.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Ay8zs2pS_Znlkxv07Ol5Ng",
+    "link": "https://vnexpress.net/5-nha-leo-nui-chet-tren-dinh-nui-cao-nhat-chau-au-o-nga-5102338.html",
+    "published_at": "Tue, 28 Jul 2026 10:17:04 +0700",
+    "createAt": "2026-07-28T03:17:04.000Z",
+    "thumbnail_blurhash": "LaD^Z*beNHo#AOo#n~afpfWAnNa~"
   }
 ]
