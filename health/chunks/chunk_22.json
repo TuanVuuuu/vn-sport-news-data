@@ -791,5 +791,31 @@
     "published_at": "Tue, 28 Jul 2026 10:00:00 +0700",
     "createAt": "2026-07-28T03:00:00.000Z",
     "thumbnail_blurhash": "LlK^vwsRpdNH~pR,?b-oxtoyt6f6"
+  },
+  {
+    "id": "https://vnexpress.net/bac-si-goi-y-thuc-don-giam-mo-trong-10-ngay-5101827.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Bác sĩ gợi ý thực đơn giảm mỡ trong 10 ngày",
+    "description": "Bác sĩ Phan Thái Tân, huấn luyện viên sức khỏe giảm cân, gợi ý thực đơn 10 ngày với đa dạng thực phẩm từ thịt, cá, trứng, giúp giảm mỡ, no lâu.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/27/492717940-n-1785118388-4850-1785118467.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=6p5tQgSe9bLm9YGG3AWILQ",
+    "link": "https://vnexpress.net/bac-si-goi-y-thuc-don-giam-mo-trong-10-ngay-5101827.html",
+    "published_at": "Tue, 28 Jul 2026 11:00:00 +0700",
+    "createAt": "2026-07-28T04:00:00.000Z",
+    "thumbnail_blurhash": "LMINX3}Z+#-V-o%Ms;Nes;t7ShRk"
+  },
+  {
+    "id": "https://vnexpress.net/ba-cach-phong-tranh-lay-nhiem-viem-gan-b-5102275.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Ba cách phòng tránh lây nhiễm viêm gan B",
+    "description": "Tiêm vaccine, hạn chế tiếp xúc các đường lây nhiễm, tăng cường miễn dịch góp phần phòng ngừa viêm gan B.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/28/ba-c-si-be-nh-vie-n-da-khoa-ta-8705-2447-1785196594.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=l3zL38qvG5M0pWOMsD4tDw",
+    "link": "https://vnexpress.net/ba-cach-phong-tranh-lay-nhiem-viem-gan-b-5102275.html",
+    "published_at": "Tue, 28 Jul 2026 11:00:00 +0700",
+    "createAt": "2026-07-28T04:00:00.000Z",
+    "thumbnail_blurhash": "LxL;jW~qM|t8?vj=V@of%2RjRkof"
   }
 ]

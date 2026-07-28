@@ -1168,5 +1168,31 @@
     "published_at": "Tue, 28 Jul 2026 09:10:00 +0700",
     "createAt": "2026-07-28T02:10:00.000Z",
     "thumbnail_blurhash": "L4G[s3_N%h^0009u~V^%w6004UE3"
+  },
+  {
+    "id": "https://vnexpress.net/land-rover-khai-tu-discovery-sport-5102287.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Land Rover khai tử Discovery Sport",
+    "description": "Mẫu SUV Land Rover rẻ nhất sẽ ngừng sản xuất vào tháng 12 do doanh số chạm đáy và không đáp ứng các tiêu chuẩn an toàn mới của châu Âu.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/28/LandRoverDiscoverySport-178520-5515-3689-1785202721.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=TfmwSPj9ystkQCCfZLSfwA",
+    "link": "https://vnexpress.net/land-rover-khai-tu-discovery-sport-5102287.html",
+    "published_at": "Tue, 28 Jul 2026 10:22:01 +0700",
+    "createAt": "2026-07-28T03:22:01.000Z",
+    "thumbnail_blurhash": "LMD]3XoM-mxt0fWEIpoc~8ofW?V["
+  },
+  {
+    "id": "https://vnexpress.net/oto-trung-quoc-tu-khoa-cac-chuc-nang-khi-vua-xuat-canh-5102292.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Ôtô Trung Quốc tự khóa các chức năng khi vừa xuất cảnh",
+    "description": "Chuyến đi xuyên lục địa của một tài xế bị gián đoạn khi hệ thống an ninh trên chiếc Zeekr 9X nhầm lẫn thành hành vi buôn lậu.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/28/Zeekr9X1-1785206904-3495-1785207206.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=aI6ZJg9J1XH5rYK5MVadkA",
+    "link": "https://vnexpress.net/oto-trung-quoc-tu-khoa-cac-chuc-nang-khi-vua-xuat-canh-5102292.html",
+    "published_at": "Tue, 28 Jul 2026 11:06:16 +0700",
+    "createAt": "2026-07-28T04:06:16.000Z",
+    "thumbnail_blurhash": "LeFr^Yt4?ZxZ~nobt2oJ?ZWANHR+"
   }
 ]
