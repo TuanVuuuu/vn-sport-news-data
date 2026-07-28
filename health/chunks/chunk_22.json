@@ -739,5 +739,31 @@
     "published_at": "Tue, 28 Jul 2026 09:00:00 +0700",
     "createAt": "2026-07-28T02:00:00.000Z",
     "thumbnail_blurhash": "LVJ+0^0000xH~UI@jJf8tlxaWVWB"
+  },
+  {
+    "id": "https://vnexpress.net/ha-noi-ghi-nhan-185-ca-covid-19-trong-mot-tuan-5102305.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Hà Nội ghi nhận 185 ca Covid-19 trong một tuần",
+    "description": "Trung tâm Kiểm soát Bệnh tật (CDC) Hà Nội ghi nhận 185 ca mắc Covid-19 tại 76 phường, xã trong tuần qua, tăng gần gấp đôi so với tuần trước đó.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/28/quyn8108-1785201833-2202-1785202022.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=AfAgrywh0TfTVpiL91XnRg",
+    "link": "https://vnexpress.net/ha-noi-ghi-nhan-185-ca-covid-19-trong-mot-tuan-5102305.html",
+    "published_at": "Tue, 28 Jul 2026 09:20:25 +0700",
+    "createAt": "2026-07-28T02:20:25.000Z",
+    "thumbnail_blurhash": "LBC6+9_49uXAE3ogxZoI8_x]x]WB"
+  },
+  {
+    "id": "https://vnexpress.net/tp-hcm-kham-suc-khoe-mien-phi-hon-263-000-nguoi-mot-tuan-5102300.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "TP HCM khám sức khỏe miễn phí hơn 263.000 người một tuần",
+    "description": "TP HCM lập kỷ lục hơn 263.000 lượt khám sức khỏe toàn dân trong một tuần, một số địa phương đã bao phủ gần một nửa dân số, nơi khác vẫn chưa đạt 3%.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/28/233a5157-1785201214-7607-1785201300.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=mk-YoTG7XqAn_CDz-MtDBQ",
+    "link": "https://vnexpress.net/tp-hcm-kham-suc-khoe-mien-phi-hon-263-000-nguoi-mot-tuan-5102300.html",
+    "published_at": "Tue, 28 Jul 2026 09:25:00 +0700",
+    "createAt": "2026-07-28T02:25:00.000Z",
+    "thumbnail_blurhash": "LGGRbq-;mko}~q~VNGM{S~%MOZnj"
   }
 ]
