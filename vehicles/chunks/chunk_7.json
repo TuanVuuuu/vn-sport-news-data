@@ -1142,5 +1142,31 @@
     "published_at": "Tue, 28 Jul 2026 06:00:00 +0700",
     "createAt": "2026-07-27T23:00:00.000Z",
     "thumbnail_blurhash": "LOHnjE00?bxa_4I9g3xZ$kZ~ENV@"
+  },
+  {
+    "id": "https://vnexpress.net/xe-may-dam-vao-duoi-oto-re-phai-ai-sai-5102285.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Xe máy đâm vào đuôi ôtô rẽ phải: ai sai?",
+    "description": "Đột ngột chuyển một lúc qua hai làn đường, chiếc Mercedes bị xe máy húc mạnh từ phía sau, hôm 27/7 tại chân cầu vượt Sài Đồng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/28/ezgif2ad2ec9b9991a84f-17851980-6164-3583-1785198221.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=ZbKvmPCbwCmdGTL19UqHFw&t=image",
+    "link": "https://vnexpress.net/xe-may-dam-vao-duoi-oto-re-phai-ai-sai-5102285.html",
+    "published_at": "Tue, 28 Jul 2026 08:33:45 +0700",
+    "createAt": "2026-07-28T01:33:45.000Z",
+    "thumbnail_blurhash": "LGCGJh_4ozob_N-=kBW.?w-=NGR%"
+  },
+  {
+    "id": "https://vnexpress.net/rat-kho-cam-do-xe-truoc-cua-nha-dan-5102043.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "'Rất khó cấm đỗ xe trước cửa nhà dân'",
+    "description": "Trong nội khu, không có biển cấm dừng đỗ, tôi có được quyền đỗ xe trước cửa nhà mà không cần sự đồng ý của chủ nhà.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/27/unnamed67871710144089176910313-8462-2907-1785126520.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=tcr2KaxryUVObzNTISEXMA",
+    "link": "https://vnexpress.net/rat-kho-cam-do-xe-truoc-cua-nha-dan-5102043.html",
+    "published_at": "Tue, 28 Jul 2026 09:10:00 +0700",
+    "createAt": "2026-07-28T02:10:00.000Z",
+    "thumbnail_blurhash": "L4G[s3_N%h^0009u~V^%w6004UE3"
   }
 ]
