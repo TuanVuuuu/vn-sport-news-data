@@ -142,6 +142,45 @@
       "published_at": "Tue, 28 Jul 2026 14:34:45 +0700",
       "createAt": "2026-07-28T07:34:45.000Z",
       "thumbnail_blurhash": "LfH.jAxuM_ae~qj]j]t7?bayofjt"
+    },
+    {
+      "id": "https://vnexpress.net/dong-dat-7-1-do-khien-nhat-ban-phat-canh-bao-song-than-5102550.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Động đất 7,1 độ khiến Nhật Bản phát cảnh báo sóng thần",
+      "description": "Trận động đất mạnh 7,1 độ xảy ra tại tỉnh Kumamoto trên đảo Kyushu của Nhật Bản, khiến cơ quan chức năng phát cảnh báo sóng thần.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/28/chatgpt-image-thg-1785225974-2932-1785226261.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=cqYAgB0vfkd2vAktx6zvfg",
+      "link": "https://vnexpress.net/dong-dat-7-1-do-khien-nhat-ban-phat-canh-bao-song-than-5102550.html",
+      "published_at": "Tue, 28 Jul 2026 15:22:37 +0700",
+      "createAt": "2026-07-28T08:22:37.000Z",
+      "thumbnail_blurhash": "LRKLqFEmcHk]RjxtNLa}$yNixAnz"
+    },
+    {
+      "id": "https://vnexpress.net/chu-muu-vu-san-xuat-88-loai-thuc-pham-gia-duoc-gia-dinh-khac-phuc-202-ty-dong-5102475.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Chủ mưu vụ sản xuất 88 loại thực phẩm giả được gia đình khắc phục 202 tỷ đồng",
+      "description": "VKS xác nhận Nguyễn Năng Mạnh, cựu CEO MediUSA, đã được gia đình nộp thay 202 tỷ đồng để khắc phục hậu quả trong vụ án sản xuất 88 loại thực phẩm chức năng giả, che giấu doanh thu để trốn thuế.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/28/2aoboqng3rsmg6l0fabjqonyzzg0be-7827-1281-1785226943.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=bRIMXc4Yg-3xs8e9AoQb5Q",
+      "link": "https://vnexpress.net/chu-muu-vu-san-xuat-88-loai-thuc-pham-gia-duoc-gia-dinh-khac-phuc-202-ty-dong-5102475.html",
+      "published_at": "Tue, 28 Jul 2026 15:22:46 +0700",
+      "createAt": "2026-07-28T08:22:46.000Z",
+      "thumbnail_blurhash": "LeGIisM{ofRj~qoMWAof?aWBRkoM"
+    },
+    {
+      "id": "https://vnexpress.net/vn-index-dao-chieu-tang-manh-5102570.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "VN-Index đảo chiều tăng mạnh",
+      "description": "Nhiều cổ phiếu nhảy vọt sau tin \"bắt đáy\" của lãnh đạo, góp phần giúp chỉ số đại diện cho sàn TP HCM đảo chiều từ giảm thành tăng gần 12 điểm.",
+      "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/28/233A7357-5096-1785226919.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=sKV3OeYsIh6LNj_vCYITcw",
+      "link": "https://vnexpress.net/vn-index-dao-chieu-tang-manh-5102570.html",
+      "published_at": "Tue, 28 Jul 2026 15:37:44 +0700",
+      "createAt": "2026-07-28T08:37:44.000Z",
+      "thumbnail_blurhash": "L45YgC01=|x]4o_NIARjs+X5XRnj"
     }
   ]
 }

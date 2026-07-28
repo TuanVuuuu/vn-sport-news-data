@@ -882,5 +882,57 @@
     "published_at": "Tue, 28 Jul 2026 14:19:35 +0700",
     "createAt": "2026-07-28T07:19:35.000Z",
     "thumbnail_blurhash": "LGHn:E?KRqXn-NRO8_-;%$M_RNav"
+  },
+  {
+    "id": "https://vnexpress.net/phau-thuat-chinh-hinh-nieu-dao-be-trai-5102335.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Phẫu thuật chỉnh hình niệu đạo bé trai",
+    "description": "Bảo, 3 tuổi, mắc dị tật lỗ tiểu thấp, được bác sĩ phẫu thuật tạo hình niệu đạo.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/28/image001-1785206154-7549-1785206397.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=WxrMGWZaqIDAa-4sWQ602A",
+    "link": "https://vnexpress.net/phau-thuat-chinh-hinh-nieu-dao-be-trai-5102335.html",
+    "published_at": "Tue, 28 Jul 2026 15:00:00 +0700",
+    "createAt": "2026-07-28T08:00:00.000Z",
+    "thumbnail_blurhash": "LPKL%m.90nkr~mxV-.IV--IuIWV?"
+  },
+  {
+    "id": "https://vnexpress.net/thit-bo-cang-tai-cang-bo-5102476.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Thịt bò 'càng tái càng bổ'?",
+    "description": "Cảm giác thịt bò tái mềm, mọng nước và ngọt hơn chủ yếu đến từ lượng nước còn giữ trong thớ thịt, không đồng nghĩa thịt tái giàu dinh dưỡng hơn thịt chín.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/28/8199-jpeg-1785226939-7299-1785227176.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=hUfXp-hcMbqe76h0Eop4pQ",
+    "link": "https://vnexpress.net/thit-bo-cang-tai-cang-bo-5102476.html",
+    "published_at": "Tue, 28 Jul 2026 15:26:54 +0700",
+    "createAt": "2026-07-28T08:26:54.000Z",
+    "thumbnail_blurhash": "LIKROd0y6|$j|}tObFr]KcI;s:$j"
+  },
+  {
+    "id": "https://vnexpress.net/co-nen-uong-thuoc-bo-day-noi-mac-tu-cung-truoc-chuyen-phoi-5102555.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Có nên uống thuốc bổ dày nội mạc tử cung trước chuyển phôi?",
+    "description": "Nhiều người khuyên tôi nên uống thuốc bổ làm dày nội mạc tử cung trước chuyển phôi. Điều này có đúng không và nên bổ sung như thế nào? (Thanh Hà, TP HCM)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/28/hinh-ths-bs-tran-ngoc-van-anh-6804-8507-1785226952.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=X9ODQm1BAag84NmTmYl9XQ",
+    "link": "https://vnexpress.net/co-nen-uong-thuoc-bo-day-noi-mac-tu-cung-truoc-chuyen-phoi-5102555.html",
+    "published_at": "Tue, 28 Jul 2026 15:30:00 +0700",
+    "createAt": "2026-07-28T08:30:00.000Z",
+    "thumbnail_blurhash": "LAIE-D004m00jYkF00DN~o.90KkD"
+  },
+  {
+    "id": "https://vnexpress.net/de-xuat-dieu-tra-quy-mo-lon-ve-nhu-cau-sinh-con-cua-nguoi-viet-5102527.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Đề xuất điều tra quy mô lớn về nhu cầu sinh con của người Việt",
+    "description": "Bộ Y tế đề xuất khảo sát các yếu tố ảnh hưởng quyết định sinh con và số con mong muốn của các cặp vợ chồng, nam nữ thanh niên, trong bối cảnh mức sinh cả nước xuống thấp kỷ lục.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/28/vienphusan-1785223860-6900-1785224226.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=s3TpErB0k-sUVuuf5tP2JA",
+    "link": "https://vnexpress.net/de-xuat-dieu-tra-quy-mo-lon-ve-nhu-cau-sinh-con-cua-nguoi-viet-5102527.html",
+    "published_at": "Tue, 28 Jul 2026 15:48:49 +0700",
+    "createAt": "2026-07-28T08:48:49.000Z",
+    "thumbnail_blurhash": "L6Eye-4T==Sv*6?us8i]4T4:yExu"
   }
 ]
