@@ -466,5 +466,44 @@
     "published_at": "Wed, 29 Jul 2026 00:33:18 +0700",
     "createAt": "2026-07-28T17:33:18.000Z",
     "thumbnail_blurhash": "LVJHs?oz?aRP~V%gD%D*e-o}9ZRj"
+  },
+  {
+    "id": "https://vnexpress.net/tp-hcm-muon-can-bo-cong-chuc-chuyen-sang-xe-dien-truoc-nam-2030-5102717.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "TP HCM muốn cán bộ, công chức chuyển sang xe điện trước năm 2030",
+    "description": "Thành phố yêu cầu đẩy nhanh việc thay ôtô, xe máy công vụ và phương tiện cá nhân của cán bộ, công chức, viên chức bằng xe điện, năng lượng xanh trước năm 2030.",
+    "thumbnail_url": null,
+    "link": "https://vnexpress.net/tp-hcm-muon-can-bo-cong-chuc-chuyen-sang-xe-dien-truoc-nam-2030-5102717.html",
+    "published_at": "Wed, 29 Jul 2026 01:00:00 +0700",
+    "createAt": "2026-07-28T18:00:00.000Z",
+    "thumbnail_blurhash": null
+  },
+  {
+    "id": "https://vnexpress.net/man-cuu-nguoi-giua-song-lon-khien-con-trai-ong-trump-than-phuc-5102595.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Màn cứu người giữa sóng lớn khiến con trai ông Trump thán phục",
+    "description": "Con trai ông Trump kêu gọi trao \"danh hiệu cao quý nhất\" cho nhân viên cứu hộ 16 tuổi đã vật lộn giữa sóng dữ để cứu người.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/28/ratio3x2960-1785228758-1848-1785229251.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=108irnTthBP7zan4FHwR4A",
+    "link": "https://vnexpress.net/man-cuu-nguoi-giua-song-lon-khien-con-trai-ong-trump-than-phuc-5102595.html",
+    "published_at": "Wed, 29 Jul 2026 01:00:00 +0700",
+    "createAt": "2026-07-28T18:00:00.000Z",
+    "thumbnail_blurhash": "L9H_.Z?I%M?d00xuxat700bEfAae"
+  },
+  {
+    "id": "https://vnexpress.net/quan-doi-my-tranh-luan-ve-ung-dung-ai-trong-quan-su-5080660.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Quân đội Mỹ tranh luận về ứng dụng AI trong quân sự",
+    "description": "Lầu Năm Góc muốn sử dụng AI theo \"mọi cách phù hợp\", trong đó có xác định mục tiêu, nhưng một số quan chức lại tỏ ra thận trọng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/06/01/M-1780312668-3486-1780315974.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=kmkNlm39AE3Y9bVVOiXfcw",
+    "link": "https://vnexpress.net/quan-doi-my-tranh-luan-ve-ung-dung-ai-trong-quan-su-5080660.html",
+    "published_at": "Wed, 29 Jul 2026 01:00:00 +0700",
+    "createAt": "2026-07-28T18:00:00.000Z",
+    "thumbnail_blurhash": "LFEVl}NMnfxv%yf,RlM|.T%2IAXA"
   }
 ]
