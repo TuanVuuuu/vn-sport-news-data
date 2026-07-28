@@ -1,3 +1,30 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/hon-78-000-ty-dong-du-kien-boi-thuong-tai-dinh-cu-vanh-dai-5-vung-thu-do-5102423.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Hơn 78.000 tỷ đồng dự kiến bồi thường, tái định cư vành đai 5 - vùng Thủ đô",
+      "description": "Triển khai dự án vành đai 5 - vùng Thủ đô, các địa phương dự kiến thu hồi hơn 4.000 ha đất, ảnh hưởng gần 7.000 hộ dân với tổng chi phí bồi thường, tái định cư 78.140 tỷ đồng.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/28/anh-man-hinh-luc-1785225384-1226-1785225695.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=nFPw-Q7kvgWL0lKC0tlhcg",
+      "link": "https://vnexpress.net/hon-78-000-ty-dong-du-kien-boi-thuong-tai-dinh-cu-vanh-dai-5-vung-thu-do-5102423.html",
+      "published_at": "Tue, 28 Jul 2026 16:56:34 +0700",
+      "createAt": "2026-07-28T09:56:34.000Z",
+      "thumbnail_blurhash": "L5AdM:xP0oo@-e-tk4OHI_s%xvX4"
+    },
+    {
+      "id": "https://vnexpress.net/thu-truong-nong-nghiep-va-moi-truong-hoang-trung-bi-khai-tru-dang-5102657.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Thứ trưởng Nông nghiệp và Môi trường Hoàng Trung bị khai trừ Đảng",
+      "description": "Ông Hoàng Trung, Thứ trưởng Bộ Nông nghiệp và Môi trường, bị Ban Bí thư khai trừ Đảng do vi phạm gây hậu quả rất nghiêm trọng.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/28/1-jpg-1785234397-8362-1785234518.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=gJyUa2dZuDVtJx8JGWGdEQ",
+      "link": "https://vnexpress.net/thu-truong-nong-nghiep-va-moi-truong-hoang-trung-bi-khai-tru-dang-5102657.html",
+      "published_at": "Tue, 28 Jul 2026 17:33:22 +0700",
+      "createAt": "2026-07-28T10:33:22.000Z",
+      "thumbnail_blurhash": "LeO|hDIA?w?w.Sx]oyx]ROV@RjRj"
+    }
+  ]
 }
