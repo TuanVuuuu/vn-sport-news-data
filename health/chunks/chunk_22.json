@@ -1064,5 +1064,44 @@
     "published_at": "Tue, 28 Jul 2026 19:00:00 +0700",
     "createAt": "2026-07-28T12:00:00.000Z",
     "thumbnail_blurhash": "LED9O%R$049H~oNFM#f50NR+-U%0"
+  },
+  {
+    "id": "https://vnexpress.net/thuong-tien-khuyen-sinh-va-bai-toan-nguoi-tre-ngai-de-5101222.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Thưởng tiền khuyến sinh và bài toán người trẻ ngại đẻ",
+    "description": "33 tuổi, con gái gần 5 tuổi, chị Lan nhiều lần bàn với chồng về chuyện sinh thêm em bé nhưng mỗi lần tính chi phí thì ý định ấy lại chùng xuống.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/24/TIN416493041784880112-17848801-3456-4604-1784881013.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=8e4oMFe1_M003zMf2wdq1Q",
+    "link": "https://vnexpress.net/thuong-tien-khuyen-sinh-va-bai-toan-nguoi-tre-ngai-de-5101222.html",
+    "published_at": "Wed, 29 Jul 2026 00:02:00 +0700",
+    "createAt": "2026-07-28T17:02:00.000Z",
+    "thumbnail_blurhash": "L6G[sPS?Q8*0_O9xITfe00S0k@E1"
+  },
+  {
+    "id": "https://vnexpress.net/suc-khoe/cam-nang/thoat-vi-thanh-bung-443",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Thoát vị thành bụng",
+    "description": "Thoát vị thành bụng là tình trạng tạng trong ổ bụng chui qua điểm yếu hoặc lỗ hở của thành bụng, gây đau khi ho, mang vác nặng hoặc gắng sức.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/28/daubung10-1785223743-3264-1785223751.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=wUwqShzP2vU5JYblA8Zwkg",
+    "link": "https://vnexpress.net/suc-khoe/cam-nang/thoat-vi-thanh-bung-443",
+    "published_at": "Wed, 29 Jul 2026 00:04:00 +0700",
+    "createAt": "2026-07-28T17:04:00.000Z",
+    "thumbnail_blurhash": "LHKm^O?c00E1~qM{I9NGyrn$$3t7"
+  },
+  {
+    "id": "https://vnexpress.net/5-loi-ich-ngam-chan-nuoc-am-truoc-khi-ngu-5102168.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "5 lợi ích ngâm chân nước ấm trước khi ngủ",
+    "description": "Ngâm chân đúng cách có thể giúp thư giãn, giảm đau nhức, cải thiện tuần hoàn máu và chất lượng giấc ngủ.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/27/ngam-chan-1785142301-3846-1785142331.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=NDYi9hAREKtXqze9vNJ2LQ",
+    "link": "https://vnexpress.net/5-loi-ich-ngam-chan-nuoc-am-truoc-khi-ngu-5102168.html",
+    "published_at": "Wed, 29 Jul 2026 00:05:00 +0700",
+    "createAt": "2026-07-28T17:05:00.000Z",
+    "thumbnail_blurhash": "L2FODc^i00?H8w~WGux]00Mxq@-o"
   }
 ]
