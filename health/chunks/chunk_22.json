@@ -1012,5 +1012,57 @@
     "published_at": "Tue, 28 Jul 2026 18:00:00 +0700",
     "createAt": "2026-07-28T11:00:00.000Z",
     "thumbnail_blurhash": "LGM~zkv1%MI;~VngxtV?aeVXsAVr"
+  },
+  {
+    "id": "https://vnexpress.net/quy-tac-5-chu-vang-giup-phat-hien-som-than-suy-yeu-5102411.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Quy tắc 5 chữ 'vàng' giúp phát hiện sớm thận suy yếu",
+    "description": "Nhận biết sớm bệnh thận qua quy tắc 5 dấu hiệu cảnh báo: Bọt (tiểu bọt), Phù (sưng chi), Cao (huyết áp), Thiếu (thiếu máu) và Mệt (mệt mỏi).",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/28/233a5277-1785212932-9613-1785213048.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=lnQiGdwjah2dNlsV2H4U8Q",
+    "link": "https://vnexpress.net/quy-tac-5-chu-vang-giup-phat-hien-som-than-suy-yeu-5102411.html",
+    "published_at": "Tue, 28 Jul 2026 19:00:00 +0700",
+    "createAt": "2026-07-28T12:00:00.000Z",
+    "thumbnail_blurhash": "LGH2D@~q56_49E.9f,MdXoo#$%IU"
+  },
+  {
+    "id": "https://vnexpress.net/5-su-that-ve-muoi-truyen-benh-viem-nao-nhat-ban-5102599.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "5 sự thật về muỗi truyền bệnh viêm não Nhật Bản",
+    "description": "Muỗi truyền viêm não Nhật Bản thường hoạt động về đêm, bay xa đến 3,2 km và có thể đưa virus qua nhiều vật chủ trước khi lây sang người.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/28/1-1785229150-4902-1785229351.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=CG8jcc7phR4_ULYMxiP5yg",
+    "link": "https://vnexpress.net/5-su-that-ve-muoi-truyen-benh-viem-nao-nhat-ban-5102599.html",
+    "published_at": "Tue, 28 Jul 2026 19:00:00 +0700",
+    "createAt": "2026-07-28T12:00:00.000Z",
+    "thumbnail_blurhash": "LbKvx%$~OTt3*8%HWVoex:x:VxoL"
+  },
+  {
+    "id": "https://vnexpress.net/phau-thuat-chinh-sua-khuyu-tay-16-nam-bi-veo-5102563.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Phẫu thuật chỉnh sửa khuỷu tay 16 năm bị vẹo",
+    "description": "An, 24 tuổi, gãy vẹo khuỷu tay phải 16 năm, nay được bác sĩ cắt xương chỉnh trục về đúng vị trí.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/28/laseran-1785226518-6920-1785226566.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=Y3DeYTaCtydXejLYi_d8vA",
+    "link": "https://vnexpress.net/phau-thuat-chinh-sua-khuyu-tay-16-nam-bi-veo-5102563.html",
+    "published_at": "Tue, 28 Jul 2026 19:00:00 +0700",
+    "createAt": "2026-07-28T12:00:00.000Z",
+    "thumbnail_blurhash": "LNM%=^IA_3?H%IRo-;%M?wadMxRj"
+  },
+  {
+    "id": "https://vnexpress.net/6-qua-giau-chat-xo-nen-an-thuong-xuyen-5102390.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "6 quả giàu chất xơ nên ăn thường xuyên",
+    "description": "Ổi, thanh long, chanh leo, táo và xoài giàu chất xơ, giúp hỗ trợ tiêu hóa, phòng táo bón, góp phần kiểm soát đường huyết.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/28/anh-xoai-xanh-de-canh-xoai-c-1-2718-2832-1785210682.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=yJw5CxKMWRmNMbHSrtwT1w",
+    "link": "https://vnexpress.net/6-qua-giau-chat-xo-nen-an-thuong-xuyen-5102390.html",
+    "published_at": "Tue, 28 Jul 2026 19:00:00 +0700",
+    "createAt": "2026-07-28T12:00:00.000Z",
+    "thumbnail_blurhash": "LED9O%R$049H~oNFM#f50NR+-U%0"
   }
 ]
