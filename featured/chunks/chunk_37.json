@@ -1181,5 +1181,70 @@
     "published_at": "Wed, 29 Jul 2026 09:39:24 +0700",
     "createAt": "2026-07-29T02:39:24.000Z",
     "thumbnail_blurhash": "LEGbI;~VM}rX0L?b-:tjRXR%t7jE"
+  },
+  {
+    "id": "https://vnexpress.net/nhieu-nha-thau-du-an-san-bay-long-thanh-se-bi-dieu-tra-5102747.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Nhiều nhà thầu dự án sân bay Long Thành sẽ bị điều tra",
+    "description": "Thanh tra Chính phủ chuyển hồ sơ sang Bộ Công an sau khi phát hiện nhiều doanh nghiệp chuyển nhượng thầu trái quy định, có gói giá trị hơn 3.200 tỷ đồng, cùng nhiều vi phạm của chủ đầu tư ACV.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/29/anh-jpg-1785284584-6389-1785284718.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=XLQYpeRycSEuSVts776Klg",
+    "link": "https://vnexpress.net/nhieu-nha-thau-du-an-san-bay-long-thanh-se-bi-dieu-tra-5102747.html",
+    "published_at": "Wed, 29 Jul 2026 07:33:44 +0700",
+    "createAt": "2026-07-29T00:33:44.000Z",
+    "thumbnail_blurhash": "LNHxmJ-:xZxuu6xaoft7OtWBW=bH"
+  },
+  {
+    "id": "https://vnexpress.net/trung-quoc-san-xuat-may-quang-khac-duv-5102668.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Trung Quốc sản xuất máy quang khắc DUV",
+    "description": "Trung Quốc được cho là đang sản xuất máy quang khắc cực tím sâu (DUV), thiết bị rất quan trọng trong chế tạo chip, và sẽ giao hàng trong năm nay.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/28/smicjpeg1762358368668717623591-5899-9716-1785237197.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=z6eeF2xXFZR1j8cF5HJk-Q",
+    "link": "https://vnexpress.net/trung-quoc-san-xuat-may-quang-khac-duv-5102668.html",
+    "published_at": "Wed, 29 Jul 2026 08:00:00 +0700",
+    "createAt": "2026-07-29T01:00:00.000Z",
+    "thumbnail_blurhash": "LdH__8oYM_D%~XRiITax?aIUIVWX"
+  },
+  {
+    "id": "https://vnexpress.net/it-nhat-13-nguoi-da-chet-vi-dong-dat-7-1-do-o-nhat-ban-5102821.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Ít nhất 13 người đã chết vì động đất 7,1 độ ở Nhật Bản",
+    "description": "Trận động đất ở tỉnh Kumamoto khiến ít nhất 13 người chết, giới chức đang chạy đua với thời gian để tìm người còn sống sót.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/29/ap26210095414261-1785293544-4846-1785293605.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=1oPry8QoJYiCTotymI8CLQ",
+    "link": "https://vnexpress.net/it-nhat-13-nguoi-da-chet-vi-dong-dat-7-1-do-o-nhat-ban-5102821.html",
+    "published_at": "Wed, 29 Jul 2026 10:13:55 +0700",
+    "createAt": "2026-07-29T03:13:55.000Z",
+    "thumbnail_blurhash": "LEEV?3%Wo=D}%hD#ouNF?wofIAxG"
+  },
+  {
+    "id": "https://vnexpress.net/nghien-cuu-khu-kinh-te-dac-biet-va-mo-hinh-xa-hat-nhan-5102794.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Nghiên cứu khu kinh tế đặc biệt và mô hình xã hạt nhân",
+    "description": "Trung ương định hướng nghiên cứu khu kinh tế đặc biệt để mở không gian phát triển, đồng thời hình thành các xã hạt nhân có sức lan tỏa, dẫn dắt khu vực.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/29/2aoboqnig9cuzovkvbiqgsipayi8qe-5730-2911-1785293912.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=6kKdFf9lz96m4_TSemIXpw",
+    "link": "https://vnexpress.net/nghien-cuu-khu-kinh-te-dac-biet-va-mo-hinh-xa-hat-nhan-5102794.html",
+    "published_at": "Wed, 29 Jul 2026 10:32:08 +0700",
+    "createAt": "2026-07-29T03:32:08.000Z",
+    "thumbnail_blurhash": "LZHAz?~A-Nxa=^s:NeWBRjWVofoL"
+  },
+  {
+    "id": "https://vnexpress.net/dai-tuong-luong-tam-quang-khong-de-xa-hoi-giau-vat-chat-ngheo-van-hoa-5102813.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Đại tướng Lương Tam Quang: Không để xã hội giàu vật chất, nghèo văn hóa",
+    "description": "Đại tướng Lương Tam Quang cho rằng phát triển kinh tế phải hài hòa với văn hóa, con người, lấy chất lượng sống, hạnh phúc và niềm tin của người dân làm thước đo.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/29/wm1aoboqni0ps2n9nsb2c22kwhu3-1-1654-7667-1785298646.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=u2DMSNsZAP8xdwcMcPsGaQ",
+    "link": "https://vnexpress.net/dai-tuong-luong-tam-quang-khong-de-xa-hoi-giau-vat-chat-ngheo-van-hoa-5102813.html",
+    "published_at": "Wed, 29 Jul 2026 11:17:26 +0700",
+    "createAt": "2026-07-29T04:17:26.000Z",
+    "thumbnail_blurhash": "LRFhV1~Ur;$|,oxZXSR+NaWBn%j["
   }
 ]
