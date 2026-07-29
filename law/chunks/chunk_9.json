@@ -466,5 +466,70 @@
     "published_at": "Wed, 29 Jul 2026 07:33:44 +0700",
     "createAt": "2026-07-29T00:33:44.000Z",
     "thumbnail_blurhash": "LNHxmJ-:xZxuu6xaoft7OtWBW=bH"
+  },
+  {
+    "id": "https://vnexpress.net/bi-can-doan-bao-chau-bi-xet-xu-ve-cao-buoc-tuyen-truyen-chong-pha-nha-nuoc-5102340.html",
+    "category_id": "law",
+    "category_name": "Pháp luật",
+    "source": "VnExpress",
+    "title": "Bị can Đoàn Bảo Châu bị xét xử về cáo buộc tuyên truyền chống phá Nhà nước",
+    "description": "Bị can Đoàn Bảo Châu bị cáo buộc quay, phát trên Facebook cá nhân 6 video có nội dung phao tin bịa đặt, tuyên truyền chống Nhà nước, chính quyền; hiện bị truy nã.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/28/img7675jpeg51755177691-1785208-3521-8925-1785208093.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=DqR4oJasB7Qy0MoFqUGVCw",
+    "link": "https://vnexpress.net/bi-can-doan-bao-chau-bi-xet-xu-ve-cao-buoc-tuyen-truyen-chong-pha-nha-nuoc-5102340.html",
+    "published_at": "Tue, 28 Jul 2026 12:34:52 +0700",
+    "createAt": "2026-07-28T05:34:52.000Z",
+    "thumbnail_blurhash": "LGC%N#00AdRk_3DjxuWB4T*0n2jZ"
+  },
+  {
+    "id": "https://vnexpress.net/nhieu-nha-thau-du-an-san-bay-long-thanh-se-bi-dieu-tra-5102747.html",
+    "category_id": "law",
+    "category_name": "Pháp luật",
+    "source": "VnExpress",
+    "title": "Nhiều nhà thầu dự án sân bay Long Thành sẽ bị điều tra",
+    "description": "Thanh tra Chính phủ chuyển hồ sơ sang Bộ Công an sau khi phát hiện nhiều doanh nghiệp chuyển nhượng thầu trái quy định, có gói giá trị hơn 3.200 tỷ đồng, cùng nhiều vi phạm của chủ đầu tư ACV.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/29/anh-jpg-1785284584-6389-1785284718.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=XLQYpeRycSEuSVts776Klg",
+    "link": "https://vnexpress.net/nhieu-nha-thau-du-an-san-bay-long-thanh-se-bi-dieu-tra-5102747.html",
+    "published_at": "Wed, 29 Jul 2026 07:33:44 +0700",
+    "createAt": "2026-07-29T00:33:44.000Z",
+    "thumbnail_blurhash": "LNHxmJ-:xZxuu6xaoft7OtWBW=bH"
+  },
+  {
+    "id": "https://vnexpress.net/dan-canh-va-quet-oto-khong-che-nguoi-di-duong-de-voi-tien-5102787.html",
+    "category_id": "law",
+    "category_name": "Pháp luật",
+    "source": "VnExpress",
+    "title": "Dàn cảnh va quẹt ôtô, khống chế người đi đường để 'vòi' tiền",
+    "description": "Lê Phạm Minh Vũ và hai đồng phạm bị cáo buộc dùng ôtô chèn ép, tạo va quẹt giao thông rồi khống chế các nạn nhân lên xe, buộc đưa tiền mới thả.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/29/1-1785289346-4816-1785289472.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=TvMARJCQzOBl-nGAncKu0Q",
+    "link": "https://vnexpress.net/dan-canh-va-quet-oto-khong-che-nguoi-di-duong-de-voi-tien-5102787.html",
+    "published_at": "Wed, 29 Jul 2026 09:35:04 +0700",
+    "createAt": "2026-07-29T02:35:04.000Z",
+    "thumbnail_blurhash": "LaJa+cIT%g%L_3M{oMt7~qaeNHbG"
+  },
+  {
+    "id": "https://vnexpress.net/tai-xe-taxi-nghi-khach-bi-lua-cho-thang-den-cong-an-5102828.html",
+    "category_id": "law",
+    "category_name": "Pháp luật",
+    "source": "VnExpress",
+    "title": "Tài xế taxi nghi khách bị lừa, chở thẳng đến công an",
+    "description": "Phát hiện khách nữ 66 tuổi bị người lạ đe dọa, bắt chuyển 90 triệu đồng để \"làm thủ tục xác minh tài sản\", tài xế đã chở đến công an trình báo.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/29/nguoi-phu-nu-trinh-bao-cong-an-1444-7646-1785295919.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=wIq4vvzWRatnWrHnE8ErXw",
+    "link": "https://vnexpress.net/tai-xe-taxi-nghi-khach-bi-lua-cho-thang-den-cong-an-5102828.html",
+    "published_at": "Wed, 29 Jul 2026 10:30:17 +0700",
+    "createAt": "2026-07-29T03:30:17.000Z",
+    "thumbnail_blurhash": "LRGu5ot8-:RQ~VW9oxnj?aMxs*RP"
+  },
+  {
+    "id": "https://vnexpress.net/giam-doc-tham-my-vien-ban-chung-chi-khong-can-hoc-thi-5102835.html",
+    "category_id": "law",
+    "category_name": "Pháp luật",
+    "source": "VnExpress",
+    "title": "Giám đốc thẩm mỹ viện bán chứng chỉ không cần học, thi",
+    "description": "Nguyễn Đình Đức, Giám đốc Thẩm mỹ viện Quốc tế Paris, cùng hai đồng phạm bị xác định bán chứng chỉ nghề thẩm mỹ mà không cần học hay thi.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/29/a-1785294424-2835-1785294454.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=rEi-LBkbVKyqwTTpBIsaiA",
+    "link": "https://vnexpress.net/giam-doc-tham-my-vien-ban-chung-chi-khong-can-hoc-thi-5102835.html",
+    "published_at": "Wed, 29 Jul 2026 10:42:36 +0700",
+    "createAt": "2026-07-29T03:42:36.000Z",
+    "thumbnail_blurhash": "LbHV6l-p-;NH~p?FRjW?t7xWM{Rk"
   }
 ]
