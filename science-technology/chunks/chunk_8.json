@@ -466,5 +466,31 @@
     "published_at": "Wed, 29 Jul 2026 12:02:12 +0700",
     "createAt": "2026-07-29T05:02:12.000Z",
     "thumbnail_blurhash": "LAK^]B%fJz_1=n9F?w_MIm%3%Ns8"
+  },
+  {
+    "id": "https://vnexpress.net/tau-giai-cuu-kinh-vien-vong-nasa-mat-kiem-soat-5102901.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Tàu giải cứu kính viễn vọng NASA mất kiểm soát",
+    "description": "Tàu vũ trụ LINK của công ty Katalyst Space quay mất kiểm soát ngoài không gian trước khi đến gần kính viễn vọng Swift để tiến hành nhiệm vụ giải cứu.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/29/VNELink-1785301367-1748-1785301456.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=_EI-YwlVC-eu4YZ2rA-VaA",
+    "link": "https://vnexpress.net/tau-giai-cuu-kinh-vien-vong-nasa-mat-kiem-soat-5102901.html",
+    "published_at": "Wed, 29 Jul 2026 14:08:06 +0700",
+    "createAt": "2026-07-29T07:08:06.000Z",
+    "thumbnail_blurhash": "LHBg=A00?dY8%FIWx^MwM{oyt7aK"
+  },
+  {
+    "id": "https://vnexpress.net/ra-mat-mang-luoi-ket-noi-chuyen-gia-toan-cau-tu-van-chinh-sach-viet-nam-5102932.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Ra mắt mạng lưới kết nối chuyên gia toàn cầu tư vấn chính sách Việt Nam",
+    "description": "VIPL, mạng lưới nghiên cứu và tư vấn chính sách độc lập, kết nối chuyên gia người Việt toàn cầu với quá trình hoạch định chính sách trong nước, ra mắt sáng 29/7 tại TP HCM.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/29/img-1785307546-1882-1785307766.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Rq1Ag7mQu-PVi2Dh-yzuoQ",
+    "link": "https://vnexpress.net/ra-mat-mang-luoi-ket-noi-chuyen-gia-toan-cau-tu-van-chinh-sach-viet-nam-5102932.html",
+    "published_at": "Wed, 29 Jul 2026 15:00:06 +0700",
+    "createAt": "2026-07-29T08:00:06.000Z",
+    "thumbnail_blurhash": "LFG+X?tK00IV0ED$~o%M.8%KIWWE"
   }
 ]
