@@ -115,5 +115,31 @@
     "published_at": "Wed, 29 Jul 2026 16:59:14 +0700",
     "createAt": "2026-07-29T09:59:14.000Z",
     "thumbnail_blurhash": "LBFr|z0000?u-:NFIpVs_N9FDi-:"
+  },
+  {
+    "id": "https://vnexpress.net/xe-tai-nho-bi-day-lao-dau-vao-xe-tai-lon-5102304.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Xe tải nhỏ bị đẩy lao đầu vào xe tải lớn",
+    "description": "Chiếc xe tải lớn phanh gấp dừng lại dẫn tới một tai nạn liên hoàn, hôm 26/7 tại xã Tân Thành.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/28/ezgif523723a44e88cccf-17852016-4752-7614-1785206028.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=BvfixvyESWWBgd11zt_7nw&t=image",
+    "link": "https://vnexpress.net/xe-tai-nho-bi-day-lao-dau-vao-xe-tai-lon-5102304.html",
+    "published_at": "Wed, 29 Jul 2026 08:32:09 +0700",
+    "createAt": "2026-07-29T01:32:09.000Z",
+    "thumbnail_blurhash": "LJGSDb~p00I:M|_3_3M_RlWE-=%N"
+  },
+  {
+    "id": "https://vnexpress.net/diem-nhan-khong-gian-trai-nghiem-porsche-tai-da-nang-5103079.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Điểm nhấn không gian trải nghiệm Porsche tại Đà Nẵng",
+    "description": "Sự kiện của Porsche đón hơn 5.500 lượt khách, tiếp nối chuỗi kỷ niệm 75 năm di sản đua xe thể thao của thương hiệu Đức, hôm 18-19/7.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/29/IMG6084-1785327541-5188-1785327553.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=J68oyVJNgyuSD8Kk0aew0Q",
+    "link": "https://vnexpress.net/diem-nhan-khong-gian-trai-nghiem-porsche-tai-da-nang-5103079.html",
+    "published_at": "Wed, 29 Jul 2026 20:00:00 +0700",
+    "createAt": "2026-07-29T13:00:00.000Z",
+    "thumbnail_blurhash": "LRIOF9xbs;s,~XtOt7s:-.jwjvWB"
   }
 ]
