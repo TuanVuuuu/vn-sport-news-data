@@ -102,5 +102,31 @@
     "published_at": "Thu, 30 Jul 2026 01:08:30 +0700",
     "createAt": "2026-07-29T18:08:30.000Z",
     "thumbnail_blurhash": "L28p=X9a00005-sV0f%200ni~p?H"
+  },
+  {
+    "id": "https://vnexpress.net/4-nhom-thuc-pham-giup-nguoi-tieu-duong-keo-dai-tuoi-tho-5101750.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "4 nhóm thực phẩm giúp người tiểu đường kéo dài tuổi thọ",
+    "description": "Chế độ ăn giàu rau quả, sữa, đậu và ngũ cốc giúp kháng viêm, chống oxy hóa, hỗ trợ kiểm soát đường huyết và giảm tới 75% nguy cơ tử vong ở người tiểu đường.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/26/wm1-wm1-screenshot-at-1785043769-7909-1785043813.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=86zU89aK40_zJmKY-XzqWw",
+    "link": "https://vnexpress.net/4-nhom-thuc-pham-giup-nguoi-tieu-duong-keo-dai-tuoi-tho-5101750.html",
+    "published_at": "Thu, 30 Jul 2026 03:00:00 +0700",
+    "createAt": "2026-07-29T20:00:00.000Z",
+    "thumbnail_blurhash": "L3Ex@NtQ00RQ%L%MNID%00of_MM|"
+  },
+  {
+    "id": "https://vnexpress.net/oto-vuot-lan-lan-doa-nga-nguoi-di-xe-may-5102956.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Ôtô vượt lấn làn 'dọa' ngã người đi xe máy",
+    "description": "Chiếc xe tải lấn làn vượt ở khúc cua khiến người đi xe máy ở hướng ngược chiều giật mình tự ngã, hôm 29/7 tại QL3 qua đoạn đền Thác Giềng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/29/ezgif2e9999425cdd371a-17853103-9577-4939-1785310560.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=kGLuvY21BEbUib4WroKYTQ&t=image",
+    "link": "https://vnexpress.net/oto-vuot-lan-lan-doa-nga-nguoi-di-xe-may-5102956.html",
+    "published_at": "Thu, 30 Jul 2026 04:00:00 +0700",
+    "createAt": "2026-07-29T21:00:00.000Z",
+    "thumbnail_blurhash": "LXFPQc~pM|In.9-;s:M{_3-;oeWA"
   }
 ]
