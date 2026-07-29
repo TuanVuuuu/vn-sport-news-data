@@ -245,5 +245,31 @@
     "published_at": "Wed, 29 Jul 2026 12:01:47 +0700",
     "createAt": "2026-07-29T05:01:47.000Z",
     "thumbnail_blurhash": "LJD0s1t7.9%N_4bHx]%Ms.WBWBt8"
+  },
+  {
+    "id": "https://vnexpress.net/ong-trump-khoe-duoc-dat-ten-cho-cao-toc-1-ty-usd-o-morocco-5102853.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Ông Trump khoe được đặt tên cho cao tốc 1 tỷ USD ở Morocco",
+    "description": "Ông Trump giới thiệu cao tốc 1.055 km kết nối Tây Phi với châu Âu, cảm ơn Quốc vương Morocco vì đã lấy tên ông đặt cho tuyến đường.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/29/ong-trump-khoe-duoc-dat-ten-ch-9625-2347-1785301567.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=_-0o6T-pof4weMTmh3_Z4g",
+    "link": "https://vnexpress.net/ong-trump-khoe-duoc-dat-ten-cho-cao-toc-1-ty-usd-o-morocco-5102853.html",
+    "published_at": "Wed, 29 Jul 2026 14:56:24 +0700",
+    "createAt": "2026-07-29T07:56:24.000Z",
+    "thumbnail_blurhash": "LUJ*Fw%MoebbCmWqaxt7L2oLayR,"
+  },
+  {
+    "id": "https://vnexpress.net/iran-he-lo-tuong-khong-quan-tung-lai-cuong-kich-tan-cong-can-cu-my-5102938.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Iran hé lộ tướng không quân từng 'lái cường kích tấn công căn cứ Mỹ'",
+    "description": "Iran cho biết tướng Kazemi là một trong các phi công Su-24 thiệt mạng khi tham gia không kích sân bay Al Udeid ở Qatar hồi tháng 3.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/29/Iran-1785313614-9036-1785314320.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=CVsEAAqGvmxQIKmwhIUQfA",
+    "link": "https://vnexpress.net/iran-he-lo-tuong-khong-quan-tung-lai-cuong-kich-tan-cong-can-cu-my-5102938.html",
+    "published_at": "Wed, 29 Jul 2026 16:10:10 +0700",
+    "createAt": "2026-07-29T09:10:10.000Z",
+    "thumbnail_blurhash": "LfIE@P?v?wx^S7RjXUM{9aE1NHxa"
   }
 ]
