@@ -1,3 +1,82 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/my-ton-1-4-ty-usd-ra-xac-tau-san-bay-hat-nhan-dau-tien-tren-the-gioi-5103012.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Mỹ tốn 1,4 tỷ USD rã xác tàu sân bay hạt nhân đầu tiên trên thế giới",
+      "description": "Hải quân Mỹ tốn khoảng 1,4 tỷ USD cho quá trình tháo dỡ USS Enterprise, tàu sân bay hạt nhân bị loại biên từ 14 năm trước.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/29/5563187178137269174a-178531584-9686-7456-1785316189.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=lPC4BMQlPThxIHeepvzaZA",
+      "link": "https://vnexpress.net/my-ton-1-4-ty-usd-ra-xac-tau-san-bay-hat-nhan-dau-tien-tren-the-gioi-5103012.html",
+      "published_at": "Wed, 29 Jul 2026 17:04:15 +0700",
+      "createAt": "2026-07-29T10:04:15.000Z",
+      "thumbnail_blurhash": "LzF%cBofj[og%%ayayj[E2WBaeay"
+    },
+    {
+      "id": "https://vnexpress.net/cuu-truong-cong-an-phuong-bo-tron-sau-vu-nhan-tien-giai-cuu-dan-choi-ma-tuy-5103048.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Cựu trưởng công an phường bỏ trốn sau vụ nhận tiền 'giải cứu' dân chơi ma túy",
+      "description": "Bị cáo buộc nhận gần 100 triệu đồng để \"giải cứu\" hai người sử dụng ma túy, cựu Trưởng Công an phường An Phú đã bỏ trốn trước khi bị xét xử vắng mặt.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/29/quanbar1-1785321344-8375-1785321360.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=pgFlxUAKB06ABP47BS8grQ",
+      "link": "https://vnexpress.net/cuu-truong-cong-an-phuong-bo-tron-sau-vu-nhan-tien-giai-cuu-dan-choi-ma-tuy-5103048.html",
+      "published_at": "Wed, 29 Jul 2026 17:38:40 +0700",
+      "createAt": "2026-07-29T10:38:40.000Z",
+      "thumbnail_blurhash": "LXH.G+?PD[M-_MtLWHRWD[V|xsW,"
+    },
+    {
+      "id": "https://vnexpress.net/lai-suat-lien-ngan-hang-xuong-thap-nhat-dau-nam-5103024.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Lãi suất liên ngân hàng xuống thấp nhất đầu năm",
+      "description": "Lãi suất vay mượn kỳ hạn qua đêm giữa các ngân hàng xuống 2,2% - thấp nhất kể từ đầu năm.",
+      "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/29/wm1-wm1-settop-lai-suat-qua-dem-17-9527-8945-1785319565.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=5bHXG4csFSqAaw_fJA1mOw",
+      "link": "https://vnexpress.net/lai-suat-lien-ngan-hang-xuong-thap-nhat-dau-nam-5103024.html",
+      "published_at": "Wed, 29 Jul 2026 17:52:56 +0700",
+      "createAt": "2026-07-29T10:52:56.000Z",
+      "thumbnail_blurhash": "LAR:4$yEH?_N~qD*Rjs:4-V[x]s."
+    },
+    {
+      "id": "https://vnexpress.net/chay-xe-tai-cao-toc-long-thanh-dau-giay-un-tac-5-km-5103063.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Cháy xe tải, cao tốc Long Thành - Dầu Giây ùn tắc 5 km",
+      "description": "Lửa phát ra từ bánh trước rồi lan vào hàng nhựa trên xe tải, cao tốc TP HCM - Long Thành - Dầu Giây ùn tắc kéo dài 4-5 km, chiều 29/7.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/29/2aoboqnnikbqrt6nnsjy0kup1tm2vh-4459-8936-1785324172.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=d_YQL36-A8aqwx2wczaoOA",
+      "link": "https://vnexpress.net/chay-xe-tai-cao-toc-long-thanh-dau-giay-un-tac-5-km-5103063.html",
+      "published_at": "Wed, 29 Jul 2026 18:20:58 +0700",
+      "createAt": "2026-07-29T11:20:58.000Z",
+      "thumbnail_blurhash": "LfDTkf%gV@Rj_Nx]j]WB%MoftRkC"
+    },
+    {
+      "id": "https://vnexpress.net/de-xuat-giao-ubnd-tinh-quyet-viec-chuyen-nhuong-du-an-bat-dong-san-5103059.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Đề xuất giao UBND tỉnh quyết việc chuyển nhượng dự án bất động sản",
+      "description": "Chính phủ đề xuất UBND cấp tỉnh quyết định việc chuyển nhượng một phần hoặc toàn bộ dự án bất động sản, thay vì Thủ tướng.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/29/wm1-wm1-dji0202jpg-1785322986-3257-1785323098.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=tE0mjZcspKKVyw6WUnLopA",
+      "link": "https://vnexpress.net/de-xuat-giao-ubnd-tinh-quyet-viec-chuyen-nhuong-du-an-bat-dong-san-5103059.html",
+      "published_at": "Wed, 29 Jul 2026 18:25:42 +0700",
+      "createAt": "2026-07-29T11:25:42.000Z",
+      "thumbnail_blurhash": "LaEW2ea|e:s;.TWBj[kC?cWXjuoe"
+    },
+    {
+      "id": "https://vnexpress.net/tim-thay-150-hai-cot-liet-si-o-cong-vien-le-thi-rieng-sau-3-tuan-5103058.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Tìm thấy 150 hài cốt liệt sĩ ở công viên Lê Thị Riêng sau 3 tuần",
+      "description": "Sau hơn ba tuần khai quật hai hố chôn tập thể trong công viên Lê Thị Riêng, lực lượng chức năng tìm thấy 150 hài cốt liệt sĩ cùng nhiều di vật.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/29/a-nh-ma-n-hi-nh-lu-c-178532480-7630-1933-1785324818.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=Cbz61130QouYCtXC1y-oKw",
+      "link": "https://vnexpress.net/tim-thay-150-hai-cot-liet-si-o-cong-vien-le-thi-rieng-sau-3-tuan-5103058.html",
+      "published_at": "Wed, 29 Jul 2026 18:32:02 +0700",
+      "createAt": "2026-07-29T11:32:02.000Z",
+      "thumbnail_blurhash": "LHEU}oEj^kxu~BIpbbR*=x9aM{Io"
+    }
+  ]
 }
