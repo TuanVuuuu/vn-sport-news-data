@@ -89,5 +89,57 @@
     "published_at": "Wed, 29 Jul 2026 05:00:00 +0700",
     "createAt": "2026-07-28T22:00:00.000Z",
     "thumbnail_blurhash": "LBOL41NeMa}l_h-T?dTIE7SfE3Vv"
+  },
+  {
+    "id": "https://vnexpress.net/iran-bat-ngo-tap-kich-ten-lua-dan-dao-nham-vao-can-cu-my-5102731.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Iran 'bất ngờ tập kích tên lửa đạn đạo' nhằm vào căn cứ Mỹ",
+    "description": "Quân đội Mỹ thông báo đã đánh chặn thành công cuộc tập kích bất ngờ bằng tên lửa đạn đạo của Iran nhằm vào lực lượng đồn trú ở Trung Đông.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/29/ten-lua-iran-1785280133-3851-1785280350.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=TS5MF2GiFzx4fLX0hGS0wg",
+    "link": "https://vnexpress.net/iran-bat-ngo-tap-kich-ten-lua-dan-dao-nham-vao-can-cu-my-5102731.html",
+    "published_at": "Wed, 29 Jul 2026 06:27:27 +0700",
+    "createAt": "2026-07-28T23:27:27.000Z",
+    "thumbnail_blurhash": "L7HLC,^%^+~W.Tt6WC%L4oX9oyW?"
+  },
+  {
+    "id": "https://vnexpress.net/ai-giup-hang-tram-nguoi-nhat-ban-nen-duyen-vo-chong-5102618.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "AI giúp hàng trăm người Nhật Bản nên duyên vợ chồng",
+    "description": "Ứng dụng hẹn hò tích hợp AI mà chính quyền Tokyo giới thiệu từ năm 2024 tới nay đã giúp 265 đôi kết hôn và hàng trăm đôi \"đang trong mối quan hệ nghiêm túc\".",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/28/image-1785231430-6547-1785232153.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=FuX_sXtOiYVaTxsvK6-IhQ",
+    "link": "https://vnexpress.net/ai-giup-hang-tram-nguoi-nhat-ban-nen-duyen-vo-chong-5102618.html",
+    "published_at": "Wed, 29 Jul 2026 07:00:00 +0700",
+    "createAt": "2026-07-29T00:00:00.000Z",
+    "thumbnail_blurhash": "LdKw,_$%?bxu?^Mxt6bc%MM{adt8"
+  },
+  {
+    "id": "https://vnexpress.net/ukraine-muon-tranh-leo-thang-cang-thang-voi-iran-5102733.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Ukraine muốn tránh leo thang căng thẳng với Iran",
+    "description": "Ngoại trưởng Sybiha cho biết đã trao đổi với người đồng cấp Araghchi để tránh leo thang căng thẳng, sau vụ Ukraine tấn công tàu Iran trên biển Caspi.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/29/chatgpt-image-jul-am-178528217-2187-6849-1785282626.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=Q9sEO_FufIi4fUxehIGDLw",
+    "link": "https://vnexpress.net/ukraine-muon-tranh-leo-thang-cang-thang-voi-iran-5102733.html",
+    "published_at": "Wed, 29 Jul 2026 07:10:29 +0700",
+    "createAt": "2026-07-29T00:10:29.000Z",
+    "thumbnail_blurhash": "LqHnsfIpjsaf~VM}WBs:kCoLWCoe"
+  },
+  {
+    "id": "https://vnexpress.net/houthi-phong-ten-lua-dan-dao-vao-tau-dau-arab-saudi-5102740.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Houthi phóng tên lửa đạn đạo vào tàu dầu Arab Saudi",
+    "description": "Lực lượng Houthi thông báo phóng tên lửa nhằm vào tàu dầu của Arab Saudi, buộc phương tiện này quay đầu.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/29/5563187178137269427a-178528386-5613-6577-1785284019.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=OXEwjaq_tibYrquw-QN4vA",
+    "link": "https://vnexpress.net/houthi-phong-ten-lua-dan-dao-vao-tau-dau-arab-saudi-5102740.html",
+    "published_at": "Wed, 29 Jul 2026 07:35:22 +0700",
+    "createAt": "2026-07-29T00:35:22.000Z",
+    "thumbnail_blurhash": "LpC@OHozWVfm%%j]jZj]NHWCjZj@"
   }
 ]
