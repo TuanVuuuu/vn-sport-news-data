@@ -76,5 +76,31 @@
     "published_at": "Wed, 29 Jul 2026 12:00:00 +0700",
     "createAt": "2026-07-29T05:00:00.000Z",
     "thumbnail_blurhash": "LJHUa.~W[1=}^StlNu#X#?WXS#oz"
+  },
+  {
+    "id": "https://vnexpress.net/dieu-gi-xay-ra-voi-co-the-khi-ngu-5102831.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Điều gì xảy ra với cơ thể khi ngủ?",
+    "description": "Trong khi ngủ, não xử lý thông tin và loại bỏ một số chất thải, còn tim, gan và thận tiếp tục duy trì tuần hoàn, trao đổi chất và đào thải để cơ thể phục hồi.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/29/unao136981676576562-1785294014-4727-1785294179.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=hKS_Obv8PE558r85WBVkvw",
+    "link": "https://vnexpress.net/dieu-gi-xay-ra-voi-co-the-khi-ngu-5102831.html",
+    "published_at": "Wed, 29 Jul 2026 12:30:00 +0700",
+    "createAt": "2026-07-29T05:30:00.000Z",
+    "thumbnail_blurhash": "LGF~{.4n00%3IBw[XTo~0dX9}HNZ"
+  },
+  {
+    "id": "https://vnexpress.net/no-luc-giu-song-thai-mac-hoi-chung-truyen-mau-den-khi-chao-doi-an-toan-5102753.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Nỗ lực giữ song thai mắc hội chứng truyền máu đến khi chào đời an toàn",
+    "description": "Chị Thu, 32 tuổi, mang song thai nhờ thụ tinh trong ống nghiệm, đến tuần 11 phát hiện mắc hội chứng truyền máu song thai nguy cơ phải hủy một.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/29/image001-1785284832-1762-1785284883.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ji8q0u9RMISGChxpip9QNQ",
+    "link": "https://vnexpress.net/no-luc-giu-song-thai-mac-hoi-chung-truyen-mau-den-khi-chao-doi-an-toan-5102753.html",
+    "published_at": "Wed, 29 Jul 2026 13:00:00 +0700",
+    "createAt": "2026-07-29T06:00:00.000Z",
+    "thumbnail_blurhash": "L4O2~#00*J00[m0000VELaO$J:_3"
   }
 ]
