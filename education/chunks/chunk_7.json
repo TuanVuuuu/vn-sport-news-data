@@ -960,5 +960,31 @@
     "published_at": "Wed, 29 Jul 2026 05:31:47 +0700",
     "createAt": "2026-07-28T22:31:47.000Z",
     "thumbnail_blurhash": "LCIqvK?Jbw.A00tQITng4-M^OGI9"
+  },
+  {
+    "id": "https://vnexpress.net/tro-thanh-giao-su-o-tuoi-18-5102655.html",
+    "category_id": "education",
+    "category_name": "Giáo dục",
+    "source": "VnExpress",
+    "title": "Trở thành giáo sư ở tuổi 18",
+    "description": "Nathan Thomas, sinh năm 2004, được Guinness công nhận là 'giáo sư' trẻ nhất thế giới, khi mới 18 tuổi 346 ngày.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/29/youngest-professor-nathan-pres-1454-3203-1785289340.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=2ZMXcmZfxykXfUfcSGLn8A",
+    "link": "https://vnexpress.net/tro-thanh-giao-su-o-tuoi-18-5102655.html",
+    "published_at": "Wed, 29 Jul 2026 08:40:12 +0700",
+    "createAt": "2026-07-29T01:40:12.000Z",
+    "thumbnail_blurhash": "L9LD=D0300~WEmD$oHE2009ZR%M{"
+  },
+  {
+    "id": "https://vnexpress.net/bach-khoa-ha-noi-ket-noi-sinh-vien-voi-nhung-giao-su-hang-dau-the-gioi-5102642.html",
+    "category_id": "education",
+    "category_name": "Giáo dục",
+    "source": "VnExpress",
+    "title": "Bách khoa Hà Nội kết nối sinh viên với những giáo sư hàng đầu thế giới",
+    "description": "Thu hút các chuyên gia hàng đầu thế giới đến chia sẻ kết quả nghiên cứu, giao lưu, góp ý cho sinh viên là một chiến lược của Đại học Bách khoa Hà Nội.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/28/28-1785234218-5846-1785234428.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Ph7EIgcBrXhppQwYL91KwA",
+    "link": "https://vnexpress.net/bach-khoa-ha-noi-ket-noi-sinh-vien-voi-nhung-giao-su-hang-dau-the-gioi-5102642.html",
+    "published_at": "Wed, 29 Jul 2026 09:10:30 +0700",
+    "createAt": "2026-07-29T02:10:30.000Z",
+    "thumbnail_blurhash": "L8D]3s_N1Pi^Z2%LwGRQDNRh.8NH"
   }
 ]
