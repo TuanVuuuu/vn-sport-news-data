@@ -193,5 +193,31 @@
     "published_at": "Thu, 30 Jul 2026 06:45:00 +0700",
     "createAt": "2026-07-29T23:45:00.000Z",
     "thumbnail_blurhash": "LoGSJTxZj?oe~ooeayoe?Zt5fkj["
+  },
+  {
+    "id": "https://vnexpress.net/sealion-6-suv-hybrid-cam-sac-ngoai-gia-de-tiep-can-cua-byd-5090925.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Sealion 6–SUV hybrid cắm sạc ngoài giá dễ tiếp cận của BYD",
+    "description": "BYD Sealion 6 dùng công nghệ DM-i Super Hybrid kết hợp trải nghiệm vận hành của xe điện với sự linh hoạt của xe xăng, di chuyển linh hoạt cùng nhiều điều kiện sử dụng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/29/nhmnhnh20260729lc191415-178532-4465-1338-1785327393.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=Qp-rKttYJqprCdNpyP0M8A",
+    "link": "https://vnexpress.net/sealion-6-suv-hybrid-cam-sac-ngoai-gia-de-tiep-can-cua-byd-5090925.html",
+    "published_at": "Thu, 30 Jul 2026 09:00:00 +0700",
+    "createAt": "2026-07-30T02:00:00.000Z",
+    "thumbnail_blurhash": "L6Dl=#?v$tIS55NCNENw00Di.7~q"
+  },
+  {
+    "id": "https://vnexpress.net/toyota-corolla-phien-ban-dat-nhat-chi-co-hai-cho-5103147.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Toyota Corolla phiên bản đắt nhất chỉ có hai chỗ",
+    "description": "Mẫu xe hiệu năng cao cắt giảm ghế sau, tinh chỉnh khung gầm và sản xuất giới hạn 730 chiếc nhằm hướng tới nhóm khách hàng đam mê sưu tầm.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/30/ToyotaCorolla1-1785374672-8021-1785374939.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=8pHNsBwm8OEpZUn_3WAYPw",
+    "link": "https://vnexpress.net/toyota-corolla-phien-ban-dat-nhat-chi-co-hai-cho-5103147.html",
+    "published_at": "Thu, 30 Jul 2026 09:50:01 +0700",
+    "createAt": "2026-07-30T02:50:01.000Z",
+    "thumbnail_blurhash": "LG97eKxut7Rj~qt7t7Rj-:oft7WB"
   }
 ]
