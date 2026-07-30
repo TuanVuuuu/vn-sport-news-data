@@ -1,3 +1,82 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/cuoc-chien-phia-sau-y-tuong-lap-cong-ty-co-phan-quan-ly-world-cup-5103088.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Cuộc chiến phía sau ý tưởng lập công ty cổ phần quản lý World Cup",
+      "description": "Chủ tịch FIFA Gianni Infantino đang có ý định thành lập một công ty trị giá 20 tỷ USD vận hành World Cup cả nam lẫn nữ cùng các nhà đầu tư tư nhân, gồm gia đình nhà Kushner có liên hệ mật thiết với Tổng thống Mỹ Donald Trump.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/07/29/7dd762b223bd4dd0bb355d768a99a2-1402-3268-1785330157.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=NvCY4KLRDYVqv1yu2XsjyQ",
+      "link": "https://vnexpress.net/cuoc-chien-phia-sau-y-tuong-lap-cong-ty-co-phan-quan-ly-world-cup-5103088.html",
+      "published_at": "Thu, 30 Jul 2026 12:36:04 +0700",
+      "createAt": "2026-07-30T05:36:04.000Z",
+      "thumbnail_blurhash": "LXM$|;tkx,V=?Gxof*X9_HwbsDo|"
+    },
+    {
+      "id": "https://vnexpress.net/lam-truong-vun-ven-gia-dinh-5102380.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Lam Trường vun vén gia đình",
+      "description": "Ca sĩ Lam Trường cho biết đi lại giữa Việt Nam và Mỹ để ca hát, thu vén thời gian chăm sóc vợ và các con.",
+      "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/07/28/753197451-n-1785228044.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=BFqRzfrcLKl4dEeSBnYP0w",
+      "link": "https://vnexpress.net/lam-truong-vun-ven-gia-dinh-5102380.html",
+      "published_at": "Thu, 30 Jul 2026 12:43:16 +0700",
+      "createAt": "2026-07-30T05:43:16.000Z",
+      "thumbnail_blurhash": "LHJHdL?KJB-;5:?ESuNYXvNHaND*"
+    },
+    {
+      "id": "https://vnexpress.net/chung-khoan-tang-manh-nhat-gan-4-thang-5103372.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Chứng khoán tăng mạnh nhất gần 4 tháng",
+      "description": "Lực cầu áp đảo, được dẫn dắt bởi cổ phiếu chứng khoán, bán lẻ, ngân hàng… giúp VN-Index tăng gần 40 điểm, mạnh nhất kể từ đầu tháng 4.",
+      "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/30/233a7349-1785398939-4541-1785398995.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=CfAHGuOcgsyR8ouNeNWhFw",
+      "link": "https://vnexpress.net/chung-khoan-tang-manh-nhat-gan-4-thang-5103372.html",
+      "published_at": "Thu, 30 Jul 2026 15:25:22 +0700",
+      "createAt": "2026-07-30T08:25:22.000Z",
+      "thumbnail_blurhash": "LDAUH#00-:_N00_3ROIUH=%gM{i_"
+    },
+    {
+      "id": "https://vnexpress.net/mon-qua-su-song-chang-trai-19-tuoi-chet-nao-tang-be-trai-o-tp-hcm-5103382.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "'Món quà sự sống' chàng trai 19 tuổi chết não tặng bé trai ở TP HCM",
+      "description": "Quả thận của chàng trai 19 tuổi chết não ở Quảng Ninh được vận chuyển bằng máy bay vào TP HCM để ghép cho bé trai 7 tuổi suy thận.",
+      "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/30/tha-n-ghe-p-jpeg-1785400779-9943-1785400837.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=KYz4MpB5fg-fhpHVec745g",
+      "link": "https://vnexpress.net/mon-qua-su-song-chang-trai-19-tuoi-chet-nao-tang-be-trai-o-tp-hcm-5103382.html",
+      "published_at": "Thu, 30 Jul 2026 15:57:32 +0700",
+      "createAt": "2026-07-30T08:57:32.000Z",
+      "thumbnail_blurhash": "LLK^a8uP-7~B0i0#F{^j0z5X,:Ej"
+    },
+    {
+      "id": "https://vnexpress.net/vnexpress-mo-noi-dung-tu-van-luat-cung-csgt-5103250.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "VnExpress mở nội dung 'Tư vấn luật cùng CSGT'",
+      "description": "\"Tư vấn luật cùng CSGT\" là nơi phân tích tình huống thực tế, giải đáp thắc mắc, hướng dẫn ứng xử đúng luật.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/30/screenshot20260730at105112-178-3871-5473-1785383567.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=a4ilh76JLLi1TpmvGAn0Zg",
+      "link": "https://vnexpress.net/vnexpress-mo-noi-dung-tu-van-luat-cung-csgt-5103250.html",
+      "published_at": "Thu, 30 Jul 2026 16:11:21 +0700",
+      "createAt": "2026-07-30T09:11:21.000Z",
+      "thumbnail_blurhash": "LuKn_No#o~xa~qoft2a}IZaxkCW="
+    },
+    {
+      "id": "https://vnexpress.net/xe-lu-tren-oto-tai-roi-xuong-duong-o-tp-hcm-5103430.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Xe lu trên ôtô tải rơi xuống đường ở TP HCM",
+      "description": "Xe lu hơn chục tấn trên ôtô tải bất ngờ rơi xuống đường Trần Văn Giàu, phường Tân Tạo, khiến giao thông gián đoạn hơn một giờ, chiều 30/7.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/30/2aoboqo0hfb2yjyxebxnb944ivjygv-4853-1798-1785405314.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Gxx37PH80X1xNvPbFjV0-w",
+      "link": "https://vnexpress.net/xe-lu-tren-oto-tai-roi-xuong-duong-o-tp-hcm-5103430.html",
+      "published_at": "Thu, 30 Jul 2026 16:56:06 +0700",
+      "createAt": "2026-07-30T09:56:06.000Z",
+      "thumbnail_blurhash": "L5EoxoT1LN}@00?Fx[%13WD*q[O?"
+    }
+  ]
 }
