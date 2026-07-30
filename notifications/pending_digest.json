@@ -1,3 +1,108 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/tuoi-trung-nien-thuc-su-bat-dau-khi-nao-5103033.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Tuổi trung niên thực sự bắt đầu khi nào?",
+      "description": "Khái niệm tuổi trung niên ngày càng mơ hồ do tuổi thọ tăng, tốc độ lão hóa giảm và các cột mốc trưởng thành đến muộn.",
+      "thumbnail_url": "https://vcdn1-giadinh.vnecdn.net/2026/07/29/0-1785335555-9193-1785335699.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=0l4MqtBuPWGSG44o0ODTCw",
+      "link": "https://vnexpress.net/tuoi-trung-nien-thuc-su-bat-dau-khi-nao-5103033.html",
+      "published_at": "Thu, 30 Jul 2026 09:26:00 +0700",
+      "createAt": "2026-07-30T02:26:00.000Z",
+      "thumbnail_blurhash": "L8C$J%tiyP={Tdwf0NEg~oe.i{tR"
+    },
+    {
+      "id": "https://vnexpress.net/mot-vien-kim-cuong-tai-viet-nam-duoc-kiem-dinh-nhu-the-nao-5101603.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Một viên kim cương tại Việt Nam được kiểm định như thế nào?",
+      "description": "Để xác định kim cương đúng với chứng thư quốc tế, phòng lab độc lập kiểm tra lại các đặc tính và đối chiếu \"dấu vân tay\" tự nhiên của viên đá thay vì chỉ dựa vào mã số laser có thể bị can thiệp.",
+      "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/26/dsc05811-jpg-1785071605-5809-1785071629.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=MJuOCstPulDz7kr77pGF6A",
+      "link": "https://vnexpress.net/mot-vien-kim-cuong-tai-viet-nam-duoc-kiem-dinh-nhu-the-nao-5101603.html",
+      "published_at": "Thu, 30 Jul 2026 09:42:40 +0700",
+      "createAt": "2026-07-30T02:42:40.000Z",
+      "thumbnail_blurhash": "L2EfNQV@000S00_3t.+s0KS%.8RO"
+    },
+    {
+      "id": "https://vnexpress.net/andrea-aybar-chi-dan-sap-ra-toa-trong-vu-ma-tuy-lien-quan-4-tiep-vien-hang-khong-5103200.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Andrea Aybar, Chi Dân sắp ra tòa trong vụ ma túy liên quan 4 tiếp viên hàng không",
+      "description": "227 người, trong đó có ca sĩ Chi Dân và người mẫu An Tây, bị xét xử trong vụ án vận chuyển ma túy đặc biệt lớn, liên quan 4 tiếp viên hàng không.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/30/screenshot-1785381541-4144-1785381642.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=sL0GBzgz_Agg3VsSB_JaDg",
+      "link": "https://vnexpress.net/andrea-aybar-chi-dan-sap-ra-toa-trong-vu-ma-tuy-lien-quan-4-tiep-vien-hang-khong-5103200.html",
+      "published_at": "Thu, 30 Jul 2026 09:49:13 +0700",
+      "createAt": "2026-07-30T02:49:13.000Z",
+      "thumbnail_blurhash": "LlK_m^%g?^t7bbWBoKa}D%WBjFay"
+    },
+    {
+      "id": "https://vnexpress.net/xe-tai-tong-truc-dien-tren-cau-thang-long-hai-tai-xe-mac-ket-5103190.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Xe tải tông trực diện trên cầu Thăng Long, hai tài xế mắc kẹt",
+      "description": "Hai xe tải đang chạy trên cầu Thăng Long thì đâm vào nhau khiến cabin vỡ nát, hai tài xế mắc kẹt hơn một tiếng, giao thông ùn tắc, sáng 30/7.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/30/e39a1b42d592484b95826675634863-2316-9980-1785378165.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=_faICQemQEqPYzDfxFvuHg",
+      "link": "https://vnexpress.net/xe-tai-tong-truc-dien-tren-cau-thang-long-hai-tai-xe-mac-ket-5103190.html",
+      "published_at": "Thu, 30 Jul 2026 09:49:49 +0700",
+      "createAt": "2026-07-30T02:49:49.000Z",
+      "thumbnail_blurhash": "LOBD:0xBogkYTOM|of%Mx^e-NGWr"
+    },
+    {
+      "id": "https://vnexpress.net/nga-phong-loat-ten-lua-dan-dao-vao-kiev-ukraine-bao-dong-toan-quoc-5103154.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Nga phóng loạt tên lửa đạn đạo vào Kiev, Ukraine báo động toàn quốc",
+      "description": "Loạt vụ nổ xảy ra tại Kiev trong cuộc tập kích tên lửa đạn đạo của Nga, báo động phòng không cũng được ban hành khắp lãnh thổ Ukraine.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/30/Kiev-1785377907-9904-1785378827.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=gTPjhlVGmbFuoGdw0szyXw",
+      "link": "https://vnexpress.net/nga-phong-loat-ten-lua-dan-dao-vao-kiev-ukraine-bao-dong-toan-quoc-5103154.html",
+      "published_at": "Thu, 30 Jul 2026 10:21:25 +0700",
+      "createAt": "2026-07-30T03:21:25.000Z",
+      "thumbnail_blurhash": "L19jWAqJ-W_L0I.RI:IV020|9tIV"
+    },
+    {
+      "id": "https://vnexpress.net/gia-vang-moi-nhat-hom-nay-ngay-30-7-5103223.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Giá vàng miếng tăng một triệu đồng",
+      "description": "Mỗi lượng vàng miếng tăng một triệu đồng hôm nay, lên 142,5 triệu đồng, theo đà đi lên của quốc tế.",
+      "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/30/viathantai-19-5048-1785382029.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=WXWMm2RzHr3LqXCseSi_Lg",
+      "link": "https://vnexpress.net/gia-vang-moi-nhat-hom-nay-ngay-30-7-5103223.html",
+      "published_at": "Thu, 30 Jul 2026 10:36:29 +0700",
+      "createAt": "2026-07-30T03:36:29.000Z",
+      "thumbnail_blurhash": "LFG[cw~oM}Z$01-=-:tkkFX8tRWA"
+    },
+    {
+      "id": "https://vnexpress.net/nguoi-trieu-tien-dung-dien-thoai-thong-minh-the-nao-5102342.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Người Triều Tiên dùng điện thoại thông minh thế nào",
+      "description": "Dù không kết nối Internet, điện thoại thông minh đang ngày càng trở nên phổ biến ở Triều Tiên, cho thấy những tiến bộ công nghệ của nước này.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/28/anh1-1785224543-9467-1785225186.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=jkB5k_EtsP5lL4AhboBgIw",
+      "link": "https://vnexpress.net/nguoi-trieu-tien-dung-dien-thoai-thong-minh-the-nao-5102342.html",
+      "published_at": "Thu, 30 Jul 2026 10:39:24 +0700",
+      "createAt": "2026-07-30T03:39:24.000Z",
+      "thumbnail_blurhash": "L8HB#r.A00H@GK^*DhE1v|.7krn3"
+    },
+    {
+      "id": "https://vnexpress.net/tam-nha-thau-san-bay-long-thanh-dung-tien-tam-ung-de-gui-tiet-kiem-lay-lai-5103212.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Tám nhà thầu sân bay Long Thành dùng tiền tạm ứng để gửi tiết kiệm lấy lãi",
+      "description": "Thanh tra Chính phủ cho rằng 8/10 nhà thầu trong liên danh Vietur dùng 936 tỷ đồng tiền tạm ứng để gửi tiết kiệm có kỳ hạn lấy lãi là sai thỏa thuận hợp đồng và trái pháp luật.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/30/anh-jpg-1785381655-6374-1785381690.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Hg4orUCTaj1PgWeYasNu2A",
+      "link": "https://vnexpress.net/tam-nha-thau-san-bay-long-thanh-dung-tien-tam-ung-de-gui-tiet-kiem-lay-lai-5103212.html",
+      "published_at": "Thu, 30 Jul 2026 10:54:38 +0700",
+      "createAt": "2026-07-30T03:54:38.000Z",
+      "thumbnail_blurhash": "LBDS|0~Ci[t6?dE0jWM{Q-4.NGMy"
+    }
+  ]
 }

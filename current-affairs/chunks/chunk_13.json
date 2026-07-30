@@ -596,5 +596,31 @@
     "published_at": "Thu, 30 Jul 2026 10:30:46 +0700",
     "createAt": "2026-07-30T03:30:46.000Z",
     "thumbnail_blurhash": "LWGkXk}?xvJo-:oxIpR-TcJ7NHjI"
+  },
+  {
+    "id": "https://vnexpress.net/khong-the-lam-chu-ai-ban-dan-neu-thieu-khoa-hoc-co-ban-5103236.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "'Không thể làm chủ AI, bán dẫn nếu thiếu khoa học cơ bản'",
+    "description": "Viện Hàn lâm Khoa học và Công nghệ Việt Nam kiến nghị Quốc hội giám sát cơ chế đầu tư nghiên cứu khoa học cơ bản, coi đây là nền tảng để làm chủ các công nghệ chiến lược.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/30/wm1a7519-1785387862-3902-1785387872.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=FIJfMtI2P1DWLXBBp-ExEg",
+    "link": "https://vnexpress.net/khong-the-lam-chu-ai-ban-dan-neu-thieu-khoa-hoc-co-ban-5103236.html",
+    "published_at": "Thu, 30 Jul 2026 12:04:32 +0700",
+    "createAt": "2026-07-30T05:04:32.000Z",
+    "thumbnail_blurhash": "LRJH{=~o-._2^+j=WBt7?HE2M|WB"
+  },
+  {
+    "id": "https://vnexpress.net/via-he-trung-tam-da-nang-ngay-thong-thoang-dem-bi-chiem-dung-5099618.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Vỉa hè trung tâm Đà Nẵng ngày thông thoáng, đêm bị chiếm dụng",
+    "description": "Nhiều vỉa hè tuyến đường trung tâm Đà Nẵng như Bạch Đằng, Trần Phú, Lê Duẩn thông thoáng vào ban ngày, nhưng rơi vào cảnh tái lấn chiếm, lộn xộn về ban đêm.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/27/12-1785124297-7703-1785124381.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=T6WhMVfz3wOJr4_OGpmF1g",
+    "link": "https://vnexpress.net/via-he-trung-tam-da-nang-ngay-thong-thoang-dem-bi-chiem-dung-5099618.html",
+    "published_at": "Thu, 30 Jul 2026 12:08:27 +0700",
+    "createAt": "2026-07-30T05:08:27.000Z",
+    "thumbnail_blurhash": "LFCG0~9ZROs;~CI.ads:9FtRWVjZ"
   }
 ]
