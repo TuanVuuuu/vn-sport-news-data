@@ -1,6 +1,19 @@
 {
   "featured": [
     {
+      "id": "https://vnexpress.net/mo-dat-hiem-lon-nhat-the-gioi-co-tru-luong-lon-hon-uoc-tinh-5103049.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Mỏ đất hiếm lớn nhất thế giới có trữ lượng lớn hơn ước tính",
+      "description": "Các nhà địa chất học phát hiện mỏ Bayan Obo ở Nội Mông có thể chứa trữ lượng sâu dưới lòng đất lớn gấp nhiều lần so với ước tính hiện nay.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/29/VNEMine-1785320066-8603-1785320131.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=yB9jGFPz57fJNcx5tQCGGg",
+      "link": "https://vnexpress.net/mo-dat-hiem-lon-nhat-the-gioi-co-tru-luong-lon-hon-uoc-tinh-5103049.html",
+      "published_at": "Thu, 30 Jul 2026 11:00:00 +0700",
+      "createAt": "2026-07-30T04:00:00.000Z",
+      "thumbnail_blurhash": "L4FFT#~B#i-S4=sR^$o#=tM|xtR-"
+    },
+    {
       "id": "https://vnexpress.net/cuoc-chien-phia-sau-y-tuong-lap-cong-ty-co-phan-quan-ly-world-cup-5103088.html",
       "category_id": "featured",
       "category_name": "Tin nổi bật",
@@ -66,6 +79,19 @@
       "thumbnail_blurhash": "LuKn_No#o~xa~qoft2a}IZaxkCW="
     },
     {
+      "id": "https://vnexpress.net/hue-sap-dau-gia-hon-10-600-m2-dat-vang-lam-khach-san-5-sao-5103321.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Huế sắp đấu giá hơn 10.600 m2 'đất vàng' làm khách sạn 5 sao",
+      "description": "Hơn 10.600 m2 đất vàng ven sông Hương trên đường Lê Lợi được thành phố duyệt giá khởi điểm gần 517 tỷ đồng, chuẩn bị đấu giá, xây khách sạn 5 sao.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/30/wm1-wm1-4-1785392767-3536-1785392869.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=CZ3OWoMvReX4VRU2l-ICNA",
+      "link": "https://vnexpress.net/hue-sap-dau-gia-hon-10-600-m2-dat-vang-lam-khach-san-5-sao-5103321.html",
+      "published_at": "Thu, 30 Jul 2026 16:25:00 +0700",
+      "createAt": "2026-07-30T09:25:00.000Z",
+      "thumbnail_blurhash": "LHEWBm?GIQtK_4%3xEay=}xbo#af"
+    },
+    {
       "id": "https://vnexpress.net/xe-lu-tren-oto-tai-roi-xuong-duong-o-tp-hcm-5103430.html",
       "category_id": "featured",
       "category_name": "Tin nổi bật",
@@ -77,6 +103,58 @@
       "published_at": "Thu, 30 Jul 2026 16:56:06 +0700",
       "createAt": "2026-07-30T09:56:06.000Z",
       "thumbnail_blurhash": "L5EoxoT1LN}@00?Fx[%13WD*q[O?"
+    },
+    {
+      "id": "https://vnexpress.net/thu-doan-du-day-cat-mai-ton-dot-nhap-ba-tiem-vang-cua-bac-si-da-khoa-5103307.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Thủ đoạn 'đu dây, cắt mái tôn' đột nhập ba tiệm vàng của bác sĩ đa khoa",
+      "description": "Do nợ nần, Nguyễn Duy Nhật, 30 tuổi, khi đang là bác sĩ Bệnh viện Trung ương Huế đã đột nhập ba tiệm vàng, lấy trộm số trang sức tổng cộng hơn 5 tỷ đồng.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/30/anh-chup-man-hinh-luc-17852430-6640-4517-1785390847.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=3147VMMba4n3unfLORF1FA",
+      "link": "https://vnexpress.net/thu-doan-du-day-cat-mai-ton-dot-nhap-ba-tiem-vang-cua-bac-si-da-khoa-5103307.html",
+      "published_at": "Thu, 30 Jul 2026 17:32:19 +0700",
+      "createAt": "2026-07-30T10:32:19.000Z",
+      "thumbnail_blurhash": "L%NmThM|.8%g~pn#tR%MI[S4i_s:"
+    },
+    {
+      "id": "https://vnexpress.net/san-van-dong-du-kien-lon-nhat-the-gioi-duoc-doi-ten-thanh-vinfast-5103454.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Sân vận động dự kiến lớn nhất thế giới được đổi tên thành VinFast",
+      "description": "Sân vận động 135.000 chỗ - dự kiến lớn nhất thế giới ở khu đô thị thể thao quốc tế Hà Nội - vừa được đổi tên thành VinFast.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/30/sanvandong-1785407661-2211-1785407809.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=52tzEZba1MpXzZajWajJqA",
+      "link": "https://vnexpress.net/san-van-dong-du-kien-lon-nhat-the-gioi-duoc-doi-ten-thanh-vinfast-5103454.html",
+      "published_at": "Thu, 30 Jul 2026 17:52:36 +0700",
+      "createAt": "2026-07-30T10:52:36.000Z",
+      "thumbnail_blurhash": "LmH_c6-:tSWr?wxufRofT1bIV?j["
+    },
+    {
+      "id": "https://vnexpress.net/ong-nguyen-quang-thieu-bi-cach-tat-ca-chuc-vu-trong-dang-5103464.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Ông Nguyễn Quang Thiều bị cách tất cả chức vụ trong Đảng",
+      "description": "Ủy ban Kiểm tra Trung ương cách tất cả chức vụ trong Đảng đối với ông Nguyễn Quang Thiều, Bí thư Đảng ủy, Chủ tịch Hội Nhà văn Việt Nam, do để xảy ra vi phạm tại Nhà xuất bản Hội Nhà văn.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/30/nguyen-quang-thieu-jpeg-jpg-17-7085-1945-1785408619.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=H3JpT_1EFwVh9vxE-lxjhA",
+      "link": "https://vnexpress.net/ong-nguyen-quang-thieu-bi-cach-tat-ca-chuc-vu-trong-dang-5103464.html",
+      "published_at": "Thu, 30 Jul 2026 17:55:18 +0700",
+      "createAt": "2026-07-30T10:55:18.000Z",
+      "thumbnail_blurhash": "LQGu,g9sk$Mw~TE0tmRjxvj=%2Rj"
+    },
+    {
+      "id": "https://vnexpress.net/de-xuat-co-che-dac-biet-keo-dai-metro-den-san-bay-long-thanh-5103451.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Đề xuất cơ chế đặc biệt kéo dài metro đến sân bay Long Thành",
+      "description": "Phó thủ tướng Thường trực Phạm Gia Túc đề nghị áp dụng cơ chế đặc biệt theo hướng khẩn cấp để triển khai tuyến metro kéo dài từ Bến Thành - Suối Tiên đến trung tâm hành chính TP Đồng Nai và sân bay Long Thành.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/30/wm1-wm1-0f9b351c421dff43a60c-17854-1174-2914-1785412411.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=B1tR9DmEsa4qDAagSjCF3w",
+      "link": "https://vnexpress.net/de-xuat-co-che-dac-biet-keo-dai-metro-den-san-bay-long-thanh-5103451.html",
+      "published_at": "Thu, 30 Jul 2026 18:08:19 +0700",
+      "createAt": "2026-07-30T11:08:19.000Z",
+      "thumbnail_blurhash": "LOG+jtxuWF%L?wj?NFxb%NogbJf,"
     }
   ]
 }
