@@ -518,5 +518,31 @@
     "published_at": "Thu, 30 Jul 2026 10:00:00 +0700",
     "createAt": "2026-07-30T03:00:00.000Z",
     "thumbnail_blurhash": "LiJHdEoer_xu~WbGWAogxIWFR%oa"
+  },
+  {
+    "id": "https://vnexpress.net/bac-si-chi-cach-chon-thuc-pham-giup-giam-mo-xay-co-bap-5102605.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Bác sĩ chỉ cách chọn thực phẩm giúp giảm mỡ, xây cơ bắp",
+    "description": "PGS.TS.BS Nguyễn Anh Tuấn gợi ý những thực phẩm giàu protein, ít chất béo như ức gà, thịt bò, thịt lợn nạc, cá, trứng, sữa không đường giúp giảm mỡ, xây dựng cơ bắp hiệu quả.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/28/vnexpress-tom-hap-nuoc-dua-178-4790-2405-1785230237.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ap4fB8y8nRsB2D0xsR5L4w",
+    "link": "https://vnexpress.net/bac-si-chi-cach-chon-thuc-pham-giup-giam-mo-xay-co-bap-5102605.html",
+    "published_at": "Thu, 30 Jul 2026 11:00:00 +0700",
+    "createAt": "2026-07-30T04:00:00.000Z",
+    "thumbnail_blurhash": "LCIM~2003rwG~VIAS5tP7~rpD%EN"
+  },
+  {
+    "id": "https://vnexpress.net/cu-ong-98-tuoi-bi-ong-vo-ve-dot-ton-thuong-da-co-quan-5103182.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Cụ ông 98 tuổi bị ong vò vẽ đốt tổn thương đa cơ quan",
+    "description": "Sau 12 ngày điều trị, lọc máu liên tục do bị đàn ong vò vẽ đốt tổn thương đa cơ quan, cụ ông 98 tuổi hồi phục.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/30/2aoboqnwiqjbpd1dm32sq5p7t5gcj5-5165-7095-1785377497.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=iAQbu-KMNeI5zoc8ztmX1Q",
+    "link": "https://vnexpress.net/cu-ong-98-tuoi-bi-ong-vo-ve-dot-ton-thuong-da-co-quan-5103182.html",
+    "published_at": "Thu, 30 Jul 2026 11:14:23 +0700",
+    "createAt": "2026-07-30T04:14:23.000Z",
+    "thumbnail_blurhash": "LHJ[I]DNn}%i~Ukat7e+?ct7%Nac"
   }
 ]
