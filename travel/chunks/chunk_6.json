@@ -544,5 +544,31 @@
     "published_at": "Thu, 30 Jul 2026 09:16:16 +0700",
     "createAt": "2026-07-30T02:16:16.000Z",
     "thumbnail_blurhash": "L7CZ%g~D0K00019Z=}}_?;o]t5xs"
+  },
+  {
+    "id": "https://vnexpress.net/khach-viet-di-trung-quoc-bi-anh-huong-the-nao-vi-bao-5102510.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Khách Việt đi Trung Quốc bị ảnh hưởng thế nào vì bão?",
+    "description": "Một số khách phải hoãn, lùi hoặc hủy tour, trong khi hầu hết khách Việt vẫn giữ lịch trình du lịch Trung Quốc khi nước này liên tục chịu ảnh hưởng bởi bão trong tháng 7.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/07/29/6-1785321638-3699-1785321701.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=wxHhws1mLNeOkXsO7_ucew",
+    "link": "https://vnexpress.net/khach-viet-di-trung-quoc-bi-anh-huong-the-nao-vi-bao-5102510.html",
+    "published_at": "Thu, 30 Jul 2026 09:16:16 +0700",
+    "createAt": "2026-07-30T02:16:16.000Z",
+    "thumbnail_blurhash": "L7CZ%g~D0K00019Z=}}_?;o]t5xs"
+  },
+  {
+    "id": "https://vnexpress.net/5-de-cu-lang-du-lich-tot-nhat-the-gioi-2026-cua-viet-nam-5102802.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "5 đề cử làng du lịch tốt nhất thế giới 2026 của Việt Nam",
+    "description": "Sau Lô Lô Chải, Thái Hải, 5 ngôi làng khác của Việt Nam được kỳ vọng thành \"Làng du lịch tốt nhất thế giới\".",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/07/29/cam-thanh1-1785317180.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=d9E9n0dBKQPAhKpjcV_wGA",
+    "link": "https://vnexpress.net/5-de-cu-lang-du-lich-tot-nhat-the-gioi-2026-cua-viet-nam-5102802.html",
+    "published_at": "Thu, 30 Jul 2026 12:06:05 +0700",
+    "createAt": "2026-07-30T05:06:05.000Z",
+    "thumbnail_blurhash": "L8Bzm*8}00o{V?IU.QRk_KWm%MRQ"
   }
 ]
