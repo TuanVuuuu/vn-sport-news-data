@@ -635,5 +635,44 @@
     "published_at": "Thu, 30 Jul 2026 14:00:00 +0700",
     "createAt": "2026-07-30T07:00:00.000Z",
     "thumbnail_blurhash": "LqJc5~-pWXtS~S%1RoRjt8fkj[Rj"
+  },
+  {
+    "id": "https://vnexpress.net/ganh-nang-kinh-te-tu-ung-thu-vu-5103320.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Gánh nặng kinh tế từ ung thư vú",
+    "description": "Ung thư vú không chỉ là thách thức y tế mà còn tạo ra gánh nặng kinh tế lớn, với tổn thất năng suất lao động ước tính khoảng 93.000 tỷ đồng trong một thập kỷ, theo nghiên cứu vừa công bố của Viện WifOR.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/30/anh-chup-man-hinh-luc-17853931-9235-5112-1785393512.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=6ybSeO2R_JpJt8ZXx7gZgA",
+    "link": "https://vnexpress.net/ganh-nang-kinh-te-tu-ung-thu-vu-5103320.html",
+    "published_at": "Thu, 30 Jul 2026 14:03:30 +0700",
+    "createAt": "2026-07-30T07:03:30.000Z",
+    "thumbnail_blurhash": "LHF$9QT0%3~V009G00s:.8?H?cWU"
+  },
+  {
+    "id": "https://vnexpress.net/gioi-trieu-phu-silicon-valley-bien-co-the-thanh-phong-thi-nghiem-song-5103243.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Giới triệu phú Silicon Valley biến cơ thể thành 'phòng thí nghiệm sống'",
+    "description": "Nhiều triệu phú công nghệ Mỹ chấp nhận rủi ro tính mạng khi uống phẩm nhuộm, tự tiêm hóa chất, máu người trẻ vào cơ thể nhằm tìm kiếm công thức trường thọ.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/30/0-1785383828-9112-1785383875.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=WPXsCDOI0HqTAl65QdvMmg",
+    "link": "https://vnexpress.net/gioi-trieu-phu-silicon-valley-bien-co-the-thanh-phong-thi-nghiem-song-5103243.html",
+    "published_at": "Thu, 30 Jul 2026 14:03:48 +0700",
+    "createAt": "2026-07-30T07:03:48.000Z",
+    "thumbnail_blurhash": "LQE{a]_NOqs+s$NEtPofIWRj%2oz"
+  },
+  {
+    "id": "https://vnexpress.net/vi-sao-nguoi-viet-bi-viem-da-day-nhieu-5102670.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Vì sao người Việt bị viêm dạ dày nhiều?",
+    "description": "Niêm mạc dạ dày dễ tấy đỏ do ăn cay, thức khuya, căng thẳng, rượu bia, trong khi xu hướng chẩn đoán viêm khi nội soi khiến bệnh này có vẻ phổ biến hơn.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/30/z5175376087819-f0d0dcd92eaea2b-2414-9442-1785396523.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=AiSXi8Vawoa7PtMCIhTMXw",
+    "link": "https://vnexpress.net/vi-sao-nguoi-viet-bi-viem-da-day-nhieu-5102670.html",
+    "published_at": "Thu, 30 Jul 2026 14:33:08 +0700",
+    "createAt": "2026-07-30T07:33:08.000Z",
+    "thumbnail_blurhash": "LCE2@Hv#EBAK~4-9Nb9]9E-pW8In"
   }
 ]
