@@ -466,5 +466,44 @@
     "published_at": "Thu, 30 Jul 2026 13:30:00 +0700",
     "createAt": "2026-07-30T06:30:00.000Z",
     "thumbnail_blurhash": "LNG*]7M|8^9F~oa0E2IoxA4:S*s+"
+  },
+  {
+    "id": "https://vnexpress.net/khach-viet-di-trung-quoc-bi-anh-huong-the-nao-vi-bao-5102510.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Khách Việt đi Trung Quốc bị ảnh hưởng thế nào vì bão?",
+    "description": "Một số khách phải hoãn, lùi hoặc hủy tour, trong khi hầu hết khách Việt vẫn giữ lịch trình du lịch Trung Quốc khi nước này liên tục chịu ảnh hưởng bởi bão trong tháng 7.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/07/29/6-1785321638-3699-1785321701.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=wxHhws1mLNeOkXsO7_ucew",
+    "link": "https://vnexpress.net/khach-viet-di-trung-quoc-bi-anh-huong-the-nao-vi-bao-5102510.html",
+    "published_at": "Thu, 30 Jul 2026 09:16:16 +0700",
+    "createAt": "2026-07-30T02:16:16.000Z",
+    "thumbnail_blurhash": "L7CZ%g~D0K00019Z=}}_?;o]t5xs"
+  },
+  {
+    "id": "https://vnexpress.net/hlv-kim-muon-noi-dai-mach-bat-bai-truoc-singapore-len-28-nam-5103180.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "HLV Kim muốn nối dài mạch bất bại trước Singapore lên 28 năm",
+    "description": "HLV Kim Sang-sik của đội tuyển Việt Nam đưa ra những đánh giá trước trận gặp Singapore ở lượt ba bảng A ASEAN Cup 2026.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/07/30/1785386684135eaf832eebc3a4bb6a-1548-5401-1785387029.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=X4WaCQR78x9_QJc1hFQnwQ",
+    "link": "https://vnexpress.net/hlv-kim-muon-noi-dai-mach-bat-bai-truoc-singapore-len-28-nam-5103180.html",
+    "published_at": "Thu, 30 Jul 2026 11:15:00 +0700",
+    "createAt": "2026-07-30T04:15:00.000Z",
+    "thumbnail_blurhash": "LQF$=Bxs%%XWyYWaEDS6A1adV;Rn"
+  },
+  {
+    "id": "https://vnexpress.net/shakira-nu-hoang-nhac-latin-5102012.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Shakira, 'nữ hoàng nhạc Latin'",
+    "description": "Qua hơn 30 năm, Shakira giữ vững vị thế biểu tượng âm nhạc với loạt hit Latin, vũ điệu lắc hông và bốn màn trình diễn World Cup.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/07/28/shakira-trong-mv-dai-dai-17852-3315-9501-1785231574.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=aQuu7ullpSUj8kJE4vslkA",
+    "link": "https://vnexpress.net/shakira-nu-hoang-nhac-latin-5102012.html",
+    "published_at": "Thu, 30 Jul 2026 11:46:03 +0700",
+    "createAt": "2026-07-30T04:46:03.000Z",
+    "thumbnail_blurhash": "LICPL@s:0MEMt:aywtWBX:R+$jxF"
   }
 ]
