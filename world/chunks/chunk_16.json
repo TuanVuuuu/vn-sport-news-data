@@ -648,5 +648,44 @@
     "published_at": "Thu, 30 Jul 2026 17:00:00 +0700",
     "createAt": "2026-07-30T10:00:00.000Z",
     "thumbnail_blurhash": "LrB$l]HqawV{.mS7R5jEoyoxRPaJ"
+  },
+  {
+    "id": "https://vnexpress.net/ten-lua-nga-bay-sau-gan-100-km-vao-lanh-tho-ba-lan-5103384.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "'Tên lửa Nga' bay sâu gần 100 km vào lãnh thổ Ba Lan",
+    "description": "Ba Lan nói tên lửa nghi của Nga bay vào sâu trong lãnh thổ nước này và lao xuống đất, nhưng cho rằng đây là sự việc ngoài ý muốn.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/30/H-1785404049-5976-1785405058.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=jas0wzyK0s3GJu10Jhj8cg",
+    "link": "https://vnexpress.net/ten-lua-nga-bay-sau-gan-100-km-vao-lanh-tho-ba-lan-5103384.html",
+    "published_at": "Thu, 30 Jul 2026 18:25:08 +0700",
+    "createAt": "2026-07-30T11:25:08.000Z",
+    "thumbnail_blurhash": "L5BygM020M?FK6EN}=NH9uxGxZR+"
+  },
+  {
+    "id": "https://vnexpress.net/dong-luc-thuc-day-iran-bat-ngo-tap-kich-luc-luong-my-5103170.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Động lực thúc đẩy Iran bất ngờ tập kích lực lượng Mỹ",
+    "description": "Cuộc tập kích bất ngờ nhằm vào lực lượng Mỹ ở Jordan cho thấy Iran dường như đang theo đuổi chiến lược chủ động hơn trong cuộc đối đầu với Washington.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/30/afpwk3wj-v2-highre-1785387743-1988-1785387852.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=L8oTm0Q5Qe9DgWS4-twtRw",
+    "link": "https://vnexpress.net/dong-luc-thuc-day-iran-bat-ngo-tap-kich-luc-luong-my-5103170.html",
+    "published_at": "Thu, 30 Jul 2026 19:00:00 +0700",
+    "createAt": "2026-07-30T12:00:00.000Z",
+    "thumbnail_blurhash": "LeIq.U%MIpxZ_4ofjZof9aWAxtR,"
+  },
+  {
+    "id": "https://vnexpress.net/nhat-giai-cuu-dan-meo-ket-trong-trung-tam-thuong-mai-sau-dong-dat-5103471.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Nhật giải cứu đàn mèo kẹt trong trung tâm thương mại sau động đất",
+    "description": "25 con mèo được giải cứu từ quán cà phê trong trung tâm thương mại Aeon Mall, địa điểm bị tàn phá trong trận động đất 7,1 độ ở tỉnh Kumamoto.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/30/5563187178137269428a-178541028-7574-3661-1785410367.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=uWEc-bFPN_SAdijz0y5Ycw",
+    "link": "https://vnexpress.net/nhat-giai-cuu-dan-meo-ket-trong-trung-tam-thuong-mai-sau-dong-dat-5103471.html",
+    "published_at": "Thu, 30 Jul 2026 19:38:23 +0700",
+    "createAt": "2026-07-30T12:38:23.000Z",
+    "thumbnail_blurhash": "LCE{FAt7_2n$~U?Gn%%2?u9aofM{"
   }
 ]
