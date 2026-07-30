@@ -674,5 +674,31 @@
     "published_at": "Thu, 30 Jul 2026 06:45:00 +0700",
     "createAt": "2026-07-29T23:45:00.000Z",
     "thumbnail_blurhash": "LoGSJTxZj?oe~ooeayoe?Zt5fkj["
+  },
+  {
+    "id": "https://vnexpress.net/roi-truc-thang-o-argentina-7-nguoi-chet-5103134.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Rơi trực thăng ở Argentina, 7 người chết",
+    "description": "Chiếc trực thăng chữa cháy rơi khi đang bay huấn luyện ở tỉnh San Juan, phía tây Argentina, khiến 7 người thiệt mạng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/30/helicopter-seven-people-board-7126-5140-1785372697.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=N5-1OcQjBR-pVJlO4vfxiw",
+    "link": "https://vnexpress.net/roi-truc-thang-o-argentina-7-nguoi-chet-5103134.html",
+    "published_at": "Thu, 30 Jul 2026 08:13:53 +0700",
+    "createAt": "2026-07-30T01:13:53.000Z",
+    "thumbnail_blurhash": "LjHL#kxZt7j]%%smWCj]_3t6f5j["
+  },
+  {
+    "id": "https://vnexpress.net/gia-vang-dau-the-gioi-tang-chung-khoan-my-giam-1-100-diem-5103150.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Giá vàng, dầu thế giới tăng, chứng khoán Mỹ giảm 1.100 điểm",
+    "description": "Giao tranh tái bùng phát tại Trung Đông và quyết định giữ nguyên lãi suất của Fed khiến thị trường tài chính biến động mạnh.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/30/goldreu9-1785373945-7737-1785373989.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=86Zax4mpdXWT-wKxh2Pfjg",
+    "link": "https://vnexpress.net/gia-vang-dau-the-gioi-tang-chung-khoan-my-giam-1-100-diem-5103150.html",
+    "published_at": "Thu, 30 Jul 2026 08:23:47 +0700",
+    "createAt": "2026-07-30T01:23:47.000Z",
+    "thumbnail_blurhash": "LBBDQUZe%j$x4T-?R3o#5GavxtNK"
   }
 ]
