@@ -505,5 +505,31 @@
     "published_at": "Thu, 30 Jul 2026 00:00:00 +0700",
     "createAt": "2026-07-29T17:00:00.000Z",
     "thumbnail_blurhash": "L3AvnBxbHY$g0IW?Q:RR?uWZ~es*"
+  },
+  {
+    "id": "https://vnexpress.net/ngoi-chua-dak-lak-noi-tieng-voi-tuong-quan-am-dat-vao-tu-bien-5083194.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Ngôi chùa Đăk Lăk nổi tiếng với tượng Quan Âm dạt vào từ biển",
+    "description": "22 năm trước, bức tượng Quan Âm Bồ Tát từ biển dạt vào bờ, được đem thờ phụng tại chùa Thanh Lương, tạo nên sức hút đặc biệt của nơi này.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/06/08/DSCF8637-1780895974-7300-1780896509.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=mhhqsk9k9QBNcqY5By4-Gg",
+    "link": "https://vnexpress.net/ngoi-chua-dak-lak-noi-tieng-voi-tuong-quan-am-dat-vao-tu-bien-5083194.html",
+    "published_at": "Thu, 30 Jul 2026 00:00:00 +0700",
+    "createAt": "2026-07-29T17:00:00.000Z",
+    "thumbnail_blurhash": "L3AvnBxbHY$g0IW?Q:RR?uWZ~es*"
+  },
+  {
+    "id": "https://vnexpress.net/omakase-pho-4-5-trieu-dong-o-tp-hcm-5095577.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Omakase phở 4,5 triệu đồng ở TP HCM",
+    "description": "Hai đầu bếp nổi tiếng bắt tay tạo nên thực đơn omakase với chủ đề phở đầu tiên ở  TP HCM.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/07/27/mb-1785150982.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=SSTNHI3pVLBioOutJI9yOw",
+    "link": "https://vnexpress.net/omakase-pho-4-5-trieu-dong-o-tp-hcm-5095577.html",
+    "published_at": "Thu, 30 Jul 2026 06:30:00 +0700",
+    "createAt": "2026-07-29T23:30:00.000Z",
+    "thumbnail_blurhash": "LNI|%WV?02$g5RS5D%E20LxD~AX8"
   }
 ]
