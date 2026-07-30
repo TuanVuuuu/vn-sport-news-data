@@ -297,5 +297,57 @@
     "published_at": "Thu, 30 Jul 2026 19:52:56 +0700",
     "createAt": "2026-07-30T12:52:56.000Z",
     "thumbnail_blurhash": "LWGv9TR$Dixv_Nt5MwR+?Ht6k9R+"
+  },
+  {
+    "id": "https://vnexpress.net/kinh-te-my-tang-truong-cham-lai-5103491.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Kinh tế Mỹ tăng trưởng chậm lại",
+    "description": "Sau khi tăng tốc quý đầu năm, GDP Mỹ tăng chậm lại trong quý II và được dự báo tiếp tục chịu sức ép nửa cuối năm nay.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/30/afppv94k-v1-highres-usnewyorke-2552-1301-1785418513.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=qhEh8S2kK1Bvg8qMNVS3Bg",
+    "link": "https://vnexpress.net/kinh-te-my-tang-truong-cham-lai-5103491.html",
+    "published_at": "Fri, 31 Jul 2026 00:01:00 +0700",
+    "createAt": "2026-07-30T17:01:00.000Z",
+    "thumbnail_blurhash": "LAHv-b0M4Vx]8cE05ltl_N;1z;-p"
+  },
+  {
+    "id": "https://vnexpress.net/co-nen-tham-gia-chung-khoan-khi-co-phieu-dang-re-5103268.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Có nên tham gia chứng khoán khi cổ phiếu đang 'rẻ'?",
+    "description": "Theo chuyên gia, định giá VN-Index đang ở vùng hấp dẫn, nhưng nhà đầu tư chỉ nên giải ngân một phần vào cổ phiếu doanh nghiệp đầu ngành thay vì dồn toàn bộ tiền.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/30/td5-1785384425-1430-1785384580.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=cICv3QYZs_0ZmIGmnxfEaQ",
+    "link": "https://vnexpress.net/co-nen-tham-gia-chung-khoan-khi-co-phieu-dang-re-5103268.html",
+    "published_at": "Fri, 31 Jul 2026 00:01:00 +0700",
+    "createAt": "2026-07-30T17:01:00.000Z",
+    "thumbnail_blurhash": "LXGI1QOb=qtPt:xwEMt5%O9dRQt7"
+  },
+  {
+    "id": "https://vnexpress.net/vi-sao-thuc-pham-huu-co-kho-re-5102321.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Vì sao thực phẩm hữu cơ khó rẻ?",
+    "description": "Giá thực phẩm hữu cơ tại Việt Nam vẫn cao gấp 2-3 lần sản phẩm thông thường do chi phí sản xuất lớn, quy mô canh tác nhỏ.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/28/wm1-wm1-rau-1785207355-4584-1785209441.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=NLkuNDWNo2ySsU90LmR2PQ",
+    "link": "https://vnexpress.net/vi-sao-thuc-pham-huu-co-kho-re-5102321.html",
+    "published_at": "Fri, 31 Jul 2026 00:03:00 +0700",
+    "createAt": "2026-07-30T17:03:00.000Z",
+    "thumbnail_blurhash": "LJDcjh_LaNR+o~-:oexaR+RjofWq"
+  },
+  {
+    "id": "https://vnexpress.net/doanh-nghiep-fdi-tai-tp-hcm-tang-41-sau-5-nam-5103495.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Doanh nghiệp FDI tại TP HCM tăng 41% sau 5 năm",
+    "description": "Số lượng doanh nghiệp FDI ở TP HCM tăng 41% trong 5 năm qua, nhanh nhất trong các khu vực, theo tổng điều tra của địa phương.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/30/wm1-wm1-dji-d-1785423368-1730-1785423549.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=bL8xqMlCEHAW2dP0TEynKA",
+    "link": "https://vnexpress.net/doanh-nghiep-fdi-tai-tp-hcm-tang-41-sau-5-nam-5103495.html",
+    "published_at": "Fri, 31 Jul 2026 00:13:13 +0700",
+    "createAt": "2026-07-30T17:13:13.000Z",
+    "thumbnail_blurhash": "LyDwaSNIs.t7yZofaeflTMkBoeWX"
   }
 ]
