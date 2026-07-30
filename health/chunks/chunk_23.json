@@ -440,5 +440,31 @@
     "published_at": "Thu, 30 Jul 2026 08:00:00 +0700",
     "createAt": "2026-07-30T01:00:00.000Z",
     "thumbnail_blurhash": "LmJa_.~pxtIT_3S1WUWB${skfjWD"
+  },
+  {
+    "id": "https://vnexpress.net/nhan-vu-tien-trien-ung-thu-5103138.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Nhân vú tiến triển ung thư",
+    "description": "Khi mới được phát hiện, nhân vú ở ngực trái chị Trang (31 tuổi) có dưới 2% nguy cơ ác tính, nay tổn thương lớn hơn và được chẩn đoán ung thư vú.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/30/benhnhandangminhtrang-17853703-2658-7883-1785370391.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=GVnPp4089bivqxn6zQidcg",
+    "link": "https://vnexpress.net/nhan-vu-tien-trien-ung-thu-5103138.html",
+    "published_at": "Thu, 30 Jul 2026 09:00:00 +0700",
+    "createAt": "2026-07-30T02:00:00.000Z",
+    "thumbnail_blurhash": "LLPZJr_1_K~p%z%LwJxvr?x^IpMw"
+  },
+  {
+    "id": "https://vnexpress.net/nham-zona-voi-vet-bong-kien-can-5103057.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Nhầm zona với vết bỏng, kiến cắn",
+    "description": "Mắc zona thần kinh đúng lúc bị bỏng dầu ăn hoặc kiến cắn, ông Tuấn, 78 tuổi, TP HCM tự bôi thuốc tại nhà khiến mụn nước lan rộng, bội nhiễm và đau kéo dài.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/29/thumb-1785321324-5942-1785321427.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=IXgDVioq_XtZxjAXLiWhSA",
+    "link": "https://vnexpress.net/nham-zona-voi-vet-bong-kien-can-5103057.html",
+    "published_at": "Thu, 30 Jul 2026 09:00:00 +0700",
+    "createAt": "2026-07-30T02:00:00.000Z",
+    "thumbnail_blurhash": "LGN^JI4T9F8{~UM{Di8^X3NfE3IU"
   }
 ]
