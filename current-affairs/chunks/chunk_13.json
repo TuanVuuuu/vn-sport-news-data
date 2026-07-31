@@ -973,5 +973,57 @@
     "published_at": "Fri, 31 Jul 2026 00:00:00 +0700",
     "createAt": "2026-07-30T17:00:00.000Z",
     "thumbnail_blurhash": "LeKw|X.TnQMxD*xuX5WCaytQR%xa"
+  },
+  {
+    "id": "https://vnexpress.net/ho-tri-an-mua-nuoc-can-5103346.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Hồ Trị An mùa nước cạn",
+    "description": "Nước rút xa bờ, tảo xanh dạt thành mảng, nhiều gò đồi và bãi cỏ lộ ra giữa hồ Trị An, làm thay đổi sinh hoạt, đánh bắt và hoạt động cấp nước.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/30/wm1-14-jpg-1785399831-1785400160.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=fE2EkjzS91Kf1EWUSv-M7g",
+    "link": "https://vnexpress.net/ho-tri-an-mua-nuoc-can-5103346.html",
+    "published_at": "Fri, 31 Jul 2026 09:56:40 +0700",
+    "createAt": "2026-07-31T02:56:40.000Z",
+    "thumbnail_blurhash": "LEE{~wOE%J%K~Sn,NGR*XLr^R:WC"
+  },
+  {
+    "id": "https://vnexpress.net/sieu-bao-dolphin-tiep-tuc-manh-them-5103646.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Siêu bão Dolphin tiếp tục mạnh thêm",
+    "description": "Siêu bão Dolphin mạnh lên cuối cấp 17, tương đương 202-220 km/h, dự báo không vào Biển Đông nhưng sẽ gây gió cấp 6-7, sóng biển cao 2-4 m cho vùng biển này.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/31/anh-chup-man-hinh-luc-17854684-1685-1922-1785468430.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=4uwqJpO33IQcHq1aiBxwiQ",
+    "link": "https://vnexpress.net/sieu-bao-dolphin-tiep-tuc-manh-them-5103646.html",
+    "published_at": "Fri, 31 Jul 2026 11:05:49 +0700",
+    "createAt": "2026-07-31T04:05:49.000Z",
+    "thumbnail_blurhash": "LE9m2-RJnUxotBV*n#nUSuf6X8WH"
+  },
+  {
+    "id": "https://vnexpress.net/manh-nhom-khac-ten-dinh-xuan-tinh-trong-mo-liet-si-5103645.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Mảnh nhôm khắc tên 'Đinh Xuân Tình' trong mộ liệt sĩ",
+    "description": "Khai quật phần mộ chưa rõ danh tính tại nghĩa trang Đô Lương, bộ đội phát hiện mảnh nhôm khắc tên \"ĐINH XUÂN TÌNH\" cùng phiếu ghi thông tin liệt sĩ.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/31/manh-nhom-khac-ten-liet-si-178-3435-5602-1785469219.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=gmHR8jzbgb-2mX64eQ7Zaw",
+    "link": "https://vnexpress.net/manh-nhom-khac-ten-dinh-xuan-tinh-trong-mo-liet-si-5103645.html",
+    "published_at": "Fri, 31 Jul 2026 11:37:02 +0700",
+    "createAt": "2026-07-31T04:37:02.000Z",
+    "thumbnail_blurhash": "LiFZB6%Mx^t7xvfkofj].AbHRia#"
+  },
+  {
+    "id": "https://vnexpress.net/de-xuat-sua-quy-dinh-ve-oto-phuc-vu-lanh-dao-dang-nha-nuoc-5103660.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Đề xuất sửa quy định về ôtô phục vụ lãnh đạo Đảng, Nhà nước",
+    "description": "Bộ Tài chính đề xuất sửa quy định về tiêu chuẩn, định mức sử dụng ôtô phục vụ lãnh đạo Đảng, Nhà nước, trong đó bổ sung một số chức danh và cập nhật chế độ sử dụng xe theo mô hình tổ chức mới.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/31/received1044400511310649-17854-4855-1949-1785474198.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ZM96t9U2-fNb4z08R28C_g",
+    "link": "https://vnexpress.net/de-xuat-sua-quy-dinh-ve-oto-phuc-vu-lanh-dao-dang-nha-nuoc-5103660.html",
+    "published_at": "Fri, 31 Jul 2026 11:48:40 +0700",
+    "createAt": "2026-07-31T04:48:40.000Z",
+    "thumbnail_blurhash": "LjF=O6RkNGkD~WRjNGbb-:M|NGbH"
   }
 ]

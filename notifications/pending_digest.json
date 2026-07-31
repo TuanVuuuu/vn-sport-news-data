@@ -1,3 +1,56 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/dan-so-nhat-ban-cham-day-ky-luc-sau-42-nam-5103515.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Dân số Nhật Bản chạm đáy kỷ lục sau 42 năm",
+      "description": "Lần đầu tiên sau 42 năm, số lượng người Nhật Bản sinh sống trong nước rơi xuống dưới ngưỡng 120 triệu, đánh dấu bước ngoặt suy giảm dân số nghiêm trọng chưa từng có tại quốc gia này.",
+      "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/30/dan-so-1785428616-9474-1785429092.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=JgPa_j2KDuZZrhlU6A2Mww",
+      "link": "https://vnexpress.net/dan-so-nhat-ban-cham-day-ky-luc-sau-42-nam-5103515.html",
+      "published_at": "Fri, 31 Jul 2026 08:49:35 +0700",
+      "createAt": "2026-07-31T01:49:35.000Z",
+      "thumbnail_blurhash": "L8BM-~XS?Hbb00%3oMxt_Mt7RQR*"
+    },
+    {
+      "id": "https://vnexpress.net/xe-may-xang-trong-vung-phat-thai-thap-5100259.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Xe máy xăng trong vùng phát thải thấp",
+      "description": "Vùng lõi cấm cả xe máy điện và xăng theo khung giờ, trong khi vùng mở rộng chỉ hạn chế những dòng xe xăng cũ, không đảm bảo tiêu chuẩn khí thải.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/31/hhn-1785464422-2877-1785464613.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=VMMXMKNl1mhraSQ8fShiMA",
+      "link": "https://vnexpress.net/xe-may-xang-trong-vung-phat-thai-thap-5100259.html",
+      "published_at": "Fri, 31 Jul 2026 09:50:36 +0700",
+      "createAt": "2026-07-31T02:50:36.000Z",
+      "thumbnail_blurhash": "LAFrq_tlx]-=00t6aioN_NjEo4V@"
+    },
+    {
+      "id": "https://vnexpress.net/sieu-bao-dolphin-tiep-tuc-manh-them-5103646.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Siêu bão Dolphin tiếp tục mạnh thêm",
+      "description": "Siêu bão Dolphin mạnh lên cuối cấp 17, tương đương 202-220 km/h, dự báo không vào Biển Đông nhưng sẽ gây gió cấp 6-7, sóng biển cao 2-4 m cho vùng biển này.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/31/anh-chup-man-hinh-luc-17854684-1685-1922-1785468430.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=4uwqJpO33IQcHq1aiBxwiQ",
+      "link": "https://vnexpress.net/sieu-bao-dolphin-tiep-tuc-manh-them-5103646.html",
+      "published_at": "Fri, 31 Jul 2026 11:05:49 +0700",
+      "createAt": "2026-07-31T04:05:49.000Z",
+      "thumbnail_blurhash": "LE9m2-RJnUxotBV*n#nUSuf6X8WH"
+    },
+    {
+      "id": "https://vnexpress.net/my-tinh-thu-100-000-usd-voi-du-hoc-sinh-o-lai-lam-viec-5103675.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Mỹ tính thu 100.000 USD với du học sinh ở lại làm việc",
+      "description": "Du học sinh muốn ở lại làm việc sau tốt nghiệp có thể phải nộp phí 100.000 USD (2,6 tỷ đồng), trong kế hoạch siết nhập cư của Mỹ.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/31/43a984a9f57a507122bf-jfif-1785-4139-9008-1785472947.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=XDthZjNGkVl8xECvVOl4ww",
+      "link": "https://vnexpress.net/my-tinh-thu-100-000-usd-voi-du-hoc-sinh-o-lai-lam-viec-5103675.html",
+      "published_at": "Fri, 31 Jul 2026 11:21:12 +0700",
+      "createAt": "2026-07-31T04:21:12.000Z",
+      "thumbnail_blurhash": "LCDvTC9Z%NMwMhxvxo-;~oM{%Mxt"
+    }
+  ]
 }
