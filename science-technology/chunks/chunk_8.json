@@ -791,5 +791,31 @@
     "published_at": "Fri, 31 Jul 2026 12:49:08 +0700",
     "createAt": "2026-07-31T05:49:08.000Z",
     "thumbnail_blurhash": "LFI|wK?^004n00Di_3%M?wtSVrt7"
+  },
+  {
+    "id": "https://vnexpress.net/moi-oto-co-the-se-phai-xu-ly-hon-200-gb-du-lieu-5103562.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Mỗi ôtô có thể sẽ phải xử lý hơn 200 GB dữ liệu",
+    "description": "Lượng dữ liệu mỗi chiếc ôtô phải xử lý được dự báo tăng từ 20 lên hơn 200 GB, khi xe ngày càng được coi như \"máy tính chạy trên bốn bánh\".",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/31/lq-jpg-1785469280-7056-1785470577.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=e2dGI_PQEn5NNyOO_TtuSQ",
+    "link": "https://vnexpress.net/moi-oto-co-the-se-phai-xu-ly-hon-200-gb-du-lieu-5103562.html",
+    "published_at": "Fri, 31 Jul 2026 13:00:00 +0700",
+    "createAt": "2026-07-31T06:00:00.000Z",
+    "thumbnail_blurhash": "LEG7@+,-01WB~9W=IpV?9vRl$zoz"
+  },
+  {
+    "id": "https://vnexpress.net/sieu-ten-lua-starship-van-noi-tren-bien-sau-6-ngay-ha-canh-5103705.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Siêu tên lửa Starship vẫn nổi trên biển sau 6 ngày hạ cánh",
+    "description": "Tầng trên của Starship V3, nguyên mẫu tên lửa mạnh nhất thế giới do SpaceX chế tạo, đang nổi trên Ấn Độ Dương sau màn \"tiếp nước êm ái\" cuối tuần trước.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/31/hacanh-1785473009-7639-1785473445.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=nWMoP77p7Ja1WBwAEsiz6A&t=image",
+    "link": "https://vnexpress.net/sieu-ten-lua-starship-van-noi-tren-bien-sau-6-ngay-ha-canh-5103705.html",
+    "published_at": "Fri, 31 Jul 2026 14:00:00 +0700",
+    "createAt": "2026-07-31T07:00:00.000Z",
+    "thumbnail_blurhash": "LMK1,lto00%M~pRl9GRj00MxnhIU"
   }
 ]
