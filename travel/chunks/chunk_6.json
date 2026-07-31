@@ -700,5 +700,31 @@
     "published_at": "Fri, 31 Jul 2026 16:53:39 +0700",
     "createAt": "2026-07-31T09:53:39.000Z",
     "thumbnail_blurhash": "LFHUd.?bJ.tQ~UofDin$IARPE0M{"
+  },
+  {
+    "id": "https://vnexpress.net/dieu-khien-khach-viet-me-tau-cao-toc-trung-quoc-5103698.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Điều khiến khách Việt 'mê' tàu cao tốc Trung Quốc",
+    "description": "Với một số khách Việt, tàu cao tốc ở Trung Quốc là phương tiện di chuyển \"không có gì phải chê\" bởi nhanh, thuận tiện và giá hợp lý.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/07/31/tau1-1785472740-3688-1785476533.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=zx_Gdd4HzowEYYD7g9BitA",
+    "link": "https://vnexpress.net/dieu-khien-khach-viet-me-tau-cao-toc-trung-quoc-5103698.html",
+    "published_at": "Fri, 31 Jul 2026 19:00:00 +0700",
+    "createAt": "2026-07-31T12:00:00.000Z",
+    "thumbnail_blurhash": "LqF$FjNFR*xa~qV@jvkC.7aKt7R."
+  },
+  {
+    "id": "https://vnexpress.net/vietravel-airlines-sap-mo-duong-bay-tp-hcm-tham-quyen-5103882.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Vietravel Airlines sắp mở đường bay TP HCM - Thâm Quyến",
+    "description": "Vietravel Airlines sẽ khai thác đường bay thẳng kết nối TP HCM và Thâm Quyến (Trung Quốc) từ ngày 15/8.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/07/31/hinh-jpg-1785494254-6975-1785494349.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=SN_9YhvdA2rh5UlKwSl8ww",
+    "link": "https://vnexpress.net/vietravel-airlines-sap-mo-duong-bay-tp-hcm-tham-quyen-5103882.html",
+    "published_at": "Fri, 31 Jul 2026 19:00:00 +0700",
+    "createAt": "2026-07-31T12:00:00.000Z",
+    "thumbnail_blurhash": "LxDT3kohoha~%ja$WEWVNhj[Rkof"
   }
 ]
