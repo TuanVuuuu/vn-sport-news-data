@@ -219,5 +219,31 @@
     "published_at": "Fri, 31 Jul 2026 22:05:43 +0700",
     "createAt": "2026-07-31T15:05:43.000Z",
     "thumbnail_blurhash": "LQJj}IQ,%$t7~VxBIUxs0eNMxZM|"
+  },
+  {
+    "id": "https://vnexpress.net/viet-nam-vs-singapore-5103811-tong-thuat.html",
+    "category_id": "sports",
+    "category_name": "Thể thao",
+    "source": "VnExpress",
+    "title": "Việt Nam bị Singapore cầm hòa ở ASEAN Cup",
+    "description": "Đội tuyển Việt Nam phung phí cơ hội, bị Singapore cầm hòa 0-0 ở lượt ba bảng A ASEAN Cup 2026 trên sân Mỹ Đình.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/07/31/wm1-wm1-xua-n-son-jpeg-1785509784-6255-1785509791.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=6b81Csts_3HxkHkYmlVJkg",
+    "link": "https://vnexpress.net/viet-nam-vs-singapore-5103811-tong-thuat.html",
+    "published_at": "Fri, 31 Jul 2026 18:30:49 +0700",
+    "createAt": "2026-07-31T11:30:49.000Z",
+    "thumbnail_blurhash": "L8GIY]vh?@.k8?$hoODm3_xvIq9F"
+  },
+  {
+    "id": "https://vnexpress.net/hlv-kim-sang-sik-dinh-bac-chua-lam-tot-nhiem-vu-5103833.html",
+    "category_id": "sports",
+    "category_name": "Thể thao",
+    "source": "VnExpress",
+    "title": "HLV Kim Sang-sik: 'Đình Bắc chưa làm tốt nhiệm vụ'",
+    "description": "HLV Kim Sang-sik thừa nhận không hài lòng với màn thể hiện của tiền đạo Nguyễn Đình Bắc và tiếc nuối khi tuyển Việt Nam phung phí nhiều cơ hội khi hòa Singapore 0-0 ở lượt ba bảng A ASEAN Cup 2026 tối 31/7.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/07/31/wm1-wm1-kim-1785514187-7972-1785514195.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=edzcGHdibDqzJ0GstT7QOQ",
+    "link": "https://vnexpress.net/hlv-kim-sang-sik-dinh-bac-chua-lam-tot-nhiem-vu-5103833.html",
+    "published_at": "Fri, 31 Jul 2026 22:05:43 +0700",
+    "createAt": "2026-07-31T15:05:43.000Z",
+    "thumbnail_blurhash": "LCE{@iaQp3R5DP%g-oivxtRixZM}"
   }
 ]
