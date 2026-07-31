@@ -817,5 +817,57 @@
     "published_at": "Fri, 31 Jul 2026 14:00:00 +0700",
     "createAt": "2026-07-31T07:00:00.000Z",
     "thumbnail_blurhash": "LMK1,lto00%M~pRl9GRj00MxnhIU"
+  },
+  {
+    "id": "https://vnexpress.net/hoan-thien-ho-so-lap-khu-cong-nghe-cao-tinh-hung-yen-truoc-5-8-5103744.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Hoàn thiện hồ sơ lập Khu công nghệ cao tỉnh Hưng Yên trước 5/8",
+    "description": "Phó thủ tướng Hồ Quốc Dũng yêu cầu các bộ ngành liên quan hoàn thiện hồ sơ thành lập Khu Công nghệ cao tỉnh Hưng Yên, trình Thủ tướng trước ngày 5/8.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/31/wm31-wm31-base641785475613616106808-3128-5439-1785480282.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=MJ1fmzIblXa_bcKWJ-ieVw",
+    "link": "https://vnexpress.net/hoan-thien-ho-so-lap-khu-cong-nghe-cao-tinh-hung-yen-truoc-5-8-5103744.html",
+    "published_at": "Fri, 31 Jul 2026 15:36:33 +0700",
+    "createAt": "2026-07-31T08:36:33.000Z",
+    "thumbnail_blurhash": "LUIOX[R*0KWA9FIU_NfkXTRj%2Rj"
+  },
+  {
+    "id": "https://vnexpress.net/nhieu-co-quan-duoc-dao-tao-de-trien-khai-ipv6-only-5103779.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Nhiều cơ quan được đào tạo để triển khai IPv6 Only",
+    "description": "Trung tâm Internet Việt Nam (VNNIC) tổ chức chương trình tập huấn về IPv6 và IPv6 Only, hỗ trợ các đơn vị xây dựng lộ trình chuyển đổi sang thế hệ Internet mới.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/31/hieuvnnic-1785488078-5471-1785488200.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=bQPsGgepvHO__i_Wj7vJmw",
+    "link": "https://vnexpress.net/nhieu-co-quan-duoc-dao-tao-de-trien-khai-ipv6-only-5103779.html",
+    "published_at": "Fri, 31 Jul 2026 15:57:24 +0700",
+    "createAt": "2026-07-31T08:57:24.000Z",
+    "thumbnail_blurhash": "LEKnG3005TtS_N-=_3?b%L?b$*Ri"
+  },
+  {
+    "id": "https://vnexpress.net/hai-phong-se-co-trung-tam-ho-tro-khoi-nghiep-sang-tao-5103808.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Hải Phòng sẽ có trung tâm hỗ trợ khởi nghiệp sáng tạo",
+    "description": "TP Hải Phòng sẽ công bố Trung tâm Hỗ trợ khởi nghiệp sáng tạo cấp tỉnh tại sự kiện Techfest HaiPhong 2026 diễn ra vào 4-5/8.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/31/dsc01960-jpg-1785488509-1266-1785488518.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=9sHWTjd5X0El2yoL2iFWmg",
+    "link": "https://vnexpress.net/hai-phong-se-co-trung-tam-ho-tro-khoi-nghiep-sang-tao-5103808.html",
+    "published_at": "Fri, 31 Jul 2026 16:00:00 +0700",
+    "createAt": "2026-07-31T09:00:00.000Z",
+    "thumbnail_blurhash": "LYJ@d.=|t7Ip~BDikCx]^+MwIUS2"
+  },
+  {
+    "id": "https://vnexpress.net/viet-nam-du-dieu-kien-chuan-bi-cho-6g-5103789.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "'Việt Nam đủ điều kiện chuẩn bị cho 6G'",
+    "description": "TS. Durga Malladi cho rằng lực lượng kỹ sư trẻ, hệ sinh thái khởi nghiệp, ưu tiên về AI, bán dẫn giúp Việt Nam tham gia sâu hơn vào phát triển 6G.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/31/dsc01614-1785485792-7532-1785485878.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=QdU2bX5FzLkZLhJDrm98Ww",
+    "link": "https://vnexpress.net/viet-nam-du-dieu-kien-chuan-bi-cho-6g-5103789.html",
+    "published_at": "Fri, 31 Jul 2026 16:00:00 +0700",
+    "createAt": "2026-07-31T09:00:00.000Z",
+    "thumbnail_blurhash": "LwLNux?ws9Ip?bR,jYt7t7M|WBs:"
   }
 ]
