@@ -362,5 +362,18 @@
     "published_at": "Fri, 31 Jul 2026 06:00:00 +0700",
     "createAt": "2026-07-30T23:00:00.000Z",
     "thumbnail_blurhash": "LBH-+301Oq}600~Bo~D*0KM_a$Nf"
+  },
+  {
+    "id": "https://vnexpress.net/robotaxi-thuong-xuyen-bi-phat-vi-do-au-5102741.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Robotaxi thường xuyên bị phạt vì đỗ ẩu",
+    "description": "Thuật toán hiện đại chưa thể giúp taxi tự lái Waymo tránh khỏi những vi phạm giao thông cơ bản, đặc biệt là lỗi đỗ xe.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/30/Robotaxi1-1785395154-5940-1785395248.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Kg76k8czzQmyq7ikeIXNJA",
+    "link": "https://vnexpress.net/robotaxi-thuong-xuyen-bi-phat-vi-do-au-5102741.html",
+    "published_at": "Fri, 31 Jul 2026 07:00:00 +0700",
+    "createAt": "2026-07-31T00:00:00.000Z",
+    "thumbnail_blurhash": "LHGIT9^%xu%g$dDhRjoz~VxX%MRj"
   }
 ]
