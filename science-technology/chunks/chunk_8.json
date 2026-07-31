@@ -752,5 +752,18 @@
     "published_at": "Fri, 31 Jul 2026 09:00:00 +0700",
     "createAt": "2026-07-31T02:00:00.000Z",
     "thumbnail_blurhash": "LOG[vH0KOqtk~oE1Ip-;OmxZkCR+"
+  },
+  {
+    "id": "https://vnexpress.net/den-luot-claude-thoat-kiem-toa-xam-nhap-he-thong-cua-3-to-chuc-5103538.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Đến lượt Claude thoát kiềm tỏa, xâm nhập hệ thống của 3 tổ chức",
+    "description": "Anthropic thông báo một số phiên bản Claude thoát vòng kiểm soát trong thử nghiệm, truy cập trái phép hệ thống của 3 tổ chức.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/31/lq-1785465322-3602-1785465786.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=PBJtRtz4QNdLsjjI7Ny_yg",
+    "link": "https://vnexpress.net/den-luot-claude-thoat-kiem-toa-xam-nhap-he-thong-cua-3-to-chuc-5103538.html",
+    "published_at": "Fri, 31 Jul 2026 09:45:08 +0700",
+    "createAt": "2026-07-31T02:45:08.000Z",
+    "thumbnail_blurhash": "LIIYOiQ8L#_N?^Ri%hWAEhI;ayjY"
   }
 ]
