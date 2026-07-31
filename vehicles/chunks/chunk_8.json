@@ -401,5 +401,18 @@
     "published_at": "Fri, 31 Jul 2026 09:20:00 +0700",
     "createAt": "2026-07-31T02:20:00.000Z",
     "thumbnail_blurhash": "LcP%O.xu?b%M~qofayRj_3t7IURj"
+  },
+  {
+    "id": "https://vnexpress.net/xe-may-xang-trong-vung-phat-thai-thap-5100259.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Xe máy xăng trong vùng phát thải thấp",
+    "description": "Xe máy xăng không bị cấm hoàn toàn trong vùng phát thải thấp mà chỉ giới hạn những xe đạt khí thải mức 3 trở lên.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/31/hhn-1785464422-2877-1785464613.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=VMMXMKNl1mhraSQ8fShiMA",
+    "link": "https://vnexpress.net/xe-may-xang-trong-vung-phat-thai-thap-5100259.html",
+    "published_at": "Fri, 31 Jul 2026 09:50:36 +0700",
+    "createAt": "2026-07-31T02:50:36.000Z",
+    "thumbnail_blurhash": "LAFi7Ltlx]-=00t6aioN_NjEo4V@"
   }
 ]
