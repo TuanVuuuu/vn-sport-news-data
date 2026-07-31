@@ -765,5 +765,31 @@
     "published_at": "Fri, 31 Jul 2026 09:45:08 +0700",
     "createAt": "2026-07-31T02:45:08.000Z",
     "thumbnail_blurhash": "LIIYOiQ8L#_N?^Ri%hWAEhI;ayjY"
+  },
+  {
+    "id": "https://vnexpress.net/uu-nhuoc-diem-cua-cac-kieu-dien-thoai-gap-5103209.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Ưu, nhược điểm của các kiểu điện thoại gập",
+    "description": "Điện thoại gập vỏ sò như Galaxy Z Flip có tính di động cao trong khi dòng Galaxy Z Fold có hai phiên bản hướng tới giải trí hoặc tối ưu không gian làm việc.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/30/wm1-wm1-DSC06327-1785384014-9614-1785384484.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=BRs-5afsCMB-NjtkfY9_dw",
+    "link": "https://vnexpress.net/uu-nhuoc-diem-cua-cac-kieu-dien-thoai-gap-5103209.html",
+    "published_at": "Fri, 31 Jul 2026 12:00:00 +0700",
+    "createAt": "2026-07-31T05:00:00.000Z",
+    "thumbnail_blurhash": "L5IqfV.T_O*doVITS~xpY+RQT#x["
+  },
+  {
+    "id": "https://vnexpress.net/viet-nam-trien-khai-5g-nhanh-top-dau-the-gioi-5103721.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "'Việt Nam triển khai 5G nhanh top đầu thế giới'",
+    "description": "Theo Cục Viễn thông, các nhà mạng Việt Nam đã triển khai hơn 40.000 trạm 5G, phủ sóng khoảng 92% dân số, được đánh giá có tốc độ triển khai \"nhanh top đầu thế giới\".",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/31/anh-cuong-1785475874-6539-1785475923.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=moH0VguYUevPd2-IDeJ5zw",
+    "link": "https://vnexpress.net/viet-nam-trien-khai-5g-nhanh-top-dau-the-gioi-5103721.html",
+    "published_at": "Fri, 31 Jul 2026 12:49:08 +0700",
+    "createAt": "2026-07-31T05:49:08.000Z",
+    "thumbnail_blurhash": "LFI|wK?^004n00Di_3%M?wtSVrt7"
   }
 ]
