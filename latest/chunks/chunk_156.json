@@ -1064,5 +1064,44 @@
     "published_at": "Sat, 01 Aug 2026 01:13:47 +0700",
     "createAt": "2026-07-31T18:13:47.000Z",
     "thumbnail_blurhash": "LBLW%#~p19X90CM~-et301ROx0aj"
+  },
+  {
+    "id": "https://vnexpress.net/ha-noi-muon-xay-dung-pho-am-thuc-cau-giay-5103942.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Hà Nội muốn xây dựng phố ẩm thực Cầu Giấy",
+    "description": "Phố ẩm thực dự kiến được xây dựng theo mô hình xe bán hàng lưu động và khu ẩm thực tập trung di động bố trí tại phố Khúc Thừa Dụ, phường Cầu Giấy.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/31/cvcaugiay-1785515133-2329-1785515340.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=1weVURoxud1RFb_C-XsZhg",
+    "link": "https://vnexpress.net/ha-noi-muon-xay-dung-pho-am-thuc-cau-giay-5103942.html",
+    "published_at": "Sat, 01 Aug 2026 04:00:00 +0700",
+    "createAt": "2026-07-31T21:00:00.000Z",
+    "thumbnail_blurhash": "L3C?u}_200nO4,Ro009E01oz%NjY"
+  },
+  {
+    "id": "https://vnexpress.net/tai-xe-thoat-chet-khi-xe-ban-tai-bi-set-danh-chay-rui-5103741.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Tài xế thoát chết khi xe bán tải bị sét đánh cháy rụi",
+    "description": "Tia sét đánh trúng chiếc bán tải đang di chuyển trên cao tốc khiến phương tiện bốc cháy dữ dội và bị thiêu rụi trong chưa đầy 20 phút.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/31/Lightning-1785499110-4773-1785499257.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=1869RyGrLlBbuIClmhhM5w",
+    "link": "https://vnexpress.net/tai-xe-thoat-chet-khi-xe-ban-tai-bi-set-danh-chay-rui-5103741.html",
+    "published_at": "Sat, 01 Aug 2026 04:00:00 +0700",
+    "createAt": "2026-07-31T21:00:00.000Z",
+    "thumbnail_blurhash": "LYG[Wdv}IAIV_NIoNGWC.8RkIoR*"
+  },
+  {
+    "id": "https://vnexpress.net/nhan-xuong-vinh-chau-gia-chi-hon-10-000-dong-mot-kg-5103518.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Nhãn xuồng Vĩnh Châu giá chỉ hơn 10.000 đồng một kg",
+    "description": "Đặc sản nhãn xuồng Vĩnh Châu vào vụ, giá chỉ 11.000-15.000 đồng một kg, thấp nhất khoảng ba năm qua khi sản lượng tăng mạnh, còn thương lái thu mua cầm chừng theo đợt.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/30/nhan-xuong-jpg-1785428372-4701-1785428409.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=5l7_gVXfklgCa7R9dqLAsA",
+    "link": "https://vnexpress.net/nhan-xuong-vinh-chau-gia-chi-hon-10-000-dong-mot-kg-5103518.html",
+    "published_at": "Sat, 01 Aug 2026 04:00:00 +0700",
+    "createAt": "2026-07-31T21:00:00.000Z",
+    "thumbnail_blurhash": "LNB;mW%JI.Ro~ot7V@f5-:o#f#aK"
   }
 ]
