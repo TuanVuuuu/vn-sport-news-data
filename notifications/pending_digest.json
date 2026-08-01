@@ -1,3 +1,43 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/truyen-thong-chau-a-bat-ngo-khi-viet-nam-chi-hoa-singapore-5104131.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Truyền thông châu Á bất ngờ khi Việt Nam chỉ hòa Singapore",
+      "description": "Nhiều tờ báo châu Á bất ngờ khi Việt Nam hòa Singapore 0-0 ở lượt ba bảng A ASEAN Cup 2026, thậm chí còn âu lo về cơ hội vào bán kết của thầy trò Kim Sang-sik.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/08/01/1785504822947-g651265587011251-7528-4002-1785578336.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=A9R74A152QPuVMuTpN7loA",
+      "link": "https://vnexpress.net/truyen-thong-chau-a-bat-ngo-khi-viet-nam-chi-hoa-singapore-5104131.html",
+      "published_at": "Sat, 01 Aug 2026 17:08:19 +0700",
+      "createAt": "2026-08-01T10:08:19.000Z",
+      "thumbnail_blurhash": "LAFOli%fGu.lXgk7QSa1uO%Ls:S~"
+    },
+    {
+      "id": "https://vnexpress.net/de-xuat-cham-dut-co-che-mam-com-ba-bo-quan-ly-5104040.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Đề xuất chấm dứt cơ chế 'mâm cơm ba Bộ quản lý'",
+      "description": "Bộ Y tế đề xuất chấm dứt cơ chế ba Bộ cùng quản lý an toàn thực phẩm, thay bằng một đầu mối thống nhất từ Trung ương đến địa phương nhằm khắc phục tình trạng chồng chéo.",
+      "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/01/sieuthi-1785556635-2500-1785556715.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ZCR-GEbkZAsfNMZkYkLeTw",
+      "link": "https://vnexpress.net/de-xuat-cham-dut-co-che-mam-com-ba-bo-quan-ly-5104040.html",
+      "published_at": "Sat, 01 Aug 2026 18:27:16 +0700",
+      "createAt": "2026-08-01T11:27:16.000Z",
+      "thumbnail_blurhash": "LNE{znwH#lxa~EOXoboz^+xajra}"
+    },
+    {
+      "id": "https://vnexpress.net/tham-canh-cua-nhung-nguoi-vuot-bien-vao-tay-ban-nha-5103986.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Thảm cảnh của những người vượt biển vào Tây Ban Nha",
+      "description": "Hàng chục nghìn người Morocco bơi 5 km trên biển để đổ bộ vào Ceuta, vùng lãnh thổ tự trị của Tây Ban Nha, bất chấp rủi ro đe dọa mạng sống.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/01/afp-c3n66vx-v3-highres-topshot-9081-9170-1785554789.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=D7LyuiKFZmNAJAsO-IIK2w",
+      "link": "https://vnexpress.net/tham-canh-cua-nhung-nguoi-vuot-bien-vao-tay-ban-nha-5103986.html",
+      "published_at": "Sat, 01 Aug 2026 19:00:00 +0700",
+      "createAt": "2026-08-01T12:00:00.000Z",
+      "thumbnail_blurhash": "LLLqhGS~o}wd_3bbWBjF_Nn%RPoz"
+    }
+  ]
 }
