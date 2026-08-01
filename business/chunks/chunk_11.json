@@ -856,5 +856,44 @@
     "published_at": "Sat, 01 Aug 2026 17:09:14 +0700",
     "createAt": "2026-08-01T10:09:14.000Z",
     "thumbnail_blurhash": "LhEMk9_4o}%M?b%MofxujZRjWBt7"
+  },
+  {
+    "id": "https://vnexpress.net/nguoi-my-truong-thanh-van-duoc-cha-me-ho-tro-tai-chinh-5104059.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Người Mỹ trưởng thành vẫn được cha mẹ hỗ trợ tài chính",
+    "description": "42% người Mỹ tham gia một khảo sát mới đây cho biết vẫn đang phải dựa vào cha mẹ để trang trải cuộc sống.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/08/01/screenshot-1785562937-7420-1785562958.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=8TUl0U8n9wvS8PS--GAnGQ",
+    "link": "https://vnexpress.net/nguoi-my-truong-thanh-van-duoc-cha-me-ho-tro-tai-chinh-5104059.html",
+    "published_at": "Sun, 02 Aug 2026 00:02:00 +0700",
+    "createAt": "2026-08-01T17:02:00.000Z",
+    "thumbnail_blurhash": "LBAw9u_N%2-;t7RjM{s:00nhX9a{"
+  },
+  {
+    "id": "https://vnexpress.net/eurocham-viet-nam-la-mo-neo-hang-dau-cua-kinh-te-chau-au-o-chau-a-5104094.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "EuroCham: Việt Nam là mỏ neo hàng đầu của kinh tế châu Âu ở châu Á",
+    "description": "Nhờ EVFTA, Việt Nam trở thành một trong những \"mỏ neo kinh tế\" quan trọng hàng đầu của châu Âu tại châu Á, theo Chủ tịch EuroCham.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/08/01/z7967024963579ca82de3581028ad2-6628-1554-1785571996.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=4QLMg9jMwCnzhvnk9koxwA",
+    "link": "https://vnexpress.net/eurocham-viet-nam-la-mo-neo-hang-dau-cua-kinh-te-chau-au-o-chau-a-5104094.html",
+    "published_at": "Sun, 02 Aug 2026 00:17:46 +0700",
+    "createAt": "2026-08-01T17:17:46.000Z",
+    "thumbnail_blurhash": "LMFr*LX-xuo#?wniWBt7k=n$nhn%"
+  },
+  {
+    "id": "https://vnexpress.net/loi-nhuan-nhieu-ngan-hang-di-lui-5104061.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Lợi nhuận nhiều ngân hàng đi lùi",
+    "description": "Eximbank, Sacombank, LPBank và Saigonbank là số ít nhà băng lợi nhuận đi xuống trong nửa đầu năm nay, có nơi giảm sâu hơn 70%.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/08/01/wm1-wm1-dsc-1785562354-2296-1785562365.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=4qLvT6OEZlYRE3RjCJBp8w",
+    "link": "https://vnexpress.net/loi-nhuan-nhieu-ngan-hang-di-lui-5104061.html",
+    "published_at": "Sun, 02 Aug 2026 00:18:06 +0700",
+    "createAt": "2026-08-01T17:18:06.000Z",
+    "thumbnail_blurhash": "L8ELmL9v4.IV_4WTjENaRobaE2IU"
   }
 ]
