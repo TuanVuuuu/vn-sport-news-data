@@ -752,5 +752,31 @@
     "published_at": "Sat, 01 Aug 2026 07:02:58 +0700",
     "createAt": "2026-08-01T00:02:58.000Z",
     "thumbnail_blurhash": "L8GRR90Q0B?TKf9z}.$hADxZ-PRn"
+  },
+  {
+    "id": "https://vnexpress.net/vietjet-mo-ban-hang-nghin-ve-eco-0-dong-5103947.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Vietjet mở bán hàng nghìn vé Eco 0 đồng",
+    "description": "Vietjet triển khai chương trình ưu đãi với vé Eco từ 0 đồng, đồng thời giảm đến 30% giá vé Business, SkyBoss và Deluxe trên một số đường bay, ngày 1-8/8.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/07/31/kho-ng-co-tie-u-de-sfsd23-1785-4367-1860-1785513584.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=jb4ASLKKAmJ4a8pZaAXVGQ",
+    "link": "https://vnexpress.net/vietjet-mo-ban-hang-nghin-ve-eco-0-dong-5103947.html",
+    "published_at": "Sat, 01 Aug 2026 09:00:00 +0700",
+    "createAt": "2026-08-01T02:00:00.000Z",
+    "thumbnail_blurhash": "LYLr3:xuT1xvPDjFslflT}X8R5az"
+  },
+  {
+    "id": "https://vnexpress.net/dong-thap-don-4-7-trieu-luot-khach-nua-dau-nam-5102306.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Đồng Tháp đón 4,7 triệu lượt khách nửa đầu năm",
+    "description": "Đồng Tháp triển khai nhiều hoạt động xúc tiến du lịch, đầu tư hạ tầng, đón 4,7 triệu lượt khách trong nửa đầu năm, đặt mục tiêu tăng trưởng hai con số.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/28/1781837542643-g118826904272050-1549-8232-1785201860.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=0wJJxPIaaCoh3b7Z8FMCew",
+    "link": "https://vnexpress.net/dong-thap-don-4-7-trieu-luot-khach-nua-dau-nam-5102306.html",
+    "published_at": "Sat, 01 Aug 2026 10:00:00 +0700",
+    "createAt": "2026-08-01T03:00:00.000Z",
+    "thumbnail_blurhash": "LBHe2yO@NDMd~TIUo#ni0vQ,OAtR"
   }
 ]

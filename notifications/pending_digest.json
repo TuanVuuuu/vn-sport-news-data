@@ -1,3 +1,82 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/suc-nong-xung-dot-trung-dong-de-doa-kenh-dao-suez-5103561.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Sức nóng xung đột Trung Đông đe dọa kênh đào Suez",
+      "description": "Đòn tập kích UAV vào cảng Damietta của Ai Cập cho thấy ngay cả kênh đào Suez, huyết mạch hàng hải vốn được coi là an toàn, cũng bắt đầu chịu ảnh hưởng từ xung đột.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/31/image117-jpeg-1785483216-9449-1785483392.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=jLYpwIeZK88KxnwA7flD9A",
+      "link": "https://vnexpress.net/suc-nong-xung-dot-trung-dong-de-doa-kenh-dao-suez-5103561.html",
+      "published_at": "Sat, 01 Aug 2026 05:00:00 +0700",
+      "createAt": "2026-07-31T22:00:00.000Z",
+      "thumbnail_blurhash": "LgJI9K%Mt7az~qazf6offlRjWBt7"
+    },
+    {
+      "id": "https://vnexpress.net/fifa-huy-ke-hoach-ban-co-phan-world-cup-5103983.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "FIFA hủy kế hoạch bán cổ phần World Cup",
+      "description": "Chủ tịch Gianni Infantino từ bỏ đề xuất bán 20% cổ phần đơn vị quản lý các giải đấu lớn, trong đó có World Cup, khi vấp phải làn sóng phản đối từ nội bộ FIFA và đe dọa tẩy chay từ UEFA.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/08/01/fifa-1785545702-4288-1785545863.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=ylam-NrhsTbb_Urhrh7UUw",
+      "link": "https://vnexpress.net/fifa-huy-ke-hoach-ban-co-phan-world-cup-5103983.html",
+      "published_at": "Sat, 01 Aug 2026 08:06:02 +0700",
+      "createAt": "2026-08-01T01:06:02.000Z",
+      "thumbnail_blurhash": "LuI5DAadyDoz~qofozt7kWozRjWB"
+    },
+    {
+      "id": "https://vnexpress.net/chung-cu-cu-rot-gia-5103396.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Chung cư cũ rớt giá",
+      "description": "Bà Hòa từng từ chối bán căn hộ 9,2 tỷ đồng vì nghĩ giá còn tăng thêm, cuối cùng bà phải bán với giá 8 tỷ đồng khi thị trường hạ nhiệt.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/31/DJI-0176-4985-1785480244.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=BcW5hrf6PW1peIqaqD3ohQ",
+      "link": "https://vnexpress.net/chung-cu-cu-rot-gia-5103396.html",
+      "published_at": "Sat, 01 Aug 2026 09:14:16 +0700",
+      "createAt": "2026-08-01T02:14:16.000Z",
+      "thumbnail_blurhash": "LmG9dMt7t7oI?ws.fQbI%hj[WBof"
+    },
+    {
+      "id": "https://vnexpress.net/do-loat-nha-mo-rong-duong-huyet-mach-noi-tp-hcm-tay-ninh-5103480.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Dỡ loạt nhà mở rộng đường huyết mạch nối TP HCM - Tây Ninh",
+      "description": "Hàng loạt nhà ở quốc lộ 22 nối Tây Ninh đang được tháo dỡ để mở rộng đường từ 6 lên 10 làn xe, ở cửa ngõ Tây Bắc TP HCM.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/01/wm1-233a8384-1785552392.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=lj9eD8mOdPl-kalUSp9nvg",
+      "link": "https://vnexpress.net/do-loat-nha-mo-rong-duong-huyet-mach-noi-tp-hcm-tay-ninh-5103480.html",
+      "published_at": "Sat, 01 Aug 2026 09:47:39 +0700",
+      "createAt": "2026-08-01T02:47:39.000Z",
+      "thumbnail_blurhash": "LIFiMn%MXmIT_N?vb]In^k.SnNV?"
+    },
+    {
+      "id": "https://vnexpress.net/kiev-rung-chuyen-ngap-trong-khoi-khi-ten-lua-nga-tap-kich-5103984.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Kiev rung chuyển, ngập trong khói khi tên lửa Nga tập kích",
+      "description": "Nga phóng loạt tên lửa đạn đạo vào Kiev trong đòn tập kích quy mô lớn, khiến thủ đô Ukraine ngập trong khói lửa và ít nhất 4 người thiệt mạng.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/01/Kiev-1785550725-8728-1785551737.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=un5uk2edVYPgYiixUCONPA",
+      "link": "https://vnexpress.net/kiev-rung-chuyen-ngap-trong-khoi-khi-ten-lua-nga-tap-kich-5103984.html",
+      "published_at": "Sat, 01 Aug 2026 09:50:06 +0700",
+      "createAt": "2026-08-01T02:50:06.000Z",
+      "thumbnail_blurhash": "L77K6sr=0~9]xvWVaysm0#Ne}q=w"
+    },
+    {
+      "id": "https://vnexpress.net/sieu-bao-dolphin-giam-cap-van-co-the-gay-gio-manh-tren-bien-dong-5104017.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Siêu bão Dolphin giảm cấp, vẫn có thể gây gió mạnh trên Biển Đông",
+      "description": "Dù không có dấu hiệu đi vào Biển Đông, hoàn lưu bão được dự báo sẽ làm gió mùa tây nam tăng cường, khiến biển động mạnh từ tuần tới.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/01/anh-chup-man-hinh-luc-17855531-6361-4861-1785553259.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=gT16WVhEZ1Y8OsYER4AzUg",
+      "link": "https://vnexpress.net/sieu-bao-dolphin-giam-cap-van-co-the-gay-gio-manh-tren-bien-dong-5104017.html",
+      "published_at": "Sat, 01 Aug 2026 10:06:04 +0700",
+      "createAt": "2026-08-01T03:06:04.000Z",
+      "thumbnail_blurhash": "LIAM6PM?nUxrtkV~oZaRNxn#W=S#"
+    }
+  ]
 }
