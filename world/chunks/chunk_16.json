@@ -1194,5 +1194,57 @@
     "published_at": "Sat, 01 Aug 2026 12:00:00 +0700",
     "createAt": "2026-08-01T05:00:00.000Z",
     "thumbnail_blurhash": "LOJ[SEE1?bxu?aWCofax~qxuD%Rj"
+  },
+  {
+    "id": "https://vnexpress.net/vi-sao-ten-lua-nga-bay-gan-100-km-vao-ba-lan-ma-khong-bi-f-16-ban-ha-5103767.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Vì sao tên lửa Nga bay gần 100 km vào Ba Lan mà không bị F-16 bắn hạ?",
+    "description": "Tên lửa Nga bay khoảng 90 km vào Ba Lan mà không bị hạ, dường như do phòng không phát hiện muộn và hạn chế trong quy định khai hỏa.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/01/f-ba-lan-1785551323-3605-1785553230.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=AAepgKwhywnBtkyJ03D4zQ",
+    "link": "https://vnexpress.net/vi-sao-ten-lua-nga-bay-gan-100-km-vao-ba-lan-ma-khong-bi-f-16-ban-ha-5103767.html",
+    "published_at": "Sat, 01 Aug 2026 12:00:00 +0700",
+    "createAt": "2026-08-01T05:00:00.000Z",
+    "thumbnail_blurhash": "LOJ*-mE1?bxu?HWCoff6~qxuD%Rj"
+  },
+  {
+    "id": "https://vnexpress.net/nga-co-the-dang-chuyen-du-lieu-de-iran-tap-kich-chinh-xac-can-cu-my-5104034.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Nga có thể đang chuyển dữ liệu để Iran tập kích chính xác căn cứ Mỹ",
+    "description": "Quan chức Mỹ, châu Âu nhận định Nga đang cung cấp thông tin tình báo điện tử để Iran cải thiện cả năng lực tấn công và phòng thủ.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/01/an-fps-png-1785562499-2604-1785563471.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=0E2lu_7fjjf3Q7KjX6zn-g",
+    "link": "https://vnexpress.net/nga-co-the-dang-chuyen-du-lieu-de-iran-tap-kich-chinh-xac-can-cu-my-5104034.html",
+    "published_at": "Sat, 01 Aug 2026 12:52:35 +0700",
+    "createAt": "2026-08-01T05:52:35.000Z",
+    "thumbnail_blurhash": "L2B:pi%NFZ_400D%~q?b%gt7D%M{"
+  },
+  {
+    "id": "https://vnexpress.net/tu-lenh-quan-doan-ukraine-thoat-am-sat-trong-gang-tac-5104036.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Tư lệnh quân đoàn Ukraine thoát ám sát trong gang tấc",
+    "description": "Ihor Oboliensky, tư lệnh Quân đoàn 2 Ukraine, dường như thoát được âm mưu ám sát vì súng của nghi phạm bị kẹt đạn đúng lúc khai hỏa.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/01/Ukraine-1785560415-8270-1785561295.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=HM3d9DEmCdL6Y_J1iYx4hg",
+    "link": "https://vnexpress.net/tu-lenh-quan-doan-ukraine-thoat-am-sat-trong-gang-tac-5104036.html",
+    "published_at": "Sat, 01 Aug 2026 13:10:54 +0700",
+    "createAt": "2026-08-01T06:10:54.000Z",
+    "thumbnail_blurhash": "L4A^B:%%00xw=~x^?]oyJ8E4rr-m"
+  },
+  {
+    "id": "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-doi-ngoai-can-tranh-thu-nguon-luc-cho-khoa-hoc-cong-nghe-5104055.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Tổng Bí thư, Chủ tịch nước: Đối ngoại cần tranh thủ nguồn lực cho khoa học, công nghệ",
+    "description": "Tổng Bí thư, Chủ tịch nước Tô Lâm cho rằng đối ngoại cần phát huy vai trò tiên phong, ưu tiên tranh thủ nguồn lực cho khoa học, công nghệ, đổi mới sáng tạo.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/01/wm1-wm1-1785555290332c461a00be3bac-9901-5640-1785566172.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=4jIZYvHCIgMx9KMi-Cc12g",
+    "link": "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-doi-ngoai-can-tranh-thu-nguon-luc-cho-khoa-hoc-cong-nghe-5104055.html",
+    "published_at": "Sat, 01 Aug 2026 13:21:00 +0700",
+    "createAt": "2026-08-01T06:21:00.000Z",
+    "thumbnail_blurhash": "L[H{1|OI%2kEk]R:NHWZI[sjjYay"
   }
 ]
