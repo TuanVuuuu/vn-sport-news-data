@@ -557,5 +557,31 @@
     "published_at": "Sat, 01 Aug 2026 09:00:00 +0700",
     "createAt": "2026-08-01T02:00:00.000Z",
     "thumbnail_blurhash": "LmFsAA%M$doz.TbwROS5%gtRe.bc"
+  },
+  {
+    "id": "https://vnexpress.net/oto-do-truoc-cua-hang-bi-dan-kin-giay-5103544.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Ôtô đỗ trước cửa hàng bị dán kín giấy",
+    "description": "Chiếc Toyota Corolla màu trắng bị dán giấy từ đầu xe, bên hông và toàn bộ phần kính với lời nhắc nhở về ý thức đỗ xe.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/31/Mart1-1785474133-7059-1785475908.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Wq_wzg6lTh-SUMIcYxgIqg",
+    "link": "https://vnexpress.net/oto-do-truoc-cua-hang-bi-dan-kin-giay-5103544.html",
+    "published_at": "Sat, 01 Aug 2026 09:54:54 +0700",
+    "createAt": "2026-08-01T02:54:54.000Z",
+    "thumbnail_blurhash": "LFE{tl~q4TxX?Ft5D%n#Mat6.9Ri"
+  },
+  {
+    "id": "https://vnexpress.net/tai-xe-bi-phat-den-40-trieu-dong-vi-bo-di-sau-tai-nan-5104008.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Tài xế bị phạt đến 40 triệu đồng vì bỏ đi sau tai nạn",
+    "description": "Sau va chạm với xe máy, tài xế ôtô lái xe rời hiện trường, bị xác định vi phạm hai lỗi, mức phạt đến 40 triệu đồng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/01/ezgif6a0498974a3dd4d0-17855519-4001-2456-1785551998.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=rJNnRKV1IsVebyIwcn2FsQ&t=image",
+    "link": "https://vnexpress.net/tai-xe-bi-phat-den-40-trieu-dong-vi-bo-di-sau-tai-nan-5104008.html",
+    "published_at": "Sat, 01 Aug 2026 09:55:14 +0700",
+    "createAt": "2026-08-01T02:55:14.000Z",
+    "thumbnail_blurhash": "LEC%5E9E9F~qxaM}xuxuNHIUxua~"
   }
 ]
