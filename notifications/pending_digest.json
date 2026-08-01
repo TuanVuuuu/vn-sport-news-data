@@ -1,3 +1,95 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/hlv-kim-sang-sik-that-kho-de-chi-ra-diem-sang-trong-tran-hoa-singapore-5103956.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "HLV Kim Sang-sik: 'Thật khó để chỉ ra điểm sáng trong trận hòa Singapore'",
+      "description": "HLV Kim Sang-sik cho biết không hài lòng khi các học trò phung phí nhiều cơ hội, để Singapore cầm hòa 0-0 ở lượt hai bảng A ASEAN Cup, tối 31/7.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/01/Sequence0100284624Still001-178-4876-8401-1785517621.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=RPsaSNSNDixIxMoiS9yt0g",
+      "link": "https://vnexpress.net/hlv-kim-sang-sik-that-kho-de-chi-ra-diem-sang-trong-tran-hoa-singapore-5103956.html",
+      "published_at": "Sat, 01 Aug 2026 00:24:10 +0700",
+      "createAt": "2026-07-31T17:24:10.000Z",
+      "thumbnail_blurhash": "LHGR#g03V@.lvyjTI.%4ABM,Mx$1"
+    },
+    {
+      "id": "https://vnexpress.net/ha-noi-muon-xay-dung-pho-am-thuc-cau-giay-5103942.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Hà Nội muốn xây dựng phố ẩm thực Cầu Giấy",
+      "description": "Phố ẩm thực dự kiến được xây dựng theo mô hình xe bán hàng lưu động và khu ẩm thực tập trung di động bố trí tại phố Khúc Thừa Dụ, phường Cầu Giấy.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/31/cvcaugiay-1785515133-2329-1785515340.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=1weVURoxud1RFb_C-XsZhg",
+      "link": "https://vnexpress.net/ha-noi-muon-xay-dung-pho-am-thuc-cau-giay-5103942.html",
+      "published_at": "Sat, 01 Aug 2026 04:00:00 +0700",
+      "createAt": "2026-07-31T21:00:00.000Z",
+      "thumbnail_blurhash": "L3C?u}_200nO4,Ro009E01oz%NjY"
+    },
+    {
+      "id": "https://vnexpress.net/italy-dinh-chi-hiep-uoc-schengen-voi-tay-ban-nha-5103955.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Italy đình chỉ hiệp ước Schengen với Tây Ban Nha",
+      "description": "Italy đình chỉ hiệp ước đi lại tự do Schengen của EU với Tây Ban Nha, khi nước này trải qua cuộc khủng hoảng di cư ở Ceuta.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/01/ap26212613456230-1785517837-6181-1785517905.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=07ULYqx8nZ_XJtwFiulYBw",
+      "link": "https://vnexpress.net/italy-dinh-chi-hiep-uoc-schengen-voi-tay-ban-nha-5103955.html",
+      "published_at": "Sat, 01 Aug 2026 05:20:05 +0700",
+      "createAt": "2026-07-31T22:20:05.000Z",
+      "thumbnail_blurhash": "LRF~mqyE?v%h_4ozRkxu?vRlaeWB"
+    },
+    {
+      "id": "https://vnexpress.net/ngay-hon-loan-khi-hang-chuc-nghin-nguoi-di-cu-tran-vao-tay-ban-nha-5103934.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Ngày hỗn loạn khi hàng chục nghìn người di cư tràn vào Tây Ban Nha",
+      "description": "Hàng chục nghìn người di cư tràn vào Ceuta, Tây Ban Nha, gây ra cảnh tượng hỗn loạn khắp thành phố, thách thức lực lượng an ninh.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/31/ap26211730761972-1785513080.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=PJ2KMr_FhR3l4zD4bMmS6w",
+      "link": "https://vnexpress.net/ngay-hon-loan-khi-hang-chuc-nghin-nguoi-di-cu-tran-vao-tay-ban-nha-5103934.html",
+      "published_at": "Sat, 01 Aug 2026 05:31:29 +0700",
+      "createAt": "2026-07-31T22:31:29.000Z",
+      "thumbnail_blurhash": "LODJ0QkDR*s;=}xboffl_4xuoLj["
+    },
+    {
+      "id": "https://vnexpress.net/trung-quoc-dung-nguoi-ao-dong-phim-livestream-the-nao-5103930.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Trung Quốc dùng người ảo đóng phim, livestream thế nào?",
+      "description": "Từ livestream, quảng cáo đến phim ngắn, người ảo đang được các doanh nghiệp Trung Quốc sử dụng ngày càng nhiều nhờ chi phí thấp, khả năng hoạt động 24/7 và công nghệ mô phỏng ngày càng giống người thật.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/31/GraphicThumbngang1-1785509303-7251-1785509418.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=JHhCdCMPB0m8xn_iYywTiQ",
+      "link": "https://vnexpress.net/trung-quoc-dung-nguoi-ao-dong-phim-livestream-the-nao-5103930.html",
+      "published_at": "Sat, 01 Aug 2026 06:00:00 +0700",
+      "createAt": "2026-07-31T23:00:00.000Z",
+      "thumbnail_blurhash": "L89Q~+xc00%FUat6quxH2GRiq[Iq"
+    },
+    {
+      "id": "https://vnexpress.net/hlv-kim-sang-sik-quy-sup-trong-tran-hoa-singapore-5103943.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "HLV Kim Sang-sik quỳ sụp trong trận hoà Singapore",
+      "description": "HLV trưởng đội tuyển Việt Nam nhiều lần quỳ gối, vò đầu vứt tai tiếc nuối khi các cầu thủ liên tục bỏ lỡ các cơ hội trước Singapore, ở ASEAN Cup tối 31/7.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/07/31/5A-1785516973.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=YYWr_-SV3iucyWTro7xecw",
+      "link": "https://vnexpress.net/hlv-kim-sang-sik-quy-sup-trong-tran-hoa-singapore-5103943.html",
+      "published_at": "Sat, 01 Aug 2026 06:10:19 +0700",
+      "createAt": "2026-07-31T23:10:19.000Z",
+      "thumbnail_blurhash": "LHJ7?p_Mia=pz~^7DiH@?RX4V]NG"
+    },
+    {
+      "id": "https://vnexpress.net/dinh-bac-bong-da-khong-the-luc-nao-cung-suon-se-5103958.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Đình Bắc: 'Bóng đá không thể lúc nào cũng suôn sẻ'",
+      "description": "Tiền đạo Nguyễn Đình Bắc thừa nhận đã chơi tệ trước Singapore, và sẽ cố gắng để có câu trả lời ở những trận đấu tiếp theo tại ASEAN Cup 2026.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/08/01/7-1785519236-3761-1785519483.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=17X_-eM8EZxe8XZlgEWVDg",
+      "link": "https://vnexpress.net/dinh-bac-bong-da-khong-the-luc-nao-cung-suon-se-5103958.html",
+      "published_at": "Sat, 01 Aug 2026 06:21:40 +0700",
+      "createAt": "2026-07-31T23:21:40.000Z",
+      "thumbnail_blurhash": "LCEfv9^+4QHW0HX5U#reYrITv{rp"
+    }
+  ]
 }
