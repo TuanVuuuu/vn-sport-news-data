@@ -1259,5 +1259,31 @@
     "published_at": "Sat, 01 Aug 2026 07:27:33 +0700",
     "createAt": "2026-08-01T00:27:33.000Z",
     "thumbnail_blurhash": "LHDmEq~W9Y00Dg9Eo~?vI:jbV@og"
+  },
+  {
+    "id": "https://vnexpress.net/tim-lai-gia-dinh-can-bo-di-b-tra-lai-vang-5103824.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Tìm lại gia đình cán bộ đi B trả lại vàng",
+    "description": "Trung tâm Lưu trữ quốc gia III đang tìm lại chủ nhân để trao trả hiện vật vàng, sổ tiết kiệm của nhiều cán bộ gửi lại miền Bắc trước ngày lên đường đi B.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/31/wm1-wm1-huy-1785490139-9690-1785491404.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=q2JZWIY5_MMDF_NI4dH6Aw",
+    "link": "https://vnexpress.net/tim-lai-gia-dinh-can-bo-di-b-tra-lai-vang-5103824.html",
+    "published_at": "Sat, 01 Aug 2026 00:00:00 +0700",
+    "createAt": "2026-07-31T17:00:00.000Z",
+    "thumbnail_blurhash": "LIGk%m~X.m^+IBDi9FNHt7$*V@xu"
+  },
+  {
+    "id": "https://vnexpress.net/chinh-sach-noi-bat-co-hieu-luc-tu-thang-8-5103576.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Chính sách nổi bật có hiệu lực từ tháng 8",
+    "description": "Quy định về phạt cảnh cáo khi chở trẻ em trên ôtô không có ghế an toàn, xử phạt hành vi dắt chó không rọ mõm, miễn giảm phí trước bạ với người dùng VNeID là chính sách nổi bật có hiệu lực từ tháng 8.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/31/167ef17e9eeb1fb546fa-178546572-3173-7334-1785465866.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=EykDY1cD-V5hF74G9eBImQ",
+    "link": "https://vnexpress.net/chinh-sach-noi-bat-co-hieu-luc-tu-thang-8-5103576.html",
+    "published_at": "Sat, 01 Aug 2026 00:18:17 +0700",
+    "createAt": "2026-07-31T17:18:17.000Z",
+    "thumbnail_blurhash": "L8A0|1?v0ex^.8xu.9?c9t-;~qRi"
   }
 ]
