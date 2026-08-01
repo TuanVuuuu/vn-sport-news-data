@@ -245,5 +245,44 @@
     "published_at": "Sat, 01 Aug 2026 10:00:00 +0700",
     "createAt": "2026-08-01T03:00:00.000Z",
     "thumbnail_blurhash": "LNJul.X;~o-N~R-i%h-;xnacaft9"
+  },
+  {
+    "id": "https://vnexpress.net/meo-an-uong-sau-tuoi-50-giup-khoe-manh-khi-ve-gia-5103912.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Mẹo ăn uống sau tuổi 50 giúp khỏe mạnh khi về già",
+    "description": "Người trên 50 tuổi nên ăn nhiều ngũ cốc nguyên hạt, thực phẩm giàu protein, canxi và hạn chế muối để duy trì khối cơ.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/31/trung-luoc-1785504593-5979-1785504747.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=QfMnejqoqf3ZPL27HTaL0g",
+    "link": "https://vnexpress.net/meo-an-uong-sau-tuoi-50-giup-khoe-manh-khi-ve-gia-5103912.html",
+    "published_at": "Sat, 01 Aug 2026 11:00:00 +0700",
+    "createAt": "2026-08-01T04:00:00.000Z",
+    "thumbnail_blurhash": "LMEVpG~p030MV@adacRj02IV?F%K"
+  },
+  {
+    "id": "https://vnexpress.net/vi-sao-chua-gia-ma-toc-da-bac-5097722.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Vì sao chưa già mà tóc đã bạc?",
+    "description": "Tóc bạc không chỉ vì lão hóa mà có thể do di truyền, stress, bệnh nội tiết như suy giáp, cường giáp hoặc thiếu chất dinh dưỡng.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/01/20240704105337-grcywcvdwebp-17-2456-4652-1785549623.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=o52VyGhvUz7f9FbXqqZNLA",
+    "link": "https://vnexpress.net/vi-sao-chua-gia-ma-toc-da-bac-5097722.html",
+    "published_at": "Sat, 01 Aug 2026 11:00:00 +0700",
+    "createAt": "2026-08-01T04:00:00.000Z",
+    "thumbnail_blurhash": "LEG*f]^*9a5R?^WXnOae58flt7$%"
+  },
+  {
+    "id": "https://vnexpress.net/vi-sao-an-du-bua-nhung-van-thieu-chat-5103636.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Vì sao ăn đủ bữa nhưng vẫn thiếu chất?",
+    "description": "Ăn nhiều thực phẩm chế biến sẵn, chế biến món ăn sai cách, đường ruột kém hấp thu có thể dẫn đến thiếu chất.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/31/mam-1785467822-5510-1785467911.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=HBBuM0uiwSUg8Qu56VU9xA",
+    "link": "https://vnexpress.net/vi-sao-an-du-bua-nhung-van-thieu-chat-5103636.html",
+    "published_at": "Sat, 01 Aug 2026 11:00:00 +0700",
+    "createAt": "2026-08-01T04:00:00.000Z",
+    "thumbnail_blurhash": "L6E.C07Z0*qw?]St}=4V04DPOts$"
   }
 ]
