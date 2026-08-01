@@ -1233,5 +1233,31 @@
     "published_at": "Sat, 01 Aug 2026 10:06:04 +0700",
     "createAt": "2026-08-01T03:06:04.000Z",
     "thumbnail_blurhash": "LIA349M?nUxYtkV~oZaQNyn#bIS#"
+  },
+  {
+    "id": "https://vnexpress.net/tim-lai-can-bo-di-b-tra-lai-vang-5103824.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Tìm lại cán bộ đi B trả lại vàng",
+    "description": "Trung tâm Lưu trữ quốc gia III đang tìm lại chủ nhân để trao trả hiện vật vàng, sổ tiết kiệm của nhiều cán bộ gửi lại miền Bắc trước ngày lên đường đi B.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/31/wm1-wm1-huy-1785490139-9690-1785491404.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=q2JZWIY5_MMDF_NI4dH6Aw",
+    "link": "https://vnexpress.net/tim-lai-can-bo-di-b-tra-lai-vang-5103824.html",
+    "published_at": "Sat, 01 Aug 2026 00:00:00 +0700",
+    "createAt": "2026-07-31T17:00:00.000Z",
+    "thumbnail_blurhash": "LIGuRM~X.m^+IBDi9FNHt7$*WAxu"
+  },
+  {
+    "id": "https://vnexpress.net/phuong-co-thu-bat-goc-de-hong-nha-xe-dai-hoc-5104018.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Phượng cổ thụ bật gốc, đè hỏng nhà xe đại học",
+    "description": "Cây phượng cao khoảng 8 m trên vỉa hè đường Lê Duẩn bật gốc, đổ vào khuôn viên Đại học Tây Nguyên, làm hư hỏng nhà xe và tường rào, sáng 1/8.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/01/z8104011961621eddbef065f0a467a-1923-8912-1785555183.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=JPLjkNOuXM4x_1kFhN4YEQ",
+    "link": "https://vnexpress.net/phuong-co-thu-bat-goc-de-hong-nha-xe-dai-hoc-5104018.html",
+    "published_at": "Sat, 01 Aug 2026 10:52:13 +0700",
+    "createAt": "2026-08-01T03:52:13.000Z",
+    "thumbnail_blurhash": "L7D9^oils??a0exZD+o^~pNZWG%L"
   }
 ]
