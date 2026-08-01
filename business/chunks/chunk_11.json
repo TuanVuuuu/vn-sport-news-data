@@ -791,5 +791,31 @@
     "published_at": "Sat, 01 Aug 2026 09:00:00 +0700",
     "createAt": "2026-08-01T02:00:00.000Z",
     "thumbnail_blurhash": "LBHe;2iu4TOx.8o~ROM_=TS,kZ$b"
+  },
+  {
+    "id": "https://vnexpress.net/elon-musk-phu-nhan-tin-ban-chi-nhanh-tesla-tai-trung-quoc-5104054.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Elon Musk phủ nhận tin bán chi nhánh Tesla tại Trung Quốc",
+    "description": "Người giàu nhất thế giới bác tin đồn Tesla đang chuẩn bị kế hoạch tách mảng kinh doanh tại Trung Quốc để sáp nhập với SpaceX.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/08/01/2026t030655z-rc2q8lampbpn-rtrm-4619-4010-1785558346.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=VNQ06FyAtdldROFgm3sH7Q",
+    "link": "https://vnexpress.net/elon-musk-phu-nhan-tin-ban-chi-nhanh-tesla-tai-trung-quoc-5104054.html",
+    "published_at": "Sat, 01 Aug 2026 11:40:03 +0700",
+    "createAt": "2026-08-01T04:40:03.000Z",
+    "thumbnail_blurhash": "LdF}_^NLtR%M~VS5ShkCoJofS4Rk"
+  },
+  {
+    "id": "https://vnexpress.net/sun-group-ra-mat-doanh-nghiep-dich-vu-mat-dat-tai-phu-quoc-5104052.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Sun Group ra mắt doanh nghiệp dịch vụ mặt đất tại Phú Quốc",
+    "description": "Sun Group đưa Công ty TNHH Dịch vụ Mặt đất Sân bay Phú Quốc (Sun PhuQuoc Ground Services - SGP) vào hoạt động, đảm nhiệm toàn bộ chuỗi dịch vụ mặt đất.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/08/01/Image-ExtractWord-0-Out-9465-1785561619.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=HZJFpEEZH0yX1sbYvxWsMw",
+    "link": "https://vnexpress.net/sun-group-ra-mat-doanh-nghiep-dich-vu-mat-dat-tai-phu-quoc-5104052.html",
+    "published_at": "Sat, 01 Aug 2026 12:30:00 +0700",
+    "createAt": "2026-08-01T05:30:00.000Z",
+    "thumbnail_blurhash": "L.M%=rRkS6xu.At5R-f,NLW?ngV@"
   }
 ]
