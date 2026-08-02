@@ -1,30 +1,3 @@
 {
-  "featured": [
-    {
-      "id": "https://vnexpress.net/ukraine-phong-hang-tram-uav-tap-kich-nha-may-loc-dau-san-bay-chien-luoc-nga-5104303.html",
-      "category_id": "featured",
-      "category_name": "Tin nổi bật",
-      "source": "VnExpress",
-      "title": "Ukraine phóng hàng trăm UAV tập kích nhà máy lọc dầu, sân bay chiến lược Nga",
-      "description": "Quân đội Ukraine thông báo đã tấn công một nhà máy lọc dầu và căn cứ không quân chiến lược ở tỉnh Saratov của Nga, gây ra hỏa hoạn.",
-      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/02/Settop-1785659126-4294-1785659638.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=Z8BdVtXP8TLFvIjHxHjTuw",
-      "link": "https://vnexpress.net/ukraine-phong-hang-tram-uav-tap-kich-nha-may-loc-dau-san-bay-chien-luoc-nga-5104303.html",
-      "published_at": "Sun, 02 Aug 2026 15:56:22 +0700",
-      "createAt": "2026-08-02T08:56:22.000Z",
-      "thumbnail_blurhash": "LUE:MZ?a-;%fX=x[%f%Mo_%fxuSh"
-    },
-    {
-      "id": "https://vnexpress.net/hlv-kim-sang-sik-hop-bao-truoc-tran-gap-indonesia-o-asean-cup-2026-5104318.html",
-      "category_id": "featured",
-      "category_name": "Tin nổi bật",
-      "source": "VnExpress",
-      "title": "HLV Kim Sang-sik họp báo trước trận gặp Indonesia ở ASEAN Cup 2026",
-      "description": "HLV Kim Sang-sik đưa ra những đánh giá ở họp báo chiều nay, trước chuyến làm khách gặp Indonesia ở lượt bốn bảng A ASEAN Cup 2026.",
-      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/08/02/dong1335-jpg-1785662117-1504-1785662158.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=xX7XzL0UNCr7NighO3THdw",
-      "link": "https://vnexpress.net/hlv-kim-sang-sik-hop-bao-truoc-tran-gap-indonesia-o-asean-cup-2026-5104318.html",
-      "published_at": "Sun, 02 Aug 2026 16:16:28 +0700",
-      "createAt": "2026-08-02T09:16:28.000Z",
-      "thumbnail_blurhash": "LQJj}IQ,%$t7~VxBIUxs0eNMxZM|"
-    }
-  ]
+  "featured": []
 }
