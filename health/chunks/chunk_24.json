@@ -843,5 +843,44 @@
     "published_at": "Sun, 02 Aug 2026 20:09:57 +0700",
     "createAt": "2026-08-02T13:09:57.000Z",
     "thumbnail_blurhash": "LYH_rP_1JEt8~S%MxWjEXWt9V]R:"
+  },
+  {
+    "id": "https://vnexpress.net/bac-si-goi-y-thuc-don-voi-canh-rau-it-calo-giam-mo-hieu-qua-5104266.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Bác sĩ gợi ý thực đơn với canh rau ít calo, giảm mỡ hiệu quả",
+    "description": "Bác sĩ Phan Thái Tân, huấn luyện viên giảm cân, gợi ý thực đơn với canh rau dễ làm, ít calo giảm mỡ hiệu quả, thanh lọc cơ thể.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/02/494006103-n-1785641857-5190-1785641914.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=fx9gfjpXpl-oHrkMKTcniQ",
+    "link": "https://vnexpress.net/bac-si-goi-y-thuc-don-voi-canh-rau-it-calo-giam-mo-hieu-qua-5104266.html",
+    "published_at": "Mon, 03 Aug 2026 00:03:00 +0700",
+    "createAt": "2026-08-02T17:03:00.000Z",
+    "thumbnail_blurhash": "LGG[7k~W+P=xt*%KnTMhwJRiMynT"
+  },
+  {
+    "id": "https://vnexpress.net/dieu-gi-xay-ra-voi-lan-da-khi-uong-ca-phe-thuong-xuyen-5104141.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Điều gì xảy ra với làn da khi uống cà phê thường xuyên?",
+    "description": "Cà phê giàu chất chống oxy hóa có lợi cho sức khỏe, nhưng uống quá nhiều hoặc thêm nhiều đường có thể gián tiếp ảnh hưởng làn da.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/01/cafe3-1785580096-5627-1785580130.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=NE8w9Ao3OIzR1BJCEV4dFQ",
+    "link": "https://vnexpress.net/dieu-gi-xay-ra-voi-lan-da-khi-uong-ca-phe-thuong-xuyen-5104141.html",
+    "published_at": "Mon, 03 Aug 2026 00:04:00 +0700",
+    "createAt": "2026-08-02T17:04:00.000Z",
+    "thumbnail_blurhash": "LQKB8d~WNy?GIoxuM_%Lxus+MxRj"
+  },
+  {
+    "id": "https://vnexpress.net/5-thoi-quen-an-uong-giup-nguoi-nhat-duy-tri-voc-dang-5102950.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "5 thói quen ăn uống giúp người Nhật duy trì vóc dáng",
+    "description": "Thói quen ăn no khoảng 80%, ưu tiên thực phẩm nguyên chất, nhiều rau, cá và ít đồ ăn vặt góp phần giúp người Nhật duy trì cân nặng, sức khỏe lâu dài.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/29/khoai-lang-nhat-1785310089-8777-1785310214.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=fQrLFQJQLDMw7N-Xvccozg",
+    "link": "https://vnexpress.net/5-thoi-quen-an-uong-giup-nguoi-nhat-duy-tri-voc-dang-5102950.html",
+    "published_at": "Mon, 03 Aug 2026 00:04:00 +0700",
+    "createAt": "2026-08-02T17:04:00.000Z",
+    "thumbnail_blurhash": "LLHw77$+5F=^}ut5NHNHEBX3xmIp"
   }
 ]
