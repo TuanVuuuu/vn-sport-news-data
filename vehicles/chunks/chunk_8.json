@@ -609,5 +609,31 @@
     "published_at": "Sun, 02 Aug 2026 05:00:00 +0700",
     "createAt": "2026-08-01T22:00:00.000Z",
     "thumbnail_blurhash": "LXD]h;Mx%1oL_NM_Rjaz.8RjNGof"
+  },
+  {
+    "id": "https://vnexpress.net/tai-xe-xe-co-nho-va-xe-the-thao-co-nguy-co-tu-vong-cao-5103611.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Tài xế xe cỡ nhỏ và xe thể thao có nguy cơ tử vong cao",
+    "description": "Báo cáo mới cho thấy tài xế xe nhỏ và xe thể thao có nguy cơ tử vong cao, trong khi bán tải cỡ lớn gây nguy hiểm cho người khác.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/31/KiaRio-1785469138-7132-1785469288.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=gTKlo_5YoyMBhLWg5sUtfQ",
+    "link": "https://vnexpress.net/tai-xe-xe-co-nho-va-xe-the-thao-co-nguy-co-tu-vong-cao-5103611.html",
+    "published_at": "Sun, 02 Aug 2026 06:00:00 +0700",
+    "createAt": "2026-08-01T23:00:00.000Z",
+    "thumbnail_blurhash": "LMF#~*xu=;ax=@t6jEoc~0xsNgs+"
+  },
+  {
+    "id": "https://vnexpress.net/banh-xe-vang-tren-duong-cao-toc-dap-vo-dau-oto-dang-chay-5103756.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Bánh xe văng trên đường cao tốc đập vỡ đầu ôtô đang chạy",
+    "description": "Chiếc bánh xe cỡ lớn văng qua dải phân cách và đập thẳng vào chiếc Nissan Rogue đang chạy ở làn 1.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/31/ezgif392caa205a930f46-17854831-6248-9028-1785497013.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=WD8q0R1yKL6jT-cdjvUDgw&t=image",
+    "link": "https://vnexpress.net/banh-xe-vang-tren-duong-cao-toc-dap-vo-dau-oto-dang-chay-5103756.html",
+    "published_at": "Sun, 02 Aug 2026 07:00:00 +0700",
+    "createAt": "2026-08-02T00:00:00.000Z",
+    "thumbnail_blurhash": "LHDS].~q-:-;b]IpWXxv%L-;%Na#"
   }
 ]
