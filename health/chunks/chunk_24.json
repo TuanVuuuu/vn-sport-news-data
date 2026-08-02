@@ -791,5 +791,31 @@
     "published_at": "Sun, 02 Aug 2026 14:14:14 +0700",
     "createAt": "2026-08-02T07:14:14.000Z",
     "thumbnail_blurhash": "LOFO_p8^s:^kDg~qs8Q-%#VrxZWW"
+  },
+  {
+    "id": "https://vnexpress.net/sau-khi-dot-het-sui-mao-ga-co-can-tai-kham-tiem-vaccine-khong-5104044.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Sau khi đốt hết sùi mào gà có cần tái khám, tiêm vaccine không?",
+    "description": "Tôi đốt nốt sùi mào gà ở bệnh viện, các tổn thương đã khô, không còn thấy đau. Tôi có cần tái khám và tiêm vaccine HPV không? (Minh Đạt, An Giang)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/01/vnvc-tiem-vac-xin-hpv-phong-be-4313-7887-1785556818.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ql6LtK3kZCJgjX2Xr21XRA",
+    "link": "https://vnexpress.net/sau-khi-dot-het-sui-mao-ga-co-can-tai-kham-tiem-vaccine-khong-5104044.html",
+    "published_at": "Sun, 02 Aug 2026 15:00:00 +0700",
+    "createAt": "2026-08-02T08:00:00.000Z",
+    "thumbnail_blurhash": "LQL4pd9Dx_xw.TE5RPoeOrx^slV?"
+  },
+  {
+    "id": "https://vnexpress.net/quang-cao-laser-tre-hoa-than-toc-la-thoi-phong-5104302.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Quảng cáo laser trẻ hóa 'thần tốc' là thổi phồng",
+    "description": "Nhiều cơ sở quảng cáo laser có thể trẻ hóa tức thì, thậm chí \"trẻ ra 10 tuổi\", nhưng chuyên gia cho rằng đây là thông tin thổi phồng, dễ khiến người làm đẹp kỳ vọng sai và tốn kém không cần thiết.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/02/laser-1785654844-7141-1785654885.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=fAlHmfpw5vY-LKaLagYM3w",
+    "link": "https://vnexpress.net/quang-cao-laser-tre-hoa-than-toc-la-thoi-phong-5104302.html",
+    "published_at": "Sun, 02 Aug 2026 16:00:00 +0700",
+    "createAt": "2026-08-02T09:00:00.000Z",
+    "thumbnail_blurhash": "LLJ*xW4;XU?wT18_W?o$%fxWV?jD"
   }
 ]
