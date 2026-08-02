@@ -765,5 +765,31 @@
     "published_at": "Mon, 03 Aug 2026 05:00:00 +0700",
     "createAt": "2026-08-02T22:00:00.000Z",
     "thumbnail_blurhash": "L59tS~-nVBtR~ps*RPt7m%IUJGae"
+  },
+  {
+    "id": "https://vnexpress.net/mo-hinh-ai-gian-lan-phan-boi-de-ban-hang-trong-thu-nghiem-5103898.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Mô hình AI gian lận, phản bội để bán hàng trong thử nghiệm",
+    "description": "Trong bài kiểm tra vận hành máy bán hàng tự động, các mô hình AI tiên tiến lập liên minh ấn định giá, nhưng sau đó phản bội nhau để kiếm tiền.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/31/lq025371-1785499004-6486-1785499746.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ZUiToaZOCnorglfTVwRe2w",
+    "link": "https://vnexpress.net/mo-hinh-ai-gian-lan-phan-boi-de-ban-hang-trong-thu-nghiem-5103898.html",
+    "published_at": "Mon, 03 Aug 2026 05:00:00 +0700",
+    "createAt": "2026-08-02T22:00:00.000Z",
+    "thumbnail_blurhash": "L8G8[%|D00^*0M104.R60fR,-p%L"
+  },
+  {
+    "id": "https://vnexpress.net/vo-ban-tru-vi-qua-tai-hoc-sinh-5102175.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "'Vỡ' bán trú vì quá tải học sinh",
+    "description": "Nhiều trường học 'vỡ' bán trú vì quá tải học sinh lớp 1, 6, phải rút xuống dạy một buổi mỗi ngày, trong khi phụ huynh cũng khó khăn đưa đón, dạy dỗ con.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/02/wm1-wm1-khaigiang-1785490184-1580-1785682947.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=oTcsVMCPyQpMqM6_zhn32A",
+    "link": "https://vnexpress.net/vo-ban-tru-vi-qua-tai-hoc-sinh-5102175.html",
+    "published_at": "Mon, 03 Aug 2026 05:05:00 +0700",
+    "createAt": "2026-08-02T22:05:00.000Z",
+    "thumbnail_blurhash": "L2Du*[~BIo}@D*Jo$frW4T~W.9?G"
   }
 ]
