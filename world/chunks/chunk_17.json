@@ -154,5 +154,31 @@
     "published_at": "Sun, 02 Aug 2026 11:55:11 +0700",
     "createAt": "2026-08-02T04:55:11.000Z",
     "thumbnail_blurhash": "LIG8WOK#o~i{ugs=adR%5UNL%1s9"
+  },
+  {
+    "id": "https://vnexpress.net/bang-my-dau-dau-vi-khoi-tai-san-75-ty-usd-tu-dau-mo-5103580.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Bang Mỹ đau đầu vì khối tài sản 75 tỷ USD từ dầu mỏ",
+    "description": "Thu 75 tỷ USD từ dầu mỏ, giới chức New Mexico phải đau đầu lựa chọn giữa lập quỹ tương lai hay chi tiêu ngay lập tức.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/31/ap26210523301164-1785483642-3965-1785486797.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=NjOOglP9rVmbandA5lmRqw",
+    "link": "https://vnexpress.net/bang-my-dau-dau-vi-khoi-tai-san-75-ty-usd-tu-dau-mo-5103580.html",
+    "published_at": "Sun, 02 Aug 2026 01:00:00 +0700",
+    "createAt": "2026-08-01T18:00:00.000Z",
+    "thumbnail_blurhash": "LIEL]A~9%0R+u6kXRkf60OJCRkof"
+  },
+  {
+    "id": "https://vnexpress.net/ukraine-phong-hang-tram-uav-tap-kich-nha-may-loc-dau-san-bay-chien-luoc-nga-5104303.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Ukraine phóng hàng trăm UAV tập kích nhà máy lọc dầu, sân bay chiến lược Nga",
+    "description": "Quân đội Ukraine thông báo đã tấn công một nhà máy lọc dầu và căn cứ không quân chiến lược ở tỉnh Saratov của Nga, gây ra hỏa hoạn.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/02/Settop-1785659126-4294-1785659638.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=Z8BdVtXP8TLFvIjHxHjTuw",
+    "link": "https://vnexpress.net/ukraine-phong-hang-tram-uav-tap-kich-nha-may-loc-dau-san-bay-chien-luoc-nga-5104303.html",
+    "published_at": "Sun, 02 Aug 2026 15:56:22 +0700",
+    "createAt": "2026-08-02T08:56:22.000Z",
+    "thumbnail_blurhash": "LVE:MZ?a%g%fX=x[%Mx]ox%fxuSh"
   }
 ]
