@@ -193,5 +193,44 @@
     "published_at": "Sun, 02 Aug 2026 17:32:21 +0700",
     "createAt": "2026-08-02T10:32:21.000Z",
     "thumbnail_blurhash": "LGDdh*?w4pE3SCo$E2Ipnft7VWM{"
+  },
+  {
+    "id": "https://vnexpress.net/nga-tuyen-bo-vu-danh-bom-nha-hang-o-moskva-la-khung-bo-5104227.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Nga tuyên bố vụ đánh bom nhà hàng ở Moskva là khủng bố",
+    "description": "Giới chức Nga xác định vụ nổ bom tự chế tại nhà hàng ở Moskva, khiến ba người thiệt mạng và 21 người bị thương là hành động khủng bố.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/02/1482375-1785673724-1618-1785673733.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=oWQpYfyWrADZDSTVZCLuTA",
+    "link": "https://vnexpress.net/nga-tuyen-bo-vu-danh-bom-nha-hang-o-moskva-la-khung-bo-5104227.html",
+    "published_at": "Sun, 02 Aug 2026 08:47:00 +0700",
+    "createAt": "2026-08-02T01:47:00.000Z",
+    "thumbnail_blurhash": "L5ASxs^O}s}U00Fa5.0L]$#k#l~W"
+  },
+  {
+    "id": "https://vnexpress.net/thong-diep-trai-nguoc-tu-hai-dong-minh-voi-ong-trump-trong-chien-su-iran-5103985.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Thông điệp trái ngược từ hai đồng minh với ông Trump trong chiến sự Iran",
+    "description": "Arab Saudi và Israel mang đến Nhà Trắng hai thông điệp trái ngược về chiến sự Iran, buộc Tổng thống Trump phải lựa chọn giữa hạ nhiệt hay leo thang.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/01/ap26212586125106-1785548435-7267-1785558953.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=h2WHzNlebFTK8dOPs4pK4A",
+    "link": "https://vnexpress.net/thong-diep-trai-nguoc-tu-hai-dong-minh-voi-ong-trump-trong-chien-su-iran-5103985.html",
+    "published_at": "Sun, 02 Aug 2026 19:00:00 +0700",
+    "createAt": "2026-08-02T12:00:00.000Z",
+    "thumbnail_blurhash": "LGDIF0-B56=|}koM9|M{X6aen4WC"
+  },
+  {
+    "id": "https://vnexpress.net/iran-mia-mai-ong-trump-vi-tuyen-bo-huy-cuoc-tan-cong-lon-chua-tung-thay-5104336.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Iran mỉa mai ông Trump vì tuyên bố 'hủy cuộc tấn công lớn chưa từng thấy'",
+    "description": "Truyền thông Iran phủ nhận phát biểu của ông Trump rằng Tehran đề nghị Washington ngừng không kích, nhấn mạnh Mỹ đã \"một lần nữa rút lui\".",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/02/afp-c3qb776-v2-highres-uspolit-3262-6446-1785670610.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ZhOoCwL64KE30BPmS1kOUg",
+    "link": "https://vnexpress.net/iran-mia-mai-ong-trump-vi-tuyen-bo-huy-cuoc-tan-cong-lon-chua-tung-thay-5104336.html",
+    "published_at": "Sun, 02 Aug 2026 19:13:57 +0700",
+    "createAt": "2026-08-02T12:13:57.000Z",
+    "thumbnail_blurhash": "LG9aHgD~4-_4-fo#I[nMouoxafWW"
   }
 ]
