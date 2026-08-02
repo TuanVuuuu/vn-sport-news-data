@@ -778,5 +778,57 @@
     "published_at": "Sun, 02 Aug 2026 13:11:10 +0700",
     "createAt": "2026-08-02T06:11:10.000Z",
     "thumbnail_blurhash": "LHB|d9xa0Me?ysSg9IR,56ofw4Rk"
+  },
+  {
+    "id": "https://vnexpress.net/may-bay-cho-khach-du-lich-roi-13-nguoi-chet-5104268.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Máy bay chở khách du lịch rơi, 13 người chết",
+    "description": "Chiếc Cessna Caravan C-208 chở 11 du khách quốc tế cùng hai phi công bốc cháy sau khi rơi xuống vùng sa mạc Nazca, khiến toàn bộ người trên máy bay thiệt mạng.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/08/02/rnashzwojy9kotxvmjtcxkvvtg1wwh-3840-2617-1785642445.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=bkze7NFzUGXONd54rV13Vg",
+    "link": "https://vnexpress.net/may-bay-cho-khach-du-lich-roi-13-nguoi-chet-5104268.html",
+    "published_at": "Sun, 02 Aug 2026 11:47:00 +0700",
+    "createAt": "2026-08-02T04:47:00.000Z",
+    "thumbnail_blurhash": "L2Byme_302~B~W%MR+-o00Mcadg3"
+  },
+  {
+    "id": "https://vnexpress.net/he-thong-camera-giam-sat-tren-taxi-trung-quoc-hoat-dong-the-nao-5104287.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Hệ thống camera giám sát trên taxi Trung Quốc hoạt động thế nào",
+    "description": "Không chỉ ghi hình trong xe, hệ thống camera giám sát xe dịch vụ tại một số nơi ở Trung Quốc còn kết nối GPS, nhận diện tài xế và gửi dữ liệu về trung tâm quản lý.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/02/thumb200000-1785648558-7994-1785648643.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=vHQJeZNXeoHcpERsCbxDRQ",
+    "link": "https://vnexpress.net/he-thong-camera-giam-sat-tren-taxi-trung-quoc-hoat-dong-the-nao-5104287.html",
+    "published_at": "Sun, 02 Aug 2026 13:11:10 +0700",
+    "createAt": "2026-08-02T06:11:10.000Z",
+    "thumbnail_blurhash": "LIC6}wxa0MaiysSg9bR+57ofw4R*"
+  },
+  {
+    "id": "https://vnexpress.net/giao-vien-truong-tu-dong-loat-bo-day-vi-luong-khong-du-song-5104290.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Giáo viên trường tư đồng loạt bỏ dạy vì 'lương không đủ sống'",
+    "description": "Hơn 50 giáo viên trường Mầm non Quốc tế Nguyễn Du Plus bất ngờ bỏ dạy do vướng mắc về lương, khiến phụ huynh bị động.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/02/truong-nguyen-du-plus-17856501-1481-6403-1785651377.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=cxfjCi0C1UL9mTqYoLlRBA",
+    "link": "https://vnexpress.net/giao-vien-truong-tu-dong-loat-bo-day-vi-luong-khong-du-song-5104290.html",
+    "published_at": "Sun, 02 Aug 2026 14:08:50 +0700",
+    "createAt": "2026-08-02T07:08:50.000Z",
+    "thumbnail_blurhash": "LvGvIsWAWAaz.Tjsaxj[yEt7oeof"
+  },
+  {
+    "id": "https://vnexpress.net/ban-nhac-ham-doi-7-my-bieu-dien-ca-khuc-viet-nam-oi-5104279.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Ban nhạc Hạm đội 7 Mỹ biểu diễn ca khúc 'Việt Nam ơi'",
+    "description": "Hàng trăm người dân và du khách đội mưa theo dõi ban nhạc Hạm đội 7 Hải quân Mỹ biểu diễn tại cầu Rồng tối 1/8, nhân chuyến thăm của tàu sân bay USS George Washington.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/02/sequence0400000000still001-178-8190-7024-1785655021.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Sz_pHZUHRgFVzcNpGTfttg",
+    "link": "https://vnexpress.net/ban-nhac-ham-doi-7-my-bieu-dien-ca-khuc-viet-nam-oi-5104279.html",
+    "published_at": "Sun, 02 Aug 2026 14:20:41 +0700",
+    "createAt": "2026-08-02T07:20:41.000Z",
+    "thumbnail_blurhash": "LEHBk^~VNGyZRpE4t7jEtlE4fmbH"
   }
 ]

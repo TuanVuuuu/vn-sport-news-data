@@ -1,28 +1,6 @@
 {
   "entries": [
     {
-      "sent_at": "2026-07-29T05:31:18.824Z",
-      "topic": null,
-      "device_id": "A11EB203-9671-4F19-AEE7-2B068733177A",
-      "slot": "noon",
-      "type": "featured_digest",
-      "article_ids": [
-        "https://vnexpress.net/18-nam-song-kho-trong-ron-ngap-giua-thu-do-5102679.html",
-        "https://vnexpress.net/nhieu-nha-thau-du-an-san-bay-long-thanh-se-bi-dieu-tra-5102747.html",
-        "https://vnexpress.net/trung-quoc-san-xuat-may-quang-khac-duv-5102668.html",
-        "https://vnexpress.net/ifab-var-xu-ly-sai-trong-tran-argentina-thang-thuy-si-5102739.html",
-        "https://vnexpress.net/hien-trang-hai-khu-dat-vang-du-kien-thanh-toan-doi-ung-cau-can-gio-5102516.html",
-        "https://vnexpress.net/thu-nhap-tang-nhung-nhieu-nguoi-chua-thay-muc-song-cai-thien-5100964.html",
-        "https://vnexpress.net/viet-nam-se-phat-trien-tap-doan-kinh-te-bien-quy-mo-lon-5102774.html",
-        "https://vnexpress.net/my-arab-saudi-tap-kich-dan-quan-than-iran-tai-iraq-5102759.html",
-        "https://vnexpress.net/gia-vang-lui-ve-140-trieu-dong-5102804.html",
-        "https://vnexpress.net/it-nhat-13-nguoi-da-chet-vi-dong-dat-7-1-do-o-nhat-ban-5102821.html",
-        "https://vnexpress.net/nghien-cuu-khu-kinh-te-dac-biet-va-mo-hinh-xa-hat-nhan-5102794.html",
-        "https://vnexpress.net/dai-tuong-luong-tam-quang-khong-de-xa-hoi-giau-vat-chat-ngheo-van-hoa-5102813.html"
-      ],
-      "highlight_id": "https://vnexpress.net/dai-tuong-luong-tam-quang-khong-de-xa-hoi-giau-vat-chat-ngheo-van-hoa-5102813.html"
-    },
-    {
       "sent_at": "2026-07-29T05:31:19.086Z",
       "topic": null,
       "device_id": "900F95DF-6125-4744-BF3A-03080BB0D09F",
@@ -14962,6 +14940,30 @@
         "https://vnexpress.net/chay-rung-hoanh-hanh-o-chau-au-gan-nua-trieu-hecta-bi-thieu-rui-5104184.html"
       ],
       "highlight_id": "https://vnexpress.net/chay-rung-hoanh-hanh-o-chau-au-gan-nua-trieu-hecta-bi-thieu-rui-5104184.html"
+    },
+    {
+      "sent_at": "2026-08-02T08:40:43.173Z",
+      "topic": null,
+      "device_id": "8ecd7d1d5d44b203",
+      "slot": "noon",
+      "type": "featured_digest",
+      "article_ids": [
+        "https://vnexpress.net/ba-tre-tu-vong-do-lu-cuon-o-son-la-5104267.html",
+        "https://vnexpress.net/no-do-ro-ri-khi-gas-o-tp-hcm-hai-nguoi-bi-thuong-5104274.html",
+        "https://vnexpress.net/go-cua-giao-su-chang-trai-gianh-hoc-bong-tien-si-gan-8-ty-dong-5095006.html",
+        "https://vnexpress.net/gianh-suat-hoc-tien-si-gan-8-ty-dong-nho-go-cua-giao-su-5095006.html",
+        "https://vnexpress.net/truc-thang-cho-khach-du-lich-roi-13-nguoi-chet-5104268.html",
+        "https://vnexpress.net/may-bay-cho-khach-du-lich-roi-13-nguoi-chet-5104268.html",
+        "https://vnexpress.net/thu-tuong-thai-lan-xin-loi-nguoi-dan-nga-vi-vu-hai-du-khach-bi-sat-hai-5104263.html",
+        "https://vnexpress.net/6-du-an-giao-thong-lon-vua-duoc-khoi-cong-o-tp-hcm-5103433.html",
+        "https://vnexpress.net/de-xuat-bhyt-chi-tra-kham-benh-tai-nha-cho-7-nhom-nguoi-5104271.html",
+        "https://vnexpress.net/khach-thao-chay-khoi-vu-xa-sung-tai-nha-hang-my-5104293.html",
+        "https://vnexpress.net/ben-trong-he-thong-camera-giam-sat-tren-taxi-trung-quoc-5104287.html",
+        "https://vnexpress.net/he-thong-camera-giam-sat-tren-taxi-trung-quoc-hoat-dong-the-nao-5104287.html",
+        "https://vnexpress.net/giao-vien-truong-tu-dong-loat-bo-day-vi-luong-khong-du-song-5104290.html",
+        "https://vnexpress.net/ban-nhac-ham-doi-7-my-bieu-dien-ca-khuc-viet-nam-oi-5104279.html"
+      ],
+      "highlight_id": "https://vnexpress.net/ban-nhac-ham-doi-7-my-bieu-dien-ca-khuc-viet-nam-oi-5104279.html"
     }
   ]
 }
