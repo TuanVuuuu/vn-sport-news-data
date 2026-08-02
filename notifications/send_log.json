@@ -1,39 +1,6 @@
 {
   "entries": [
     {
-      "sent_at": "2026-07-29T11:31:14.443Z",
-      "topic": null,
-      "device_id": "B3D4B7F7-C2A7-4E7A-A92F-53B6A2B611D0",
-      "slot": "evening",
-      "type": "featured_digest",
-      "article_ids": [
-        "https://vnexpress.net/thuong-tien-khuyen-sinh-va-bai-toan-nguoi-tre-ngai-de-5101222.html",
-        "https://vnexpress.net/it-nhat-13-nguoi-da-thiet-mang-vi-dong-dat-7-1-do-o-nhat-ban-5102821.html",
-        "https://vnexpress.net/my-cam-nhap-khau-robot-hinh-nguoi-moi-tu-trung-quoc-5102820.html",
-        "https://vnexpress.net/vi-sao-amanoi-muon-chi-800-ty-dong-chi-de-xay-10-can-phong-resort-tai-viet-nam-5102146.html",
-        "https://vnexpress.net/iran-tuyen-bo-danh-trung-loat-tau-dau-o-eo-bien-hormuz-5102811.html",
-        "https://vnexpress.net/vks-khong-the-chap-nhan-quan-diem-tien-doanh-nghiep-dua-la-qua-cam-on-5102848.html",
-        "https://vnexpress.net/viet-nam-lan-dau-ghep-bo-phan-sinh-duc-nam-tu-nguoi-hien-chet-nao-5102822.html",
-        "https://vnexpress.net/nghien-cuu-lo-trinh-ap-thue-cao-hon-voi-dat-bo-hoang-5102834.html",
-        "https://vnexpress.net/nghiem-cam-loi-dung-sap-xep-bo-may-de-cai-cam-nguoi-than-tin-5102842.html",
-        "https://vnexpress.net/viet-nam-xac-dinh-doi-thu-o-fifa-asean-cup-2026-5102900.html",
-        "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-loai-bo-tu-tuong-thuan-can-bo-kho-nhan-dan-5102867.html",
-        "https://vnexpress.net/viet-nam-can-mot-he-sinh-thai-du-kien-nhan-voi-cong-nghe-sau-5102756.html",
-        "https://vnexpress.net/manh-vai-du-ghi-but-tich-tim-thay-trong-mo-liet-si-5102896.html",
-        "https://vnexpress.net/oto-cho-40-khach-chay-tren-duong-ven-bien-nha-trang-5102894.html",
-        "https://vnexpress.net/hien-truong-do-nat-sau-tran-dong-dat-o-nhat-ban-nhin-tu-tren-cao-5102908.html",
-        "https://vnexpress.net/hai-anh-chan-dung-trong-mo-liet-si-chua-biet-ten-5102892.html",
-        "https://vnexpress.net/ngan-sach-se-chi-it-nhat-2-moi-nam-cho-bao-ve-moi-truong-5102909.html",
-        "https://vnexpress.net/thong-nhat-lo-trinh-khai-thac-san-bay-long-thanh-theo-ba-giai-doan-5102790.html",
-        "https://vnexpress.net/apple-cho-thue-iphone-5102913.html",
-        "https://vnexpress.net/thao-do-lo-cot-trong-kinh-thanh-hue-5102984.html",
-        "https://vnexpress.net/nga-phat-lenh-truy-na-quoc-te-voi-ong-chu-telegram-5102992.html",
-        "https://vnexpress.net/can-ho-chung-cu-xay-moi-se-co-thoi-han-su-dung-5102974.html",
-        "https://vnexpress.net/vn-index-tang-manh-nhat-mot-thang-5103025.html"
-      ],
-      "highlight_id": "https://vnexpress.net/vn-index-tang-manh-nhat-mot-thang-5103025.html"
-    },
-    {
       "sent_at": "2026-07-29T11:31:14.609Z",
       "topic": null,
       "device_id": "CA5CB6C0-86C9-4280-AF90-C97FC0C407BD",
@@ -14343,6 +14310,21 @@
         "https://vnexpress.net/hlv-kim-sang-sik-quyet-thang-indonesia-5104318.html"
       ],
       "highlight_id": "https://vnexpress.net/hlv-kim-sang-sik-quyet-thang-indonesia-5104318.html"
+    },
+    {
+      "sent_at": "2026-08-02T11:50:51.416Z",
+      "topic": null,
+      "device_id": "865D871A-5B0C-4044-A708-9A4065520841",
+      "slot": "evening",
+      "type": "featured_digest",
+      "article_ids": [
+        "https://vnexpress.net/hlv-kim-quang-hai-da-cap-voi-hoang-duc-o-tuyen-giua-la-diem-yeu-5104318.html",
+        "https://vnexpress.net/mien-bac-mua-suot-tuan-toi-5104316.html",
+        "https://vnexpress.net/nu-tai-xe-lui-xe-tren-cao-toc-vinh-hao-phan-thiet-5104321.html",
+        "https://vnexpress.net/patrik-le-giang-moi-doi-thu-deu-nhu-nhau-ke-ca-indonesia-5104335.html",
+        "https://vnexpress.net/doi-tuyen-viet-nam-lam-quen-san-dau-indonesia-5104337.html"
+      ],
+      "highlight_id": "https://vnexpress.net/doi-tuyen-viet-nam-lam-quen-san-dau-indonesia-5104337.html"
     }
   ]
 }
