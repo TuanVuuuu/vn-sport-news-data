@@ -726,5 +726,44 @@
     "published_at": "Mon, 03 Aug 2026 08:40:44 +0700",
     "createAt": "2026-08-03T01:40:44.000Z",
     "thumbnail_blurhash": "LaDRqussEKWZo,jFalkE9?W*xcoP"
+  },
+  {
+    "id": "https://vnexpress.net/nguoi-di-xe-may-suyt-bo-mang-vi-mat-tap-trung-5104441.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Người đi xe máy suýt bỏ mạng vì mất tập trung",
+    "description": "Chở trẻ nhỏ ở phía trước, người đi xe máy húc vào đuôi xe bán tải rồi ngã ra đường khi ôtô ở hướng ngược chiều đi tới.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/03/fd562b181a4f4a4a49e3930e573542-8315-3151-1785730358.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=q1yk5-r9Y5lzqrGEswy0Nw&t=image",
+    "link": "https://vnexpress.net/nguoi-di-xe-may-suyt-bo-mang-vi-mat-tap-trung-5104441.html",
+    "published_at": "Mon, 03 Aug 2026 11:13:51 +0700",
+    "createAt": "2026-08-03T04:13:51.000Z",
+    "thumbnail_blurhash": "LZE{nXRPD$ax.ARiROWB%iRijDax"
+  },
+  {
+    "id": "https://vnexpress.net/the-he-gen-y-dua-nhau-mua-minivan-du-tung-che-lac-hau-5104405.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Thế hệ gen Y đua nhau mua minivan dù từng chê lạc hậu",
+    "description": "Từng coi minivan là biểu tượng của sự tẻ nhạt, thế hệ Millennials nay đua nhau mua dòng xe này nhờ tính tiện dụng và giá thành hợp lý.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/03/ToyotaSienna1-1785726137-3110-1785726696.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=aNIekgCPsPmxm144ECurig",
+    "link": "https://vnexpress.net/the-he-gen-y-dua-nhau-mua-minivan-du-tung-che-lac-hau-5104405.html",
+    "published_at": "Mon, 03 Aug 2026 12:22:12 +0700",
+    "createAt": "2026-08-03T05:22:12.000Z",
+    "thumbnail_blurhash": "LFEfc:?^9FRO_N%NIUWU4nadxu-;"
+  },
+  {
+    "id": "https://vnexpress.net/honda-vario-125-ban-2027-gia-tu-42-69-trieu-dong-5104550.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Honda Vario 125 bản 2027 giá từ 42,69 triệu đồng",
+    "description": "Mẫu xe ga 125 phân khối phiên bản mới trang bị đông cơ đạt chuẩn khí thải Euro 4, thêm bản đường phố, giá cao nhất 43,69 triệu đồng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/03/HondaVario12520272-1785733013-9069-1785733072.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=WQRnlxZYyNQqCyigSVj43w",
+    "link": "https://vnexpress.net/honda-vario-125-ban-2027-gia-tu-42-69-trieu-dong-5104550.html",
+    "published_at": "Mon, 03 Aug 2026 12:35:00 +0700",
+    "createAt": "2026-08-03T05:35:00.000Z",
+    "thumbnail_blurhash": "L#O|X^t7~q%M-;ozayWB?bWBIUt7"
   }
 ]
