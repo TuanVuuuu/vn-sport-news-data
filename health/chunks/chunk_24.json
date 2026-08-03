@@ -1025,5 +1025,31 @@
     "published_at": "Mon, 03 Aug 2026 10:00:00 +0700",
     "createAt": "2026-08-03T03:00:00.000Z",
     "thumbnail_blurhash": "LQMHAT~p9y_2?axvI9%hDhRjR%%M"
+  },
+  {
+    "id": "https://vnexpress.net/chup-ct-phoi-lieu-thap-khac-x-quang-phoi-the-nao-5104459.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Chụp CT phổi liều thấp khác X-quang phổi thế nào",
+    "description": "CT phổi liều thấp được sử dụng trong tầm soát ung thư phổi, trong khi X-quang giúp chẩn đoán viêm phổi, tràn dịch màng phổi.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/03/image001-1785723644-9240-1785723717.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=21-Zii5eDsRsZNICVetcRA",
+    "link": "https://vnexpress.net/chup-ct-phoi-lieu-thap-khac-x-quang-phoi-the-nao-5104459.html",
+    "published_at": "Mon, 03 Aug 2026 10:00:00 +0700",
+    "createAt": "2026-08-03T03:00:00.000Z",
+    "thumbnail_blurhash": "LOO46p~poz-:_4%LWBxa%LogWBRQ"
+  },
+  {
+    "id": "https://vnexpress.net/bac-si-chi-ra-10-sai-lam-ban-dem-tan-pha-chuc-nang-than-5104451.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Bác sĩ chỉ ra 10 sai lầm ban đêm tàn phá chức năng thận",
+    "description": "Bác sĩ Trung Quốc cảnh báo 10 thói quen xấu trước khi đi ngủ gây hại thận, nghiêm trọng nhất là tự ý uống thuốc giảm đau NSAIDs.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/03/lu-o-t-dt-1785723930-4947-1785724027.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=S3Kn9MrpPUVKx-w7RdtS3g",
+    "link": "https://vnexpress.net/bac-si-chi-ra-10-sai-lam-ban-dem-tan-pha-chuc-nang-than-5104451.html",
+    "published_at": "Mon, 03 Aug 2026 10:14:22 +0700",
+    "createAt": "2026-08-03T03:14:22.000Z",
+    "thumbnail_blurhash": "L6A,OJIAM_%gpbs;xCo#~BS$xuw]"
   }
 ]
