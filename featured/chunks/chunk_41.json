@@ -921,5 +921,57 @@
     "published_at": "Mon, 03 Aug 2026 19:23:55 +0700",
     "createAt": "2026-08-03T12:23:55.000Z",
     "thumbnail_blurhash": "L9Jky2_MEg$*04M|E1xv00NZV=t8"
+  },
+  {
+    "id": "https://vnexpress.net/dang-sau-viec-my-giup-nhat-ban-cuu-dong-yen-5104756.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Đằng sau việc Mỹ giúp Nhật Bản cứu đồng yen",
+    "description": "Giới phân tích cho rằng khi mua yen, Mỹ có nhiều tính toán hơn là chỉ hỗ trợ vì \"tình hữu nghị\" như ông Trump tuyên bố.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/08/03/screenshot-1785749880-7491-1785749915.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=ogflw5krvDZ2-OJRyt_Hfg",
+    "link": "https://vnexpress.net/dang-sau-viec-my-giup-nhat-ban-cuu-dong-yen-5104756.html",
+    "published_at": "Tue, 04 Aug 2026 04:01:46 +0700",
+    "createAt": "2026-08-03T21:01:46.000Z",
+    "thumbnail_blurhash": "LOG9Hc?d?bs%~pNGx[xa?XfMRjoh"
+  },
+  {
+    "id": "https://vnexpress.net/nguoi-mua-nha-doi-mat-lai-vay-13-15-sau-uu-dai-5104630.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Người mua nhà đối mặt lãi vay 13-15% sau ưu đãi",
+    "description": "Lãi suất vay mua nhà sau ưu đãi phổ biến 13-15% một năm, tăng mạnh so với năm ngoái tạo áp lực lên thanh khoản trong bối cảnh giá bất động sản vẫn neo cao.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/03/dji-1785742651-8822-1785742698.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=rcV0evBwSrWhK5mWXp6iMQ",
+    "link": "https://vnexpress.net/nguoi-mua-nha-doi-mat-lai-vay-13-15-sau-uu-dai-5104630.html",
+    "published_at": "Tue, 04 Aug 2026 04:10:59 +0700",
+    "createAt": "2026-08-03T21:10:59.000Z",
+    "thumbnail_blurhash": "LTEfNPR%oLt8?wR-bHoe-:fkofWV"
+  },
+  {
+    "id": "https://vnexpress.net/hang-chuc-xe-may-chay-rui-o-tp-hcm-5104858.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Hàng chục xe máy cháy rụi ở TP HCM",
+    "description": "Lửa bùng lên tại khu vực tập kết xe máy cũ ở phường Dĩ An, lan nhanh khiến hàng chục phương tiện bị thiêu rụi, tối 3/8.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/04/2aOboQp2e5aGpCUxt336JqtZHGnk0p-6788-9647-1785791709.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=41FFVnN47mp_tP9QQPnAjw",
+    "link": "https://vnexpress.net/hang-chuc-xe-may-chay-rui-o-tp-hcm-5104858.html",
+    "published_at": "Tue, 04 Aug 2026 04:27:38 +0700",
+    "createAt": "2026-08-03T21:27:38.000Z",
+    "thumbnail_blurhash": "L9Ku4MtR01VE_%9]^*-o03=ZpbF3"
+  },
+  {
+    "id": "https://vnexpress.net/noi-am-anh-o-ceuta-sau-dong-thac-di-cu-5104414.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Nỗi ám ảnh ở Ceuta sau dòng thác di cư",
+    "description": "Hơn 60.000 người di cư đã rời Ceuta sau 5 ngày tràn vào thành phố, nhưng nỗi ám ảnh, chia rẽ và hệ lụy địa chính trị mà cuộc khủng hoảng để lại vẫn còn âm ỉ.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/03/2026t132633z-r-1785744636-4473-1785744860.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=sHRWviQJLisQAh8LyuFxLQ",
+    "link": "https://vnexpress.net/noi-am-anh-o-ceuta-sau-dong-thac-di-cu-5104414.html",
+    "published_at": "Tue, 04 Aug 2026 05:00:00 +0700",
+    "createAt": "2026-08-03T22:00:00.000Z",
+    "thumbnail_blurhash": "LCIra2-;M{-;_NoekCogxbjsWBWB"
   }
 ]
