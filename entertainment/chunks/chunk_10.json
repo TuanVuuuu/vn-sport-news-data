@@ -180,5 +180,31 @@
     "published_at": "Mon, 03 Aug 2026 17:39:39 +0700",
     "createAt": "2026-08-03T10:39:39.000Z",
     "thumbnail_blurhash": "LRL|_,?vE3?w4m%MNF%NyEV[njxt"
+  },
+  {
+    "id": "https://vnexpress.net/hanh-tinh-hoa-lan-cua-chung-thanh-phong-5104714.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "'Hành tinh hoa lan' của Chung Thanh Phong",
+    "description": "Nhà thiết kế Chung Thanh Phong huy động 500 nhân sự, dựng đường catwalk mô phỏng hành tinh hoa lan với các thiết kế Haute Couture.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/08/03/anhtopchungthanhphong1-1785749-8914-9671-1785749855.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=gSV_reEjd6TYCezZvRGM2w",
+    "link": "https://vnexpress.net/hanh-tinh-hoa-lan-cua-chung-thanh-phong-5104714.html",
+    "published_at": "Mon, 03 Aug 2026 19:00:00 +0700",
+    "createAt": "2026-08-03T12:00:00.000Z",
+    "thumbnail_blurhash": "LUC7Qv8^IBWB_NI9MwofohV]ogt9"
+  },
+  {
+    "id": "https://vnexpress.net/dao-dien-an-do-lam-phim-ve-su-thi-ramayana-5104372.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Đạo diễn Ấn Độ làm phim về sử thi 'Ramayana'",
+    "description": "Đạo diễn Nitesh Tiwari làm phim lấy cảm hứng từ sử thi \"Ramayana\" với kinh phí khoảng 500 triệu USD.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/08/03/ranbir-kapoor-webp-1785751888-3079-1785752023.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=VYCFI073-YoLvCmcf2euXA",
+    "link": "https://vnexpress.net/dao-dien-an-do-lam-phim-ve-su-thi-ramayana-5104372.html",
+    "published_at": "Mon, 03 Aug 2026 20:30:00 +0700",
+    "createAt": "2026-08-03T13:30:00.000Z",
+    "thumbnail_blurhash": "L7BVeE?a0M9G~WpIIVrW%go}RPR5"
   }
 ]
