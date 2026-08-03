@@ -1051,5 +1051,70 @@
     "published_at": "Mon, 03 Aug 2026 10:14:22 +0700",
     "createAt": "2026-08-03T03:14:22.000Z",
     "thumbnail_blurhash": "L6A,OJIAM_%gpbs;xCo#~BS$xuw]"
+  },
+  {
+    "id": "https://vnexpress.net/cac-benh-tieu-hoa-thuong-gap-o-nguoi-gia-5104535.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Các bệnh tiêu hóa thường gặp ở người già",
+    "description": "Táo bón, trào ngược dạ dày thực quản, loét dạ dày, sỏi mật dễ xảy ra ở người lớn tuổi do lão hóa làm suy giảm hoạt động của các cơ quan",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/03/bs-khanh-noi-soi-tieu-hoa-duon-8039-7428-1785728955.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=RqBmMLwA8w2jAiOIGW6AGg",
+    "link": "https://vnexpress.net/cac-benh-tieu-hoa-thuong-gap-o-nguoi-gia-5104535.html",
+    "published_at": "Mon, 03 Aug 2026 11:30:00 +0700",
+    "createAt": "2026-08-03T04:30:00.000Z",
+    "thumbnail_blurhash": "LoJ+7HxDxvba~W%2S4s:=_kDfloe"
+  },
+  {
+    "id": "https://vnexpress.net/vo-chong-cung-vo-sinh-5104448.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Vợ chồng cùng vô sinh",
+    "description": "Chị Ly, 31 tuổi, sảy thai sau đó 4 năm không đậu thai lại, đi khám phát hiện vợ chồng đều mắc bệnh lý gây vô sinh.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/03/anh-pr-1785723289-2455-1785723351.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=ex1UlKnDF-2jchK8U8UKxQ",
+    "link": "https://vnexpress.net/vo-chong-cung-vo-sinh-5104448.html",
+    "published_at": "Mon, 03 Aug 2026 12:00:00 +0700",
+    "createAt": "2026-08-03T05:00:00.000Z",
+    "thumbnail_blurhash": "LXJ**l%%Ioxu-mjDxtj?-=Ios.ad"
+  },
+  {
+    "id": "https://vnexpress.net/phat-hien-ung-thu-sau-hai-nam-khoi-viem-gan-b-c-5104408.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Phát hiện ung thư sau hai năm khỏi viêm gan B, C",
+    "description": "Ông Luân, 68 tuổi, mắc viêm gan B, C cách đây 9 năm, điều trị ổn định nên hai năm không tái khám, nay phát hiện khối u hơn 4 cm ác tính ở gan.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/03/ongminh-1785718598-7446-1785718643.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=i5ZxFaAYGVr3yWGqlh4vnA",
+    "link": "https://vnexpress.net/phat-hien-ung-thu-sau-hai-nam-khoi-viem-gan-b-c-5104408.html",
+    "published_at": "Mon, 03 Aug 2026 12:00:00 +0700",
+    "createAt": "2026-08-03T05:00:00.000Z",
+    "thumbnail_blurhash": "LYK-a+~UxT_M%LxVM{?bW9V@aiRj"
+  },
+  {
+    "id": "https://vnexpress.net/vi-sao-thuong-xuyen-met-moi-buon-ngu-ban-ngay-5104496.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Vì sao thường xuyên mệt mỏi, buồn ngủ ban ngày?",
+    "description": "Chất lượng giấc ngủ kém là nguyên nhân hàng đầu gây mệt mỏi nhưng đây cũng có thể là dấu hiệu của một số bệnh lý gây rối loạn trao đổi chất.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/03/434222442178948540155881285434-2350-9086-1785726404.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=75_OIAfzI7Zd-eGGB8dSEg",
+    "link": "https://vnexpress.net/vi-sao-thuong-xuyen-met-moi-buon-ngu-ban-ngay-5104496.html",
+    "published_at": "Mon, 03 Aug 2026 12:30:00 +0700",
+    "createAt": "2026-08-03T05:30:00.000Z",
+    "thumbnail_blurhash": "L18NhCCm0o~eY3T1.9Tw00$_?b~o"
+  },
+  {
+    "id": "https://vnexpress.net/dieu-gi-xay-ra-khi-an-qua-nhieu-thit-trong-thoi-gian-dai-5104487.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Điều gì xảy ra khi ăn quá nhiều thịt trong thời gian dài?",
+    "description": "Ăn quá nhiều thịt, đặc biệt thịt đỏ và thịt chế biến sẵn, khiến thận phải hoạt động nhiều hơn để đào thải các sản phẩm chuyển hóa, lâu dài không tốt cho thận.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/03/buoc-1785726866-1828-1785726881.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=X5CXALiBZa9J5SGouS8qfA",
+    "link": "https://vnexpress.net/dieu-gi-xay-ra-khi-an-qua-nhieu-thit-trong-thoi-gian-dai-5104487.html",
+    "published_at": "Mon, 03 Aug 2026 12:38:25 +0700",
+    "createAt": "2026-08-03T05:38:25.000Z",
+    "thumbnail_blurhash": "LCFhnqIU029F~VD%xuRj0hIU%Mad"
   }
 ]
