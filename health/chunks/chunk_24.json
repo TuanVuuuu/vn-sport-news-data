@@ -1220,5 +1220,57 @@
     "published_at": "Mon, 03 Aug 2026 14:30:00 +0700",
     "createAt": "2026-08-03T07:30:00.000Z",
     "thumbnail_blurhash": "LTMYAi{yT_G9=[xoG9epGEx?bcI["
+  },
+  {
+    "id": "https://vnexpress.net/bac-si-dieu-khien-robot-mo-tu-xa-giua-ha-noi-va-can-tho-5104669.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Bác sĩ điều khiển robot mổ từ xa giữa Hà Nội và Cần Thơ",
+    "description": "Hai ca phẫu thuật robot từ xa được thực hiện đồng thời giữa Hà Nội và Cần Thơ, đánh dấu lần đầu Việt Nam triển khai thành công mô hình phẫu thuật robot từ xa hai chiều.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/03/anh-1785745476-4713-1785745487.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=F7Nhm750xVlFuzq4aTyh-w",
+    "link": "https://vnexpress.net/bac-si-dieu-khien-robot-mo-tu-xa-giua-ha-noi-va-can-tho-5104669.html",
+    "published_at": "Mon, 03 Aug 2026 15:25:36 +0700",
+    "createAt": "2026-08-03T08:25:36.000Z",
+    "thumbnail_blurhash": "LHFF$|_401kW+rxaM|xYZ}ng%MtS"
+  },
+  {
+    "id": "https://vnexpress.net/giun-luon-mang-vi-khuan-tan-cong-nao-nguoi-dan-ong-5104654.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Giun lươn mang vi khuẩn tấn công não người đàn ông",
+    "description": "Cụ ông 72 tuổi đau đầu, ý thức chậm dần, sốc nhiễm khuẩn nặng, bác sĩ phát hiện giun lươn mang vi khuẩn E.Coli tấn công não gây nguy kịch.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/03/23ba83037a6fc2319b7e-178574506-6892-7367-1785745118.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=X7cFzZ7utLWSMpC_9uK8fw",
+    "link": "https://vnexpress.net/giun-luon-mang-vi-khuan-tan-cong-nao-nguoi-dan-ong-5104654.html",
+    "published_at": "Mon, 03 Aug 2026 15:26:01 +0700",
+    "createAt": "2026-08-03T08:26:01.000Z",
+    "thumbnail_blurhash": "L8Kdb$~T00x_00R%02Ir01R*M{Ri"
+  },
+  {
+    "id": "https://vnexpress.net/tia-plasma-lanh-dieu-tri-vet-bong-sau-5104684.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Tia plasma lạnh điều trị vết bỏng sâu",
+    "description": "Bà Mai, 65 tuổi, bỏng sâu ở chân, được điều trị kết hợp chiếu tia plasma lạnh và thuốc bôi.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/03/ktv-thuc-hien-plasma-178574581-9034-7782-1785745834.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=JbQofIu-f9o5rmpYyZOIBw",
+    "link": "https://vnexpress.net/tia-plasma-lanh-dieu-tri-vet-bong-sau-5104684.html",
+    "published_at": "Mon, 03 Aug 2026 16:00:00 +0700",
+    "createAt": "2026-08-03T09:00:00.000Z",
+    "thumbnail_blurhash": "LYMQ^#8_a]M~~qx]%Lt7tPs,bcjY"
+  },
+  {
+    "id": "https://vnexpress.net/meo-giam-mo-giu-co-5104509.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Mẹo giảm mỡ, giữ cơ",
+    "description": "Kiểm soát lượng calo nạp vào, tập luyện sức mạnh, ăn đủ protein và ngủ đủ giấc có thể giúp giảm mỡ, hạn chế mất cơ.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/03/no-m-jpeg-1785726926-9696-1785727049.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=uaIiAVxOVTirOyYYksd8qA",
+    "link": "https://vnexpress.net/meo-giam-mo-giu-co-5104509.html",
+    "published_at": "Mon, 03 Aug 2026 16:00:00 +0700",
+    "createAt": "2026-08-03T09:00:00.000Z",
+    "thumbnail_blurhash": "L7FYGSak00~V~AxuNyad0n%LDi4o"
   }
 ]
