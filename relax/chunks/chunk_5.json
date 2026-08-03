@@ -791,5 +791,31 @@
     "published_at": "Mon, 03 Aug 2026 08:58:33 +0700",
     "createAt": "2026-08-03T01:58:33.000Z",
     "thumbnail_blurhash": "LfH,|?NXR.xa}sOsr=s:nOJ,jGV["
+  },
+  {
+    "id": "https://vnexpress.net/cau-do-tieng-viet-do-chu-choi-chu-tu-tieng-viet-nao-chi-co-5-chu-cai-nhung-co-toi-9-chu-h-5103678.html",
+    "category_id": "relax",
+    "category_name": "Thư giãn",
+    "source": "VnExpress",
+    "title": "Từ tiếng Việt nào chỉ 5 chữ cái nhưng có tới 9 chữ H?",
+    "description": "Một câu đố chơi chữ cực hack não về tiếng Việt đang khiến nhiều người phải đọc đi đọc lại mới nhận ra lời giải.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/03/gemini-generated-image-kvqkn3k-3317-3106-1785725977.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=NnsYNRFWOAmLKfQtw3HTxw",
+    "link": "https://vnexpress.net/cau-do-tieng-viet-do-chu-choi-chu-tu-tieng-viet-nao-chi-co-5-chu-cai-nhung-co-toi-9-chu-h-5103678.html",
+    "published_at": "Sat, 01 Aug 2026 09:45:00 +0700",
+    "createAt": "2026-08-01T02:45:00.000Z",
+    "thumbnail_blurhash": "LHGuO500t8_2_N4o%LtRIUxuNHof"
+  },
+  {
+    "id": "https://vnexpress.net/cau-do-tieng-viet-do-chu-choi-chu-tu-tieng-viet-nao-them-dau-nga-bien-thanh-6-5101355.html",
+    "category_id": "relax",
+    "category_name": "Thư giãn",
+    "source": "VnExpress",
+    "title": "Từ tiếng Việt nào thêm dấu ngã biến thành 6?",
+    "description": "Một câu đố chơi chữ cực lạ khiến nhiều người “đứng hình”, chỉ cần thêm dấu ngã, một từ tiếng Việt lại hóa thành số 6, bạn đoán được không?",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/27/gemini-generated-image-cm9bzdc-3529-2953-1785142101.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=uwK3t-dEJ4hBEoBDuHooeQ",
+    "link": "https://vnexpress.net/cau-do-tieng-viet-do-chu-choi-chu-tu-tieng-viet-nao-them-dau-nga-bien-thanh-6-5101355.html",
+    "published_at": "Mon, 03 Aug 2026 09:57:03 +0700",
+    "createAt": "2026-08-03T02:57:03.000Z",
+    "thumbnail_blurhash": "LFOM]SRQjX%M~pxuRjR*S1f5oLWV"
   }
 ]
