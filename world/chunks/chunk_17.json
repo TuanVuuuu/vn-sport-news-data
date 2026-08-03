@@ -453,5 +453,31 @@
     "published_at": "Mon, 03 Aug 2026 14:48:59 +0700",
     "createAt": "2026-08-03T07:48:59.000Z",
     "thumbnail_blurhash": "LGE{tk_N%ho#0hyEbx%M?wp0f-R."
+  },
+  {
+    "id": "https://vnexpress.net/starlink-cua-nga-bat-dau-phu-song-lanh-tho-ukraine-5104566.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "'Starlink của Nga' bắt đầu phủ sóng lãnh thổ Ukraine",
+    "description": "Hệ thống Rassvet bắt đầu phủ sóng trên lãnh thổ Ukraine, có thể giúp quân đội Nga cải thiện khả năng liên lạc và kiểm soát khí tài tầm xa.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/03/5563187178137269179a-178573288-8051-9754-1785733308.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=MYoGIbhd7wmgI0N1EPoqhg",
+    "link": "https://vnexpress.net/starlink-cua-nga-bat-dau-phu-song-lanh-tho-ukraine-5104566.html",
+    "published_at": "Mon, 03 Aug 2026 15:11:22 +0700",
+    "createAt": "2026-08-03T08:11:22.000Z",
+    "thumbnail_blurhash": "L76+2~00-XNr_N4T.9S1.8IAxuWB"
+  },
+  {
+    "id": "https://vnexpress.net/whey-protein-thanh-ga-de-trung-vang-moi-o-my-5104526.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Whey protein thành 'gà đẻ trứng vàng' mới ở Mỹ",
+    "description": "Từ phụ phẩm từng bị vứt bỏ, whey protein nay \"đắt hàng như tôm tươi\", thúc đẩy làn sóng đầu tư hàng tỷ USD và tái định hình ngành sữa Mỹ.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/03/afp-v1-highres-increaseddemand-1980-9207-1785739290.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=mk2k7H0uELx1V_oq2sh5Sw",
+    "link": "https://vnexpress.net/whey-protein-thanh-ga-de-trung-vang-moi-o-my-5104526.html",
+    "published_at": "Mon, 03 Aug 2026 15:32:41 +0700",
+    "createAt": "2026-08-03T08:32:41.000Z",
+    "thumbnail_blurhash": "LAKAZ-_19uWWqG~XpIEL-X]jWAIo"
   }
 ]
