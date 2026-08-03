@@ -1233,5 +1233,31 @@
     "published_at": "Mon, 03 Aug 2026 19:20:16 +0700",
     "createAt": "2026-08-03T12:20:16.000Z",
     "thumbnail_blurhash": "Lf7K=tjeaaRjo,oLawWAR=nza_fm"
+  },
+  {
+    "id": "https://vnexpress.net/robot-hinh-nguoi-nga-quy-tren-san-khau-5104376.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Robot hình người ngã quỵ trên sân khấu",
+    "description": "Robot hình người 4NE-1, trang bị nền tảng AI của Qualcomm, đột ngột đổ gục về phía sau trong lúc trình diễn trên sân khấu.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/03/b60a99245c5ee737643cd10390f382-7132-3719-1785753813.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=9JFDcNs16hLcrJR11dlgBw",
+    "link": "https://vnexpress.net/robot-hinh-nguoi-nga-quy-tren-san-khau-5104376.html",
+    "published_at": "Mon, 03 Aug 2026 19:20:16 +0700",
+    "createAt": "2026-08-03T12:20:16.000Z",
+    "thumbnail_blurhash": "Le7BQ}jeaaRjo,oLawWAR=nza_fm"
+  },
+  {
+    "id": "https://vnexpress.net/loai-vat-khien-ca-voi-sat-thu-chay-tron-5104726.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Loài vật khiến cá voi sát thủ chạy trốn",
+    "description": "Các nhà nghiên cứu phát hiện chỉ cần nghe thấy tiếng kêu của cá voi hoa tiêu, các đàn cá voi sát thủ sẽ lập tức thu hẹp đội hình và nhanh chóng bơi đi nơi khác.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/03/VNEOrca-1785748563-7892-1785748632.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Ce5DMo_ZmoL0WzGXxFC6GA",
+    "link": "https://vnexpress.net/loai-vat-khien-ca-voi-sat-thu-chay-tron-5104726.html",
+    "published_at": "Mon, 03 Aug 2026 20:26:01 +0700",
+    "createAt": "2026-08-03T13:26:01.000Z",
+    "thumbnail_blurhash": "LjM@fmt8WBxu~pfPj[of_2j]j[WB"
   }
 ]
