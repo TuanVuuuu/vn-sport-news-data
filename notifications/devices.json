@@ -706,13 +706,13 @@
       "platform": "android",
       "preferences": {
         "enabled": true,
-        "max_per_day": 3,
+        "max_per_day": 1,
         "categories": [
           "featured"
         ]
       },
       "created_at": "2026-08-03T12:48:28.696Z",
-      "updated_at": "2026-08-03T13:22:12.532Z"
+      "updated_at": "2026-08-03T13:22:57.582Z"
     }
   ]
 }
