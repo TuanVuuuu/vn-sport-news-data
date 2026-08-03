@@ -1,3 +1,69 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/xe-buyt-tp-hcm-ket-noi-voi-metro-the-nao-5097624.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Xe buýt TP HCM kết nối với metro thế nào",
+      "description": "Mất tối đa một tiếng đi xe buýt, người dân trong bán kính 6-7 km quanh các nhà ga có thể tiếp cận Metro số 1 (Bến Thành - Suối Tiên). Càng về tối, khả năng phục vụ của xe buýt đến metro càng giảm.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/02/top-1785649427-7277-1785649474.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=b_d5WYwaDm4LbtzPbkbqKg",
+      "link": "https://vnexpress.net/xe-buyt-tp-hcm-ket-noi-voi-metro-the-nao-5097624.html",
+      "published_at": "Mon, 03 Aug 2026 05:00:00 +0700",
+      "createAt": "2026-08-02T22:00:00.000Z",
+      "thumbnail_blurhash": "L15hAO}w$ktR-XxIWUNZ005hNZNF"
+    },
+    {
+      "id": "https://vnexpress.net/kim-bai-trump-cua-ong-netanyahu-mat-dan-hieu-luc-5102793.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "'Kim bài Trump' của ông Netanyahu mất dần hiệu lực",
+      "description": "Từng là lợi thế chính trị lớn nhất của Thủ tướng Netanyahu, mối quan hệ với Tổng thống Trump đang mất dần sức nặng khi bất đồng Mỹ - Israel ngày càng lộ rõ.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/02/ap26208782971465-1785318275-8211-1785658155.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=JFGqIySRhQEQbBazrENWrQ",
+      "link": "https://vnexpress.net/kim-bai-trump-cua-ong-netanyahu-mat-dan-hieu-luc-5102793.html",
+      "published_at": "Mon, 03 Aug 2026 05:00:00 +0700",
+      "createAt": "2026-08-02T22:00:00.000Z",
+      "thumbnail_blurhash": "L77^rz%LOFR5~Ut9RjxakOV[n-oI"
+    },
+    {
+      "id": "https://vnexpress.net/vo-ban-tru-vi-qua-tai-hoc-sinh-5102175.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "'Vỡ' bán trú vì quá tải học sinh",
+      "description": "Nhiều trường học 'vỡ' bán trú, phải rút xuống dạy một buổi mỗi ngày vì quá tải học sinh lớp 1, 6.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/02/wm1-wm1-khaigiang-1785490184-1580-1785682947.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=oTcsVMCPyQpMqM6_zhn32A",
+      "link": "https://vnexpress.net/vo-ban-tru-vi-qua-tai-hoc-sinh-5102175.html",
+      "published_at": "Mon, 03 Aug 2026 05:05:00 +0700",
+      "createAt": "2026-08-02T22:05:00.000Z",
+      "thumbnail_blurhash": "L2Du*[~BIo}@D*Jo$frW4T~W.9?G"
+    },
+    {
+      "id": "https://vnexpress.net/cach-cac-nuoc-quy-dinh-thoi-han-so-huu-chung-cu-5103935.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Cách các nước quy định thời hạn sở hữu chung cư",
+      "description": "Trung Quốc cho phép sở hữu căn hộ tối đa 70 năm, Singapore quy định thời hạn là 99 năm, còn tại Anh lại tùy theo thỏa thuận hai bên.",
+      "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/07/31/Screenshot-2026-07-31-220846-1-4030-3999-1785511211.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=t771SFO4sxJ_wT1MU3HFJQ",
+      "link": "https://vnexpress.net/cach-cac-nuoc-quy-dinh-thoi-han-so-huu-chung-cu-5103935.html",
+      "published_at": "Mon, 03 Aug 2026 06:00:00 +0700",
+      "createAt": "2026-08-02T23:00:00.000Z",
+      "thumbnail_blurhash": "LVD];-x]oft7_NxubIf6?coet7jZ"
+    },
+    {
+      "id": "https://vnexpress.net/thuy-anh-khong-gi-danh-doi-duoc-binh-yen-5093866.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Thùy Anh: 'Không gì đánh đổi được bình yên'",
+      "description": "Trải qua ồn ào bị cắt vai, gặp tai nạn phim trường, diễn viên Thùy Anh nói quý bình yên hơn tiền bạc lẫn danh tiếng.",
+      "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/07/06/ThuyAnh33JPG-1783307995-6973-1783312720.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=p16X1QUNIAIIoek13fw6dA",
+      "link": "https://vnexpress.net/thuy-anh-khong-gi-danh-doi-duoc-binh-yen-5093866.html",
+      "published_at": "Mon, 03 Aug 2026 06:00:00 +0700",
+      "createAt": "2026-08-02T23:00:00.000Z",
+      "thumbnail_blurhash": "L5F4.p?c0000I:4oj^.8^iNG~W=x"
+    }
+  ]
 }

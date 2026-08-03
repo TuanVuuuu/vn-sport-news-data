@@ -89,5 +89,31 @@
     "published_at": "Sun, 02 Aug 2026 15:48:48 +0700",
     "createAt": "2026-08-02T08:48:48.000Z",
     "thumbnail_blurhash": "LYMG-9Vru6%f$,j]XSoztUoeaJoh"
+  },
+  {
+    "id": "https://vnexpress.net/bam-tru-o-thanh-pho-dat-do-nhat-nuoc-my-5104284.html",
+    "category_id": "life",
+    "category_name": "Đời sống",
+    "source": "VnExpress",
+    "title": "Bám trụ ở thành phố đắt đỏ nhất nước Mỹ",
+    "description": "Ở tuổi 76, Lisbon Black không đủ tiền sống ở New York nhưng cũng không thể rời đi. Mỗi ngày, ông phải cân nhắc giữa tiền thuê nhà, thực phẩm và hóa đơn.",
+    "thumbnail_url": "https://vcdn1-giadinh.vnecdn.net/2026/08/02/00b5c2db0e73df676f06214e5e2e72-5375-5051-1785647433.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Su2TGb7x8xqPWNS5a8eJlQ",
+    "link": "https://vnexpress.net/bam-tru-o-thanh-pho-dat-do-nhat-nuoc-my-5104284.html",
+    "published_at": "Mon, 03 Aug 2026 06:00:00 +0700",
+    "createAt": "2026-08-02T23:00:00.000Z",
+    "thumbnail_blurhash": "LFCFko^j%1%2~V^j={xt^jbHt7oL"
+  },
+  {
+    "id": "https://vnexpress.net/rui-ro-hoa-hoan-tu-nhung-thoi-quen-tuy-tien-o-chung-cu-5103663.html",
+    "category_id": "life",
+    "category_name": "Đời sống",
+    "source": "VnExpress",
+    "title": "Rủi ro hỏa hoạn từ những thói quen tùy tiện ở chung cư",
+    "description": "Một sáng đầu năm 2026, nhóm chat cư dân một tòa nhà ở phường Hà Đông (Hà Nội) liên tục hiện tin nhắn: \"Có nhà nào đang nấu gì bị khét không?\".",
+    "thumbnail_url": "https://vcdn1-giadinh.vnecdn.net/2026/08/01/pham-chieu-jpg-1785591058-9684-1785595875.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=pQK59r_M6wDF65m3qTtK4w",
+    "link": "https://vnexpress.net/rui-ro-hoa-hoan-tu-nhung-thoi-quen-tuy-tien-o-chung-cu-5103663.html",
+    "published_at": "Mon, 03 Aug 2026 06:27:00 +0700",
+    "createAt": "2026-08-02T23:27:00.000Z",
+    "thumbnail_blurhash": "LiKe4d%hD*-:_Nxus:%2RPs:t7j@"
   }
 ]
