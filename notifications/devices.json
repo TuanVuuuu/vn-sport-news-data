@@ -702,7 +702,7 @@
     },
     {
       "device_id": "52f7e74e9d94d225",
-      "fcm_token": "f7bk43XATPq0S1jZqRHmKO:APA91bHD1g2PsStMWkcpY9n-TBVXTqOHZuCfwXWz8vJqaEJsX0X9RXTlXdhZOFpTsqkvyYh-KA0QdIFYyTrmlMA6SMKdbhTsiiEcu3upBZvSMJYRVtyEX6g",
+      "fcm_token": "fz1ICTy5TCyNPp1YTvhoLi:APA91bHTAjEGHGnAjiVxUYQsrD4c_ICBsJaj_3TRfVJBkNQh3q15IWo7nVc8rQTSZ3c2t6_lV39mOrqvfFNHcHKJHe8p_evFwetwseGgMZHTH92UCggOrhk",
       "platform": "android",
       "preferences": {
         "enabled": true,
@@ -712,7 +712,7 @@
         ]
       },
       "created_at": "2026-08-03T12:48:28.696Z",
-      "updated_at": "2026-08-03T13:23:15.313Z"
+      "updated_at": "2026-08-03T13:23:21.574Z"
     }
   ]
 }
