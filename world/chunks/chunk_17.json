@@ -726,5 +726,31 @@
     "published_at": "Tue, 04 Aug 2026 09:50:20 +0700",
     "createAt": "2026-08-04T02:50:20.000Z",
     "thumbnail_blurhash": "LJIObCNXIAWa4~D$xZIW0P~WWUIV"
+  },
+  {
+    "id": "https://vnexpress.net/vi-sao-danh-hieu-nguoi-giau-nhat-trung-quoc-lien-tuc-doi-chu-5104694.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Vì sao danh hiệu người giàu nhất Trung Quốc liên tục đổi chủ",
+    "description": "17 doanh nhân Trung Quốc từng giữ danh hiệu người giàu nhất đất nước trong 27 năm qua, biến động mạnh hơn nhiều so với Mỹ, nơi chỉ có 4 tỷ phú giàu nhất trong 30 năm.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/03/dece064d2e534eb093ce62b4ec8811-6553-5476-1785747329.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=zzTgCos_t7CcWSDoYpZr4Q",
+    "link": "https://vnexpress.net/vi-sao-danh-hieu-nguoi-giau-nhat-trung-quoc-lien-tuc-doi-chu-5104694.html",
+    "published_at": "Tue, 04 Aug 2026 10:00:00 +0700",
+    "createAt": "2026-08-04T03:00:00.000Z",
+    "thumbnail_blurhash": "LHC6u%V@E2x^~VxtR*xu-:W=kC%0"
+  },
+  {
+    "id": "https://vnexpress.net/iran-huy-cuoc-tan-cong-tra-dua-nham-vao-ukraine-5104898.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Iran hủy cuộc tấn công trả đũa nhằm vào Ukraine",
+    "description": "Iran tuyên bố đình chỉ kế hoạch tấn công trả đũa vụ Ukraine tập kích tàu hàng trên biển Caspi, sau khi Kiev gửi lời xin lỗi Tehran.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/04/iran-1785813446-9718-1785813932.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=mxgR5OhYoMQLS-1DjYOuzg",
+    "link": "https://vnexpress.net/iran-huy-cuoc-tan-cong-tra-dua-nham-vao-ukraine-5104898.html",
+    "published_at": "Tue, 04 Aug 2026 10:26:10 +0700",
+    "createAt": "2026-08-04T03:26:10.000Z",
+    "thumbnail_blurhash": "LGL;mk-UIr%M_4aeM{W?M|fRWAjs"
   }
 ]
