@@ -882,5 +882,31 @@
     "published_at": "Tue, 04 Aug 2026 08:00:00 +0700",
     "createAt": "2026-08-04T01:00:00.000Z",
     "thumbnail_blurhash": "L5E.Lm0i*0IAL~01=q,.x]Nb%2w^"
+  },
+  {
+    "id": "https://vnexpress.net/song-nao-nghe-ten-da-thay-giau-5103628.html",
+    "category_id": "relax",
+    "category_name": "Thư giãn",
+    "source": "VnExpress",
+    "title": "Sông nào nghe tên đã thấy giàu?",
+    "description": "Đây là câu đố mẹo khiến nhiều người bật cười vì đáp án, chỉ cần nghe tên con sông là đã liên tưởng ngay đến sự giàu có.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/31/gemini-generated-image-lz1d2cl-8421-9984-1785467428.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=1nxAtR2k8qKRAwdnYC24Kw",
+    "link": "https://vnexpress.net/song-nao-nghe-ten-da-thay-giau-5103628.html",
+    "published_at": "Tue, 04 Aug 2026 09:01:29 +0700",
+    "createAt": "2026-08-04T02:01:29.000Z",
+    "thumbnail_blurhash": "LOIEb09G9ut7~A$*9Ft7NG%0VsR+"
+  },
+  {
+    "id": "https://vnexpress.net/hoang-hau-va-nuong-nuong-giong-hay-khac-nhau-5101949.html",
+    "category_id": "relax",
+    "category_name": "Thư giãn",
+    "source": "VnExpress",
+    "title": "Hoàng hậu và Nương nương giống hay khác nhau?",
+    "description": "\"Nương nương\" xuất hiện dày đặc trong phim cổ trang, nhưng đó có phải là Hoàng hậu? Hay chỉ là một cách xưng hô?",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/07/30/sddefault-1785378668-7127-1785378982.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=4z59zPmuArP4i5vY9kS31A",
+    "link": "https://vnexpress.net/hoang-hau-va-nuong-nuong-giong-hay-khac-nhau-5101949.html",
+    "published_at": "Tue, 04 Aug 2026 10:07:44 +0700",
+    "createAt": "2026-08-04T03:07:44.000Z",
+    "thumbnail_blurhash": "L9C~#N^Px]-o}?v~i^n$01kqa}I:"
   }
 ]
