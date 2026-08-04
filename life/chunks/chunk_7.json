@@ -232,5 +232,18 @@
     "published_at": "Tue, 04 Aug 2026 06:00:00 +0700",
     "createAt": "2026-08-03T23:00:00.000Z",
     "thumbnail_blurhash": null
+  },
+  {
+    "id": "https://vnexpress.net/nhung-nguoi-tre-chon-mat-tich-sau-gio-lam-5101820.html",
+    "category_id": "life",
+    "category_name": "Đời sống",
+    "source": "VnExpress",
+    "title": "Những người trẻ chọn 'mất tích' sau giờ làm",
+    "description": "17h30, Thanh Hoa gập máy tính, tắt trạng thái trực tuyến tài khoản công việc, chuyển điện thoại sang chế độ \"Không làm phiền\".",
+    "thumbnail_url": "https://vcdn1-giadinh.vnecdn.net/2026/07/26/hoa-1785067845-7082-1785068945.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=2WK2yjKOIS6cCH3_pombIA",
+    "link": "https://vnexpress.net/nhung-nguoi-tre-chon-mat-tich-sau-gio-lam-5101820.html",
+    "published_at": "Tue, 04 Aug 2026 06:30:00 +0700",
+    "createAt": "2026-08-03T23:30:00.000Z",
+    "thumbnail_blurhash": "LZF$hU?btRtR_4xtofofxuWBRjWB"
   }
 ]
