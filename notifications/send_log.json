@@ -1,30 +1,6 @@
 {
   "entries": [
     {
-      "sent_at": "2026-07-31T05:20:52.540Z",
-      "topic": null,
-      "device_id": "8324162817fc22a6",
-      "slot": "noon",
-      "type": "featured_digest",
-      "article_ids": [
-        "https://vnexpress.net/phat-den-25-trieu-dong-voi-doanh-nghiep-giu-giay-to-cua-nguoi-lao-dong-5103298.html",
-        "https://vnexpress.net/ai-tac-dong-len-ngon-ngu-the-nao-5103242.html",
-        "https://vnexpress.net/trong-tre-luc-truc-thu-nua-ty-dong-moi-hecta-5103385.html",
-        "https://vnexpress.net/nua-the-ky-tu-sinh-de-co-ke-hoach-den-vo-chong-duoc-quyen-tu-quyet-so-con-5100523.html",
-        "https://vnexpress.net/cac-doi-tuyen-chau-au-doa-tay-chay-world-cup-5103529.html",
-        "https://vnexpress.net/nguoi-viet-tai-kumamoto-chia-nhau-tung-ngum-nuoc-sau-dong-dat-5103479.html",
-        "https://vnexpress.net/cach-dang-ky-nguoi-phu-thuoc-de-duoc-giam-thue-tu-2026-5103517.html",
-        "https://vnexpress.net/dong-dat-kem-tieng-no-o-cao-bang-nguoi-dan-hot-hoang-chay-khoi-nha-5103528.html",
-        "https://vnexpress.net/iran-tuyen-bo-phong-ten-lua-pha-huy-loat-tiem-kich-f-35-my-5103530.html",
-        "https://vnexpress.net/cuu-cau-thu-trinh-quoc-hung-qua-doi-5103536.html",
-        "https://vnexpress.net/bi-thu-xa-tu-quay-video-quang-ba-du-lich-dia-phuong-5103199.html",
-        "https://vnexpress.net/ho-tri-an-mua-nuoc-can-5103346.html",
-        "https://vnexpress.net/loat-chung-cu-gia-tram-trieu-dong-moi-m2-mo-ban-tai-tp-hcm-5103286.html",
-        "https://vnexpress.net/xuan-son-muon-dua-viet-nam-toi-world-cup-5103634.html"
-      ],
-      "highlight_id": "https://vnexpress.net/xuan-son-muon-dua-viet-nam-toi-world-cup-5103634.html"
-    },
-    {
       "sent_at": "2026-07-31T05:20:52.657Z",
       "topic": null,
       "device_id": "979bdb8856573cb2",
@@ -14027,6 +14003,19 @@
         "https://vnexpress.net/viet-nam-khien-indonesia-chiu-thong-ke-chua-tung-co-o-asean-cup-5104852.html"
       ],
       "highlight_id": "https://vnexpress.net/viet-nam-khien-indonesia-chiu-thong-ke-chua-tung-co-o-asean-cup-5104852.html"
+    },
+    {
+      "sent_at": "2026-08-04T01:22:15.157Z",
+      "topic": null,
+      "device_id": "dddab7f8b79275fb",
+      "slot": "morning",
+      "type": "featured_digest",
+      "article_ids": [
+        "https://vnexpress.net/loi-nhuan-nganh-oto-ke-rung-rinh-nguoi-chat-vat-5104410.html",
+        "https://vnexpress.net/de-xuat-bhyt-chi-tra-hon-200-dich-vu-kham-chua-benh-tai-nha-5104605.html",
+        "https://vnexpress.net/10-thanh-pho-co-do-an-duong-pho-ngon-nhat-the-gioi-5104464.html"
+      ],
+      "highlight_id": "https://vnexpress.net/10-thanh-pho-co-do-an-duong-pho-ngon-nhat-the-gioi-5104464.html"
     }
   ]
 }
