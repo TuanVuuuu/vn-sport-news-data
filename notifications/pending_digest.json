@@ -1,3 +1,43 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/be-4-tuoi-dut-canh-tay-vi-ao-chong-nang-cuon-vao-banh-xe-5104876.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Bé 4 tuổi đứt cánh tay vì áo chống nắng cuốn vào bánh xe",
+      "description": "Bé gái 4 tuổi ngồi sau xe máy, bất ngờ áo chống nắng bị cuốn vào bánh xe giật đứt cánh tay, được bác sĩ phẫu thuật ghép thành công.",
+      "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/04/2-1785807404-3209-1785807417.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Sa-P1eZN4TTFTwi4KUAW6Q",
+      "link": "https://vnexpress.net/be-4-tuoi-dut-canh-tay-vi-ao-chong-nang-cuon-vao-banh-xe-5104876.html",
+      "published_at": "Tue, 04 Aug 2026 08:55:54 +0700",
+      "createAt": "2026-08-04T01:55:54.000Z",
+      "thumbnail_blurhash": "LTJ8z~H?r??b?^tRx]NG%#x[bYIp"
+    },
+    {
+      "id": "https://vnexpress.net/y-te-tp-hcm-se-thanh-benh-vien-khong-tuong-5104871.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Y tế TP HCM sẽ thành 'bệnh viện không tường'",
+      "description": "TP HCM sẽ kết nối các cơ sở y tế thành ‘một bệnh viện không tường’, người dân có thể khám gần nhà nhưng vẫn tiếp cận được chuyên môn các bệnh viện đầu ngành mà không phải nhiều lần chuyển viện hay làm lại hồ sơ.",
+      "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/04/dji-1785802107-7555-1785802169.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=589nh7WwucwI-2NnccxLFA",
+      "link": "https://vnexpress.net/y-te-tp-hcm-se-thanh-benh-vien-khong-tuong-5104871.html",
+      "published_at": "Tue, 04 Aug 2026 09:40:41 +0700",
+      "createAt": "2026-08-04T02:40:41.000Z",
+      "thumbnail_blurhash": "LGEo_4bvD$%1.TRiM{%2x^Rit7Iq"
+    },
+    {
+      "id": "https://vnexpress.net/truth-social-ban-quyen-xem-truoc-bai-dang-ong-trump-the-nao-5104899.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Truth Social bán quyền xem trước bài đăng ông Trump thế nào",
+      "description": "Gói dịch vụ Truth API cho phép kết nối trực tiếp công cụ của khách hàng với luồng dữ liệu từ Truth Social, từ đó giúp nhận thông tin nhanh hơn.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/04/DSC03209JPG-1785813198-2147-1785813260.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=eqj2PfZLaURyput2dG6cKQ",
+      "link": "https://vnexpress.net/truth-social-ban-quyen-xem-truoc-bai-dang-ong-trump-the-nao-5104899.html",
+      "published_at": "Tue, 04 Aug 2026 10:48:27 +0700",
+      "createAt": "2026-08-04T03:48:27.000Z",
+      "thumbnail_blurhash": "LGF=zUM;I*vc_H0JI{nV0JVrs;.8"
+    }
+  ]
 }
