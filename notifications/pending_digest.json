@@ -1,3 +1,69 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/to-giay-viet-tu-phong-hoi-suc-tich-cuc-5105062.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Tờ giấy viết từ phòng hồi sức tích cực",
+      "description": "Vượt 1.600 km ra Thủ đô chờ ghép phổi, người đàn ông 59 tuổi vừa tỉnh sau ca phẫu thuật đã viết vội mẩu giấy hỏi thăm vợ thay vì hỏi về tình trạng bản thân.",
+      "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/04/762696462-n-1785827060-5144-1785827335.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=BCS4jdN8jAq7AsKeK-dnuw",
+      "link": "https://vnexpress.net/to-giay-viet-tu-phong-hoi-suc-tich-cuc-5105062.html",
+      "published_at": "Tue, 04 Aug 2026 14:44:59 +0700",
+      "createAt": "2026-08-04T07:44:59.000Z",
+      "thumbnail_blurhash": "LSKx9xWB%M%g_N%MRjae%2ofRjWB"
+    },
+    {
+      "id": "https://vnexpress.net/my-nhan-ai-hut-fan-5105099.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "'Mỹ nhân AI' hút fan",
+      "description": "Phương Đào Tử, diễn viên phim ngắn AI ở Trung Quốc, hút hàng trăm nghìn người theo dõi, thù lao quảng cáo vượt người nổi tiếng.",
+      "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/08/04/dao-tu-1785829804-6634-1785830692.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=EtmrZ6_2CR2e7dmljIa3TQ",
+      "link": "https://vnexpress.net/my-nhan-ai-hut-fan-5105099.html",
+      "published_at": "Tue, 04 Aug 2026 15:13:34 +0700",
+      "createAt": "2026-08-04T08:13:34.000Z",
+      "thumbnail_blurhash": "LRHUF3-o~p-pt7?HxuS5Ips:s:t7"
+    },
+    {
+      "id": "https://vnexpress.net/ngay-chet-choc-phu-bong-hy-vong-hoa-binh-cua-gaza-5104897.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "'Ngày chết chóc' phủ bóng hy vọng hòa bình của Gaza",
+      "description": "Bạo lực leo thang và bất đồng giữa Israel với Hamas phủ bóng lên thỏa thuận hòa bình mà Tổng thống Trump công bố với Dải Gaza.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/04/afp-b7nu9vg-v3-highres-topshot-4640-1715-1785832485.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=TtEorxm8K8x_NczvE2zcnQ",
+      "link": "https://vnexpress.net/ngay-chet-choc-phu-bong-hy-vong-hoa-binh-cua-gaza-5104897.html",
+      "published_at": "Tue, 04 Aug 2026 20:00:00 +0700",
+      "createAt": "2026-08-04T13:00:00.000Z",
+      "thumbnail_blurhash": "LNG8s0?HNGWU*0tSRjn~.9NHjFae"
+    },
+    {
+      "id": "https://vnexpress.net/hlv-indonesia-cam-loa-di-doc-san-xin-loi-co-dong-vien-5105243.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "HLV Indonesia cầm loa đi dọc sân xin lỗi cổ động viên",
+      "description": "HLV Indonesia John Herdman cầm loa đi dọc sân xin lỗi cổ động viên đội nhà trên khán đài sau thất bại 0-3 trước Việt Nam tại ASEAN Cup 2026.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/04/top2-1785850851-1635-1785850856.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=MfaoR6Kf7Zs5bM7gE_8bXg",
+      "link": "https://vnexpress.net/hlv-indonesia-cam-loa-di-doc-san-xin-loi-co-dong-vien-5105243.html",
+      "published_at": "Tue, 04 Aug 2026 20:35:25 +0700",
+      "createAt": "2026-08-04T13:35:25.000Z",
+      "thumbnail_blurhash": "LrHUX:%MW=xa_Nxuofoz%#bboLfj"
+    },
+    {
+      "id": "https://vnexpress.net/can-co-che-bao-ve-doanh-nghiep-khoa-hoc-truoc-cac-rui-ro-tat-yeu-5105236.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Cần cơ chế bảo vệ doanh nghiệp khoa học trước các 'rủi ro tất yếu'",
+      "description": "Trung tướng Tào Đức Thắng cho rằng lĩnh vực nghiên cứu, đổi mới có rủi ro khách quan như thiên tai hoặc biến động kinh tế, cần có hành lang pháp lý bảo vệ doanh nhân, doanh nghiệp mạnh dạn, dám làm.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/04/202608031612000421-z8111703344-5640-8061-1785849215.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=uYgcFPIEenTKPodyBWVWQQ",
+      "link": "https://vnexpress.net/can-co-che-bao-ve-doanh-nghiep-khoa-hoc-truoc-cac-rui-ro-tat-yeu-5105236.html",
+      "published_at": "Tue, 04 Aug 2026 20:45:00 +0700",
+      "createAt": "2026-08-04T13:45:00.000Z",
+      "thumbnail_blurhash": "LDLDV@-V00HXy@?a^+xu9a4T%$?^"
+    }
+  ]
 }
