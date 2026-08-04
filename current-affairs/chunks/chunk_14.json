@@ -635,5 +635,31 @@
     "published_at": "Tue, 04 Aug 2026 11:31:00 +0700",
     "createAt": "2026-08-04T04:31:00.000Z",
     "thumbnail_blurhash": "LrFsJcWYofoe%%NHoLoLbyRnWBj["
+  },
+  {
+    "id": "https://vnexpress.net/hang-chuc-xe-moto-chay-rui-o-tp-hcm-5104858.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Hàng chục xe môtô cháy rụi ở TP HCM",
+    "description": "Lửa bùng lên tại khu vực tập kết xe môtô cũ của một cửa hàng ở phường Dĩ An, lan nhanh khiến hơn 50 phương tiện bị thiêu rụi, tối 3/8.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/04/2aOboQp2e5aGpCUxt336JqtZHGnk0p-6788-9647-1785791709.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=41FFVnN47mp_tP9QQPnAjw",
+    "link": "https://vnexpress.net/hang-chuc-xe-moto-chay-rui-o-tp-hcm-5104858.html",
+    "published_at": "Tue, 04 Aug 2026 04:27:38 +0700",
+    "createAt": "2026-08-03T21:27:38.000Z",
+    "thumbnail_blurhash": "L9Ku4MtR01VE_%9]^*-o03=ZpbF3"
+  },
+  {
+    "id": "https://vnexpress.net/dan-moto-tro-khung-sau-vu-chay-o-tp-hcm-5104994.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Dàn môtô trơ khung sau vụ cháy ở TP HCM",
+    "description": "Khoảng 50 môtô bị thiêu rụi, nhiều chiếc chỉ còn trơ khung sau khi lửa bùng lên tại bãi xe 1.000 m2 ở phường Dĩ An.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/04/wm1-anh-1785820257.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=SHf--BRt8aWmsIWjtwh3Dg",
+    "link": "https://vnexpress.net/dan-moto-tro-khung-sau-vu-chay-o-tp-hcm-5104994.html",
+    "published_at": "Tue, 04 Aug 2026 11:44:14 +0700",
+    "createAt": "2026-08-04T04:44:14.000Z",
+    "thumbnail_blurhash": "L38N-1%hD%-=00e.%MDi~qR+D%-;"
   }
 ]
