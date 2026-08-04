@@ -310,5 +310,44 @@
     "published_at": "Tue, 04 Aug 2026 10:03:04 +0700",
     "createAt": "2026-08-04T03:03:04.000Z",
     "thumbnail_blurhash": "L9Amo1D%01WV~q4.V[xu9aD*?a?H"
+  },
+  {
+    "id": "https://vnexpress.net/be-4-tuoi-dut-canh-tay-vi-ao-chong-nang-cuon-vao-banh-xe-5104876.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Bé 4 tuổi đứt cánh tay vì áo chống nắng cuốn vào bánh xe",
+    "description": "Bé gái 4 tuổi ngồi sau xe máy, bất ngờ áo chống nắng bị cuốn vào bánh xe giật đứt cánh tay, được bác sĩ phẫu thuật ghép thành công.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/04/2-1785807404-3209-1785807417.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Sa-P1eZN4TTFTwi4KUAW6Q",
+    "link": "https://vnexpress.net/be-4-tuoi-dut-canh-tay-vi-ao-chong-nang-cuon-vao-banh-xe-5104876.html",
+    "published_at": "Tue, 04 Aug 2026 08:55:54 +0700",
+    "createAt": "2026-08-04T01:55:54.000Z",
+    "thumbnail_blurhash": "LTJ8z~H?r??b?^tRx]NG%#x[bYIp"
+  },
+  {
+    "id": "https://vnexpress.net/an-nghe-co-the-phong-ung-thu-5104926.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Ăn nghệ có thể phòng ung thư?",
+    "description": "Tôi thường cho nghệ vào các món ăn hằng ngày vì nghe nói curcumin trong thực phẩm này có thể phòng chống ung thư. Điều này có đúng? (Hoàng Tiên, TP HCM).",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/04/a-nh-chu-p-ma-n-hi-nh-lu-c-178-3890-7539-1785810243.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=DQynGp4LLTrkEZEISWr_Bw",
+    "link": "https://vnexpress.net/an-nghe-co-the-phong-ung-thu-5104926.html",
+    "published_at": "Tue, 04 Aug 2026 10:30:00 +0700",
+    "createAt": "2026-08-04T03:30:00.000Z",
+    "thumbnail_blurhash": "LHLzvuDkKB?TM-I9%b%h4qV?t1x^"
+  },
+  {
+    "id": "https://vnexpress.net/ai-co-nguy-co-mac-ung-thu-bang-quang-5104946.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Ai có nguy cơ mắc ung thư bàng quang?",
+    "description": "Những người hút thuốc lá, tiếp xúc hóa chất trong thời gian dài, tuổi cao, mắc các bệnh lý bàng quang mạn tính có nguy cơ ung thư bàng quang.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/04/xuat-1785813546-4087-1785813917.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=_tUNdb1L-e4Bgfq--48cSw",
+    "link": "https://vnexpress.net/ai-co-nguy-co-mac-ung-thu-bang-quang-5104946.html",
+    "published_at": "Tue, 04 Aug 2026 11:00:00 +0700",
+    "createAt": "2026-08-04T04:00:00.000Z",
+    "thumbnail_blurhash": "LWJ@]~~px]s;x[E0-oIU-:IUIURj"
   }
 ]
