@@ -869,5 +869,44 @@
     "published_at": "Tue, 04 Aug 2026 23:24:13 +0700",
     "createAt": "2026-08-04T16:24:13.000Z",
     "thumbnail_blurhash": "LiE{ts%Mo#t7_4xvofoLo#t7oJoM"
+  },
+  {
+    "id": "https://vnexpress.net/thiet-ke-quoc-lo-13-mo-rong-gan-gap-ba-lan-5105249.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Thiết kế quốc lộ 13 mở rộng gần gấp ba lần",
+    "description": "Sau hơn 20 năm chờ đợi, quốc lộ 13 ở cửa ngõ TP HCM chuẩn bị được mở rộng lên 60 m, 10-14 làn xe, giữa tuyến xây đường trên cao, kỳ vọng giảm ùn tắc.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/04/0-1785846987.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=v2EVmIetHpMHXYfQLlxvhw",
+    "link": "https://vnexpress.net/thiet-ke-quoc-lo-13-mo-rong-gan-gap-ba-lan-5105249.html",
+    "published_at": "Wed, 05 Aug 2026 00:00:00 +0700",
+    "createAt": "2026-08-04T17:00:00.000Z",
+    "thumbnail_blurhash": "LBE:SaScxuf+YRNFIUjJF$t7WUt8"
+  },
+  {
+    "id": "https://vnexpress.net/phat-tien-nguoi-thue-giup-viec-gia-dinh-ma-khong-bao-ubnd-xa-5105165.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Phạt tiền người thuê giúp việc gia đình mà không báo UBND xã",
+    "description": "Người sử dụng lao động bị cảnh cáo khi không ký hợp đồng văn bản và bị phạt 1-3 triệu đồng nếu không thông báo UBND xã, phường, đặc khu khi thuê giúp việc gia đình, từ 10/9.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/04/donnha-1785835432-8701-1785835486.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=IVWyEId1dWMo7u_ZFEL0Tw",
+    "link": "https://vnexpress.net/phat-tien-nguoi-thue-giup-viec-gia-dinh-ma-khong-bao-ubnd-xa-5105165.html",
+    "published_at": "Wed, 05 Aug 2026 00:00:00 +0700",
+    "createAt": "2026-08-04T17:00:00.000Z",
+    "thumbnail_blurhash": "LfG8DfJVt7~AtknhR+ozR*i_e.WV"
+  },
+  {
+    "id": "https://vnexpress.net/vi-sao-el-nino-xuat-hien-nhung-mien-bac-mua-nhieu-5105088.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Vì sao El Nino xuất hiện nhưng miền Bắc mưa nhiều?",
+    "description": "Tháng 7 miền Bắc mưa liên tục do tác động của rãnh áp thấp, hoàn lưu suy yếu của bão; El Nino có ảnh hưởng nhưng chưa phải diện rộng và chưa đạt đến cực đại.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/04/10-jpg-1785828043-4022-1785828057.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=BKzCc3KPM4JZw8tvQhenuA",
+    "link": "https://vnexpress.net/vi-sao-el-nino-xuat-hien-nhung-mien-bac-mua-nhieu-5105088.html",
+    "published_at": "Wed, 05 Aug 2026 00:00:00 +0700",
+    "createAt": "2026-08-04T17:00:00.000Z",
+    "thumbnail_blurhash": "L7E:Igbe?GyB~OO,R*M}NqNGg1xH"
   }
 ]
