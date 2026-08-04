@@ -908,5 +908,31 @@
     "published_at": "Tue, 04 Aug 2026 17:00:00 +0700",
     "createAt": "2026-08-04T10:00:00.000Z",
     "thumbnail_blurhash": "LrB$l]HqawV{.mS7R5jEoyoxRPaJ"
+  },
+  {
+    "id": "https://vnexpress.net/thu-tuong-de-nghi-thi-diem-dai-su-cong-nghe-5105180.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Thủ tướng đề nghị thí điểm Đại sứ công nghệ",
+    "description": "Thủ tướng Lê Minh Hưng đề nghị tăng cường ngoại giao khoa học công nghệ, sớm triển khai thí điểm cơ chế Đại sứ, Đặc phái viên về công nghệ để phục vụ phát triển của đất nước.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/04/wm1-wm1-17858106689495265723702145-7838-9083-1785837606.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=FuJTnvLRHHuU92iK7fjCAw",
+    "link": "https://vnexpress.net/thu-tuong-de-nghi-thi-diem-dai-su-cong-nghe-5105180.html",
+    "published_at": "Tue, 04 Aug 2026 17:54:02 +0700",
+    "createAt": "2026-08-04T10:54:02.000Z",
+    "thumbnail_blurhash": "LrD{5#%1ysxYYkNfIoR.t4skr;oJ"
+  },
+  {
+    "id": "https://vnexpress.net/vi-sao-tay-ban-nha-co-hai-vung-lanh-tho-o-chau-phi-5104692.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Vì sao Tây Ban Nha có hai vùng lãnh thổ ở châu Phi",
+    "description": "Ceuta và Melilla nằm trên bờ biển Morocco nhưng thuộc chủ quyền Tây Ban Nha, trở thành hai vùng lãnh thổ đặc biệt của châu Âu ở châu Phi.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/03/afp2018090518u9yuv1highresspai-7189-1718-1785750124.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=kMb4dzf6xbqrHOswEBOlvg",
+    "link": "https://vnexpress.net/vi-sao-tay-ban-nha-co-hai-vung-lanh-tho-o-chau-phi-5104692.html",
+    "published_at": "Tue, 04 Aug 2026 19:00:00 +0700",
+    "createAt": "2026-08-04T12:00:00.000Z",
+    "thumbnail_blurhash": "LJ9kgbt7R4f87QRinNkCM{t6bIay"
   }
 ]
