@@ -349,5 +349,57 @@
     "published_at": "Tue, 04 Aug 2026 11:00:00 +0700",
     "createAt": "2026-08-04T04:00:00.000Z",
     "thumbnail_blurhash": "LWJ@]~~px]s;x[E0-oIU-:IUIURj"
+  },
+  {
+    "id": "https://vnexpress.net/phau-thuat-cat-tu-cung-sau-15-nam-thieu-mau-do-u-xo-5104913.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Phẫu thuật cắt tử cung sau 15 năm thiếu máu do u xơ",
+    "description": "Chị Minh, 53 tuổi, u xơ tử cung 15 năm gây rong kinh thiếu máu, nay được bác sĩ dùng robot hỗ trợ phẫu thuật nội soi cắt tử cung điều trị triệt để.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/04/image007-1785808575-5487-1785808616.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=mCwDdcNLT1lL6_bN--s5fg",
+    "link": "https://vnexpress.net/phau-thuat-cat-tu-cung-sau-15-nam-thieu-mau-do-u-xo-5104913.html",
+    "published_at": "Tue, 04 Aug 2026 11:00:00 +0700",
+    "createAt": "2026-08-04T04:00:00.000Z",
+    "thumbnail_blurhash": "LCLqIV92?uEep{oz-Cw0?H-=E2Io"
+  },
+  {
+    "id": "https://vnexpress.net/hai-thoi-quen-nau-nuong-de-ruoc-ung-thu-vao-nguoi-5104563.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Hai thói quen nấu nướng dễ 'rước' ung thư vào người",
+    "description": "Dùng đũa gỗ, đũa tre quá lâu không thay hoặc chuộng dầu ăn \"chiên đi chiên lại\" nhiều lần có thể dẫn đến ung thư.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/03/screenshot-at-1785732128-6925-1785733108.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=j6ZJkExRYk8ESysrsARHHw",
+    "link": "https://vnexpress.net/hai-thoi-quen-nau-nuong-de-ruoc-ung-thu-vao-nguoi-5104563.html",
+    "published_at": "Tue, 04 Aug 2026 12:00:00 +0700",
+    "createAt": "2026-08-04T05:00:00.000Z",
+    "thumbnail_blurhash": "L58XE~009iaw4paet5WA02tQ~oIB"
+  },
+  {
+    "id": "https://vnexpress.net/be-gai-beo-phi-mac-4-benh-cung-luc-5104693.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Bé gái béo phì mắc 4 bệnh cùng lúc",
+    "description": "Lan, 14 tuổi, có vùng da sẫm màu sau gáy, khám sức khỏe phát hiện mắc đái tháo đường, rối loạn mỡ máu, gan nhiễm mỡ và hội chứng buồng trứng đa nang.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/03/image001-1785746236-6174-1785746327.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=JL0-sZ-5YMK0YknAwrNZxg",
+    "link": "https://vnexpress.net/be-gai-beo-phi-mac-4-benh-cung-luc-5104693.html",
+    "published_at": "Tue, 04 Aug 2026 12:00:00 +0700",
+    "createAt": "2026-08-04T05:00:00.000Z",
+    "thumbnail_blurhash": "LLMQL#xdXSX3?]0fR+-;ELx^xuM{"
+  },
+  {
+    "id": "https://vnexpress.net/san-phu-de-roi-con-tren-xe-may-khi-vua-toi-benh-vien-5104999.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Sản phụ đẻ rơi con trên xe máy khi vừa tới bệnh viện",
+    "description": "Người phụ nữ 25 tuổi được chồng đưa xe máy đến bệnh viện trong tình trạng em bé đã sổ ra ngoài, vẫn mắc ở quần mẹ.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/04/2-1785816189-5479-1785816953.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=nLZj-lRkLTuqfQUKrS53ag",
+    "link": "https://vnexpress.net/san-phu-de-roi-con-tren-xe-may-khi-vua-toi-benh-vien-5104999.html",
+    "published_at": "Tue, 04 Aug 2026 12:11:43 +0700",
+    "createAt": "2026-08-04T05:11:43.000Z",
+    "thumbnail_blurhash": "LBKw,=00K{AS?^E*.7,BD$E1XT?b"
   }
 ]

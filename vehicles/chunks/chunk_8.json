@@ -921,5 +921,31 @@
     "published_at": "Tue, 04 Aug 2026 10:10:18 +0700",
     "createAt": "2026-08-04T03:10:18.000Z",
     "thumbnail_blurhash": "LyEpTpRjjrt8.TWBaxog?cflWEax"
+  },
+  {
+    "id": "https://vnexpress.net/trung-quoc-siet-quy-dinh-muc-hien-thi-ao-ve-pin-xe-dien-5104413.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Trung Quốc siết quy định mức hiển thị 'ảo' về pin xe điện",
+    "description": "Tiêu chuẩn mới đặt hạn mức sai số hiển thị tình trạng pin dưới 5% và quy định mốc độ bền pin theo thời gian sử dụng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/03/China1-1785746306-7417-1785746383.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=mlmXOo2bpNhI_zj_pq_UxQ",
+    "link": "https://vnexpress.net/trung-quoc-siet-quy-dinh-muc-hien-thi-ao-ve-pin-xe-dien-5104413.html",
+    "published_at": "Tue, 04 Aug 2026 11:14:08 +0700",
+    "createAt": "2026-08-04T04:14:08.000Z",
+    "thumbnail_blurhash": "LGFFR10JMvt6?KV@4-E0~DITtSba"
+  },
+  {
+    "id": "https://vnexpress.net/byd-yangwang-u8l-suv-erev-canh-tranh-mercedes-maybach-5104941.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "BYD Yangwang U8L - SUV EREV cạnh tranh Mercedes-Maybach",
+    "description": "Mẫu SUV kéo dài dành cho ông chủ với logo dát vàng, động cơ 1.180 mã lực và hướng tới các đối thủ hạng sang như Mercedes-Maybach GLS.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/04/YangwangU8L1-1785813234-6248-1785813404.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=KDjrOrWqxGKHHs862URLkA",
+    "link": "https://vnexpress.net/byd-yangwang-u8l-suv-erev-canh-tranh-mercedes-maybach-5104941.html",
+    "published_at": "Tue, 04 Aug 2026 11:42:35 +0700",
+    "createAt": "2026-08-04T04:42:35.000Z",
+    "thumbnail_blurhash": "LIA,a-E2xZxa~WIpoft6Rhf6WVay"
   }
 ]
