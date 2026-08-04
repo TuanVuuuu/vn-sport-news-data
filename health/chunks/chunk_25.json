@@ -271,5 +271,44 @@
     "published_at": "Tue, 04 Aug 2026 09:30:00 +0700",
     "createAt": "2026-08-04T02:30:00.000Z",
     "thumbnail_blurhash": "LGMa69rTyY*0VU~px]xuoz%14TRj"
+  },
+  {
+    "id": "https://vnexpress.net/y-te-tp-hcm-se-thanh-benh-vien-khong-tuong-5104871.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Y tế TP HCM sẽ thành 'bệnh viện không tường'",
+    "description": "TP HCM sẽ kết nối các bệnh viện thành \"một bệnh viện không tường\", đưa dịch vụ y tế chất lượng cao đến gần người dân.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/04/dji-1785802107-7555-1785802169.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=589nh7WwucwI-2NnccxLFA",
+    "link": "https://vnexpress.net/y-te-tp-hcm-se-thanh-benh-vien-khong-tuong-5104871.html",
+    "published_at": "Tue, 04 Aug 2026 09:40:41 +0700",
+    "createAt": "2026-08-04T02:40:41.000Z",
+    "thumbnail_blurhash": "LGEo_4bvD$%1.TRiM{%2x^Rit7Iq"
+  },
+  {
+    "id": "https://vnexpress.net/loi-mat-giam-thi-luc-do-ro-mach-mau-nao-5104903.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Lồi mắt, giảm thị lực do rò mạch máu não",
+    "description": "Ông Lành, 66 tuổi, đau đầu, lồi mắt trái, thị lực suy giảm, bác sĩ chẩn đoán rò động tĩnh mạch màng cứng xoang hang trái.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/04/2-vne-1785812385-2759-1785812510.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=LoVRd91v_zYG6jnL8YhW1g",
+    "link": "https://vnexpress.net/loi-mat-giam-thi-luc-do-ro-mach-mau-nao-5104903.html",
+    "published_at": "Tue, 04 Aug 2026 10:00:00 +0700",
+    "createAt": "2026-08-04T03:00:00.000Z",
+    "thumbnail_blurhash": "L9KUWc~qMx?b~qNGofV@x]%2tRt7"
+  },
+  {
+    "id": "https://vnexpress.net/an-trung-buoi-sang-co-phai-thoi-diem-tot-nhat-5104512.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Ăn trứng buổi sáng có phải thời điểm tốt nhất?",
+    "description": "Tôi thích ăn trứng và thấy nhiều thông tin khuyến cáo sử dụng trứng vào buổi sáng, vậy đây có phải thời điểm ăn tốt nhất trong ngày? (Linh, 38 tuổi, Hà Nội)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/03/anh-trung-nut-vo-luoc-lua-nh-1-9850-2007-1785746498.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=KhT2Czj_rEJnC5KF1mS--Q",
+    "link": "https://vnexpress.net/an-trung-buoi-sang-co-phai-thoi-diem-tot-nhat-5104512.html",
+    "published_at": "Tue, 04 Aug 2026 10:03:04 +0700",
+    "createAt": "2026-08-04T03:03:04.000Z",
+    "thumbnail_blurhash": "L9Amo1D%01WV~q4.V[xu9aD*?a?H"
   }
 ]
