@@ -1,40 +1,6 @@
 {
   "entries": [
     {
-      "sent_at": "2026-07-31T23:10:50.979Z",
-      "topic": null,
-      "device_id": "4b7b7217a1ea1e79",
-      "slot": "morning",
-      "type": "featured_digest",
-      "article_ids": [
-        "https://vnexpress.net/hai-nguoi-viet-bi-bat-vi-do-xe-dap-thanh-xe-dien-o-nhat-5103704.html",
-        "https://vnexpress.net/toa-hai-cuu-can-bo-hai-quan-nhan-hoi-lo-song-giai-quyet-dung-quy-dinh-5103722.html",
-        "https://vnexpress.net/truc-tiep-timor-leste-vs-indonesia-5103837.html",
-        "https://vnexpress.net/truc-tiep-timor-leste-vs-indonesia-5103837-tong-thuat.html",
-        "https://vnexpress.net/be-4-tuoi-phai-thay-huyet-tuong-vi-uong-paracetamol-qua-day-5103850.html",
-        "https://vnexpress.net/cuu-ceo-boeing-viet-nam-lam-pho-chu-tich-flc-5103858.html",
-        "https://vnexpress.net/chi-cuc-truong-thu-y-vung-i-bi-khoi-to-trong-vu-nhap-lau-thuy-san-5103840.html",
-        "https://vnexpress.net/nha-khoa-hoc-my-tim-ra-phan-tu-tieu-diet-te-bao-ung-thu-5102378.html",
-        "https://vnexpress.net/rapper-mck-go-nhac-sau-khi-bi-nhan-xet-ca-tu-tho-tuc-5103867.html",
-        "https://vnexpress.net/viet-nam-vs-singapore-5103811.html",
-        "https://vnexpress.net/viet-nam-vs-singapore-5103811-tong-thuat.html",
-        "https://vnexpress.net/khoi-to-vu-an-5-cong-nhan-tu-vong-trong-trai-lon-5103884.html",
-        "https://vnexpress.net/hang-chuc-nghin-nguoi-vuot-hang-rao-bien-gioi-vao-tay-ban-nha-5103889.html",
-        "https://vnexpress.net/ceuta-mui-dat-thanh-diem-nong-di-cu-cua-tay-ban-nha-5103804.html",
-        "https://vnexpress.net/iran-tuyen-bo-tan-cong-tau-cho-dau-duoc-my-ho-tong-o-eo-bien-hormuz-5103894.html",
-        "https://vnexpress.net/vks-de-nghi-phat-dao-dien-le-minh-7-8-nam-tu-toa-tra-ho-so-5103900.html",
-        "https://vnexpress.net/quyen-tong-giam-doc-eximbank-tu-nhiem-5103888.html",
-        "https://vnexpress.net/canh-sat-dot-kich-11-dia-diem-triet-pha-duong-day-ca-do-5103906.html",
-        "https://vnexpress.net/hlv-kim-sang-sik-kho-chiu-voi-dinh-bac-5103919.html",
-        "https://vnexpress.net/hon-37-500-di-dan-tran-vao-tay-ban-nha-da-tro-lai-morocco-5103916.html",
-        "https://vnexpress.net/hon-37-500-nguoi-di-cu-tran-vao-tay-ban-nha-da-tro-lai-morocco-5103916.html",
-        "https://vnexpress.net/hlv-kim-sang-sik-hop-bao-sau-tran-hoa-singapore-5103833.html",
-        "https://vnexpress.net/hlv-kim-sang-sik-dinh-bac-chua-lam-tot-nhiem-vu-5103833.html",
-        "https://vnexpress.net/hang-nghin-phuong-tien-un-u-tren-cau-vinh-tuy-5103931.html"
-      ],
-      "highlight_id": "https://vnexpress.net/hang-nghin-phuong-tien-un-u-tren-cau-vinh-tuy-5103931.html"
-    },
-    {
       "sent_at": "2026-07-31T23:10:51.134Z",
       "topic": null,
       "device_id": "2c939316dd386076",
@@ -13568,6 +13534,28 @@
         "https://vnexpress.net/chu-tich-ha-noi-cham-dut-bi-dong-trong-chong-ngap-5105073.html"
       ],
       "highlight_id": "https://vnexpress.net/chu-tich-ha-noi-cham-dut-bi-dong-trong-chong-ngap-5105073.html"
+    },
+    {
+      "sent_at": "2026-08-04T13:11:04.987Z",
+      "topic": null,
+      "device_id": "6B3960B8-F8B9-494C-8006-2F9EA4392644",
+      "slot": "evening",
+      "type": "featured_digest",
+      "article_ids": [
+        "https://vnexpress.net/to-giay-nhan-viet-tu-phong-hoi-suc-tich-cuc-5105062.html",
+        "https://vnexpress.net/chu-tich-ldbd-indonesia-tam-nhin-cua-chung-toi-khong-chi-la-dong-nam-a-5105161.html",
+        "https://vnexpress.net/ha-noi-yeu-cau-xa-phuong-khong-cho-chi-dao-khi-ngap-5105073.html",
+        "https://vnexpress.net/robot-hinh-nguoi-tu-treo-thang-5105186.html",
+        "https://vnexpress.net/trinh-quoc-hoi-lap-thanh-pho-quang-ninh-bac-ninh-trong-thang-8-5105157.html",
+        "https://vnexpress.net/bi-truy-na-nu-giam-doc-phau-thuat-tham-my-guong-mat-lan-tron-9-nam-5105203.html",
+        "https://vnexpress.net/dat-da-do-nhu-thac-suyt-vui-oto-xe-may-len-sa-pa-5105178.html",
+        "https://vnexpress.net/mot-doanh-nghiep-nha-nuoc-nhan-hon-2-ty-usd-co-tuc-tu-toyota-ford-honda-5105211.html",
+        "https://vnexpress.net/thu-tuong-de-nghi-thi-diem-dai-su-cong-nghe-5105180.html",
+        "https://vnexpress.net/khach-viet-co-lan-nhap-canh-rieng-tai-san-bay-noi-bai-5105076.html",
+        "https://vnexpress.net/philippines-vs-thai-lan-5105233.html",
+        "https://vnexpress.net/de-xuat-cap-700-000-dong-moi-hoc-sinh-de-hoc-boi-5105219.html"
+      ],
+      "highlight_id": "https://vnexpress.net/de-xuat-cap-700-000-dong-moi-hoc-sinh-de-hoc-boi-5105219.html"
     }
   ]
 }
