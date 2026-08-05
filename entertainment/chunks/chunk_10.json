@@ -596,5 +596,44 @@
     "published_at": "Wed, 05 Aug 2026 20:00:00 +0700",
     "createAt": "2026-08-05T13:00:00.000Z",
     "thumbnail_blurhash": "LPJ[6YV@?HfP~WRjM{D%E1ofozIV"
+  },
+  {
+    "id": "https://vnexpress.net/long-vu-toi-hoc-me-van-dung-su-kien-tri-voi-nghe-5102118.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Long Vũ: 'Tôi học mẹ Vân Dung sự kiên trì với nghề'",
+    "description": "Long Vũ - con trai nghệ sĩ Vân Dung - cho biết mẹ không dùng mối quan hệ để giúp anh đóng phim, chỉ dạy cách đi từng bước một với nghề.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/08/05/long-vu-1785920550-8850-1785920618.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Lmt_d8e_UeLt136cJRjOrw",
+    "link": "https://vnexpress.net/long-vu-toi-hoc-me-van-dung-su-kien-tri-voi-nghe-5102118.html",
+    "published_at": "Thu, 06 Aug 2026 00:00:00 +0700",
+    "createAt": "2026-08-05T17:00:00.000Z",
+    "thumbnail_blurhash": "LBN0*XtS?^_2=p9ERiRPsDtlxuVs"
+  },
+  {
+    "id": "https://vnexpress.net/khi-nguoi-lon-doc-truyen-thieu-nhi-5105283.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Khi người lớn đọc truyện thiếu nhi",
+    "description": "Qua cuốn ''Truyện tuyển cho em'', tôi nghĩ phải chăng trong mỗi người vẫn còn giữ lại một phần tâm hồn trẻ thơ, dù tuổi tác lớn dần theo thời gian.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/08/04/truyen-tuyen-cho-em-1785861692-4841-1785861827.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=KZVcuWwSJhx1XNWc18OEKw",
+    "link": "https://vnexpress.net/khi-nguoi-lon-doc-truyen-thieu-nhi-5105283.html",
+    "published_at": "Thu, 06 Aug 2026 00:00:00 +0700",
+    "createAt": "2026-08-05T17:00:00.000Z",
+    "thumbnail_blurhash": "L6Km|l0000ynMavzlB=xXM9E-C~E"
+  },
+  {
+    "id": "https://vnexpress.net/dau-an-viet-nam-qua-net-ve-cua-hoa-si-anh-5105159.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Dấu ấn Việt Nam qua nét vẽ của họa sĩ Anh",
+    "description": "Họa sĩ John Lester vẽ cô gái Việt trong nhịp sống thường ngày, cảnh núi non hùng vĩ ở vùng cao.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/08/05/kinh-ram-mat-na-va-mu-bao-hiem-1785918586.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=QdEMSr1Fv7XlrZ_kCBk_CA",
+    "link": "https://vnexpress.net/dau-an-viet-nam-qua-net-ve-cua-hoa-si-anh-5105159.html",
+    "published_at": "Thu, 06 Aug 2026 00:06:00 +0700",
+    "createAt": "2026-08-05T17:06:00.000Z",
+    "thumbnail_blurhash": "LJD0fr%jA#kY-so#IoWVM}jsxnof"
   }
 ]
