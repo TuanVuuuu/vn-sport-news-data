@@ -1272,5 +1272,31 @@
     "published_at": "Thu, 06 Aug 2026 04:00:00 +0700",
     "createAt": "2026-08-05T21:00:00.000Z",
     "thumbnail_blurhash": "LFBg6#9F-pV=_M9FxbIU?vIUxvM{"
+  },
+  {
+    "id": "https://vnexpress.net/ly-do-nga-lien-tiep-tap-kich-tram-xang-ukraine-5105325.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Lý do Nga liên tiếp tập kích trạm xăng Ukraine",
+    "description": "Các cuộc không kích vào loạt trạm xăng ở Ukraine được cho là chiến thuật mới của Nga nhằm gieo rắc sự hoảng loạn và gây áp lực tâm lý lên người dân.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/05/2026t104144z-1785918029-1326-1785919125.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=NQRWHFNZRfjlb2vlqQGAaQ",
+    "link": "https://vnexpress.net/ly-do-nga-lien-tiep-tap-kich-tram-xang-ukraine-5105325.html",
+    "published_at": "Thu, 06 Aug 2026 05:00:00 +0700",
+    "createAt": "2026-08-05T22:00:00.000Z",
+    "thumbnail_blurhash": "LFB.+S~BXmX8VsxZoybHGGIpv~jF"
+  },
+  {
+    "id": "https://vnexpress.net/cuoc-dua-cong-nghe-my-trung-tang-nhiet-duoi-day-bien-5104998.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Cuộc đua công nghệ Mỹ - Trung 'tăng nhiệt' dưới đáy biển",
+    "description": "Không chỉ bán dẫn hay robot, cuộc đua công nghệ Mỹ - Trung còn diễn ra dưới đáy biểu với mục tiêu kiểm soát hạ tầng cáp quang biển.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/04/14691-1785838435-8766-1785838752.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=T6x0FDtVp3t4wB40LdiH4A",
+    "link": "https://vnexpress.net/cuoc-dua-cong-nghe-my-trung-tang-nhiet-duoi-day-bien-5104998.html",
+    "published_at": "Thu, 06 Aug 2026 05:00:00 +0700",
+    "createAt": "2026-08-05T22:00:00.000Z",
+    "thumbnail_blurhash": "LeD0lvIAE1t6_4MwM{t7xvaxRjf+"
   }
 ]
