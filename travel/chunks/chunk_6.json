@@ -1103,5 +1103,31 @@
     "published_at": "Wed, 05 Aug 2026 07:00:00 +0700",
     "createAt": "2026-08-05T00:00:00.000Z",
     "thumbnail_blurhash": "L7Fi3}00E1009u%2Di-pD%t8en~q"
+  },
+  {
+    "id": "https://vnexpress.net/viet-nam-vuot-thai-lan-thanh-thi-truong-hang-khong-lon-thu-hai-dong-nam-a-5105467.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Việt Nam vượt Thái Lan, thành thị trường hàng không lớn thứ hai Đông Nam Á",
+    "description": "Việt Nam đã vượt Thái Lan để trở thành thị trường hàng không lớn thứ hai khu vực trong tháng 7, tăng gần 6% so với cùng kỳ.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/08/05/may-bay-1785903777-1226-1785903863.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=VgkhdqrHIQ-BxUQLdsmuUA",
+    "link": "https://vnexpress.net/viet-nam-vuot-thai-lan-thanh-thi-truong-hang-khong-lon-thu-hai-dong-nam-a-5105467.html",
+    "published_at": "Wed, 05 Aug 2026 11:49:53 +0700",
+    "createAt": "2026-08-05T04:49:53.000Z",
+    "thumbnail_blurhash": "LcH{=*x[V[xu_4j[j[ofM_bGafWB"
+  },
+  {
+    "id": "https://vnexpress.net/ba-lao-97-tuoi-lap-ky-luc-di-bo-tren-canh-may-bay-5105386.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Bà lão 97 tuổi lập kỷ lục đi bộ trên cánh máy bay",
+    "description": "Cụ bà người Anh trở người phụ nữ lớn tuổi nhất đi bộ trên cánh máy bay, một năm sau khi bị đột quỵ",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/08/05/imgi19ac3c660902411f1b783f7843-8132-3745-1785902705.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=96ZhqW6LynZtgzMMwrFyhw",
+    "link": "https://vnexpress.net/ba-lao-97-tuoi-lap-ky-luc-di-bo-tren-canh-may-bay-5105386.html",
+    "published_at": "Wed, 05 Aug 2026 11:55:25 +0700",
+    "createAt": "2026-08-05T04:55:25.000Z",
+    "thumbnail_blurhash": "LBAw*u.A%i%LD4$cRiRm~p$~rong"
   }
 ]
