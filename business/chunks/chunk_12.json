@@ -297,5 +297,44 @@
     "published_at": "Wed, 05 Aug 2026 22:58:53 +0700",
     "createAt": "2026-08-05T15:58:53.000Z",
     "thumbnail_blurhash": "LoJ6Z[a1wI-U~VRkSgbbY5jsX8S4"
+  },
+  {
+    "id": "https://vnexpress.net/doanh-nghiep-viet-kho-dap-ung-yeu-cau-bao-bi-tai-che-cua-eu-5105675.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "'Doanh nghiệp Việt khó đáp ứng yêu cầu bao bì tái chế của EU'",
+    "description": "Doanh nghiệp Việt khó đáp ứng chuẩn bao bì mới của châu Âu, với quy định vỏ chai, nilon, khay nhựa thực phẩm chứa 30% nhựa tái chế, theo chuyên gia.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/08/05/cangu-1785931808-1314-1785931818.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=V1iIjrFPVO1s-tHnv4dZHg",
+    "link": "https://vnexpress.net/doanh-nghiep-viet-kho-dap-ung-yeu-cau-bao-bi-tai-che-cua-eu-5105675.html",
+    "published_at": "Thu, 06 Aug 2026 00:00:00 +0700",
+    "createAt": "2026-08-05T17:00:00.000Z",
+    "thumbnail_blurhash": "LPECzpWsWBD%~qogWVRkaxM{M{x]"
+  },
+  {
+    "id": "https://vnexpress.net/trung-quoc-tu-mo-vang-den-niem-dau-cua-cac-hang-xe-duc-5105514.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Trung Quốc - Từ mỏ vàng đến niềm đau của các hãng xe Đức",
+    "description": "Trung Quốc từng giúp các hãng xe Đức vươn lên thành những tập đoàn toàn cầu nhưng giờ cũng trở thành gánh nặng lớn nhất của họ.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/08/05/2024t112749z-rc2ofaa7mq4l-rtrm-2573-8453-1785914916.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=vZaE4o7C2msjgeP_S11gVQ",
+    "link": "https://vnexpress.net/trung-quoc-tu-mo-vang-den-niem-dau-cua-cac-hang-xe-duc-5105514.html",
+    "published_at": "Thu, 06 Aug 2026 00:05:00 +0700",
+    "createAt": "2026-08-05T17:05:00.000Z",
+    "thumbnail_blurhash": "LJEfjfbIaII_XYxu%Nxt4m%2tQ%I"
+  },
+  {
+    "id": "https://vnexpress.net/nguoi-trung-quoc-giam-mua-nha-tai-my-5105634.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Người Trung Quốc giảm mua nhà tại Mỹ",
+    "description": "Lượng người Trung Quốc mua nhà tại Mỹ trong 12 tháng tính đến hết tháng 3 giảm 37% so với cùng kỳ, rơi xuống vị trí thứ ba sau Canada và Mexico.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/08/05/ushomereuters-1785921257-1666-1785921377.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=pFViDmQxAzLLD4xOJWA7uw",
+    "link": "https://vnexpress.net/nguoi-trung-quoc-giam-mua-nha-tai-my-5105634.html",
+    "published_at": "Thu, 06 Aug 2026 00:10:00 +0700",
+    "createAt": "2026-08-05T17:10:00.000Z",
+    "thumbnail_blurhash": "LJGb#CIU~q%M?d9Ft8Wq.600RkWA"
   }
 ]
