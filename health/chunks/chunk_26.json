@@ -362,5 +362,57 @@
     "published_at": "Thu, 06 Aug 2026 20:15:48 +0700",
     "createAt": "2026-08-06T13:15:48.000Z",
     "thumbnail_blurhash": "LZJb%B%MRQ-;_NMxt6WCtRWBRPV@"
+  },
+  {
+    "id": "https://vnexpress.net/5-nguyen-lieu-them-vao-nuoc-chanh-tot-cho-suc-khoe-5105614.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "5 nguyên liệu thêm vào nước chanh tốt cho sức khỏe",
+    "description": "Thêm hạt chia, gừng, mật ong, bạc hà không chỉ làm nước chanh thơm ngon hơn mà còn tăng hàm lượng chất xơ, chất chống oxy hóa có lợi cho sức khỏe.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/05/dualeo-1785919957.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=-c_09PXkIuPMAZGgKAbgiQ",
+    "link": "https://vnexpress.net/5-nguyen-lieu-them-vao-nuoc-chanh-tot-cho-suc-khoe-5105614.html",
+    "published_at": "Fri, 07 Aug 2026 00:03:00 +0700",
+    "createAt": "2026-08-06T17:03:00.000Z",
+    "thumbnail_blurhash": "LSJ8df?Z}Z--61-okX%1?G-V%2R7"
+  },
+  {
+    "id": "https://vnexpress.net/nhung-dieu-can-biet-ve-tinh-trung-5104980.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Những điều cần biết về tinh trùng",
+    "description": "Trung bình, cơ thể có thể sản xuất khoảng 1.000 tinh trùng trong mỗi nhịp tim, tương đương hàng chục triệu tinh trùng mỗi ngày.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/04/anh-chup-man-hinh-luc-17858145-5731-8789-1785814592.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=Xc1DK7gYjNJ5rqospocV1A",
+    "link": "https://vnexpress.net/nhung-dieu-can-biet-ve-tinh-trung-5104980.html",
+    "published_at": "Fri, 07 Aug 2026 00:03:00 +0700",
+    "createAt": "2026-08-06T17:03:00.000Z",
+    "thumbnail_blurhash": "LMKUQM}?PXt39b=EE1ghE2MwwbOs"
+  },
+  {
+    "id": "https://vnexpress.net/bac-si-canh-bao-nguy-co-bong-lanh-khi-chuom-da-vung-kin-5104314.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Bác sĩ cảnh báo nguy cơ bỏng lạnh khi chườm đá vùng kín",
+    "description": "Nhiều nam giới truyền tai nhau mẹo chườm đá vào tinh hoàn để tăng số lượng và chất lượng tinh trùng, song bác sĩ cho biết cách này chưa có bằng chứng khoa học và có thể gây bỏng lạnh, tổn thương da bìu.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/02/nuoc-da-1785665988-9105-1785666014.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=QTifzXzMiV5x-M_yXqsQIg",
+    "link": "https://vnexpress.net/bac-si-canh-bao-nguy-co-bong-lanh-khi-chuom-da-vung-kin-5104314.html",
+    "published_at": "Fri, 07 Aug 2026 00:03:00 +0700",
+    "createAt": "2026-08-06T17:03:00.000Z",
+    "thumbnail_blurhash": "L7Hf9q%M_4%h9E9EWBM{-=RQMwn~"
+  },
+  {
+    "id": "https://vnexpress.net/nguoi-song-tho-thuong-lam-gi-moi-toi-5105582.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Người sống thọ thường làm gì mỗi tối?",
+    "description": "Ngủ đủ giấc, ăn tối sớm, thư giãn và quây quần bên gia đình là những thói quen buổi tối phổ biến của người sống thọ ở các Vùng Xanh.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/05/doc-sach-1785918776-5922-1785919014.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=4u7gfo3Zh2pf-t0Lku74oA",
+    "link": "https://vnexpress.net/nguoi-song-tho-thuong-lam-gi-moi-toi-5105582.html",
+    "published_at": "Fri, 07 Aug 2026 01:00:00 +0700",
+    "createAt": "2026-08-06T18:00:00.000Z",
+    "thumbnail_blurhash": "LCDbi@~V=rEm5rElNeW=57~B_3=_"
   }
 ]

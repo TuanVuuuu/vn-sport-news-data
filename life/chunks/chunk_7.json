@@ -674,5 +674,57 @@
     "published_at": "Thu, 06 Aug 2026 15:35:49 +0700",
     "createAt": "2026-08-06T08:35:49.000Z",
     "thumbnail_blurhash": "LOJ7XE$MXT%L~VM{WYof5tELjYWC"
+  },
+  {
+    "id": "https://vnexpress.net/nhom-lao-dong-viet-cuu-nguoi-trong-dong-dat-nhat-ban-5103933.html",
+    "category_id": "life",
+    "category_name": "Đời sống",
+    "source": "VnExpress",
+    "title": "Nhóm lao động Việt cứu người trong động đất Nhật Bản",
+    "description": "Báo chí Nhật Bản đồng loạt đưa tin nhóm 5 lao động Việt Nam dùng tay không và cưa gỗ cứu cụ bà 90 tuổi khỏi đống đổ nát sau trận động đất tại tỉnh Kumamoto.",
+    "thumbnail_url": "https://vcdn1-giadinh.vnecdn.net/2026/07/31/a-nh-ma-n-hi-nh-lu-c-178551107-6242-7830-1785511182.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=TpQ1BpBJauIbDpnbMgla6w",
+    "link": "https://vnexpress.net/nhom-lao-dong-viet-cuu-nguoi-trong-dong-dat-nhat-ban-5103933.html",
+    "published_at": "Sat, 01 Aug 2026 06:00:00 +0700",
+    "createAt": "2026-07-31T23:00:00.000Z",
+    "thumbnail_blurhash": "LnL:ZRnN?F$%~UtRNZoyWASOIpNu"
+  },
+  {
+    "id": "https://vnexpress.net/cuoc-song-cua-gia-dinh-12-con-5103977.html",
+    "category_id": "life",
+    "category_name": "Đời sống",
+    "source": "VnExpress",
+    "title": "Cuộc sống của gia đình 12 con",
+    "description": "Nuôi 12 người con trong căn nhà sáu phòng ngủ, vợ chồng Sullivan chọn mạng xã hội làm nơi chia sẻ cuộc sống và tạo nguồn thu nhập chính.",
+    "thumbnail_url": "https://vcdn1-giadinh.vnecdn.net/2026/08/01/00b5c2db0e73df676f06214e5e2e72-6497-4383-1785549454.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=vbh3WIVCmqk6NGWOgoIGhQ",
+    "link": "https://vnexpress.net/cuoc-song-cua-gia-dinh-12-con-5103977.html",
+    "published_at": "Sat, 01 Aug 2026 19:00:00 +0700",
+    "createAt": "2026-08-01T12:00:00.000Z",
+    "thumbnail_blurhash": "LBEolYxsM{VW~UniMx9a^a-pX8o$"
+  },
+  {
+    "id": "https://vnexpress.net/nguoi-dan-ong-nhat-rac-duoc-dung-tuong-5104552.html",
+    "category_id": "life",
+    "category_name": "Đời sống",
+    "source": "VnExpress",
+    "title": "Người đàn ông nhặt rác được dựng tượng",
+    "description": "Thư viện Công cộng Hàng Châu đặt tượng đồng một người nhặt rác nhằm tri ân hành trình 20 năm âm thầm gom phế liệu tài trợ học sinh nghèo.",
+    "thumbnail_url": "https://vcdn1-giadinh.vnecdn.net/2026/08/03/a-nh-ma-n-hi-nh-lu-c-178573161-4640-2651-1785731774.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=_7Jc7wqvOp7tboHDdGbN6Q",
+    "link": "https://vnexpress.net/nguoi-dan-ong-nhat-rac-duoc-dung-tuong-5104552.html",
+    "published_at": "Mon, 03 Aug 2026 13:55:28 +0700",
+    "createAt": "2026-08-03T06:55:28.000Z",
+    "thumbnail_blurhash": "LAELZ:00IX~UTw-p9a.7EMtlX9ni"
+  },
+  {
+    "id": "https://vnexpress.net/tuoi-12-cua-cau-be-bi-cho-can-nat-mat-vi-cuu-em-5104828.html",
+    "category_id": "life",
+    "category_name": "Đời sống",
+    "source": "VnExpress",
+    "title": "Tuổi 12 của 'cậu bé bị chó cắn nát mặt' vì cứu em",
+    "description": "6 năm sau lần xả thân cứu em gái khỏi chó dữ và phải khâu 90 mũi trên khuôn mặt, bé Bridger Walker đã trở lại cuộc sống năng động dù mang vết sẹo lớn.",
+    "thumbnail_url": "https://vcdn1-giadinh.vnecdn.net/2026/08/03/grateful-to-again-celebrate-th-8615-8392-1785770825.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=endbqhMnko34N4y5QLOCaw",
+    "link": "https://vnexpress.net/tuoi-12-cua-cau-be-bi-cho-can-nat-mat-vi-cuu-em-5104828.html",
+    "published_at": "Tue, 04 Aug 2026 07:53:18 +0700",
+    "createAt": "2026-08-04T00:53:18.000Z",
+    "thumbnail_blurhash": "LEF=%KW70__4t0%it9VX^-WBr]%3"
   }
 ]
