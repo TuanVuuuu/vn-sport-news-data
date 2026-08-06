@@ -622,5 +622,31 @@
     "published_at": "Thu, 06 Aug 2026 10:50:21 +0700",
     "createAt": "2026-08-06T03:50:21.000Z",
     "thumbnail_blurhash": "LSL4mK.Tn}xup0I9NHV@x^emRkbG"
+  },
+  {
+    "id": "https://vnexpress.net/uu-tien-gi-khi-chon-san-pham-dinh-duong-cho-tre-5103027.html",
+    "category_id": "life",
+    "category_name": "Đời sống",
+    "source": "VnExpress",
+    "title": "Ưu tiên gì khi chọn sản phẩm dinh dưỡng cho trẻ",
+    "description": "Sau nhiều lời khuyên sản phẩm dinh dưỡng trên các hội nhóm online, Phương Linh (Đà Nẵng) quyết chọn theo nhu cầu của con mình.",
+    "thumbnail_url": "https://vcdn1-giadinh.vnecdn.net/2026/08/05/1-1785926517-3129-1785926527.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=q382rKyLMjhOq8IwZaPsSw",
+    "link": "https://vnexpress.net/uu-tien-gi-khi-chon-san-pham-dinh-duong-cho-tre-5103027.html",
+    "published_at": "Thu, 06 Aug 2026 14:00:00 +0700",
+    "createAt": "2026-08-06T07:00:00.000Z",
+    "thumbnail_blurhash": "LNPP_t-o-.Vs_NV@tSIUVrRkx^of"
+  },
+  {
+    "id": "https://vnexpress.net/tim-thay-me-sau-57-nam-that-lac-nho-chatgpt-5105938.html",
+    "category_id": "life",
+    "category_name": "Đời sống",
+    "source": "VnExpress",
+    "title": "Tìm thấy mẹ sau 57 năm thất lạc nhờ ChatGPT",
+    "description": "Bế tắc sau nhiều thập kỷ tìm kiếm gốc gác, người đàn ông 66 tuổi thử hỏi ChatGPT và may mắn tìm được manh mối đoàn tụ với gia đình sau hơn nửa thế kỷ thất lạc.",
+    "thumbnail_url": "https://vcdn1-giadinh.vnecdn.net/2026/08/06/5e43cf0d92157-1785990948-2959-1785991339.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=6xQExcVK8Oq6hzsTcNz0yA",
+    "link": "https://vnexpress.net/tim-thay-me-sau-57-nam-that-lac-nho-chatgpt-5105938.html",
+    "published_at": "Thu, 06 Aug 2026 14:26:39 +0700",
+    "createAt": "2026-08-06T07:26:39.000Z",
+    "thumbnail_blurhash": "LgK,~pInXOI@~Utlx^wI-;xus.s."
   }
 ]
