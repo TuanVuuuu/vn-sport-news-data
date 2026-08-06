@@ -466,5 +466,31 @@
     "published_at": "Thu, 06 Aug 2026 21:12:44 +0700",
     "createAt": "2026-08-06T14:12:44.000Z",
     "thumbnail_blurhash": "LbE3Ykt8WCt7%%j]kCbHNIWBt7Rj"
+  },
+  {
+    "id": "https://vnexpress.net/iran-tung-doa-khien-ca-vung-vinh-chim-trong-bong-toi-5106142.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Iran từng dọa khiến cả vùng Vịnh chìm trong bóng tối",
+    "description": "Iran từng dọa đẩy toàn bộ vùng Vịnh vào cảnh mất điện nếu hạ tầng năng lượng nước này bị tấn công, kèm danh sách các mục tiêu tiềm tàng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/06/iran-tan-cong-1786025387-7942-1786026149.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=Y_8JNKINziwwV_MbBK9IsA",
+    "link": "https://vnexpress.net/iran-tung-doa-khien-ca-vung-vinh-chim-trong-bong-toi-5106142.html",
+    "published_at": "Thu, 06 Aug 2026 22:14:21 +0700",
+    "createAt": "2026-08-06T15:14:21.000Z",
+    "thumbnail_blurhash": "LTHoLKD$xuj[_4Mxj[WB-:ayM{of"
+  },
+  {
+    "id": "https://vnexpress.net/ukraine-nuoi-tham-vong-dung-starlink-khac-che-ten-lua-dan-dao-nga-5105083.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Ukraine nuôi tham vọng dùng Starlink khắc chế tên lửa đạn đạo Nga",
+    "description": "Ukraine dường như muốn được Mỹ cấp phép dùng Starlink để điều khiển UAV tập kích bệ phóng trên đất Nga, khiến đối phương không thể khai hỏa tên lửa.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/04/FP1-1785840096-9326-1785841902.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=EcxBTTKXSwb70ABkp5dUsQ",
+    "link": "https://vnexpress.net/ukraine-nuoi-tham-vong-dung-starlink-khac-che-ten-lua-dan-dao-nga-5105083.html",
+    "published_at": "Fri, 07 Aug 2026 01:00:00 +0700",
+    "createAt": "2026-08-06T18:00:00.000Z",
+    "thumbnail_blurhash": "L8D1N%tTX:%h.Tadogozpej[ZzWU"
   }
 ]
