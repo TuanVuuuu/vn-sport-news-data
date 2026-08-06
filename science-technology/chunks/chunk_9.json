@@ -284,5 +284,44 @@
     "published_at": "Thu, 06 Aug 2026 05:00:00 +0700",
     "createAt": "2026-08-05T22:00:00.000Z",
     "thumbnail_blurhash": "LeD0lvIAE1t6_4MwM{t7xvaxRjf+"
+  },
+  {
+    "id": "https://vnexpress.net/quai-kiet-ai-nguoi-viet-roi-google-mo-startup-5105758.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "'Quái kiệt AI' người Việt rời Google, mở startup",
+    "description": "TS Lê Viết Quốc cùng ba nhà khoa học rời Google, thành lập công ty Discovery Loop, xây dựng giải pháp dùng AI để tối ưu việc nghiên cứu khoa học.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/06/wm1-wm1-lq-09062-1785980806-2723-1785981766.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=8BHrES0M8zNJr_UaCTIoMQ",
+    "link": "https://vnexpress.net/quai-kiet-ai-nguoi-viet-roi-google-mo-startup-5105758.html",
+    "published_at": "Thu, 06 Aug 2026 09:17:40 +0700",
+    "createAt": "2026-08-06T02:17:40.000Z",
+    "thumbnail_blurhash": "LGExnps900oL00j[_NWC.SWVMdoJ"
+  },
+  {
+    "id": "https://vnexpress.net/google-xoa-so-assistant-tren-thiet-bi-android-tu-thang-9-5105711.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Google 'xóa sổ' Assistant trên thiết bị Android từ tháng 9",
+    "description": "Google thông báo sẽ chấm dứt hoạt động của trợ lý Assistant trên điện thoại Android, máy tính bảng và thiết bị đeo thông minh từ ngày 4/9 để chuyển sang Gemini.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/05/dsc8887-jpg-1785947216-5394-1785947262.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=8O1wgDrqSmsBaghUgdSfTA",
+    "link": "https://vnexpress.net/google-xoa-so-assistant-tren-thiet-bi-android-tu-thang-9-5105711.html",
+    "published_at": "Thu, 06 Aug 2026 10:00:19 +0700",
+    "createAt": "2026-08-06T03:00:19.000Z",
+    "thumbnail_blurhash": "LWJkcd,:I9NG?wE1kXo}IVRjofo#"
+  },
+  {
+    "id": "https://vnexpress.net/fpt-thanh-doi-tac-toan-cau-cua-openai-5105767.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "FPT thành đối tác toàn cầu của OpenAI",
+    "description": "FPT trở thành đối tác toàn cầu (Select Partner) của OpenAI trong việc giải bài toán an ninh mạng, vận hành, năng suất cho doanh nghiệp.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/06/o-ng-pha-m-minh-tua-n-jpg-1785-1385-5319-1785982396.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=98II6d3LBvbFkj3YoIwJJQ",
+    "link": "https://vnexpress.net/fpt-thanh-doi-tac-toan-cau-cua-openai-5105767.html",
+    "published_at": "Thu, 06 Aug 2026 10:08:34 +0700",
+    "createAt": "2026-08-06T03:08:34.000Z",
+    "thumbnail_blurhash": "LKI5JoM{RPx]_Ne.X8j[RktRxuV@"
   }
 ]
