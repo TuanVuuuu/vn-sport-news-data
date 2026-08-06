@@ -986,5 +986,31 @@
     "published_at": "Thu, 06 Aug 2026 21:20:43 +0700",
     "createAt": "2026-08-06T14:20:43.000Z",
     "thumbnail_blurhash": "LAH__RjC--ox~p?ZxVWAxr-on#M_"
+  },
+  {
+    "id": "https://vnexpress.net/man-dung-hien-truong-vo-bi-xam-hai-va-bi-mat-cua-me-con-nguoi-chong-5106126.html",
+    "category_id": "law",
+    "category_name": "Pháp luật",
+    "source": "VnExpress",
+    "title": "Màn dựng hiện trường 'vợ bị xâm hại' và bí mật của mẹ con người chồng",
+    "description": "Cái chết của Lisa Carlson ban đầu được dàn dựng như một vụ cướp với động cơ tình dục, song cuộc điều tra hé lộ tội ác của mẹ con người chồng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/06/lisa-carlson-spd-1786015797-8430-1786016381.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=GHNyfDC1dEOKnjfpfYvaaA",
+    "link": "https://vnexpress.net/man-dung-hien-truong-vo-bi-xam-hai-va-bi-mat-cua-me-con-nguoi-chong-5106126.html",
+    "published_at": "Fri, 07 Aug 2026 00:00:00 +0700",
+    "createAt": "2026-08-06T17:00:00.000Z",
+    "thumbnail_blurhash": "L79%^k00pf4nqZ_N01x]iwt7NZt7"
+  },
+  {
+    "id": "https://vnexpress.net/nguoi-phu-nu-gia-cong-an-lua-chay-an-5106120.html",
+    "category_id": "law",
+    "category_name": "Pháp luật",
+    "source": "VnExpress",
+    "title": "Người phụ nữ giả công an, lừa 'chạy án'",
+    "description": "Văn Thị Thúy, 37 tuổi, tự nhận là cán bộ công an, có nhiều mối quan hệ, chiếm đoạt 400 triệu đồng \"chạy án\" của người đàn ông.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/06/z8123390901367bb487816ad006ef8-7539-2340-1786014165.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=JhNIRGbjEKwSmQMLGoKflw",
+    "link": "https://vnexpress.net/nguoi-phu-nu-gia-cong-an-lua-chay-an-5106120.html",
+    "published_at": "Fri, 07 Aug 2026 00:00:00 +0700",
+    "createAt": "2026-08-06T17:00:00.000Z",
+    "thumbnail_blurhash": "LIC=77xxIS#$}P$dohsr=VjXJEW?"
   }
 ]
