@@ -1181,5 +1181,31 @@
     "published_at": "Thu, 06 Aug 2026 08:29:26 +0700",
     "createAt": "2026-08-06T01:29:26.000Z",
     "thumbnail_blurhash": "LJ9@@*_N-:e=^*?v%MWB-n.7%gay"
+  },
+  {
+    "id": "https://vnexpress.net/co-phai-xe-uu-tien-nao-cung-co-quyen-nhu-nhau-5105699.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Có phải xe ưu tiên nào cũng có quyền như nhau?",
+    "description": "Trong 5 nhóm xe ưu tiên, chỉ 4 nhóm đầu được vượt đèn đỏ, đi ngược chiều, không bị hạn chế tốc độ khi làm nhiệm vụ.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/05/thumb-xe-uu-tien-1785941991.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=qkPa2oIHCHzeTMchsIBVbQ",
+    "link": "https://vnexpress.net/co-phai-xe-uu-tien-nao-cung-co-quyen-nhu-nhau-5105699.html",
+    "published_at": "Thu, 06 Aug 2026 09:00:00 +0700",
+    "createAt": "2026-08-06T02:00:00.000Z",
+    "thumbnail_blurhash": "LNA^g~rWrUkXY8e-Z}W=O]bvW9n%"
+  },
+  {
+    "id": "https://vnexpress.net/ba-hang-xe-trung-quoc-vao-top-10-thi-phan-oto-toan-cau-5105752.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Ba hãng xe Trung Quốc vào top 10 thị phần ôtô toàn cầu",
+    "description": "BYD, Geely và Chery có tên trong danh sách 10 hãng xe có thị phần lớn nhất thế giới trong 6 tháng đầu năm nay.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/06/Geely1-1785980670-9134-1785980744.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=f-6zoBtXaNg_gDekStJd1A",
+    "link": "https://vnexpress.net/ba-hang-xe-trung-quoc-vao-top-10-thi-phan-oto-toan-cau-5105752.html",
+    "published_at": "Thu, 06 Aug 2026 09:49:30 +0700",
+    "createAt": "2026-08-06T02:49:30.000Z",
+    "thumbnail_blurhash": "LPE{nWRPRjxu9bj?WBWB_4xujrRj"
   }
 ]
