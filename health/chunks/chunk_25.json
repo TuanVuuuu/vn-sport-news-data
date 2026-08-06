@@ -1220,5 +1220,83 @@
     "published_at": "Thu, 06 Aug 2026 06:00:00 +0700",
     "createAt": "2026-08-05T23:00:00.000Z",
     "thumbnail_blurhash": "LTH2D?M^4:xu~WtRD$xu?GxuITM{"
+  },
+  {
+    "id": "https://vnexpress.net/6-dau-hieu-canh-bao-than-suy-yeu-5105118.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "6 dấu hiệu cảnh báo thận suy yếu",
+    "description": "Đau vùng thắt lưng, tiểu đêm nhiều, tóc khô xơ hoặc bạc sớm, tay chân lạnh, ngủ chập chờn cảnh báo nguy cơ suy giảm chức năng thận.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/05/chatgpt-image-thg-1785895618-3526-1785895691.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=qViihSvOGnKFxDGflO8cQg",
+    "link": "https://vnexpress.net/6-dau-hieu-canh-bao-than-suy-yeu-5105118.html",
+    "published_at": "Thu, 06 Aug 2026 07:00:00 +0700",
+    "createAt": "2026-08-06T00:00:00.000Z",
+    "thumbnail_blurhash": "L21ytqk[XVktpfXqkaoxXVS*kFjE"
+  },
+  {
+    "id": "https://vnexpress.net/dau-hieu-tre-so-sinh-kho-tho-can-di-kham-5105742.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Dấu hiệu trẻ sơ sinh khó thở cần đi khám",
+    "description": "Trẻ sơ sinh thở nhanh, rút lõm lồng ngực, phập phồng cánh mũi, tím môi hoặc có cơn ngưng thở cần được khám ngay do có thể mắc bệnh hô hấp.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/06/image001-1785977532-2717-1785977613.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=2LUDZCRVgD0CP225h2T2lA",
+    "link": "https://vnexpress.net/dau-hieu-tre-so-sinh-kho-tho-can-di-kham-5105742.html",
+    "published_at": "Thu, 06 Aug 2026 08:00:00 +0700",
+    "createAt": "2026-08-06T01:00:00.000Z",
+    "thumbnail_blurhash": "LHKT[G5AwG~Av_~o#jVY_MRND%kY"
+  },
+  {
+    "id": "https://vnexpress.net/be-gai-mac-hoi-chung-cushing-do-thuoc-chua-corticoid-5105733.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Bé gái mắc hội chứng Cushing do thuốc chứa corticoid",
+    "description": "Bé An, 8 tuổi, đau đầu, đỏ bừng mặt, bác sĩ chẩn đoán mắc hội chứng Cushing kèm suy tuyến thượng thận do dùng thuốc chứa corticoid.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/06/image001-1785976849-6352-1785977190.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=7nVEGV7w4jta3Oe5c64oBw",
+    "link": "https://vnexpress.net/be-gai-mac-hoi-chung-cushing-do-thuoc-chua-corticoid-5105733.html",
+    "published_at": "Thu, 06 Aug 2026 08:00:00 +0700",
+    "createAt": "2026-08-06T01:00:00.000Z",
+    "thumbnail_blurhash": "LFHLVdkE%e?w%dkqxB%0V=%M%hMx"
+  },
+  {
+    "id": "https://vnexpress.net/nhip-tim-nguoi-phu-nu-nhanh-gap-ba-binh-thuong-5105730.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Nhịp tim người phụ nữ nhanh gấp ba bình thường",
+    "description": "Chị Sương, 47 tuổi, tim đập 200 lần/phút, gần gấp ba lần bình thường, bác sĩ xác định cơn nhịp nhanh kịch phát trên thất.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/06/image001-1785975953-1849-1785975988.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=2VvewvkmUmdrZtlNP3lDFg",
+    "link": "https://vnexpress.net/nhip-tim-nguoi-phu-nu-nhanh-gap-ba-binh-thuong-5105730.html",
+    "published_at": "Thu, 06 Aug 2026 08:00:00 +0700",
+    "createAt": "2026-08-06T01:00:00.000Z",
+    "thumbnail_blurhash": "LjNwf,tlxut8~WV@a{t6NaIoogoz"
+  },
+  {
+    "id": "https://vnexpress.net/mac-lao-ke-sau-7-nam-khoi-lao-phoi-5105727.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Mắc lao kê sau 7 năm khỏi lao phổi",
+    "description": "Ông Giáp, 70 tuổi, sau 7 năm khỏi lao phổi, nay sốt, ho đàm, khó thở, được chẩn đoán mắc lao kê - thể lao nặng do vi khuẩn lan theo đường máu.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/06/image003-1785975485-8143-1785975663.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=9MBQ4j4D1G1RAEAgJ4csXg",
+    "link": "https://vnexpress.net/mac-lao-ke-sau-7-nam-khoi-lao-phoi-5105727.html",
+    "published_at": "Thu, 06 Aug 2026 08:00:00 +0700",
+    "createAt": "2026-08-06T01:00:00.000Z",
+    "thumbnail_blurhash": "L7Nw7pMc}iPC-:H;~1?vyF.S~nm,"
+  },
+  {
+    "id": "https://vnexpress.net/bac-si-trung-quoc-goi-y-4-mon-an-sang-binh-dan-giup-dao-nguoc-gan-nhiem-mo-5105595.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Bác sĩ Trung Quốc gợi ý 4 món ăn sáng bình dân giúp đảo ngược gan nhiễm mỡ",
+    "description": "Khoai lang, chuối chín, trứng luộc cùng cà phê đen là những món ăn sáng lý tưởng giúp giảm viêm, ngăn xơ hóa gan và hỗ trợ giảm cân hiệu quả theo gợi ý của bác sĩ Đài Loan Chien Cheng-hung.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/05/an-1785921220-3156-1785921811.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=2g8FvnLaLCDMQC5Ta3QuNQ",
+    "link": "https://vnexpress.net/bac-si-trung-quoc-goi-y-4-mon-an-sang-binh-dan-giup-dao-nguoc-gan-nhiem-mo-5105595.html",
+    "published_at": "Thu, 06 Aug 2026 08:38:59 +0700",
+    "createAt": "2026-08-06T01:38:59.000Z",
+    "thumbnail_blurhash": "LpLW-7-:%O-;~qodohbc%$RjoyWX"
   }
 ]
