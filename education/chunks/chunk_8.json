@@ -531,5 +531,31 @@
     "published_at": "Fri, 07 Aug 2026 09:57:17 +0700",
     "createAt": "2026-08-07T02:57:17.000Z",
     "thumbnail_blurhash": "LIRWC@OG%1~W5aIp%1%L4;xu-os:"
+  },
+  {
+    "id": "https://vnexpress.net/hoan-thanh-sap-xep-lanh-dao-truong-hoc-truoc-30-9-5106331.html",
+    "category_id": "education",
+    "category_name": "Giáo dục",
+    "source": "VnExpress",
+    "title": "Hoàn thành sắp xếp lãnh đạo trường học trước 30/9",
+    "description": "Chính phủ yêu cầu hoàn thành bố trí hiệu trưởng, cấp phó và nhân sự hỗ trợ tại các trường sau sáp nhập trước ngày 30/9.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/07/khaigiang-1786077173-7467-1786077221.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=WRH3vqpByM5i4uEHQeiNVw",
+    "link": "https://vnexpress.net/hoan-thanh-sap-xep-lanh-dao-truong-hoc-truoc-30-9-5106331.html",
+    "published_at": "Fri, 07 Aug 2026 11:34:13 +0700",
+    "createAt": "2026-08-07T04:34:13.000Z",
+    "thumbnail_blurhash": "LOIq7WK0Sv~WN?oysDI:5js.w{Rj"
+  },
+  {
+    "id": "https://vnexpress.net/hoc-sinh-truong-cong-tuu-truong-som-nhat-tu-22-8-5106312.html",
+    "category_id": "education",
+    "category_name": "Giáo dục",
+    "source": "VnExpress",
+    "title": "Học sinh trường công tựu trường sớm nhất từ 22/8",
+    "description": "Các trường công lập được tổ chức tựu trường sớm nhất vào ngày 22/8 với lớp 1, 9 và 12, các khối còn lại sau đó một tuần.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/07/wm1-wm1-233a2971-1786075230-4415-1786078299.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=f9U80XgmTNclPtAp-EmJtw",
+    "link": "https://vnexpress.net/hoc-sinh-truong-cong-tuu-truong-som-nhat-tu-22-8-5106312.html",
+    "published_at": "Fri, 07 Aug 2026 11:51:39 +0700",
+    "createAt": "2026-08-07T04:51:39.000Z",
+    "thumbnail_blurhash": "LJIDk4=}?J}[=Bsls7-;=}D#SzEJ"
   }
 ]
