@@ -557,5 +557,44 @@
     "published_at": "Fri, 07 Aug 2026 09:26:43 +0700",
     "createAt": "2026-08-07T02:26:43.000Z",
     "thumbnail_blurhash": "LoJuM.~qM{Mx?a%2%MayV@RixtWB"
+  },
+  {
+    "id": "https://vnexpress.net/4-dau-hieu-tre-bi-veo-cot-song-5106191.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "4 dấu hiệu trẻ bị vẹo cột sống",
+    "description": "Vai lệch, eo không cân xứng, lưng gồ khi cúi người hay quần áo thường xuyên bị lệch có thể là những dấu hiệu sớm cảnh báo trẻ bị vẹo cột sống.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/07/image001-1786061925-4147-1786062012.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=J02vhmz6LZVcdgi0MO3zwg",
+    "link": "https://vnexpress.net/4-dau-hieu-tre-bi-veo-cot-song-5106191.html",
+    "published_at": "Fri, 07 Aug 2026 10:00:00 +0700",
+    "createAt": "2026-08-07T03:00:00.000Z",
+    "thumbnail_blurhash": "LBKw%$M^FK00?[_Nibng$I-4D*S%"
+  },
+  {
+    "id": "https://vnexpress.net/suy-ho-hap-boi-con-hen-kich-phat-5106188.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Suy hô hấp bởi cơn hen kịch phát",
+    "description": "Chị Thảo, 33 tuổi, mắc hen phế quản nhiều năm, chỉ dùng thuốc cắt cơn khi khò khè, nay bệnh diễn tiến thành cơn hen kịch phát gây suy hô hấp.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/07/image001-1786061318-2883-1786061489.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=gsm2Z9-2Vy9TH0krgIHzxA",
+    "link": "https://vnexpress.net/suy-ho-hap-boi-con-hen-kich-phat-5106188.html",
+    "published_at": "Fri, 07 Aug 2026 10:00:00 +0700",
+    "createAt": "2026-08-07T03:00:00.000Z",
+    "thumbnail_blurhash": "LMOzGV_4tm-o$__4xtozRio#Rit7"
+  },
+  {
+    "id": "https://vnexpress.net/tuong-cam-cum-hoa-lao-mang-ngoai-tim-5106186.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Tưởng cảm cúm hóa lao màng ngoài tim",
+    "description": "Anh Ngà, 43 tuổi, sốt tưởng cảm cúm, một tuần sau khó thở, tim đập nhanh, được bác sĩ chẩn đoán lao màng ngoài tim gây tràn dịch.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/07/image001-1786060783-7962-1786060881.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=KdiBulf0w7BshWoySwTB_w",
+    "link": "https://vnexpress.net/tuong-cam-cum-hoa-lao-mang-ngoai-tim-5106186.html",
+    "published_at": "Fri, 07 Aug 2026 10:00:00 +0700",
+    "createAt": "2026-08-07T03:00:00.000Z",
+    "thumbnail_blurhash": "LOO3@AM}~q?a?Gx]_4kWWUofWCt8"
   }
 ]
