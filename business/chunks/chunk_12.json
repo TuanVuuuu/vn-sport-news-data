@@ -648,5 +648,31 @@
     "published_at": "Fri, 07 Aug 2026 11:19:46 +0700",
     "createAt": "2026-08-07T04:19:46.000Z",
     "thumbnail_blurhash": "LtM7cUDi?w-=?an$t6xtM_WAaJM_"
+  },
+  {
+    "id": "https://vnexpress.net/hang-may-lanh-duy-nhat-tren-san-lap-ky-luc-doanh-thu-5106249.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Hãng máy lạnh duy nhất trên sàn lập kỷ lục doanh thu",
+    "description": "Nhờ triển khai nhiều chương trình bán hàng, sản lượng tiêu thụ quý II tăng lên, đưa doanh thu của Nagakawa đạt 1.214 tỷ đồng, mức cao chưa từng có.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/08/07/24045iubncnbittrckhimu56901869-5591-8146-1786068941.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=pF1otiFL57dwFg-KaeJDKA",
+    "link": "https://vnexpress.net/hang-may-lanh-duy-nhat-tren-san-lap-ky-luc-doanh-thu-5106249.html",
+    "published_at": "Fri, 07 Aug 2026 11:42:56 +0700",
+    "createAt": "2026-08-07T04:42:56.000Z",
+    "thumbnail_blurhash": "LUI4|qH=xI%3~VWBRks:slNHX8t7"
+  },
+  {
+    "id": "https://vnexpress.net/phat-hien-gan-5-000-loi-bao-mat-tren-mang-luoi-bitcoin-nho-ai-5106370.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Phát hiện gần 5.000 lỗi bảo mật trên mạng lưới Bitcoin nhờ AI",
+    "description": "Một nhóm lập trình viên phát hiện gần 5.000 lỗ hổng bảo mật trên toàn mạng lưới Bitcoin chỉ trong hơn một ngày nhờ hỗ trợ của AI.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/08/07/104816209-rtx3ietk-bitcoin-178-1430-3519-1786076994.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=dmzw3fDO3GvwIlBdgwVS7w",
+    "link": "https://vnexpress.net/phat-hien-gan-5-000-loi-bao-mat-tren-mang-luoi-bitcoin-nho-ai-5106370.html",
+    "published_at": "Fri, 07 Aug 2026 12:05:25 +0700",
+    "createAt": "2026-08-07T05:05:25.000Z",
+    "thumbnail_blurhash": "L6C%4V02?stK~k06%H^#04Ic9Is:"
   }
 ]
