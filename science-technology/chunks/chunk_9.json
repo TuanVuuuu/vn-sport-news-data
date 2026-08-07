@@ -570,5 +570,31 @@
     "published_at": "Fri, 07 Aug 2026 15:19:24 +0700",
     "createAt": "2026-08-07T08:19:24.000Z",
     "thumbnail_blurhash": "L8BN[Kt}YH.6LN?HxvNG-?tmIJj0"
+  },
+  {
+    "id": "https://vnexpress.net/chatgpt-cho-phep-tro-chuyen-van-ban-mien-phi-khong-gioi-han-5106571.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "ChatGPT cho phép trò chuyện văn bản miễn phí không giới hạn",
+    "description": "OpenAI sẽ gỡ giới hạn độ dài của cuộc trò chuyện bằng văn bản với toàn bộ người dùng ChatGPT, đồng thời nâng cấp các mô hình mặc định.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/07/dsc09779jpg1-1786099778-6715-1786100018.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ByIrsIn6ZaGw32Zahc4roA",
+    "link": "https://vnexpress.net/chatgpt-cho-phep-tro-chuyen-van-ban-mien-phi-khong-gioi-han-5106571.html",
+    "published_at": "Fri, 07 Aug 2026 19:00:00 +0700",
+    "createAt": "2026-08-07T12:00:00.000Z",
+    "thumbnail_blurhash": "LwGaIcN^Mxn*}ZjFNIX8%2xGNGR+"
+  },
+  {
+    "id": "https://vnexpress.net/ai-tao-ra-16-loai-virus-chua-tung-co-trong-tu-nhien-5106551.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "AI tạo ra 16 loại virus chưa từng có trong tự nhiên",
+    "description": "Các nhà khoa học Mỹ tạo ra những virus đầu tiên từ bản thiết kế của trí tuệ nhân tạo, mở ra hy vọng cho các loại thuốc mới nhưng cũng gây lo ngại về tính an toàn của công nghệ.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/07/VNEAI-1786096639-2916-1786096677.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=qeOdsPMxirrCvSGtiCNZmA",
+    "link": "https://vnexpress.net/ai-tao-ra-16-loai-virus-chua-tung-co-trong-tu-nhien-5106551.html",
+    "published_at": "Fri, 07 Aug 2026 20:03:32 +0700",
+    "createAt": "2026-08-07T13:03:32.000Z",
+    "thumbnail_blurhash": "L+PGppt7~p%M%Mj[j[j[-;j[Ioay"
   }
 ]

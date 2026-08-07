@@ -89,5 +89,44 @@
     "published_at": "Fri, 07 Aug 2026 17:00:00 +0700",
     "createAt": "2026-08-07T10:00:00.000Z",
     "thumbnail_blurhash": "LJR34Zo}M|-:?GIpRkoe_N%MxuWB"
+  },
+  {
+    "id": "https://vnexpress.net/dong-nguoi-tran-ve-nha-huan-hoa-hong-5106367.html",
+    "category_id": "opinion",
+    "category_name": "Ý kiến",
+    "source": "VnExpress",
+    "title": "Dòng người tràn về nhà Huấn Hoa Hồng",
+    "description": "Nghe đồn trên mạng, mấy sinh viên thuê trọ cạnh nhà tôi rủ nhau bỏ cả bữa cơm, kéo đi xem trực tiếp.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/07/768408818294059078627584025517-4150-6010-1786076828.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=YisAdoyvpMqM4Gx6U7wRlg",
+    "link": "https://vnexpress.net/dong-nguoi-tran-ve-nha-huan-hoa-hong-5106367.html",
+    "published_at": "Fri, 07 Aug 2026 11:51:35 +0700",
+    "createAt": "2026-08-07T04:51:35.000Z",
+    "thumbnail_blurhash": "LVB3~dM}nhW=.TRPngf5Y8afaej]"
+  },
+  {
+    "id": "https://vnexpress.net/keo-remove-la-gi-cach-boc-nhan-dan-moi-khong-bi-vet-keo-bam-chat-5106473.html",
+    "category_id": "opinion",
+    "category_name": "Ý kiến",
+    "source": "VnExpress",
+    "title": "Công đoạn bóc tem nhãn gây bực mình khi mua hàng ở Việt Nam",
+    "description": "Mỗi lần mua đồ gia dụng mới, tôi lại ngán nhất là công đoạn bóc tem.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/07/nhandankhoboc-1786091366-6240-1786091391.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=etNPadCkenccxPhG6mkChA",
+    "link": "https://vnexpress.net/keo-remove-la-gi-cach-boc-nhan-dan-moi-khong-bi-vet-keo-bam-chat-5106473.html",
+    "published_at": "Fri, 07 Aug 2026 19:00:00 +0700",
+    "createAt": "2026-08-07T12:00:00.000Z",
+    "thumbnail_blurhash": "LSIEnd?EyE?v%%${-;ozpI-oxus."
+  },
+  {
+    "id": "https://vnexpress.net/bo-vo-khong-cho-mua-chung-cu-vi-thang-nao-cung-phai-dong-800-nghin-dong-phi-dich-vu-5106504.html",
+    "category_id": "opinion",
+    "category_name": "Ý kiến",
+    "source": "VnExpress",
+    "title": "Bố vợ không cho mua chung cư vì tháng nào cũng phải đóng 800 nghìn đồng phí dịch vụ",
+    "description": "Trong khi đó, một ngày đẹp trời, nhà mặt đất bị thấm dột, phải tốn cả chục triệu sửa chữa.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/07/phidichvuchungcu-1786093555-6113-1786093597.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=Adn1dGCs64WdzxkFnt0iKw",
+    "link": "https://vnexpress.net/bo-vo-khong-cho-mua-chung-cu-vi-thang-nao-cung-phai-dong-800-nghin-dong-phi-dich-vu-5106504.html",
+    "published_at": "Fri, 07 Aug 2026 20:15:00 +0700",
+    "createAt": "2026-08-07T13:15:00.000Z",
+    "thumbnail_blurhash": "LDCPnq0059_2~WROEOxa%LM_bwt7"
   }
 ]

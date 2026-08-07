@@ -50,5 +50,31 @@
     "published_at": "Fri, 07 Aug 2026 15:54:03 +0700",
     "createAt": "2026-08-07T08:54:03.000Z",
     "thumbnail_blurhash": "L6C~}600.0%f00~VH;4nEoIAR2^*"
+  },
+  {
+    "id": "https://vnexpress.net/hop-ngu-nhu-den-tu-tuong-lai-tai-san-bay-trung-quoc-5105755.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Hộp ngủ 'như đến từ tương lai' tại sân bay Trung Quốc",
+    "description": "Hệ thống hộp ngủ NapHub của sân bay Phố Đông, Thượng Hải, khiến khách quốc tế bất ngờ vì thiết kế và tiện ích vượt xa hình dung thông thường về phòng nghỉ sân bay.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/08/06/upscalemedia-transformed-17860-4021-1998-1786000105.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=GF3UJ_N8aufnaeI3gyCrFQ",
+    "link": "https://vnexpress.net/hop-ngu-nhu-den-tu-tuong-lai-tai-san-bay-trung-quoc-5105755.html",
+    "published_at": "Fri, 07 Aug 2026 19:00:00 +0700",
+    "createAt": "2026-08-07T12:00:00.000Z",
+    "thumbnail_blurhash": "LGI6Dv1m8w-O%#v#SiR*06}QVsE4"
+  },
+  {
+    "id": "https://vnexpress.net/kham-pha-singapore-qua-nhung-trai-nghiem-du-lich-song-nuoc-5106408.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Khám phá Singapore qua những trải nghiệm du lịch sông nước",
+    "description": "Du thuyền qua các bến cảng lịch sử, dạo quanh vịnh Marina hay chèo kayak giữa rừng ngập mặn là những trải nghiệm mở ra nhiều góc nhìn mới về Singapore.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/08/07/Image-129394717-ExtractWord-0-5126-4833-1786086085.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=qySuggJFYwomQ6OYijC4mQ",
+    "link": "https://vnexpress.net/kham-pha-singapore-qua-nhung-trai-nghiem-du-lich-song-nuoc-5106408.html",
+    "published_at": "Fri, 07 Aug 2026 19:00:00 +0700",
+    "createAt": "2026-08-07T12:00:00.000Z",
+    "thumbnail_blurhash": "LeFPZ_IUtRt7?wWYV@j[.8WYayof"
   }
 ]

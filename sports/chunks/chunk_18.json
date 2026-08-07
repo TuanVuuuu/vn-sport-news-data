@@ -557,5 +557,57 @@
     "published_at": "Fri, 07 Aug 2026 15:21:11 +0700",
     "createAt": "2026-08-07T08:21:11.000Z",
     "thumbnail_blurhash": "L8B:W%ACV[=y00S$s.RPy$,:j]J,"
+  },
+  {
+    "id": "https://vnexpress.net/runner-chu-nha-sung-suc-truoc-them-vnexpress-marathon-nha-trang-5106474.html",
+    "category_id": "sports",
+    "category_name": "Thể thao",
+    "source": "VnExpress",
+    "title": "Runner chủ nhà sung sức trước thềm VnExpress Marathon Nha Trang",
+    "description": "Nha Trang Runners (NTRU) có buổi tập nhẹ 3km, sáng 7/8, trước khi hàng trăm thành viên bước vào hành trình chinh phục VM Nha Trang mùa thứ 5.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/07/BCS02147-1786093941.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=db2iK7QPJhlQu8t5akZrmg",
+    "link": "https://vnexpress.net/runner-chu-nha-sung-suc-truoc-them-vnexpress-marathon-nha-trang-5106474.html",
+    "published_at": "Fri, 07 Aug 2026 18:00:00 +0700",
+    "createAt": "2026-08-07T11:00:00.000Z",
+    "thumbnail_blurhash": "L8GIy00000wO059t_2e.00~p%2TI"
+  },
+  {
+    "id": "https://vnexpress.net/viet-nam-campuchia-5106492.html",
+    "category_id": "sports",
+    "category_name": "Thể thao",
+    "source": "VnExpress",
+    "title": "Việt Nam 1-0 Campuchia (Hết H1): Quang Hải lỡ cơ hội",
+    "description": "Đội trưởng Quang Hải dứt điểm bất thành, khi Việt Nam dẫn Campuchia 1-0 ở lượt cuối bảng A ASEAN Cup 2026.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/08/07/hai2-1786110525-3363-1786110530.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=xpSZpk_UlU2LmTF83qiYSg",
+    "link": "https://vnexpress.net/viet-nam-campuchia-5106492.html",
+    "published_at": "Fri, 07 Aug 2026 19:00:00 +0700",
+    "createAt": "2026-08-07T12:00:00.000Z",
+    "thumbnail_blurhash": "L9H_@p~pEf%E0HtQnia50J9Zv$kD"
+  },
+  {
+    "id": "https://vnexpress.net/singapore-indonesia-tran-chien-song-con-5106603.html",
+    "category_id": "sports",
+    "category_name": "Thể thao",
+    "source": "VnExpress",
+    "title": "Singapore 0-0 Indonesia (hết H1): Đội khách gặp khó",
+    "description": "Singapore chủ động chơi chắc để kiếm một điểm và vào bán kết ASEAN Cup, còn Indonesia đang nôn nóng khi phải thắng nếu không muốn bị loại.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/08/07/Screenshot20260727at2243509553-1263-1768-1786104529.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=b-A5PEegqjYtBmq5rxanoA",
+    "link": "https://vnexpress.net/singapore-indonesia-tran-chien-song-con-5106603.html",
+    "published_at": "Fri, 07 Aug 2026 19:11:34 +0700",
+    "createAt": "2026-08-07T12:11:34.000Z",
+    "thumbnail_blurhash": "L4FFQ#0100~A00snKk~W01tm$z8_"
+  },
+  {
+    "id": "https://vnexpress.net/viet-nam-lan-dau-vo-dich-cau-may-doi-nu-the-gioi-5106613.html",
+    "category_id": "sports",
+    "category_name": "Thể thao",
+    "source": "VnExpress",
+    "title": "Việt Nam lần đầu vô địch cầu mây đôi nữ thế giới",
+    "description": "Cầu mây Việt Nam lần đầu giành HC vàng nội dung đôi nữ tại giải vô địch thế giới, sau trận thắng Myanmar 2-0 ở chung kết chiều 7/8.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/08/07/tra-n-thi-vui-ca-u-ma-y-178610-2622-6792-1786106459.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=XaqigmJkJyomnmRlQ1A6WA",
+    "link": "https://vnexpress.net/viet-nam-lan-dau-vo-dich-cau-may-doi-nu-the-gioi-5106613.html",
+    "published_at": "Fri, 07 Aug 2026 19:46:21 +0700",
+    "createAt": "2026-08-07T12:46:21.000Z",
+    "thumbnail_blurhash": "LSJZYkq{xv=_~pIqxutR1kOm%Lt7"
   }
 ]
