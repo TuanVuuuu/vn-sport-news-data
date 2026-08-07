@@ -804,5 +804,44 @@
     "published_at": "Fri, 07 Aug 2026 11:20:49 +0700",
     "createAt": "2026-08-07T04:20:49.000Z",
     "thumbnail_blurhash": "LGB2[U~BOYb^E}gM%2xaM}RkaKs9"
+  },
+  {
+    "id": "https://vnexpress.net/tranh-ghep-ve-bang-phan-dat-ky-luc-viet-nam-5105945.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Tranh ghép vẽ bằng phấn đạt kỷ lục Việt Nam",
+    "description": "Tác phẩm ''Con đường ký ức'' của thầy giáo Nguyễn Trí Hạnh được công nhận là tranh ghép nghệ thuật bằng phấn màu lớn nhất Việt Nam.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/08/07/bao-hieu-tri-an-va-tiep-noi-17-9486-7740-1786073214.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=bni0Fm2RGNmeDiQbGSnm_Q",
+    "link": "https://vnexpress.net/tranh-ghep-ve-bang-phan-dat-ky-luc-viet-nam-5105945.html",
+    "published_at": "Fri, 07 Aug 2026 11:51:58 +0700",
+    "createAt": "2026-08-07T04:51:58.000Z",
+    "thumbnail_blurhash": "L6Av,=~Vt9q]^g-n8_wO$LM{RO#?"
+  },
+  {
+    "id": "https://vnexpress.net/tac-gia-anh-dat-muc-tieu-doc-sach-30-phut-moi-ngay-5104503.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Tác giả Anh: Đặt mục tiêu đọc sách 30 phút mỗi ngày",
+    "description": "Tác giả Naomi Alderman thực hiện một chương trình giúp mọi người rèn thói quen đọc, bắt đầu với năm phút mỗi ngày và tăng dần.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/08/03/doc-sach-1785750113-5990-1785751645.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=_ppnIv9HXMtGRKYbvE4wug",
+    "link": "https://vnexpress.net/tac-gia-anh-dat-muc-tieu-doc-sach-30-phut-moi-ngay-5104503.html",
+    "published_at": "Fri, 07 Aug 2026 11:59:20 +0700",
+    "createAt": "2026-08-07T04:59:20.000Z",
+    "thumbnail_blurhash": "LJE.wz~p4.n#tl%LRit64nRP?b%M"
+  },
+  {
+    "id": "https://vnexpress.net/anh-trai-angelina-jolie-cong-khai-la-nguoi-dong-tinh-5106211.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Anh trai Angelina Jolie công khai là người đồng tính",
+    "description": "Diễn viên James Haven - 53 tuổi, anh trai Angelina Jolie - nói biết bản thân khác biệt từ nhỏ, hy vọng được mọi người chấp nhận con người thật.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/08/07/james-haven-va-vo-cu-178606982-8312-6430-1786071511.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=cPffVXUSmxsgsa17MTpeSg",
+    "link": "https://vnexpress.net/anh-trai-angelina-jolie-cong-khai-la-nguoi-dong-tinh-5106211.html",
+    "published_at": "Fri, 07 Aug 2026 12:00:16 +0700",
+    "createAt": "2026-08-07T05:00:16.000Z",
+    "thumbnail_blurhash": "LZKKTlR*.9%N_4RPbb-;tSt7MxNG"
   }
 ]
