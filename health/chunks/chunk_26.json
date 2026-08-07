@@ -765,5 +765,44 @@
     "published_at": "Fri, 07 Aug 2026 16:00:00 +0700",
     "createAt": "2026-08-07T09:00:00.000Z",
     "thumbnail_blurhash": "LRLzdS;y%M9t$yMxWXyD~WIpo}?b"
+  },
+  {
+    "id": "https://vnexpress.net/vi-sao-nam-gioi-co-the-nhin-yeu-5106451.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Vì sao nam giới có thể 'nhịn yêu'?",
+    "description": "Chuyện chăn gối của vợ chồng tôi trước đây khá điều độ, tuy nhiên gần một năm nay không còn như trước. Nam giới có thể \"nhịn yêu\" được hay chồng tôi gặp vấn đề gì? (Thu Trà, TP HCM)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/07/bac-si-benh-vien-da-khoa-tam-a-8499-5022-1786089748.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=Ft3pxMTDObkRFNO6bqkwDg",
+    "link": "https://vnexpress.net/vi-sao-nam-gioi-co-the-nhin-yeu-5106451.html",
+    "published_at": "Fri, 07 Aug 2026 17:00:00 +0700",
+    "createAt": "2026-08-07T10:00:00.000Z",
+    "thumbnail_blurhash": "LWNdE-9c4nbd~TR3M_IpRhIVM{ac"
+  },
+  {
+    "id": "https://vnexpress.net/meo-giam-cang-thang-bot-dau-dau-5106324.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Mẹo giảm căng thẳng bớt đau đầu",
+    "description": "Ăn uống lành mạnh, giảm áp lực công việc và thư giãn cuối tuần góp phần làm dịu hệ thần kinh, bớt căng thẳng.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/07/buoc-1786074172-6922-1786074308.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=YjsiVnrN9d7cSqPRiM4rEg",
+    "link": "https://vnexpress.net/meo-giam-cang-thang-bot-dau-dau-5106324.html",
+    "published_at": "Fri, 07 Aug 2026 17:00:00 +0700",
+    "createAt": "2026-08-07T10:00:00.000Z",
+    "thumbnail_blurhash": "L8Fi0Q0404?tw[IBD*NG9K~oR:E2"
+  },
+  {
+    "id": "https://vnexpress.net/nhung-loai-hai-san-co-vo-tot-cho-tim-mach-nao-bo-5106292.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Những loại hải sản có vỏ tốt cho tim mạch, não bộ",
+    "description": "Tôm, cua, sò điệp và hàu giàu protein, omega-3, vitamin B12, kẽm, góp phần bảo vệ tim mạch và hỗ trợ chức năng não bộ.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/07/vnexpress-tom-hap-nuoc-dua-178-9772-4855-1786071210.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=n_LZz9NUKjy7x-KfQrPZlA",
+    "link": "https://vnexpress.net/nhung-loai-hai-san-co-vo-tot-cho-tim-mach-nao-bo-5106292.html",
+    "published_at": "Fri, 07 Aug 2026 17:00:00 +0700",
+    "createAt": "2026-08-07T10:00:00.000Z",
+    "thumbnail_blurhash": "LGFE150M0i~A^NM|K5xW0~xt=dRj"
   }
 ]
