@@ -817,5 +817,31 @@
     "published_at": "Sat, 08 Aug 2026 07:52:29 +0700",
     "createAt": "2026-08-08T00:52:29.000Z",
     "thumbnail_blurhash": "LJH_0e5EI]?F~AIqkCxuxGjEbaV?"
+  },
+  {
+    "id": "https://vnexpress.net/ai-trung-quoc-de-doa-mo-hinh-kinh-doanh-cua-thung-lung-silicon-5106573.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "AI Trung Quốc đe dọa mô hình kinh doanh của Thung lũng Silicon",
+    "description": "Mô hình kinh doanh thu phí cao của các hãng công nghệ Mỹ đang đứng trước nguy cơ bị đảo lộn bởi các dòng AI nguồn mở giá rẻ từ Trung Quốc.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/08/08/dsc03015-jpg-1786122536-1438-1786122599.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=5YU4XSrqKo1cUBxB_PIV4A",
+    "link": "https://vnexpress.net/ai-trung-quoc-de-doa-mo-hinh-kinh-doanh-cua-thung-lung-silicon-5106573.html",
+    "published_at": "Sat, 08 Aug 2026 10:00:00 +0700",
+    "createAt": "2026-08-08T03:00:00.000Z",
+    "thumbnail_blurhash": "LH7xUctSD$RP.Tt7RORPt8oIV?RP"
+  },
+  {
+    "id": "https://vnexpress.net/gia-vang-moi-nhat-hom-nay-ngay-8-8-5106714.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Giá vàng miếng tăng gần 2 triệu đồng",
+    "description": "Các thương hiệu sáng nay tăng giá bán mỗi lượng vàng miếng lên 144 triệu đồng.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/08/08/233A0958-7868-1786157771.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=8mq1qT_fCisFqf3m9CuJvw",
+    "link": "https://vnexpress.net/gia-vang-moi-nhat-hom-nay-ngay-8-8-5106714.html",
+    "published_at": "Sat, 08 Aug 2026 10:18:24 +0700",
+    "createAt": "2026-08-08T03:18:24.000Z",
+    "thumbnail_blurhash": "LjGR^[_N%NkDxvS$t7t7M|RiRPRi"
   }
 ]

@@ -219,5 +219,44 @@
     "published_at": "Sat, 08 Aug 2026 05:00:00 +0700",
     "createAt": "2026-08-07T22:00:00.000Z",
     "thumbnail_blurhash": "LtHg7QofRlkC.Tt6WYkCofkCRkkC"
+  },
+  {
+    "id": "https://vnexpress.net/bugatti-destrier-sieu-pham-toc-do-doc-nhat-the-gioi-5106458.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Bugatti Destrier - siêu phẩm tốc độ độc nhất thế giới",
+    "description": "Destrier là mẫu xe thứ ba thuộc chương trình cá nhân hóa Solitaire do một khách hàng đặt riêng, được lấy phát triển từ Bolide công suất 1.578 mã lực.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/07/BugattiDestrier1-1786091316-2796-1786091696.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=x_LgKXaNYKzt5AEHbeD96A",
+    "link": "https://vnexpress.net/bugatti-destrier-sieu-pham-toc-do-doc-nhat-the-gioi-5106458.html",
+    "published_at": "Sat, 08 Aug 2026 06:00:00 +0700",
+    "createAt": "2026-08-07T23:00:00.000Z",
+    "thumbnail_blurhash": "LvDd06%ht5kC.TtSWAkC%gt7WBof"
+  },
+  {
+    "id": "https://vnexpress.net/bmw-x1-the-he-moi-ra-mat-viet-nam-gia-tu-1-689-ty-dong-5106663.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "BMW X1 thế hệ mới ra mắt Việt Nam, giá từ 1,689 tỷ đồng",
+    "description": "X1 thế hệ thứ ba ra mắt hôm 7/6, động cơ 2.0 tăng áp, công suất 204 mã lực, dẫn động cầu trước.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/08/BMWX12026vnexpress3-1786146548-8324-1786146843.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=zNxQMSjk6BUpa7iKeiCFtQ",
+    "link": "https://vnexpress.net/bmw-x1-the-he-moi-ra-mat-viet-nam-gia-tu-1-689-ty-dong-5106663.html",
+    "published_at": "Sat, 08 Aug 2026 09:27:45 +0700",
+    "createAt": "2026-08-08T02:27:45.000Z",
+    "thumbnail_blurhash": "LbEDG1EUVsa#%%IvngjEtURQoIs."
+  },
+  {
+    "id": "https://vnexpress.net/thanh-nien-va-vao-xe-buyt-nga-lan-nhu-bi-bit-mat-5106238.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Thanh niên va vào xe buýt ngã lăn như bị bịt mắt",
+    "description": "Lái xe một tay, nam thanh niên điều khiển xe máy húc vào đuôi xe buýt và ngã lăn ra đường, hôm 7/8 tại Cầu Diễn.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/07/ezgif4cfa6bc34bb7530e-17860682-7693-7515-1786068236.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=9jce-q2Uzo-8hW7bWsfmgw&t=image",
+    "link": "https://vnexpress.net/thanh-nien-va-vao-xe-buyt-nga-lan-nhu-bi-bit-mat-5106238.html",
+    "published_at": "Sat, 08 Aug 2026 10:00:07 +0700",
+    "createAt": "2026-08-08T03:00:07.000Z",
+    "thumbnail_blurhash": "L+JRgeWBoLjY~qaxj@WB?boJR*Wq"
   }
 ]

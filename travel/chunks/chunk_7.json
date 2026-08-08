@@ -102,5 +102,44 @@
     "published_at": "Sat, 08 Aug 2026 00:00:00 +0700",
     "createAt": "2026-08-07T17:00:00.000Z",
     "thumbnail_blurhash": "LkHTsRoIENa#},s-NeWV=sayWYaz"
+  },
+  {
+    "id": "https://vnexpress.net/co-dau-chu-re-an-do-to-chuc-sieu-dam-cuoi-130-ty-dong-tai-nha-trang-5106610.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Cô dâu, chú rể Ấn Độ tổ chức 'siêu đám cưới' 130 tỷ đồng tại Nha Trang",
+    "description": "Một cặp Ấn Độ dự kiến tổ chức đám cưới với khoảng 1.400 khách mời trong 4 ngày, chi phí hơn 130 tỷ đồng, tại đảo Hòn Tre, vịnh Nha Trang, vào tháng 12 tới.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/07/india2-1786112418-5214-1786112947.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=VYYDjsKYkDrVam4YmP73dg",
+    "link": "https://vnexpress.net/co-dau-chu-re-an-do-to-chuc-sieu-dam-cuoi-130-ty-dong-tai-nha-trang-5106610.html",
+    "published_at": "Fri, 07 Aug 2026 21:29:04 +0700",
+    "createAt": "2026-08-07T14:29:04.000Z",
+    "thumbnail_blurhash": "L4B{W2|?001d00NdxunkTxFb^i=c"
+  },
+  {
+    "id": "https://vnexpress.net/an-burger-dung-cach-de-khong-roi-nhan-va-chay-nuoc-sot-5105861.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Ăn burger đúng cách để không rơi nhân và chảy nước sốt",
+    "description": "Để tránh tình trạng nhân rơi, sốt chảy, thực khách khi ăn burger nên cầm ngược chiếc bánh.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/08/06/burger-1785985505-3050-1785985575.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=b-2wGWolQoagGEhoDk56ZA",
+    "link": "https://vnexpress.net/an-burger-dung-cach-de-khong-roi-nhan-va-chay-nuoc-sot-5105861.html",
+    "published_at": "Sat, 08 Aug 2026 07:17:25 +0700",
+    "createAt": "2026-08-08T00:17:25.000Z",
+    "thumbnail_blurhash": "L8INHq?H:Ss%~p-V+$={02i_MfIV"
+  },
+  {
+    "id": "https://vnexpress.net/ngoi-lang-luu-giu-dau-tich-3-000-nam-o-quang-ngai-5106168.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Ngôi làng lưu giữ dấu tích 3.000 năm ở Quảng Ngãi",
+    "description": "Làng Gò Cỏ lưu giữ nhiều dấu tích của văn hóa Sa Huỳnh cách đây hàng nghìn năm với bờ biển hoang sơ, phù hợp cho du khách yêu thích trải nghiệm bản địa.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/08/08/xuyenviet-1786160068.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=X2fSlyaoFUesRSCNKGCX9w",
+    "link": "https://vnexpress.net/ngoi-lang-luu-giu-dau-tich-3-000-nam-o-quang-ngai-5106168.html",
+    "published_at": "Sat, 08 Aug 2026 10:45:28 +0700",
+    "createAt": "2026-08-08T03:45:28.000Z",
+    "thumbnail_blurhash": "L.I;VDbIR+s:~BbIR-of={WCayay"
   }
 ]
