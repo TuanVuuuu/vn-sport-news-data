@@ -1,3 +1,82 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/thong-diep-cua-ong-putin-khi-cai-to-dau-nao-chien-dich-ukraine-5105889.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Thông điệp của ông Putin khi cải tổ 'đầu não' chiến dịch Ukraine",
+      "description": "Tổng thống Putin tái sắp xếp bộ máy chỉ huy nhằm xoay chuyển đà tiến công đang đình trệ tại Ukraine, khi cuộc chiến sắp bước vào năm thứ 5.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/06/ap26217388427453-1786004966-7709-1786005014.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=C50_T5Wx6KxUCQmqSIvEbA",
+      "link": "https://vnexpress.net/thong-diep-cua-ong-putin-khi-cai-to-dau-nao-chien-dich-ukraine-5105889.html",
+      "published_at": "Sat, 08 Aug 2026 10:00:00 +0700",
+      "createAt": "2026-08-08T03:00:00.000Z",
+      "thumbnail_blurhash": "LtGuUcIdNNIu~WR.M}R+%KobV@oJ"
+    },
+    {
+      "id": "https://vnexpress.net/ai-trung-quoc-de-doa-mo-hinh-kinh-doanh-cua-thung-lung-silicon-5106573.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "AI Trung Quốc đe dọa mô hình kinh doanh của Thung lũng Silicon",
+      "description": "Mô hình kinh doanh thu phí cao của các hãng công nghệ Mỹ đang đứng trước nguy cơ bị đảo lộn bởi các dòng AI nguồn mở giá rẻ từ Trung Quốc.",
+      "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/08/08/dsc03015-jpg-1786122536-1438-1786122599.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=5YU4XSrqKo1cUBxB_PIV4A",
+      "link": "https://vnexpress.net/ai-trung-quoc-de-doa-mo-hinh-kinh-doanh-cua-thung-lung-silicon-5106573.html",
+      "published_at": "Sat, 08 Aug 2026 10:00:00 +0700",
+      "createAt": "2026-08-08T03:00:00.000Z",
+      "thumbnail_blurhash": "LH7xUctSD$RP.Tt7RORPt8oIV?RP"
+    },
+    {
+      "id": "https://vnexpress.net/tu-dau-khau-livestream-den-vong-lao-ly-cua-khanh-sky-vua-quat-5106700.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Từ 'đấu khẩu livestream' đến vòng lao lý của Khánh Sky, Vua Quạt",
+      "description": "Những màn thách thức, chửi bới nhau trên livestream kéo Khánh Sky, Vua Quạt và Hồ Văn Khoa từ cuộc chiến kiếm view trên mạng đến vòng lao lý.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/08/1-jpeg-1786159760-8488-1786159771.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=KPeITrMiRimFJRfRM2ooOA",
+      "link": "https://vnexpress.net/tu-dau-khau-livestream-den-vong-lao-ly-cua-khanh-sky-vua-quat-5106700.html",
+      "published_at": "Sat, 08 Aug 2026 10:10:49 +0700",
+      "createAt": "2026-08-08T03:10:49.000Z",
+      "thumbnail_blurhash": "LVEML8oij=%f~o%Koca#?Xt2f7ae"
+    },
+    {
+      "id": "https://vnexpress.net/no-ghe-tren-song-sai-gon-mot-nguoi-chet-5106716.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Nổ ghe trên sông Sài Gòn, một người chết",
+      "description": "Ghe dài hơn 10 m chở hàng đang chạy trên sông Sài Gòn bất ngờ bốc cháy rồi phát nổ, một người tử vong, ba người khác nhảy xuống sông, sáng 8/8.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/08/1-1786159539-1987-1786159553.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=cEQkLGdFv4ExYqXSJlN4_w&t=image",
+      "link": "https://vnexpress.net/no-ghe-tren-song-sai-gon-mot-nguoi-chet-5106716.html",
+      "published_at": "Sat, 08 Aug 2026 10:10:49 +0700",
+      "createAt": "2026-08-08T03:10:49.000Z",
+      "thumbnail_blurhash": "LIHLYo_3tRD%?H%2%2E1~p-:s:NH"
+    },
+    {
+      "id": "https://vnexpress.net/gia-vang-moi-nhat-hom-nay-ngay-8-8-5106714.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Giá vàng miếng tăng gần 2 triệu đồng",
+      "description": "Các thương hiệu sáng nay tăng giá bán mỗi lượng vàng miếng lên 144 triệu đồng.",
+      "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/08/08/233A0958-7868-1786157771.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=8mq1qT_fCisFqf3m9CuJvw",
+      "link": "https://vnexpress.net/gia-vang-moi-nhat-hom-nay-ngay-8-8-5106714.html",
+      "published_at": "Sat, 08 Aug 2026 10:18:24 +0700",
+      "createAt": "2026-08-08T03:18:24.000Z",
+      "thumbnail_blurhash": "LjGR^[_N%NkDxvS$t7t7M|RiRPRi"
+    },
+    {
+      "id": "https://vnexpress.net/phai-kiem-soat-cong-nghe-tao-vu-khi-huy-diet-qua-internet-5106701.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "'Phải kiểm soát công nghệ tạo vũ khí hủy diệt qua Internet'",
+      "description": "Đại biểu Phạm Trọng Nhân đề nghị xây dựng chính sách kiểm soát mã nguồn, mô hình AI và thuật toán có thể hỗ trợ tạo vật liệu nguy hiểm rồi truyền qua Internet.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/08/202608080901472117-g7574298250-5270-1805-1786160783.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=z4WQaNG4GlEum9AeO6QlWg",
+      "link": "https://vnexpress.net/phai-kiem-soat-cong-nghe-tao-vu-khi-huy-diet-qua-internet-5106701.html",
+      "published_at": "Sat, 08 Aug 2026 10:46:23 +0700",
+      "createAt": "2026-08-08T03:46:23.000Z",
+      "thumbnail_blurhash": "LJGual_49EIT00IAR.NK4moa-;%M"
+    }
+  ]
 }
