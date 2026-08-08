@@ -1181,5 +1181,31 @@
     "published_at": "Sat, 08 Aug 2026 11:00:00 +0700",
     "createAt": "2026-08-08T04:00:00.000Z",
     "thumbnail_blurhash": "LaODOa~qNaoytLkBnMtS-mM{IU%2"
+  },
+  {
+    "id": "https://vnexpress.net/vi-sao-duong-am-nhung-da-van-kho-xin-5106531.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Vì sao dưỡng ẩm nhưng da vẫn khô, xỉn?",
+    "description": "Da khô, xỉn màu và chùng nhão không chỉ do thiếu ẩm mà còn liên quan đến sự suy giảm collagen, elastin nên chỉ chăm sóc bề mặt da có thể chưa đủ để cải thiện.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/07/bac-an-kham-1786095992-1499-1786096135.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=cYQNNHOqhMXKYifw9k8HnA",
+    "link": "https://vnexpress.net/vi-sao-duong-am-nhung-da-van-kho-xin-5106531.html",
+    "published_at": "Sat, 08 Aug 2026 12:00:00 +0700",
+    "createAt": "2026-08-08T05:00:00.000Z",
+    "thumbnail_blurhash": "LaLgt$~qE2x]?DacxV-;Rjt7RjRk"
+  },
+  {
+    "id": "https://vnexpress.net/an-gi-giup-kiem-soat-tinh-trang-tang-acid-uric-5102011.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Ăn gì giúp kiểm soát tình trạng tăng acid uric?",
+    "description": "Chế độ ăn cân đối, hạn chế thực phẩm giàu purin, uống đủ nước và duy trì lối sống lành mạnh giúp kiểm soát acid uric, ngăn ngừa cơn gout hiệu quả.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/07/27/screenshot-at-1785123796-2650-1785123879.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=GqiXxbew5nb5-biH1J6wEQ",
+    "link": "https://vnexpress.net/an-gi-giup-kiem-soat-tinh-trang-tang-acid-uric-5102011.html",
+    "published_at": "Sat, 08 Aug 2026 12:24:36 +0700",
+    "createAt": "2026-08-08T05:24:36.000Z",
+    "thumbnail_blurhash": "LFHnB0bX00xuxa%LxZIV00S~~VV@"
   }
 ]
