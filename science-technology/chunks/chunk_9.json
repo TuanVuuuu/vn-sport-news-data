@@ -765,5 +765,18 @@
     "published_at": "Sun, 09 Aug 2026 12:00:00 +0700",
     "createAt": "2026-08-09T05:00:00.000Z",
     "thumbnail_blurhash": "LLE3J9Io00~W.AxttSRiIo%L-;E1"
+  },
+  {
+    "id": "https://vnexpress.net/openai-tu-ham-mo-hinh-ai-moi-vi-lo-nguy-hiem-cho-an-ninh-mang-5106924.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "OpenAI tự hãm mô hình AI mới vì lo 'nguy hiểm cho an ninh mạng'",
+    "description": "OpenAI cho biết đã làm chậm quá trình phát triển Astra sau đánh giá nội bộ phát hiện mô hình này có thể gây nguy hiểm cho an ninh mạng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/08/images-fill-sizex1125-v1786137-7727-6842-1786204975.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=mBmCF846daRV7smnykWVkQ",
+    "link": "https://vnexpress.net/openai-tu-ham-mo-hinh-ai-moi-vi-lo-nguy-hiem-cho-an-ninh-mang-5106924.html",
+    "published_at": "Sun, 09 Aug 2026 14:00:00 +0700",
+    "createAt": "2026-08-09T07:00:00.000Z",
+    "thumbnail_blurhash": "LjCj3S%MM^ae%%tRWAWCk.ofnnaz"
   }
 ]
