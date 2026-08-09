@@ -245,5 +245,31 @@
     "published_at": "Sun, 09 Aug 2026 07:00:00 +0700",
     "createAt": "2026-08-09T00:00:00.000Z",
     "thumbnail_blurhash": "LHA]B?}HicKNOse:wG%NS%sq$Ps="
+  },
+  {
+    "id": "https://vnexpress.net/8-500-nguoi-do-ve-thao-nguyen-bui-hui-5106940.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "8.500 người đổ về thảo nguyên Bùi Hui",
+    "description": "Khoảng 8.500 người đổ về Bùi Hui, thảo nguyên nổi tiếng với đồi sim, trong lễ hội \"Chạm vào mây\", để check in và trải nghiệm văn hóa bản địa.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/08/09/dsc06157-jpg-1786240102.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=KBjZHTzYylvw6Sb3-EW7lQ",
+    "link": "https://vnexpress.net/8-500-nguoi-do-ve-thao-nguyen-bui-hui-5106940.html",
+    "published_at": "Sun, 09 Aug 2026 08:45:09 +0700",
+    "createAt": "2026-08-09T01:45:09.000Z",
+    "thumbnail_blurhash": "LiG+U3kCRkofyZkCbGbHyEfkoej["
+  },
+  {
+    "id": "https://vnexpress.net/ly-do-can-check-out-o-quay-le-tan-khach-san-5106760.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Lý do cần check out ở quầy lễ tân khách sạn",
+    "description": "Việc thông báo trả phòng tại quầy lễ tân có thể đem đến tác động lớn cho những khách tới sau và cả khách sạn, đặc biệt vào dịp cao điểm.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/08/08/out-1786170190-6716-1786170248.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=kqRyPzqpmD1L_VBu5JI2-w",
+    "link": "https://vnexpress.net/ly-do-can-check-out-o-quay-le-tan-khach-san-5106760.html",
+    "published_at": "Sun, 09 Aug 2026 09:00:00 +0700",
+    "createAt": "2026-08-09T02:00:00.000Z",
+    "thumbnail_blurhash": "LSI}L$IB4:~W-;s:R4t6aKxaRiIA"
   }
 ]
