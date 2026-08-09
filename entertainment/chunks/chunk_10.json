@@ -1259,5 +1259,31 @@
     "published_at": "Sun, 09 Aug 2026 20:00:00 +0700",
     "createAt": "2026-08-09T13:00:00.000Z",
     "thumbnail_blurhash": "LrGlI,xtxuxu?ws:o#t8tmWCs:f,"
+  },
+  {
+    "id": "https://vnexpress.net/dam-thu-trang-cuong-do-la-sau-bay-nam-ve-chung-nha-5107059.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Đàm Thu Trang, Cường Đô La sau bảy năm về chung nhà",
+    "description": "Doanh nhân Cường Đô La nói ngày càng yêu Đàm Thu Trang nhiều hơn, biết ơn bà xã vì luôn quan tâm, chăm sóc tổ ấm nhỏ.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/08/09/Cuong-Dola-Dam-Thu-Trang-14-1786262750.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=t-ggLSZPZkg3LmlfQ-m-6A",
+    "link": "https://vnexpress.net/dam-thu-trang-cuong-do-la-sau-bay-nam-ve-chung-nha-5107059.html",
+    "published_at": "Mon, 10 Aug 2026 00:00:00 +0700",
+    "createAt": "2026-08-09T17:00:00.000Z",
+    "thumbnail_blurhash": "LEGu2cEkMdy?02OXw1JU00X9yDMK"
+  },
+  {
+    "id": "https://vnexpress.net/truyen-do-ai-viet-hay-va-de-doc-5106904.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Truyện do AI viết 'hay và dễ đọc'",
+    "description": "Nghiên cứu tại Mỹ cho thấy một bộ phận độc giả nhận xét nhiều truyện do AI tạo sinh \"hay, cuốn hút\" không kém tác phẩm của con người.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/08/09/lq-1786212905-9870-1786242763.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=-6kv5ic6osCtn6eXLIrjPw",
+    "link": "https://vnexpress.net/truyen-do-ai-viet-hay-va-de-doc-5106904.html",
+    "published_at": "Mon, 10 Aug 2026 00:00:00 +0700",
+    "createAt": "2026-08-09T17:00:00.000Z",
+    "thumbnail_blurhash": "L4GR;z?_4T6N1m0000Qm2vIo~B}?"
   }
 ]
