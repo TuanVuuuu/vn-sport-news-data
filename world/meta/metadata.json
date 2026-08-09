@@ -1,5 +1,5 @@
 {
-  "total_articles": 1800,
+  "total_articles": 1801,
   "files": [
     "chunk_1.json",
     "chunk_2.json",
@@ -18,7 +18,8 @@
     "chunk_15.json",
     "chunk_16.json",
     "chunk_17.json",
-    "chunk_18.json"
+    "chunk_18.json",
+    "chunk_19.json"
   ],
   "channel": {
     "title": "Thế giới - VnExpress RSS",
@@ -27,7 +28,7 @@
     "copyright": "",
     "logo_url": "https://s.vnecdn.net/vnexpress/i/v20/logos/vne_logo_rss.png",
     "link": "https://vnexpress.net/rss/the-gioi.rss",
-    "last_updated": "Sun, 09 Aug 2026 11:01:16 +0700"
+    "last_updated": "Sun, 09 Aug 2026 12:10:38 +0700"
   },
-  "last_updated": "2026-08-09T05:01:09.891Z"
+  "last_updated": "2026-08-09T05:10:41.288Z"
 }
