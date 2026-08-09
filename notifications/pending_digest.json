@@ -1,3 +1,30 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/vi-sao-giang-ho-mang-van-lien-tiep-xuat-hien-du-nhieu-nguoi-da-vao-tu-5106851.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Vì sao 'giang hồ mạng' vẫn liên tiếp xuất hiện dù nhiều người đã vào tù?",
+      "description": "Khá \"Bảnh\", Phú Lê, Quang \"Rambo\"... từng bị bắt; mới nhất Khánh Sky, Hồ Văn Khoa, Vua Quạt tiếp tục bị khởi tố, song những \"giang hồ mạng\" mới vẫn xuất hiện.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/08/screen-shot-at-1786186287-2259-1786186598.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=ejfEq1JAKArwuTT6Tr_twg",
+      "link": "https://vnexpress.net/vi-sao-giang-ho-mang-van-lien-tiep-xuat-hien-du-nhieu-nguoi-da-vao-tu-5106851.html",
+      "published_at": "Sun, 09 Aug 2026 06:00:00 +0700",
+      "createAt": "2026-08-08T23:00:00.000Z",
+      "thumbnail_blurhash": "LEFOo$00%gMc~Ws;IAxubIIoWCni"
+    },
+    {
+      "id": "https://vnexpress.net/ba-trieu-m3-bun-nao-vet-o-kenh-dai-nhat-tp-hcm-khong-co-noi-do-5106901.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Ba triệu m3 bùn nạo vét ở kênh dài nhất TP HCM không có nơi đổ",
+      "description": "Dự án cải tạo kênh Tham Lương - Bến Cát - rạch Nước Lên dài gần 32 km dự kiến nạo vét hơn ba triệu m3 bùn nhưng chưa có nơi tiếp nhận, nguy cơ ảnh hưởng tiến độ.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/08/wm1-wm1-dji-jpg-1786204229-7872-1786204531.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=BbTYOgOUPc0T__ra3dI8pA",
+      "link": "https://vnexpress.net/ba-trieu-m3-bun-nao-vet-o-kenh-dai-nhat-tp-hcm-khong-co-noi-do-5106901.html",
+      "published_at": "Sun, 09 Aug 2026 06:00:00 +0700",
+      "createAt": "2026-08-08T23:00:00.000Z",
+      "thumbnail_blurhash": "LKE3o0awt7WB%%xbRiay.9Rjt7af"
+    }
+  ]
 }
