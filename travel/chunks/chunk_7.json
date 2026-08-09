@@ -310,5 +310,31 @@
     "published_at": "Sun, 09 Aug 2026 14:00:00 +0700",
     "createAt": "2026-08-09T07:00:00.000Z",
     "thumbnail_blurhash": "LcE{Og_N%hXm?v?b%MkCo}ozspjF"
+  },
+  {
+    "id": "https://vnexpress.net/nhieu-du-khach-bat-chap-nguy-hiem-vao-vung-cam-o-son-tra-de-check-in-5107048.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Nhiều du khách bất chấp nguy hiểm vào vùng cấm ở Sơn Trà để check in",
+    "description": "Mũi Nghê, Bãi Đá Đen và Hục Lỡ là ba khu vực không được phép tham quan ở Sơn Trà song nhiều người vẫn bất chấp tìm đường vào để chụp ảnh.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/08/09/1786178933377-jpg-1786264924-4738-1786265119.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=MJ_mvQjRW3cB_k1JUIFJvQ",
+    "link": "https://vnexpress.net/nhieu-du-khach-bat-chap-nguy-hiem-vao-vung-cam-o-son-tra-de-check-in-5107048.html",
+    "published_at": "Sun, 09 Aug 2026 17:40:09 +0700",
+    "createAt": "2026-08-09T10:40:09.000Z",
+    "thumbnail_blurhash": "LeHVF=?bxutR.T%MofkBIUR*oeV@"
+  },
+  {
+    "id": "https://vnexpress.net/gan-500-may-bay-boeing-bi-kiem-tra-do-phat-hien-vet-nut-5107014.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Gần 500 máy bay Boeing bị kiểm tra do phát hiện vết nứt",
+    "description": "Cục Hàng không Liên bang Mỹ (FAA) yêu cầu kiểm tra hàng trăm máy bay Boeing sau các báo cáo về tình trạng xuất hiện vết nứt trên một số dòng đời cũ.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/08/09/boeing-1786249898-3717-1786249909.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=_Uuod44EdyiFSPpldKwb9g",
+    "link": "https://vnexpress.net/gan-500-may-bay-boeing-bi-kiem-tra-do-phat-hien-vet-nut-5107014.html",
+    "published_at": "Sun, 09 Aug 2026 18:23:20 +0700",
+    "createAt": "2026-08-09T11:23:20.000Z",
+    "thumbnail_blurhash": "LPJ8O+%M%g-;~qRjRja}_3oeIUM{"
   }
 ]
