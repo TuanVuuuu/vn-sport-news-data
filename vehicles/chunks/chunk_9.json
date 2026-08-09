@@ -323,5 +323,31 @@
     "published_at": "Sun, 09 Aug 2026 07:00:00 +0700",
     "createAt": "2026-08-09T00:00:00.000Z",
     "thumbnail_blurhash": "LH9Sw8UNY{UnXgWBn9NGV3Vyk-bt"
+  },
+  {
+    "id": "https://vnexpress.net/luxeed-rx-xe-trung-quoc-ten-giong-lexus-dang-giong-ferrari-5106199.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Luxeed RX - xe Trung Quốc tên giống Lexus, dáng giống Ferrari",
+    "description": "Chiếc SUV của thương hiệu Trung Quốc sở hữu đường nét pha trộn giữa Ferrari Purosangue và Xiaomi YU7, khi đọc tên dễ bị nhầm với Lexus RX.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/07/LuxeedRX4-1786088981-6205-1786089424.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=8n4vbcq-ksVfRzNF5WFZeQ",
+    "link": "https://vnexpress.net/luxeed-rx-xe-trung-quoc-ten-giong-lexus-dang-giong-ferrari-5106199.html",
+    "published_at": "Sun, 09 Aug 2026 09:41:41 +0700",
+    "createAt": "2026-08-09T02:41:41.000Z",
+    "thumbnail_blurhash": "LCAJ~B*0-=-;_N.S-;tRIT-;%MRj"
+  },
+  {
+    "id": "https://vnexpress.net/xe-may-vuot-den-do-dam-nga-nguoi-khac-roi-bo-chay-5106967.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Xe máy vượt đèn đỏ đâm ngã người khác rồi bỏ chạy",
+    "description": "Khi đèn vừa chuyển xanh, một xe máy vượt đèn đỏ từ bên phải, là sượt vào xe khác khiến người lái ngã đập mặt xuống đường rồi bỏ chạy.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/09/ezgif2245d8ae4b9b78a8-17862418-3978-9321-1786241914.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=ZuQYVaeQeHx8MiyuwvPAOw&t=image",
+    "link": "https://vnexpress.net/xe-may-vuot-den-do-dam-nga-nguoi-khac-roi-bo-chay-5106967.html",
+    "published_at": "Sun, 09 Aug 2026 10:00:00 +0700",
+    "createAt": "2026-08-09T03:00:00.000Z",
+    "thumbnail_blurhash": "L14LXmNF4T-p4TNz%%rp9DNH%N%2"
   }
 ]
