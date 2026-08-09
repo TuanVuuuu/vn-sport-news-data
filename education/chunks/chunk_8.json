@@ -999,5 +999,57 @@
     "published_at": "Sun, 09 Aug 2026 16:23:41 +0700",
     "createAt": "2026-08-09T09:23:41.000Z",
     "thumbnail_blurhash": "LMJal.oK0|Se%%W.KiR*uPxat-of"
+  },
+  {
+    "id": "https://vnexpress.net/diem-chuan-truong-dai-hoc-y-duoc-dai-hoc-quoc-gia-ha-noi-tu-22-51-den-27-43-5107074.html",
+    "category_id": "education",
+    "category_name": "Giáo dục",
+    "source": "VnExpress",
+    "title": "Trường Y đầu tiên công bố điểm chuẩn",
+    "description": "Điểm chuẩn trường Đại học Y Dược, Đại học Quốc gia Hà Nội (UMP) từ 22,51 đến 27,43, tăng so với năm ngoái, ngành Y khoa vẫn dẫn đầu.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/09/ump-jpeg-1786267977-6273-1786267997.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=FWZCKCVOR2_laPhSFOm97w",
+    "link": "https://vnexpress.net/diem-chuan-truong-dai-hoc-y-duoc-dai-hoc-quoc-gia-ha-noi-tu-22-51-den-27-43-5107074.html",
+    "published_at": "Sun, 09 Aug 2026 16:36:25 +0700",
+    "createAt": "2026-08-09T09:36:25.000Z",
+    "thumbnail_blurhash": "LGK_Xl%NtPt5~8%0V@x]x=t6%Moz"
+  },
+  {
+    "id": "https://vnexpress.net/diem-chuan-dai-hoc-bach-khoa-da-nang-2026-chi-tiet-nhat-5106992.html",
+    "category_id": "education",
+    "category_name": "Giáo dục",
+    "source": "VnExpress",
+    "title": "Điểm chuẩn Đại học Bách khoa Đà Nẵng vượt 27",
+    "description": "Chương trình kỹ sư tài năng Kỹ thuật điều khiển và tự động hóa lấy điểm chuẩn 27,1/30, cao nhất trường Đại học Bách khoa Đà Nẵng, nhiều ngành khác trên 26.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/09/690624413-n-1786247694-9803-1786268301.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=jncdbxuEstVouVlA8D8Feg",
+    "link": "https://vnexpress.net/diem-chuan-dai-hoc-bach-khoa-da-nang-2026-chi-tiet-nhat-5106992.html",
+    "published_at": "Sun, 09 Aug 2026 16:43:02 +0700",
+    "createAt": "2026-08-09T09:43:02.000Z",
+    "thumbnail_blurhash": "LhK_Uh_NNGD%-;axofaK-;agR*of"
+  },
+  {
+    "id": "https://vnexpress.net/diem-chuan-dai-hoc-kinh-te-tp-hcm-nam-2026-chi-tiet-nhat-5106979.html",
+    "category_id": "education",
+    "category_name": "Giáo dục",
+    "source": "VnExpress",
+    "title": "Điểm chuẩn Đại học Kinh tế TP HCM sát mốc 100/100",
+    "description": "Ngành Logistics và Quản lý chuỗi cung ứng lấy điểm chuẩn 97/100, cao nhất Đại học Kinh tế TP HCM (UEH) trong năm đầu xét tuyển tổng hợp.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/09/764863142-n-1786248136-3570-1786268408.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=SuV3EtG7SFzhPmdCOO0bvg",
+    "link": "https://vnexpress.net/diem-chuan-dai-hoc-kinh-te-tp-hcm-nam-2026-chi-tiet-nhat-5106979.html",
+    "published_at": "Sun, 09 Aug 2026 16:46:45 +0700",
+    "createAt": "2026-08-09T09:46:45.000Z",
+    "thumbnail_blurhash": "LiKAsZwx,uxa_Nt7T0afo#tRozW;"
+  },
+  {
+    "id": "https://vnexpress.net/diem-chuan-dai-hoc-kinh-te-luat-uel-2026-kem-hoc-phi-chi-tiet-nhat-5107013.html",
+    "category_id": "education",
+    "category_name": "Giáo dục",
+    "source": "VnExpress",
+    "title": "Đại học Kinh tế - Luật lấy điểm chuẩn cao nhất 90,01/100",
+    "description": "Hầu hết ngành đào tạo của trường Đại học Kinh tế - Luật (UEL) lấy điểm chuẩn 80/100 trở lên, cao nhất là ngành Kinh doanh quốc tế.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/09/1786248719016e4512af11b94ecbb6-2921-5481-1786269139.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=fCIUh0GEGWH6nxKrxt5_Lw",
+    "link": "https://vnexpress.net/diem-chuan-dai-hoc-kinh-te-luat-uel-2026-kem-hoc-phi-chi-tiet-nhat-5107013.html",
+    "published_at": "Sun, 09 Aug 2026 16:58:01 +0700",
+    "createAt": "2026-08-09T09:58:01.000Z",
+    "thumbnail_blurhash": "L9EV:L~H019J4TpMyEte004:$dj}"
   }
 ]
