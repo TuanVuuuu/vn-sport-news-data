@@ -76,5 +76,70 @@
     "published_at": "Sun, 09 Aug 2026 07:00:00 +0700",
     "createAt": "2026-08-09T00:00:00.000Z",
     "thumbnail_blurhash": "LMGI+I+[QR_4DhofpJaKxtS2o#Ri"
+  },
+  {
+    "id": "https://vnexpress.net/an-chanh-dong-lanh-moi-sang-de-tieu-khoi-u-5106732.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Ăn chanh đông lạnh mỗi sáng để tiêu khối u?",
+    "description": "Nhiều người nói đông lạnh sẽ giúp vỏ chanh giữ nguyên các chất chống oxy hóa và tinh dầu có thể điều trị ung thư, liệu có đúng không? (Mỹ, 26 tuổi, Hà Nội).",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/08/chanh-vnexpress-1786160476-5498-1786160487.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=ErYIyMRRDRxHH302UgJ72w",
+    "link": "https://vnexpress.net/an-chanh-dong-lanh-moi-sang-de-tieu-khoi-u-5106732.html",
+    "published_at": "Sun, 09 Aug 2026 08:00:00 +0700",
+    "createAt": "2026-08-09T01:00:00.000Z",
+    "thumbnail_blurhash": "L7D]3d9a00?G4z--b.D,00I._N-W"
+  },
+  {
+    "id": "https://vnexpress.net/khi-nao-nguoi-benh-ung-thu-gan-duoc-xa-tri-5106845.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Khi nào người bệnh ung thư gan được xạ trị?",
+    "description": "Cậu tôi xơ gan nhiều năm, gần đây khám được chẩn đoán ung thư gan. Người bệnh ung thư gan khi nào được chỉ định xạ trị? (Ngọc Châu, 33 tuổi)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/08/gan-1786183697-7615-1786183792.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=aypgbN585db0AV8Vh-TiPg",
+    "link": "https://vnexpress.net/khi-nao-nguoi-benh-ung-thu-gan-duoc-xa-tri-5106845.html",
+    "published_at": "Sun, 09 Aug 2026 08:00:00 +0700",
+    "createAt": "2026-08-09T01:00:00.000Z",
+    "thumbnail_blurhash": "LIL;sqIxx_?d_3N3%NWFE0nfxtt2"
+  },
+  {
+    "id": "https://vnexpress.net/6-nhom-tre-nao-co-nguy-co-day-thi-som-5106820.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "6 nhóm trẻ nào có nguy cơ dậy thì sớm",
+    "description": "Trẻ thừa cân, béo phì, mắc bệnh lý nội tiết, tiếp xúc với hóa chất có nguy cơ dậy thì sớm hơn bình thường.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/08/image001-1786183607-8090-1786183767.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=lkPnFGfEioVwm30JsBA2CA",
+    "link": "https://vnexpress.net/6-nhom-tre-nao-co-nguy-co-day-thi-som-5106820.html",
+    "published_at": "Sun, 09 Aug 2026 08:00:00 +0700",
+    "createAt": "2026-08-09T01:00:00.000Z",
+    "thumbnail_blurhash": "LLH2i*-,-;tR~qt7D%o#kXa#RPx]"
+  },
+  {
+    "id": "https://vnexpress.net/tre-tung-mac-adonevirus-co-tai-nhiem-5106818.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Trẻ từng mắc adonevirus có tái nhiễm?",
+    "description": "Con tôi 4 tuổi, từng nhiễm adenovirus, điều trị tại bệnh viện một tuần. Gần đây, lớp của bé có bạn nhiễm bệnh. Trẻ từng mắc adenovirus có tái nhiễm không? (Mai Chi, Hà Nội)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/08/image001-1786183859-6579-1786184324.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=29O_ozB05eqoi7_2tcJ_bg",
+    "link": "https://vnexpress.net/tre-tung-mac-adonevirus-co-tai-nhiem-5106818.html",
+    "published_at": "Sun, 09 Aug 2026 08:00:00 +0700",
+    "createAt": "2026-08-09T01:00:00.000Z",
+    "thumbnail_blurhash": "LPN0GD8^~qVa57D*%hM}4.IUWAWA"
+  },
+  {
+    "id": "https://vnexpress.net/5-mon-chua-tinh-bot-nhung-khong-lam-tang-duong-huyet-5106461.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "5 món chứa tinh bột nhưng không làm tăng đường huyết",
+    "description": "Thay vì bỏ hoàn toàn thực phẩm chứa tinh bột, người tiểu đường nên ưu tiên món ít tinh bột và giàu chất xơ như đậu lăng, táo, sữa chua.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/07/buoc-1786090308-6972-1786090380.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=kNcJSp4gAs2D7RKpmk00-A",
+    "link": "https://vnexpress.net/5-mon-chua-tinh-bot-nhung-khong-lam-tang-duong-huyet-5106461.html",
+    "published_at": "Sun, 09 Aug 2026 08:00:00 +0700",
+    "createAt": "2026-08-09T01:00:00.000Z",
+    "thumbnail_blurhash": "LDKAu5E40Dov~PadbuNH0AxpN2t3"
   }
 ]
