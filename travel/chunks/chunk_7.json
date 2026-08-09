@@ -271,5 +271,31 @@
     "published_at": "Sun, 09 Aug 2026 09:00:00 +0700",
     "createAt": "2026-08-09T02:00:00.000Z",
     "thumbnail_blurhash": "LSI}L$IB4:~W-;s:R4t6aKxaRiIA"
+  },
+  {
+    "id": "https://vnexpress.net/ho-nhan-tao-nao-lon-nhat-viet-nam-5106769.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Hồ nhân tạo nào lớn nhất Việt Nam?",
+    "description": "Hồ nằm trong Khu dự trữ sinh quyển thế giới, được UNESCO công nhận năm 2011, với khoảng 32.520 ha mặt hồ thuộc vùng lõi của khu dự trữ.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/08/08/0017547286501754729369-1786166-5888-6254-1786166239.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=40XOWbf-NoQ4yqbAaNRaCg",
+    "link": "https://vnexpress.net/ho-nhan-tao-nao-lon-nhat-viet-nam-5106769.html",
+    "published_at": "Sun, 09 Aug 2026 13:16:51 +0700",
+    "createAt": "2026-08-09T06:16:51.000Z",
+    "thumbnail_blurhash": "LWFP$EkCo|oy.AWXfmj]tna#a#j]"
+  },
+  {
+    "id": "https://vnexpress.net/nguoi-dan-ong-bi-bat-vi-len-len-may-bay-5107029.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Người đàn ông bị bắt vì lén lên máy bay",
+    "description": "Nhân viên kỹ thuật của hãng JetBlue, Mỹ, phát hiện người đàn ông đang trốn trong nhà vệ sinh của máy bay khi kiểm tra định kỳ.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/08/09/samuellackeyjetblueftlauderdal-7364-2818-1786251968.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=-1AljwQgPW6o9f1PNhnIKw",
+    "link": "https://vnexpress.net/nguoi-dan-ong-bi-bat-vi-len-len-may-bay-5107029.html",
+    "published_at": "Sun, 09 Aug 2026 13:25:06 +0700",
+    "createAt": "2026-08-09T06:25:06.000Z",
+    "thumbnail_blurhash": "LRE:b{HqV@?wK8nhj[o#%hnMjYW?"
   }
 ]
