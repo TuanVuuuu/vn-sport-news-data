@@ -310,5 +310,44 @@
     "published_at": "Mon, 10 Aug 2026 12:15:49 +0700",
     "createAt": "2026-08-10T05:15:49.000Z",
     "thumbnail_blurhash": "LYHeI6$*x]R%~pkVxYni-:WUbERQ"
+  },
+  {
+    "id": "https://vnexpress.net/ba-oto-cho-giang-ho-di-doi-no-70-ty-dong-5107198.html",
+    "category_id": "law",
+    "category_name": "Pháp luật",
+    "source": "VnExpress",
+    "title": "Ba ôtô chở giang hồ đi đòi nợ 70 tỷ đồng",
+    "description": "Ba ôtô dán logo công ty chở vợ chồng ông chủ Hồ Minh Đạt cùng dàn nhân viên xăm trổ bủa vây nhà, cửa hàng, gây sức ép đòi khoản nợ 70 tỷ đồng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/10/IMG-0370-JPG-1786328445-4242-1786328703.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=YDG6jEsfwEi9a3ZPLCR-wA",
+    "link": "https://vnexpress.net/ba-oto-cho-giang-ho-di-doi-no-70-ty-dong-5107198.html",
+    "published_at": "Mon, 10 Aug 2026 11:01:18 +0700",
+    "createAt": "2026-08-10T04:01:18.000Z",
+    "thumbnail_blurhash": "LEC%Kg4-4W-Yx:xuIDxb~WD%NGxu"
+  },
+  {
+    "id": "https://vnexpress.net/de-xuat-chinh-sach-nghi-duong-chua-benh-che-do-cho-cong-an-nghi-huu-5107320.html",
+    "category_id": "law",
+    "category_name": "Pháp luật",
+    "source": "VnExpress",
+    "title": "Đề xuất chính sách nghỉ dưỡng, chữa bệnh, chế độ cho công an nghỉ hưu",
+    "description": "Để chăm lo đời sống cho hơn 120.000 sĩ quan công an về hưu, Bộ Công an đề xuất các chính sách nghỉ dưỡng, chữa bệnh, tang lễ... với kinh phí hằng năm khoảng 520 tỷ đồng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/10/huy-1786337603-6647-1786337739.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=oUZXcKzsut2ZlL2_kFOmjg",
+    "link": "https://vnexpress.net/de-xuat-chinh-sach-nghi-duong-chua-benh-che-do-cho-cong-an-nghi-huu-5107320.html",
+    "published_at": "Mon, 10 Aug 2026 13:06:17 +0700",
+    "createAt": "2026-08-10T06:06:17.000Z",
+    "thumbnail_blurhash": "LgEoV%s:WBof~WaeWVof%NWBWVbH"
+  },
+  {
+    "id": "https://vnexpress.net/lua-huy-dong-von-kinh-doanh-hai-san-voi-lai-cao-5107339.html",
+    "category_id": "law",
+    "category_name": "Pháp luật",
+    "source": "VnExpress",
+    "title": "Lừa huy động vốn kinh doanh hải sản với lãi cao",
+    "description": "Phạm Thị Hương bị cáo buộc lừa huy động vốn để nhập hải sản, cam kết chia lợi nhuận từ 80 triệu đồng cho một tỷ đồng đầu tư, chiếm đoạt hơn 50 tỷ đồng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/10/nghi-can-huong-1786337786-2070-1786338648.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=2rCK3F88hiov1rrpFAnimA",
+    "link": "https://vnexpress.net/lua-huy-dong-von-kinh-doanh-hai-san-voi-lai-cao-5107339.html",
+    "published_at": "Mon, 10 Aug 2026 13:14:32 +0700",
+    "createAt": "2026-08-10T06:14:32.000Z",
+    "thumbnail_blurhash": "LjKnPUMxx].8_NkDt7xuofxujZWA"
   }
 ]
