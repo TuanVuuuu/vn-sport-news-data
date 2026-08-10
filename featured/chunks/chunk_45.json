@@ -869,5 +869,57 @@
     "published_at": "Mon, 10 Aug 2026 10:00:13 +0700",
     "createAt": "2026-08-10T03:00:13.000Z",
     "thumbnail_blurhash": "LHL|oQxB{t^b{tw@peNLPDR.Z~of"
+  },
+  {
+    "id": "https://vnexpress.net/my-nhan-hong-kong-lam-tai-xe-taxi-5107191.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Mỹ nhân Hong Kong làm tài xế taxi",
+    "description": "Diễn viên TVB Bành Tường Linh chuyển sang lái taxi mưu sinh, cho biết thu nhập đủ để trang trải cuộc sống.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/08/10/tuong-linh-1786329017-8330-1786329523.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=fW1KOqESuFt1cdJNtJCDaA",
+    "link": "https://vnexpress.net/my-nhan-hong-kong-lam-tai-xe-taxi-5107191.html",
+    "published_at": "Mon, 10 Aug 2026 09:42:39 +0700",
+    "createAt": "2026-08-10T02:42:39.000Z",
+    "thumbnail_blurhash": "LCBg3u_40001$1IUS5bv009F-:^*"
+  },
+  {
+    "id": "https://vnexpress.net/nam-sinh-thai-lan-mang-60-vien-dan-khi-xa-sung-tai-truong-hoc-5107175.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Nam sinh Thái Lan mang 60 viên đạn khi xả súng tại trường học",
+    "description": "Cảnh sát xác định nghi phạm xả súng tại trường học gần Bangkok mang theo nhiều đạn và có thể đã học cách dùng vũ khí qua mạng xã hội.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/10/canh-sat-thai-lan-1786326165-2703-1786326254.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=PK8Pa7Kphacgg45z0MwRoQ",
+    "link": "https://vnexpress.net/nam-sinh-thai-lan-mang-60-vien-dan-khi-xa-sung-tai-truong-hoc-5107175.html",
+    "published_at": "Mon, 10 Aug 2026 10:23:25 +0700",
+    "createAt": "2026-08-10T03:23:25.000Z",
+    "thumbnail_blurhash": "LRF~BdbvEL$*_2R%V@xu_Nt7n4kX"
+  },
+  {
+    "id": "https://vnexpress.net/de-nghi-cam-hoa-giai-vu-bao-luc-gia-dinh-de-bao-ve-nan-nhan-5107192.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Đề nghị cấm hòa giải vụ bạo lực gia đình để bảo vệ nạn nhân",
+    "description": "Đại biểu Lưu Thị Thúy Hằng đề nghị không hòa giải các vụ bạo lực gia đình, xâm hại trẻ em, mua bán người, tránh kéo dài việc áp dụng biện pháp tư pháp bảo vệ nạn nhân.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/10/2aoboqqst2syabvamque6qoafvv0q2-4958-4495-1786332503.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=iddE4dguG5uuGpAylIW0Rg",
+    "link": "https://vnexpress.net/de-nghi-cam-hoa-giai-vu-bao-luc-gia-dinh-de-bao-ve-nan-nhan-5107192.html",
+    "published_at": "Mon, 10 Aug 2026 10:29:25 +0700",
+    "createAt": "2026-08-10T03:29:25.000Z",
+    "thumbnail_blurhash": "L9Ex;D%200~p00RitS8{E2t8~p%f"
+  },
+  {
+    "id": "https://vnexpress.net/thuong-uy-cong-an-bi-nhom-trom-cho-ban-vao-nguc-5107265.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Thượng úy công an bị nhóm trộm chó bắn vào ngực",
+    "description": "Bị tổ tuần tra phát hiện, nhóm Nguyễn Tấn Lợi tăng ga bỏ chạy, một người dùng súng tự chế bắn trúng ngực thượng úy công an đang truy bắt.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/10/NHOM2copy-1786332220-9097-1786332510.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=B21zZ-TBi0oTPsZmCSlMEQ",
+    "link": "https://vnexpress.net/thuong-uy-cong-an-bi-nhom-trom-cho-ban-vao-nguc-5107265.html",
+    "published_at": "Mon, 10 Aug 2026 10:40:37 +0700",
+    "createAt": "2026-08-10T03:40:37.000Z",
+    "thumbnail_blurhash": "LHGbej-:0000~V4.9GRjgO%Mofs:"
   }
 ]
