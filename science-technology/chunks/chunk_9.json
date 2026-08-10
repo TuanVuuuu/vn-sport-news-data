@@ -986,5 +986,31 @@
     "published_at": "Mon, 10 Aug 2026 20:28:37 +0700",
     "createAt": "2026-08-10T13:28:37.000Z",
     "thumbnail_blurhash": "LLJRQ{?vxV~W#YtRo}IB%2o}x]IA"
+  },
+  {
+    "id": "https://vnexpress.net/7-ky-ket-thuc-day-hop-tac-khoa-hoc-cong-nghe-viet-nam-australia-5107588.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "7 ký kết thúc đẩy hợp tác khoa học công nghệ Việt Nam - Australia",
+    "description": "Bảy biên bản ghi nhớ được trao giữa các đơn vị của Việt Nam và Australia hướng tới việc kết nối chuyên gia, đào tạo nhân lực, nghiên cứu, chuyển giao và đưa công nghệ vào ứng dụng thực tiễn.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/10/wm1-wm1-img-7631-2-jpg-1786377995-3709-1786378413.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=xQrlzu3MZvi-vUqhtmx5ew",
+    "link": "https://vnexpress.net/7-ky-ket-thuc-day-hop-tac-khoa-hoc-cong-nghe-viet-nam-australia-5107588.html",
+    "published_at": "Mon, 10 Aug 2026 23:29:34 +0700",
+    "createAt": "2026-08-10T16:29:34.000Z",
+    "thumbnail_blurhash": "L~B}a}kXWAo#yGkWWAbc%MoekBoe"
+  },
+  {
+    "id": "https://vnexpress.net/loat-ai-noi-loan-5107011.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Loạt AI 'nổi loạn'",
+    "description": "Trong hai tháng qua, hàng loạt AI từ OpenAI, Anthropic, Meta, Moonshot AI được ghi nhận đã tự lên kế hoạch và thực hiện tấn công mạng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/09/dsc03229-jpg-1786253374-5663-1786253580.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=yf4V0jkqbS3O2p735uBB6g",
+    "link": "https://vnexpress.net/loat-ai-noi-loan-5107011.html",
+    "published_at": "Tue, 11 Aug 2026 00:00:00 +0700",
+    "createAt": "2026-08-10T17:00:00.000Z",
+    "thumbnail_blurhash": "LTDn2.-5D5$z%%V=NeRjcZs*$+nl"
   }
 ]
