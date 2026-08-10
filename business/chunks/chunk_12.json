@@ -1142,5 +1142,31 @@
     "published_at": "Mon, 10 Aug 2026 15:28:21 +0700",
     "createAt": "2026-08-10T08:28:21.000Z",
     "thumbnail_blurhash": "LRH2lyNE~n-o-;-qoaWYx]sEWTS1"
+  },
+  {
+    "id": "https://vnexpress.net/tpbank-ra-mat-chuyen-gia-ngan-hang-so-t-aiox-5107411.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "TPBank ra mắt chuyên gia ngân hàng số T'AioX",
+    "description": "TPBank chính thức ra mắt chuyên gia ngân hàng số T'AioX trên ứng dụng TPBank, hỗ trợ tra cứu giao dịch, điều hướng tính năng, xử lý yêu cầu và tìm kiếm ưu đãi thông qua hội thoại.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/08/10/anh-1786346257-8684-1786346337.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=Dbp_-I_eSmPlZgaavIDznA",
+    "link": "https://vnexpress.net/tpbank-ra-mat-chuyen-gia-ngan-hang-so-t-aiox-5107411.html",
+    "published_at": "Mon, 10 Aug 2026 16:00:00 +0700",
+    "createAt": "2026-08-10T09:00:00.000Z",
+    "thumbnail_blurhash": "LOFr3L~C0eEL00EK%2n+E2Io%2-o"
+  },
+  {
+    "id": "https://vnexpress.net/vn-index-tien-gan-1-800-diem-5107489.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "VN-Index tiến gần 1.800 điểm",
+    "description": "Hàng loạt nhóm cổ phiếu trụ tăng mạnh, trừ Vingroup, giúp chỉ số đại diện cho sàn TP HCM tích lũy thêm 9 điểm, tiệm cận ngưỡng tâm lý 1.800 điểm.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/08/10/wm1-wm1-233a8019-1786351181-9291-1786351203.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=s9-Nf_5g18ZmFAyuISGgiw",
+    "link": "https://vnexpress.net/vn-index-tien-gan-1-800-diem-5107489.html",
+    "published_at": "Mon, 10 Aug 2026 16:37:47 +0700",
+    "createAt": "2026-08-10T09:37:47.000Z",
+    "thumbnail_blurhash": "L25iTj0K-U?H8w?cNEJS0J?wMwRj"
   }
 ]
