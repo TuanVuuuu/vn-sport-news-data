@@ -1012,5 +1012,31 @@
     "published_at": "Mon, 10 Aug 2026 06:08:36 +0700",
     "createAt": "2026-08-09T23:08:36.000Z",
     "thumbnail_blurhash": "L5AmMG^j5UWa-oRPD%t60fM{~Bt2"
+  },
+  {
+    "id": "https://vnexpress.net/leipzig-co-may-kiem-tien-ty-usd-tu-chuyen-nhuong-5107147.html",
+    "category_id": "sports",
+    "category_name": "Thể thao",
+    "source": "VnExpress",
+    "title": "Leipzig - cỗ máy kiếm tiền tỷ USD từ chuyển nhượng",
+    "description": "RB Leipzig đã thu về khoảng 1,21 tỷ USD từ việc bán cầu thủ trong 10 năm qua, nhờ mô hình tuyển mộ tài năng trẻ, phát triển rồi bán cho các đội bóng lớn với giá cao.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/08/10/a-nh-ma-n-hi-nh-lu-c-178629633-7541-1985-1786296344.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=jayhy7PCin3gbwmZAxbw0A",
+    "link": "https://vnexpress.net/leipzig-co-may-kiem-tien-ty-usd-tu-chuyen-nhuong-5107147.html",
+    "published_at": "Mon, 10 Aug 2026 06:12:51 +0700",
+    "createAt": "2026-08-09T23:12:51.000Z",
+    "thumbnail_blurhash": "LDC?cXxt00V[00oL~pNa00NG.9xZ"
+  },
+  {
+    "id": "https://vnexpress.net/fifa-phan-bac-chien-dich-ha-uy-tin-chu-tich-infantino-5107141.html",
+    "category_id": "sports",
+    "category_name": "Thể thao",
+    "source": "VnExpress",
+    "title": "FIFA phản bác chiến dịch 'hạ uy tín' Chủ tịch Infantino",
+    "description": "FIFA cho rằng đang có một chiến dịch có tổ chức và kéo dài nhằm làm suy yếu uy tín của tổ chức này cũng như Chủ tịch Gianni Infantino.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/08/09/fifa-1786291517-3951-1786291568.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=cVkFU1y8WYQcK0bIalGS4A",
+    "link": "https://vnexpress.net/fifa-phan-bac-chien-dich-ha-uy-tin-chu-tich-infantino-5107141.html",
+    "published_at": "Mon, 10 Aug 2026 06:13:53 +0700",
+    "createAt": "2026-08-09T23:13:53.000Z",
+    "thumbnail_blurhash": "LB7,=,j_5DNI%7n#NEt6WGR%k6t7"
   }
 ]
