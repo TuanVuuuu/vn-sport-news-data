@@ -128,5 +128,44 @@
     "published_at": "Mon, 10 Aug 2026 20:02:59 +0700",
     "createAt": "2026-08-10T13:02:59.000Z",
     "thumbnail_blurhash": "LDE_{g00spRk~WI9n~%M%f9uNIxt"
+  },
+  {
+    "id": "https://vnexpress.net/mo-show-vo-dien-gay-sot-o-rap-xiec-gan-1-400-ty-dong-5107455.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "'Mơ Show' - vở diễn gây sốt ở rạp xiếc gần 1.400 tỷ đồng",
+    "description": "Hàng nghìn khán giả xem \"Mơ Show\" - vở diễn kết hợp xiếc, múa rối, mapping - tại rạp đa năng Phú Thọ, TP HCM.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/08/10/wm1-mo-show-1786355779.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=QU9RhmRpWBvF3ltqE4JWDA",
+    "link": "https://vnexpress.net/mo-show-vo-dien-gay-sot-o-rap-xiec-gan-1-400-ty-dong-5107455.html",
+    "published_at": "Tue, 11 Aug 2026 00:00:00 +0700",
+    "createAt": "2026-08-10T17:00:00.000Z",
+    "thumbnail_blurhash": "LC9P:0S$00nd-@kEIARgIpog%LRi"
+  },
+  {
+    "id": "https://vnexpress.net/dung-bao-gio-di-an-mot-minh-5107543.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "'Đừng bao giờ đi ăn một mình'",
+    "description": "Đọc ''Đừng bao giờ đi ăn một mình'', tôi hiểu thành công không đến từ những gì bạn biết mà từ những người bạn cùng đi.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/08/10/dung-bao-gio-di-an-mot-minh-17-4845-3790-1786356937.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ggURvLsHmQ_-0ihmCfS2uw",
+    "link": "https://vnexpress.net/dung-bao-gio-di-an-mot-minh-5107543.html",
+    "published_at": "Tue, 11 Aug 2026 00:06:00 +0700",
+    "createAt": "2026-08-10T17:06:00.000Z",
+    "thumbnail_blurhash": "L9NlkP-n-P-n0uR.NbNeN]WFNca{"
+  },
+  {
+    "id": "https://vnexpress.net/nhung-bieu-tuong-ha-noi-trong-tranh-5106962.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Những biểu tượng Hà Nội trong tranh",
+    "description": "Hình ảnh Khuê Văn Các, bốt Hàng Đậu, Nhà thờ Lớn Hà Nội được thể hiện qua nét vẽ của nhiều họa sĩ ở độ tuổi khác nhau.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/08/09/anh-sang-khue-van-1786259164.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=l4WK23B2ApUz8_29dWdc6w",
+    "link": "https://vnexpress.net/nhung-bieu-tuong-ha-noi-trong-tranh-5106962.html",
+    "published_at": "Tue, 11 Aug 2026 00:10:00 +0700",
+    "createAt": "2026-08-10T17:10:00.000Z",
+    "thumbnail_blurhash": "LAE_dHO?00%D~FxA0@TJYFS~}Bt0"
   }
 ]
