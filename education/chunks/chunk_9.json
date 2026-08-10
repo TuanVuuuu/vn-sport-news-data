@@ -245,5 +245,57 @@
     "published_at": "Mon, 10 Aug 2026 10:24:52 +0700",
     "createAt": "2026-08-10T03:24:52.000Z",
     "thumbnail_blurhash": "LMJ8q7%X?;o?xxxH8~V@02N2aeai"
+  },
+  {
+    "id": "https://vnexpress.net/diem-chuan-23-truong-quan-doi-nam-2026-chi-tiet-nhat-5106991.html",
+    "category_id": "education",
+    "category_name": "Giáo dục",
+    "source": "VnExpress",
+    "title": "23 trường quân đội công bố điểm chuẩn cao nhất 29,76",
+    "description": "Điểm chuẩn hệ quân sự của 23 trường quân đội từ 21,5 đến 29,76, cao nhất ở Học viện Quân y và Khoa học quân sự.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/09/wm1-wm1-233a1295-1786246802-4063-1786246933.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=XkT0eZllbOxV_ef5wSSVrQ",
+    "link": "https://vnexpress.net/diem-chuan-23-truong-quan-doi-nam-2026-chi-tiet-nhat-5106991.html",
+    "published_at": "Mon, 10 Aug 2026 10:52:00 +0700",
+    "createAt": "2026-08-10T03:52:00.000Z",
+    "thumbnail_blurhash": "LKFreV-:xGs:~BjZs-tQx]bGxaof"
+  },
+  {
+    "id": "https://vnexpress.net/diem-chuan-dai-hoc-duoc-ha-noi-2026-o-4-nganh-kem-hoc-phi-chi-tiet-5107088.html",
+    "category_id": "education",
+    "category_name": "Giáo dục",
+    "source": "VnExpress",
+    "title": "Điểm chuẩn Đại học Dược Hà Nội từ 21,35",
+    "description": "Hai ngành Dược học và Hóa dược của trường Đại học Dược Hà Nội giảm điểm chuẩn trong khi hai ngành còn lại tăng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/09/duoc-jpeg-1786271743-8409-1786271911.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=SDksefhg6elZSka8uV5W_Q",
+    "link": "https://vnexpress.net/diem-chuan-dai-hoc-duoc-ha-noi-2026-o-4-nganh-kem-hoc-phi-chi-tiet-5107088.html",
+    "published_at": "Mon, 10 Aug 2026 11:23:16 +0700",
+    "createAt": "2026-08-10T04:23:16.000Z",
+    "thumbnail_blurhash": "LCLEA=-@k?M|*CEmS*NfxQM{i~?F"
+  },
+  {
+    "id": "https://vnexpress.net/diem-chuan-dai-hoc-luat-ha-noi-hlu-2026-kem-hoc-phi-chi-tiet-nhat-5107090.html",
+    "category_id": "education",
+    "category_name": "Giáo dục",
+    "source": "VnExpress",
+    "title": "Điểm chuẩn Đại học Luật Hà Nội cao nhất gần 26",
+    "description": "Ngành Luật Kinh tế tiếp tục dẫn đầu trường Đại học Luật Hà Nội (HLU) về điểm chuẩn với 25,95 điểm.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/09/dh-lua-t-1786272224-1490-1786272246.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=KpBwOA24WjJmg9Zq4odqsw",
+    "link": "https://vnexpress.net/diem-chuan-dai-hoc-luat-ha-noi-hlu-2026-kem-hoc-phi-chi-tiet-nhat-5107090.html",
+    "published_at": "Mon, 10 Aug 2026 11:34:51 +0700",
+    "createAt": "2026-08-10T04:34:51.000Z",
+    "thumbnail_blurhash": "LDHB@~D%00xu?H~ptRtRxI%MM{-;"
+  },
+  {
+    "id": "https://vnexpress.net/diem-chuan-dai-hoc-y-duoc-tp-hcm-ump-2026-tat-ca-nganh-kem-hoc-phi-5107328.html",
+    "category_id": "education",
+    "category_name": "Giáo dục",
+    "source": "VnExpress",
+    "title": "Hơn 9,3 điểm mỗi môn đỗ ngành hot nhất Đại học Y Dược TP HCM",
+    "description": "Điểm chuẩn Đại học Y Dược TP HCM tăng, Y khoa dẫn đầu với 27,95/30 điểm - mức cao nhất trong nhóm ngành đến lúc này.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/10/thitotnghiepthpt-1786336810-9960-1786336916.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=vlaYHOOZe-T1hYYLny1p9w",
+    "link": "https://vnexpress.net/diem-chuan-dai-hoc-y-duoc-tp-hcm-ump-2026-tat-ca-nganh-kem-hoc-phi-5107328.html",
+    "published_at": "Mon, 10 Aug 2026 11:49:37 +0700",
+    "createAt": "2026-08-10T04:49:37.000Z",
+    "thumbnail_blurhash": "LOHBe[.8IUIo%~xGo}W=~Wo}xZi_"
   }
 ]
