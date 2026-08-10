@@ -1,3 +1,69 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/loi-khai-cua-tiktoker-khanh-sky-vua-quat-ho-van-khoa-5107085.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Lời khai của TikToker Khánh Sky, Vua Quạt, Hồ Văn Khoa",
+      "description": "Nguyễn Văn Hợi, tức TikToker Khánh Sky, khai nhận thấy nhiều người thích xem các video chửi bới nên cố tình livestream những màn tranh cãi, công kích nhau để thu hút lượt xem.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/09/20260809205251-1786283586-5988-1786283595.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=itfQ1mlvAZA2sUwfP1CEUQ",
+      "link": "https://vnexpress.net/loi-khai-cua-tiktoker-khanh-sky-vua-quat-ho-van-khoa-5107085.html",
+      "published_at": "Sun, 09 Aug 2026 20:58:43 +0700",
+      "createAt": "2026-08-09T13:58:43.000Z",
+      "thumbnail_blurhash": "L#MG|mR*In-m~Tadn+og-.oNocRj"
+    },
+    {
+      "id": "https://vnexpress.net/nguoi-tre-bo-thue-nha-pho-ve-vung-ven-5107138.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Người trẻ bỏ thuê nhà phố, về vùng ven",
+      "description": "Sau hơn 10 năm thuê nhà chật chội ở nội thành Hà Nội, anh Đức, 30 tuổi, đưa cả gia đình ra Hoài Đức, cách 20 km, giúp tiết kiệm hơn chục triệu đồng mỗi tháng và mua được ôtô.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/09/178628753236529054653333407889-6694-6364-1786289568.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=7sAHYQw9D9OdWKpR_4iN-w",
+      "link": "https://vnexpress.net/nguoi-tre-bo-thue-nha-pho-ve-vung-ven-5107138.html",
+      "published_at": "Mon, 10 Aug 2026 06:00:00 +0700",
+      "createAt": "2026-08-09T23:00:00.000Z",
+      "thumbnail_blurhash": "LEHnNiRQI9s._NZhI9-o?a#l%2^+"
+    },
+    {
+      "id": "https://vnexpress.net/bay-lai-suat-48-lua-nghin-ty-gop-von-trong-sam-ngoc-linh-5107128.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Bẫy lãi suất 48% lừa nghìn tỷ góp vốn trồng sâm Ngọc Linh",
+      "description": "Phạm Thị Mỹ Hạnh, Chủ tịch Tập đoàn Mỹ Hạnh, bị cáo buộc \"vẽ\" dự án trồng sâm Ngọc Linh, hứa hẹn lãi suất 48% để lừa hàng loạt nhà đầu tư góp vốn tổng cộng 1.300 tỷ đồng.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/09/121-jpeg-1786287789-2772-1786287880.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=NZKZIepLXh70I8VUjo9A4g",
+      "link": "https://vnexpress.net/bay-lai-suat-48-lua-nghin-ty-gop-von-trong-sam-ngoc-linh-5107128.html",
+      "published_at": "Mon, 10 Aug 2026 06:01:38 +0700",
+      "createAt": "2026-08-09T23:01:38.000Z",
+      "thumbnail_blurhash": "LOOU%[%K_JwM?ujbs;R-.Qt7a2xZ"
+    },
+    {
+      "id": "https://vnexpress.net/hlv-indonesia-duoc-khuyen-hoc-su-tan-tam-cua-kim-sang-sik-5107131.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "HLV Indonesia được khuyên học sự tận tâm của Kim Sang-sik",
+      "description": "Chuyên gia bóng đá Indonesia Ibam Hariri cho rằng John Herdman cần hiểu sâu hơn bóng đá Đông Nam Á và có thể học cách Kim Sang-sik trực tiếp nghiên cứu đối thủ.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/08/09/wm1-wm1-kim-sang-sik-john-herdman-4334-2415-1786288689.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=3N3bPgXxu1jyOZPAzZ0pFg",
+      "link": "https://vnexpress.net/hlv-indonesia-duoc-khuyen-hoc-su-tan-tam-cua-kim-sang-sik-5107131.html",
+      "published_at": "Mon, 10 Aug 2026 06:08:36 +0700",
+      "createAt": "2026-08-09T23:08:36.000Z",
+      "thumbnail_blurhash": "L5AmMG^j5UWa-oRPD%t60fM{~Bt2"
+    },
+    {
+      "id": "https://vnexpress.net/iran-noi-tong-thong-da-gap-lanh-tu-toi-cao-5107151.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Iran nói Tổng thống đã gặp Lãnh tụ Tối cao",
+      "description": "Văn phòng của Lãnh tụ Tối cao Iran cho biết ông gần đây gặp Tổng thống Pezeshkian, giữa lúc có thông tin ông Mojtaba Khamenei đang \"nguy kịch\".",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/10/Iran-1786318283-3799-1786318901.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Jb7_DWBJjn4CQQeBd8MFtA",
+      "link": "https://vnexpress.net/iran-noi-tong-thong-da-gap-lanh-tu-toi-cao-5107151.html",
+      "published_at": "Mon, 10 Aug 2026 07:04:32 +0700",
+      "createAt": "2026-08-10T00:04:32.000Z",
+      "thumbnail_blurhash": "LgIhjeoI?voz_NozxvozNHxuxCt7"
+    }
+  ]
 }
