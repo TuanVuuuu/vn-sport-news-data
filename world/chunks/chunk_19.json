@@ -414,5 +414,44 @@
     "published_at": "Mon, 10 Aug 2026 17:00:00 +0700",
     "createAt": "2026-08-10T10:00:00.000Z",
     "thumbnail_blurhash": "LrB$l]HqawV{.mS7R5jEoyoxRPaJ"
+  },
+  {
+    "id": "https://vnexpress.net/tap-doan-my-lo-bi-ukraine-vuot-mat-ve-ten-lua-patriot-5107161.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Tập đoàn Mỹ lo bị Ukraine 'vượt mặt về tên lửa Patriot'",
+    "description": "Lockheed Martin, RTX ngần ngại cho Ukraine tự chế tạo đạn Patriot vì lo mất tài sản trí tuệ và nguy cơ bị vượt sản lượng, theo tạp chí Mỹ.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/10/Patriot-1786323007-4865-1786323406.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=JYpRYEH_DaHtPOHnb9RBvQ",
+    "link": "https://vnexpress.net/tap-doan-my-lo-bi-ukraine-vuot-mat-ve-ten-lua-patriot-5107161.html",
+    "published_at": "Mon, 10 Aug 2026 09:48:00 +0700",
+    "createAt": "2026-08-10T02:48:00.000Z",
+    "thumbnail_blurhash": "LYIE%{x]xvoc~px]R-jY~Wxuo#jZ"
+  },
+  {
+    "id": "https://vnexpress.net/ukraine-tap-kich-co-so-loc-dau-nga-13-nguoi-chet-5107556.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Ukraine tập kích cơ sở lọc dầu Nga, 13 người chết",
+    "description": "UAV Ukraine tập kích nhà máy lọc dầu ở vùng Tatarstan, khiến ít nhất 13 người chết, đánh dấu một trong những cuộc tấn công gây thương vong lớn nhất từ đầu chiến sự.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/10/cats-1786361158-2187-1786361171.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=2bRpn94E_4usqwMMo-3bpg",
+    "link": "https://vnexpress.net/ukraine-tap-kich-co-so-loc-dau-nga-13-nguoi-chet-5107556.html",
+    "published_at": "Mon, 10 Aug 2026 18:45:24 +0700",
+    "createAt": "2026-08-10T11:45:24.000Z",
+    "thumbnail_blurhash": "LVH.Z-R,aet8_4oft7WBxvt7WBof"
+  },
+  {
+    "id": "https://vnexpress.net/the-kho-voi-ong-trump-truoc-dieu-kien-mo-cua-hormuz-cua-iran-5107194.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Thế khó với ông Trump trước điều kiện mở cửa Hormuz của Iran",
+    "description": "Iran nêu 6 điều kiện để mở lại eo biển Hormuz, cho thấy họ tự tin vào đòn bẩy chiến lược này và thu hẹp lối thoát của Mỹ khỏi cuộc xung đột.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/10/AP26218745042502-1786334267-2476-1786334776.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Q6q0ccXS7zr2a-6vdL4HUw",
+    "link": "https://vnexpress.net/the-kho-voi-ong-trump-truoc-dieu-kien-mo-cua-hormuz-cua-iran-5107194.html",
+    "published_at": "Mon, 10 Aug 2026 19:00:00 +0700",
+    "createAt": "2026-08-10T12:00:00.000Z",
+    "thumbnail_blurhash": "LkJkGuj0cEaN~pNHX9W=XSR*V@kC"
   }
 ]
