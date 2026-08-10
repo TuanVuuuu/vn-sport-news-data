@@ -1090,5 +1090,44 @@
     "published_at": "Mon, 10 Aug 2026 12:12:58 +0700",
     "createAt": "2026-08-10T05:12:58.000Z",
     "thumbnail_blurhash": "LGKL5d.8IU%hu6tSbIt8.AfkofbH"
+  },
+  {
+    "id": "https://vnexpress.net/cuoc-chien-thue-nha-o-san-francisco-them-cang-thang-vi-ai-5107326.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Cuộc chiến thuê nhà ở San Francisco thêm căng thẳng vì AI",
+    "description": "Darren Mallot và các bạn phải trả tới 10.000 USD để thuê một căn 4 phòng ngủ ở San Francisco, cao hơn 2.000 USD so với giá chào ban đầu.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/10/sanfranciscoreuters-1786337230-2476-1786337281.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=cFPhK-Un1813cbqkrgNEMQ",
+    "link": "https://vnexpress.net/cuoc-chien-thue-nha-o-san-francisco-them-cang-thang-vi-ai-5107326.html",
+    "published_at": "Mon, 10 Aug 2026 11:57:20 +0700",
+    "createAt": "2026-08-10T04:57:20.000Z",
+    "thumbnail_blurhash": "LlDv+s%MkCWV?wt7j[fkp0M{WBaz"
+  },
+  {
+    "id": "https://vnexpress.net/hoc-vien-hang-khong-vietjet-victoria-dao-tao-nhan-luc-quoc-te-5107302.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Học viện Hàng không Vietjet Victoria đào tạo nhân lực quốc tế",
+    "description": "Học viện Hàng không Vietjet Victoria tổ chức lễ tốt nghiệp khóa đào tạo tiếp viên hàng không đa quốc gia, sau khi hoàn thành chương trình chuyên môn, an toàn bay, xử lý tình huống.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/08/10/ban-1786334972-7415-1786335104.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=Pnj1b04lsMDJ_F8xBTOzlQ",
+    "link": "https://vnexpress.net/hoc-vien-hang-khong-vietjet-victoria-dao-tao-nhan-luc-quoc-te-5107302.html",
+    "published_at": "Mon, 10 Aug 2026 13:00:00 +0700",
+    "createAt": "2026-08-10T06:00:00.000Z",
+    "thumbnail_blurhash": "L-Ly.[kqkrt8%%X8X8oeNMWBV?ad"
+  },
+  {
+    "id": "https://vnexpress.net/fdi-can-gi-de-tu-tin-rot-von-chat-luong-cao-vao-viet-nam-5105190.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "FDI cần gì để tự tin rót vốn chất lượng cao vào Việt Nam?",
+    "description": "So với các ưu đãi truyền thống, FDI chất lượng cao ưu tiên thể chế ổn định, năng lực đối tác địa phương và hạ tầng, nhân lực sẵn sàng.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/08/05/samsung-jpeg-1785906054-7010-1785907396.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Y7mVA4naJSUe9gKHrxEdcw",
+    "link": "https://vnexpress.net/fdi-can-gi-de-tu-tin-rot-von-chat-luong-cao-vao-viet-nam-5105190.html",
+    "published_at": "Mon, 10 Aug 2026 13:23:41 +0700",
+    "createAt": "2026-08-10T06:23:41.000Z",
+    "thumbnail_blurhash": "LYF~{:x_$+x]PEkDRjWXV?RikBae"
   }
 ]
