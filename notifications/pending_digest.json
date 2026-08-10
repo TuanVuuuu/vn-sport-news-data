@@ -1,3 +1,95 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/lao-dong-vi-pham-phap-luat-o-nuoc-ngoai-can-bi-cam-xuat-canh-5107303.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "'Lao động vi phạm pháp luật ở nước ngoài cần bị cấm xuất cảnh'",
+      "description": "Đại biểu Trần Đình Gia cho rằng người từng vi phạm pháp luật khi làm việc ở nước ngoài cần bị hạn chế xuất cảnh, tránh ảnh hưởng cơ hội của những lao động chấp hành nghiêm túc.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/10/202608101105115657-z8135551749-5001-1842-1786337719.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=UM6Fk-BbDTzB9gfghSJ0QQ",
+      "link": "https://vnexpress.net/lao-dong-vi-pham-phap-luat-o-nuoc-ngoai-can-bi-cam-xuat-canh-5107303.html",
+      "published_at": "Mon, 10 Aug 2026 11:55:47 +0700",
+      "createAt": "2026-08-10T04:55:47.000Z",
+      "thumbnail_blurhash": "LCGI1J_N000000IA?w_3%gIo%1xu"
+    },
+    {
+      "id": "https://vnexpress.net/tp-hcm-khuyen-khich-hop-thua-dat-sieu-nho-sau-giai-toa-5107488.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "TP HCM khuyến khích hợp thửa đất siêu nhỏ sau giải tỏa",
+      "description": "Những lô đất chỉ còn vài mét vuông sau giải phóng mặt bằng được đề xuất bồi thường phần còn lại hoặc hợp với thửa liền kề để đủ điều kiện xây dựng.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/10/wm1a5415-1786351233-4190-1786351332.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=J1MGe2EBf6WAUcLxVGcqow",
+      "link": "https://vnexpress.net/tp-hcm-khuyen-khich-hop-thua-dat-sieu-nho-sau-giai-toa-5107488.html",
+      "published_at": "Mon, 10 Aug 2026 15:54:30 +0700",
+      "createAt": "2026-08-10T08:54:30.000Z",
+      "thumbnail_blurhash": "LGG[.#~pIT0K~p-;RkD%tRoLRikC"
+    },
+    {
+      "id": "https://vnexpress.net/hai-bo-dong-y-nghi-le-van-hoa-4-ngay-tet-dinh-mui-7-ngay-5107296.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Hai bộ đồng ý nghỉ lễ Văn hóa 4 ngày, Tết Đinh Mùi 7 ngày",
+      "description": "Hai bộ Y tế và Văn hóa Thể thao Du lịch đồng tình hoán đổi ngày làm việc để kỳ nghỉ lễ Văn hóa Việt Nam 24/11 kéo dài 4 ngày, Tết Đinh Mùi 7 ngày.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/10/wm1-wm1-dsc2812-1786356515-5316-1786356525.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=xHAnCJ7xznDg2eMFsyx39g",
+      "link": "https://vnexpress.net/hai-bo-dong-y-nghi-le-van-hoa-4-ngay-tet-dinh-mui-7-ngay-5107296.html",
+      "published_at": "Mon, 10 Aug 2026 15:55:19 +0700",
+      "createAt": "2026-08-10T08:55:19.000Z",
+      "thumbnail_blurhash": "LpN9::RiS$%L.TIV%Mogxua#o#Rj"
+    },
+    {
+      "id": "https://vnexpress.net/y-ha-noi-ky-luat-hai-sinh-vien-vi-doa-lay-trat-ven-benh-nhan-5107480.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Y Hà Nội kỷ luật hai sinh viên vì dọa 'lấy trật ven' bệnh nhân",
+      "description": "Hai lớp phó học tập ngành Răng Hàm Mặt và Hộ sinh bị trường Đại học Y Hà Nội kỷ luật, yêu cầu khóa tài khoản TikTok, vì dọa 'lấy trật ven' bệnh nhân trên mạng xã hội.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/10/hgn03103-1786351003-4808-1786351451.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=5bqAwnxRbcj7XaVzUF9lMw",
+      "link": "https://vnexpress.net/y-ha-noi-ky-luat-hai-sinh-vien-vi-doa-lay-trat-ven-benh-nhan-5107480.html",
+      "published_at": "Mon, 10 Aug 2026 15:58:44 +0700",
+      "createAt": "2026-08-10T08:58:44.000Z",
+      "thumbnail_blurhash": "LREfNKWTaxxs00%2xtt6~qM{WUog"
+    },
+    {
+      "id": "https://vnexpress.net/diem-chuan-hoc-vien-cong-nghe-buu-chinh-vien-thong-ptit-2026-chi-tiet-tat-ca-nganh-5106875.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Điểm chuẩn Học viện Công nghệ Bưu chính Viễn thông từ 20,21 trở lên",
+      "description": "Ngành Kỹ thuật Điều khiển và tự động hóa có điểm chuẩn cao nhất Học viện Công nghệ Bưu chính Viễn thông (PTIT) với 26,91 điểm theo tổ hợp ba môn thi tốt nghiệp.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/08/ptit-jpeg-1786190427-4705-1786190533.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=fc9maNIhSw0q9aZhCKayCQ",
+      "link": "https://vnexpress.net/diem-chuan-hoc-vien-cong-nghe-buu-chinh-vien-thong-ptit-2026-chi-tiet-tat-ca-nganh-5106875.html",
+      "published_at": "Mon, 10 Aug 2026 16:06:54 +0700",
+      "createAt": "2026-08-10T09:06:54.000Z",
+      "thumbnail_blurhash": "L6HTOC=K210d1kGaq[Na00GD{K=|"
+    },
+    {
+      "id": "https://vnexpress.net/viet-nam-da-san-nao-tai-luot-di-ban-ket-asean-cup-2026-5107451.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Việt Nam đá sân nào tại lượt đi bán kết ASEAN Cup 2026?",
+      "description": "Thay vì Bukit Jalil hay Shah Alam, thầy trò HLV Kim Sang-sik được Malaysia tiếp đón trên sân Kuala Lumpur có sức chứa khiêm tốn ở lượt đi bán kết ASEAN Cup 2026.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/08/10/san-1786349309-9320-1786349391.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=KE5C3x-XgY7igLdjTdSCeg",
+      "link": "https://vnexpress.net/viet-nam-da-san-nao-tai-luot-di-ban-ket-asean-cup-2026-5107451.html",
+      "published_at": "Mon, 10 Aug 2026 16:09:00 +0700",
+      "createAt": "2026-08-10T09:09:00.000Z",
+      "thumbnail_blurhash": "LLJH{%xuIU%M?wofV@baJ7oexuof"
+    },
+    {
+      "id": "https://vnexpress.net/bo-cong-an-de-xuat-san-xuat-xe-ba-banh-dien-5107510.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Bộ Công an đề xuất sản xuất xe ba bánh điện",
+      "description": "Bộ Công an đề xuất sản xuất, lắp ráp và sử dụng xe ba bánh điện tại đô thị để thu gom rác thải, bưu chính, logistics, hỗ trợ phòng cháy, chữa cháy và rửa đường.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/10/base64-1786354621-7423-1786355003.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=nr0KsPl8xj8v95_akhvwSA",
+      "link": "https://vnexpress.net/bo-cong-an-de-xuat-san-xuat-xe-ba-banh-dien-5107510.html",
+      "published_at": "Mon, 10 Aug 2026 16:53:55 +0700",
+      "createAt": "2026-08-10T09:53:55.000Z",
+      "thumbnail_blurhash": "LRD+[6I900_4Dhxv%NITM{t7t7M{"
+    }
+  ]
 }
