@@ -388,5 +388,83 @@
     "published_at": "Sun, 09 Aug 2026 10:00:00 +0700",
     "createAt": "2026-08-09T03:00:00.000Z",
     "thumbnail_blurhash": "LAE;N8tkM^.9_5f$xxt1s.oh^*j_"
+  },
+  {
+    "id": "https://vnexpress.net/nhoi-mau-co-tim-kem-block-nhi-that-5107162.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Nhồi máu cơ tim kèm block nhĩ thất",
+    "description": "Bà Thủy, 72 tuổi, khó thở, đau ngực, được chẩn đoán nhồi máu cơ tim cấp kèm block nhĩ thất khiến nhịp tim chậm 40 lần/phút.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/10/image001-1786321645-8890-1786321801.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=dpaopQ6dZyK8qCUTN11KqQ",
+    "link": "https://vnexpress.net/nhoi-mau-co-tim-kem-block-nhi-that-5107162.html",
+    "published_at": "Mon, 10 Aug 2026 08:00:00 +0700",
+    "createAt": "2026-08-10T01:00:00.000Z",
+    "thumbnail_blurhash": "LSO43pZz~o%M?uxa-:ozRkxZNH%g"
+  },
+  {
+    "id": "https://vnexpress.net/nhan-giap-thanh-chum-trong-co-nguoi-phu-nu-5107156.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Nhân giáp thành chùm trong cổ người phụ nữ",
+    "description": "Chị Trâm, 50 tuổi, có nhân giáp 10 năm không điều trị, nay vùng cổ to dần, bác sĩ phát hiện bướu giáp đa nhân.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/10/a-nh-1786319995-6640-1786320096.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=Y_7d4Oqc05hZlrTPsY_wbA",
+    "link": "https://vnexpress.net/nhan-giap-thanh-chum-trong-co-nguoi-phu-nu-5107156.html",
+    "published_at": "Mon, 10 Aug 2026 08:00:00 +0700",
+    "createAt": "2026-08-10T01:00:00.000Z",
+    "thumbnail_blurhash": "LNJ*;[-;^~o}~nog^$jW-+o#jds+"
+  },
+  {
+    "id": "https://vnexpress.net/viem-amidan-man-tinh-tien-trien-ung-thu-5107155.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Viêm amidan mạn tính tiến triển ung thư",
+    "description": "Ông Lân, 62 tuổi, viêm amidan mạn tính, nay đau họng, nuốt khó, bác sĩ phát hiện ung thư amidan và nhiễm HPV.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/10/a-nh-kha-m-1786320416-4893-1786320722.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=zsJ-NU-DH9Dy06PAwZgjnQ",
+    "link": "https://vnexpress.net/viem-amidan-man-tinh-tien-trien-ung-thu-5107155.html",
+    "published_at": "Mon, 10 Aug 2026 08:00:00 +0700",
+    "createAt": "2026-08-10T01:00:00.000Z",
+    "thumbnail_blurhash": "LYMaFi_4D%s,_3bZM{t7xBngRPWC"
+  },
+  {
+    "id": "https://vnexpress.net/thu-tinh-ong-nghiem-giam-nguy-co-benh-bam-sinh-cho-con-5106722.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Thụ tinh ống nghiệm giảm nguy cơ bệnh bẩm sinh cho con",
+    "description": "Sau lần phải đình chỉ thai kỳ vì thai nhi dị tật tim, vợ chồng chị Thảo chọn IVF kết hợp xét nghiệm phôi nhằm giảm nguy cơ truyền bệnh di truyền cho con.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/08/anh-1786159507-9634-1786159633.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=t09eflmLWQZpMHM-RwgSjw",
+    "link": "https://vnexpress.net/thu-tinh-ong-nghiem-giam-nguy-co-benh-bam-sinh-cho-con-5106722.html",
+    "published_at": "Mon, 10 Aug 2026 08:00:00 +0700",
+    "createAt": "2026-08-10T01:00:00.000Z",
+    "thumbnail_blurhash": "LUO:V6ysRNRQ^+-:yEoMyXRPMwM|"
+  },
+  {
+    "id": "https://vnexpress.net/tuong-mac-benh-tim-hoa-ra-roi-loan-lo-au-5105316.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Tưởng mắc bệnh tim, hóa ra rối loạn lo âu",
+    "description": "Thấy đau ngực kéo dài về đêm gây mất ngủ, người phụ nữ 57 tuổi đi khám vì sợ mắc bệnh tim, kết quả chẩn đoán rối loạn lo âu.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/05/breakingsmartphoneaddicition-1-1111-3083-1785895794.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=QmnEd1i6fa9rI97CJm-Qow",
+    "link": "https://vnexpress.net/tuong-mac-benh-tim-hoa-ra-roi-loan-lo-au-5105316.html",
+    "published_at": "Mon, 10 Aug 2026 08:04:52 +0700",
+    "createAt": "2026-08-10T01:04:52.000Z",
+    "thumbnail_blurhash": "L25hPwxB00Rh9FRi~qROERE1tSM_"
+  },
+  {
+    "id": "https://vnexpress.net/dieu-tri-day-thi-som-nhu-the-nao-5107164.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Điều trị dậy thì sớm như thế nào?",
+    "description": "Con gái tôi 7 tuổi, ngực phát triển, cao nhanh, vừa có kinh nguyệt lần đầu. Tình trạng này có phải dậy thì sớm không và nên điều trị thế nào? (Nhung, Bến Tre)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/10/image001-1786322821-4911-1786322969.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=j-mApzK0yNgeV7ig1jm7FQ",
+    "link": "https://vnexpress.net/dieu-tri-day-thi-som-nhu-the-nao-5107164.html",
+    "published_at": "Mon, 10 Aug 2026 08:30:00 +0700",
+    "createAt": "2026-08-10T01:30:00.000Z",
+    "thumbnail_blurhash": "L8LE1m0000}q^XIArrRl-29Fxv?G"
   }
 ]
