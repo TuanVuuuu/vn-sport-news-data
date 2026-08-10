@@ -1,5 +1,5 @@
 {
-  "total_articles": 1008,
+  "total_articles": 1009,
   "files": [
     "chunk_1.json",
     "chunk_2.json",
@@ -20,7 +20,7 @@
     "copyright": "",
     "logo_url": "https://s.vnecdn.net/vnexpress/i/v20/logos/vne_logo_rss.png",
     "link": "https://vnexpress.net/rss/giai-tri.rss",
-    "last_updated": "Mon, 10 Aug 2026 15:51:14 +0700"
+    "last_updated": "Mon, 10 Aug 2026 18:40:55 +0700"
   },
-  "last_updated": "2026-08-10T11:40:55.409Z"
+  "last_updated": "2026-08-10T11:50:46.328Z"
 }
