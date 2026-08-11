@@ -687,5 +687,31 @@
     "published_at": "Tue, 11 Aug 2026 14:48:04 +0700",
     "createAt": "2026-08-11T07:48:04.000Z",
     "thumbnail_blurhash": "LFEWaI%{qvov_MyUI-rd%$xuSini"
+  },
+  {
+    "id": "https://vnexpress.net/honda-sh-150i-hai-mau-gia-235-trieu-dong-5107854.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Honda SH 150i hai màu giá 235 triệu đồng",
+    "description": "Mẫu xe có dàn áo bán trong suốt, phối hai màu xanh lục và xanh dương, động cơ 150 phân khối.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/11/HondaSHVetrovnexpress2-1786434-6154-5443-1786435007.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=TwSFjg75pW5nUvZOqbINdw",
+    "link": "https://vnexpress.net/honda-sh-150i-hai-mau-gia-235-trieu-dong-5107854.html",
+    "published_at": "Tue, 11 Aug 2026 15:34:05 +0700",
+    "createAt": "2026-08-11T08:34:05.000Z",
+    "thumbnail_blurhash": "LEE.@Q?u$|xw~CIUIAIU~VIpRQIT"
+  },
+  {
+    "id": "https://vnexpress.net/diem-nhan-suv-offroad-land-cruiser-fj-gia-1-198-ty-dong-5107916.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Điểm nhấn SUV offroad Land Cruiser FJ giá 1,198 tỷ đồng",
+    "description": "Toyota Land Cruiser FJ phong cách vuông vức, kích thước nhỏ gọn và đa dạng trang bị cho offroad, hãng kỳ vọng hướng đến nhóm khách thích xê dịch.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/11/1-1786437185-3821-1786437238.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=k3-rHZdCWDpaQtHqyelgVg",
+    "link": "https://vnexpress.net/diem-nhan-suv-offroad-land-cruiser-fj-gia-1-198-ty-dong-5107916.html",
+    "published_at": "Tue, 11 Aug 2026 16:00:00 +0700",
+    "createAt": "2026-08-11T09:00:00.000Z",
+    "thumbnail_blurhash": "L8AKR8%dq?%%8_tS%MRi8wItJFRN"
   }
 ]
