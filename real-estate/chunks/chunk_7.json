@@ -973,5 +973,31 @@
     "published_at": "Tue, 11 Aug 2026 18:27:11 +0700",
     "createAt": "2026-08-11T11:27:11.000Z",
     "thumbnail_blurhash": "LFDJYOs;xuxv?wtRWBt7?cxbt7WC"
+  },
+  {
+    "id": "https://vnexpress.net/nha-pho-huong-tay-nen-trong-cay-hay-lam-lam-che-nang-5107525.html",
+    "category_id": "real-estate",
+    "category_name": "Bất động sản",
+    "source": "VnExpress",
+    "title": "Nhà phố hướng tây nên trồng cây hay làm lam che nắng?",
+    "description": "Nhà phố hướng Tây bị nắng gắt chiều, gia chủ phân vân giữa lắp thanh lam cố định hay trồng cây xanh để chống nóng hiệu quả.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/10/avaaaaa-1786355101-3670-1786356904.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=nAg5X0HXDtAUg4QB5_KqRw",
+    "link": "https://vnexpress.net/nha-pho-huong-tay-nen-trong-cay-hay-lam-lam-che-nang-5107525.html",
+    "published_at": "Wed, 12 Aug 2026 00:00:00 +0700",
+    "createAt": "2026-08-11T17:00:00.000Z",
+    "thumbnail_blurhash": "LaI#rp?a%M%L~qt7RjRj%M%LM_Rk"
+  },
+  {
+    "id": "https://vnexpress.net/trung-tam-tai-chinh-thoi-dong-luc-cho-van-phong-hang-a-5107954.html",
+    "category_id": "real-estate",
+    "category_name": "Bất động sản",
+    "source": "VnExpress",
+    "title": "Trung tâm tài chính 'thổi' động lực cho văn phòng hạng A",
+    "description": "Phần lớn nguồn cung văn phòng hạng A sắp tới thuộc phạm vi trung tâm tài chính, triển vọng hút khách đến mở ngân hàng, trung tâm công nghệ.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/11/1219919871962406637-1786445070-1561-1786446019.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=K6rIMRCq3xpy0bjAPDcTRA",
+    "link": "https://vnexpress.net/trung-tam-tai-chinh-thoi-dong-luc-cho-van-phong-hang-a-5107954.html",
+    "published_at": "Wed, 12 Aug 2026 00:03:00 +0700",
+    "createAt": "2026-08-11T17:03:00.000Z",
+    "thumbnail_blurhash": "LbF?FSjrs,kV_NWXofkC?bbIj[s:"
   }
 ]
