@@ -1064,5 +1064,31 @@
     "published_at": "Tue, 11 Aug 2026 09:24:15 +0700",
     "createAt": "2026-08-11T02:24:15.000Z",
     "thumbnail_blurhash": "L3AUwTT402?dGKt8?HNG9uxa-nWX"
+  },
+  {
+    "id": "https://vnexpress.net/ten-lua-trung-quoc-no-tung-khi-cat-canh-5107694.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Tên lửa Trung Quốc nổ tung khi cất cánh",
+    "description": "Tên lửa Trường Chinh 7A phát nổ trong vụ phóng trên đảo Hải Nam, tạo ra quả cầu lửa khổng lồ cùng khói và nhiều mảnh vỡ trên bầu trời.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/11/settruongchinh7A-1786414687-4272-1786414846.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=IxxvVFwFrwkNKx1XWeDJSw&t=image",
+    "link": "https://vnexpress.net/ten-lua-trung-quoc-no-tung-khi-cat-canh-5107694.html",
+    "published_at": "Tue, 11 Aug 2026 10:24:29 +0700",
+    "createAt": "2026-08-11T03:24:29.000Z",
+    "thumbnail_blurhash": "L88D31of0MV[=xj[EMaf0gae}@oy"
+  },
+  {
+    "id": "https://vnexpress.net/ngay-mai-dien-ra-nhat-thuc-toan-phan-hiem-gap-5107538.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Ngày mai diễn ra nhật thực toàn phần hiếm gặp",
+    "description": "Ngày 12/8, nhật thực toàn phần sẽ xuất hiện trên một dải hẹp đi qua châu Âu, Bắc Á, Bắc Mỹ và một số khu vực khác.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/11/VNEEclipse-1786414942-5176-1786414997.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=NkB41W8MdQPv7NFfE1-2vQ",
+    "link": "https://vnexpress.net/ngay-mai-dien-ra-nhat-thuc-toan-phan-hiem-gap-5107538.html",
+    "published_at": "Tue, 11 Aug 2026 12:00:00 +0700",
+    "createAt": "2026-08-11T05:00:00.000Z",
+    "thumbnail_blurhash": "LMCq}C}?I;58-UxZR+M|rsRkEhSg"
   }
 ]
