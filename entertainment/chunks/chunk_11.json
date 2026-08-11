@@ -167,5 +167,31 @@
     "published_at": "Tue, 11 Aug 2026 00:10:00 +0700",
     "createAt": "2026-08-10T17:10:00.000Z",
     "thumbnail_blurhash": "LAE_dHO?00%D~FxA0@TJYFS~}Bt0"
+  },
+  {
+    "id": "https://vnexpress.net/nghe-thuat-xiec-bay-bong-trong-mo-show-5107455.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Nghệ thuật xiếc bay bổng trong 'Mơ Show'",
+    "description": "Hàng nghìn khán giả xem \"Mơ Show\" - tác phẩm kết hợp nghệ thuật xiếc, múa rối và mapping - tại rạp đa năng Phú Thọ có kinh phí gần 1.400 tỷ đồng ở TP HCM.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/08/11/mo-show-1786349783-1786349852-1786410856.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=5bDaRjEGUHEAvVLZ1M0RBg",
+    "link": "https://vnexpress.net/nghe-thuat-xiec-bay-bong-trong-mo-show-5107455.html",
+    "published_at": "Tue, 11 Aug 2026 00:00:00 +0700",
+    "createAt": "2026-08-10T17:00:00.000Z",
+    "thumbnail_blurhash": "L52k_Rl9UGY%x[jFUFb^qGi_W=eT"
+  },
+  {
+    "id": "https://vnexpress.net/luong-lac-thi-sanh-doi-ban-trai-5107677.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Lương Lạc Thi sánh đôi bạn trai",
+    "description": "Diễn viên Lương Lạc Thi nắm tay người yêu - Mã Dục Kha - dự lễ trao giải phim Bách Hoa.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/08/11/thi-1786413100-5156-1786413337.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=cDRApVzZBKI_kld2wA_38w",
+    "link": "https://vnexpress.net/luong-lac-thi-sanh-doi-ban-trai-5107677.html",
+    "published_at": "Tue, 11 Aug 2026 09:54:37 +0700",
+    "createAt": "2026-08-11T02:54:37.000Z",
+    "thumbnail_blurhash": "LIGIuc9t0f^%x@%e%dRR~oR*n%W;"
   }
 ]

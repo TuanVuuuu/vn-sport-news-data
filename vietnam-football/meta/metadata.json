@@ -1,5 +1,5 @@
 {
-  "total_articles": 1894,
+  "total_articles": 1902,
   "files": [
     "chunk_1.json",
     "chunk_2.json",
@@ -19,7 +19,8 @@
     "chunk_16.json",
     "chunk_17.json",
     "chunk_18.json",
-    "chunk_19.json"
+    "chunk_19.json",
+    "chunk_20.json"
   ],
   "channel": {
     "title": "Bóng đá Việt Nam",
@@ -28,7 +29,7 @@
     "copyright": "Thể thao 247",
     "logo_url": "https://thethao247.vn/frontend/images/logo.png",
     "link": "https://thethao247.vn",
-    "last_updated": "Tue, 11 Aug 2026 08:50:43 +0700"
+    "last_updated": "Tue, 11 Aug 2026 12:01:14 +0700"
   },
-  "last_updated": "2026-08-11T01:50:47.939Z"
+  "last_updated": "2026-08-11T05:01:19.081Z"
 }
