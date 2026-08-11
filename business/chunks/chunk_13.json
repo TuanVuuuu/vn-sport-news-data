@@ -63,5 +63,31 @@
     "published_at": "Tue, 11 Aug 2026 12:08:40 +0700",
     "createAt": "2026-08-11T05:08:40.000Z",
     "thumbnail_blurhash": "LFGHoC}G009Y8^M{?v%f0Loyx^T0"
+  },
+  {
+    "id": "https://vnexpress.net/co-hoi-cho-hang-viet-khi-eu-tang-toc-dien-khi-hoa-5107628.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Cơ hội cho hàng Việt khi EU tăng tốc điện khí hóa",
+    "description": "EU quyết tâm trở thành \"lục địa vận hành bằng điện\" đầu tiên trên thế giới, kéo theo nhu cầu tăng nhập khẩu linh kiện, thiết bị điện tử, năng lượng tái tạo, hệ thống lưu trữ điện.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/08/11/lq-1786402749-2902-1786402861.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ZGT8hhPQB65BtNFRq2bO2w",
+    "link": "https://vnexpress.net/co-hoi-cho-hang-viet-khi-eu-tang-toc-dien-khi-hoa-5107628.html",
+    "published_at": "Tue, 11 Aug 2026 08:46:47 +0700",
+    "createAt": "2026-08-11T01:46:47.000Z",
+    "thumbnail_blurhash": "LJJ89Ot.~V^*D*XT%2t6%$-o9GI="
+  },
+  {
+    "id": "https://vnexpress.net/tether-bat-day-14-tan-vang-trong-quy-ii-5107861.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Tether 'bắt đáy' 14 tấn vàng trong quý II",
+    "description": "Tether, công ty phát hành stablecoin USDT, mua thêm 14 tấn vàng trong quý II - thời điểm thị trường kim loại quý trải qua quý giảm giá mạnh nhất 13 năm.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/08/11/https-archive-images-prod-glob-9083-4417-1786431790.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=OqReM-hKid00EGhQxy8Gtg",
+    "link": "https://vnexpress.net/tether-bat-day-14-tan-vang-trong-quy-ii-5107861.html",
+    "published_at": "Tue, 11 Aug 2026 14:29:18 +0700",
+    "createAt": "2026-08-11T07:29:18.000Z",
+    "thumbnail_blurhash": "LXKn0U?G%$og%gROaybc.Tg4NGbJ"
   }
 ]
