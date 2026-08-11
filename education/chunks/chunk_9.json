@@ -661,5 +661,31 @@
     "published_at": "Tue, 11 Aug 2026 17:19:28 +0700",
     "createAt": "2026-08-11T10:19:28.000Z",
     "thumbnail_blurhash": "LbMjdjO[J:tRMdOFbbWW~WOFtPoc"
+  },
+  {
+    "id": "https://vnexpress.net/dai-hoc-nuoc-ngoai-dau-tien-duoc-mo-phan-hieu-o-viet-nam-5107814.html",
+    "category_id": "education",
+    "category_name": "Giáo dục",
+    "source": "VnExpress",
+    "title": "Đại học nước ngoài đầu tiên được mở phân hiệu ở Việt Nam",
+    "description": "RMIT Nam Sài Gòn trở thành phân hiệu đại học nước ngoài đầu tiên ở Việt Nam, dự kiến mở rộng cơ sở vật chất và đào tạo.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/11/hinh-bo-sung-co-so-nam-sai-gon-6477-7324-1786429753.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=2gIcL2dKwlNG21DqQbJnpw",
+    "link": "https://vnexpress.net/dai-hoc-nuoc-ngoai-dau-tien-duoc-mo-phan-hieu-o-viet-nam-5107814.html",
+    "published_at": "Tue, 11 Aug 2026 13:08:06 +0700",
+    "createAt": "2026-08-11T06:08:06.000Z",
+    "thumbnail_blurhash": "L}JuiYkXtRs9_4bHbboLyCjFRPX8"
+  },
+  {
+    "id": "https://vnexpress.net/diem-chuan-dai-hoc-su-pham-tp-hcm-hcmue-2026-day-du-nhat-5107424.html",
+    "category_id": "education",
+    "category_name": "Giáo dục",
+    "source": "VnExpress",
+    "title": "Điểm chuẩn Đại học Sư phạm TP HCM cao nhất 29,83",
+    "description": "4 ngành Sư phạm Lý, Hóa, Văn, Sử của trường Đại học Sư phạm TP HCM có điểm 29,8 trở lên, áp sát vùng 30.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/10/wm1-wm1-dsc07191-jpg-1786346749-5838-1786347210.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=svYaNmsijIwjIAnsq04Drg",
+    "link": "https://vnexpress.net/diem-chuan-dai-hoc-su-pham-tp-hcm-hcmue-2026-day-du-nhat-5107424.html",
+    "published_at": "Tue, 11 Aug 2026 17:53:52 +0700",
+    "createAt": "2026-08-11T10:53:52.000Z",
+    "thumbnail_blurhash": "LxL;dF%MNGRj_NWCWWn%bIaeRjNG"
   }
 ]
