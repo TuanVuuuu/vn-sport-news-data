@@ -882,5 +882,70 @@
     "published_at": "Tue, 11 Aug 2026 06:00:00 +0700",
     "createAt": "2026-08-10T23:00:00.000Z",
     "thumbnail_blurhash": "LPGuzZRO8{9E~qD%D%s:%NWBWBt7"
+  },
+  {
+    "id": "https://vnexpress.net/trao-nguoc-da-day-thuc-quan-gay-ho-man-tinh-5107646.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Trào ngược dạ dày thực quản gây ho mạn tính",
+    "description": "Bà Trâm, 56 tuổi, ho khan kèm khàn tiếng, đau tức ngực gần một năm do dịch vị trào ngược từ dạ dày lên thực quản.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/11/image001-1786407230-9806-1786407319.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=6rCkFe7fprZNel_H3d-EMg",
+    "link": "https://vnexpress.net/trao-nguoc-da-day-thuc-quan-gay-ho-man-tinh-5107646.html",
+    "published_at": "Tue, 11 Aug 2026 08:00:00 +0700",
+    "createAt": "2026-08-11T01:00:00.000Z",
+    "thumbnail_blurhash": "LWM7W3?wROITv{XSM_x]xXD%WV%M"
+  },
+  {
+    "id": "https://vnexpress.net/thuoc-mien-dich-tieu-diet-te-bao-ung-thu-nhu-the-nao-5107643.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Thuốc miễn dịch tiêu diệt tế bào ung thư như thế nào",
+    "description": "Liệu pháp miễn dịch có thể kích hoạt tăng cường hệ thống miễn dịch của cơ thể để nhận diện và tiêu diệt tế bào ác tính.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/11/bai-ut-1786407130-1622-1786407186.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=91i7o4vTf91yaYTTbO6fyg",
+    "link": "https://vnexpress.net/thuoc-mien-dich-tieu-diet-te-bao-ung-thu-nhu-the-nao-5107643.html",
+    "published_at": "Tue, 11 Aug 2026 08:00:00 +0700",
+    "createAt": "2026-08-11T01:00:00.000Z",
+    "thumbnail_blurhash": "LINTj,XUIAxb.SR4DhtQ~UIA00IA"
+  },
+  {
+    "id": "https://vnexpress.net/loet-luoi-phat-hien-tien-ung-thu-5107640.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Loét lưỡi, phát hiện tiền ung thư",
+    "description": "Bà Hồng, 59 tuổi, rát lưỡi, đau họng, bác sĩ phát hiện có vết loét tiền ung thư và phẫu thuật ngăn tiến triển ác tính.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/11/ba-o-1786406931-6007-1786406944.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=6fRNG-onUcVGr0Oj-8qheA",
+    "link": "https://vnexpress.net/loet-luoi-phat-hien-tien-ung-thu-5107640.html",
+    "published_at": "Tue, 11 Aug 2026 08:00:00 +0700",
+    "createAt": "2026-08-11T01:00:00.000Z",
+    "thumbnail_blurhash": "LjLqtyR%xukD~qt8M{Ri%MxuayWA"
+  },
+  {
+    "id": "https://vnexpress.net/gan-nhiem-mo-o-tuoi-18-5107638.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Gan nhiễm mỡ ở tuổi 18",
+    "description": "Bình, 18 tuổi, thường xuyên mệt mỏi, đầy bụng, nặng tức vùng hạ sườn phải sau ăn, bác sĩ chẩn đoán gan nhiễm mỡ.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/11/bs-sieu-am-gan-cho-bn-17864066-6126-5399-1786406636.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=11ppwRtQVdMFXPcLC5kmdQ",
+    "link": "https://vnexpress.net/gan-nhiem-mo-o-tuoi-18-5107638.html",
+    "published_at": "Tue, 11 Aug 2026 08:00:00 +0700",
+    "createAt": "2026-08-11T01:00:00.000Z",
+    "thumbnail_blurhash": "LXNwWdM_Ip?b~pIVj?DjV@t8t7M{"
+  },
+  {
+    "id": "https://vnexpress.net/viet-nam-nghien-cuu-cong-nghe-rna-cho-vaccine-ngua-ung-thu-5107594.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Việt Nam nghiên cứu công nghệ RNA cho vaccine ngừa ung thư",
+    "description": "Viện nghiên cứu Tâm Anh và Viện RNA, Đại học UNSW (Australia) hợp tác nghiên cứu công nghệ y sinh RNA, hướng tới phát triển vaccine cho bệnh nhân ung thư phổi, đại trực tràng, cúm.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/10/thumb-vne-1786373862-9351-1786374690.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=qqP8BYw8PuR_E-eCqkTZ_g",
+    "link": "https://vnexpress.net/viet-nam-nghien-cuu-cong-nghe-rna-cho-vaccine-ngua-ung-thu-5107594.html",
+    "published_at": "Tue, 11 Aug 2026 08:00:00 +0700",
+    "createAt": "2026-08-11T01:00:00.000Z",
+    "thumbnail_blurhash": "LnJu4Lay-;xu~qayV@ofM{ayIUWB"
   }
 ]

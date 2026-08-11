@@ -570,5 +570,31 @@
     "published_at": "Tue, 11 Aug 2026 07:00:00 +0700",
     "createAt": "2026-08-11T00:00:00.000Z",
     "thumbnail_blurhash": "L8DRZ;AE0#D+~V9]RQsDX9-BEMF_"
+  },
+  {
+    "id": "https://vnexpress.net/smart-2-oto-dien-2-cho-lo-dien-5107479.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Smart #2 - ôtô điện 2 chỗ lộ diện",
+    "description": "Mẫu micro EV phiên bản sản xuất hé lộ hồ sơ pháp lý tại Trung Quốc, lắp môtơ điện công suất 80 mã lực, phạm vi hoạt động 300 km.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/10/Smart21-1786351080-9387-1786352097.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=zOphXHkS6yANk0iyx6P8Gw",
+    "link": "https://vnexpress.net/smart-2-oto-dien-2-cho-lo-dien-5107479.html",
+    "published_at": "Tue, 11 Aug 2026 07:31:00 +0700",
+    "createAt": "2026-08-11T00:31:00.000Z",
+    "thumbnail_blurhash": "LaJH:dof^+xu~qWBoft7RkWBj[fk"
+  },
+  {
+    "id": "https://vnexpress.net/buc-tranh-tuong-bien-thanh-anh-dong-khi-oto-chay-qua-5107388.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Bức tranh tường biến thành ảnh động khi ôtô chạy qua",
+    "description": "Tác phẩm \"Liberation\" tạo cảm giác các hình ảnh đang di chuyển khi nhìn từ ôtô chạy ngang qua ở tốc độ từ khoảng 56 km/h.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/10/ezgif8dfd632ee956ae67-17863458-2635-3037-1786347156.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=XQHYGa_dFodvtQ9vtYhvpA&t=image",
+    "link": "https://vnexpress.net/buc-tranh-tuong-bien-thanh-anh-dong-khi-oto-chay-qua-5107388.html",
+    "published_at": "Tue, 11 Aug 2026 08:09:14 +0700",
+    "createAt": "2026-08-11T01:09:14.000Z",
+    "thumbnail_blurhash": "LBEp=.0000H=1n-o=_$y.nK+yDxv"
   }
 ]
