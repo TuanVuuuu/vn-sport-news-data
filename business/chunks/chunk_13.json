@@ -414,5 +414,31 @@
     "published_at": "Wed, 12 Aug 2026 16:03:46 +0700",
     "createAt": "2026-08-12T09:03:46.000Z",
     "thumbnail_blurhash": "LKGuzX~W8^r=;O9FIUxG^5.8tlwf"
+  },
+  {
+    "id": "https://vnexpress.net/lpbank-trien-khai-goi-tin-dung-2-000-ty-dong-cho-sme-5108400.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "LPBank triển khai gói tín dụng 2.000 tỷ đồng cho SME",
+    "description": "LPBank giảm lãi suất tối thiểu 1% một năm cho doanh nghiệp SME đủ điều kiện, hỗ trợ vốn lưu động, bảo lãnh và tài trợ xuất khẩu từ ngày 11/8 đến hết tháng 12.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/08/12/image003-1786527604-3820-1786527684.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=9zvpotdmIh-HuSsrTm4-Zg",
+    "link": "https://vnexpress.net/lpbank-trien-khai-goi-tin-dung-2-000-ty-dong-cho-sme-5108400.html",
+    "published_at": "Wed, 12 Aug 2026 16:30:00 +0700",
+    "createAt": "2026-08-12T09:30:00.000Z",
+    "thumbnail_blurhash": "LCIN~z006T~W%$-;I@sl0h~W}mIo"
+  },
+  {
+    "id": "https://vnexpress.net/vn-index-tang-gan-20-diem-nho-co-phieu-ho-vingroup-5108394.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "VN-Index tăng gần 20 điểm nhờ cổ phiếu 'họ' Vingroup",
+    "description": "Trong lúc các nhóm cổ phiếu trụ ảm đạm, VIC và VHM đồng loạt bật mạnh, đóng góp hơn 13 điểm vào phiên tăng vọt của VN-Index.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/08/12/233A7851-9904-1786526590.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=wgPtMHG-c4OvHE6EE_uhZA",
+    "link": "https://vnexpress.net/vn-index-tang-gan-20-diem-nho-co-phieu-ho-vingroup-5108394.html",
+    "published_at": "Wed, 12 Aug 2026 16:35:15 +0700",
+    "createAt": "2026-08-12T09:35:15.000Z",
+    "thumbnail_blurhash": "LIAwo900~VEN9t-;Ioo}b^InkqRj"
   }
 ]
