@@ -479,5 +479,44 @@
     "published_at": "Wed, 12 Aug 2026 20:42:44 +0700",
     "createAt": "2026-08-12T13:42:44.000Z",
     "thumbnail_blurhash": "LQIXT[~B00%000E2?cWoSPNeWES5"
+  },
+  {
+    "id": "https://vnexpress.net/cach-ong-lon-gach-op-lat-cat-giam-23-000-tan-co2-moi-nam-5108451.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Cách 'ông lớn' gạch ốp lát cắt giảm 23.000 tấn CO2 mỗi năm",
+    "description": "Giá than tăng vọt 4 năm trước biến chuyển đổi năng lượng tại Prime Group từ giải pháp xanh tự nguyện thành bài toán kinh tế, giúp họ cắt giảm 23.000 tấn CO2 mỗi năm.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/08/12/wm1-wm1-af2818d5bd18d6d-c98828dee6-4156-2188-1786536022.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=qdUuBYmrJSHlNdMacUmGag",
+    "link": "https://vnexpress.net/cach-ong-lon-gach-op-lat-cat-giam-23-000-tan-co2-moi-nam-5108451.html",
+    "published_at": "Thu, 13 Aug 2026 00:00:00 +0700",
+    "createAt": "2026-08-12T17:00:00.000Z",
+    "thumbnail_blurhash": "L5G8yBEM008_pfMHsQ%gTJx^IA-:"
+  },
+  {
+    "id": "https://vnexpress.net/vi-sao-yen-nhat-van-mat-gia-sau-dot-can-thiep-lich-su-5108365.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Vì sao yen Nhật vẫn mất giá sau đợt can thiệp lịch sử",
+    "description": "Bất chấp đợt can thiệp tỷ giá lịch sử, đồng yen tiếp tục mất giá do dòng vốn vẫn chảy khỏi Nhật Bản để tìm kiếm lợi suất cao hơn tại Mỹ.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/08/12/yenusdreuters-1786523719-3066-1786523861.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=r40kb7epZ8qJRe2xOIMYvQ",
+    "link": "https://vnexpress.net/vi-sao-yen-nhat-van-mat-gia-sau-dot-can-thiep-lich-su-5108365.html",
+    "published_at": "Thu, 13 Aug 2026 00:02:00 +0700",
+    "createAt": "2026-08-12T17:02:00.000Z",
+    "thumbnail_blurhash": "L7GI4L~W0K574-01$+-p004.IUng"
+  },
+  {
+    "id": "https://vnexpress.net/doanh-nghiep-viet-tang-toc-mo-rong-ra-quoc-te-5106777.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Doanh nghiệp Việt tăng tốc mở rộng ra quốc tế",
+    "description": "Doanh nghiệp Việt đầu tư ra nước ngoài hơn 1,2 tỷ USD, tăng gần 2,5 lần so cùng kỳ, tuy nhiên chuyên gia khuyến nghị tập trung chất lượng, dùng AI để tối ưu chi phí, hiểu thị hiếu quốc tế.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/08/08/1776334204312-e5515ba0f3fe79f2-9753-4653-1786179026.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=1MN3iWQxTfWOKgMszIWRVw",
+    "link": "https://vnexpress.net/doanh-nghiep-viet-tang-toc-mo-rong-ra-quoc-te-5106777.html",
+    "published_at": "Thu, 13 Aug 2026 00:10:00 +0700",
+    "createAt": "2026-08-12T17:10:00.000Z",
+    "thumbnail_blurhash": "LTJRN??vtR?b~qaeNGt7NGozoz%L"
   }
 ]
