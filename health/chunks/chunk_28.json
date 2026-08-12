@@ -596,5 +596,31 @@
     "published_at": "Thu, 13 Aug 2026 00:03:00 +0700",
     "createAt": "2026-08-12T17:03:00.000Z",
     "thumbnail_blurhash": "L4CjOW$qD6R1000090?v+o_K.5tM"
+  },
+  {
+    "id": "https://vnexpress.net/suc-khoe/cam-nang/ung-thu-tui-mat-447",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Ung thư túi mật",
+    "description": "Ung thư túi mật thường có triệu chứng dễ nhầm với bệnh tiêu hóa, có thể gây đau bụng, vàng da, sụt cân và dẫn đến biến chứng khi khối u lan rộng.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/12/ungthutuimat-1786523883-6390-1786523899.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=WuNDBV0dbMTRR5bwW53eaQ",
+    "link": "https://vnexpress.net/suc-khoe/cam-nang/ung-thu-tui-mat-447",
+    "published_at": "Thu, 13 Aug 2026 01:00:00 +0700",
+    "createAt": "2026-08-12T18:00:00.000Z",
+    "thumbnail_blurhash": "LMFFn1O_Q+wZ=CwcbHogBsvzbvO["
+  },
+  {
+    "id": "https://vnexpress.net/5-mon-nen-an-thuong-xuyen-giup-ngu-ngon-ban-dem-5107960.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "5 món nên ăn thường xuyên giúp ngủ ngon ban đêm",
+    "description": "Trứng, gạo lứt, đậu phộng, rau bina và hạt dẻ cười cung cấp melatonin tự nhiên, góp phần hỗ trợ giấc ngủ khi kết hợp với lối sống lành mạnh.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/11/dau-phong-1786439769.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=J1N02_3J7pMgxcL30d5IvQ",
+    "link": "https://vnexpress.net/5-mon-nen-an-thuong-xuyen-giup-ngu-ngon-ban-dem-5107960.html",
+    "published_at": "Thu, 13 Aug 2026 01:00:00 +0700",
+    "createAt": "2026-08-12T18:00:00.000Z",
+    "thumbnail_blurhash": "LHFg:yN357V@~BRoxCIo5kRQwvNb"
   }
 ]
