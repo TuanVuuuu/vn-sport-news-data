@@ -1116,5 +1116,31 @@
     "published_at": "Wed, 12 Aug 2026 15:30:00 +0700",
     "createAt": "2026-08-12T08:30:00.000Z",
     "thumbnail_blurhash": "L~O|2#ozt6t7~qofafj]S4ayWBay"
+  },
+  {
+    "id": "https://vnexpress.net/gia-phong-khach-san-tp-hcm-tang-20-5108356.html",
+    "category_id": "real-estate",
+    "category_name": "Bất động sản",
+    "source": "VnExpress",
+    "title": "Giá phòng khách sạn TP HCM tăng 20%",
+    "description": "Giá phòng khách sạn bình quân tại TP HCM trong quý II tăng 20% so với cùng kỳ nhờ nguồn khách quốc tế, doanh nghiệp, đoàn hội nghị duy trì ổn định, theo Savills.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/12/dji-1786524011-8470-1786524055.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=LBRuGOJSMUjlC1jdOCMRnA",
+    "link": "https://vnexpress.net/gia-phong-khach-san-tp-hcm-tang-20-5108356.html",
+    "published_at": "Wed, 12 Aug 2026 16:24:17 +0700",
+    "createAt": "2026-08-12T09:24:17.000Z",
+    "thumbnail_blurhash": "LdFY[as:jYof_4oLaeof_3juWBt7"
+  },
+  {
+    "id": "https://vnexpress.net/khong-gian-ke-song-huong-bien-giua-da-nang-cua-victory-place-5107920.html",
+    "category_id": "real-estate",
+    "category_name": "Bất động sản",
+    "source": "VnExpress",
+    "title": "Không gian 'kề sông hướng biển' giữa Đà Nẵng của Victory Place",
+    "description": "Tòa Victory Place mang đến 265 căn hộ với tầm nhìn ôm trọn sông Hàn, biển Mỹ Khê, kết nối nhiều khu vực trung tâm thành phố.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/12/anh-1786527557-2062-1786527680.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=ATVDPT6fPa7aE_O--4cISg",
+    "link": "https://vnexpress.net/khong-gian-ke-song-huong-bien-giua-da-nang-cua-victory-place-5107920.html",
+    "published_at": "Wed, 12 Aug 2026 17:00:00 +0700",
+    "createAt": "2026-08-12T10:00:00.000Z",
+    "thumbnail_blurhash": "L.FP?KxBt7of.Tt7ofofksoze.oe"
   }
 ]
