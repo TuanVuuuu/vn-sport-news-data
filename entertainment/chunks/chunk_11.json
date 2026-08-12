@@ -492,5 +492,31 @@
     "published_at": "Wed, 12 Aug 2026 22:01:37 +0700",
     "createAt": "2026-08-12T15:01:37.000Z",
     "thumbnail_blurhash": "LOGRuS?wIUnhIuEl-o%2JVNfaeNG"
+  },
+  {
+    "id": "https://vnexpress.net/hong-ngoc-cham-chut-to-am-tai-my-5099991.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Hồng Ngọc chăm chút tổ ấm tại Mỹ",
+    "description": "Hồng Ngọc, giọng ca \"Mắt nai cha cha cha\", nói thích chăm sóc vườn tược, nhà cửa, tận hưởng cuộc sống bên chồng con ở tuổi 48.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/07/21/743609820-n-1784628970.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=-2jHp_UfTag_VC2Ku25dnw",
+    "link": "https://vnexpress.net/hong-ngoc-cham-chut-to-am-tai-my-5099991.html",
+    "published_at": "Thu, 13 Aug 2026 00:00:00 +0700",
+    "createAt": "2026-08-12T17:00:00.000Z",
+    "thumbnail_blurhash": "LGJa=w-nWB~V1AbJtTE20Lo~xBNG"
+  },
+  {
+    "id": "https://vnexpress.net/vo-chong-duong-ngoc-thai-ra-mv-cung-nhau-gia-di-5107276.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Vợ chồng Dương Ngọc Thái ra MV 'Cùng nhau già đi'",
+    "description": "Đôi ca sĩ Dương Ngọc Thái - Triệu Ái Vy thực hiện MV \"Cùng nhau già đi\", kỷ niệm 14 năm gắn kết, xây dựng tổ ấm bên ba con.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/08/10/178633594407551977306077812835-8849-6510-1786336341.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=9dMBGTNwW3U5TVIuDjWTBw",
+    "link": "https://vnexpress.net/vo-chong-duong-ngoc-thai-ra-mv-cung-nhau-gia-di-5107276.html",
+    "published_at": "Thu, 13 Aug 2026 00:05:00 +0700",
+    "createAt": "2026-08-12T17:05:00.000Z",
+    "thumbnail_blurhash": "LSMj?e.7?^WAOXRi.8%MT1M|v}t7"
   }
 ]

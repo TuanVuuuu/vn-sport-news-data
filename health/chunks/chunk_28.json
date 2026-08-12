@@ -570,5 +570,31 @@
     "published_at": "Wed, 12 Aug 2026 19:30:00 +0700",
     "createAt": "2026-08-12T12:30:00.000Z",
     "thumbnail_blurhash": "LvH{sRt8IBog.TkCxuofxHWBRjae"
+  },
+  {
+    "id": "https://vnexpress.net/chuyen-gia-canh-bao-sai-lam-pho-bien-khien-chuyen-chan-goi-lui-tan-5107447.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Chuyên gia cảnh báo sai lầm phổ biến khiến chuyện chăn gối 'lụi tàn'",
+    "description": "Thói quen sống song song và thiếu kết nối chủ động vì áp lực cơm áo gạo tiền chính là nguyên nhân âm thầm giết chết ham muốn, khiến đời sống chăn gối của nhiều cặp vợ chồng nguội lạnh.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/10/3-1786349978-2175-1786350726.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=QIHJo6stxZl7Xz8ZloOXCA",
+    "link": "https://vnexpress.net/chuyen-gia-canh-bao-sai-lam-pho-bien-khien-chuyen-chan-goi-lui-tan-5107447.html",
+    "published_at": "Thu, 13 Aug 2026 00:02:00 +0700",
+    "createAt": "2026-08-12T17:02:00.000Z",
+    "thumbnail_blurhash": "LLN11A~qxZvyR+X9tlRi%~aJRjS$"
+  },
+  {
+    "id": "https://vnexpress.net/7-viec-nen-lam-de-giam-acid-uric-phong-gout-5107856.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "7 việc nên làm để giảm acid uric, phòng gout",
+    "description": "Uống đủ nước, hạn chế thực phẩm giàu purin, rượu bia, đồ uống nhiều đường và kiểm soát cân nặng có thể giúp giảm acid uric, phòng bệnh gout.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/11/di-bo-1786431932-6603-1786431947.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=sQGAJLhApdnOKleEG60QYg",
+    "link": "https://vnexpress.net/7-viec-nen-lam-de-giam-acid-uric-phong-gout-5107856.html",
+    "published_at": "Thu, 13 Aug 2026 00:03:00 +0700",
+    "createAt": "2026-08-12T17:03:00.000Z",
+    "thumbnail_blurhash": "L4CjOW$qD6R1000090?v+o_K.5tM"
   }
 ]
