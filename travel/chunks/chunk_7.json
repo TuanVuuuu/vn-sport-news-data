@@ -648,5 +648,31 @@
     "published_at": "Wed, 12 Aug 2026 08:04:03 +0700",
     "createAt": "2026-08-12T01:04:03.000Z",
     "thumbnail_blurhash": "L9FX@n580F}P00-:#hx_6AI9^iE3"
+  },
+  {
+    "id": "https://vnexpress.net/taste-of-japan-mua-3-ket-noi-am-thuc-viet-nhat-5108123.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "'Taste of Japan' mùa 3 kết nối ẩm thực Việt - Nhật",
+    "description": "\"Taste of Japan 2026\" trở lại mùa thứ ba, kết nối ẩm thực Việt - Nhật qua nghệ thuật chế biến truyền thống và tinh thần phục vụ Omotenashi.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/08/12/thumb-1786505881-5014-1786505960.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=ovvkQXaCWxZf1cC0GwFBRg",
+    "link": "https://vnexpress.net/taste-of-japan-mua-3-ket-noi-am-thuc-viet-nhat-5108123.html",
+    "published_at": "Wed, 12 Aug 2026 11:00:00 +0700",
+    "createAt": "2026-08-12T04:00:00.000Z",
+    "thumbnail_blurhash": "LCIqo;%00v_4+Fxv57IA5kS557i^"
+  },
+  {
+    "id": "https://vnexpress.net/tour-ngam-nhat-thuc-tu-may-bay-gia-len-toi-1-200-usd-5108155.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Tour ngắm nhật thực từ máy bay giá lên tới 1.200 USD",
+    "description": "Các hãng hàng không và công ty bay charter đang bán chỗ ngắm nhật thực từ trên trời với giá từ 350 USD đến 1.200 USD.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/08/12/alaska-1786501395-8991-1786501720.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=SAQXVWd0h3Eas8oZndcR4g",
+    "link": "https://vnexpress.net/tour-ngam-nhat-thuc-tu-may-bay-gia-len-toi-1-200-usd-5108155.html",
+    "published_at": "Wed, 12 Aug 2026 11:44:45 +0700",
+    "createAt": "2026-08-12T04:44:45.000Z",
+    "thumbnail_blurhash": "LSEx^s9GOYNF~WD%oJjF%gRPr@t7"
   }
 ]
