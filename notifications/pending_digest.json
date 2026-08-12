@@ -1,3 +1,56 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/de-xuat-lam-duong-noi-mang-den-tranh-deo-vi-o-lac-5107839.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Đề xuất làm đường nối Măng Đen, tránh đèo Vi Ô Lắc",
+      "description": "Quảng Ngãi dự kiến làm mới gần 14 km đường để tránh đèo Vi Ô Lắc thường sạt lở, rút ngắn hành trình khoảng 7 km.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/11/wm1-wm1-img-jpg-1786431583-1543-1786432280.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=PB7j6_catMjUr3Vsx4lF1Q",
+      "link": "https://vnexpress.net/de-xuat-lam-duong-noi-mang-den-tranh-deo-vi-o-lac-5107839.html",
+      "published_at": "Wed, 12 Aug 2026 00:00:00 +0700",
+      "createAt": "2026-08-11T17:00:00.000Z",
+      "thumbnail_blurhash": "LgBXTQWCRjohpMocWAbIkZj]WYaw"
+    },
+    {
+      "id": "https://vnexpress.net/banh-trung-thu-nam-nay-tang-gia-5107494.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Bánh Trung thu năm nay tăng giá",
+      "description": "Đặt mua bánh Trung thu sớm, chị Hòa ở phường Gia Định, TP HCM, bất ngờ khi nhiều cửa hàng báo giá tăng 5-15%, có loại cao hơn 20% so với năm ngoái.",
+      "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/08/12/banh-1786468232-5018-1786468243.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=S7ykTwKZl_-oV9ejwpHygg",
+      "link": "https://vnexpress.net/banh-trung-thu-nam-nay-tang-gia-5107494.html",
+      "published_at": "Wed, 12 Aug 2026 00:21:34 +0700",
+      "createAt": "2026-08-11T17:21:34.000Z",
+      "thumbnail_blurhash": "LTKk.|{KcEwIxtadkWnhxtS2NZt6"
+    },
+    {
+      "id": "https://vnexpress.net/nganh-ngan-hang-co-thuc-su-cat-giam-nhan-vien-5106358.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Ngành ngân hàng có thực sự cắt giảm nhân viên?",
+      "description": "26 ngân hàng giảm hơn 4.000 người trong nửa năm qua nhưng con số này lại không đồng nghĩa với việc ngành này đang bước vào làn sóng cắt giảm.",
+      "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/08/11/banksettop-1786467502-6371-1786467513.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=RLEIt2GJcdUaIi-yJxkd6w",
+      "link": "https://vnexpress.net/nganh-ngan-hang-co-thuc-su-cat-giam-nhan-vien-5106358.html",
+      "published_at": "Wed, 12 Aug 2026 06:00:00 +0700",
+      "createAt": "2026-08-11T23:00:00.000Z",
+      "thumbnail_blurhash": "LYLX#]?bR*xv?wt5jExa^*adM{t7"
+    },
+    {
+      "id": "https://vnexpress.net/my-tuyen-bo-phong-ten-lua-vo-hieu-hoa-tau-hang-huong-den-iran-5108087.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Mỹ tuyên bố phóng tên lửa vô hiệu hóa tàu hàng hướng đến Iran",
+      "description": "Mỹ cho biết đã khai hỏa tên lửa vào khoang máy của một tàu hàng đang hướng đến cảng tại Iran, điều vi phạm lệnh phong tỏa của Washington.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/12/M-1786490816-1684-1786491388.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=oYVDx0P5W848uivRMdJUkg",
+      "link": "https://vnexpress.net/my-tuyen-bo-phong-ten-lua-vo-hieu-hoa-tau-hang-huong-den-iran-5108087.html",
+      "published_at": "Wed, 12 Aug 2026 06:54:35 +0700",
+      "createAt": "2026-08-11T23:54:35.000Z",
+      "thumbnail_blurhash": "LiKBg.ofx]xv~qj[ofoft8j[M{ax"
+    }
+  ]
 }
