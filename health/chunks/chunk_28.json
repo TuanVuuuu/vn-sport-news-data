@@ -427,5 +427,31 @@
     "published_at": "Wed, 12 Aug 2026 15:00:00 +0700",
     "createAt": "2026-08-12T08:00:00.000Z",
     "thumbnail_blurhash": "LuK_B[_4x]D%?bWTofRjWUs,aeWV"
+  },
+  {
+    "id": "https://vnexpress.net/hoa-xa-tri-chua-ung-thu-hach-bach-huyet-5108319.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Hóa xạ trị chữa ung thư hạch bạch huyết",
+    "description": "Ông Kiry, 66 tuổi, đi về giữa Campuchia và Việt Nam để hóa xạ trị ung thư hạch bạch huyết không Hodgkin.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/12/kiry-1786521853-9454-1786521869.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=B4Idh9-tnZW3NmtNkuHQ3w",
+    "link": "https://vnexpress.net/hoa-xa-tri-chua-ung-thu-hach-bach-huyet-5108319.html",
+    "published_at": "Wed, 12 Aug 2026 15:30:00 +0700",
+    "createAt": "2026-08-12T08:30:00.000Z",
+    "thumbnail_blurhash": "LfLgt$?bD*xa~pIoe-M{-nskocM{"
+  },
+  {
+    "id": "https://vnexpress.net/6-thoi-quen-buoi-toi-khien-ngung-tho-khi-ngu-tro-nang-5108180.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "6 thói quen buổi tối khiến ngưng thở khi ngủ trở nặng",
+    "description": "Uống rượu, ăn quá no, nằm ngửa, tự ý dùng thuốc ngủ hoặc thức khuya có thể làm đường thở dễ bị tắc nghẽn, khiến ngưng thở khi ngủ nặng hơn.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/12/mam-com-chung-1786518533-8878-1786518675.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=hLvmj1SMwWPmEouLIs2BPQ",
+    "link": "https://vnexpress.net/6-thoi-quen-buoi-toi-khien-ngung-tho-khi-ngu-tro-nang-5108180.html",
+    "published_at": "Wed, 12 Aug 2026 16:00:00 +0700",
+    "createAt": "2026-08-12T09:00:00.000Z",
+    "thumbnail_blurhash": "LUE.U%R6M|XS~oV[iwxttkRjrrxa"
   }
 ]
