@@ -89,5 +89,31 @@
     "published_at": "Wed, 12 Aug 2026 06:00:00 +0700",
     "createAt": "2026-08-11T23:00:00.000Z",
     "thumbnail_blurhash": "LnHV9wWB9Fxu~qofIUWBV@ofayRj"
+  },
+  {
+    "id": "https://vnexpress.net/cuu-song-benh-nhan-15-lan-ngung-tim-5108066.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Cứu sống bệnh nhân 15 lần ngừng tim",
+    "description": "Người đàn ông 69 tuổi, nhập viện trong tình trạng tức ngực, khó thở, ngừng tim khoảng 15 lần.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/11/770678406-n-1786461981-5913-1786462093.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=kta_uDiknuUzSrZ9loJowA",
+    "link": "https://vnexpress.net/cuu-song-benh-nhan-15-lan-ngung-tim-5108066.html",
+    "published_at": "Wed, 12 Aug 2026 07:32:38 +0700",
+    "createAt": "2026-08-12T00:32:38.000Z",
+    "thumbnail_blurhash": "LLIYUc?RxtN2%7IIRQNFk5%dW9IV"
+  },
+  {
+    "id": "https://vnexpress.net/phat-hien-ung-thu-dai-trang-sau-hai-ngay-dau-bung-5107972.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Phát hiện ung thư đại tràng sau hai ngày đau bụng",
+    "description": "Đau bụng từng cơn trong hai ngày, bà Thanh, 53 tuổi, đi khám và phát hiện ung thư đại tràng, phải phẫu thuật cắt ruột, nạo vét hạch.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/11/anh-1786441273-3028-1786441373.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=BcdYFB88j2NuyYp-2FWU0Q",
+    "link": "https://vnexpress.net/phat-hien-ung-thu-dai-trang-sau-hai-ngay-dau-bung-5107972.html",
+    "published_at": "Wed, 12 Aug 2026 08:00:00 +0700",
+    "createAt": "2026-08-12T01:00:00.000Z",
+    "thumbnail_blurhash": "LjEzj9cFNaNfpfXBoJn+S#bba|ad"
   }
 ]
