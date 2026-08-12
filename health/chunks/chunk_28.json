@@ -154,5 +154,44 @@
     "published_at": "Wed, 12 Aug 2026 08:00:00 +0700",
     "createAt": "2026-08-12T01:00:00.000Z",
     "thumbnail_blurhash": "LZJR8K~qbb%LRit7oft7RjWCxut6"
+  },
+  {
+    "id": "https://vnexpress.net/bi-ra-ria-trong-chinh-gia-dinh-minh-nhieu-dan-ong-mac-benh-tinh-than-5105788.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Bị 'ra rìa' trong chính gia đình mình, nhiều đàn ông mắc bệnh tinh thần",
+    "description": "Mỗi tối sau bữa cơm, anh Tuấn ngồi nhìn vợ kèm con học bài, thi thoảng anh thử tham gia, nhưng đứa trẻ 5 tuổi chỉ cần mẹ, khiến người đàn ông không biết phải làm gì.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/07/how-isolation-can-make-depress-2254-3435-1786069281.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ChpAA7Tuj9cphya_pKFvKw",
+    "link": "https://vnexpress.net/bi-ra-ria-trong-chinh-gia-dinh-minh-nhieu-dan-ong-mac-benh-tinh-than-5105788.html",
+    "published_at": "Wed, 12 Aug 2026 06:00:00 +0700",
+    "createAt": "2026-08-11T23:00:00.000Z",
+    "thumbnail_blurhash": "LnHV9wWB9Fxu~qofIUWBV@ofayRj"
+  },
+  {
+    "id": "https://vnexpress.net/ba-khung-gio-tu-than-ma-gan-can-nghi-ngoi-5108127.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Ba 'khung giờ tử thần' mà gan cần nghỉ ngơi",
+    "description": "Từ 23h đến 3h, mọi người cần ngủ sâu để gan phục hồi và thải độc; từ 5h đến 7h nên vận động nhẹ, uống nước ấm; từ 11h đến 13h cần thư giãn tinh thần, ăn thanh đạm để gan khỏe.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/12/nafld-1786497897-4236-1786498008.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=7sBrHh5WiNdGJtbA7D93TA",
+    "link": "https://vnexpress.net/ba-khung-gio-tu-than-ma-gan-can-nghi-ngoi-5108127.html",
+    "published_at": "Wed, 12 Aug 2026 08:28:14 +0700",
+    "createAt": "2026-08-12T01:28:14.000Z",
+    "thumbnail_blurhash": "L88N9Y=d1J1i74Nd,:-80~JA|==G"
+  },
+  {
+    "id": "https://vnexpress.net/vi-sao-viem-xoang-tai-phat-sau-dieu-tri-5108114.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Vì sao viêm xoang tái phát sau điều trị?",
+    "description": "Tôi mắc bệnh viêm xoang mạn tính, uống thuốc giảm triệu chứng nhưng hay tái phát, nguyên nhân do đâu, có cần phẫu thuật? (Kim Lan, 37 tuổi, TP HCM)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/12/ba-o-1786495599-3140-1786495628.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=V8kCFj2tck0MEuwTkmgsAw",
+    "link": "https://vnexpress.net/vi-sao-viem-xoang-tai-phat-sau-dieu-tri-5108114.html",
+    "published_at": "Wed, 12 Aug 2026 09:00:00 +0700",
+    "createAt": "2026-08-12T02:00:00.000Z",
+    "thumbnail_blurhash": "LwLNx*~q9Fbb?b%MoetRoLaxR*WC"
   }
 ]
