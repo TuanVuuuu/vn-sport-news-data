@@ -1,6 +1,19 @@
 {
   "featured": [
     {
+      "id": "https://vnexpress.net/hien-tuong-ky-la-xuat-hien-trong-nhat-thuc-toan-phan-5107961.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Hiện tượng kỳ lạ xuất hiện trong nhật thực toàn phần",
+      "description": "Hiện tượng dải bóng bí ẩn thường xảy ra ngay trước và sau khi Mặt Trăng che khuất Mặt Trời trong các kỳ nhật thực và rất khó ghi hình, song các nhà nghiên cứu vẫn chưa tìm ra nguyên nhân.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/11/VNEBand-1786440275-6515-1786440577.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=UC9vc1wfb-BQ9u41rneujw",
+      "link": "https://vnexpress.net/hien-tuong-ky-la-xuat-hien-trong-nhat-thuc-toan-phan-5107961.html",
+      "published_at": "Wed, 12 Aug 2026 10:01:12 +0700",
+      "createAt": "2026-08-12T03:01:12.000Z",
+      "thumbnail_blurhash": "LYG+L5_34.Rj0OEM%0Rj.AtSslxa"
+    },
+    {
       "id": "https://vnexpress.net/ong-trump-neu-ly-do-bi-mat-doi-chuyen-co-khi-roi-tho-nhi-ky-5108130.html",
       "category_id": "featured",
       "category_name": "Tin nổi bật",
@@ -12,6 +25,19 @@
       "published_at": "Wed, 12 Aug 2026 10:05:54 +0700",
       "createAt": "2026-08-12T03:05:54.000Z",
       "thumbnail_blurhash": "L26Q-p_40z6+~B%2AHAF00I9=xVr"
+    },
+    {
+      "id": "https://vnexpress.net/oto-xe-may/v-car/doanh-so/10-oto-xang-dau-ban-giao-nhieu-nhat-thang-7-5108067.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "10 ôtô xăng, dầu bàn giao nhiều nhất tháng 7",
+      "description": "Toyota Yaris Cross bán nhiều nhất với 1.781 xe, Mazda CX-5 ở vị trí thứ hai với 1.229 xe, Mitsubishi Xforce đứng thứ ba với 1.170 xe.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/11/TopXeICET7-1786463938-7856-1786463953.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=9zipNm6nK07XrpdQN1PlKg",
+      "link": "https://vnexpress.net/oto-xe-may/v-car/doanh-so/10-oto-xang-dau-ban-giao-nhieu-nhat-thang-7-5108067.html",
+      "published_at": "Wed, 12 Aug 2026 10:20:08 +0700",
+      "createAt": "2026-08-12T03:20:08.000Z",
+      "thumbnail_blurhash": "LAGIcR--xb%O?wpy-=#k0Lx^bcD%"
     },
     {
       "id": "https://vnexpress.net/vu-ly-hon-1-200-ty-cua-bac-si-nha-khoa-bi-tam-dinh-chi-5108216.html",
@@ -51,6 +77,45 @@
       "published_at": "Wed, 12 Aug 2026 11:35:33 +0700",
       "createAt": "2026-08-12T04:35:33.000Z",
       "thumbnail_blurhash": "LZI#DNt3nORQ~oocaKo1-oWCWBjs"
+    },
+    {
+      "id": "https://vnexpress.net/phat-hien-tien-co-kiem-trong-mo-gach-o-nghe-an-5108241.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Phát hiện tiền cổ, kiếm trong mộ gạch ở Nghệ An",
+      "description": "Khai quật mộ gạch cổ tại xã Kim Liên, lực lượng chức năng bước đầu tìm thấy tiền cổ, hai kiếm, một âu, chân đèn bằng đất nung.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/12/mo-gach-1786508546-9772-1786508783.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=qp7T6WOr5hrQdS6p6O4AkA",
+      "link": "https://vnexpress.net/phat-hien-tien-co-kiem-trong-mo-gach-o-nghe-an-5108241.html",
+      "published_at": "Wed, 12 Aug 2026 11:46:55 +0700",
+      "createAt": "2026-08-12T04:46:55.000Z",
+      "thumbnail_blurhash": "LSJ5$4.8-VxZ*{IAWB$i}@xaEMV@"
+    },
+    {
+      "id": "https://vnexpress.net/lan-song-rua-bien-giup-trung-quoc-canh-tranh-cong-nghe-voi-my-5108027.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Làn sóng 'rùa biển' giúp Trung Quốc cạnh tranh công nghệ với Mỹ",
+      "description": "Nhiều nhân tài Trung Quốc từng làm việc tại Mỹ hồi hương, trở thành \"rùa biển\", góp sức cho nỗ lực phát triển công nghệ của quê nhà.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/11/afp20260720i1784556335861v1hig-9671-6053-1786454333.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=lntBk2zlWzMWpkOUFRzBCw",
+      "link": "https://vnexpress.net/lan-song-rua-bien-giup-trung-quoc-canh-tranh-cong-nghe-voi-my-5108027.html",
+      "published_at": "Wed, 12 Aug 2026 12:00:00 +0700",
+      "createAt": "2026-08-12T05:00:00.000Z",
+      "thumbnail_blurhash": "LCE3e#8^IUIU.A~qVrNH8_.8D*_2"
+    },
+    {
+      "id": "https://vnexpress.net/pha-do-khan-cap-long-cho-bien-hoa-sau-vu-chay-5108274.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Phá dỡ khẩn cấp lồng chợ Biên Hòa sau vụ cháy",
+      "description": "Nhà lồng chợ Biên Hòa bị hỏa hoạn, có nguy cơ sụp đổ, phải phá dỡ một phần để bảo đảm an toàn cho người dân và công trình lân cận.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/12/2aoboqpyounor3xh7xh64ouakfyq11-6634-3166-1786517593.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=dxxzfhflHbE74m_cfdxsVg",
+      "link": "https://vnexpress.net/pha-do-khan-cap-long-cho-bien-hoa-sau-vu-chay-5108274.html",
+      "published_at": "Wed, 12 Aug 2026 13:43:58 +0700",
+      "createAt": "2026-08-12T06:43:58.000Z",
+      "thumbnail_blurhash": "LKE:6,%M_N?b?vD$NGRj%MRQt6R*"
     }
   ]
 }
