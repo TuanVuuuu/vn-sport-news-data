@@ -934,5 +934,31 @@
     "published_at": "Wed, 12 Aug 2026 05:00:00 +0700",
     "createAt": "2026-08-11T22:00:00.000Z",
     "thumbnail_blurhash": "L5BMiJ}$Te.900AL0K,m%4IA=_EL"
+  },
+  {
+    "id": "https://vnexpress.net/45-phut-canh-sat-my-giup-nguoi-dan-ong-bo-y-dinh-nhay-cau-5107962.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "45 phút cảnh sát Mỹ giúp người đàn ông bỏ ý định nhảy cầu",
+    "description": "Dành 45 phút tâm sự và trao một cái ôm ấm áp, sĩ quan Mike Hotz đã thuyết phục thành công người đàn ông từ bỏ ý định tự tử.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/11/nashville-1786443669-8959-1786444210.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=sZJuKBqDJp5cK3WgI5fWjw",
+    "link": "https://vnexpress.net/45-phut-canh-sat-my-giup-nguoi-dan-ong-bo-y-dinh-nhay-cau-5107962.html",
+    "published_at": "Wed, 12 Aug 2026 06:38:35 +0700",
+    "createAt": "2026-08-11T23:38:35.000Z",
+    "thumbnail_blurhash": "LPHB#s%L^+xu~pWBWUkC-;jtRjjt"
+  },
+  {
+    "id": "https://vnexpress.net/my-tuyen-bo-phong-ten-lua-vo-hieu-hoa-tau-hang-huong-den-iran-5108087.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Mỹ tuyên bố phóng tên lửa vô hiệu hóa tàu hàng hướng đến Iran",
+    "description": "Mỹ cho biết đã khai hỏa tên lửa vào khoang máy của một tàu hàng đang hướng đến cảng tại Iran, điều vi phạm lệnh phong tỏa của Washington.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/12/M-1786490816-1684-1786491388.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=oYVDx0P5W848uivRMdJUkg",
+    "link": "https://vnexpress.net/my-tuyen-bo-phong-ten-lua-vo-hieu-hoa-tau-hang-huong-den-iran-5108087.html",
+    "published_at": "Wed, 12 Aug 2026 06:54:35 +0700",
+    "createAt": "2026-08-11T23:54:35.000Z",
+    "thumbnail_blurhash": "LiKBg.ofx]xv~qj[ofoft8j[M{ax"
   }
 ]
