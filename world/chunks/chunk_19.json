@@ -1181,5 +1181,31 @@
     "published_at": "Wed, 12 Aug 2026 15:53:14 +0700",
     "createAt": "2026-08-12T08:53:14.000Z",
     "thumbnail_blurhash": "LFBWb,-hIq4?~U?GD*E44TbdIpe,"
+  },
+  {
+    "id": "https://vnexpress.net/loat-oto-troi-giua-duong-pho-ngap-lut-o-trung-quoc-5108297.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Loạt ôtô trôi giữa đường phố ngập lụt ở Trung Quốc",
+    "description": "Nhiều ôtô trôi nổi trên con phố ngập lụt ở tỉnh Hà Bắc, khi mưa lớn trút xối xả xuống loạt tỉnh thành ở Trung Quốc do bão Cá heo.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/12/screenshot-1786520021-2420-1786520767.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=zUUuAD3xFgRe0FgDG6posw",
+    "link": "https://vnexpress.net/loat-oto-troi-giua-duong-pho-ngap-lut-o-trung-quoc-5108297.html",
+    "published_at": "Wed, 12 Aug 2026 16:28:06 +0700",
+    "createAt": "2026-08-12T09:28:06.000Z",
+    "thumbnail_blurhash": "LALN*{%MNE%h_4rqS~oyDPs:%MSh"
+  },
+  {
+    "id": "https://vnexpress.net/ukraine-ngung-thong-ke-so-ten-lua-trong-don-tap-kich-cua-nga-5108360.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Ukraine ngừng thống kê số tên lửa trong đòn tập kích của Nga",
+    "description": "Không quân Ukraine ngừng công bố lượng tên lửa Nga phóng vào nước này, dường như do tình trạng bất lực trước các đòn đánh bằng tên lửa đạn đạo.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/12/patriot-1786524811-9686-1786524915.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=lLfv4G5JbH9Gswb605NjHQ",
+    "link": "https://vnexpress.net/ukraine-ngung-thong-ke-so-ten-lua-trong-don-tap-kich-cua-nga-5108360.html",
+    "published_at": "Wed, 12 Aug 2026 16:30:16 +0700",
+    "createAt": "2026-08-12T09:30:16.000Z",
+    "thumbnail_blurhash": "LnFsJfIVWY%N?wIVa#ofWYbIWARi"
   }
 ]
