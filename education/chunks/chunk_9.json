@@ -934,5 +934,31 @@
     "published_at": "Wed, 12 Aug 2026 19:00:31 +0700",
     "createAt": "2026-08-12T12:00:31.000Z",
     "thumbnail_blurhash": "L+IhmWt6ozof_NbIt7s:?bWXogof"
+  },
+  {
+    "id": "https://vnexpress.net/nuoc-nao-co-con-pho-hep-nhat-the-gioi-5108461.html",
+    "category_id": "education",
+    "category_name": "Giáo dục",
+    "source": "VnExpress",
+    "title": "Nước nào có con phố hẹp nhất thế giới?",
+    "description": "Con phố này do sơ suất của các nhà xây dựng, chỉ rộng 30-51 cm. Nó nằm ở nước nào?",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/12/spreuerhofstrasse-1786540420-9879-1786540424.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=xZ2Z3B8f9xXyG4j9MnYwdg",
+    "link": "https://vnexpress.net/nuoc-nao-co-con-pho-hep-nhat-the-gioi-5108461.html",
+    "published_at": "Wed, 12 Aug 2026 20:33:23 +0700",
+    "createAt": "2026-08-12T13:33:23.000Z",
+    "thumbnail_blurhash": "LKI53zx_x]M{~p%N%MxZ4.IUs9%N"
+  },
+  {
+    "id": "https://vnexpress.net/phuong-an-sap-xep-sap-nhap-truong-lop-doi-ngu-giao-vien-cua-tp-hcm-5108460.html",
+    "category_id": "education",
+    "category_name": "Giáo dục",
+    "source": "VnExpress",
+    "title": "TP HCM dự kiến điều động gần 1.400 hiệu trưởng, hiệu phó khi sắp xếp trường học",
+    "description": "Gần 1.400 hiệu trưởng, hiệu phó chịu tác động khi TP HCM giảm 704 trường học, theo Sở Giáo dục.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/12/233a3115-1786541394-4318-1786541614.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=1pjK581t-2R3NiJWSWktsQ",
+    "link": "https://vnexpress.net/phuong-an-sap-xep-sap-nhap-truong-lop-doi-ngu-giao-vien-cua-tp-hcm-5108460.html",
+    "published_at": "Wed, 12 Aug 2026 20:43:09 +0700",
+    "createAt": "2026-08-12T13:43:09.000Z",
+    "thumbnail_blurhash": "LXHeUo~CE1XSX,Nuah%1ofayWCbH"
   }
 ]
