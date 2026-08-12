@@ -1246,5 +1246,31 @@
     "published_at": "Wed, 12 Aug 2026 12:17:18 +0700",
     "createAt": "2026-08-12T05:17:18.000Z",
     "thumbnail_blurhash": "LRFrR=~AITx]aJxaNyIVROM|R-ax"
+  },
+  {
+    "id": "https://vnexpress.net/trung-quoc-nang-nong-ky-luc-hang-loat-cua-kinh-tu-vo-5108095.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Trung Quốc nắng nóng kỷ lục, hàng loạt cửa kính tự vỡ",
+    "description": "Nhiều gia đình ở Hàng Châu, Thượng Hải (Trung Quốc) phát hiện kính cửa sổ, ban công vỡ vụn do nhiệt độ ngoài trời vượt ngưỡng 39 độ C.",
+    "thumbnail_url": "https://vcdn1-giadinh.vnecdn.net/2026/08/12/screenshot-1786512254-1478-1786512268.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=naU3-VSFQSE7ox-s0B8M9A",
+    "link": "https://vnexpress.net/trung-quoc-nang-nong-ky-luc-hang-loat-cua-kinh-tu-vo-5108095.html",
+    "published_at": "Wed, 12 Aug 2026 12:24:28 +0700",
+    "createAt": "2026-08-12T05:24:28.000Z",
+    "thumbnail_blurhash": "L6G+jtIS-USg~oRlr=Ip00%N%2M|"
+  },
+  {
+    "id": "https://vnexpress.net/neu-co-song-gio-anh-hay-yen-tam-vi-co-em-la-diem-tua-5108037.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Nếu có sóng gió, anh hãy yên tâm vì có em là điểm tựa",
+    "description": "Em mong sẽ có duyên được nấu cho anh những món ăn giản dị sau những giờ làm việc mệt mỏi.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/12/GeminiGeneratedImage8pfq0w8pfq-7185-5706-1786500096.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=q38AHXVy4yYFlTgjaSGFUg",
+    "link": "https://vnexpress.net/neu-co-song-gio-anh-hay-yen-tam-vi-co-em-la-diem-tua-5108037.html",
+    "published_at": "Wed, 12 Aug 2026 12:24:43 +0700",
+    "createAt": "2026-08-12T05:24:43.000Z",
+    "thumbnail_blurhash": "LQO{8B-WSiso~TofRkX7-UxaIps:"
   }
 ]
