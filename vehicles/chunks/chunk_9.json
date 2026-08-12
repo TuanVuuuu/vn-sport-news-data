@@ -778,5 +778,31 @@
     "published_at": "Wed, 12 Aug 2026 07:05:00 +0700",
     "createAt": "2026-08-12T00:05:00.000Z",
     "thumbnail_blurhash": "LYIW__^lTJb^.8?bxbt6uikrwzad"
+  },
+  {
+    "id": "https://vnexpress.net/camera-giao-thong-bi-google-ai-noi-chua-nhieu-vang-5107649.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Camera giao thông bị Google AI nói chứa nhiều vàng",
+    "description": "AI Overviews đưa ra thông số sai sự thật về lượng kim loại quý trong camera nhận diện số xe do lấy nguồn từ bài viết giả mạo.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/11/Flockcamera-1786434368-5115-1786434538.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=AEQDzC4HZHv_cbPZPDbQ5A",
+    "link": "https://vnexpress.net/camera-giao-thong-bi-google-ai-noi-chua-nhieu-vang-5107649.html",
+    "published_at": "Wed, 12 Aug 2026 07:45:00 +0700",
+    "createAt": "2026-08-12T00:45:00.000Z",
+    "thumbnail_blurhash": "LAD0M%r:x]-;K4D$%Ms:_NoHM}D*"
+  },
+  {
+    "id": "https://vnexpress.net/len-qua-khe-hep-nguoi-phu-nu-di-xe-may-bi-oto-dam-5108101.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Len qua khe hẹp, người phụ nữ đi xe máy bị ôtô đâm",
+    "description": "Từ giữa hai ôtô đang dừng chờ đèn đỏ, người phụ nữ phóng xe máy ngang đường nên bị ôtô đâm, hôm 11/8 tại đường Giải phóng, Krong Păk.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/12/ezgif1b9c45097b22bf30-17864951-3194-2187-1786495407.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=FcV32c3Tu1LVptoS5J_gCw&t=image",
+    "link": "https://vnexpress.net/len-qua-khe-hep-nguoi-phu-nu-di-xe-may-bi-oto-dam-5108101.html",
+    "published_at": "Wed, 12 Aug 2026 08:34:06 +0700",
+    "createAt": "2026-08-12T01:34:06.000Z",
+    "thumbnail_blurhash": "LGEpD=4:D%xv%hRkafxu_NIAWBxu"
   }
 ]
