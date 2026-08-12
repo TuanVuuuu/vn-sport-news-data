@@ -1285,5 +1285,18 @@
     "published_at": "Wed, 12 Aug 2026 12:00:00 +0700",
     "createAt": "2026-08-12T05:00:00.000Z",
     "thumbnail_blurhash": "LCE3e#8^IUIU.A~qVrNH8_.8D*_2"
+  },
+  {
+    "id": "https://vnexpress.net/ai-chen-hang-khi-dat-lich-tap-gym-cho-chu-nhan-5108198.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "AI 'chen hàng' khi đặt lịch tập gym cho chủ nhân",
+    "description": "Được nhờ đặt lịch tập gym, công cụ OpenClaw chạy Claude của Anthropic phát hiện lỗ hổng trên hệ thống đăng ký, sau đó tự \"chèn lịch\".",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/12/img-1786509023-3520-1786509292.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=3xiSJgkRrL9Fp-jDPv2Obw",
+    "link": "https://vnexpress.net/ai-chen-hang-khi-dat-lich-tap-gym-cho-chu-nhan-5108198.html",
+    "published_at": "Wed, 12 Aug 2026 14:00:00 +0700",
+    "createAt": "2026-08-12T07:00:00.000Z",
+    "thumbnail_blurhash": "LV8{xWxgJDV_nVaQSjofNHjFoebb"
   }
 ]
