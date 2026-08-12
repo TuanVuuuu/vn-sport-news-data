@@ -1,5 +1,5 @@
 {
-  "total_articles": 700,
+  "total_articles": 703,
   "files": [
     "chunk_1.json",
     "chunk_2.json",
@@ -7,7 +7,8 @@
     "chunk_4.json",
     "chunk_5.json",
     "chunk_6.json",
-    "chunk_7.json"
+    "chunk_7.json",
+    "chunk_8.json"
   ],
   "channel": {
     "title": "Đời sống - VnExpress RSS",
@@ -16,7 +17,7 @@
     "copyright": "",
     "logo_url": "https://s.vnecdn.net/vnexpress/i/v20/logos/vne_logo_rss.png",
     "link": "https://vnexpress.net/rss/gia-dinh.rss",
-    "last_updated": "Wed, 12 Aug 2026 13:01:40 +0700"
+    "last_updated": "Wed, 12 Aug 2026 15:10:49 +0700"
   },
-  "last_updated": "2026-08-12T08:10:49.022Z"
+  "last_updated": "2026-08-12T08:21:18.954Z"
 }
