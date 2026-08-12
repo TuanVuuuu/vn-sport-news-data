@@ -1233,5 +1233,31 @@
     "published_at": "Wed, 12 Aug 2026 06:13:23 +0700",
     "createAt": "2026-08-11T23:13:23.000Z",
     "thumbnail_blurhash": "LSJ*09I]?]RP^JfmX-xuwHaybwt7"
+  },
+  {
+    "id": "https://vnexpress.net/robot-hinh-nguoi-tu-thay-pin-chua-day-ba-phut-5107823.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Robot hình người tự thay pin chưa đầy ba phút",
+    "description": "Robot Atlas của công ty Boston Dynamics có khả năng tự thay pin nhanh chóng, giúp hạn chế gián đoạn hoạt động trong nhà máy.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/11/VNERobot-1786423588-8729-1786423646.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=oVRseywiA8K_asAybjv95Q",
+    "link": "https://vnexpress.net/robot-hinh-nguoi-tu-thay-pin-chua-day-ba-phut-5107823.html",
+    "published_at": "Wed, 12 Aug 2026 09:00:00 +0700",
+    "createAt": "2026-08-12T02:00:00.000Z",
+    "thumbnail_blurhash": "L28#Tu00^g00vcI^x^Mb00%MtS?w"
+  },
+  {
+    "id": "https://vnexpress.net/nhung-diem-moi-trong-du-thao-luat-buu-chinh-va-luat-do-luong-sua-doi-5107975.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Những điểm mới trong dự thảo Luật Bưu chính và Luật Đo lường sửa đổi",
+    "description": "Dự thảo Luật Bưu chính và Luật Đo lường (sửa đổi) tập trung vào việc thích ứng trước sự trước thay đổi của thị trường sau nhiều năm.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/12/wm1-dsc03800-jpg-1786449130-47-6858-2565-1786496891.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=9YqstKYmqONpMsV6igD0KA",
+    "link": "https://vnexpress.net/nhung-diem-moi-trong-du-thao-luat-buu-chinh-va-luat-do-luong-sua-doi-5107975.html",
+    "published_at": "Wed, 12 Aug 2026 09:00:00 +0700",
+    "createAt": "2026-08-12T02:00:00.000Z",
+    "thumbnail_blurhash": "LJHM7*pL5dt30IVsxvM|Q*t2v_oN"
   }
 ]
