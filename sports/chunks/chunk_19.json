@@ -219,5 +219,31 @@
     "published_at": "Wed, 12 Aug 2026 11:08:49 +0700",
     "createAt": "2026-08-12T04:08:49.000Z",
     "thumbnail_blurhash": "LCB|27~1E1.Am~NjkDRi0qMaoKE2"
+  },
+  {
+    "id": "https://vnexpress.net/chan-thuong-co-tay-cua-alcaraz-nghiem-trong-den-dau-5108139.html",
+    "category_id": "sports",
+    "category_name": "Thể thao",
+    "source": "VnExpress",
+    "title": "Chấn thương cổ tay của Alcaraz nghiêm trọng đến đâu?",
+    "description": "Tay vợt cựu số một thế giới Carlos Alcaraz trải qua 120 ngày không thi đấu chính thức vì chấn thương cổ tay, nguy cơ không thể bảo vệ chức vô địch Mỹ Mở rộng.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/08/12/WET5VK6MOVLRTEANVX44XQNOLU1-17-8543-4067-1786498826.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=EpMKVWKuIEn8jXhgj9hBNQ",
+    "link": "https://vnexpress.net/chan-thuong-co-tay-cua-alcaraz-nghiem-trong-den-dau-5108139.html",
+    "published_at": "Wed, 12 Aug 2026 15:12:29 +0700",
+    "createAt": "2026-08-12T08:12:29.000Z",
+    "thumbnail_blurhash": "LC9uZ#$[1EFkS;bfxdr,1PNG;fs?"
+  },
+  {
+    "id": "https://vnexpress.net/enrique-mo-lap-hat-trick-champions-league-cung-psg-5108137.html",
+    "category_id": "sports",
+    "category_name": "Thể thao",
+    "source": "VnExpress",
+    "title": "Enrique mơ lập hat-trick Champions League cùng PSG",
+    "description": "Trước trận tranh Siêu Cup châu Âu với Aston Villa hôm nay, HLV Luis Enrique đặt mục tiêu cùng PSG tái lập thành tích vô địch Champions League ba mùa liên tiếp của Real Madrid.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/08/12/a-nh-ma-n-hi-nh-lu-c-178649856-6605-2734-1786498673.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=NczYVSjWAHrLSaNdK6FQ1g",
+    "link": "https://vnexpress.net/enrique-mo-lap-hat-trick-champions-league-cung-psg-5108137.html",
+    "published_at": "Wed, 12 Aug 2026 15:23:48 +0700",
+    "createAt": "2026-08-12T08:23:48.000Z",
+    "thumbnail_blurhash": "LEHU@F-$0:_N-m-:%g9u.SRkn2%L"
   }
 ]
