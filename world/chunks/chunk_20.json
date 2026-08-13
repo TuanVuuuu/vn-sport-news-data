@@ -336,5 +336,44 @@
     "published_at": "Thu, 13 Aug 2026 16:01:40 +0700",
     "createAt": "2026-08-13T09:01:40.000Z",
     "thumbnail_blurhash": "L7C7WJ?b?Z_K?=-oxst1tPxrxbax"
+  },
+  {
+    "id": "https://vnexpress.net/vi-sao-ong-trump-am-anh-voi-nguy-co-bi-am-sat-5108770.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Vì sao ông Trump ám ảnh với nguy cơ bị ám sát",
+    "description": "Từng thoát chết dưới họng súng của kẻ bắn tỉa, ông Trump luôn lo ngại về nguy cơ bị Iran ám sát, thậm chí bí mật đổi chuyên cơ khi rời hội nghị NATO ở Thổ Nhĩ Kỳ.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/13/Artcover16x9-1786608567-9028-1786608691.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=CTtsrnazAWNPdqFwt5-dqQ",
+    "link": "https://vnexpress.net/vi-sao-ong-trump-am-anh-voi-nguy-co-bi-am-sat-5108770.html",
+    "published_at": "Thu, 13 Aug 2026 17:00:00 +0700",
+    "createAt": "2026-08-13T10:00:00.000Z",
+    "thumbnail_blurhash": "LrB$l]HqawV{.mS7R5jEoyoxRPaJ"
+  },
+  {
+    "id": "https://vnexpress.net/dau-may-tau-hoa-ukraine-chay-du-doi-sau-don-tap-kich-uav-5108811.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Đầu máy tàu hỏa Ukraine cháy dữ dội sau đòn tập kích UAV",
+    "description": "Tổng thống Ukraine cáo buộc UAV Nga đánh trúng đoàn tàu chở hàng trăm khách ở tỉnh Odessa, phá hủy đầu máy, khiến hai lái tàu thiệt mạng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/13/screenshot-1786614396-3660-1786614899.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=nVQKkIbSbObmfahWxJXG-Q",
+    "link": "https://vnexpress.net/dau-may-tau-hoa-ukraine-chay-du-doi-sau-don-tap-kich-uav-5108811.html",
+    "published_at": "Thu, 13 Aug 2026 17:07:58 +0700",
+    "createAt": "2026-08-13T10:07:58.000Z",
+    "thumbnail_blurhash": "LnJj@~Q--q#Q~qxGogVsTKtlNGNd"
+  },
+  {
+    "id": "https://vnexpress.net/ukraine-tuyen-bo-ket-hop-15-vu-khi-trong-don-tap-kich-quan-cang-nga-5108791.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Ukraine tuyên bố kết hợp 15 vũ khí trong đòn tập kích quân cảng Nga",
+    "description": "Tổng thống Zelensky cho biết Ukraine lần đầu sử dụng 15 vũ khí để hiệp đồng tấn công căn cứ Hạm đội Biển Đen ở Novorossiysk.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/13/Neptune-1786616972-7693-1786617542.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=Ig_szrBd8E3E8HeBqiPKjA",
+    "link": "https://vnexpress.net/ukraine-tuyen-bo-ket-hop-15-vu-khi-trong-don-tap-kich-quan-cang-nga-5108791.html",
+    "published_at": "Thu, 13 Aug 2026 18:08:17 +0700",
+    "createAt": "2026-08-13T11:08:17.000Z",
+    "thumbnail_blurhash": "LCC6GW-C?aR%}qe9xZkBkBMxRjR*"
   }
 ]
