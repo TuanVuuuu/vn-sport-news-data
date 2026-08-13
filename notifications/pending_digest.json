@@ -1,6 +1,19 @@
 {
   "featured": [
     {
+      "id": "https://vnexpress.net/mat-vu-my-hung-chi-trich-vi-bien-doan-thap-tung-ong-trump-thanh-moi-nhu-5108320.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Mật vụ Mỹ hứng chỉ trích vì biến đoàn tháp tùng ông Trump thành 'mồi nhử'",
+      "description": "Một số người cho rằng Mật vụ Mỹ đã chuyển hướng nguy hiểm sang đoàn tháp tùng ông Trump khi để họ bay trên Không lực Một đang bị đe dọa.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/12/20260811t173831z934669061rc2dw-7147-1700-1786526178.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=1MejqjsZZDU0BS-BReqpww",
+      "link": "https://vnexpress.net/mat-vu-my-hung-chi-trich-vi-bien-doan-thap-tung-ong-trump-thanh-moi-nhu-5108320.html",
+      "published_at": "Thu, 13 Aug 2026 08:48:12 +0700",
+      "createAt": "2026-08-13T01:48:12.000Z",
+      "thumbnail_blurhash": "LkG+gw-oofof_NxZkBofxvt7ayj]"
+    },
+    {
       "id": "https://vnexpress.net/dinh-doc-lap-thong-thoang-sau-quy-dinh-thu-phi-chup-anh-5108480.html",
       "category_id": "featured",
       "category_name": "Tin nổi bật",
@@ -38,6 +51,19 @@
       "published_at": "Thu, 13 Aug 2026 11:01:00 +0700",
       "createAt": "2026-08-13T04:01:00.000Z",
       "thumbnail_blurhash": "LDK^c_~n00v|004pR;Ro00%f%hx["
+    },
+    {
+      "id": "https://vnexpress.net/111-nguoi-dep-quoc-te-mac-ao-dai-khai-mac-miss-world-5108572.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "111 người đẹp quốc tế mặc áo dài khai mạc Miss World",
+      "description": "Hơn 100 thí sinh quốc tế đồng loạt diện tà áo truyền thống Việt Nam tại lễ khai mạc Miss World 2026, tối 12/8.",
+      "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/08/13/miss-world-vietnam-2026-1786596870.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=KradsVTxnZUVSGX5ctQ1Xg",
+      "link": "https://vnexpress.net/111-nguoi-dep-quoc-te-mac-ao-dai-khai-mac-miss-world-5108572.html",
+      "published_at": "Thu, 13 Aug 2026 11:35:06 +0700",
+      "createAt": "2026-08-13T04:35:06.000Z",
+      "thumbnail_blurhash": "LGF}d5|r00-t4;OrtRak9rNMx[O7"
     }
   ]
 }
