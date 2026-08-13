@@ -791,5 +791,31 @@
     "published_at": "Fri, 14 Aug 2026 01:48:04 +0700",
     "createAt": "2026-08-13T18:48:04.000Z",
     "thumbnail_blurhash": "LSI5SkDhS5IU_NRQDin$%gt6MxR*"
+  },
+  {
+    "id": "https://vnexpress.net/chua-ai-ban-dien-mat-troi-du-len-luoi-5108854.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "'Chưa ai bán điện mặt trời dư lên lưới'",
+    "description": "Dù đã có thể bán đến 50% sản lượng điện mặt trời mái nhà tự dùng lên lưới quốc gia, đến nay chưa ai tham gia giao dịch.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/08/14/10-ong-nguyen-xuan-quy-1786641-8887-6116-1786641515.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=CKlrSdeA-32HD3liEkegYA",
+    "link": "https://vnexpress.net/chua-ai-ban-dien-mat-troi-du-len-luoi-5108854.html",
+    "published_at": "Fri, 14 Aug 2026 02:06:18 +0700",
+    "createAt": "2026-08-13T19:06:18.000Z",
+    "thumbnail_blurhash": "LIN@yl:QQ8tl_OtS_2AV3CkVXSrE"
+  },
+  {
+    "id": "https://vnexpress.net/nhieu-co-hoi-startup-khong-yeu-cau-cong-nghe-dot-pha-5108706.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Nhiều cơ hội startup không yêu cầu 'công nghệ đột phá'",
+    "description": "Nhiều bài toán vận hành đô thị thông minh, chuỗi cung ứng đang chờ startup giải quyết mà không bắt buộc có 'công nghệ đột phá', theo chuyên gia.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/08/13/startup-1786608176-4613-1786608420.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=EZf2pDuVMbzBIFfEJfkqgg",
+    "link": "https://vnexpress.net/nhieu-co-hoi-startup-khong-yeu-cau-cong-nghe-dot-pha-5108706.html",
+    "published_at": "Fri, 14 Aug 2026 02:59:38 +0700",
+    "createAt": "2026-08-13T19:59:38.000Z",
+    "thumbnail_blurhash": "LfDN5[%zLyiyugagR8kBIqWXs-X6"
   }
 ]
