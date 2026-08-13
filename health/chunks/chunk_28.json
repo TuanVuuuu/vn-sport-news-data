@@ -1064,5 +1064,44 @@
     "published_at": "Thu, 13 Aug 2026 17:53:10 +0700",
     "createAt": "2026-08-13T10:53:10.000Z",
     "thumbnail_blurhash": "LcON5$M|x^xu~ERjozt7pIRkMxof"
+  },
+  {
+    "id": "https://vnexpress.net/vi-sao-vaccine-mmr-duoc-tiem-phoi-hop-5108827.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Vì sao vaccine MMR được tiêm phối hợp?",
+    "description": "Vaccine MMR phối hợp ba thành phần sởi, quai bị, rubella trong cùng một mũi nhằm giảm số lần tiêm, giúp hoàn thành lịch đúng hạn.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/13/screenshot-ok-1786614799-9835-1786615676.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=-tJdRcXXq1pqxzLU-cLz_w",
+    "link": "https://vnexpress.net/vi-sao-vaccine-mmr-duoc-tiem-phoi-hop-5108827.html",
+    "published_at": "Thu, 13 Aug 2026 19:00:00 +0700",
+    "createAt": "2026-08-13T12:00:00.000Z",
+    "thumbnail_blurhash": "LII5GL.-58yr}^F^9a-V9G=|NG$y"
+  },
+  {
+    "id": "https://vnexpress.net/be-9-tuoi-tang-mot-do-can-sau-ky-nghi-he-5108721.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Bé 9 tuổi tăng một độ cận sau kỳ nghỉ hè",
+    "description": "Sau kỳ nghỉ hè, bé Phương, 9 tuổi, nhìn mờ, mỏi mắt và chảy nước mắt, bác sĩ chẩn đoán cận thị tăng khoảng một độ.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/13/vne-a-nh-1786604835-9687-1786604856.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=VUAJeYY2u2nr4phF9VHFTw",
+    "link": "https://vnexpress.net/be-9-tuoi-tang-mot-do-can-sau-ky-nghi-he-5108721.html",
+    "published_at": "Thu, 13 Aug 2026 19:00:00 +0700",
+    "createAt": "2026-08-13T12:00:00.000Z",
+    "thumbnail_blurhash": "LLK_5+0KyC%2~pMx%O%N?v-;nNRO"
+  },
+  {
+    "id": "https://vnexpress.net/tu-cuoc-chia-ly-dot-ngot-den-7-cuoc-doi-duoc-song-5108873.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Từ cuộc chia ly đột ngột đến 7 cuộc đời được sống",
+    "description": "Người đàn ông 49 tuổi ra đi sau tai nạn giao thông, gia đình quyết định hiến tạng để sự sống của anh tiếp tục được nối dài trong 7 người nhận ghép.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/13/1-1786622598-9206-1786622664.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=C_33bUQw8BReLCoLcu1M7g",
+    "link": "https://vnexpress.net/tu-cuoc-chia-ly-dot-ngot-den-7-cuoc-doi-duoc-song-5108873.html",
+    "published_at": "Thu, 13 Aug 2026 19:26:48 +0700",
+    "createAt": "2026-08-13T12:26:48.000Z",
+    "thumbnail_blurhash": "LoL;BTS4S2ae~qNaWVt7xat7ofj]"
   }
 ]
