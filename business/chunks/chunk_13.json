@@ -817,5 +817,31 @@
     "published_at": "Fri, 14 Aug 2026 02:59:38 +0700",
     "createAt": "2026-08-13T19:59:38.000Z",
     "thumbnail_blurhash": "LfDN5[%zLyiyugagR8kBIqWXs-X6"
+  },
+  {
+    "id": "https://vnexpress.net/nhua-sinh-hoc-tim-cho-dung-5108012.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Nhựa sinh học tìm chỗ đứng",
+    "description": "Nhựa sinh học thường dùng để đúc muỗng nĩa, ống hút và dần phổ biến nhưng vẫn gặp rào cản về giá và hạ tầng xử lý sau sử dụng.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/08/13/straws-1786597981-6546-1786598216.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=e6TS6dRbt3icosP6ONRhxg",
+    "link": "https://vnexpress.net/nhua-sinh-hoc-tim-cho-dung-5108012.html",
+    "published_at": "Fri, 14 Aug 2026 03:00:00 +0700",
+    "createAt": "2026-08-13T20:00:00.000Z",
+    "thumbnail_blurhash": "LYPP_qjsS*xu~qbcWBn#XAWBngs:"
+  },
+  {
+    "id": "https://vnexpress.net/tom-hum-canada-gia-re-hut-khach-5108783.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Tôm hùm Canada giá rẻ hút khách",
+    "description": "Tôm hùm Canada hiện khá hút khách khi giá chỉ bằng một phần ba hàng Australia và thấp hơn cả một số loại tôm trong nước.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/08/13/screen-shot-at-pm-1786629931-4882-1786630975.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=EPAqSn69i2DZ7558-6f6-A",
+    "link": "https://vnexpress.net/tom-hum-canada-gia-re-hut-khach-5108783.html",
+    "published_at": "Fri, 14 Aug 2026 04:00:00 +0700",
+    "createAt": "2026-08-13T21:00:00.000Z",
+    "thumbnail_blurhash": "LECs,Nt7%M%g?^xaxubJx_%2M_M{"
   }
 ]
