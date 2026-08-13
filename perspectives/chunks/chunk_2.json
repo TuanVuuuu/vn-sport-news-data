@@ -830,5 +830,18 @@
     "published_at": "Thu, 13 Aug 2026 00:00:00 +0700",
     "createAt": "2026-08-12T17:00:00.000Z",
     "thumbnail_blurhash": "LFQmCr~WM{-;_3RjkCt7~qM{aeof"
+  },
+  {
+    "id": "https://vnexpress.net/khach-la-uav-5108922.html",
+    "category_id": "perspectives",
+    "category_name": "Góc nhìn",
+    "source": "VnExpress",
+    "title": "'Khách lạ' UAV",
+    "description": "Tôi từng nghĩ chiếc UAV cũng là một phương tiện. Muốn quản lý thì hãy đăng ký chủ sở hữu, cấp cho nó một mã số giống như biển số ôtô, xe máy. Khi có vi phạm, từ phương tiện truy ra người chịu trách nhiệm.",
+    "thumbnail_url": null,
+    "link": "https://vnexpress.net/khach-la-uav-5108922.html",
+    "published_at": "Thu, 13 Aug 2026 22:45:18 +0700",
+    "createAt": "2026-08-13T15:45:18.000Z",
+    "thumbnail_blurhash": null
   }
 ]
