@@ -557,5 +557,31 @@
     "published_at": "Thu, 13 Aug 2026 06:00:00 +0700",
     "createAt": "2026-08-12T23:00:00.000Z",
     "thumbnail_blurhash": "LJGlI+~p8wr=;O9FE1xa}X.8tlwM"
+  },
+  {
+    "id": "https://vnexpress.net/may-bay-made-in-china-thuc-hien-chuyen-bay-thuong-mai-quoc-te-dau-tien-5108522.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Máy bay 'Made in China' thực hiện chuyến bay thương mại quốc tế đầu tiên",
+    "description": "Chiếc C919 do Trung Quốc tự phát triển đã thực hiện chuyến bay thương mại quốc tế đầu tiên theo lịch trình vào ngày 12/8.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/08/13/c919-cgtn-jpeg-1786579673-2180-1786579686.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=LxqyMUf0fn9I0GNObbTzFA",
+    "link": "https://vnexpress.net/may-bay-made-in-china-thuc-hien-chuyen-bay-thuong-mai-quoc-te-dau-tien-5108522.html",
+    "published_at": "Thu, 13 Aug 2026 08:00:00 +0700",
+    "createAt": "2026-08-13T01:00:00.000Z",
+    "thumbnail_blurhash": "LSNw$ZWVWBoz_Nt7t7xujYofM{of"
+  },
+  {
+    "id": "https://vnexpress.net/ba-container-khai-bao-go-xe-chua-hon-1-2-tan-nga-voi-tai-quy-nhon-5108515.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Ba container khai báo gỗ xẻ chứa hơn 1,2 tấn ngà voi tại Quy Nhơn",
+    "description": "Ba container từ châu Phi về cảng Quy Nhơn được khai báo là gỗ xẻ, nhưng qua khám xét, Hải quan phát hiện nhiều ngà voi cùng xương động vật hoang dã.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/08/13/hai-quan-1786577909-4073-1786578230.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=I3jOfF-VO_flBhCIx-j3jg",
+    "link": "https://vnexpress.net/ba-container-khai-bao-go-xe-chua-hon-1-2-tan-nga-voi-tai-quy-nhon-5108515.html",
+    "published_at": "Thu, 13 Aug 2026 08:13:04 +0700",
+    "createAt": "2026-08-13T01:13:04.000Z",
+    "thumbnail_blurhash": "L5HU?|yT000000%#^$=?1O4n~q={"
   }
 ]
