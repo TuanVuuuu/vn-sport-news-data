@@ -895,5 +895,57 @@
     "published_at": "Thu, 13 Aug 2026 13:00:00 +0700",
     "createAt": "2026-08-13T06:00:00.000Z",
     "thumbnail_blurhash": "LCKLat?u4;I{_N4o?F-.^*%1IyXB"
+  },
+  {
+    "id": "https://vnexpress.net/tiem-botox-tri-mo-hoi-nach-sau-sinh-5108638.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Tiêm botox trị mồ hôi nách sau sinh",
+    "description": "Sau sinh con, chị Hằng, 36 tuổi, ra nhiều mồ hôi vùng nách gây mùi khó chịu, điều trị bằng tiêm botox.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/13/bs-tiem-botox-1786593659-7679-1786593675.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=8bnFfGJTMGjvvty47Y-rWA",
+    "link": "https://vnexpress.net/tiem-botox-tri-mo-hoi-nach-sau-sinh-5108638.html",
+    "published_at": "Thu, 13 Aug 2026 14:00:00 +0700",
+    "createAt": "2026-08-13T07:00:00.000Z",
+    "thumbnail_blurhash": "LQNmpFcts-$|?wt7RPRkx]ogNHkD"
+  },
+  {
+    "id": "https://vnexpress.net/sai-lam-khien-co-the-thieu-hoac-thua-protein-5108583.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Sai lầm khiến cơ thể thiếu hoặc thừa protein",
+    "description": "Ăn quá ít, dồn vào một bữa hoặc bỏ qua nguồn protein thực vật có thể khiến chế độ ăn mất cân đối, ảnh hưởng cơ bắp.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/13/anh-xao-thit-webp-1786591977-8583-1786592280.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Cs2v4Mhicl6qrmkUJesnYA",
+    "link": "https://vnexpress.net/sai-lam-khien-co-the-thieu-hoac-thua-protein-5108583.html",
+    "published_at": "Thu, 13 Aug 2026 14:00:00 +0700",
+    "createAt": "2026-08-13T07:00:00.000Z",
+    "thumbnail_blurhash": "L7FEfN~T0N$*;{x?V@$%0h9_NIxt"
+  },
+  {
+    "id": "https://vnexpress.net/an-trung-moi-ngay-tot-hay-xau-5108587.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Ăn trứng mỗi ngày tốt hay xấu?",
+    "description": "Nhà tôi hay ăn trứng, vậy ăn trứng mỗi ngày thực sự tốt cho sức khỏe hay lại âm thầm làm tăng cholesterol? Một ngày nên ăn bao nhiêu quả là hợp lý? (Linh, 30 tuổi, Hà Nội)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/13/00-1786590633-4135-1786591546.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=bG9Ly4NOKQ98MJkPuqcKeg",
+    "link": "https://vnexpress.net/an-trung-moi-ngay-tot-hay-xau-5108587.html",
+    "published_at": "Thu, 13 Aug 2026 14:00:27 +0700",
+    "createAt": "2026-08-13T07:00:27.000Z",
+    "thumbnail_blurhash": "LAH.1o4n00~W}?D*00%M4TRk~qM{"
+  },
+  {
+    "id": "https://vnexpress.net/hoa-dan-chau-tan-giu-dang-tuoi-51-nho-thoi-quen-an-cham-nhai-ky-5108627.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Hoa đán Châu Tấn giữ dáng tuổi 51 nhờ thói quen ăn chậm, nhai kỹ",
+    "description": "Thay vì áp dụng thực đơn ép cân khắt khe, minh tinh Châu Tấn gây bất ngờ khi giữ gìn sắc vóc tuổi ngũ tuần chỉ bằng việc chủ động kiểm soát nhịp độ ăn trong mỗi bữa.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/13/chautan-1786594263-3101-1786594341.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=fKQaJ-BS4Xkxv6VpD2voeA",
+    "link": "https://vnexpress.net/hoa-dan-chau-tan-giu-dang-tuoi-51-nho-thoi-quen-an-cham-nhai-ky-5108627.html",
+    "published_at": "Thu, 13 Aug 2026 14:01:29 +0700",
+    "createAt": "2026-08-13T07:01:29.000Z",
+    "thumbnail_blurhash": "LIIXpt000Lu6Hq_NE3M}tkjXt8M|"
   }
 ]
