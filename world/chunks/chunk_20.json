@@ -440,5 +440,31 @@
     "published_at": "Fri, 14 Aug 2026 05:00:00 +0700",
     "createAt": "2026-08-13T22:00:00.000Z",
     "thumbnail_blurhash": "LAA0?#Di4To}*09ZnMxHDjV?_2M}"
+  },
+  {
+    "id": "https://vnexpress.net/nga-phan-bac-nhat-ve-chuyen-tham-quan-dao-tranh-chap-cua-ong-putin-5108948.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Nga phản bác Nhật về chuyến thăm quần đảo tranh chấp của ông Putin",
+    "description": "Moskva mô tả những tuyên bố từ Tokyo là \"vô căn cứ, gây phẫn nộ\", sau khi Nhật Bản phản đối ông Putin thăm quần đảo Kuril tranh chấp.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/14/afp-c4jl3vb-v1-highres-russiap-7607-8516-1786665254.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=uiB9pWbxSC9D96q79Bn03w",
+    "link": "https://vnexpress.net/nga-phan-bac-nhat-ve-chuyen-tham-quan-dao-tranh-chap-cua-ong-putin-5108948.html",
+    "published_at": "Fri, 14 Aug 2026 06:54:46 +0700",
+    "createAt": "2026-08-13T23:54:46.000Z",
+    "thumbnail_blurhash": "LSD]rL_4bwadnMITM{xtV?WARkxt"
+  },
+  {
+    "id": "https://vnexpress.net/ton-that-voi-ong-trump-khi-phat-ngon-vien-leavitt-tu-chuc-5108533.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Tổn thất với ông Trump khi phát ngôn viên Leavitt từ chức",
+    "description": "Karoline Leavitt rời Nhà Trắng khiến Tổng thống Trump mất trợ lý thân tín và gương mặt truyền thông nổi bật, trong lúc Mỹ chuẩn bị bước vào bầu cử giữa kỳ.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/13/afpw83tx-v1-highres-uspolitics-3780-4904-1786611507.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=MF_t11Q1I9XpRrxpRwA2dg",
+    "link": "https://vnexpress.net/ton-that-voi-ong-trump-khi-phat-ngon-vien-leavitt-tu-chuc-5108533.html",
+    "published_at": "Fri, 14 Aug 2026 07:00:00 +0700",
+    "createAt": "2026-08-14T00:00:00.000Z",
+    "thumbnail_blurhash": "LG9tcWxu5AxW.TbvE2jEo~W=VsWB"
   }
 ]
