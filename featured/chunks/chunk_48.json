@@ -739,5 +739,44 @@
     "published_at": "Fri, 14 Aug 2026 15:15:07 +0700",
     "createAt": "2026-08-14T08:15:07.000Z",
     "thumbnail_blurhash": "LkH.p4xWROs:?wRkE1WUxatQbaNG"
+  },
+  {
+    "id": "https://vnexpress.net/chung-khoan-giam-them-37-diem-5109204.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Chứng khoán giảm thêm 37 điểm",
+    "description": "Áp lực bán lan rộng khắp thị trường khiến chứng khoán giảm gần 37 điểm, trong đó, cổ phiếu Vingroup về sát 200.000 đồng trở thành lực cản chính.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/08/14/wm1-wm1-233a7521-1786695762-8546-1786695849.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=CmgOmwW4OWa4hvHCFRrl2w",
+    "link": "https://vnexpress.net/chung-khoan-giam-them-37-diem-5109204.html",
+    "published_at": "Fri, 14 Aug 2026 15:51:03 +0700",
+    "createAt": "2026-08-14T08:51:03.000Z",
+    "thumbnail_blurhash": "LLB|8C~p_3?v-p-;%Mx]xat8kCof"
+  },
+  {
+    "id": "https://vnexpress.net/lap-to-cong-tac-dau-tu-thiet-bi-phat-hien-uav-tai-san-bay-5109201.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Lập tổ công tác, đầu tư thiết bị phát hiện UAV tại sân bay",
+    "description": "Cục Hàng không Việt Nam đang phối hợp với Cục Quản lý xuất nhập cảnh, Bộ Công an thành lập Tổ công tác phát hiện, ứng phó với UAV.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/14/dng-1786697937-6061-1786697954.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=OYiShUvN56n6DbVmhVHu-Q",
+    "link": "https://vnexpress.net/lap-to-cong-tac-dau-tu-thiet-bi-phat-hien-uav-tai-san-bay-5109201.html",
+    "published_at": "Fri, 14 Aug 2026 15:51:32 +0700",
+    "createAt": "2026-08-14T08:51:32.000Z",
+    "thumbnail_blurhash": "LJEDI,bDInozKTRjofog.An+%Mof"
+  },
+  {
+    "id": "https://vnexpress.net/de-toan-thi-lai-tot-nghiep-thpt-chuyen-tuyen-quang-2026-5108902.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Đề Toán thi lại tốt nghiệp ở chuyên Tuyên Quang",
+    "description": "Một số thí sinh căng thẳng khi rời trường chuyên Tuyên Quang sau bài thi môn Toán, đề gồm 22 câu, trong đó 4 câu yêu cầu chọn Đúng/Sai và 6 câu trả lời ngắn.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/14/wm1-wm1-wm1-1786699440-7216-1786699453.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=NbCiUtO7mIqOVJ569-fvyA",
+    "link": "https://vnexpress.net/de-toan-thi-lai-tot-nghiep-thpt-chuyen-tuyen-quang-2026-5108902.html",
+    "published_at": "Fri, 14 Aug 2026 16:17:13 +0700",
+    "createAt": "2026-08-14T09:17:13.000Z",
+    "thumbnail_blurhash": "LEI5b[~pR#M^NCxobXt3J4t7xb%2"
   }
 ]
