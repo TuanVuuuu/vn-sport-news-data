@@ -843,5 +843,31 @@
     "published_at": "Sat, 15 Aug 2026 01:00:00 +0700",
     "createAt": "2026-08-14T18:00:00.000Z",
     "thumbnail_blurhash": "LWODkBIV?b-;~qxuWAWBM|t7M{RP"
+  },
+  {
+    "id": "https://vnexpress.net/thiet-hai-nha-may-loc-dau-nga-qua-anh-ve-tinh-5108609.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Thiệt hại nhà máy lọc dầu Nga qua ảnh vệ tinh",
+    "description": "Dữ liệu ảnh nhiệt vệ tinh cho thấy thiệt hại tại các nhà máy lọc dầu Nga sau chiến dịch tập kích bằng UAV tầm xa của Ukraine.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/13/ukraine-1786617740-7399-1786618008.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=22u9O77hHVCB-LUV-Cs23g",
+    "link": "https://vnexpress.net/thiet-hai-nha-may-loc-dau-nga-qua-anh-ve-tinh-5108609.html",
+    "published_at": "Sat, 15 Aug 2026 05:00:00 +0700",
+    "createAt": "2026-08-14T22:00:00.000Z",
+    "thumbnail_blurhash": "LDB|Ni#*EkF|9#xD%MXT*0EMRj-T"
+  },
+  {
+    "id": "https://vnexpress.net/thuy-thu-tren-tau-san-bay-my-than-phien-ve-tinh-trang-thieu-sua-thit-oi-thiu-5109078.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Thủy thủ trên tàu sân bay Mỹ than phiền về tình trạng thiếu sữa, thịt ôi thiu",
+    "description": "Thủy thủ trên tàu USS Abraham Lincoln nhắn tin về cho người thân cho biết đã ba tháng không có sữa uống còn thịt vận chuyển đến bị ôi thiu.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/15/tau-san-bay-1786746915-5422-1786747164.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Bdr1FJnXR1HYL4NExojF1w",
+    "link": "https://vnexpress.net/thuy-thu-tren-tau-san-bay-my-than-phien-ve-tinh-trang-thieu-sua-thit-oi-thiu-5109078.html",
+    "published_at": "Sat, 15 Aug 2026 05:40:01 +0700",
+    "createAt": "2026-08-14T22:40:01.000Z",
+    "thumbnail_blurhash": "L+Ao5cxut7ogt:ofoLj]IVWBaya}"
   }
 ]
