@@ -843,5 +843,18 @@
     "published_at": "Fri, 14 Aug 2026 16:23:26 +0700",
     "createAt": "2026-08-14T09:23:26.000Z",
     "thumbnail_blurhash": "LLF$FXVYK4S#_N4.xu$%%hIUs:ae"
+  },
+  {
+    "id": "https://vnexpress.net/spotify-dan-nhan-ca-si-ai-5109022.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Spotify 'dán nhãn' ca sĩ AI",
+    "description": "Spotify sẽ gắn nhãn cho các tài khoản được tạo bằng AI, đồng thời không đưa các nội dung này vào danh sách đề xuất dành cho người dùng.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/08/14/the-velvet-sundown-1786677871-6308-1786677992.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=tTxP_Ry43L7EskQDSEdVSQ",
+    "link": "https://vnexpress.net/spotify-dan-nhan-ca-si-ai-5109022.html",
+    "published_at": "Fri, 14 Aug 2026 18:00:00 +0700",
+    "createAt": "2026-08-14T11:00:00.000Z",
+    "thumbnail_blurhash": "LDA+ZuW;EPoK}:j[NJj@xYxFR+a}"
   }
 ]
