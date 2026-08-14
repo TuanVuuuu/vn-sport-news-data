@@ -349,5 +349,83 @@
     "published_at": "Sat, 15 Aug 2026 06:00:00 +0700",
     "createAt": "2026-08-14T23:00:00.000Z",
     "thumbnail_blurhash": "LOGb-lad_3X9.AIV-;WD~qIU-;t7"
+  },
+  {
+    "id": "https://vnexpress.net/dong-dat-7-7-do-gay-canh-bao-song-than-ngoai-khoi-indonesia-5109323.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Động đất 7,7 độ gây cảnh báo sóng thần ngoài khơi Indonesia",
+    "description": "Trận động đất mạnh 7,7 độ xảy ra tại vùng biển ngoài khơi khu vực Flores, khiến Indonesia phát cảnh báo sớm về sóng thần.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/15/screenshot-at-1786748125-7047-1786748194.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=yFTzu3SLYXwLDlk2Aan3qQ",
+    "link": "https://vnexpress.net/dong-dat-7-7-do-gay-canh-bao-song-than-ngoai-khoi-indonesia-5109323.html",
+    "published_at": "Sat, 15 Aug 2026 06:03:05 +0700",
+    "createAt": "2026-08-14T23:03:05.000Z",
+    "thumbnail_blurhash": "LLLicg^*sBpKPXNfI[xWI_s:oGR-"
+  },
+  {
+    "id": "https://vnexpress.net/apple-tim-cach-giam-muc-tang-gia-iphone-18-pro-5108917.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Apple tìm cách giảm mức tăng giá iPhone 18 Pro",
+    "description": "Apple được cho là đang nỗ lực giảm mức tăng giá iPhone 18 Pro bằng cách sử dụng tấm nền OLED cũ và tăng kho trữ linh kiện.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/13/iphone-pro-may-resolve-one-178-6493-4557-1786634037.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=fh2c5iq6o8iqh0gCCfa1FA",
+    "link": "https://vnexpress.net/apple-tim-cach-giam-muc-tang-gia-iphone-18-pro-5108917.html",
+    "published_at": "Sat, 15 Aug 2026 06:15:00 +0700",
+    "createAt": "2026-08-14T23:15:00.000Z",
+    "thumbnail_blurhash": "L49r|s=#EKIn}^s;InRj=#t7EKI."
+  },
+  {
+    "id": "https://vnexpress.net/nguoi-viet-va-cu-soc-ngay-chu-nhat-o-duc-5106093.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Người Việt và 'cú sốc' ngày chủ nhật ở Đức",
+    "description": "Siêu thị đóng cửa, đường phố vắng lặng và luật cấm tiếng ồn (luật Ruhetag) vào chủ nhật ở Đức khiến nhiều người Việt vất vả học cách thích nghi.",
+    "thumbnail_url": "https://vcdn1-giadinh.vnecdn.net/2026/08/15/screen-shot-at-1786728617-1871-1786728656.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=hVVQqJrlap-rD66bE1AZYg",
+    "link": "https://vnexpress.net/nguoi-viet-va-cu-soc-ngay-chu-nhat-o-duc-5106093.html",
+    "published_at": "Sat, 15 Aug 2026 06:30:00 +0700",
+    "createAt": "2026-08-14T23:30:00.000Z",
+    "thumbnail_blurhash": "LIFP4n?p-i${~o%Kxong.8V@M|ac"
+  },
+  {
+    "id": "https://vnexpress.net/robotaxi-cua-nissan-co-the-chay-thu-vao-cuoi-nam-5109103.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Robotaxi của Nissan có thể chạy thử vào cuối năm",
+    "description": "Uber dự kiến vận hành thử nghiệm taxi tự lái của Nissan tại Tokyo từ cuối năm, có tài xế dự phòng trên xe.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/14/Nissan1-1786682725-8279-1786683234.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=NXY8PynR9Mfe-eq8wZvVrw",
+    "link": "https://vnexpress.net/robotaxi-cua-nissan-co-the-chay-thu-vao-cuoi-nam-5109103.html",
+    "published_at": "Sat, 15 Aug 2026 06:30:00 +0700",
+    "createAt": "2026-08-14T23:30:00.000Z",
+    "thumbnail_blurhash": "LBFiMo-:VrRj~pt6oeM{00M{%gt6"
+  },
+  {
+    "id": "https://vnexpress.net/ve-tran-singapore-gap-thai-lan-tang-gia-30-lan-5109322.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Vé trận Singapore gặp Thái Lan tăng giá 30 lần",
+    "description": "Vé trận Singapore gặp Thái Lan ở lượt đi bán kết ASEAN Cup 2026 được bán hết nhanh chóng, trở thành một hiện tượng gây tranh cãi tại đảo quốc sư tử.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/08/15/769654203-n-1786731969-6153-1786731981.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=_NJ4bA2s--mlhk7Au-Xgzw",
+    "link": "https://vnexpress.net/ve-tran-singapore-gap-thai-lan-tang-gia-30-lan-5109322.html",
+    "published_at": "Sat, 15 Aug 2026 06:31:41 +0700",
+    "createAt": "2026-08-14T23:31:41.000Z",
+    "thumbnail_blurhash": "L7HTmV^j2Sxs3TtR}ZN[0H%2KHR."
+  },
+  {
+    "id": "https://vnexpress.net/cau-thu-tuoi-teen-nang-100-kg-ghi-ban-vao-luoi-psg-la-ai-5108980.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Cầu thủ tuổi teen, nặng 100 kg, ghi bàn vào lưới PSG là ai?",
+    "description": "Brian Madjo của Aston Villa vụt sáng sau một đêm nhờ màn trình diễn ấn tượng và bàn thắng trước ĐKVĐ Champions League, ở trận tranh Siêu Cup châu Âu.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/08/14/ap262247195162891-1786717167-8689-1786717447.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=uNDPyA5sAOqknTrgrvkuvQ",
+    "link": "https://vnexpress.net/cau-thu-tuoi-teen-nang-100-kg-ghi-ban-vao-luoi-psg-la-ai-5108980.html",
+    "published_at": "Sat, 15 Aug 2026 06:36:52 +0700",
+    "createAt": "2026-08-14T23:36:52.000Z",
+    "thumbnail_blurhash": "LCAKmQ?KxukhI-IUM^M^NXtPxuxw"
   }
 ]
