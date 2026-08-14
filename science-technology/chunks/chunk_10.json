@@ -323,5 +323,31 @@
     "published_at": "Fri, 14 Aug 2026 10:17:05 +0700",
     "createAt": "2026-08-14T03:17:05.000Z",
     "thumbnail_blurhash": "L9Hx$yDj-}IU?]-h#hXS.T^*XA-="
+  },
+  {
+    "id": "https://vnexpress.net/du-lich-cong-nghe-bung-no-tai-trung-quoc-5108865.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "'Du lịch công nghệ' bùng nổ tại Trung Quốc",
+    "description": "Các chuyến du lịch chuyên tham quan nhà máy, trải nghiệm taxi tự lái và robot hình người đang hút khách, giúp củng cố \"quyền lực mềm\" của Trung Quốc.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/13/5562e950fd0f90b3f7a646ee833a57-8553-9003-1786622050.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=EbKiiiNTwcvicCtNzjsndA",
+    "link": "https://vnexpress.net/du-lich-cong-nghe-bung-no-tai-trung-quoc-5108865.html",
+    "published_at": "Fri, 14 Aug 2026 12:00:00 +0700",
+    "createAt": "2026-08-14T05:00:00.000Z",
+    "thumbnail_blurhash": "LaHLuMo#ad%L.8RjjZ%M_4RjV@%M"
+  },
+  {
+    "id": "https://vnexpress.net/tau-noi-da-nang-tu-san-xuat-dien-cho-32-000-ho-5108820.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Tàu nổi đa năng tự sản xuất điện cho 32.000 hộ",
+    "description": "Mẫu tàu nổi không thải khí của công ty Optimal Transit có thể sản xuất đủ điện cho 32.000 hộ gia đình và nước sạch cho 150.000 người.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/13/VNEVessel-1786614175-2113-1786614238.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=cHInBUBl-sR6ma9_SDVArQ",
+    "link": "https://vnexpress.net/tau-noi-da-nang-tu-san-xuat-dien-cho-32-000-ho-5108820.html",
+    "published_at": "Fri, 14 Aug 2026 12:00:00 +0700",
+    "createAt": "2026-08-14T05:00:00.000Z",
+    "thumbnail_blurhash": "L79Q,OkX00_3xYt7%Mj]00xu~pIU"
   }
 ]
