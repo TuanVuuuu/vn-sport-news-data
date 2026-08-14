@@ -1,6 +1,19 @@
 {
   "featured": [
     {
+      "id": "https://vnexpress.net/khac-biet-trong-hai-vu-doi-chuyen-co-cua-tong-thong-clinton-va-trump-5108337.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Khác biệt trong hai vụ đổi chuyên cơ của tổng thống Clinton và Trump",
+      "description": "Cùng dùng đòn nghi binh đổi chuyên cơ để né nguy hiểm, nhưng cách Nhà Trắng ứng xử với báo chí thời ông Clinton và ông Trump lại trái ngược, tạo nên nhiều tranh cãi.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/12/bill-clinton-afp-1786531419-9274-1786531910.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=5CGOrN-V8JiEXd_B5YKdWA",
+      "link": "https://vnexpress.net/khac-biet-trong-hai-vu-doi-chuyen-co-cua-tong-thong-clinton-va-trump-5108337.html",
+      "published_at": "Fri, 14 Aug 2026 09:41:50 +0700",
+      "createAt": "2026-08-14T02:41:50.000Z",
+      "thumbnail_blurhash": "LfI}#Et8M{IU_NM{oeWBM{IUxuxu"
+    },
+    {
       "id": "https://vnexpress.net/co-quan-dieu-tra-thong-tin-ban-dau-ve-nguyen-nhan-lat-vu-lat-cano-tai-phu-quoc-5109051.html",
       "category_id": "featured",
       "category_name": "Tin nổi bật",
@@ -12,6 +25,19 @@
       "published_at": "Fri, 14 Aug 2026 10:46:37 +0700",
       "createAt": "2026-08-14T03:46:37.000Z",
       "thumbnail_blurhash": "L9F$#7=}s;~W9Z0K9tIo56.8~qIV"
+    },
+    {
+      "id": "https://vnexpress.net/nguoi-tu-lo-tai-dinh-cu-co-the-duoc-ho-tro-them-10-tien-dat-5109208.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Người tự lo tái định cư có thể được hỗ trợ thêm 10% tiền đất",
+      "description": "Người bàn giao đất trước hạn được đề xuất thưởng, trong khi người đủ điều kiện tái định cư nhưng tự lo chỗ ở có thể nhận thêm 5-10% giá trị bồi thường về đất.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/14/dji-1786695987-6860-1786696087.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=hIHTqGd-vFQgYob_UNGDOw",
+      "link": "https://vnexpress.net/nguoi-tu-lo-tai-dinh-cu-co-the-duoc-ho-tro-them-10-tien-dat-5109208.html",
+      "published_at": "Fri, 14 Aug 2026 15:48:09 +0700",
+      "createAt": "2026-08-14T08:48:09.000Z",
+      "thumbnail_blurhash": "LNEylGtRkBt7_4s:s:bG.9xuoeof"
     },
     {
       "id": "https://vnexpress.net/nuoc-nhu-thac-tran-vao-ga-tau-dien-nhat-ban-sau-mua-lon-5109244.html",
@@ -51,6 +77,71 @@
       "published_at": "Fri, 14 Aug 2026 18:04:31 +0700",
       "createAt": "2026-08-14T11:04:31.000Z",
       "thumbnail_blurhash": "LhFiP.s=x8xB~oaybdkD?aWUW@bc"
+    },
+    {
+      "id": "https://vnexpress.net/hlv-doi-tuyen-thai-lan-de-cao-singapore-truoc-ban-ket-asean-cup-5109276.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "HLV đội tuyển Thái Lan đề cao Singapore trước bán kết ASEAN Cup",
+      "description": "HLV Anthony Hudson của Thái Lan đánh giá Singapore đang tiến bộ không ngừng và sở hữu thực lực không thể xem nhẹ ở bán kết ASEAN Cup 2026.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/08/14/771694483-n-jpeg-1786706419-8691-1786706551.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=EZ-VnFCdY4aclLYs-zN2JA",
+      "link": "https://vnexpress.net/hlv-doi-tuyen-thai-lan-de-cao-singapore-truoc-ban-ket-asean-cup-5109276.html",
+      "published_at": "Fri, 14 Aug 2026 18:25:35 +0700",
+      "createAt": "2026-08-14T11:25:35.000Z",
+      "thumbnail_blurhash": "LfJRaaOGXp%h?dRjkXWYE2VuNHjF"
+    },
+    {
+      "id": "https://vnexpress.net/de-toan-thi-lai-o-chuyen-tuyen-quang-so-voi-dot-1-nhu-the-nao-5109255.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Đề Toán thi lại ở Tuyên Quang có dạng bài giống đợt 1",
+      "description": "Đề Toán thi lại ở chuyên Tuyên Quang có sự tương đồng về cấu trúc, với các dạng bài giống lần thi chính thức, theo các giáo viên.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/14/be6418b5ab6fdd-a1fbafd11274fa-4352-3830-1786710136.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Rnr32yUu4_L87VYid0ARvA",
+      "link": "https://vnexpress.net/de-toan-thi-lai-o-chuyen-tuyen-quang-so-voi-dot-1-nhu-the-nao-5109255.html",
+      "published_at": "Fri, 14 Aug 2026 18:38:28 +0700",
+      "createAt": "2026-08-14T11:38:28.000Z",
+      "thumbnail_blurhash": "L9H2fy.79Xs;~pWT9YRP_1aeIpD%"
+    },
+    {
+      "id": "https://vnexpress.net/8-nam-leavitt-chinh-phuc-ghe-nong-phat-ngon-vien-nha-trang-5108824.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "8 năm Leavitt chinh phục ghế nóng phát ngôn viên Nhà Trắng",
+      "description": "Karoline Leavitt bắt đầu sự nghiệp với tư cách thực tập sinh ở Nhà Trắng rồi trở thành phát ngôn viên trẻ nhất lịch sử Mỹ.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/14/afp-v4-highres-presidenttrumpspendsfirstfulldayofhissecondt-1786641332.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=2LJ2MNllyWCDFpExxxEGDQ",
+      "link": "https://vnexpress.net/8-nam-leavitt-chinh-phuc-ghe-nong-phat-ngon-vien-nha-trang-5108824.html",
+      "published_at": "Fri, 14 Aug 2026 19:00:00 +0700",
+      "createAt": "2026-08-14T12:00:00.000Z",
+      "thumbnail_blurhash": "LEDR]EI=AYRP?]IVMyRP-CR-gNog"
+    },
+    {
+      "id": "https://vnexpress.net/singapore-phat-tien-cho-2-4-trieu-dan-trong-con-bao-gia-5109238.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Singapore phát tiền cho 2,4 triệu dân trong cơn bão giá",
+      "description": "Hơn 2,4 triệu người dân Singapore đủ điều kiện sẽ nhận khoản trợ cấp 400-600 đôla Singapore (310-470 USD) để ứng phó với chi phí sinh hoạt ngày càng tăng.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/14/afp2022100632kt8awv1highressin-5110-8487-1786700027.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ouaIgMJZTuu82nwuPtUVpg",
+      "link": "https://vnexpress.net/singapore-phat-tien-cho-2-4-trieu-dan-trong-con-bao-gia-5109238.html",
+      "published_at": "Fri, 14 Aug 2026 19:08:53 +0700",
+      "createAt": "2026-08-14T12:08:53.000Z",
+      "thumbnail_blurhash": "LBFrnu^F0000.TVC-CWA0KIpWXyD"
+    },
+    {
+      "id": "https://vnexpress.net/doi-tuyen-viet-nam-hung-khoi-truoc-ban-ket-asean-cup-5109278.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Đội tuyển Việt Nam hứng khởi trước bán kết ASEAN Cup",
+      "description": "Thầy trò Kim Sang-sik hoàn thiện những bước chuẩn bị cuối cùng trước khi chạm trán chủ nhà Malaysia ở lượt đi bán kết ASEAN Cup 2026.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/08/14/wm1-ddada-1786709078.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=_vHhGDEIBwX1dRC8WPElCQ",
+      "link": "https://vnexpress.net/doi-tuyen-viet-nam-hung-khoi-truoc-ban-ket-asean-cup-5109278.html",
+      "published_at": "Fri, 14 Aug 2026 19:36:26 +0700",
+      "createAt": "2026-08-14T12:36:26.000Z",
+      "thumbnail_blurhash": "LOKwdx.j7K-.VR=|I?xt*I-V#8f$"
     }
   ]
 }
