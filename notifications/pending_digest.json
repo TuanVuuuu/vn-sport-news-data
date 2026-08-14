@@ -1,3 +1,69 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/3-rao-can-khien-mot-so-nam-gioi-viet-kho-tim-vo-5105474.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "3 rào cản khiến một số nam giới Việt khó tìm vợ",
+      "description": "Theo các chuyên gia mai mối, nhiều nam giới ngoài 30 tuổi có thu nhập ổn định nhưng vẫn khó kết hôn do thiếu kỹ năng hẹn hò và đặt tiêu chuẩn bạn đời không thực tế.",
+      "thumbnail_url": "https://vcdn1-giadinh.vnecdn.net/2026/08/09/45-1786167898-1339-1786239519.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=L0yJt6n7l4lhJiKGB_MGWw",
+      "link": "https://vnexpress.net/3-rao-can-khien-mot-so-nam-gioi-viet-kho-tim-vo-5105474.html",
+      "published_at": "Fri, 14 Aug 2026 06:29:00 +0700",
+      "createAt": "2026-08-13T23:29:00.000Z",
+      "thumbnail_blurhash": "LHDa[INy0$}=rYbHNwr?xZI;o0$%"
+    },
+    {
+      "id": "https://vnexpress.net/cao-toc-ben-luc-long-thanh-du-kien-thong-xe-toan-tuyen-trong-thang-9-5108906.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Cao tốc Bến Lức - Long Thành dự kiến thông xe toàn tuyến trong tháng 9",
+      "description": "Phần lớn khối lượng xây lắp cao tốc Bến Lức - Long Thành cơ bản hoàn thành, nhà thầu đang đẩy nhanh thi công hạng mục cuối, dự kiến thông xe toàn tuyến tháng 9.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/13/dji-1786631544-5200-1786631558.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ilJDn_LpZRkNMeHB8pEQQw",
+      "link": "https://vnexpress.net/cao-toc-ben-luc-long-thanh-du-kien-thong-xe-toan-tuyen-trong-thang-9-5108906.html",
+      "published_at": "Fri, 14 Aug 2026 09:33:26 +0700",
+      "createAt": "2026-08-14T02:33:26.000Z",
+      "thumbnail_blurhash": "LCEfi~_4tSkXOG56oJtQ0KIUxuRk"
+    },
+    {
+      "id": "https://vnexpress.net/giao-vien-phi-tang-thi-the-nu-dong-nghiep-5109061.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Giáo viên phi tang thi thể nữ đồng nghiệp",
+      "description": "Sau tiệc liên hoan tại trường, giáo viên môn Thể dục Trường Tiểu học Lê Đình Chinh xảy ra mâu thuẫn tình cảm, nên sát hại nữ đồng nghiệp và phi tang trong rẫy cà phê.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/14/thithe1786672416370-1786678829-5580-1786678987.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Qk6xflrnugBF-l6uvoOeLQ",
+      "link": "https://vnexpress.net/giao-vien-phi-tang-thi-the-nu-dong-nghiep-5109061.html",
+      "published_at": "Fri, 14 Aug 2026 11:43:27 +0700",
+      "createAt": "2026-08-14T04:43:27.000Z",
+      "thumbnail_blurhash": "L6GIlu#s00ou00M|_3Rj.lpI~qn,"
+    },
+    {
+      "id": "https://vnexpress.net/de-van-thi-lai-o-chuyen-tuyen-quang-de-hay-kho-hon-dot-1-5109085.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Đề Văn thi lại ở chuyên Tuyên Quang 'mềm mại, trực diện'",
+      "description": "Nhiều giáo viên nhận định đề Văn thi lại ở Tuyên Quang mềm mại, dễ hiểu, thí sinh sẽ có lợi thế hơn, nhưng cũng có người thấy độ phân hóa nhỉnh hơn đợt 1.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/14/2aoboqrmak94mawc6gsmc2ul21c7o7-8490-6286-1786681792.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=s65m8hztkdCaNeDsVnjOlw",
+      "link": "https://vnexpress.net/de-van-thi-lai-o-chuyen-tuyen-quang-de-hay-kho-hon-dot-1-5109085.html",
+      "published_at": "Fri, 14 Aug 2026 11:56:29 +0700",
+      "createAt": "2026-08-14T04:56:29.000Z",
+      "thumbnail_blurhash": "L9LeG{HD0$:4EKm,s.tl0fMxW.tS"
+    },
+    {
+      "id": "https://vnexpress.net/du-lich-cong-nghe-bung-no-tai-trung-quoc-5108865.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "'Du lịch công nghệ' bùng nổ tại Trung Quốc",
+      "description": "Các chuyến du lịch chuyên tham quan nhà máy, trải nghiệm taxi tự lái và robot hình người đang hút khách, giúp củng cố \"quyền lực mềm\" của Trung Quốc.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/13/5562e950fd0f90b3f7a646ee833a57-8553-9003-1786622050.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=EbKiiiNTwcvicCtNzjsndA",
+      "link": "https://vnexpress.net/du-lich-cong-nghe-bung-no-tai-trung-quoc-5108865.html",
+      "published_at": "Fri, 14 Aug 2026 12:00:00 +0700",
+      "createAt": "2026-08-14T05:00:00.000Z",
+      "thumbnail_blurhash": "LaHLuMo#ad%L.8RjjZ%M_4RjV@%M"
+    }
+  ]
 }
