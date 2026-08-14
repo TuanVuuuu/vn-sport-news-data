@@ -1,6 +1,19 @@
 {
   "featured": [
     {
+      "id": "https://vnexpress.net/co-quan-dieu-tra-thong-tin-ban-dau-ve-nguyen-nhan-lat-vu-lat-cano-tai-phu-quoc-5109051.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Cơ quan điều tra thông tin ban đầu về nguyên nhân lật vụ lật canô tại Phú Quốc",
+      "description": "Thuyền trưởng Nguyễn Hồng Hải bị cáo buộc đã chủ quan khi điều khiển canô trong điều kiện gió to sóng lớn, là nguyên nhân lật phương tiện khiến 15 du khách Ấn Độ tử vong.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/14/screenshot-1786678150-4545-1786678398.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=9yAHWlx9Rm_tf9pVKnpFjw",
+      "link": "https://vnexpress.net/co-quan-dieu-tra-thong-tin-ban-dau-ve-nguyen-nhan-lat-vu-lat-cano-tai-phu-quoc-5109051.html",
+      "published_at": "Fri, 14 Aug 2026 10:46:37 +0700",
+      "createAt": "2026-08-14T03:46:37.000Z",
+      "thumbnail_blurhash": "L9F$#7=}s;~W9Z0K9tIo56.8~qIV"
+    },
+    {
       "id": "https://vnexpress.net/nuoc-nhu-thac-tran-vao-ga-tau-dien-nhat-ban-sau-mua-lon-5109244.html",
       "category_id": "featured",
       "category_name": "Tin nổi bật",
@@ -25,6 +38,19 @@
       "published_at": "Fri, 14 Aug 2026 17:44:03 +0700",
       "createAt": "2026-08-14T10:44:03.000Z",
       "thumbnail_blurhash": "LhNvJ0V?~8Rj~UNGIqt6NHWCWEs."
+    },
+    {
+      "id": "https://vnexpress.net/ke-dung-dao-truy-sat-ca-nha-ban-gai-linh-an-tu-hinh-5109269.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Kẻ dùng dao truy sát cả nhà bạn gái lĩnh án tử hình",
+      "description": "Bực tức khi nghe mẹ và anh của người tình khuyên cô không nên tiếp tục sống chung với mình, Lư Phước Hải cầm dao tấn công 3 người, khiến một nạn nhân tử vong.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/14/178670193632415191411335512311-5122-1636-1786704309.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=7qZnLqso2sMe-UgNWd5Rnw",
+      "link": "https://vnexpress.net/ke-dung-dao-truy-sat-ca-nha-ban-gai-linh-an-tu-hinh-5109269.html",
+      "published_at": "Fri, 14 Aug 2026 18:04:31 +0700",
+      "createAt": "2026-08-14T11:04:31.000Z",
+      "thumbnail_blurhash": "LhFiP.s=x8xB~oaybdkD?aWUW@bc"
     }
   ]
 }
