@@ -947,5 +947,31 @@
     "published_at": "Fri, 14 Aug 2026 09:27:19 +0700",
     "createAt": "2026-08-14T02:27:19.000Z",
     "thumbnail_blurhash": "L7F6vj?X==?E?,jXac^cI.RlRpWZ"
+  },
+  {
+    "id": "https://vnexpress.net/dau-bep-viet-xe-ca-ngu-nhat-ban-220-kg-gia-gan-mot-ty-dong-5108925.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Đầu bếp Việt xẻ cá ngừ Nhật Bản 220 kg, giá gần một tỷ đồng",
+    "description": "Tối 13/8, các đầu bếp Việt thực hiện nghi thức xẻ cá ngừ vây xanh nặng gần 220 kg, được mua trong ngày từ Nhật Bản với chi phí gần một tỷ đồng.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/08/14/cangu200kg-of-1786671333.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=B3QqL-dLGFKarSCq1N1RWQ",
+    "link": "https://vnexpress.net/dau-bep-viet-xe-ca-ngu-nhat-ban-220-kg-gia-gan-mot-ty-dong-5108925.html",
+    "published_at": "Fri, 14 Aug 2026 09:52:47 +0700",
+    "createAt": "2026-08-14T02:52:47.000Z",
+    "thumbnail_blurhash": "LAHT,g[Bt,~DQ8McI:Eg00Ef4n^,"
+  },
+  {
+    "id": "https://vnexpress.net/saigontourist-group-hop-tac-thuc-day-dong-khach-viet-nam-new-zealand-5108918.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Saigontourist Group hợp tác thúc đẩy dòng khách Việt Nam - New Zealand",
+    "description": "Saigontourist Group, Vietnam Airlines và Distinction Hotels Group kết nối hàng không, lưu trú, lữ hành, thúc đẩy du lịch bền vững giữa Việt Nam - New Zealand.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/08/13/1786612825569-a6ae7b9239594d11-4584-5299-1786635100.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=hdpxBMeftjJ3zA-msNuyiQ",
+    "link": "https://vnexpress.net/saigontourist-group-hop-tac-thuc-day-dong-khach-viet-nam-new-zealand-5108918.html",
+    "published_at": "Fri, 14 Aug 2026 10:00:00 +0700",
+    "createAt": "2026-08-14T03:00:00.000Z",
+    "thumbnail_blurhash": "LNBp93nke.oc~Ws:juWBtQozoyRj"
   }
 ]
