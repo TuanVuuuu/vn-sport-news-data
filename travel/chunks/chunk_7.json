@@ -1103,5 +1103,31 @@
     "published_at": "Sat, 15 Aug 2026 11:00:36 +0700",
     "createAt": "2026-08-15T04:00:36.000Z",
     "thumbnail_blurhash": "LEK,BA^,xv?I02^kXSIV~X^RPUKi"
+  },
+  {
+    "id": "https://vnexpress.net/thap-sau-rieng-cao-18-m-o-dak-lak-5109389.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Tháp sầu riêng cao 18 m ở Đăk Lăk",
+    "description": "Mô hình tháp sầu riêng cao 18 m, lấy cảm hứng từ chiếc gùi của người Ê Đê, được dựng tại Quảng trường 10 Tháng 3, tạo điểm nhấn cho Lễ hội Sầu riêng Đăk Lăk 2026.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/08/15/gemini-generated-image-xxlpi6x-9180-5055-1786762683.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=eFcdiLm9-3vMuRLDIASocA",
+    "link": "https://vnexpress.net/thap-sau-rieng-cao-18-m-o-dak-lak-5109389.html",
+    "published_at": "Sat, 15 Aug 2026 13:11:11 +0700",
+    "createAt": "2026-08-15T06:11:11.000Z",
+    "thumbnail_blurhash": "L:F%S{WYOGt7PEWEkDofR5WCnhjY"
+  },
+  {
+    "id": "https://vnexpress.net/khach-trung-quoc-den-my-de-de-ngay-cang-gap-kho-5109398.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Khách Trung Quốc 'đến Mỹ để đẻ' ngày càng gặp khó",
+    "description": "Bộ Ngoại giao Mỹ thu hồi hơn 600 thị thực của người nước ngoài trong chiến dịch siết hoạt động \"du lịch sinh con\", khiến nhiều khách Trung Quốc phải cân nhắc lại kế hoạch.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/08/15/f78510a7fdeaecd1ab108ff4438c-a-8428-6849-1786764920.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=3PPkI7F2Sk8V5O2SOzJYRg",
+    "link": "https://vnexpress.net/khach-trung-quoc-den-my-de-de-ngay-cang-gap-kho-5109398.html",
+    "published_at": "Sat, 15 Aug 2026 13:19:39 +0700",
+    "createAt": "2026-08-15T06:19:39.000Z",
+    "thumbnail_blurhash": "LfHyK|~p-pMw?vR+RjM{%ha#afRj"
   }
 ]
