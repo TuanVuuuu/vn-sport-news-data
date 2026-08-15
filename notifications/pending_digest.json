@@ -1,3 +1,56 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/trung-tuong-tran-van-do-can-chia-se-nghia-vu-quan-su-5109026.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Trung tướng Trần Văn Độ: Cần chia sẻ nghĩa vụ quân sự",
+      "description": "Trung tướng Trần Văn Độ cho rằng người chưa được tuyển chọn hoặc chưa thể phục vụ tại ngũ cần thực hiện nghĩa vụ quân sự bằng hình thức khác, trong đó có đóng góp tài chính.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/15/201511201143477607-dsc-do-an-g-5185-3615-1786737078.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Dtl8jufObRkfWIni7fRTqQ",
+      "link": "https://vnexpress.net/trung-tuong-tran-van-do-can-chia-se-nghia-vu-quan-su-5109026.html",
+      "published_at": "Sat, 15 Aug 2026 06:00:00 +0700",
+      "createAt": "2026-08-14T23:00:00.000Z",
+      "thumbnail_blurhash": "L8BCc8Xn00IURhwbE3S50yNH~V%2"
+    },
+    {
+      "id": "https://vnexpress.net/thu-mon-patrik-le-giang-cha-la-soi-day-ket-noi-toi-voi-viet-nam-5108381.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Thủ môn Patrik Lê Giang: 'Cha là sợi dây kết nối tôi với Việt Nam'",
+      "description": "Từ cậu bé bị trêu chọc ở Slovakia, Patrik Lê Giang trở về khoác áo tuyển quốc gia, trọn vẹn giấc mơ cội nguồn của người cha gốc Việt.",
+      "thumbnail_url": "https://vcdn1-giadinh.vnecdn.net/2026/08/14/00b5c2db0e73df676f06214e5e2e72-4893-5056-1786681858.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=uwAgkOMbMWulyid3us6-Kg",
+      "link": "https://vnexpress.net/thu-mon-patrik-le-giang-cha-la-soi-day-ket-noi-toi-voi-viet-nam-5108381.html",
+      "published_at": "Sat, 15 Aug 2026 06:00:00 +0700",
+      "createAt": "2026-08-14T23:00:00.000Z",
+      "thumbnail_blurhash": "LoIhphslf|%L_4sljdR--;t6RkR,"
+    },
+    {
+      "id": "https://vnexpress.net/nguoi-viet-va-cu-soc-ngay-chu-nhat-o-duc-5106093.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Người Việt và 'cú sốc' ngày chủ nhật ở Đức",
+      "description": "Siêu thị đóng cửa, đường phố vắng lặng và luật cấm tiếng ồn (luật Ruhetag) vào chủ nhật ở Đức khiến nhiều người Việt vất vả học cách thích nghi.",
+      "thumbnail_url": "https://vcdn1-giadinh.vnecdn.net/2026/08/15/screen-shot-at-1786728617-1871-1786728656.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=hVVQqJrlap-rD66bE1AZYg",
+      "link": "https://vnexpress.net/nguoi-viet-va-cu-soc-ngay-chu-nhat-o-duc-5106093.html",
+      "published_at": "Sat, 15 Aug 2026 06:30:00 +0700",
+      "createAt": "2026-08-14T23:30:00.000Z",
+      "thumbnail_blurhash": "LIFP4n?p-i${~o%Kxong.8V@M|ac"
+    },
+    {
+      "id": "https://vnexpress.net/ong-trump-eo-bien-hormuz-se-som-la-lanh-tho-my-5109324.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Ông Trump: 'Eo biển Hormuz sẽ sớm là lãnh thổ Mỹ'",
+      "description": "Tổng thống Trump cho biết ông sẽ sớm tuyên bố eo biển Hormuz là \"một phần lãnh thổ Mỹ\" sau khi đánh bại Iran.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/15/ap26226704886845-1786748776-6927-1786750153.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=pDr3kM_ajaQAQAmjNgbSOA",
+      "link": "https://vnexpress.net/ong-trump-eo-bien-hormuz-se-som-la-lanh-tho-my-5109324.html",
+      "published_at": "Sat, 15 Aug 2026 07:03:02 +0700",
+      "createAt": "2026-08-15T00:03:02.000Z",
+      "thumbnail_blurhash": "L9A9ys-BD$}[}.9t0#s,ImI:JDWA"
+    }
+  ]
 }
