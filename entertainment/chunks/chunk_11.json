@@ -947,5 +947,31 @@
     "published_at": "Sat, 15 Aug 2026 10:31:36 +0700",
     "createAt": "2026-08-15T03:31:36.000Z",
     "thumbnail_blurhash": "L=IhV{oNWTxn~RofWUxo%0a#jsoJ"
+  },
+  {
+    "id": "https://vnexpress.net/165-tac-pham-van-gogh-duoc-tai-hien-bang-cong-nghe-trinh-chieu-5109406.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "165 tác phẩm Van Gogh được tái hiện bằng công nghệ trình chiếu",
+    "description": "165 tác phẩm của Vincent Van Gogh được tái hiện bằng công nghệ trình chiếu, thực tế ảo và âm thanh trong không gian gần 4.000 m2 tại triển lãm \"Van Gogh Timeless\", khai mạc tối 12/8, tại Hà Nội.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/08/15/vangogh-1786764961-8266-1786765010.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=lpEkZnkmWRysjl473Dxkcw",
+    "link": "https://vnexpress.net/165-tac-pham-van-gogh-duoc-tai-hien-bang-cong-nghe-trinh-chieu-5109406.html",
+    "published_at": "Sat, 15 Aug 2026 11:00:00 +0700",
+    "createAt": "2026-08-15T04:00:00.000Z",
+    "thumbnail_blurhash": "L98rXSW8.AV?N2M#Rot34UIAtOV["
+  },
+  {
+    "id": "https://vnexpress.net/nha-pho-25-ty-dong-cua-ca-si-duong-ngoc-thai-5109401.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Nhà phố 25 tỷ đồng của ca sĩ Dương Ngọc Thái",
+    "description": "Ca sĩ Dương Ngọc Thái cho biết chọn phong cách thiết kế Nhật Bản cho nhà 600 m2, sáu tầng, bốn phòng ngủ.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/08/15/duong-ngoc-thai-5-1786762537.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=2MJiCXtvtGGJDxhJqTNT9g",
+    "link": "https://vnexpress.net/nha-pho-25-ty-dong-cua-ca-si-duong-ngoc-thai-5109401.html",
+    "published_at": "Sat, 15 Aug 2026 11:43:15 +0700",
+    "createAt": "2026-08-15T04:43:15.000Z",
+    "thumbnail_blurhash": "L8Kv?J};00~W00M}rDnNrAVs9HIU"
   }
 ]
