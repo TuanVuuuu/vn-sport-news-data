@@ -375,5 +375,31 @@
     "published_at": "Sat, 15 Aug 2026 20:49:30 +0700",
     "createAt": "2026-08-15T13:49:30.000Z",
     "thumbnail_blurhash": "LDIX=_.TlA?F|4t-Rr-q-=%OpHaL"
+  },
+  {
+    "id": "https://vnexpress.net/singapore-v-thai-lan-5109549-tong-thuat.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Thái Lan đặt một chân vào chung kết ASEAN Cup 2026",
+    "description": "Thái Lan thắng Singapore 3-1 lượt đi trên sân khách, để nắm lợi thế lớn trước trận lượt về bán kết ASEAN Cup 2026.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/08/15/773957889284513605586586255967-1369-3983-1786807201.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=I6GToP2QylEfjf0XwGNCNA",
+    "link": "https://vnexpress.net/singapore-v-thai-lan-5109549-tong-thuat.html",
+    "published_at": "Sat, 15 Aug 2026 19:26:28 +0700",
+    "createAt": "2026-08-15T12:26:28.000Z",
+    "thumbnail_blurhash": "L6EzZez#l@x[00M@uh?v0c5*9vhg"
+  },
+  {
+    "id": "https://vnexpress.net/cu-sut-hong-phat-den-khien-cdv-singapore-nuoi-tiec-trong-tran-thua-thai-lan-5109580.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Cú sút hỏng phạt đền khiến CĐV Singapore nuối tiếc trong trận thua  Thái Lan",
+    "description": "Cú sút phạt đền hỏng của tiền đạo Shawal Anuar khiến CĐV Singapore ôm đầu tiếc nuối, khi đội nhà không thể rút ngắn tỷ số trước Thái Lan ở bán kết ASEAN Cup 2026 tối 15/8.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/15/Lark20260815232659-1786811313-5569-1786811318.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=1uvYG3jUuatQriY_5pfEGg&t=image",
+    "link": "https://vnexpress.net/cu-sut-hong-phat-den-khien-cdv-singapore-nuoi-tiec-trong-tran-thua-thai-lan-5109580.html",
+    "published_at": "Sat, 15 Aug 2026 23:22:00 +0700",
+    "createAt": "2026-08-15T16:22:00.000Z",
+    "thumbnail_blurhash": "LEE|Ok.1ScXgDMWYXNR+9OwRS1WC"
   }
 ]
