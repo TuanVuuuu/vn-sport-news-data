@@ -557,5 +557,44 @@
     "published_at": "Sat, 15 Aug 2026 12:00:00 +0700",
     "createAt": "2026-08-15T05:00:00.000Z",
     "thumbnail_blurhash": "LVN11E~WNf?bo~i^t8bHo~-pRlxu"
+  },
+  {
+    "id": "https://vnexpress.net/vi-sao-duong-huyet-van-cao-du-ban-khong-an-do-ngot-5108901.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Vì sao đường huyết vẫn cao dù bạn không ăn đồ ngọt?",
+    "description": "Đường huyết vẫn có thể tăng do ăn nhiều tinh bột, ít vận động, căng thẳng, thiếu ngủ hoặc cơ thể giảm khả năng sử dụng insulin.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/14/thanh-pham-1786699903-7477-1786699952.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=KlSrUXFZs7yp4_uMPwSrPQ",
+    "link": "https://vnexpress.net/vi-sao-duong-huyet-van-cao-du-ban-khong-an-do-ngot-5108901.html",
+    "published_at": "Sat, 15 Aug 2026 13:00:00 +0700",
+    "createAt": "2026-08-15T06:00:00.000Z",
+    "thumbnail_blurhash": "LDE_%7oz03x]~BX9ICIUS*D%IA%L"
+  },
+  {
+    "id": "https://vnexpress.net/doi-moi-co-tu-mo-dan-5109433.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Đồi mồi có tự mờ dần?",
+    "description": "Tôi hiện 32 tuổi, xuất hiện một số đốm nâu ở gò má và mu bàn tay. Đây có phải đồi mồi không và có tự biến mất không? (Thanh Mai, Hà Nội)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/15/anh-bac-trung-1786768334-2115-1786768349.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=sY75S2damBn145SFUnDUoA",
+    "link": "https://vnexpress.net/doi-moi-co-tu-mo-dan-5109433.html",
+    "published_at": "Sat, 15 Aug 2026 13:00:00 +0700",
+    "createAt": "2026-08-15T06:00:00.000Z",
+    "thumbnail_blurhash": "LMK^~i?wXOoz_3slx^x]%MITx]%M"
+  },
+  {
+    "id": "https://vnexpress.net/xa-tri-ung-thu-amidan-the-nao-5109367.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Xạ trị ung thư amidan thế nào",
+    "description": "Xạ trị có thể riêng lẻ giúp triệt căn ung thư hoặc phối hợp hóa trị, sau phẫu thuật nhằm kiểm soát bệnh tiến triển hoặc giảm nhẹ triệu chứng.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/15/xa-tri-vom-hong-1786758949-5198-1786758980.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=_blMG172GUENIC_H8_BGEQ",
+    "link": "https://vnexpress.net/xa-tri-ung-thu-amidan-the-nao-5109367.html",
+    "published_at": "Sat, 15 Aug 2026 13:00:00 +0700",
+    "createAt": "2026-08-15T06:00:00.000Z",
+    "thumbnail_blurhash": "LFMaO*-;~nxs?vWAM{f+?vR%4noe"
   }
 ]
