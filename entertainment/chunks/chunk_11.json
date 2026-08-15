@@ -1038,5 +1038,44 @@
     "published_at": "Sat, 15 Aug 2026 20:36:13 +0700",
     "createAt": "2026-08-15T13:36:13.000Z",
     "thumbnail_blurhash": "L6BMY=Nz0*~C0gxaE2I=57t7-UI;"
+  },
+  {
+    "id": "https://vnexpress.net/cuu-thi-sinh-giong-hat-viet-nhi-gay-sot-khi-hat-tai-le-tot-nghiep-5109210.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Cựu thí sinh Giọng hát Việt nhí gây sốt khi hát tại lễ tốt nghiệp",
+    "description": "Minh Nhật, top 10 Giọng hát Việt nhí 2018, gây chú ý khi hát \"Nếu một mai tôi bay lên trời\" tại lễ tốt nghiệp đại học, gửi thông điệp lạc quan trước nghịch cảnh.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/08/15/765694652949930188111647882157-2877-8317-1786793485.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=yHv5yYe6aQjTzqbneCWBrQ",
+    "link": "https://vnexpress.net/cuu-thi-sinh-giong-hat-viet-nhi-gay-sot-khi-hat-tai-le-tot-nghiep-5109210.html",
+    "published_at": "Sat, 15 Aug 2026 22:50:26 +0700",
+    "createAt": "2026-08-15T15:50:26.000Z",
+    "thumbnail_blurhash": "LCG7b.13GT}tF?9av#571bv~-Bb^"
+  },
+  {
+    "id": "https://vnexpress.net/mot-thoi-de-nho-cua-dan-nghe-si-cai-luong-the-he-vang-5106421.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "'Một thời để nhớ' của dàn nghệ sĩ cải lương thế hệ vàng",
+    "description": "Danh hài Bảo Quốc nhớ một thời sôi nổi bên nghệ sĩ Ngọc Giàu, Minh Vương thập niên 1990 với tình đồng nghiệp hơn 60 năm.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/08/14/bao-quoc-le-thuy-t-1786701998.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=bUbdk2vWjHGh5NIQKEzn9g",
+    "link": "https://vnexpress.net/mot-thoi-de-nho-cua-dan-nghe-si-cai-luong-the-he-vang-5106421.html",
+    "published_at": "Sun, 16 Aug 2026 00:00:00 +0700",
+    "createAt": "2026-08-15T17:00:00.000Z",
+    "thumbnail_blurhash": "LYHU0P]bV@PA9PF2JNM|JX$msDf|"
+  },
+  {
+    "id": "https://vnexpress.net/cuoc-song-cua-khanh-ngoc-sau-2-nam-dinh-cu-o-my-5107377.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Cuộc sống của Khánh Ngọc sau 2 năm định cư ở Mỹ",
+    "description": "Khánh Ngọc, giọng ca \"Vầng trăng khóc\", cho biết ít ca hát, chủ yếu làm nội trợ, chăm sóc chồng và con trai khi sang Mỹ sinh sống.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/08/10/khanhngoc1-1786348496-4314-1786349310.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=FjzKVw__Bn5T9502u-5zZQ",
+    "link": "https://vnexpress.net/cuoc-song-cua-khanh-ngoc-sau-2-nam-dinh-cu-o-my-5107377.html",
+    "published_at": "Sun, 16 Aug 2026 00:00:00 +0700",
+    "createAt": "2026-08-15T17:00:00.000Z",
+    "thumbnail_blurhash": "LQIEU:~p-;?a_2tRWrW=9tn*sAR+"
   }
 ]
