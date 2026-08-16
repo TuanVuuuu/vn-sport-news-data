@@ -531,5 +531,18 @@
     "published_at": "Sun, 16 Aug 2026 05:00:00 +0700",
     "createAt": "2026-08-15T22:00:00.000Z",
     "thumbnail_blurhash": "LMIX~#_Ntm~WMyR*InROWFIUD%IU"
+  },
+  {
+    "id": "https://vnexpress.net/nguoi-dung-co-the-tat-watermark-trong-anh-video-gemini-5109561.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Người dùng có thể tắt watermark trong ảnh, video Gemini",
+    "description": "Google ra mắt tùy chọn cho phép người dùng chủ động bật tắt watermark (hình mờ, dấu bản quyền) trên các nội dung ảnh, video, âm nhạc do Gemini tạo ra.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/16/wm1-wm1-wm1-lq-1786835518-7584-1786835806.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=caRMls_2brcCSLN1aZ-ABA",
+    "link": "https://vnexpress.net/nguoi-dung-co-the-tat-watermark-trong-anh-video-gemini-5109561.html",
+    "published_at": "Sun, 16 Aug 2026 07:20:05 +0700",
+    "createAt": "2026-08-16T00:20:05.000Z",
+    "thumbnail_blurhash": "L8GkzbD48^*J005kIUsD4n%g-;MJ"
   }
 ]
