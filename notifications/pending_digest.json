@@ -64,6 +64,45 @@
       "published_at": "Sun, 16 Aug 2026 06:00:00 +0700",
       "createAt": "2026-08-15T23:00:00.000Z",
       "thumbnail_blurhash": "L3GlVEL3~T?J008^%f?G9P01Dht,"
+    },
+    {
+      "id": "https://vnexpress.net/ao-giac-dien-thoai-rung-o-nguoi-tre-5106317.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Ảo giác điện thoại rung ở người trẻ",
+      "description": "Trong một buổi sáng làm việc bình thường, Minh, 32 tuổi, rút điện thoại khỏi túi quần hơn 5 lần, do cảm nhận tiếng rung rõ rệt, nhưng khi bật màn hình, không có tin nhắn nào.",
+      "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/07/screenshot-at-1786078475-5338-1786078866.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=vG9Wew5G6bpegQNGL9usDg",
+      "link": "https://vnexpress.net/ao-giac-dien-thoai-rung-o-nguoi-tre-5106317.html",
+      "published_at": "Sun, 16 Aug 2026 06:00:00 +0700",
+      "createAt": "2026-08-15T23:00:00.000Z",
+      "thumbnail_blurhash": "L4F#:p?w00001,^i0Joh#Ss+VXIV"
+    },
+    {
+      "id": "https://vnexpress.net/banh-mi-chao-345-000-dong-o-tp-hcm-5108448.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Bánh mì chảo 345.000 đồng ở TP HCM",
+      "description": "Tiệm bánh mì 80 năm tuổi ở trung tâm TP HCM phục vụ món bánh mì chảo với thịt bò cao cấp, kèm pate nhà làm giá 345.000 đồng một phần.",
+      "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/08/14/2hgb6f3quzkewy5pzpkgyrn7ybbhuifcnaqa-1786686163.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=5lfRKM6Jd1TV-yxp2jf1Pw",
+      "link": "https://vnexpress.net/banh-mi-chao-345-000-dong-o-tp-hcm-5108448.html",
+      "published_at": "Sun, 16 Aug 2026 07:00:00 +0700",
+      "createAt": "2026-08-16T00:00:00.000Z",
+      "thumbnail_blurhash": "LAB3jAny580L_NWAM{M|02E2-S?Z"
+    },
+    {
+      "id": "https://vnexpress.net/may-bay-viet-nam-quay-dau-ha-canh-o-munich-5109601.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Máy bay Việt Nam quay đầu hạ cánh ở Munich",
+      "description": "Chuyến bay VN34 từ Munich (Đức) đi Hà Nội ngày 15/8 phải quay đầu hạ cánh khẩn cấp do sự cố kỹ thuật.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/16/anh-man-hinh-luc-1786837205-7087-1786837236.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=-0tx3ahsQc8rEXy3lq11HQ",
+      "link": "https://vnexpress.net/may-bay-viet-nam-quay-dau-ha-canh-o-munich-5109601.html",
+      "published_at": "Sun, 16 Aug 2026 07:03:56 +0700",
+      "createAt": "2026-08-16T00:03:56.000Z",
+      "thumbnail_blurhash": "L6F~T~~qxo?Z00ROa$M|00IAIrIq"
     }
   ]
 }
