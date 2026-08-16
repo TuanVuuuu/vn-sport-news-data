@@ -440,5 +440,44 @@
     "published_at": "Sun, 16 Aug 2026 22:57:29 +0700",
     "createAt": "2026-08-16T15:57:29.000Z",
     "thumbnail_blurhash": "LH8z+H~V^*-pD+9ZIURjxYt7t6R%"
+  },
+  {
+    "id": "https://vnexpress.net/khoac-ao-moi-cho-ke-bien-phan-thiet-5109755.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Khoác áo mới cho kè biển Phan Thiết",
+    "description": "Hơn 60 tình nguyện viên sơn màu các khối bêtông ba chân dọc kè chắn sóng, tạo điểm check-in mới tại bờ biển Thương Chánh, phường Phan Thiết.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/16/wm1-wm1-son-ke-thuong-chanh-jpg-17-5270-7858-1786894270.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=1804B_gcnIoyrqtguG6boA",
+    "link": "https://vnexpress.net/khoac-ao-moi-cho-ke-bien-phan-thiet-5109755.html",
+    "published_at": "Mon, 17 Aug 2026 00:00:00 +0700",
+    "createAt": "2026-08-16T17:00:00.000Z",
+    "thumbnail_blurhash": "LLE:0s%ht7xt5_SjofWWT}WGR+WY"
+  },
+  {
+    "id": "https://vnexpress.net/hinh-dang-rong-da-lai-chau-5109668.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Hình dáng 'rồng đá' Lai Châu",
+    "description": "Dài khoảng 10 km, rộng 100-600 m, dòng lũ đá Nậm Vời uốn mình giữa núi rừng Lai Châu với phần đầu, cổ, thân và đuôi được các chuyên gia ví như con rồng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/16/wm1-dji-0818-jpg-1786852199-1786853318.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=vh5lLfNx5UxL2qxBHxHung",
+    "link": "https://vnexpress.net/hinh-dang-rong-da-lai-chau-5109668.html",
+    "published_at": "Mon, 17 Aug 2026 00:00:00 +0700",
+    "createAt": "2026-08-16T17:00:00.000Z",
+    "thumbnail_blurhash": "L39Q:8004._4V[9F%M%N00M}-:of"
+  },
+  {
+    "id": "https://vnexpress.net/phu-quoc-chuan-bi-dong-dien-noi-mach-vong-5109642.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Phú Quốc chuẩn bị đóng điện, nối mạch vòng",
+    "description": "Ba công trình trọng điểm ở đặc khu Phú Quốc dự kiến đóng điện trước 19/8, qua đó kết nối hai nguồn điện 110 kV, nâng cao độ an toàn, chuẩn bị APEC 2027.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/16/screenshot-1786848252-1122-1786848306.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=Fa5sUgOHF6z9zb3ZlhzBpw",
+    "link": "https://vnexpress.net/phu-quoc-chuan-bi-dong-dien-noi-mach-vong-5109642.html",
+    "published_at": "Mon, 17 Aug 2026 00:00:00 +0700",
+    "createAt": "2026-08-16T17:00:00.000Z",
+    "thumbnail_blurhash": "LIAT.vivD%NGyGM_n~ofElM_%2xa"
   }
 ]
