@@ -1,6 +1,19 @@
 {
   "featured": [
     {
+      "id": "https://vnexpress.net/phong-sinh-co-the-tiep-tay-cho-viec-san-bat-dong-vat-5109699.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Phóng sinh có thể tiếp tay cho việc săn bắt động vật",
+      "description": "Việc đặt mua số lượng lớn chim, thủy sản để phóng sinh có thể kích thích săn bắt, tạo vòng luẩn quẩn \"bắt - bán - thả\", theo đại diện C05 Bộ Công an.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/16/wm1-wm1-wm1-img-jpg-1786870256-7882-1786870261.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=FLemol6jMgI5lheAnC8Czg",
+      "link": "https://vnexpress.net/phong-sinh-co-the-tiep-tay-cho-viec-san-bat-dong-vat-5109699.html",
+      "published_at": "Sun, 16 Aug 2026 15:46:22 +0700",
+      "createAt": "2026-08-16T08:46:22.000Z",
+      "thumbnail_blurhash": "LQLVQzNZ5FM}}?xYogIpN1$%$$S1"
+    },
+    {
       "id": "https://vnexpress.net/tim-cook-toi-mong-duoc-nho-den-nhu-mot-nguoi-tot-va-tu-te-5109559.html",
       "category_id": "featured",
       "category_name": "Tin nổi bật",
@@ -53,6 +66,32 @@
       "thumbnail_blurhash": "L9F$tXIn00-;HpM{Iooz00RQ-qRj"
     },
     {
+      "id": "https://vnexpress.net/ket-qua-malaysia-vs-viet-nam-5109590.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Việt Nam nắm lợi thế lớn trước Malaysia ở bán kết ASEAN Cup",
+      "description": "Tiền đạo nhập tịch Nguyễn Xuân Son lập công, giúp Việt Nam thắng chủ nhà Malaysia 2-0 ở lượt đi bán kết ASEAN Cup 2026.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/08/16/178689148539252737980667512245-5609-7991-1786892720.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=S8orZl1r6Lk73Wn_N5Tjbw",
+      "link": "https://vnexpress.net/ket-qua-malaysia-vs-viet-nam-5109590.html",
+      "published_at": "Sun, 16 Aug 2026 18:45:17 +0700",
+      "createAt": "2026-08-16T11:45:17.000Z",
+      "thumbnail_blurhash": "LGHU|P~W0zoy00IoR5M_9uIT-;xv"
+    },
+    {
+      "id": "https://vnexpress.net/nga-tap-kich-nha-may-ten-lua-flamingo-uav-o-kiev-5109742.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Nga tập kích 'nhà máy tên lửa Flamingo, UAV' ở Kiev",
+      "description": "Nga tuyên bố tấn công loạt mục tiêu ở Ukraine, trong đó có nhà máy sản xuất linh kiện cho tên lửa Flamingo và UAV tại thủ đô Kiev.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/16/Settop-1786880812-3051-1786881601.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=Uith4p7_OhN2zdTMW78erw&t=image",
+      "link": "https://vnexpress.net/nga-tap-kich-nha-may-ten-lua-flamingo-uav-o-kiev-5109742.html",
+      "published_at": "Sun, 16 Aug 2026 20:08:05 +0700",
+      "createAt": "2026-08-16T13:08:05.000Z",
+      "thumbnail_blurhash": "L04LUY9F9F?b9F-;WBxu%M9Fxut7"
+    },
+    {
       "id": "https://vnexpress.net/arsenal-man-city-mo-man-mua-giai-moi-5109652.html",
       "category_id": "featured",
       "category_name": "Tin nổi bật",
@@ -64,6 +103,19 @@
       "published_at": "Sun, 16 Aug 2026 20:15:00 +0700",
       "createAt": "2026-08-16T13:15:00.000Z",
       "thumbnail_blurhash": "L46k9j~7D~BGvdoibxR35OXA-q$x"
+    },
+    {
+      "id": "https://vnexpress.net/arsenal-man-city-mo-man-mua-giai-moi-5109652-tong-thuat.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Arsenal thắng Man City 3-0 ở trận tranh Siêu Cup Anh",
+      "description": "ĐKVĐ Ngoại hạng Anh Arsenal đè bẹp nhà vô địch Cup FA Man City ở trận tranh Siêu Cup Anh tại Cardiff.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/08/16/a-nh-ma-n-hi-nh-lu-c-178689761-8630-1179-1786897712.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=WtXmWeRdtLvgG5yWg-Q-CQ",
+      "link": "https://vnexpress.net/arsenal-man-city-mo-man-mua-giai-moi-5109652-tong-thuat.html",
+      "published_at": "Sun, 16 Aug 2026 20:15:00 +0700",
+      "createAt": "2026-08-16T13:15:00.000Z",
+      "thumbnail_blurhash": "L6F}i?D*Di^k_L9txCELCh9t-W?G"
     },
     {
       "id": "https://vnexpress.net/chay-lon-tai-quan-banh-mi-vo-anh-o-hai-phong-5109756.html",
@@ -103,6 +155,97 @@
       "published_at": "Sun, 16 Aug 2026 21:11:04 +0700",
       "createAt": "2026-08-16T14:11:04.000Z",
       "thumbnail_blurhash": "LRFNSn}tyDt,nh-V$*J-VEZ$M{E2"
+    },
+    {
+      "id": "https://vnexpress.net/cdv-o-pho-di-bo-nguyen-hue-reo-ho-khi-viet-nam-thang-malaysia-2-0-5109762.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "CĐV ở phố đi bộ Nguyễn Huệ reo hò khi Việt Nam thắng Malaysia 2-0",
+      "description": "Người hâm mộ vỡ òa trên phố đi bộ Nguyễn Huệ khi Xuân Son mở tỷ số và pha phản lưới nhà của cầu thủ Malaysia giúp Việt Nam thắng 2-0 ở trận bán kết lượt đi ASEAN Cup 2026, tối 16/8.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/16/2aoboqrxpxyknlbunqbymyohapjq0j4e0efkz8lm-1786892598.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=aGBpbv2dQ-JPHnWOZj6Nng",
+      "link": "https://vnexpress.net/cdv-o-pho-di-bo-nguyen-hue-reo-ho-khi-viet-nam-thang-malaysia-2-0-5109762.html",
+      "published_at": "Sun, 16 Aug 2026 21:11:04 +0700",
+      "createAt": "2026-08-16T14:11:04.000Z",
+      "thumbnail_blurhash": "LKD[Cg.8tl$+~X?HtlOrcs-;ghXS"
+    },
+    {
+      "id": "https://vnexpress.net/han-quoc-no-sung-canh-cao-binh-si-trieu-tien-vuot-gioi-tuyen-5109753.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Hàn Quốc nổ súng cảnh cáo binh sĩ Triều Tiên vượt giới tuyến",
+      "description": "Hàn Quốc tuyên bố phát hiện binh sĩ Triều Tiên vượt qua đường phân giới quân sự và bắn cảnh cáo, lần đầu sự việc xảy ra trong năm nay.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/16/nh-1786884853-2007-1786885177.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=veob5S8WbOFEn56YSWZ_qg",
+      "link": "https://vnexpress.net/han-quoc-no-sung-canh-cao-binh-si-trieu-tien-vuot-gioi-tuyen-5109753.html",
+      "published_at": "Sun, 16 Aug 2026 21:36:17 +0700",
+      "createAt": "2026-08-16T14:36:17.000Z",
+      "thumbnail_blurhash": "L5EfE200.A~pD+00-;Mw_1V?_NIA"
+    },
+    {
+      "id": "https://vnexpress.net/10-tieng-boi-tim-duong-song-cua-nguoi-dan-ong-cao-ngheu-5109761.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "10 tiếng bơi tìm đường sống của người đàn ông cào nghêu",
+      "description": "Bị sóng cuốn xa bờ khoảng 7 km khi cào nghêu, anh Thanh phải thả nổi, uống nước biển và quẫy tay chân suốt 10 tiếng để tìm đường trở lại đất liền.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/16/anh-thanh-ke-lai-su-viec-17868-2785-8124-1786886285.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=7K84zIU1B5Nq55866DP7Jw",
+      "link": "https://vnexpress.net/10-tieng-boi-tim-duong-song-cua-nguoi-dan-ong-cao-ngheu-5109761.html",
+      "published_at": "Sun, 16 Aug 2026 21:50:13 +0700",
+      "createAt": "2026-08-16T14:50:13.000Z",
+      "thumbnail_blurhash": "LdH2Dx?G~px]-.tRo}bIR$ofWAs."
+    },
+    {
+      "id": "https://vnexpress.net/hlv-kim-sang-sik-toi-chua-thoa-man-voi-tran-thang-malaysia-5109763.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "HLV Kim Sang-sik: 'Tôi chưa thỏa mãn với trận thắng Malaysia'",
+      "description": "HLV Kim Sang-sik cho rằng Việt Nam gặp khó khăn về chiến thuật khi thắng Malaysia 2-0 ở lượt đi bán kết ASEAN Cup 2026, tối 16/8.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/08/16/dong4157-jpg-1786886050-7654-1786886516.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=UxcldkNXSDIwO6eDai2e_g",
+      "link": "https://vnexpress.net/hlv-kim-sang-sik-toi-chua-thoa-man-voi-tran-thang-malaysia-5109763.html",
+      "published_at": "Sun, 16 Aug 2026 22:05:00 +0700",
+      "createAt": "2026-08-16T15:05:00.000Z",
+      "thumbnail_blurhash": "LWHxsl-g?GW8?wNHROoL9wR.sSxF"
+    },
+    {
+      "id": "https://vnexpress.net/le-giang-patrik-thoat-the-do-nho-var-5109772.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Lê Giang Patrik thoát thẻ đỏ nhờ VAR",
+      "description": "Phút 61, Lê Giang Patrik băng ra truy cản Sumareh ngay trước vòng cấm và nhận thẻ đỏ, song VAR xác định thủ môn Việt Nam không phạm lỗi nên trọng tài hủy quyết định truất quyền thi đấu.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/16/Anhmanhinh20260816luc221139-17-4216-5210-1786893293.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=viud10QRff9MZEC9SgvvfQ",
+      "link": "https://vnexpress.net/le-giang-patrik-thoat-the-do-nho-var-5109772.html",
+      "published_at": "Sun, 16 Aug 2026 22:17:51 +0700",
+      "createAt": "2026-08-16T15:17:51.000Z",
+      "thumbnail_blurhash": "L5I#xzIXp3~H00M_VV%O00sibWI|"
+    },
+    {
+      "id": "https://vnexpress.net/xuan-son-pha-ky-luc-ghi-ban-cua-viet-nam-o-vong-knock-out-asean-cup-5109781.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Xuân Son phá kỷ lục ghi bàn của Việt Nam ở vòng knock-out ASEAN Cup",
+      "description": "Bàn thắng vào lưới Malaysia trên sân Kuala Lumpur tối 16/8 là pha lập công thứ sáu của Nguyễn Xuân Son tại các trận knock-out ASEAN Cup.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/08/16/1786888326403-g651265587011251-4155-8724-1786893837.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=rupGZuXOZ8YLHvirbpN_BA",
+      "link": "https://vnexpress.net/xuan-son-pha-ky-luc-ghi-ban-cua-viet-nam-o-vong-knock-out-asean-cup-5109781.html",
+      "published_at": "Sun, 16 Aug 2026 22:33:26 +0700",
+      "createAt": "2026-08-16T15:33:26.000Z",
+      "thumbnail_blurhash": "LQCja?.9R$i^%Q.8xtngOHx^%MxB"
+    },
+    {
+      "id": "https://vnexpress.net/tau-hai-quan-cuu-nguoi-dan-ong-troi-dat-ngoai-khoi-vung-tau-5109787.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Tàu Hải quân cứu người đàn ông trôi dạt ngoài khơi Vũng Tàu",
+      "description": "Cán bộ, chiến sĩ tàu 743 của Hải đoàn 129 Hải quân cứu ngư dân An Giang được cho rơi khỏi tàu cá, trôi dạt nhiều ngày trên biển trong tình trạng suy yếu.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/16/Cuungudan-1786894579-7955-1786894820.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=tbwUMyQSeRDUr4NYZd7C2g&t=image",
+      "link": "https://vnexpress.net/tau-hai-quan-cuu-nguoi-dan-ong-troi-dat-ngoai-khoi-vung-tau-5109787.html",
+      "published_at": "Sun, 16 Aug 2026 22:57:29 +0700",
+      "createAt": "2026-08-16T15:57:29.000Z",
+      "thumbnail_blurhash": "LH8z+H~V^*-pD+9ZIURjxYt7t6R%"
     }
   ]
 }
