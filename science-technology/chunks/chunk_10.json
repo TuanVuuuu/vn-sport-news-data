@@ -739,5 +739,31 @@
     "published_at": "Mon, 17 Aug 2026 16:28:39 +0700",
     "createAt": "2026-08-17T09:28:39.000Z",
     "thumbnail_blurhash": "LNE.@L00X8~qxuj[ofae%Lj[WBWB"
+  },
+  {
+    "id": "https://vnexpress.net/de-xuat-phan-quyen-ban-hanh-chinh-sach-nhap-khau-cong-nghe-5110058.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Đề xuất phân quyền ban hành chính sách nhập khẩu công nghệ",
+    "description": "Dự thảo luật giao Bộ Khoa học và Công nghệ ban hành theo thẩm quyền hoặc trình cấp có thẩm quyền các chính sách về nhập khẩu, chuyển giao và đổi mới công nghệ.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/17/202608171525215309-g3194982797-8862-7238-1786957663.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=1Cm0vFaIWiW5TlVa71uSAA",
+    "link": "https://vnexpress.net/de-xuat-phan-quyen-ban-hanh-chinh-sach-nhap-khau-cong-nghe-5110058.html",
+    "published_at": "Mon, 17 Aug 2026 18:17:32 +0700",
+    "createAt": "2026-08-17T11:17:32.000Z",
+    "thumbnail_blurhash": "LDM~:~$J00xFQ8tS_NogT1jYx^xZ"
+  },
+  {
+    "id": "https://vnexpress.net/may-bay-dien-lon-nhat-the-gioi-cat-canh-5110077.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Máy bay điện lớn nhất thế giới cất cánh",
+    "description": "Máy bay điện X1 cất cánh lần đầu tiên trong chuyến bay thử nghiệm từ New York, mở đường cho phiên bản sản xuất dự kiến đi vào hoạt động năm 2030.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/17/VNEPlane-1786956035-1883-1786956513.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=jWUJe5TxiBp7ZEyRuNRZSQ",
+    "link": "https://vnexpress.net/may-bay-dien-lon-nhat-the-gioi-cat-canh-5110077.html",
+    "published_at": "Mon, 17 Aug 2026 19:00:00 +0700",
+    "createAt": "2026-08-17T12:00:00.000Z",
+    "thumbnail_blurhash": "LrMF5bt6RjxZ}=R+NHt6^JxEnjW;"
   }
 ]
