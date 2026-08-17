@@ -1,38 +1,6 @@
 {
   "entries": [
     {
-      "sent_at": "2026-08-13T23:40:54.142Z",
-      "topic": null,
-      "device_id": "b9ffbb33ac6e18b3",
-      "slot": "morning",
-      "type": "featured_digest",
-      "article_ids": [
-        "https://vnexpress.net/an-ninh-nghiem-ngat-truoc-ky-thi-lai-tot-nghiep-o-tuyen-quang-5108588.html",
-        "https://vnexpress.net/nghi-thuc-truyen-thong-cua-nguoi-maori-tai-le-don-tong-bi-thu-chu-tich-nuoc-to-lam-5108741.html",
-        "https://vnexpress.net/ong-hung-cao-bi-chat-van-sau-thong-tin-thuy-thu-nhay-khoi-tau-san-bay-gan-iran-5108719.html",
-        "https://vnexpress.net/aguero-doi-hinh-c-cua-malaysia-se-khien-viet-nam-bat-ngo-5108773.html",
-        "https://vnexpress.net/vi-sao-ong-trump-am-anh-voi-nguy-co-bi-am-sat-5108770.html",
-        "https://vnexpress.net/thu-tuong-yeu-cau-ngan-hang-giam-thuc-chat-lai-suat-cho-vay-5108843.html",
-        "https://vnexpress.net/hoa-hau-dep-nhat-the-gioi-tham-quan-vinh-ha-long-5108698.html",
-        "https://vnexpress.net/tu-cuoc-chia-ly-dot-ngot-den-7-cuoc-doi-duoc-song-5108873.html",
-        "https://vnexpress.net/1-2-tan-nga-voi-giau-trong-cac-khuc-go-tu-chau-phi-ve-gia-lai-5108868.html",
-        "https://vnexpress.net/giao-vien-toan-vao-moi-phong-2-3-phut-nhac-thi-sinh-o-diem-thi-chuyen-tuyen-quang-5108887.html",
-        "https://vnexpress.net/mot-khach-hang-trung-jackpot-gan-72-ty-dong-5108889.html",
-        "https://vnexpress.net/cuc-csgt-de-xuat-co-the-nop-phat-nguoi-hoan-toan-qua-mang-5108788.html",
-        "https://vnexpress.net/pho-thu-tuong-ra-soat-doanh-nghiep-nhap-khau-lon-nhung-xuat-khau-thap-5108883.html",
-        "https://vnexpress.net/tha-dieu-gan-den-chop-khien-loat-may-bay-khong-the-cat-ha-canh-o-tan-son-nhat-5108907.html",
-        "https://vnexpress.net/cau-thu-lao-bi-nghi-ban-do-o-asean-cup-2026-5108926.html",
-        "https://vnexpress.net/cau-duong-hon-120-nam-tuoi-sap-thao-do-5108688.html",
-        "https://vnexpress.net/rajagobal-viet-nam-o-cua-tren-nhung-van-co-the-thua-malaysia-5108884.html",
-        "https://vnexpress.net/gia-vang-the-gioi-se-ra-sao-thoi-gian-toi-5108821.html",
-        "https://vnexpress.net/co-be-mo-coi-phu-ba-ban-oc-thanh-thu-khoa-dai-hoc-5108863.html",
-        "https://vnexpress.net/co-be-mo-coi-thanh-thu-khoa-dai-hoc-5108863.html",
-        "https://vnexpress.net/chay-lon-cong-ty-noi-that-o-tp-hcm-5108934.html",
-        "https://vnexpress.net/phut-sinh-tu-buoc-mat-vu-my-so-tan-ong-trump-khoi-chuyen-co-5108529.html"
-      ],
-      "highlight_id": "https://vnexpress.net/phut-sinh-tu-buoc-mat-vu-my-so-tan-ong-trump-khoi-chuyen-co-5108529.html"
-    },
-    {
       "sent_at": "2026-08-13T23:40:54.289Z",
       "topic": null,
       "device_id": "730d096a4aca0cc7",
@@ -14549,6 +14517,37 @@
         "https://vnexpress.net/bo-quoc-phong-chua-de-xuat-dong-gop-tai-chinh-thay-nhap-ngu-5109649.html"
       ],
       "highlight_id": "https://vnexpress.net/bo-quoc-phong-chua-de-xuat-dong-gop-tai-chinh-thay-nhap-ngu-5109649.html"
+    },
+    {
+      "sent_at": "2026-08-17T08:40:49.015Z",
+      "topic": null,
+      "device_id": "dddab7f8b79275fb",
+      "slot": "noon",
+      "type": "featured_digest",
+      "article_ids": [
+        "https://vnexpress.net/hang-trieu-m3-bun-ngang-duong-loat-du-an-trong-diem-tp-hcm-5109544.html",
+        "https://vnexpress.net/bao-malaysia-doi-tuyen-viet-nam-thuan-hoa-ho-malaya-5109850.html",
+        "https://vnexpress.net/mien-giam-phi-42-thu-tuc-hanh-chinh-cho-nguoi-tich-hop-du-giay-to-tren-vneid-5109877.html",
+        "https://vnexpress.net/aff-malaysia-khong-dang-thua-viet-nam-hai-ban-5109915.html",
+        "https://vnexpress.net/danh-sach-chi-tiet-phuong-an-sap-xep-sap-nhap-truong-hoc-o-161-xa-phuong-cua-tp-hcm-5109867.html",
+        "https://vnexpress.net/tu-lenh-my-thua-nhan-lo-ngai-ve-si-khi-tren-tau-san-bay-gan-iran-5109843.html",
+        "https://vnexpress.net/huong-tuyen-duong-sat-lao-cai-ha-noi-hai-phong-5109858.html",
+        "https://vnexpress.net/tien-ve-aguero-malaysia-da-khien-hlv-kim-sang-sik-bat-ngo-5109941.html",
+        "https://vnexpress.net/lich-tuu-truong-cua-hoc-sinh-ha-noi-2026-5109936.html",
+        "https://vnexpress.net/dan-ca-heo-hon-10-con-boi-gan-tau-cao-toc-ly-son-5109961.html",
+        "https://vnexpress.net/lu-cuon-troi-oto-lam-te-liet-thanh-pho-han-quoc-5109871.html",
+        "https://vnexpress.net/thi-sinh-miss-world-2026-trong-rung-ngap-man-o-hai-phong-5109902.html",
+        "https://vnexpress.net/se-sua-bo-luat-hinh-su-de-bao-ve-can-bo-dam-nghi-dam-lam-5109931.html",
+        "https://vnexpress.net/bao-han-quoc-hlv-kim-sang-sik-sap-vuot-park-hang-seo-5109971.html",
+        "https://vnexpress.net/ngai-xuong-tien-mua-nha-dat-vi-lo-vuong-quy-hoach-5109974.html",
+        "https://vnexpress.net/patrik-le-giang-gianh-diem-cao-nhat-trong-tran-gap-malaysia-5109978.html",
+        "https://vnexpress.net/phu-huynh-muot-mo-hoi-san-tung-cuon-sach-giao-khoa-5109869.html",
+        "https://vnexpress.net/thu-thiem-sap-dau-gia-lo-dat-vang-voi-khoi-diem-gan-1-902-ty-dong-5110005.html",
+        "https://vnexpress.net/uy-vien-trung-uong-phai-suy-nghi-o-tam-toan-quoc-5110002.html",
+        "https://vnexpress.net/nen-dat-ra-lo-trinh-giam-gio-lam-lao-dong-duoi-48-tieng-5109983.html",
+        "https://vnexpress.net/hieu-pho-bi-canh-cao-vu-thi-sinh-mang-phao-vao-phong-thi-5110046.html"
+      ],
+      "highlight_id": "https://vnexpress.net/hieu-pho-bi-canh-cao-vu-thi-sinh-mang-phao-vao-phong-thi-5110046.html"
     }
   ]
 }
