@@ -557,5 +557,31 @@
     "published_at": "Mon, 17 Aug 2026 06:00:00 +0700",
     "createAt": "2026-08-16T23:00:00.000Z",
     "thumbnail_blurhash": "LFE{^Q?GR+o#pfIoM_j@.At7t7kC"
+  },
+  {
+    "id": "https://vnexpress.net/chay-nha-lien-ke-o-ha-noi-5109917.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Cháy nhà liền kề ở Hà Nội",
+    "description": "Ngôi nhà liền kề ba tầng, một tum ở khu đô thị mới Phùng Khoang, phường Thanh Xuân, bốc cháy ngùn ngụt sáng 17/8.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/17/2aOboQs4SgBC6vHRwn361BVxNKl0wS-1634-8035-1786936607.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=V6XhcOkqfLbqojCWQS_9QQ",
+    "link": "https://vnexpress.net/chay-nha-lien-ke-o-ha-noi-5109917.html",
+    "published_at": "Mon, 17 Aug 2026 10:41:45 +0700",
+    "createAt": "2026-08-17T03:41:45.000Z",
+    "thumbnail_blurhash": "LHD,Gm~W%1-.yUR.RlS{x?oHV[g2"
+  },
+  {
+    "id": "https://vnexpress.net/huong-tuyen-duong-sat-lao-cai-ha-noi-hai-phong-5109858.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Hướng tuyến đường sắt Lào Cai - Hà Nội - Hải Phòng",
+    "description": "Chính phủ vừa đề xuất Quốc hội điều chỉnh hướng tuyến, chiều dài, tổng mức đầu tư của dự án đường sắt Lào Cai - Hà Nội - Hải Phòng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/17/TOP-3-1786935571.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=Qqf928LKrStQjc__AKT1Pg",
+    "link": "https://vnexpress.net/huong-tuyen-duong-sat-lao-cai-ha-noi-hai-phong-5109858.html",
+    "published_at": "Mon, 17 Aug 2026 10:49:18 +0700",
+    "createAt": "2026-08-17T03:49:18.000Z",
+    "thumbnail_blurhash": "LDOg}]tuM{_2.gw7xER$R*V?sXah"
   }
 ]
