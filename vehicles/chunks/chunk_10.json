@@ -284,5 +284,31 @@
     "published_at": "Mon, 17 Aug 2026 16:15:00 +0700",
     "createAt": "2026-08-17T09:15:00.000Z",
     "thumbnail_blurhash": "L47x8*$wR3W?aL-n_3-;8^?d?d%1"
+  },
+  {
+    "id": "https://vnexpress.net/tu-van-luat-cung-csgt-tre-qua-duong-gay-hoa-ai-ganh-trach-nhiem-5110112.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Tư vấn luật cùng CSGT: Trẻ qua đường gây họa, ai gánh trách nhiệm?",
+    "description": "Những đứa trẻ bất chợt lao từ trong nhà ra đường đặt tài xế vào tình huống nguy cấp mà nếu không cẩn thận có thể vướng vòng lao lý.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/17/Untitled1178695873983231786958-9923-9551-1786982032.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Q6iL26FNcAJ8F-P2bf6vCg",
+    "link": "https://vnexpress.net/tu-van-luat-cung-csgt-tre-qua-duong-gay-hoa-ai-ganh-trach-nhiem-5110112.html",
+    "published_at": "Tue, 18 Aug 2026 05:00:00 +0700",
+    "createAt": "2026-08-17T22:00:00.000Z",
+    "thumbnail_blurhash": "LWH_.2tlE1e-_NM{WAV@E1E0xYWB"
+  },
+  {
+    "id": "https://vnexpress.net/trung-quoc-tang-truong-manh-oto-ban-di-nuoc-ngoai-5110166.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Trung Quốc tăng trưởng mạnh ôtô bán đi nước ngoài",
+    "description": "Trung Quốc xuất khẩu 1,043 triệu ôtô trong tháng 7, tăng 81,3% so với cùng kỳ 2025, trong đó xe năng lượng mới chiếm hơn một nửa và tăng 145,5%.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/17/zeekr-shipping-min-jpg-1786971-9594-9211-1786971678.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=vwHhZ9wkS9gugSB-APeILg",
+    "link": "https://vnexpress.net/trung-quoc-tang-truong-manh-oto-ban-di-nuoc-ngoai-5110166.html",
+    "published_at": "Tue, 18 Aug 2026 06:00:00 +0700",
+    "createAt": "2026-08-17T23:00:00.000Z",
+    "thumbnail_blurhash": "LJI;;jV@Rjxt}PoMWDxtz-IUWBoI"
   }
 ]
