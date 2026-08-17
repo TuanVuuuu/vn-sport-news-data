@@ -349,5 +349,31 @@
     "published_at": "Mon, 17 Aug 2026 18:00:00 +0700",
     "createAt": "2026-08-17T11:00:00.000Z",
     "thumbnail_blurhash": "LKH27XI:9F?G_L%LInRQ~W-VNZIV"
+  },
+  {
+    "id": "https://vnexpress.net/du-phong-ung-thu-do-hpv-khi-da-ngoai-40-tuoi-5110151.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Dự phòng ung thư do HPV khi đã ngoài 40 tuổi",
+    "description": "Phát hiện nhiễm hai type HPV ở tuổi 40, chị Hiền cùng chồng tìm hiểu các biện pháp dự phòng và quyết định tiêm vaccine sau khi được bác sĩ tư vấn.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/17/medium-vecteezy-happy-asian-co-8833-6147-1786966233.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=N383ijO6SSZkjZBZPWhBjQ",
+    "link": "https://vnexpress.net/du-phong-ung-thu-do-hpv-khi-da-ngoai-40-tuoi-5110151.html",
+    "published_at": "Mon, 17 Aug 2026 19:00:00 +0700",
+    "createAt": "2026-08-17T12:00:00.000Z",
+    "thumbnail_blurhash": "LPKx3ntSOF?b~W-oRjtS%#bIM_Rj"
+  },
+  {
+    "id": "https://vnexpress.net/4-ly-do-co-the-gay-suy-than-cap-vao-mua-he-5110102.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "4 lý do có thể gây suy thận cấp vào mùa hè",
+    "description": "Mất nước do nắng nóng, vận động quá sức hoặc mắc bệnh gây nôn ói, tiêu chảy có thể khiến thận giảm tưới máu, làm tăng nguy cơ suy thận cấp.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/17/add63371a1fedcb4e2d25863c92-17-9073-5010-1786958103.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=KCQbflIMYt4mvge0-61zTw",
+    "link": "https://vnexpress.net/4-ly-do-co-the-gay-suy-than-cap-vao-mua-he-5110102.html",
+    "published_at": "Mon, 17 Aug 2026 19:00:00 +0700",
+    "createAt": "2026-08-17T12:00:00.000Z",
+    "thumbnail_blurhash": "LQJ8Fh~q9FtR.8%2e:t6-oIAIU%N"
   }
 ]
