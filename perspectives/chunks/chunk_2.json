@@ -908,5 +908,18 @@
     "published_at": "Mon, 17 Aug 2026 00:00:00 +0700",
     "createAt": "2026-08-16T17:00:00.000Z",
     "thumbnail_blurhash": "LEQvwR_3M{?b~qNFkCt7~WV@afWB"
+  },
+  {
+    "id": "https://vnexpress.net/khong-co-cho-cho-nguoi-hoc-viec-5110187.html",
+    "category_id": "perspectives",
+    "category_name": "Góc nhìn",
+    "source": "VnExpress",
+    "title": "Không có chỗ cho người học việc",
+    "description": "Những năm đầu đi làm, có lần tôi tự thực hiện một thay đổi trên hệ thống đang chạy mà không viết change request (phiếu thay đổi), không chuẩn bị runbook (phương án xử lý), cũng không báo ai. Tôi nghĩ mình đã nắm rõ.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/17/IT-1786984672-9021-1786984675.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=9KLo7pJ7yLlb9ZmN5FVvuQ",
+    "link": "https://vnexpress.net/khong-co-cho-cho-nguoi-hoc-viec-5110187.html",
+    "published_at": "Tue, 18 Aug 2026 00:00:00 +0700",
+    "createAt": "2026-08-17T17:00:00.000Z",
+    "thumbnail_blurhash": "LDQvwR~qWB-;~qNGt7t7~qRPRjof"
   }
 ]
