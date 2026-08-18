@@ -258,5 +258,31 @@
     "published_at": "Tue, 18 Aug 2026 20:54:00 +0700",
     "createAt": "2026-08-18T13:54:00.000Z",
     "thumbnail_blurhash": "LpI~_Ft-O@t,ysnNiwX8NdNFn~t6"
+  },
+  {
+    "id": "https://vnexpress.net/co-nen-gom-co-phieu-truoc-ky-ra-soat-ftse-5110436.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Có nên gom cổ phiếu trước kỳ rà soát FTSE?",
+    "description": "Mua trước cổ phiếu có khả năng vào rổ FTSE có thể đón dòng tiền, nhưng cũng tiềm ẩn rủi ro nếu kỳ vọng đã phản ánh vào giá.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/08/18/233a7871-1787039430-1806-1787039485.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=NIt06UKNj8ZfZZolvv4Epg",
+    "link": "https://vnexpress.net/co-nen-gom-co-phieu-truoc-ky-ra-soat-ftse-5110436.html",
+    "published_at": "Wed, 19 Aug 2026 00:00:00 +0700",
+    "createAt": "2026-08-18T17:00:00.000Z",
+    "thumbnail_blurhash": "L684_O00v#?H0*~qDOIU%%M_wdbI"
+  },
+  {
+    "id": "https://vnexpress.net/fdi-chat-luong-cao-mo-cua-sang-cho-kho-xuong-xay-san-5110358.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "FDI chất lượng cao mở 'cửa sáng' cho kho xưởng xây sẵn",
+    "description": "Kho xưởng xây sẵn khả năng hút khách nhờ FDI chất lượng cao, nhưng phải đáp ứng yêu cầu ngày càng cao về vị trí kết nối, hạ tầng xanh",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/18/KCN-Vietnam-5-1787038378-8049-1787039048.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Nmyd0WACKYF_qsZD8sBowQ",
+    "link": "https://vnexpress.net/fdi-chat-luong-cao-mo-cua-sang-cho-kho-xuong-xay-san-5110358.html",
+    "published_at": "Wed, 19 Aug 2026 00:05:00 +0700",
+    "createAt": "2026-08-18T17:05:00.000Z",
+    "thumbnail_blurhash": "LGF$ndM{00-;~qt6M{k800xv-=IU"
   }
 ]
