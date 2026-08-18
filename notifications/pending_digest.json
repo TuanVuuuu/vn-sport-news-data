@@ -1,3 +1,43 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/hlv-malaysia-chung-toi-se-buoc-viet-nam-phai-phong-ngu-5110300.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "HLV Malaysia: 'Chúng tôi sẽ buộc Việt Nam phải phòng ngự'",
+      "description": "HLV Tan Cheng Hoe coi nhẹ bất lợi về tỷ số cũng như thống kê lịch sử, và tin tưởng Malaysia sẽ đảo ngược tình thế ở lượt về bán kết ASEAN Cup 2026 ngày 19/8 bằng thế trận tấn công.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/08/18/1786765162890-g765842866275597-9865-5319-1787022369.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=f6M_dHKUKDviX7-kBzb5SQ",
+      "link": "https://vnexpress.net/hlv-malaysia-chung-toi-se-buoc-viet-nam-phai-phong-ngu-5110300.html",
+      "published_at": "Tue, 18 Aug 2026 10:44:51 +0700",
+      "createAt": "2026-08-18T03:44:51.000Z",
+      "thumbnail_blurhash": "LUI5cJxZ?wtm?bs:NIRjR;adMvj^"
+    },
+    {
+      "id": "https://vnexpress.net/boi-thuong-dat-mat-tien-luong-dinh-cua-du-kien-cao-nhat-hon-170-trieu-dong-moi-m2-5110262.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Bồi thường đất mặt tiền Lương Định Của dự kiến cao nhất hơn 170 triệu đồng mỗi m2",
+      "description": "Dự án nâng cấp, mở rộng đường Lương Định Của dự kiến thu hồi hơn 22.000 m2 đất tại phường Bình Trưng, với tổng chi phí bồi thường, hỗ trợ tạm tính khoảng 1.641 tỷ đồng.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/18/3d3baa6144cfde243d001bdc81b81b-7508-5640-1787018697.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=LkqVBguMF7NafUvg-p9wug",
+      "link": "https://vnexpress.net/boi-thuong-dat-mat-tien-luong-dinh-cua-du-kien-cao-nhat-hon-170-trieu-dong-moi-m2-5110262.html",
+      "published_at": "Tue, 18 Aug 2026 11:01:00 +0700",
+      "createAt": "2026-08-18T04:01:00.000Z",
+      "thumbnail_blurhash": "L6F$OtQ=?Ixs?[EJX9Nt4:NFnPni"
+    },
+    {
+      "id": "https://vnexpress.net/hlv-kim-sang-sik-khong-chu-quan-du-dan-malaysia-2-0-5110302.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "HLV Kim Sang-sik: 'Không chủ quan dù dẫn Malaysia 2-0'",
+      "description": "HLV Kim Sang-sik chuẩn bị đưa ra những đánh giá ở họp báo trước lượt về bán kết ASEAN Cup 2026 trên sân Mỹ Đình ngày 19/8.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/08/18/dong5680-jpg-1787022259-9518-1787022374.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=IUi_8t3pJRnKJeQp2at57A",
+      "link": "https://vnexpress.net/hlv-kim-sang-sik-khong-chu-quan-du-dan-malaysia-2-0-5110302.html",
+      "published_at": "Tue, 18 Aug 2026 11:14:39 +0700",
+      "createAt": "2026-08-18T04:14:39.000Z",
+      "thumbnail_blurhash": "LFG+qF$y_LTM^rxt5Fj;1LNKozoL"
+    }
+  ]
 }
