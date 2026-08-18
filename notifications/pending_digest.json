@@ -1,3 +1,56 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/viet-nam-khai-thac-van-de-hang-thu-4-nguoi-cua-malaysia-the-nao-5110103.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Việt Nam khai thác vấn đề hàng thủ 4 người của Malaysia thế nào?",
+      "description": "Dù không quá áp đảo ở lượt đi bán kết ASEAN Cup tối 16/8, thầy trò Kim Sang-sik vẫn biết cách \"bóc trần\" thế lưỡng nan nơi hàng thủ Malaysia - điều trực tiếp dẫn đến hai bàn thắng.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/08/18/DONG113-2747-1787009173.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ZuRZPUYKrgCskOljOGm6aA",
+      "link": "https://vnexpress.net/viet-nam-khai-thac-van-de-hang-thu-4-nguoi-cua-malaysia-the-nao-5110103.html",
+      "published_at": "Tue, 18 Aug 2026 06:26:13 +0700",
+      "createAt": "2026-08-17T23:26:13.000Z",
+      "thumbnail_blurhash": "LIFY.9~XNdIn00NEn#n,EIIWt7xu"
+    },
+    {
+      "id": "https://vnexpress.net/hon-2-nam-mon-moi-doi-lai-con-bi-chong-cu-bat-ngo-bat-di-5109998.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Hơn 2 năm mòn mỏi đòi lại con bị chồng cũ bất ngờ bắt đi",
+      "description": "Sau ly hôn, chị Đồng Thị Ngân được tòa giao nuôi hai con, song chồng cũ đến bệnh viện thăm con gái 3 tuổi rồi tự ý đưa bé về nhà và giữ đến nay.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/17/178658442820682780126059403969-1616-5498-1786978570.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Yaxe9q3lNxXYlGTnSAhFbQ",
+      "link": "https://vnexpress.net/hon-2-nam-mon-moi-doi-lai-con-bi-chong-cu-bat-ngo-bat-di-5109998.html",
+      "published_at": "Tue, 18 Aug 2026 07:00:00 +0700",
+      "createAt": "2026-08-18T00:00:00.000Z",
+      "thumbnail_blurhash": "LCH^ki5:001500-8~pIp?^-UrDIp"
+    },
+    {
+      "id": "https://vnexpress.net/ban-nguoi-mong-khong-rac-thai-giua-nui-rung-tay-bac-5108929.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Bản người Mông không rác thải giữa núi rừng Tây Bắc",
+      "description": "Giữa núi rừng Tây Bắc, Lao Chải 1 hiện lên với những nếp nhà bên thung lũng, sắc hoa ven đường, những con ngõ không rác và nghề truyền thống được gìn giữ qua nhiều thế hệ người H'Mông.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/14/wm1-l1051965-jpg-1786640605-1786640789.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=8URchSZW_FDsDtLRrGzNVQ",
+      "link": "https://vnexpress.net/ban-nguoi-mong-khong-rac-thai-giua-nui-rung-tay-bac-5108929.html",
+      "published_at": "Tue, 18 Aug 2026 07:00:00 +0700",
+      "createAt": "2026-08-18T00:00:00.000Z",
+      "thumbnail_blurhash": "LPBpwlNFD*xv~qD*ITxu_3IUM{xb"
+    },
+    {
+      "id": "https://vnexpress.net/iran-chi-trich-ong-trump-ao-tuong-ve-dam-phan-bi-mat-5110211.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Iran chỉ trích ông Trump 'ảo tưởng' về đàm phán bí mật",
+      "description": "Vệ binh Cách mạng Hồi giáo Iran phủ nhận đã đàm phán với Mỹ qua kênh bí mật, nói rằng đó chỉ là \"ảo tưởng\" của ông Trump.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/18/afpb9os-v1-highres-iranmilitar-3200-8275-1787010318.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=IsVpLnHRBp_ldmSOPLlUGw",
+      "link": "https://vnexpress.net/iran-chi-trich-ong-trump-ao-tuong-ve-dam-phan-bi-mat-5110211.html",
+      "published_at": "Tue, 18 Aug 2026 07:02:11 +0700",
+      "createAt": "2026-08-18T00:02:11.000Z",
+      "thumbnail_blurhash": "LmG[f@t7ayay_Ns.ayjY_3ofayjs"
+    }
+  ]
 }
