@@ -869,5 +869,31 @@
     "published_at": "Tue, 18 Aug 2026 15:00:00 +0700",
     "createAt": "2026-08-18T08:00:00.000Z",
     "thumbnail_blurhash": "LPF=s|?^~Vt8J:xBkVoe^*%hx]M{"
+  },
+  {
+    "id": "https://vnexpress.net/uav-viet-trinh-dien-kha-nang-danh-chan-tieu-diet-muc-tieu-5110439.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "UAV Việt trình diễn khả năng đánh chặn, tiêu diệt mục tiêu",
+    "description": "Hội Hàng không Vũ trụ Việt Nam tổ chức thao diễn thực chiến, giới thiệu UAV do Việt Nam nghiên cứu, phát triển cho nhiệm vụ bảo đảm an ninh trên không gian tầm thấp.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/18/wm1-1-jpg-1787037526-1787039929.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=aCgb3McoXyn13m2-4TIKgw",
+    "link": "https://vnexpress.net/uav-viet-trinh-dien-kha-nang-danh-chan-tieu-diet-muc-tieu-5110439.html",
+    "published_at": "Tue, 18 Aug 2026 15:33:25 +0700",
+    "createAt": "2026-08-18T08:33:25.000Z",
+    "thumbnail_blurhash": "L~LpE;ofNbr?.mkCa#ayyEoen%bb"
+  },
+  {
+    "id": "https://vnexpress.net/anjier-t4-may-loc-nuoc-de-ban-bu-khoang-4-che-do-5110183.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Anjier T4 - máy lọc nước để bàn, bù khoáng 4 chế độ",
+    "description": "Anjier T4 là máy lọc nước để bàn nhỏ gọn với 4 chế độ nước nóng lạnh, khả năng điều chỉnh từng độ C, bổ sung khoáng chất strontium.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/17/DSC9142-1786978211.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=B77WwP2Lc3dosifIYqG2rw",
+    "link": "https://vnexpress.net/anjier-t4-may-loc-nuoc-de-ban-bu-khoang-4-che-do-5110183.html",
+    "published_at": "Tue, 18 Aug 2026 16:00:00 +0700",
+    "createAt": "2026-08-18T09:00:00.000Z",
+    "thumbnail_blurhash": "LGI=0?4n%zxu_N4TMyRkR%%gspxu"
   }
 ]
