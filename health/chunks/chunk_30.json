@@ -726,5 +726,57 @@
     "published_at": "Tue, 18 Aug 2026 14:30:06 +0700",
     "createAt": "2026-08-18T07:30:06.000Z",
     "thumbnail_blurhash": "LML;dI00t9wJ_NROQ,NGVY%MtRs:"
+  },
+  {
+    "id": "https://vnexpress.net/ap-xe-vung-kin-do-silicon-tran-tu-hong-xuong-5110270.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Áp xe vùng kín do silicon tràn từ hông xuống",
+    "description": "Chị Thủy, 36 tuổi, sưng đau, mủ vùng kín, bác sĩ chẩn đoán do silicon lỏng bơm vào vùng hông di chuyển xuống cơ quan sinh dục tạo ổ áp xe.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/18/image001-1787020644-9160-1787021196.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=r_qAomcupo2pG7TgyZzqVw",
+    "link": "https://vnexpress.net/ap-xe-vung-kin-do-silicon-tran-tu-hong-xuong-5110270.html",
+    "published_at": "Tue, 18 Aug 2026 15:00:00 +0700",
+    "createAt": "2026-08-18T08:00:00.000Z",
+    "thumbnail_blurhash": "LAKw@F8w00_2GuAC~UxvV=?w^+%1"
+  },
+  {
+    "id": "https://vnexpress.net/vi-sao-phu-nu-ne-tranh-chuyen-chan-goi-5110245.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Vì sao phụ nữ né tránh 'chuyện chăn gối'?",
+    "description": "Thay đổi nội tiết tố, cơ thể mệt mỏi kéo dài hay stress là những nguyên nhân khiến phụ nữ không còn mặn mà với \"chuyện chăn gối\".",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/18/nhieu-phu-nu-ban-ron-voi-cong-3561-6829-1787017041.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=VcAAfkdEiOZaPffVudGs1Q",
+    "link": "https://vnexpress.net/vi-sao-phu-nu-ne-tranh-chuyen-chan-goi-5110245.html",
+    "published_at": "Tue, 18 Aug 2026 15:00:00 +0700",
+    "createAt": "2026-08-18T08:00:00.000Z",
+    "thumbnail_blurhash": "LtKKyd9GRjxu~qa#oLt7xttRt7t7"
+  },
+  {
+    "id": "https://vnexpress.net/vi-sao-de-met-moi-kho-tap-trung-vao-buoi-chieu-5109836.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Vì sao dễ mệt mỏi, khó tập trung vào buổi chiều?",
+    "description": "Năng lượng và khả năng tập trung có thể giảm vào buổi chiều do nhịp sinh học, căng thẳng và thời gian làm việc kéo dài.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/17/436589501-n-1786930822-1769-1786930956.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=l7eLi3Bi40_CkL2CaXj9Cw",
+    "link": "https://vnexpress.net/vi-sao-de-met-moi-kho-tap-trung-vao-buoi-chieu-5109836.html",
+    "published_at": "Tue, 18 Aug 2026 15:00:00 +0700",
+    "createAt": "2026-08-18T08:00:00.000Z",
+    "thumbnail_blurhash": "LNLL,7ml5@tQ~AMyxtt6Oaadxst7"
+  },
+  {
+    "id": "https://vnexpress.net/viet-nam-se-lap-tong-dai-khan-cap-quoc-gia-bo-sung-xe-cuu-thuong-5107564.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Việt Nam sẽ lập tổng đài khẩn cấp quốc gia, bổ sung xe cứu thương",
+    "description": "Chính phủ sẽ lập tổng đài khẩn cấp quốc gia, bổ sung xe cứu thương và phổ cập kỹ năng sơ cứu cho người dân nhằm giảm tử vong do tai nạn, thương tích.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/10/1-1786371480-3953-1786371508.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ChI_mDhcIsYbNJ624qnm3Q",
+    "link": "https://vnexpress.net/viet-nam-se-lap-tong-dai-khan-cap-quoc-gia-bo-sung-xe-cuu-thuong-5107564.html",
+    "published_at": "Tue, 18 Aug 2026 15:06:07 +0700",
+    "createAt": "2026-08-18T08:06:07.000Z",
+    "thumbnail_blurhash": "L8Gj?Z^$mTRY3;RjP8tj}uF4bEbF"
   }
 ]
