@@ -583,5 +583,57 @@
     "published_at": "Tue, 18 Aug 2026 15:43:51 +0700",
     "createAt": "2026-08-18T08:43:51.000Z",
     "thumbnail_blurhash": "L1F$Y60100GI0@00=f-p~p=d0f~V"
+  },
+  {
+    "id": "https://vnexpress.net/trung-quoc-tim-cach-hut-nhan-tai-tu-my-5110074.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Trung Quốc tìm cách hút nhân tài từ Mỹ",
+    "description": "Cuộc đua giành nhân tài khoa học đang nóng lên, khi Trung Quốc tăng sức hút bằng tiềm lực tài chính và cơ hội nghề nghiệp, trong khi lợi thế của Mỹ suy giảm.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/18/1-1787023585-7027-1787023590.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=qdaWxfzlYenvvWhpWG4Dsg",
+    "link": "https://vnexpress.net/trung-quoc-tim-cach-hut-nhan-tai-tu-my-5110074.html",
+    "published_at": "Tue, 18 Aug 2026 10:26:30 +0700",
+    "createAt": "2026-08-18T03:26:30.000Z",
+    "thumbnail_blurhash": "LMKUZijDxaMx~qIpR+M{obWBRktR"
+  },
+  {
+    "id": "https://vnexpress.net/my-neu-dieu-kien-buoc-hamas-buong-sung-5110454.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Mỹ nêu điều kiện buộc Hamas buông súng",
+    "description": "Đặc phái viên Jared Kushner tuyên bố Mỹ sẽ không cho phép tái thiết Dải Gaza chừng nào nhóm Hamas chưa hoàn tất giao nộp vũ khí.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/18/afp-mei-palestine-sj-hf6h-v1-h-6010-7702-1787042282.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=AUX2VYlc_jV7J0VwRA7jMA",
+    "link": "https://vnexpress.net/my-neu-dieu-kien-buoc-hamas-buong-sung-5110454.html",
+    "published_at": "Tue, 18 Aug 2026 16:00:40 +0700",
+    "createAt": "2026-08-18T09:00:40.000Z",
+    "thumbnail_blurhash": "LVFFvyx[R+oz_NR$W.t7.9kBbHog"
+  },
+  {
+    "id": "https://vnexpress.net/my-dieu-them-to-hop-patriot-den-can-cu-chien-luoc-thai-binh-duong-5110435.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Mỹ điều thêm tổ hợp Patriot đến căn cứ chiến lược Thái Bình Dương",
+    "description": "Quân đội Mỹ lập thêm một tiểu đoàn Patriot ở đảo Guam nhằm tăng cường năng lực phòng không cho căn cứ chiến lược tại Thái Bình Dương.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/18/5563187178137269451a-178703966-1355-4810-1787040378.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=K3es0RB2wXWzi7Y5o2gNkA",
+    "link": "https://vnexpress.net/my-dieu-them-to-hop-patriot-den-can-cu-chien-luoc-thai-binh-duong-5110435.html",
+    "published_at": "Tue, 18 Aug 2026 16:30:40 +0700",
+    "createAt": "2026-08-18T09:30:40.000Z",
+    "thumbnail_blurhash": "LmIq_sE1Rj%L.Axua#WVbdxut7R*"
+  },
+  {
+    "id": "https://vnexpress.net/thu-tuong-le-minh-hung-vieng-ong-chu-dung-co-5110470.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Thủ tướng Lê Minh Hưng viếng ông Chu Dung Cơ",
+    "description": "Thủ tướng Lê Minh Hưng đến Đại sứ quán Trung Quốc viếng ông Chu Dung Cơ, thể hiện sự trân trọng đóng góp của ông đối với quan hệ hai nước.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/18/base6417870283086371794152231-5018-5076-1787044250.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=1RF_IIqmCT6laMmp-ocG-w",
+    "link": "https://vnexpress.net/thu-tuong-le-minh-hung-vieng-ong-chu-dung-co-5110470.html",
+    "published_at": "Tue, 18 Aug 2026 16:40:05 +0700",
+    "createAt": "2026-08-18T09:40:05.000Z",
+    "thumbnail_blurhash": "LIEpA}R44mR*D4xu*0kW~DVsbuoz"
   }
 ]
