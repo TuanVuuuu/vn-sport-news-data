@@ -505,5 +505,31 @@
     "published_at": "Tue, 18 Aug 2026 07:00:00 +0700",
     "createAt": "2026-08-18T00:00:00.000Z",
     "thumbnail_blurhash": "LX9]A.xaoMp0%%bHR+kYxxoztRWB"
+  },
+  {
+    "id": "https://vnexpress.net/robot-ai-phau-thuat-xam-lan-toi-thieu-cuu-nguoi-dot-quy-5110234.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Robot AI phẫu thuật xâm lấn tối thiểu cứu người đột quỵ",
+    "description": "Robot AI hỗ trợ bác sĩ lựa chọn đường tiếp cận ít xâm lấn, đưa ống nong vào chính xác vị trí khối máu tụ sâu trong não người đột quỵ.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/18/mo-robot-dot-quy-1787013706-8002-1787013773.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=IWh1l9fXOcZiTBa60RdjWQ",
+    "link": "https://vnexpress.net/robot-ai-phau-thuat-xam-lan-toi-thieu-cuu-nguoi-dot-quy-5110234.html",
+    "published_at": "Tue, 18 Aug 2026 08:00:00 +0700",
+    "createAt": "2026-08-18T01:00:00.000Z",
+    "thumbnail_blurhash": "LiIPl1%hnf%M~Tk7oiof%1ayWWo0"
+  },
+  {
+    "id": "https://vnexpress.net/giac-mac-mong-nguoi-dan-ong-khong-the-mo-can-bang-laser-5110193.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Giác mạc mỏng, người đàn ông không thể mổ cận bằng laser",
+    "description": "Anh Phong, 28 tuổi, hai mắt cận gần 4 độ, giác mạc mỏng nên không thể mổ cận bằng laser, bác sĩ chỉ định dùng kính áp tròng cứng Ortho-K.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/18/vne-1787012380-8003-1787012733.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=jWkbXRFsc7sEKQQlSA6QcA",
+    "link": "https://vnexpress.net/giac-mac-mong-nguoi-dan-ong-khong-the-mo-can-bang-laser-5110193.html",
+    "published_at": "Tue, 18 Aug 2026 08:00:00 +0700",
+    "createAt": "2026-08-18T01:00:00.000Z",
+    "thumbnail_blurhash": "LMNdOE~A~p?c${xYtS%09Exto#n#"
   }
 ]
