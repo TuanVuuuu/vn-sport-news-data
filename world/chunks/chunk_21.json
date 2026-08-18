@@ -388,5 +388,31 @@
     "published_at": "Tue, 18 Aug 2026 07:33:17 +0700",
     "createAt": "2026-08-18T00:33:17.000Z",
     "thumbnail_blurhash": "LSCY%,-256E-?1x9J7JEOaWBr;og"
+  },
+  {
+    "id": "https://vnexpress.net/la-chan-thaad-patriot-danh-chan-ten-lua-dan-dao-the-nao-5110033.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Lá chắn THAAD, Patriot đánh chặn tên lửa đạn đạo thế nào",
+    "description": "THAAD và Patriot sử dụng radar tầm xa để phát hiện mục tiêu, sau đó chuyển dữ liệu cho đài chỉ huy để lập phương án chặn tên lửa đạn đạo.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/17/set-top-1786951085.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=z6lLhfEZRw1UqgOZxD5SrA",
+    "link": "https://vnexpress.net/la-chan-thaad-patriot-danh-chan-ten-lua-dan-dao-the-nao-5110033.html",
+    "published_at": "Tue, 18 Aug 2026 08:00:00 +0700",
+    "createAt": "2026-08-18T01:00:00.000Z",
+    "thumbnail_blurhash": "LUR:E9-;ay-;~qa|oLWBn%WBozWB"
+  },
+  {
+    "id": "https://vnexpress.net/mang-luoi-nguoi-trieu-chau-thong-tri-cho-dien-tu-lon-nhat-the-gioi-5108221.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Mạng lưới người Triều Châu thống trị chợ điện tử lớn nhất thế giới",
+    "description": "Tư duy kinh doanh nhạy bén cùng hệ thống tương trợ nội bộ khép kín khiến cộng đồng người Triều Châu thiết lập vị thế áp đảo tại chợ điện tử sầm uất nhất thế giới.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/13/202508252dff6f2aa52146d8b014ad-9611-3870-1786617240.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=zstOF1E7Xmh4KwKs_gXNLg",
+    "link": "https://vnexpress.net/mang-luoi-nguoi-trieu-chau-thong-tri-cho-dien-tu-lon-nhat-the-gioi-5108221.html",
+    "published_at": "Tue, 18 Aug 2026 08:13:29 +0700",
+    "createAt": "2026-08-18T01:13:29.000Z",
+    "thumbnail_blurhash": "LUHfJ4xbaI?u~qMxIUxu%NWBNFad"
   }
 ]
