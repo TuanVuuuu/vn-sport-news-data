@@ -570,5 +570,31 @@
     "published_at": "Wed, 19 Aug 2026 13:00:00 +0700",
     "createAt": "2026-08-19T06:00:00.000Z",
     "thumbnail_blurhash": "L9DcR6xu4nR+_4xutQWENzWBtQjs"
+  },
+  {
+    "id": "https://vnexpress.net/13-lo-dat-vung-ven-ha-tinh-khong-co-nguoi-dau-gia-5110747.html",
+    "category_id": "real-estate",
+    "category_name": "Bất động sản",
+    "source": "VnExpress",
+    "title": "13 lô đất vùng ven Hà Tĩnh không có người đấu giá",
+    "description": "Phiên đấu giá 13 lô đất vùng ven tại Lối Vại, xã Toàn Lưu giá khởi điểm hơn 3 tỷ đồng mỗi lô đã bị hủy do không có người đăng ký tham gia.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/19/dau-gia-dat-ha-tinh-1787117263-6720-1787117268.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=awYZ8k6wP1KxZBx2LaspUQ",
+    "link": "https://vnexpress.net/13-lo-dat-vung-ven-ha-tinh-khong-co-nguoi-dau-gia-5110747.html",
+    "published_at": "Wed, 19 Aug 2026 13:30:00 +0700",
+    "createAt": "2026-08-19T06:30:00.000Z",
+    "thumbnail_blurhash": "LmGc3$t5WBof^-oMWUj]-=j]ayj["
+  },
+  {
+    "id": "https://vnexpress.net/yeu-to-giup-chung-cu-ha-noi-giu-su-quan-tam-5110817.html",
+    "category_id": "real-estate",
+    "category_name": "Bất động sản",
+    "source": "VnExpress",
+    "title": "Yếu tố giúp chung cư Hà Nội giữ sự quan tâm",
+    "description": "Khi thị trường ngày càng chọn lọc, căn hộ đáp ứng nhu cầu ở thực, khai thác dòng tiền và tích lũy dài hạn tiếp tục được người mua quan tâm.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/19/rvsaa-1787119005-9496-1787120041.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=p2VHkFBgbUACXDfN6b4fhA",
+    "link": "https://vnexpress.net/yeu-to-giup-chung-cu-ha-noi-giu-su-quan-tam-5110817.html",
+    "published_at": "Wed, 19 Aug 2026 13:30:00 +0700",
+    "createAt": "2026-08-19T06:30:00.000Z",
+    "thumbnail_blurhash": "LeE:ulo~tRo#Y8NKjYogIWV@RPax"
   }
 ]
