@@ -1,30 +1,6 @@
 {
   "entries": [
     {
-      "sent_at": "2026-08-15T11:20:50.970Z",
-      "topic": null,
-      "device_id": "b557c896d6bacca4",
-      "slot": "evening",
-      "type": "featured_digest",
-      "article_ids": [
-        "https://vnexpress.net/lua-phu-xanh-canh-dong-muong-than-sau-lu-du-5108767.html",
-        "https://vnexpress.net/thay-giao-bi-bat-trong-vu-phi-tang-thi-the-nu-dong-nghiep-5109382.html",
-        "https://vnexpress.net/hlv-kim-sang-sik-thua-malaysia-0-4-da-la-qua-khu-5109397.html",
-        "https://vnexpress.net/hau-truong-can-nao-cua-an-ninh-my-khi-trao-chuyen-co-cho-ong-trump-5109155.html",
-        "https://vnexpress.net/326-thi-sinh-chuyen-tuyen-quang-ket-thuc-ky-thi-lai-tot-nghiep-5109428.html",
-        "https://vnexpress.net/hlv-malaysia-chung-toi-khong-nen-chu-tam-vao-viet-nam-5109431.html",
-        "https://vnexpress.net/mot-so-khu-vuc-nga-thieu-xang-khi-ha-tang-nang-luong-bi-tap-kich-5109343.html",
-        "https://vnexpress.net/xuan-son-toi-khong-can-chung-minh-dieu-gi-truoc-malaysia-5109459.html",
-        "https://vnexpress.net/loi-khai-cua-thay-giao-sat-hai-nu-dong-nghiep-sau-tiec-lien-hoan-5109461.html",
-        "https://vnexpress.net/tom-holland-10-nam-dong-vai-nguoi-nhen-5107811.html",
-        "https://vnexpress.net/gia-xoai-cat-hoa-loc-tang-gap-doi-sau-ba-thang-5109411.html",
-        "https://vnexpress.net/ba-bo-con-song-sot-sau-16-tieng-troi-dat-tren-bien-5109465.html",
-        "https://vnexpress.net/it-nhat-38-nguoi-chet-do-dong-dat-7-7-do-o-indonesia-5109482.html",
-        "https://vnexpress.net/xe-dau-keo-boc-chay-tren-cao-toc-banh-vang-trung-oto-phia-sau-5109509.html"
-      ],
-      "highlight_id": "https://vnexpress.net/xe-dau-keo-boc-chay-tren-cao-toc-banh-vang-trung-oto-phia-sau-5109509.html"
-    },
-    {
       "sent_at": "2026-08-15T11:20:51.131Z",
       "topic": null,
       "device_id": "e7368c7543fff02f",
@@ -15120,6 +15096,22 @@
         "https://vnexpress.net/goi-dau-tu-cham-ngoi-noi-bat-binh-cua-ong-trump-voi-han-quoc-5110405.html"
       ],
       "highlight_id": "https://vnexpress.net/goi-dau-tu-cham-ngoi-noi-bat-binh-cua-ong-trump-voi-han-quoc-5110405.html"
+    },
+    {
+      "sent_at": "2026-08-19T03:21:05.532Z",
+      "topic": null,
+      "device_id": "18E5E4A6-1C23-4F1D-968A-B942D089D9AC",
+      "slot": "morning",
+      "type": "featured_digest",
+      "article_ids": [
+        "https://vnexpress.net/le-gio-chung-14-nguoi-mat-vi-covid-trong-con-hem-tp-hcm-5109448.html",
+        "https://vnexpress.net/cong-bo-diem-thi-lai-tot-nghiep-thpt-cua-326-thi-sinh-truong-chuyen-tuyen-quang-5110503.html",
+        "https://vnexpress.net/khong-thi-sinh-chuyen-tuyen-quang-nao-dat-10-diem-toan-thi-lai-tot-nghiep-5110503.html",
+        "https://vnexpress.net/khach-viet-chon-chuyen-di-nuoc-ngoai-vua-tam-dip-2-9-5110383.html",
+        "https://vnexpress.net/pho-diem-thi-lai-tot-nghiep-thpt-cua-thi-sinh-chuyen-tuyen-quang-5110459.html",
+        "https://vnexpress.net/pho-diem-thi-lai-tot-nghiep-thpt-cua-thi-sinh-chuyen-tuyen-quang-tat-ca-mon-kem-so-sanh-5110459.html"
+      ],
+      "highlight_id": "https://vnexpress.net/pho-diem-thi-lai-tot-nghiep-thpt-cua-thi-sinh-chuyen-tuyen-quang-tat-ca-mon-kem-so-sanh-5110459.html"
     }
   ]
 }
