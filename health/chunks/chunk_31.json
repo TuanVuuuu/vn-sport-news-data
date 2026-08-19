@@ -76,5 +76,44 @@
     "published_at": "Wed, 19 Aug 2026 17:00:00 +0700",
     "createAt": "2026-08-19T10:00:00.000Z",
     "thumbnail_blurhash": "LGIhW^JCV;Rj~oDh%Ms:I9t7%hkD"
+  },
+  {
+    "id": "https://vnexpress.net/vi-sao-huyet-ap-cao-du-khong-an-man-5110736.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Vì sao huyết áp cao dù không ăn mặn?",
+    "description": "Thừa cân, kháng insulin, ít vận động, thiếu ngủ, căng thẳng và một số bệnh lý đều có thể gây tăng huyết áp.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/19/image001-1787113921-9733-1787114051.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=26MeynBFOkadwvhncyAwUQ",
+    "link": "https://vnexpress.net/vi-sao-huyet-ap-cao-du-khong-an-man-5110736.html",
+    "published_at": "Wed, 19 Aug 2026 17:00:00 +0700",
+    "createAt": "2026-08-19T10:00:00.000Z",
+    "thumbnail_blurhash": "LWJ[MBrC?wEMM{o~WXM_WAe.Rijb"
+  },
+  {
+    "id": "https://vnexpress.net/nguoi-viet-nam-thu-44-mac-giun-rong-5110960.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Người Việt Nam thứ 44 mắc giun rồng",
+    "description": "Từ trong hai vết thương ở cánh tay trái, người đàn ông 49 tuổi kéo ra hai đoạn trắng dài, bác sĩ chẩn đoán là giun rồng và ghi nhận ca thứ 44 tại Việt Nam mắc bệnh này.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/19/1787125746111-b0d7a879c5e60002-7870-9628-1787135166.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=6TYYhE_fh0QFEznwDT1UwA",
+    "link": "https://vnexpress.net/nguoi-viet-nam-thu-44-mac-giun-rong-5110960.html",
+    "published_at": "Wed, 19 Aug 2026 17:43:53 +0700",
+    "createAt": "2026-08-19T10:43:53.000Z",
+    "thumbnail_blurhash": "LHJG+m.T02Nd.SK6NH-6b^X9jcni"
+  },
+  {
+    "id": "https://vnexpress.net/u-gan-lanh-tinh-tang-kich-thuoc-sau-4-nam-5110911.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "U gan lành tính tăng kích thước sau 4 năm",
+    "description": "Khối u máu gan của chị Lý (43 tuổi) tăng từ 2 cm lên hơn 8 cm sau 4 năm, chiếm gần một phần thùy gan, được bác sĩ can thiệp nội mạch tránh cắt gan.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/19/vne-1787128754-4610-1787128892.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=JWbjwFqfTEVCtZKFz16c6g",
+    "link": "https://vnexpress.net/u-gan-lanh-tinh-tang-kich-thuoc-sau-4-nam-5110911.html",
+    "published_at": "Wed, 19 Aug 2026 18:00:00 +0700",
+    "createAt": "2026-08-19T11:00:00.000Z",
+    "thumbnail_blurhash": "LZHpPKxvtSIt~KxtkEM{xvV?ngt6"
   }
 ]
