@@ -1077,5 +1077,44 @@
     "published_at": "Wed, 19 Aug 2026 07:56:45 +0700",
     "createAt": "2026-08-19T00:56:45.000Z",
     "thumbnail_blurhash": "LJHe%DteH^of~otLWVM}=#t5%KM}"
+  },
+  {
+    "id": "https://vnexpress.net/bac-si-chi-4-dau-hieu-cho-thay-gan-qua-tai-5110643.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Bác sĩ chỉ 4 dấu hiệu cho thấy gan quá tải",
+    "description": "Mệt mỏi không rõ nguyên nhân, khó tiêu, rối loạn tiêu hóa, vàng da, mụn nhọt có thể là dấu hiệu cảnh báo chức năng gan suy giảm.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/19/bs-1787101829-8955-1787101876.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=h1xJTaEHUIE8NVymkPFRlw",
+    "link": "https://vnexpress.net/bac-si-chi-4-dau-hieu-cho-thay-gan-qua-tai-5110643.html",
+    "published_at": "Wed, 19 Aug 2026 10:00:00 +0700",
+    "createAt": "2026-08-19T03:00:00.000Z",
+    "thumbnail_blurhash": "LyLNc7~pM{xutRxtRjRk%LRiRjt7"
+  },
+  {
+    "id": "https://vnexpress.net/tu-australia-ve-viet-nam-chua-ung-thu-tuy-5110641.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Từ Australia về Việt Nam chữa ung thư tụy",
+    "description": "Bà Hân, 60 tuổi, sống tại Australia, ung thư tụy giai đoạn cuối kèm suy thận giai đoạn ba, quyết định về Việt Nam điều trị.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/19/ab-1787101618-3903-1787101625.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=GtOtparnh9DEcrsnGvqiAQ",
+    "link": "https://vnexpress.net/tu-australia-ve-viet-nam-chua-ung-thu-tuy-5110641.html",
+    "published_at": "Wed, 19 Aug 2026 10:00:00 +0700",
+    "createAt": "2026-08-19T03:00:00.000Z",
+    "thumbnail_blurhash": "LSM%yS?Gxuaf~qM|RixZobRjogbw"
+  },
+  {
+    "id": "https://vnexpress.net/dieu-gi-xay-ra-voi-gan-khi-ban-an-trung-5110455.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Điều gì xảy ra với gan khi bạn ăn trứng?",
+    "description": "Tác động của trứng lên gan phụ thuộc vào sức khỏe cá nhân, người bình thường có thể ăn 1-2 quả mỗi ngày, nhưng người có cholesterol cao nên hạn chế.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/18/screenshot-at-1787041450-2862-1787041484.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=3beTLHuUL9vK5mWow8V1Hw",
+    "link": "https://vnexpress.net/dieu-gi-xay-ra-voi-gan-khi-ban-an-trung-5110455.html",
+    "published_at": "Wed, 19 Aug 2026 10:10:51 +0700",
+    "createAt": "2026-08-19T03:10:51.000Z",
+    "thumbnail_blurhash": "LEDu^~AD00$~Sufj$SRk00xZ~CNI"
   }
 ]
