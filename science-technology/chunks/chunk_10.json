@@ -947,5 +947,44 @@
     "published_at": "Wed, 19 Aug 2026 05:00:00 +0700",
     "createAt": "2026-08-18T22:00:00.000Z",
     "thumbnail_blurhash": "L26H1C=e0g0gt7oLtRR-0MNc^P}s"
+  },
+  {
+    "id": "https://vnexpress.net/ung-dung-tammi-nam-trong-top-tai-nhieu-tai-viet-nam-5110618.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Ứng dụng Tammi nằm trong top tải nhiều tại Việt Nam",
+    "description": "Ứng dụng Tammi tích hợp nhiều dịch vụ như viễn thông, thanh toán, gọi điện, nhắn tin và họp trực tuyến miễn phí, đạt hơn 5 triệu người dùng và đứng đầu về lượt tải.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/19/wm1-wm1-img-8354-jpg-1787099167-8633-1787099327.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=vGNakAdhz1XveVl_E8rmEg",
+    "link": "https://vnexpress.net/ung-dung-tammi-nam-trong-top-tai-nhieu-tai-viet-nam-5110618.html",
+    "published_at": "Wed, 19 Aug 2026 07:53:29 +0700",
+    "createAt": "2026-08-19T00:53:29.000Z",
+    "thumbnail_blurhash": "LFJR2J+f00In~qx]I.OWU]t7yrXm"
+  },
+  {
+    "id": "https://vnexpress.net/ai-my-xoay-xo-canh-tranh-gia-voi-trung-quoc-5110202.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "AI Mỹ xoay xở cạnh tranh giá với Trung Quốc",
+    "description": "Nhiều công ty AI hàng đầu tại Mỹ như OpenAI, Anthropic ra mô hình rẻ hơn khi khách hàng doanh nghiệp có xu hướng chuộng sản phẩm Trung Quốc giá thấp.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/18/dsc09973jpg1783619349941717836-2350-5233-1786992945.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=CEblSoyqDwIKCV4JrYXuuQ",
+    "link": "https://vnexpress.net/ai-my-xoay-xo-canh-tranh-gia-voi-trung-quoc-5110202.html",
+    "published_at": "Wed, 19 Aug 2026 08:00:00 +0700",
+    "createAt": "2026-08-19T01:00:00.000Z",
+    "thumbnail_blurhash": "LPGv6Zxa00s7*INGRUxaE^RlxaR-"
+  },
+  {
+    "id": "https://vnexpress.net/4-canh-tay-robot-lan-dau-mo-ung-thu-qua-mot-cong-5110581.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "4 cánh tay robot lần đầu mổ ung thư qua một cổng",
+    "description": "11h, PGS Vũ Lê Chuyên và đồng nghiệp vào phòng mổ, ngồi ở hai buồng điều khiển robot Da Vinci Xi (Mỹ), cách bệnh nhân gần 2 m, thực hiện ca phẫu thuật \"một cổng\" chưa từng có tại Việt Nam.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/18/Hnh1thumb-1787066398-7868-1787067019.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=X9zH-O7tsXDgb9k09m6v0g",
+    "link": "https://vnexpress.net/4-canh-tay-robot-lan-dau-mo-ung-thu-qua-mot-cong-5110581.html",
+    "published_at": "Wed, 19 Aug 2026 08:00:00 +0700",
+    "createAt": "2026-08-19T01:00:00.000Z",
+    "thumbnail_blurhash": "LgK-@GoGs,jZ~VkENGW;Ipt6t8oM"
   }
 ]
