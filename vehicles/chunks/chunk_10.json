@@ -648,5 +648,31 @@
     "published_at": "Wed, 19 Aug 2026 14:26:14 +0700",
     "createAt": "2026-08-19T07:26:14.000Z",
     "thumbnail_blurhash": "LME3bmI9WCtS~qM{aztRIAWX%Mxv"
+  },
+  {
+    "id": "https://vnexpress.net/koenigsegg-ccgt1-xe-dua-duong-pho-gia-4-05-trieu-usd-5109972.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Koenigsegg CCGT1 - xe đua đường phố giá 4,05 triệu USD",
+    "description": "CCGT1 có công suất đến 1.600 mã lực, lực ép xuống mặt đường 800 kg và sản xuất giới hạn 70 chiếc đã được bán hết trước khi ra mắt.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/17/Koenigsegg1-1786950048-7104-1786950323.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=tvNQ9_SCQGN0DBLUSytVcg",
+    "link": "https://vnexpress.net/koenigsegg-ccgt1-xe-dua-duong-pho-gia-4-05-trieu-usd-5109972.html",
+    "published_at": "Thu, 20 Aug 2026 05:00:00 +0700",
+    "createAt": "2026-08-19T22:00:00.000Z",
+    "thumbnail_blurhash": "L27-mB9ZwfD$n3bwDi-;00DOXm_N"
+  },
+  {
+    "id": "https://vnexpress.net/mercedes-c-class-2027-thay-doi-nhe-tang-cong-nghe-5110795.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Mercedes C-class 2027 thay đổi nhẹ, tăng công nghệ",
+    "description": "Phiên bản chạy xăng của C-class tập trung thay đổi ngoại thất, trang bị nhiều công nghệ hơn và tinh chỉnh động cơ MHEV.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/19/MercedesCclass2-1787121695-4342-1787123217.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=VUmv79lgrbymBgpfdqZAnA",
+    "link": "https://vnexpress.net/mercedes-c-class-2027-thay-doi-nhe-tang-cong-nghe-5110795.html",
+    "published_at": "Thu, 20 Aug 2026 06:00:00 +0700",
+    "createAt": "2026-08-19T23:00:00.000Z",
+    "thumbnail_blurhash": "L9C%25^%-4?bEM^+H=Rl~qM{4nM|"
   }
 ]
