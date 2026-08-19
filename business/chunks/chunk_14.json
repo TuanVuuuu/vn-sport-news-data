@@ -531,5 +531,31 @@
     "published_at": "Wed, 19 Aug 2026 20:54:25 +0700",
     "createAt": "2026-08-19T13:54:25.000Z",
     "thumbnail_blurhash": "LjL;jRyD_4x^_3WBjsxtWYWBV@xu"
+  },
+  {
+    "id": "https://vnexpress.net/nha-tang-gia-cham-nhung-gan-duong-sat-thu-thiem-long-thanh-nen-giu-hay-mua-can-khac-5110845.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Nhà tăng giá chậm nhưng gần đường sắt Thủ Thiêm - Long Thành, nên giữ hay mua căn khác?",
+    "description": "Theo chuyên gia, hạ tầng có thể là điểm cộng, nhưng pháp lý lại là điểm trừ lớn, có thể cân nhắc tìm hiểu phương án đầu tư tốt hơn.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/08/19/wm1-wm1-1786527293145-d907b029e194-7048-7325-1787122550.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=SZXIK3VG4R5iwm6AjEAe-Q",
+    "link": "https://vnexpress.net/nha-tang-gia-cham-nhung-gan-duong-sat-thu-thiem-long-thanh-nen-giu-hay-mua-can-khac-5110845.html",
+    "published_at": "Thu, 20 Aug 2026 00:00:00 +0700",
+    "createAt": "2026-08-19T17:00:00.000Z",
+    "thumbnail_blurhash": "LIRW3i-;ax-;~qofayt7%MWUoft7"
+  },
+  {
+    "id": "https://vnexpress.net/cac-nuoc-thu-phi-giao-thong-nhu-the-nao-5111005.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Các nước thu phí giao thông như thế nào?",
+    "description": "Đài Loan có các điểm thu phí điện tử không dừng, Trung Quốc vẫn duy trì trạm thủ công, trong khi Đức tính phí theo định vị từ vệ tinh.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/08/19/etag-e1429256372648-1787147962-3776-1787148242.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=XNapGuB8RPpP9KStkOAXfw",
+    "link": "https://vnexpress.net/cac-nuoc-thu-phi-giao-thong-nhu-the-nao-5111005.html",
+    "published_at": "Thu, 20 Aug 2026 00:05:00 +0700",
+    "createAt": "2026-08-19T17:05:00.000Z",
+    "thumbnail_blurhash": "LPD]@?VrxvkD.AoMxuWVkXtTazoJ"
   }
 ]
