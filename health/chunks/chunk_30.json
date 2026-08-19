@@ -999,5 +999,57 @@
     "published_at": "Wed, 19 Aug 2026 06:00:00 +0700",
     "createAt": "2026-08-18T23:00:00.000Z",
     "thumbnail_blurhash": "LcI;q+xVNeSO~paxR+ofTeofs-xZ"
+  },
+  {
+    "id": "https://vnexpress.net/bac-si-nhat-canh-bao-rui-ro-tim-mach-khi-uong-nuoc-sai-cach-buoi-sang-5110582.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Bác sĩ Nhật cảnh báo rủi ro tim mạch khi uống nước sai cách buổi sáng",
+    "description": "Việc uống dồn từng ngụm lớn nước quá nóng ngay sau khi thức dậy có thể khiến huyết áp biến động đột ngột, làm tăng gánh nặng cho hệ tim mạch của nhóm người có bệnh nền.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/18/0-1787071838-2644-1787072044.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=mjF_B_tXUa0abg2KKIItWQ",
+    "link": "https://vnexpress.net/bac-si-nhat-canh-bao-rui-ro-tim-mach-khi-uong-nuoc-sai-cach-buoi-sang-5110582.html",
+    "published_at": "Wed, 19 Aug 2026 07:56:45 +0700",
+    "createAt": "2026-08-19T00:56:45.000Z",
+    "thumbnail_blurhash": "LOKJ*$~VtROYtj--XRxuacovNGE1"
+  },
+  {
+    "id": "https://vnexpress.net/ho-tro-tuan-hoan-can-thiep-mach-vanh-cho-cu-ong-5110526.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Hỗ trợ tuần hoàn can thiệp mạch vành cho cụ ông",
+    "description": "Ông Ngọ, 86 tuổi, đau thắt ngực, khó thở, hẹp mạch vành phức tạp, chức năng tim suy giảm, được bác sĩ đặt stent mạch vành với thiết bị hỗ trợ thất trái tạm thời (iVAC).",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/19/image001-1787098694-4252-1787098790.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=2QO9ZzZMwi8ioCMfOXJh-g",
+    "link": "https://vnexpress.net/ho-tro-tuan-hoan-can-thiep-mach-vanh-cho-cu-ong-5110526.html",
+    "published_at": "Wed, 19 Aug 2026 08:00:00 +0700",
+    "createAt": "2026-08-19T01:00:00.000Z",
+    "thumbnail_blurhash": "LZGJp:-=oHM|~o%2bIbEx^sDR:WU"
+  },
+  {
+    "id": "https://vnexpress.net/di-tat-bam-sinh-chiem-tron-nua-la-phoi-thieu-nien-17-tuoi-5110521.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Dị tật bẩm sinh chiếm trọn nửa lá phổi thiếu niên 17 tuổi",
+    "description": "Hoàng, 17 tuổi, ho, khạc đờm kéo dài, bác sĩ chẩn đoán có vùng mô phổi phát triển bất thường gây giãn phế quản, nhiễm trùng.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/18/image001-1787048375-4437-1787048476.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=EyRx15fxCYRUvSLRKllvZg",
+    "link": "https://vnexpress.net/di-tat-bam-sinh-chiem-tron-nua-la-phoi-thieu-nien-17-tuoi-5110521.html",
+    "published_at": "Wed, 19 Aug 2026 08:00:00 +0700",
+    "createAt": "2026-08-19T01:00:00.000Z",
+    "thumbnail_blurhash": "LmIOhI~qWCNGx]RjRPa#%LayNGof"
+  },
+  {
+    "id": "https://vnexpress.net/viem-ket-mac-boi-nhiem-be-trai-loet-giac-mac-5110497.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Viêm kết mạc bội nhiễm, bé trai loét giác mạc",
+    "description": "Long, 9 tuổi, đỏ mắt, cộm xốn không thể mở mắt, bác sĩ chẩn đoán loét giác mạc do viêm kết - giác mạc bội nhiễm.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/18/vne-1787044802-8898-1787044841.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Bi40qn4OxU2kCHziUTF62A",
+    "link": "https://vnexpress.net/viem-ket-mac-boi-nhiem-be-trai-loet-giac-mac-5110497.html",
+    "published_at": "Wed, 19 Aug 2026 08:00:00 +0700",
+    "createAt": "2026-08-19T01:00:00.000Z",
+    "thumbnail_blurhash": "LB9Qgf?wxtWYoFITW9WAa^adoft8"
   }
 ]
