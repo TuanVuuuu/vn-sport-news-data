@@ -661,5 +661,44 @@
     "published_at": "Thu, 20 Aug 2026 19:00:00 +0700",
     "createAt": "2026-08-20T12:00:00.000Z",
     "thumbnail_blurhash": "LmJb]o%PIVx[~UxpofoMg2xFt7Rj"
+  },
+  {
+    "id": "https://vnexpress.net/y-te-tu-nhan-huong-toi-50-so-benh-vien-ca-nuoc-vao-nam-2050-5111339.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Y tế tư nhân hướng tới 50% số bệnh viện cả nước vào năm 2050",
+    "description": "Y tế tư nhân đặt mục tiêu đến năm 2050 đạt một nửa số bệnh viện cả nước, tăng mạnh vai trò trong cung ứng dịch vụ, giảm áp lực cho hệ thống công lập.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/20/bs-ck2-du-o-ng-duy-trang-thu-c-6037-6407-1787224794.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=fS9qorKsKdvk3JMvaKftVQ",
+    "link": "https://vnexpress.net/y-te-tu-nhan-huong-toi-50-so-benh-vien-ca-nuoc-vao-nam-2050-5111339.html",
+    "published_at": "Fri, 21 Aug 2026 00:02:00 +0700",
+    "createAt": "2026-08-20T17:02:00.000Z",
+    "thumbnail_blurhash": "LoC@~etRa]oz.AofjXofx[WBWCj["
+  },
+  {
+    "id": "https://vnexpress.net/an-chuoi-xanh-hay-chin-tot-hon-5110851.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Ăn chuối xanh hay chín tốt hơn?",
+    "description": "Chuối xanh giàu tinh bột kháng, chuối vàng dễ tiêu hóa, còn chuối chín giàu chất chống oxy hóa, phù hợp với từng mục tiêu sức khỏe.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/19/chuoi-xanh-jpg-1787123072-6730-1787123105.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=0ySebPJPd8mw5C5YiZraBQ",
+    "link": "https://vnexpress.net/an-chuoi-xanh-hay-chin-tot-hon-5110851.html",
+    "published_at": "Fri, 21 Aug 2026 00:05:00 +0700",
+    "createAt": "2026-08-20T17:05:00.000Z",
+    "thumbnail_blurhash": "L7Fsta%Ys,k~~Cy6S1?%4fkWbr8$"
+  },
+  {
+    "id": "https://vnexpress.net/nhung-thay-doi-tren-mat-tuong-vo-hai-song-canh-bao-benh-5110913.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Những thay đổi trên mặt tưởng vô hại song cảnh báo bệnh",
+    "description": "Vàng mắt có thể liên quan bệnh gan, mảng vàng quanh mí gợi ý cholesterol cao, còn sụp mí hoặc liệt mặt có thể cảnh báo bất thường thần kinh.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/19/mieng-lech-1787129237-8013-1787129257.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=rvCAfacV0S6ddy6Js3Wq8A",
+    "link": "https://vnexpress.net/nhung-thay-doi-tren-mat-tuong-vo-hai-song-canh-bao-benh-5110913.html",
+    "published_at": "Fri, 21 Aug 2026 01:00:00 +0700",
+    "createAt": "2026-08-20T18:00:00.000Z",
+    "thumbnail_blurhash": "LIHwon0Kghxb~CV@kVxGNGVsaLWA"
   }
 ]
