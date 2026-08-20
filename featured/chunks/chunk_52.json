@@ -349,5 +349,44 @@
     "published_at": "Thu, 20 Aug 2026 09:30:30 +0700",
     "createAt": "2026-08-20T02:30:30.000Z",
     "thumbnail_blurhash": "LEP6W.~8Rh^%~TM{kDM|oyRkIp%L"
+  },
+  {
+    "id": "https://vnexpress.net/no-cong-my-lan-dau-vuot-40-000-ty-usd-5111071.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Nợ công Mỹ lần đầu vượt 40.000 tỷ USD",
+    "description": "Nợ chính phủ Mỹ tăng mạnh sau nhiều năm thâm hụt ngân sách, hiện cao gấp đôi so với 10 năm trước.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/08/20/usd1-1787188169-8261-1787188203.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=X9k38X0KgOX3M44G5qMr0w",
+    "link": "https://vnexpress.net/no-cong-my-lan-dau-vuot-40-000-ty-usd-5111071.html",
+    "published_at": "Thu, 20 Aug 2026 08:11:33 +0700",
+    "createAt": "2026-08-20T01:11:33.000Z",
+    "thumbnail_blurhash": "LpMGko_NT1%2?aobMxjc%2WBM{xZ"
+  },
+  {
+    "id": "https://vnexpress.net/ap-thap-nhiet-doi-huong-vao-vinh-bac-bo-co-the-manh-them-5111086.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Áp thấp nhiệt đới hướng vào vịnh Bắc Bộ, có thể mạnh thêm",
+    "description": "Áp thấp nhiệt đới trên vùng biển phía đông đảo Hải Nam (Trung Quốc) dự báo đi vào vịnh Bắc Bộ, có thể mạnh lên cấp 7, giật cấp 9, gây biển động mạnh từ ngày 21/8.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/20/screenshot-1787188612-6021-1787188682.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=o8CVk1pekwDi12eIs7c-AA",
+    "link": "https://vnexpress.net/ap-thap-nhiet-doi-huong-vao-vinh-bac-bo-co-the-manh-them-5111086.html",
+    "published_at": "Thu, 20 Aug 2026 09:18:05 +0700",
+    "createAt": "2026-08-20T02:18:05.000Z",
+    "thumbnail_blurhash": "LKAy7ziEMUTLI$s%bWt2MoTBxoV@"
+  },
+  {
+    "id": "https://vnexpress.net/xep-hang-doi-mua-sach-giao-khoa-o-tp-hcm-5111008.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Xếp hàng đợi mua sách giáo khoa ở TP HCM",
+    "description": "Phụ huynh xếp hàng dài với hy vọng gom đủ bộ sách giáo khoa cho con, dù TP HCM đã có chủ trương miễn phí sách từ năm học tới.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/20/wm1-gd-1787195013-1787195400.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=iv-GIxP2E8X3aF3jeN0SCw",
+    "link": "https://vnexpress.net/xep-hang-doi-mua-sach-giao-khoa-o-tp-hcm-5111008.html",
+    "published_at": "Thu, 20 Aug 2026 09:37:47 +0700",
+    "createAt": "2026-08-20T02:37:47.000Z",
+    "thumbnail_blurhash": "L7F$R*T:Oh?@00}w%O9Jt{D$t%tP"
   }
 ]
