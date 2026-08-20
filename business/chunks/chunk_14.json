@@ -583,5 +583,57 @@
     "published_at": "Thu, 20 Aug 2026 07:01:44 +0700",
     "createAt": "2026-08-20T00:01:44.000Z",
     "thumbnail_blurhash": "L4Eff=0v%Dr=.lPT9]E100R5?dxu"
+  },
+  {
+    "id": "https://vnexpress.net/big-4-ngan-hang-dong-loat-uu-dai-giam-gia-ve-may-bay-5110883.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "'Big 4' ngân hàng đồng loạt ưu đãi giảm giá vé máy bay",
+    "description": "Khách hàng đặt vé máy bay trên ứng dụng Vietcombank, BIDV, VietinBank, Agribank hoặc VNPAY được giảm tới 888.000 đồng khi nhập các mã ưu đãi trong chương trình Travel Fest.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/08/19/vcb-1787129358-8336-1787129461.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=oQBcf1FStzXVhKGXjc1B8Q",
+    "link": "https://vnexpress.net/big-4-ngan-hang-dong-loat-uu-dai-giam-gia-ve-may-bay-5110883.html",
+    "published_at": "Thu, 20 Aug 2026 08:00:00 +0700",
+    "createAt": "2026-08-20T01:00:00.000Z",
+    "thumbnail_blurhash": "LEHBo7D500o~GYR6xF%MD#IV_NNH"
+  },
+  {
+    "id": "https://vnexpress.net/gia-vang-the-gioi-vuot-4-500-usd-5111067.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Giá vàng thế giới vượt 4.500 USD",
+    "description": "Mỗi ounce vàng lên cao nhất 2,5 tháng, nhờ lợi suất trái phiếu Mỹ và giá USD đi xuống.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/08/20/goldreu7-1787187509-2884-1787187517.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=4zS1snh76vvEot0j__ZXIA",
+    "link": "https://vnexpress.net/gia-vang-the-gioi-vuot-4-500-usd-5111067.html",
+    "published_at": "Thu, 20 Aug 2026 08:00:35 +0700",
+    "createAt": "2026-08-20T01:00:35.000Z",
+    "thumbnail_blurhash": "LJH_0e5EI]?F~AIqkCxuxGjEbaV?"
+  },
+  {
+    "id": "https://vnexpress.net/no-cong-my-lan-dau-vuot-40-000-ty-usd-5111071.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Nợ công Mỹ lần đầu vượt 40.000 tỷ USD",
+    "description": "Nợ chính phủ Mỹ tăng mạnh sau nhiều năm thâm hụt ngân sách, hiện cao gấp đôi so với 10 năm trước.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/08/20/usd1-1787188169-8261-1787188203.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=X9k38X0KgOX3M44G5qMr0w",
+    "link": "https://vnexpress.net/no-cong-my-lan-dau-vuot-40-000-ty-usd-5111071.html",
+    "published_at": "Thu, 20 Aug 2026 08:11:33 +0700",
+    "createAt": "2026-08-20T01:11:33.000Z",
+    "thumbnail_blurhash": "LpMGko_NT1%2?aobMxjc%2WBM{xZ"
+  },
+  {
+    "id": "https://vnexpress.net/hon-300-doanh-nghiep-tham-gia-trien-lam-thuc-pham-cao-hung-2026-5110739.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Hơn 300 doanh nghiệp tham gia triển lãm thực phẩm Cao Hùng 2026",
+    "description": "Triển lãm thực phẩm Cao Hùng 2026 dự kiến quy tụ 330 doanh nghiệp, giới thiệu nhiều nhóm sản phẩm có tiềm năng tại thị trường Việt Nam.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/08/19/image005-1787109934-7922-1787109964.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=82tc7iJh7UWR9mR4QCguew",
+    "link": "https://vnexpress.net/hon-300-doanh-nghiep-tham-gia-trien-lam-thuc-pham-cao-hung-2026-5110739.html",
+    "published_at": "Thu, 20 Aug 2026 09:00:00 +0700",
+    "createAt": "2026-08-20T02:00:00.000Z",
+    "thumbnail_blurhash": "LXJHt14oXU?b.ARjtmXA_No#xvxu"
   }
 ]
