@@ -739,5 +739,57 @@
     "published_at": "Thu, 20 Aug 2026 14:35:41 +0700",
     "createAt": "2026-08-20T07:35:41.000Z",
     "thumbnail_blurhash": "LDJHp+AdyWDi0200-p_N_4?HxaNG"
+  },
+  {
+    "id": "https://vnexpress.net/ngan-hang-vi-dien-tu-thu-phi-lien-ket-tai-khoan-giao-thong-the-nao-5111028.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Ngân hàng, ví điện tử thu phí liên kết tài khoản giao thông thế nào?",
+    "description": "Sau khi VETC và Viettel Money dừng thu phí dịch vụ ví điện tử, người dùng tài khoản giao thông nếu liên kết các kênh khác vẫn có thể chịu phí 1.000-3.000 đồng mỗi lượt qua trạm.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/08/19/wm1-wm1-2-jpg-1787157957-6487-1787157969.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=m-OMdTLsMLj-keYSyaFLRA",
+    "link": "https://vnexpress.net/ngan-hang-vi-dien-tu-thu-phi-lien-ket-tai-khoan-giao-thong-the-nao-5111028.html",
+    "published_at": "Thu, 20 Aug 2026 15:00:00 +0700",
+    "createAt": "2026-08-20T08:00:00.000Z",
+    "thumbnail_blurhash": "LEGTAv_N005NC#9FOnrrXyRO~EpA"
+  },
+  {
+    "id": "https://vnexpress.net/agribank-va-vnpay-trang-bi-loa-thong-bao-giao-dich-cho-ho-kinh-doanh-5111316.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Agribank và VNPAY trang bị loa thông báo giao dịch cho hộ kinh doanh",
+    "description": "Agribank phối hợp VNPAY trang bị loa thông báo giao dịch cho hộ kinh doanh khi đăng ký sử dụng bộ giải pháp thanh toán VNPAY-QR và máy POS, áp dụng từ nay đến tháng 10.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/08/20/loa-1787211069-3174-1787211129.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=qZ4EdGQVpfcRsIjL9fydvw",
+    "link": "https://vnexpress.net/agribank-va-vnpay-trang-bi-loa-thong-bao-giao-dich-cho-ho-kinh-doanh-5111316.html",
+    "published_at": "Thu, 20 Aug 2026 15:00:00 +0700",
+    "createAt": "2026-08-20T08:00:00.000Z",
+    "thumbnail_blurhash": "LPIqV}%O5Q%L~W-:t7f,t8a|WVbb"
+  },
+  {
+    "id": "https://vnexpress.net/co-phieu-vingroup-dan-dat-chung-khoan-tang-diem-tro-lai-5111366.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Cổ phiếu Vingroup dẫn dắt chứng khoán tăng điểm trở lại",
+    "description": "Mã VIC của Vingroup đóng góp hơn 3 điểm vào VN-Index, trong phiên chứng khoán tăng điểm trở lại.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/08/20/td5-1787214294-7133-1787214339.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=KlTBjf0AuxapumucraNlmw",
+    "link": "https://vnexpress.net/co-phieu-vingroup-dan-dat-chung-khoan-tang-diem-tro-lai-5111366.html",
+    "published_at": "Thu, 20 Aug 2026 15:36:06 +0700",
+    "createAt": "2026-08-20T08:36:06.000Z",
+    "thumbnail_blurhash": "LF7_1r%iW.s:_4tRWAjq?wxvWXbI"
+  },
+  {
+    "id": "https://vnexpress.net/ceo-hang-robot-hinh-nguoi-hang-dau-trung-quoc-thanh-ty-phu-5111262.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "CEO hãng robot hình người hàng đầu Trung Quốc thành tỷ phú",
+    "description": "Tài sản của Wang Xingxing, Chủ tịch kiêm CEO nhà sản xuất robot hình người Unitree, vọt lên hàng chục tỷ USD khi công ty chào sàn Thượng Hải.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/08/20/afp-dpa-pa-dpai-v1-highres-cha-9066-5256-1787206941.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=FIdJFJ58WHDVYzNIrKzsQw",
+    "link": "https://vnexpress.net/ceo-hang-robot-hinh-nguoi-hang-dau-trung-quoc-thanh-ty-phu-5111262.html",
+    "published_at": "Thu, 20 Aug 2026 15:48:33 +0700",
+    "createAt": "2026-08-20T08:48:33.000Z",
+    "thumbnail_blurhash": "L6BDf~iZ000j-;H=x^~W00oykXxB"
   }
 ]
