@@ -142,6 +142,97 @@
       "published_at": "Thu, 20 Aug 2026 12:45:00 +0700",
       "createAt": "2026-08-20T05:45:00.000Z",
       "thumbnail_blurhash": "LJ9Iu$tRWZtmbyozkBadKnWBj]bc"
+    },
+    {
+      "id": "https://vnexpress.net/dinh-bac-ghi-dau-an-sinh-nhat-tuoi-23-cung-tuyen-viet-nam-5111268.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Đình Bắc ghi dấu ấn sinh nhật tuổi 23 cùng tuyển Việt Nam",
+      "description": "Đình Bắc kiến tạo cho Xuân Son ghi bàn, góp công giúp Việt Nam thắng Malaysia 2-0 và giành vé vào chung kết ASEAN Cup 2026.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/20/Anhmanhinh20260820luc135419-17-2407-7498-1787208942.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=qTTgjxmv0M3s4kgzWqhxmQ",
+      "link": "https://vnexpress.net/dinh-bac-ghi-dau-an-sinh-nhat-tuoi-23-cung-tuyen-viet-nam-5111268.html",
+      "published_at": "Thu, 20 Aug 2026 13:37:58 +0700",
+      "createAt": "2026-08-20T06:37:58.000Z",
+      "thumbnail_blurhash": "LFF$eO-?5c.j8wWaNGobD|oF$vMe"
+    },
+    {
+      "id": "https://vnexpress.net/tuyen-viet-nam-len-duong-sang-thai-lan-5111276.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Tuyển Việt Nam lên đường sang Thái Lan",
+      "description": "Thầy trò HLV Kim có mặt tại sân bay Nội Bài trưa 20/8, lên đường sang Thái Lan đá chung kết ASEAN Cup 2026, sau chiến thắng Malaysia ở bán kết lượt về.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/20/sequence0200001610still001-178-3010-2608-1787213607.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=z9Pvlo6jfGGNLiaYv7dl-A",
+      "link": "https://vnexpress.net/tuyen-viet-nam-len-duong-sang-thai-lan-5111276.html",
+      "published_at": "Thu, 20 Aug 2026 13:43:59 +0700",
+      "createAt": "2026-08-20T06:43:59.000Z",
+      "thumbnail_blurhash": "L#KnPTNGtlxu_NNGofWVWBofofWB"
+    },
+    {
+      "id": "https://vnexpress.net/set-danh-chet-nguoi-dan-ong-tru-mua-trong-choi-5111275.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Sét đánh chết người đàn ông trú mưa trong chòi",
+      "description": "Ông Trần Kim Thắng bị sét đánh tử vong, ông Hoàng Văn Thủy nguy kịch khi đang trú mưa trong chòi giữa cánh đồng nuôi thủy sản xã Đan Hải.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/20/choi-bao-ve-1787208761-1671-1787209049.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=fWtc8zcAEHh0XrkueQQqAg",
+      "link": "https://vnexpress.net/set-danh-chet-nguoi-dan-ong-tru-mua-trong-choi-5111275.html",
+      "published_at": "Thu, 20 Aug 2026 14:05:24 +0700",
+      "createAt": "2026-08-20T07:05:24.000Z",
+      "thumbnail_blurhash": "LtGSM^tk%3x[?ws:S2xu-=R*aes:"
+    },
+    {
+      "id": "https://vnexpress.net/40-nguoi-bi-bat-trong-duong-day-danh-bac-gan-600-ty-dong-o-tp-hcm-5111288.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "40 người bị bắt trong đường dây đánh bạc gần 600 tỷ đồng ở TP HCM",
+      "description": "Cảnh sát phát hiện đường dây cá độ thể thao, trò chơi trực tuyến do các đại lý tại Campuchia điều hành; 40 người bị bắt vì tổ chức, tham gia ăn thua gần 600 tỷ đồng.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/20/197PC02TRIETXOADIEMCADOBONGDA5-4899-7547-1787210054.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=94MsYMNXKZxsqrqSNkLtPg&t=image",
+      "link": "https://vnexpress.net/40-nguoi-bi-bat-trong-duong-day-danh-bac-gan-600-ty-dong-o-tp-hcm-5111288.html",
+      "published_at": "Thu, 20 Aug 2026 14:24:00 +0700",
+      "createAt": "2026-08-20T07:24:00.000Z",
+      "thumbnail_blurhash": "LEE3CtnfN=Iutm4nIB?b.TD%xZ%1"
+    },
+    {
+      "id": "https://vnexpress.net/gia-xang-dau-moi-nhat-hom-nay-20-8-5111297.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Giá xăng, dầu cùng tăng",
+      "description": "Từ 15h hôm nay, giá xăng, dầu trong nước cùng tăng, theo đà biến động của thị trường năng lượng thế giới.",
+      "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/08/20/wm1-wm1-xange1028-1787208828-6668-1787209631.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=I0Z4sZ2Q2hSaSd1qYAZhLg",
+      "link": "https://vnexpress.net/gia-xang-dau-moi-nhat-hom-nay-20-8-5111297.html",
+      "published_at": "Thu, 20 Aug 2026 14:35:41 +0700",
+      "createAt": "2026-08-20T07:35:41.000Z",
+      "thumbnail_blurhash": "LDJHp+AdyWDi0200-p_N_4?HxaNG"
+    },
+    {
+      "id": "https://vnexpress.net/trung-quoc-mien-visa-qua-canh-cho-cong-dan-viet-nam-5111325.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Trung Quốc miễn visa quá cảnh cho công dân Việt Nam",
+      "description": "Từ 20/8, công dân Việt Nam có thể quá cảnh không cần visa trong 10 ngày qua 65 cửa khẩu Trung Quốc.",
+      "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/08/20/huy-1787211658-4995-1787211763.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=2fmQtpbzsX-16UKYN3ag3g",
+      "link": "https://vnexpress.net/trung-quoc-mien-visa-qua-canh-cho-cong-dan-viet-nam-5111325.html",
+      "published_at": "Thu, 20 Aug 2026 15:10:01 +0700",
+      "createAt": "2026-08-20T08:10:01.000Z",
+      "thumbnail_blurhash": "LtF?q^i]R*ozThs*n$ogtSt5s.kC"
+    },
+    {
+      "id": "https://vnexpress.net/ngoai-truong-iran-cuoc-chien-kinh-te-cua-my-se-that-bai-5111279.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Ngoại trưởng Iran: Cuộc chiến kinh tế của Mỹ sẽ thất bại",
+      "description": "Ngoại trưởng Iran cho rằng ông Trump phát động cuộc chiến kinh tế với Tehran nhằm đánh lạc hướng khỏi những vấn đề kinh tế của Mỹ và Washington sẽ thất bại.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/20/afpke7nq-v1-highres-pkk-178721-7631-5146-1787211799.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=-xofDPXqWQsSV00P-T_HrA",
+      "link": "https://vnexpress.net/ngoai-truong-iran-cuoc-chien-kinh-te-cua-my-se-that-bai-5111279.html",
+      "published_at": "Thu, 20 Aug 2026 15:16:58 +0700",
+      "createAt": "2026-08-20T08:16:58.000Z",
+      "thumbnail_blurhash": "L58D|syF00$L~D%hF|nNxuxasoRj"
     }
   ]
 }
