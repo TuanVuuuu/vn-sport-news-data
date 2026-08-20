@@ -1142,5 +1142,57 @@
     "published_at": "Thu, 20 Aug 2026 07:00:00 +0700",
     "createAt": "2026-08-20T00:00:00.000Z",
     "thumbnail_blurhash": "LB98DAw^PqM{?wX9IUNHo}WAIUbb"
+  },
+  {
+    "id": "https://vnexpress.net/ukraine-co-tan-bo-truong-quoc-phong-5111050.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Ukraine có tân Bộ trưởng Quốc phòng",
+    "description": "Quốc hội Ukraine phê chuẩn ông Yevhen Khmara làm Bộ trưởng Quốc phòng, giữa lúc Tổng thống Zelensky đối mặt sóng gió chính trị và áp lực tổ chức bầu cử thời chiến.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/20/AFP-20260508-ukrinform-unitedf-1811-2487-1787184459.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=LrTvRIPIssgCReGlSIlOtw",
+    "link": "https://vnexpress.net/ukraine-co-tan-bo-truong-quoc-phong-5111050.html",
+    "published_at": "Thu, 20 Aug 2026 07:21:30 +0700",
+    "createAt": "2026-08-20T00:21:30.000Z",
+    "thumbnail_blurhash": "LE9G:za~Enn$^-bHI:j?R%oga_bI"
+  },
+  {
+    "id": "https://vnexpress.net/ong-trump-phat-dong-chien-tranh-kinh-te-voi-iran-5111056.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Ông Trump phát động 'chiến tranh kinh tế' với Iran",
+    "description": "Tổng thống Mỹ tuyên bố khởi động chiến dịch quy mô lớn nhắm vào nền kinh tế Iran, đe dọa trừng phạt bất cứ nước nào hỗ trợ Tehran.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/20/ap26228728693039-1787185505-7724-1787185564.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=uTWgYmdkODxG90TrVm4oyg",
+    "link": "https://vnexpress.net/ong-trump-phat-dong-chien-tranh-kinh-te-voi-iran-5111056.html",
+    "published_at": "Thu, 20 Aug 2026 07:38:42 +0700",
+    "createAt": "2026-08-20T00:38:42.000Z",
+    "thumbnail_blurhash": "LdLqFWj^?v?b~XoINaNGV@t7R%WB"
+  },
+  {
+    "id": "https://vnexpress.net/bo-may-quan-chuc-quy-tu-gioi-sieu-giau-duoi-thoi-ong-trump-5110685.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Bộ máy quan chức quy tụ giới siêu giàu dưới thời ông Trump",
+    "description": "Số lượng quan chức có tài sản từ 100 triệu USD trở lên trong chính quyền ông Trump cao gấp 4 lần tổng số dưới thời ba người tiền nhiệm.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/19/ap26226718357072-1787110086-5497-1787110185.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=urEOLOEvZPffdvD_HqRCrA",
+    "link": "https://vnexpress.net/bo-may-quan-chuc-quy-tu-gioi-sieu-giau-duoi-thoi-ong-trump-5110685.html",
+    "published_at": "Thu, 20 Aug 2026 08:00:00 +0700",
+    "createAt": "2026-08-20T01:00:00.000Z",
+    "thumbnail_blurhash": "L19Gmz?I8w$f009G0LI.009uBst8"
+  },
+  {
+    "id": "https://vnexpress.net/thu-tuong-anh-cam-ket-trich-luong-giup-do-nguoi-vo-gia-cu-5111060.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Thủ tướng Anh cam kết trích lương giúp đỡ người vô gia cư",
+    "description": "Ông Burnham công bố kế hoạch giúp người vô gia cư có chỗ ở trước Giáng sinh, cam kết trích một phần lương để hỗ trợ giải quyết tình trạng này.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/20/AFP-20260814-C4PC87P-v1-HighRe-3502-4344-1787187164.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=m2nu9un9cNOJymOFxJL7aA",
+    "link": "https://vnexpress.net/thu-tuong-anh-cam-ket-trich-luong-giup-do-nguoi-vo-gia-cu-5111060.html",
+    "published_at": "Thu, 20 Aug 2026 08:10:07 +0700",
+    "createAt": "2026-08-20T01:10:07.000Z",
+    "thumbnail_blurhash": "L6CPLoDi0~5i---,~oaf5R?r=rw1"
   }
 ]
