@@ -674,5 +674,31 @@
     "published_at": "Thu, 20 Aug 2026 10:00:00 +0700",
     "createAt": "2026-08-20T03:00:00.000Z",
     "thumbnail_blurhash": "L?MR42kCkWt7?wogWBkCRPWBjFj@"
+  },
+  {
+    "id": "https://vnexpress.net/hon-200-doanh-nghiep-tham-gia-trien-lam-thuc-pham-cao-hung-2026-5110739.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Hơn 200 doanh nghiệp tham gia triển lãm thực phẩm Cao Hùng 2026",
+    "description": "Triển lãm thực phẩm Cao Hùng 2026 dự kiến quy tụ 220 doanh nghiệp, giới thiệu nhiều nhóm sản phẩm có tiềm năng tại thị trường Việt Nam.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/08/19/image005-1787109934-7922-1787109964.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=82tc7iJh7UWR9mR4QCguew",
+    "link": "https://vnexpress.net/hon-200-doanh-nghiep-tham-gia-trien-lam-thuc-pham-cao-hung-2026-5110739.html",
+    "published_at": "Thu, 20 Aug 2026 09:00:00 +0700",
+    "createAt": "2026-08-20T02:00:00.000Z",
+    "thumbnail_blurhash": "LXJHt14oXU?b.ARjtmXA_No#xvxu"
+  },
+  {
+    "id": "https://vnexpress.net/bitcoin-tro-lai-moc-70-000-usd-5111124.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Bitcoin trở lại mốc 70.000 USD",
+    "description": "Giá Bitcoin tăng gần 9% trong 24 giờ khi Mỹ có thêm tín hiệu thúc đẩy khung pháp lý cho tài sản số, dù lãi suất vẫn gây áp lực.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/08/20/lynxmpedaq0jk-jpeg-1787192535-6627-1787192548.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=nAyiV3yeVcor8Iu5uGyStA",
+    "link": "https://vnexpress.net/bitcoin-tro-lai-moc-70-000-usd-5111124.html",
+    "published_at": "Thu, 20 Aug 2026 11:11:32 +0700",
+    "createAt": "2026-08-20T04:11:32.000Z",
+    "thumbnail_blurhash": "LUFFgF~pkXx]_2xuNGogxva#M_ad"
   }
 ]
