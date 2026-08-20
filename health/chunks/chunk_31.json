@@ -388,5 +388,44 @@
     "published_at": "Thu, 20 Aug 2026 11:00:00 +0700",
     "createAt": "2026-08-20T04:00:00.000Z",
     "thumbnail_blurhash": "LaJIYAxwt8R*~RbaWBt7IvRjWEt7"
+  },
+  {
+    "id": "https://vnexpress.net/cach-han-che-tre-xem-thiet-bi-dien-tu-5111162.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Cách hạn chế trẻ xem thiết bị điện tử",
+    "description": "Giới hạn thời gian sử dụng, khuyến khích trẻ vận động, đọc sách và vui chơi, giúp con hình thành thói quen sử dụng thiết bị điện tử lành mạnh.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/20/6e3e4fabe-a7ab-d6915216efcb-jp-2939-7300-1787199661.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=xKJniSJKeF0-frUT82H3Gw",
+    "link": "https://vnexpress.net/cach-han-che-tre-xem-thiet-bi-dien-tu-5111162.html",
+    "published_at": "Thu, 20 Aug 2026 12:00:00 +0700",
+    "createAt": "2026-08-20T05:00:00.000Z",
+    "thumbnail_blurhash": "L5Ca*~PEr=?cL#-pIoiu00%#NZIn"
+  },
+  {
+    "id": "https://vnexpress.net/dot-quy-duong-huyet-tang-gap-4-5111085.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Đột quỵ, đường huyết tăng gấp 4",
+    "description": "Ông Việt, 68 tuổi, bệnh tiểu đường 10 năm nhưng tự ý bỏ thuốc điều trị, nay méo miệng, nói đớ, tê liệt nửa người do đột quỵ kèm đường huyết tăng cao.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/20/vne-1787188617-8012-1787188733.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=efQj_06Ui7e-vpfJhoDP7Q",
+    "link": "https://vnexpress.net/dot-quy-duong-huyet-tang-gap-4-5111085.html",
+    "published_at": "Thu, 20 Aug 2026 12:00:00 +0700",
+    "createAt": "2026-08-20T05:00:00.000Z",
+    "thumbnail_blurhash": "LOLhDA.8X9?w*0x_D%ROt6?ct6IT"
+  },
+  {
+    "id": "https://vnexpress.net/vaccine-mrna-ca-the-hoa-giup-giam-tai-phat-ung-thu-da-5111189.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Vaccine mRNA cá thể hóa giúp giảm tái phát ung thư da",
+    "description": "Vaccine Intismeran kết hợp Keytruda giúp giảm thời gian tái phát và di căn xa ở bệnh nhân ung thư da, khi thử nghiệm giai đoạn 3.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/20/minh-hoa-vaccine-ung-thu-17871-5841-5510-1787199492.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=l1NABynsV_dStSqW_F843w",
+    "link": "https://vnexpress.net/vaccine-mrna-ca-the-hoa-giup-giam-tai-phat-ung-thu-da-5111189.html",
+    "published_at": "Thu, 20 Aug 2026 12:30:00 +0700",
+    "createAt": "2026-08-20T05:30:00.000Z",
+    "thumbnail_blurhash": "LtHTK}}l$KRkNzjYofskaIR+X9kB"
   }
 ]
