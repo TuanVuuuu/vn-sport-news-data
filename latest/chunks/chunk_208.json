@@ -271,5 +271,57 @@
     "published_at": "Thu, 20 Aug 2026 22:28:46 +0700",
     "createAt": "2026-08-20T15:28:46.000Z",
     "thumbnail_blurhash": "LAGQqZ9Y4RMe00%MHYkW0yxa[ttQ"
+  },
+  {
+    "id": "https://vnexpress.net/dong-loat-doi-thu-dong-loat-dung-5111474.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Đồng loạt đòi thu, đồng loạt dừng",
+    "description": "Tháng 8/2026, hai đơn vị duy nhất đang cung cấp dịch vụ thu phí không dừng (ETC) tại Việt Nam - là VETC và ePass - đồng loạt áp dụng khoản phí 6.600 đồng/tháng/khách hàng cá nhân dưới tên gọi \"phí quản lý tài khoản\". Việc này được các doanh nghiệp lý giải là nhằm bù đắp chi phí vận hành hạ tầng công nghệ, bảo mật và kết nối đối soát.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/20/thu-1787241414-8397-1787241419.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=mdUCvEfndiEZ24YuozAqkQ",
+    "link": "https://vnexpress.net/dong-loat-doi-thu-dong-loat-dung-5111474.html",
+    "published_at": "Thu, 20 Aug 2026 22:46:17 +0700",
+    "createAt": "2026-08-20T15:46:17.000Z",
+    "thumbnail_blurhash": "LBQ,L1~qjZ?b~qRjt7t7~qRjM{ja"
+  },
+  {
+    "id": "https://vnexpress.net/chay-lon-tai-nha-tho-o-ninh-binh-5111480.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Cháy lớn tại nhà thờ ở Ninh Bình",
+    "description": "Mái gỗ nhà thờ Giáo xứ Áng Sơn bốc cháy dữ dội, làm hư hỏng gian cung thánh cùng nhiều tài sản, song không gây thương vong.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/20/111-1787240310-8268-1787240443.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=Dyd0tzWm7wsijcArdj0uTA",
+    "link": "https://vnexpress.net/chay-lon-tai-nha-tho-o-ninh-binh-5111480.html",
+    "published_at": "Thu, 20 Aug 2026 22:51:58 +0700",
+    "createAt": "2026-08-20T15:51:58.000Z",
+    "thumbnail_blurhash": "LJCXW+W=1Kr=|FR*66xF+bSMArxG"
+  },
+  {
+    "id": "https://vnexpress.net/tra-cuu-danh-sach-truong-sau-sap-xep-sap-nhap-o-tp-can-tho-5111432.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "103 xã, phường ở Cần Thơ hoàn thành sáp nhập, đổi tên trường công",
+    "description": "Hầu hết xã, phường ở Cần Thơ chỉ còn một trường học ở mỗi cấp, giảm tới 750 đầu mối, cùng gần 1.100 hiệu trưởng, hiệu phó, sau sáp nhập.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/20/doan-thi-diem-can-tho-17872384-3895-9783-1787240706.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Klemk1wpt9zgPsS3_v--Sg",
+    "link": "https://vnexpress.net/tra-cuu-danh-sach-truong-sau-sap-xep-sap-nhap-o-tp-can-tho-5111432.html",
+    "published_at": "Thu, 20 Aug 2026 22:56:11 +0700",
+    "createAt": "2026-08-20T15:56:11.000Z",
+    "thumbnail_blurhash": "LRL4.@jDNb%1?Zs,SPs.~qslj]bb"
+  },
+  {
+    "id": "https://vnexpress.net/van-tai-co-quan-su-my-quay-dau-sau-canh-bao-hang-khong-cua-nga-5111422.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Vận tải cơ quân sự Mỹ quay đầu sau cảnh báo hàng không của Nga",
+    "description": "Vận tải cơ C-17A Mỹ cất cánh từ New Zealand phải trở lại nơi xuất phát sau khi có cảnh báo từ cơ quan hàng không Nga.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/20/5563187178137269200b-178721987-9802-6016-1787219961.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=4H7IhCKtGhLQ41E7TIln1w",
+    "link": "https://vnexpress.net/van-tai-co-quan-su-my-quay-dau-sau-canh-bao-hang-khong-cua-nga-5111422.html",
+    "published_at": "Thu, 20 Aug 2026 23:15:20 +0700",
+    "createAt": "2026-08-20T16:15:20.000Z",
+    "thumbnail_blurhash": "LTIZ3*x^xat8bKadnNay%%aJRNoJ"
   }
 ]
