@@ -505,5 +505,44 @@
     "published_at": "Thu, 20 Aug 2026 14:00:00 +0700",
     "createAt": "2026-08-20T07:00:00.000Z",
     "thumbnail_blurhash": "LPJ+cX-;8_bw~MR.IVt7oHtRsjNI"
+  },
+  {
+    "id": "https://vnexpress.net/ca-hiv-nhap-vien-tai-tp-hcm-tang-48-do-phat-hien-muon-va-bo-dieu-tri-5111196.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Ca HIV nhập viện tại TP HCM tăng 48% do phát hiện muộn và bỏ điều trị",
+    "description": "Bệnh viện Bệnh Nhiệt đới TP HCM ghi nhận số bệnh nhân HIV tăng 48% trong 4 năm qua, phần lớn nhập viện muộn khi hệ miễn dịch suy kiệt và biến chứng nặng.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/20/cg2a6786-1787200781-8502-1787200882.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=FQr8s4HBEsXUNxBwXscNVA",
+    "link": "https://vnexpress.net/ca-hiv-nhap-vien-tai-tp-hcm-tang-48-do-phat-hien-muon-va-bo-dieu-tri-5111196.html",
+    "published_at": "Thu, 20 Aug 2026 13:53:54 +0700",
+    "createAt": "2026-08-20T06:53:54.000Z",
+    "thumbnail_blurhash": "LOF$nn_3WBD%.TSh%Ms:o~o#adWB"
+  },
+  {
+    "id": "https://vnexpress.net/sau-mo-day-chang-bao-lau-co-the-bo-nep-5111298.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Sau mổ dây chằng bao lâu có thể bỏ nẹp?",
+    "description": "Tôi mổ dây chằng được gần một tháng, sau bao lâu có thể bỏ nẹp? Nếu hết đau có thể bỏ nẹp sớm hơn không? (Nguyễn Thanh, Cần Thơ)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/20/imgclg-1787209889-6886-1787209927.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=inpWXdpOuEka7rc1wpKI9Q",
+    "link": "https://vnexpress.net/sau-mo-day-chang-bao-lau-co-the-bo-nep-5111298.html",
+    "published_at": "Thu, 20 Aug 2026 15:00:00 +0700",
+    "createAt": "2026-08-20T08:00:00.000Z",
+    "thumbnail_blurhash": "LYLg|ZRUt8_4?ao#kBRjIUWC%Ls,"
+  },
+  {
+    "id": "https://vnexpress.net/co-nen-tu-bo-sung-kem-khi-tre-bieng-an-5111192.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Có nên tự bổ sung kẽm khi trẻ biếng ăn?",
+    "description": "Con tôi 3 tuổi, gần đây ăn rất ít, ngậm thức ăn lâu, được bạn bè khuyên bổ sung kẽm để bé ăn ngon hơn. Tôi có nên tự mua kẽm cho con uống không? (Minh Ngọc, Hà Nội)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/20/image001-1787198368-4257-1787198724.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=PgtQ0Sru-kt0YGBxL13jfg",
+    "link": "https://vnexpress.net/co-nen-tu-bo-sung-kem-khi-tre-bieng-an-5111192.html",
+    "published_at": "Thu, 20 Aug 2026 15:00:00 +0700",
+    "createAt": "2026-08-20T08:00:00.000Z",
+    "thumbnail_blurhash": "LXMtgZ~VIUxvx]ItWBROtRMwnhNG"
   }
 ]
