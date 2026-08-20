@@ -1129,5 +1129,31 @@
     "published_at": "Thu, 20 Aug 2026 09:00:00 +0700",
     "createAt": "2026-08-20T02:00:00.000Z",
     "thumbnail_blurhash": "LOIqoy0J?a~BE2I[IUSi%gDho}kW"
+  },
+  {
+    "id": "https://vnexpress.net/ten-lua-spacex-dam-tao-ho-sau-3-met-tren-be-mat-mat-trang-5111101.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Tên lửa SpaceX đâm tạo hố sâu 3 mét trên bề mặt Mặt Trăng",
+    "description": "NASA công bố hình ảnh trước và sau cho thấy tầng trên của tên lửa Falcon 9 đã đâm vào bề mặt Mặt Trăng, tạo thành một hố lớn bên cạnh hố cũ.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/20/imrs-1787191532-5594-1787191641.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=r2VY_GTxiUQgmkwBtjJXTQ",
+    "link": "https://vnexpress.net/ten-lua-spacex-dam-tao-ho-sau-3-met-tren-be-mat-mat-trang-5111101.html",
+    "published_at": "Thu, 20 Aug 2026 12:00:00 +0700",
+    "createAt": "2026-08-20T05:00:00.000Z",
+    "thumbnail_blurhash": "LwJ8V0j[WBt7ofayayay~qofj[of"
+  },
+  {
+    "id": "https://vnexpress.net/tp-hcm-danh-gan-5-ha-dat-lam-trung-tam-du-lieu-phuc-vu-ai-5111237.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "TP HCM dành gần 5 ha đất làm trung tâm dữ liệu phục vụ AI",
+    "description": "TP HCM cho công ty Evolution DC Việt Nam HCMC thuê gần 5 ha đất tại Khu Công nghệ cao, phường Tăng Nhơn Phú để triển khai trung tâm dữ liệu trị giá hơn 508 triệu USD.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/20/233a5558-1787200505-7517-1787200588.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=FAh_ja5kACBXPMUlV8ocJw",
+    "link": "https://vnexpress.net/tp-hcm-danh-gan-5-ha-dat-lam-trung-tam-du-lieu-phuc-vu-ai-5111237.html",
+    "published_at": "Thu, 20 Aug 2026 12:12:26 +0700",
+    "createAt": "2026-08-20T05:12:26.000Z",
+    "thumbnail_blurhash": "L~LEfqxuWBt7^-ogWBof%Mayazf7"
   }
 ]
