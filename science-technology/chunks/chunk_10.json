@@ -1259,5 +1259,31 @@
     "published_at": "Fri, 21 Aug 2026 05:00:00 +0700",
     "createAt": "2026-08-20T22:00:00.000Z",
     "thumbnail_blurhash": "LAI4-2D?00-K03tM~99I00^j?v9$"
+  },
+  {
+    "id": "https://vnexpress.net/viet-nam-se-dau-tu-ha-tang-nghien-cuu-chung-10-000-ty-dong-5111407.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Việt Nam sẽ đầu tư hạ tầng nghiên cứu chung 10.000 tỷ đồng",
+    "description": "Việt Nam dự kiến đầu tư khoảng 10.000 tỷ đồng đến năm 2030 cho 8 phòng thí nghiệm trọng điểm và 4 trung tâm thử nghiệm theo hướng hạ tầng nghiên cứu dùng chung, phát triển công nghệ chiến lược.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/21/wm1-wm1-1787216876919-1787272092-3760-1787273090.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=AhYozacvH2oVLjgnOguRJw",
+    "link": "https://vnexpress.net/viet-nam-se-dau-tu-ha-tang-nghien-cuu-chung-10-000-ty-dong-5111407.html",
+    "published_at": "Fri, 21 Aug 2026 07:53:32 +0700",
+    "createAt": "2026-08-21T00:53:32.000Z",
+    "thumbnail_blurhash": "LeCQ0|xBD%R+pfr:rpjcJ:RixEs:"
+  },
+  {
+    "id": "https://vnexpress.net/robot-hinh-nguoi-unitree-nga-toe-lua-khi-tap-chay-5111555.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Robot hình người Unitree ngã 'tóe lửa' khi tập chạy",
+    "description": "Mẫu Unitree H1 chạy nước rút ấn tượng nhưng bất ngờ mất kiểm soát tốc độ, lao vào thành bảo vệ và bị hỏng nặng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/21/robot-1787283087-3931-1787283091.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=zNnGFOmZA1Ru1urnSlEEDw&t=image",
+    "link": "https://vnexpress.net/robot-hinh-nguoi-unitree-nga-toe-lua-khi-tap-chay-5111555.html",
+    "published_at": "Fri, 21 Aug 2026 10:19:25 +0700",
+    "createAt": "2026-08-21T03:19:25.000Z",
+    "thumbnail_blurhash": "LCA.4nk]p0s6%jxtRjWAW?R*s:WY"
   }
 ]
