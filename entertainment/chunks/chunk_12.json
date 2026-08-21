@@ -739,5 +739,31 @@
     "published_at": "Fri, 21 Aug 2026 12:00:38 +0700",
     "createAt": "2026-08-21T05:00:38.000Z",
     "thumbnail_blurhash": "L:OD6Bxa?wkqx^ogjEV@j^a}axjs"
+  },
+  {
+    "id": "https://vnexpress.net/vay-ao-lay-cam-hung-tu-nghe-thuat-cat-giay-5111505.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Váy áo lấy cảm hứng từ nghệ thuật cắt giấy",
+    "description": "Nhà thiết kế Trần Hùng ra mắt bộ sưu tập lấy cảm hứng từ kỹ thuật cắt giấy cổ xưa của châu Âu, châu Á.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/08/21/show-tran-hung-2026-1787288281.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=PiUbzoM6atZPuZiKkiFFBg",
+    "link": "https://vnexpress.net/vay-ao-lay-cam-hung-tu-nghe-thuat-cat-giay-5111505.html",
+    "published_at": "Fri, 21 Aug 2026 15:04:28 +0700",
+    "createAt": "2026-08-21T08:04:28.000Z",
+    "thumbnail_blurhash": "LUP$@8xbpf%O%ij]nhjtRnazt3j@"
+  },
+  {
+    "id": "https://vnexpress.net/nghe-si-nhiep-anh-quang-phung-qua-doi-5111767.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Nghệ sĩ nhiếp ảnh Quang Phùng qua đời",
+    "description": "Nghệ sĩ Quang Phùng, đại thụ của nhiếp ảnh Việt Nam, qua đời ở tuổi 94, để lại nhiều tác phẩm ghi dấu vẻ đẹp Hà Nội.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/08/21/nhiep-anh-gia-quang-phung-1787-7441-4000-1787300274.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=GGs1WbyKi9H7Ol5915bzMg",
+    "link": "https://vnexpress.net/nghe-si-nhiep-anh-quang-phung-qua-doi-5111767.html",
+    "published_at": "Fri, 21 Aug 2026 15:48:23 +0700",
+    "createAt": "2026-08-21T08:48:23.000Z",
+    "thumbnail_blurhash": "LdJt-e?bxvxb~pxut6Rj%MxvR-bb"
   }
 ]

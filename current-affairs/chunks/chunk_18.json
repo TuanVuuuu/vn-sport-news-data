@@ -882,5 +882,31 @@
     "published_at": "Fri, 21 Aug 2026 14:00:00 +0700",
     "createAt": "2026-08-21T07:00:00.000Z",
     "thumbnail_blurhash": "L8BewB~V39-.Q-IUEfM|0gIu[vM|"
+  },
+  {
+    "id": "https://vnexpress.net/hai-phong-lam-pho-di-bo-o-trung-tam-thanh-pho-5111749.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Hải Phòng làm phố đi bộ ở trung tâm thành phố",
+    "description": "Tối 28/8, Hải Phòng sẽ khai mạc phố đi bộ và phát triển kinh tế đêm kéo dài từ ngã tư Mê Linh đến cây xăng đường Trần Hưng Đạo.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/21/z7808105143924a28f0054de78c0fd-2339-4032-1787298605.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Z7tKStF8OvHrcAqMGyzRmA",
+    "link": "https://vnexpress.net/hai-phong-lam-pho-di-bo-o-trung-tam-thanh-pho-5111749.html",
+    "published_at": "Fri, 21 Aug 2026 15:07:24 +0700",
+    "createAt": "2026-08-21T08:07:24.000Z",
+    "thumbnail_blurhash": "L4F=E*0016~quj={D~E300_N}F-6"
+  },
+  {
+    "id": "https://vnexpress.net/mua-nha-o-xa-hoi-nen-xet-uu-tien-thay-vi-boc-tham-5111739.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "'Mua nhà ở xã hội nên xét ưu tiên thay vì bốc thăm'",
+    "description": "Đại biểu Phan Thị Thúy Linh đề nghị khi số hồ sơ đủ điều kiện vượt số căn hộ, người mua nhà ở xã hội cần được lựa chọn theo tiêu chí ưu tiên công khai thay vì bốc thăm.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/21/wm1aoboqt2xhjrpx7ovwx8gqqshp-1-5554-9240-1787301996.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=e5eKNs523LEDGRcXs8Z_JQ",
+    "link": "https://vnexpress.net/mua-nha-o-xa-hoi-nen-xet-uu-tien-thay-vi-boc-tham-5111739.html",
+    "published_at": "Fri, 21 Aug 2026 15:46:36 +0700",
+    "createAt": "2026-08-21T08:46:36.000Z",
+    "thumbnail_blurhash": "L8NJRa00359EFqF0Mf~W00_2-D-p"
   }
 ]
