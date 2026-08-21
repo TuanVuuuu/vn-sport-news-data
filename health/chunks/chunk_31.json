@@ -1194,5 +1194,31 @@
     "published_at": "Sat, 22 Aug 2026 00:02:00 +0700",
     "createAt": "2026-08-21T17:02:00.000Z",
     "thumbnail_blurhash": "LKGH3DI:06%1}rNtNKn%0lNt^NRn"
+  },
+  {
+    "id": "https://vnexpress.net/6-thoi-quen-khien-ban-de-om-5107664.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "6 thói quen khiến bạn dễ ốm",
+    "description": "Ăn khuya và ăn nhiều thịt chế biến sẵn chứa chất bảo quản, dễ dẫn đến rối loạn chuyển hóa, tích tụ mỡ gây viêm, khiến hệ miễn dịch suy giảm.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/11/441892106-n-1786412029-2721-1786412109.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=DU141dFn74FuwLftjQX55w",
+    "link": "https://vnexpress.net/6-thoi-quen-khien-ban-de-om-5107664.html",
+    "published_at": "Sat, 22 Aug 2026 01:00:00 +0700",
+    "createAt": "2026-08-21T18:00:00.000Z",
+    "thumbnail_blurhash": "LYK,mO_2?]XStO-:oykWR*$zVsoJ"
+  },
+  {
+    "id": "https://vnexpress.net/vi-sao-cang-gan-sang-cang-de-tinh-giac-5111301.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Vì sao càng gần sáng càng dễ tỉnh giấc?",
+    "description": "Càng gần sáng, giấc ngủ càng nông, thời gian ngủ sâu giảm và cơ thể dần chuyển sang trạng thái tỉnh táo, khiến nhiều người dễ thức giấc.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/20/thuc-giac1-1787209874-8035-1787209917.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=nz9OYmO2qftFO3zLL8mgsA",
+    "link": "https://vnexpress.net/vi-sao-cang-gan-sang-cang-de-tinh-giac-5111301.html",
+    "published_at": "Sat, 22 Aug 2026 02:00:00 +0700",
+    "createAt": "2026-08-21T19:00:00.000Z",
+    "thumbnail_blurhash": "L31pMRp1RhkZtpkZW?o#n$kZktf6"
   }
 ]
