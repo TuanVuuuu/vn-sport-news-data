@@ -1,3 +1,56 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/hlv-thai-lan-ung-ho-cach-viet-nam-nhap-tich-cau-thu-brazil-5111710.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "HLV Thái Lan: 'Ủng hộ cách Việt Nam nhập tịch cầu thủ Brazil'",
+      "description": "HLV Anthony Hudson ủng hộ cách Việt Nam nâng cao sức mạnh bằng các cầu thủ gốc Brazil, trước khi đối đầu Thái Lan ở chung kết ASEAN Cup 2026.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/08/21/dong8678-jpg-1787300708-9284-1787300958.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=7CiMJHaIJmZkn0-6VuO27A",
+      "link": "https://vnexpress.net/hlv-thai-lan-ung-ho-cach-viet-nam-nhap-tich-cau-thu-brazil-5111710.html",
+      "published_at": "Fri, 21 Aug 2026 13:55:35 +0700",
+      "createAt": "2026-08-21T06:55:35.000Z",
+      "thumbnail_blurhash": "LiJ[k#R4?ItR~XtQR%W?s:o#s7M|"
+    },
+    {
+      "id": "https://vnexpress.net/hlv-kim-viet-nam-muon-viet-nen-trang-su-moi-o-asean-cup-5111792.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "HLV Kim: 'Việt Nam muốn viết nên trang sử mới ở ASEAN Cup'",
+      "description": "HLV Kim Sang-sik tự tin cùng Việt Nam một lần nữa đánh bại Thái Lan trên sân Rajamangala, sau chung kết ASEAN Cup 2024 và SEA Games 33.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/08/21/dong9058-jpg-1787308952-8401-1787308966.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=wjgb502Pq5clp88yC_HNlg",
+      "link": "https://vnexpress.net/hlv-kim-viet-nam-muon-viet-nen-trang-su-moi-o-asean-cup-5111792.html",
+      "published_at": "Fri, 21 Aug 2026 16:15:00 +0700",
+      "createAt": "2026-08-21T09:15:00.000Z",
+      "thumbnail_blurhash": "LZKx0q?H?w%N^%$dM|jbM{-P-5xC"
+    },
+    {
+      "id": "https://vnexpress.net/phu-huynh-chay-khap-cac-nha-sach-moi-gom-du-bo-cho-con-5111564.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Phụ huynh: 'Chạy khắp các nhà sách mới gom đủ bộ cho con'",
+      "description": "Nhiều phụ huynh phải đi 2-3 nhà sách, xếp hàng nhiều giờ tìm mua đủ sách giáo khoa cho con trước năm học mới.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/21/Anhmanhinh20260821luc165711-17-3589-9595-1787306263.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=-1UvDbyRN16edPLZsisKsQ",
+      "link": "https://vnexpress.net/phu-huynh-chay-khap-cac-nha-sach-moi-gom-du-bo-cho-con-5111564.html",
+      "published_at": "Fri, 21 Aug 2026 16:19:50 +0700",
+      "createAt": "2026-08-21T09:19:50.000Z",
+      "thumbnail_blurhash": "LCD9VY-;ZxjC~0M_-rxb?H%2${sk"
+    },
+    {
+      "id": "https://vnexpress.net/37-phuong-xa-tp-hcm-bi-cat-nuoc-nuoc-yeu-trong-8-gio-5111825.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "37 phường xã TP HCM bị cắt nước, nước yếu trong 8 giờ",
+      "description": "Nhà máy nước Tân Hiệp ngưng bơm để bảo trì khiến 37 phường, xã ở TP HCM có thể bị cúp nước, nước yếu từ 22h ngày 21/8 đến 6h hôm sau.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/21/IMG9381-1787305327-5056-1787305365.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ML8N3M0ZaRq2RYyspma1tw",
+      "link": "https://vnexpress.net/37-phuong-xa-tp-hcm-bi-cat-nuoc-nuoc-yeu-trong-8-gio-5111825.html",
+      "published_at": "Fri, 21 Aug 2026 16:42:45 +0700",
+      "createAt": "2026-08-21T09:42:45.000Z",
+      "thumbnail_blurhash": "LmKoJ:Rjo}.8~qoeRkRlxtj@fRWB"
+    }
+  ]
 }
