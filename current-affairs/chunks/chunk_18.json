@@ -726,5 +726,31 @@
     "published_at": "Fri, 21 Aug 2026 05:00:00 +0700",
     "createAt": "2026-08-20T22:00:00.000Z",
     "thumbnail_blurhash": "L6FiZ1tR56~UI-sj9E4o00D%MxV@"
+  },
+  {
+    "id": "https://vnexpress.net/thu-hoi-dat-can-tranh-tao-thua-nho-meo-mo-5111538.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Thu hồi đất cần tránh tạo thửa nhỏ, méo mó",
+    "description": "Đại biểu Lê Văn Thế đề nghị tính toán thu hồi đất theo không gian chung của dự án, tránh để lại những thửa nhỏ, méo mó hoặc bị chia cắt, không thể sử dụng hiệu quả.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/21/202608090851425238-z8131914071-2024-9996-1787280946.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=5wmyzDRJ3m5RP8S3EGYplQ",
+    "link": "https://vnexpress.net/thu-hoi-dat-can-tranh-tao-thua-nho-meo-mo-5111538.html",
+    "published_at": "Fri, 21 Aug 2026 09:16:34 +0700",
+    "createAt": "2026-08-21T02:16:34.000Z",
+    "thumbnail_blurhash": "LGL:}}_4-m_200w[NzD*00f6RPIB"
+  },
+  {
+    "id": "https://vnexpress.net/ap-thap-nhiet-doi-gay-mua-lon-cho-mien-bac-va-bac-trung-bo-5111566.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Áp thấp nhiệt đới gây mưa lớn cho miền Bắc và Bắc Trung Bộ",
+    "description": "Áp thấp nhiệt đới trên vịnh Bắc Bộ có thể gây mưa trên 300 mm từ nay đến đêm 22/8 ở Đông Bắc Bộ và Thanh Hóa, nguy cơ gây ngập úng, lũ quét và sạt lở đất.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/21/anh-chup-man-hinh-luc-17872790-6140-3354-1787279163.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=TMK7tGhwr2D-rRZSMTiPVw",
+    "link": "https://vnexpress.net/ap-thap-nhiet-doi-gay-mua-lon-cho-mien-bac-va-bac-trung-bo-5111566.html",
+    "published_at": "Fri, 21 Aug 2026 09:57:10 +0700",
+    "createAt": "2026-08-21T02:57:10.000Z",
+    "thumbnail_blurhash": "LMBOmlMZIJx[O0sAt1X8Rkbus+n5"
   }
 ]
