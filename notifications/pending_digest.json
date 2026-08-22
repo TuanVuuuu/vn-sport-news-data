@@ -1,3 +1,134 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/ky-luc-17-sinh-vien-kinh-te-quoc-dan-tot-nghiep-diem-tuyet-doi-5112009.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Kỷ lục 17 sinh viên Kinh tế Quốc dân tốt nghiệp điểm tuyệt đối",
+      "description": "Khoảng một nửa số sinh viên Đại học Kinh tế Quốc dân nhận bằng xuất sắc, trong đó 17 người đạt điểm tuyệt đối - cao nhất từ trước đến nay.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/22/wm1-wm1-neu-1787370413-5905-1787370501.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ZLybz9r1hfjaSzB_R9tKtA",
+      "link": "https://vnexpress.net/ky-luc-17-sinh-vien-kinh-te-quoc-dan-tot-nghiep-diem-tuyet-doi-5112009.html",
+      "published_at": "Sat, 22 Aug 2026 11:10:52 +0700",
+      "createAt": "2026-08-22T04:10:52.000Z",
+      "thumbnail_blurhash": "LiDwK|tRI9XApyo}$%bIJpg4xae-"
+    },
+    {
+      "id": "https://vnexpress.net/viet-nam-duoc-du-doan-thang-thai-lan-3-0-5112067.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Việt Nam được dự đoán thắng Thái Lan 3-0",
+      "description": "Một thuật toán trí tuệ nhân tạo dự đoán Việt Nam thắng Thái Lan 3-0 tại Bangkok, trong trận lượt đi chung kết ASEAN Cup 2026 tối nay.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/08/22/wm1-wm1-hoa-ng-du-c-vs-tha-i-lan-1-5707-4855-1787374128.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=FtRdNCDQ1-frO6YYV2Ab6g",
+      "link": "https://vnexpress.net/viet-nam-duoc-du-doan-thang-thai-lan-3-0-5112067.html",
+      "published_at": "Sat, 22 Aug 2026 11:54:45 +0700",
+      "createAt": "2026-08-22T04:54:45.000Z",
+      "thumbnail_blurhash": "LBC?oS~T0h2W8.R8cANLG$Sx+^-6"
+    },
+    {
+      "id": "https://vnexpress.net/hang-nghin-nguoi-tre-xep-hang-nhan-ve-concert-to-quoc-trong-tim-5112032.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Hàng nghìn người trẻ xếp hàng nhận vé concert 'Tổ quốc trong tim'",
+      "description": "Hàng nghìn khán giả trẻ đội nắng chờ cầm trên tay chiếc vé xem concert \"Tổ quốc trong tim\" lần đầu sẽ diễn ra ở TP HCM, vào tối 23/8.",
+      "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/08/22/khan-gia-nhan-ve-xem-concert-to-quoc-trong-tim-o-tp-hcm-1787371016-1787371127-1787373952.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Z6S8JPfaJd9cLEdpmhZbKA",
+      "link": "https://vnexpress.net/hang-nghin-nguoi-tre-xep-hang-nhan-ve-concert-to-quoc-trong-tim-5112032.html",
+      "published_at": "Sat, 22 Aug 2026 12:09:26 +0700",
+      "createAt": "2026-08-22T05:09:26.000Z",
+      "thumbnail_blurhash": "LrLzz0t8.8%g_4o#kDxu-;NHRke:"
+    },
+    {
+      "id": "https://vnexpress.net/tuong-quan-truoc-tran-thai-lan-viet-nam-5111907.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Tương quan trước trận Thái Lan - Việt Nam",
+      "description": "Thái Lan có lợi thế sân nhà và lịch sử đối đầu, nhưng Việt Nam đang đạt phong độ cao, lực lượng hùng hậu cùng tài điều binh của HLV Kim Sang-sik trước chung kết lượt đi ASEAN Cup 2026 hôm nay.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/08/22/1787380065721-3127835067790900705-3127835067790900705-d8576b1979e04505195e71b2a4f51228-1787381060.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=swVymL4FKvpZsl3aCdVZXA",
+      "link": "https://vnexpress.net/tuong-quan-truoc-tran-thai-lan-viet-nam-5111907.html",
+      "published_at": "Sat, 22 Aug 2026 12:11:15 +0700",
+      "createAt": "2026-08-22T05:11:15.000Z",
+      "thumbnail_blurhash": "L9Cg}x2_V$|sx@#;EkJm1H+]SwSx"
+    },
+    {
+      "id": "https://vnexpress.net/hai-phong-quang-ninh-va-hung-yen-cam-bien-5112062.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Hải Phòng, Quảng Ninh và Hưng Yên cấm biển",
+      "description": "Từ sáng nay, ba tỉnh Hải Phòng, Quảng Ninh, Thái Bình cấm biển, dừng các tuyến phà ra đảo; công ty thủy lợi hạ mực nước kênh mương đề phòng mưa lớn, gây ngập.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/22/acd709cea0-abeceabe18f45063922-6797-5227-1787373461.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=PjW2bKaPqk5WMHSRRjLeSg",
+      "link": "https://vnexpress.net/hai-phong-quang-ninh-va-hung-yen-cam-bien-5112062.html",
+      "published_at": "Sat, 22 Aug 2026 12:16:10 +0700",
+      "createAt": "2026-08-22T05:16:10.000Z",
+      "thumbnail_blurhash": "L7FPQtIV~qsmQ.IAIAWB.8Mw9FtR"
+    },
+    {
+      "id": "https://vnexpress.net/vo-chong-tu-vong-nghi-do-dien-giat-5112068.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Vợ chồng tử vong nghi do điện giật",
+      "description": "Vợ chồng ông Bé bị phát hiện tử vong trên tầng 2 ngôi nhà ở xã Vĩnh Hải, nghi do điện rò rỉ từ hệ thống bình nước nóng năng lượng mặt trời.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/22/1787374090077b9dac13df5736c77d-4358-5662-1787374394.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=6y-x9ivvRfdH7wFRHbdnSg",
+      "link": "https://vnexpress.net/vo-chong-tu-vong-nghi-do-dien-giat-5112068.html",
+      "published_at": "Sat, 22 Aug 2026 12:24:33 +0700",
+      "createAt": "2026-08-22T05:24:33.000Z",
+      "thumbnail_blurhash": "LFF$OuiZxJfE~KxTI-E9^~RMxvIB"
+    },
+    {
+      "id": "https://vnexpress.net/du-kien-giam-5-truong-dai-hoc-thuoc-bo-giao-duc-va-dao-tao-5112020.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Dự kiến giảm 5 trường đại học thuộc Bộ Giáo dục và Đào tạo",
+      "description": "Bộ Giáo dục và Đào tạo dự kiến giảm 5 trường đại học và 12 trường nghề trong tổng số 57 cơ sở trực thuộc.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/22/wm1-wm1-sinh-vie-n-neu-1787369527-3826-1787369748.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=HvsvuvUcNnFeamtjhfdaJg",
+      "link": "https://vnexpress.net/du-kien-giam-5-truong-dai-hoc-thuoc-bo-giao-duc-va-dao-tao-5112020.html",
+      "published_at": "Sat, 22 Aug 2026 12:29:48 +0700",
+      "createAt": "2026-08-22T05:29:48.000Z",
+      "thumbnail_blurhash": "LED+;_?vW?.9=_RiIVaJ~WRjMxs:"
+    },
+    {
+      "id": "https://vnexpress.net/nhieu-phuong-xa-tp-hcm-de-xuat-khong-tiep-tuc-sap-nhap-5112077.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Nhiều phường, xã TP HCM đề xuất không tiếp tục sáp nhập",
+      "description": "Loạt phường trung tâm, đông dân như Sài Gòn, Bến Thành, Gia Định, Gò Vấp muốn giữ nguyên địa giới dù chưa đạt chuẩn diện tích, nhằm tránh xáo trộn bộ máy và đời sống người dân.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/22/dji-1787375935-7358-1787375998.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=6LvmmFNfsLEeIsGhrlFcMg",
+      "link": "https://vnexpress.net/nhieu-phuong-xa-tp-hcm-de-xuat-khong-tiep-tuc-sap-nhap-5112077.html",
+      "published_at": "Sat, 22 Aug 2026 12:30:57 +0700",
+      "createAt": "2026-08-22T05:30:57.000Z",
+      "thumbnail_blurhash": "LcGu]?%Mj]WB_NWBofof?vofayj["
+    },
+    {
+      "id": "https://vnexpress.net/spacex-se-thu-hoi-tang-tren-cua-ten-lua-starship-bang-dua-gap-5111820.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "SpaceX sẽ thu hồi tầng trên của tên lửa Starship bằng đũa gắp",
+      "description": "Trong vài tháng tới, SpaceX sẽ cố gắng thu hồi tầng trên của Starship ngay tại bệ phóng, tiến tới mục tiêu tái sử dụng hoàn toàn siêu tên lửa này.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/21/VNESuper-1787304764-7177-1787304867.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=W6OFByctZY7Ng06yxBAWuw",
+      "link": "https://vnexpress.net/spacex-se-thu-hoi-tang-tren-cua-ten-lua-starship-bang-dua-gap-5111820.html",
+      "published_at": "Sat, 22 Aug 2026 13:00:00 +0700",
+      "createAt": "2026-08-22T06:00:00.000Z",
+      "thumbnail_blurhash": "LWGITA%LE2R,?wt7aej[5AR+xYoL"
+    },
+    {
+      "id": "https://vnexpress.net/thai-lan-viet-nam-di-tim-su-khang-dinh-o-dong-nam-a-5112101.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Thái Lan - Việt Nam: Đi tìm sự khẳng định ở Đông Nam Á",
+      "description": "Trận lượt đi chung kết ASEAN Cup 2026 tại sân Rajamangala tối nay 22/8 không chỉ mang ý nghĩa cạnh tranh danh hiệu, mà còn khẳng định vị trí số một Đông Nam Á giữa Thái Lan và Việt Nam.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/08/22/thai-lan-viet-nam-ck-asean-cup-4964-2998-1787379751.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=FRCLhZZZYPKi27eH8gEY3g",
+      "link": "https://vnexpress.net/thai-lan-viet-nam-di-tim-su-khang-dinh-o-dong-nam-a-5112101.html",
+      "published_at": "Sat, 22 Aug 2026 13:58:14 +0700",
+      "createAt": "2026-08-22T06:58:14.000Z",
+      "thumbnail_blurhash": "LKFzsk720~}Y1a+]rrK40y$M=eEN"
+    }
+  ]
 }
