@@ -297,5 +297,31 @@
     "published_at": "Sat, 22 Aug 2026 17:00:00 +0700",
     "createAt": "2026-08-22T10:00:00.000Z",
     "thumbnail_blurhash": "LNEM%saJK7$|K-nhoze-Out7bIWB"
+  },
+  {
+    "id": "https://vnexpress.net/khach-tu-vong-vi-ket-xe-giua-sa-mac-nong-gan-50-do-c-5112203.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Khách tử vong vì kẹt xe giữa sa mạc nóng gần 50 độ C",
+    "description": "Khách Pháp tử vong sau khi xe bị kẹt, phải đi bộ giữa địa hình sa mạc của Thung lũng Chết, bang California, trong cái nóng gần 50 độ C.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/08/22/wdjpkxpldvr89n3alydzra7dft9e-j-3580-6328-1787390627.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=NKWbJbdjrG6VHM0q94MWOw",
+    "link": "https://vnexpress.net/khach-tu-vong-vi-ket-xe-giua-sa-mac-nong-gan-50-do-c-5112203.html",
+    "published_at": "Sat, 22 Aug 2026 17:07:23 +0700",
+    "createAt": "2026-08-22T10:07:23.000Z",
+    "thumbnail_blurhash": "LvKUcnxtM|S5PEWVxZkDK9xts.Rk"
+  },
+  {
+    "id": "https://vnexpress.net/vi-sao-bao-di-long-vong-trong-vinh-bac-bo-5112218.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Vì sao bão đi lòng vòng trong vịnh Bắc Bộ?",
+    "description": "Bão số 4 (tên quốc tế Narra) di chuyển chậm trong vịnh Bắc Bộ, liên tục đổi hướng do nằm trên dải hội tụ nhiệt đới, chịu tác động của các dòng dẫn khí quyển.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/22/anh-chup-man-hinh-luc-17873929-1591-7048-1787392994.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=QA0zxEJVqCDs6sVdaV58Bw",
+    "link": "https://vnexpress.net/vi-sao-bao-di-long-vong-trong-vinh-bac-bo-5112218.html",
+    "published_at": "Sat, 22 Aug 2026 17:16:52 +0700",
+    "createAt": "2026-08-22T10:16:52.000Z",
+    "thumbnail_blurhash": "LKB=CdiWD@PARvs$izbrEnOmwz$d"
   }
 ]
