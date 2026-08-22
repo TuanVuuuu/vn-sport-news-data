@@ -1116,5 +1116,31 @@
     "published_at": "Sun, 23 Aug 2026 05:00:00 +0700",
     "createAt": "2026-08-22T22:00:00.000Z",
     "thumbnail_blurhash": "L7FFyzr_4m~p00M|9Fbp#4-p-=IT"
+  },
+  {
+    "id": "https://vnexpress.net/nha-trang-nham-lan-giua-hai-hang-rolls-royce-5111933.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Nhà Trắng nhầm lẫn giữa hai hãng Rolls-Royce",
+    "description": "Báo cáo mới nhất đăng trên website của Nhà Trắng xếp Rolls-Royce PLC - đơn vị sản xuất động cơ hàng không - cùng các hãng ôtô khác.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/22/RollsRoyce1-1787376481-6673-1787376690.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=WfVomx6SYlrVpwyvTstodw",
+    "link": "https://vnexpress.net/nha-trang-nham-lan-giua-hai-hang-rolls-royce-5111933.html",
+    "published_at": "Sun, 23 Aug 2026 06:00:00 +0700",
+    "createAt": "2026-08-22T23:00:00.000Z",
+    "thumbnail_blurhash": "LkJkce~q-;-;R*%MofWBj?WBxuRj"
+  },
+  {
+    "id": "https://vnexpress.net/bmw-ix3-l-2026-gia-tu-40-000-usd-5111959.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "BMW iX3 L 2026 giá từ 40.000 USD",
+    "description": "Mẫu xe điện gầm cao hạng sang bổ sung bản tiêu chuẩn, lắp pin LFP mới, phạm vi hoạt động 630-919 km, giá cao nhất 50.600 USD.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/22/bmwix3l2026120-1787372929-6652-1787373221.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=QuljWejp4FKiWYQszkKRPA",
+    "link": "https://vnexpress.net/bmw-ix3-l-2026-gia-tu-40-000-usd-5111959.html",
+    "published_at": "Sun, 23 Aug 2026 06:29:00 +0700",
+    "createAt": "2026-08-22T23:29:00.000Z",
+    "thumbnail_blurhash": "LcHe-6?c~V%OEWR:D%%M_4o#WVf+"
   }
 ]
