@@ -1116,5 +1116,31 @@
     "published_at": "Sat, 22 Aug 2026 00:00:00 +0700",
     "createAt": "2026-08-21T17:00:00.000Z",
     "thumbnail_blurhash": "LDB3i[D*~TRP~VIpt2M{t8kCIoRj"
+  },
+  {
+    "id": "https://vnexpress.net/dat-da-sat-lo-gay-un-tac-duong-o-quang-ngai-5111360.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Đất đá sạt lở gây ùn tắc đường ở Quảng Ngãi",
+    "description": "Mưa lớn khiến gần 2.000 m3 đất đá từ taluy dương sạt xuống đường tránh đèo Văn Rơi, đoạn qua xã Kon Đào, gây chia cắt tuyến đường.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/20/1787224653297fbe195ab5418a8ce6-1572-3400-1787224792.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=m5Pct0D0nNdQUVy0zzff_w",
+    "link": "https://vnexpress.net/dat-da-sat-lo-gay-un-tac-duong-o-quang-ngai-5111360.html",
+    "published_at": "Thu, 20 Aug 2026 15:39:35 +0700",
+    "createAt": "2026-08-20T08:39:35.000Z",
+    "thumbnail_blurhash": "LCIg7M^*1PtRyZ={-:%1K+aextI:"
+  },
+  {
+    "id": "https://vnexpress.net/thap-thom-cho-thong-bao-phat-nguoi-5109925.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Thấp thỏm chờ thông báo phạt nguội",
+    "description": "Cứ mỗi tối chủ nhật, tài xế Nghiêm Tuấn Mạnh, 35 tuổi, ở Hà Nội, lại ngồi lặng yên trước màn hình điện thoại theo dõi ứng dụng VNeTraffic.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/21/c91r5930-1787328765-1397-1787328964.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Fv_XkDuYokkzeBRrK0HqmQ",
+    "link": "https://vnexpress.net/thap-thom-cho-thong-bao-phat-nguoi-5109925.html",
+    "published_at": "Sat, 22 Aug 2026 04:00:00 +0700",
+    "createAt": "2026-08-21T21:00:00.000Z",
+    "thumbnail_blurhash": "L9F~gh9FIn4m_4Rj?bD*IT_3%MNG"
   }
 ]
