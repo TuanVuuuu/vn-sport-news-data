@@ -557,5 +557,44 @@
     "published_at": "Sat, 22 Aug 2026 07:33:57 +0700",
     "createAt": "2026-08-22T00:33:57.000Z",
     "thumbnail_blurhash": "LEHLxW~Tk8D%aa?aNaIo-hM{D%NG"
+  },
+  {
+    "id": "https://vnexpress.net/tau-san-bay-my-tu-trung-dong-ve-cang-sau-ky-luc-hon-200-ngay-hoat-dong-5111485.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Tàu sân bay Mỹ từ Trung Đông về cảng sau kỷ lục hơn 200 ngày hoạt động",
+    "description": "Giới chức Mỹ thông báo tàu sân bay George Washington đã tới Trung Đông, thay thế cho chiến hạm Abraham Lincoln đã triển khai hơn 200 ngày liên tục.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/20/Lincoln-1787241865-2434-1787242209.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=4F_g2oEzRtG43PAjudet6Q",
+    "link": "https://vnexpress.net/tau-san-bay-my-tu-trung-dong-ve-cang-sau-ky-luc-hon-200-ngay-hoat-dong-5111485.html",
+    "published_at": "Fri, 21 Aug 2026 00:09:00 +0700",
+    "createAt": "2026-08-20T17:09:00.000Z",
+    "thumbnail_blurhash": "LfEf+[t7M|tR.Af+afax-=ayWBWV"
+  },
+  {
+    "id": "https://vnexpress.net/phat-ngon-vien-leavitt-se-gia-nhap-sieu-uy-ban-ung-ho-ong-trump-5111922.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Phát ngôn viên Leavitt sẽ gia nhập siêu ủy ban ủng hộ ông Trump",
+    "description": "Thư ký báo chí Nhà Trắng Karoline Leavitt thông báo sẽ đầu quân cho quỹ chính trị ủng hộ Tổng thống Trump sau khi rời chức vụ cuối tháng này.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/22/afp-c2za3kv-v1-highre-17873607-3069-6981-1787360781.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=TqcMaDG87Q42pZP4uqhBGw",
+    "link": "https://vnexpress.net/phat-ngon-vien-leavitt-se-gia-nhap-sieu-uy-ban-ung-ho-ong-trump-5111922.html",
+    "published_at": "Sat, 22 Aug 2026 08:06:21 +0700",
+    "createAt": "2026-08-22T01:06:21.000Z",
+    "thumbnail_blurhash": "LKFY}.tR0@xsP;o}aJs:x[xuw[kq"
+  },
+  {
+    "id": "https://vnexpress.net/toa-toi-cao-go-rao-cho-phong-khieu-vu-cua-ong-trump-5111919.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Tòa Tối cao 'gỡ rào' cho phòng khiêu vũ của ông Trump",
+    "description": "Tòa án Tối cao cho phép ông Trump tiếp tục xây phòng khiêu vũ tại Nhà Trắng trong thời gian cơ quan này xem xét đơn kháng cáo.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/22/afp-v1-highres-constructioncon-3719-5069-1787360807.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Ldo6WFKrL6HBUOx5otcBew",
+    "link": "https://vnexpress.net/toa-toi-cao-go-rao-cho-phong-khieu-vu-cua-ong-trump-5111919.html",
+    "published_at": "Sat, 22 Aug 2026 09:39:52 +0700",
+    "createAt": "2026-08-22T02:39:52.000Z",
+    "thumbnail_blurhash": "L397LpkW000LYQNG#k^j00nO~qx^"
   }
 ]
