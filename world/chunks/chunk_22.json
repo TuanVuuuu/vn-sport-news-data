@@ -635,5 +635,44 @@
     "published_at": "Sat, 22 Aug 2026 11:05:11 +0700",
     "createAt": "2026-08-22T04:05:11.000Z",
     "thumbnail_blurhash": "LQFrYF58yEXU~qohOYWsJVbbV@Rk"
+  },
+  {
+    "id": "https://vnexpress.net/harry-thua-kien-phai-tra-an-phi-cho-bao-anh-5111987.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Harry thua kiện, phải trả án phí cho báo Anh",
+    "description": "Hoàng tử Harry và 6 người khác thua kiện trong vụ tranh chấp quyền riêng tư với báo Daily Mail, phải trả án phí tối thiểu 13 triệu USD.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/22/afp-b9je6ky-v1-highres-britain-8189-4312-1787368200.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=Gq0z5Evgb3rEgoZaNxwngA",
+    "link": "https://vnexpress.net/harry-thua-kien-phai-tra-an-phi-cho-bao-anh-5111987.html",
+    "published_at": "Sat, 22 Aug 2026 11:24:45 +0700",
+    "createAt": "2026-08-22T04:24:45.000Z",
+    "thumbnail_blurhash": "L484JVV]00~XqZt5Y7Mw9Yay-pR%"
+  },
+  {
+    "id": "https://vnexpress.net/can-dan-tiem-kich-ukraine-ap-sat-de-ep-rung-uav-nga-5111945.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Cạn đạn, tiêm kích Ukraine áp sát để 'ép rụng UAV Nga'",
+    "description": "Tiêm kích MiG-29 Ukraine dường như bắn hết đạn và phải mạo hiểm bay sát UAV Nga nhằm khiến mục tiêu lao xuống đất.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/22/Settop2-1787366708-2551-1787367486.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=jCRisb7VwT8zyo6LZPaZOA&t=image",
+    "link": "https://vnexpress.net/can-dan-tiem-kich-ukraine-ap-sat-de-ep-rung-uav-nga-5111945.html",
+    "published_at": "Sat, 22 Aug 2026 11:31:57 +0700",
+    "createAt": "2026-08-22T04:31:57.000Z",
+    "thumbnail_blurhash": "LDJb:C.8oy%fuPfjjZkCRpfRWVaz"
+  },
+  {
+    "id": "https://vnexpress.net/tho-nhi-ky-israel-cong-kich-nhau-sau-vu-de-nghi-interpol-truy-na-ong-netanyahu-5111960.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Thổ Nhĩ Kỳ - Israel công kích nhau sau vụ đề nghị Interpol truy nã ông Netanyahu",
+    "description": "Giới chức Thổ Nhĩ Kỳ - Israel chỉ trích đối phương sau khi Istanbul phát lệnh bắt và đề nghị Interpol truy nã Thủ tướng Netanyahu.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/22/page-1787366690-8160-1787366703.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Pe65QWnXvRvMD8BQ8_6nmA",
+    "link": "https://vnexpress.net/tho-nhi-ky-israel-cong-kich-nhau-sau-vu-de-nghi-interpol-truy-na-ong-netanyahu-5111960.html",
+    "published_at": "Sat, 22 Aug 2026 11:37:42 +0700",
+    "createAt": "2026-08-22T04:37:42.000Z",
+    "thumbnail_blurhash": "LIC=;|NJ57-p~CEMEM-pxtWEWBs."
   }
 ]
