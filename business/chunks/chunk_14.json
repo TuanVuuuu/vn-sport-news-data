@@ -1194,5 +1194,31 @@
     "published_at": "Sat, 22 Aug 2026 00:05:00 +0700",
     "createAt": "2026-08-21T17:05:00.000Z",
     "thumbnail_blurhash": "L69Z}@.8-:~V_2x^skIT?v%2%L-;"
+  },
+  {
+    "id": "https://vnexpress.net/cherry-my-ve-viet-nam-dat-gan-gap-doi-5110316.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Cherry Mỹ về Việt Nam đắt gần gấp đôi",
+    "description": "So với cùng kỳ năm ngoái, cherry Mỹ bán tại Việt Nam tăng 50-95%, lên mức 480.000-800.000 đồng một kg.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/08/18/cherry-1787023700-9662-1787023873.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=M5kn2MjJ_BB1T_AZ70HFmQ",
+    "link": "https://vnexpress.net/cherry-my-ve-viet-nam-dat-gan-gap-doi-5110316.html",
+    "published_at": "Sat, 22 Aug 2026 07:30:00 +0700",
+    "createAt": "2026-08-22T00:30:00.000Z",
+    "thumbnail_blurhash": "L3DRf~-p00=fD+M|}sxZ?aRo9H-o"
+  },
+  {
+    "id": "https://vnexpress.net/gia-vang-the-gioi-tiep-tuc-vuot-4-600-usd-5111936.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Giá vàng thế giới tiếp tục vượt 4.600 USD",
+    "description": "Mỗi ounce vàng lên cao nhất 3 tháng trong phiên cuối tuần, ghi nhận tuần tăng thứ 3 liên tiếp.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/08/22/goldbarsreuters-1787360225-7491-1787360248.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Cl0QNElmRlcTjzWvpZF88g",
+    "link": "https://vnexpress.net/gia-vang-the-gioi-tiep-tuc-vuot-4-600-usd-5111936.html",
+    "published_at": "Sat, 22 Aug 2026 08:10:50 +0700",
+    "createAt": "2026-08-22T01:10:50.000Z",
+    "thumbnail_blurhash": "LAD*wb~90hRkIoWUt5s-07EOxYbH"
   }
 ]
