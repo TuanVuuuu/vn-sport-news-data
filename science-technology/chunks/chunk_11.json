@@ -258,5 +258,18 @@
     "published_at": "Sun, 23 Aug 2026 05:00:00 +0700",
     "createAt": "2026-08-22T22:00:00.000Z",
     "thumbnail_blurhash": "LNF5W}IpM{t79}xCRPof~Vw]Ioxa"
+  },
+  {
+    "id": "https://vnexpress.net/trung-tam-du-lieu-dau-tien-su-dung-16-trieu-noron-nguoi-5112202.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Trung tâm dữ liệu đầu tiên sử dụng 16 triệu nơron người",
+    "description": "Các nhà nghiên cứu Singapore ra mắt một nguyên mẫu trung tâm dữ liệu mới sử dụng tế bào thần kinh người (nơron) để xử lý thông tin thay vì phụ thuộc hoàn toàn vào chip silicon.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/22/VNECenter-1787389893-6761-1787390093.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=INZPL_dvGOtnJvHQHXESsA",
+    "link": "https://vnexpress.net/trung-tam-du-lieu-dau-tien-su-dung-16-trieu-noron-nguoi-5112202.html",
+    "published_at": "Sun, 23 Aug 2026 08:00:00 +0700",
+    "createAt": "2026-08-23T01:00:00.000Z",
+    "thumbnail_blurhash": "LjD0ot_N%gogx]tRozofaKjFaxfk"
   }
 ]
