@@ -323,5 +323,31 @@
     "published_at": "Mon, 24 Aug 2026 02:00:00 +0700",
     "createAt": "2026-08-23T19:00:00.000Z",
     "thumbnail_blurhash": "LDHUwo_4?cxaT}x]e.E19~?bWCM{"
+  },
+  {
+    "id": "https://vnexpress.net/cung-duong-lo-dieu-uon-luon-giua-nui-va-bien-5110935.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Cung đường Lộ Diêu uốn lượn giữa núi và biển",
+    "description": "Đường ven biển dài 4,5 km, mở qua 5 sườn núi và uốn lượn quanh đèo Lộ Diêu, đang hoàn thiện những hạng mục cuối để đưa vào khai thác cuối tháng 8.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/20/lodieu-1787199432.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=OgkMaLdQ4EmO1QJxrZsUhA",
+    "link": "https://vnexpress.net/cung-duong-lo-dieu-uon-luon-giua-nui-va-bien-5110935.html",
+    "published_at": "Mon, 24 Aug 2026 05:00:00 +0700",
+    "createAt": "2026-08-23T22:00:00.000Z",
+    "thumbnail_blurhash": "LKEDVHoHk?%MG^xtELNZ0$tkxabH"
+  },
+  {
+    "id": "https://vnexpress.net/nguoi-tre-hep-cua-vao-thi-truong-lao-dong-5112450.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Người trẻ 'hẹp cửa' vào thị trường lao động",
+    "description": "Những công việc đơn giản từng giúp sinh viên mới tốt nghiệp bước vào thị trường lao động đang thu hẹp, trong khi doanh nghiệp ngày càng muốn người mới có thể tạo giá trị ngay.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/23/233a9314-1787497915-1988-1787498540.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=o3Q2z9_R22dtIqC8AAdjmA",
+    "link": "https://vnexpress.net/nguoi-tre-hep-cua-vao-thi-truong-lao-dong-5112450.html",
+    "published_at": "Mon, 24 Aug 2026 06:00:00 +0700",
+    "createAt": "2026-08-23T23:00:00.000Z",
+    "thumbnail_blurhash": "LOG8[$_4.9R*O@E1-;WX?aM{ocWV"
   }
 ]
