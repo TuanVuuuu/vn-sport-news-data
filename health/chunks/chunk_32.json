@@ -700,5 +700,31 @@
     "published_at": "Sun, 23 Aug 2026 20:00:00 +0700",
     "createAt": "2026-08-23T13:00:00.000Z",
     "thumbnail_blurhash": "LJHVuG-10s03_HS$wIxG^@x]RQMz"
+  },
+  {
+    "id": "https://vnexpress.net/nguoi-viet-doi-mat-song-tho-nhieu-benh-5112403.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Người Việt đối mặt 'sống thọ, nhiều bệnh'",
+    "description": "Tuổi thọ tăng nhờ những tiến bộ y khoa, nhưng người Việt đang nhiều năm sống chung với các bệnh mạn tính và yếu tố nguy cơ phổ biến.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/23/tu-va-n-su-c-khoe-1787469263-3171-1787469354.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=fhnloX1YYjqjIrY5Ygo2jg",
+    "link": "https://vnexpress.net/nguoi-viet-doi-mat-song-tho-nhieu-benh-5112403.html",
+    "published_at": "Mon, 24 Aug 2026 00:00:00 +0700",
+    "createAt": "2026-08-23T17:00:00.000Z",
+    "thumbnail_blurhash": "L7H1[K0L00%f~LpHxHs=00?u}[S0"
+  },
+  {
+    "id": "https://vnexpress.net/5-thuc-pham-ho-tro-on-dinh-duong-huyet-ca-ngay-5111812.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "5 thực phẩm hỗ trợ ổn định đường huyết cả ngày",
+    "description": "Cá, bơ, sữa chua Hy Lạp, hạt chia và yến mạch giàu chất xơ, protein, chất béo tốt, giúp làm chậm hấp thu đường, hạn chế đường huyết tăng nhanh sau ăn.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/21/hat-chia-1787303502.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=VnI5uoVrJkmT7Uti_RXknw",
+    "link": "https://vnexpress.net/5-thuc-pham-ho-tro-on-dinh-duong-huyet-ca-ngay-5111812.html",
+    "published_at": "Mon, 24 Aug 2026 00:04:00 +0700",
+    "createAt": "2026-08-23T17:04:00.000Z",
+    "thumbnail_blurhash": "LCK,pS0M{[~9t-?a=_Mdve^*OuIA"
   }
 ]
