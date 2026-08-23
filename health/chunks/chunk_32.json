@@ -414,5 +414,70 @@
     "published_at": "Sun, 23 Aug 2026 06:14:17 +0700",
     "createAt": "2026-08-22T23:14:17.000Z",
     "thumbnail_blurhash": "LBGk:z?v00Md~qWFS4IU9ZRkNxWT"
+  },
+  {
+    "id": "https://vnexpress.net/vi-sao-mun-trung-ca-tai-phat-5112091.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Vì sao mụn trứng cá tái phát?",
+    "description": "Tôi mua thuốc trị mụn ở hiệu thuốc, dùng một thời gian thấy tình trạng cải thiện nhưng khi ngừng thuốc, mụn lại tái phát. Làm thế nào để điều trị mụn hiệu quả? (Hoài An, Thái Nguyên)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/22/z7675909489504-b7181af5c5673bd-1350-4108-1787378441.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=f9OMezxbbkxDgYNX4XeTsA",
+    "link": "https://vnexpress.net/vi-sao-mun-trung-ca-tai-phat-5112091.html",
+    "published_at": "Sun, 23 Aug 2026 07:00:00 +0700",
+    "createAt": "2026-08-23T00:00:00.000Z",
+    "thumbnail_blurhash": "LfIrT+8_ITV??wf+ROMxx]j]M{oz"
+  },
+  {
+    "id": "https://vnexpress.net/thuoc-la-dien-tu-hai-suc-khoe-the-nao-5112134.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Thuốc lá điện tử hại sức khỏe thế nào",
+    "description": "Nicotine và các hóa chất trong khí dung thuốc lá điện tử có thể gây co mạch, tăng nhịp tim, huyết áp và stress oxy hóa.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/22/image001-1787385691-3830-1787385713.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=c3VyqcvXvsbbIIL2dQaNsg",
+    "link": "https://vnexpress.net/thuoc-la-dien-tu-hai-suc-khoe-the-nao-5112134.html",
+    "published_at": "Sun, 23 Aug 2026 08:00:00 +0700",
+    "createAt": "2026-08-23T01:00:00.000Z",
+    "thumbnail_blurhash": "LjN,iE~qIon+%Ns.%gRkxuIUxvt7"
+  },
+  {
+    "id": "https://vnexpress.net/ai-can-cach-ly-sau-xa-tri-5112014.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Ai cần cách ly sau xạ trị?",
+    "description": "Tùy vào phương pháp xạ trị như xạ trong (áp sát), xạ trị ngoài hay toàn thân, người bệnh có thể được tư vấn cách ly với người xung quanh hoặc sinh hoạt như thường ngày.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/22/ngua-hong-1787377970-6459-1787378280.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=DNBbkjTVDYzyZyJFu_YVUA",
+    "link": "https://vnexpress.net/ai-can-cach-ly-sau-xa-tri-5112014.html",
+    "published_at": "Sun, 23 Aug 2026 08:00:00 +0700",
+    "createAt": "2026-08-23T01:00:00.000Z",
+    "thumbnail_blurhash": "LQNArMo#M{tR_Nt7xua}~Wt7D%t6"
+  },
+  {
+    "id": "https://vnexpress.net/kich-thich-tu-truong-xuyen-so-sau-dot-quy-the-nao-5112012.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Kích thích từ trường xuyên sọ sau đột quỵ thế nào",
+    "description": "Kích thích từ trường xuyên sọ được chỉ định tùy vào tình trạng tổn thương não, mức độ suy giảm chức năng, thường được thực hiện khoảng một tuần sau đột quỵ.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/22/anh1-1787377512-8367-1787377819.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=M39png897wCKZSBpv4x1cw",
+    "link": "https://vnexpress.net/kich-thich-tu-truong-xuyen-so-sau-dot-quy-the-nao-5112012.html",
+    "published_at": "Sun, 23 Aug 2026 08:00:00 +0700",
+    "createAt": "2026-08-23T01:00:00.000Z",
+    "thumbnail_blurhash": "LfLNuuSj%K%M_NRQW?WXfPt8e-Ri"
+  },
+  {
+    "id": "https://vnexpress.net/rua-nuoc-muoi-sinh-ly-co-giam-viem-mui-di-ung-5111996.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Rửa nước muối sinh lý có giảm viêm mũi dị ứng?",
+    "description": "Tôi bị viêm mũi dị ứng, thường xuyên hắt hơi, nghẹt mũi. Rửa mũi bằng nước muối sinh lý có giúp giảm viêm? (Minh Anh, 22 tuổi)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/22/ruamuifinal-1787366249-9228-1787366310.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=mBCnirW9RaiQGqCrHZkJEw",
+    "link": "https://vnexpress.net/rua-nuoc-muoi-sinh-ly-co-giam-viem-mui-di-ung-5111996.html",
+    "published_at": "Sun, 23 Aug 2026 08:00:00 +0700",
+    "createAt": "2026-08-23T01:00:00.000Z",
+    "thumbnail_blurhash": "LPH^^s?b?HxV~WW?XSs+TLSho~kC"
   }
 ]
