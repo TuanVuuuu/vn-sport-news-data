@@ -921,5 +921,31 @@
     "published_at": "Sun, 23 Aug 2026 11:27:20 +0700",
     "createAt": "2026-08-23T04:27:20.000Z",
     "thumbnail_blurhash": "L8CiU8~BNGS~IV-oaxJ8%gRjaexa"
+  },
+  {
+    "id": "https://vnexpress.net/ukraine-muon-bien-thiet-giap-hon-60-tuoi-thanh-robot-chien-dau-5112216.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Ukraine muốn biến thiết giáp hơn 60 tuổi thành robot chiến đấu",
+    "description": "Quân đội Ukraine lên kế hoạch biến thiết giáp BRDM-2 từ thời Liên Xô thành robot chiến đấu với khoảng cách điều khiển lên đến 1.000 km.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/22/5563187178137269462a-178739301-2768-4148-1787393391.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=VyTVSlNhw2nT9GKBN8Q8Uw",
+    "link": "https://vnexpress.net/ukraine-muon-bien-thiet-giap-hon-60-tuoi-thanh-robot-chien-dau-5112216.html",
+    "published_at": "Sun, 23 Aug 2026 14:26:53 +0700",
+    "createAt": "2026-08-23T07:26:53.000Z",
+    "thumbnail_blurhash": "LAE3V7.R~SIoufn-EKxt^$RQoIxs"
+  },
+  {
+    "id": "https://vnexpress.net/loat-vu-danh-bom-dot-pha-bung-len-o-mien-nam-thai-lan-5112409.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Loạt vụ đánh bom, đốt phá bùng lên ở miền nam Thái Lan",
+    "description": "Quân đội Thái Lan cho biết 51 vụ phóng hỏa và tấn công \"có tổ chức\" xảy ra ở miền nam nước này khiến hai người bị thương, nhiều công trình hư hại.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/23/6199013-1787471243-4007-1787471250.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=pqohqzqSitTOI4LbVqevnA",
+    "link": "https://vnexpress.net/loat-vu-danh-bom-dot-pha-bung-len-o-mien-nam-thai-lan-5112409.html",
+    "published_at": "Sun, 23 Aug 2026 14:47:30 +0700",
+    "createAt": "2026-08-23T07:47:30.000Z",
+    "thumbnail_blurhash": "LbIV[F}=AGi{;[e.JB$fN3IrNaxa"
   }
 ]
