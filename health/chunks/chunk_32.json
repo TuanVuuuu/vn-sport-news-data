@@ -531,5 +531,70 @@
     "published_at": "Sun, 23 Aug 2026 09:00:00 +0700",
     "createAt": "2026-08-23T02:00:00.000Z",
     "thumbnail_blurhash": "L8H,*E=~y?189G^Z0200yqtTM}=}"
+  },
+  {
+    "id": "https://vnexpress.net/ganh-nang-mu-loa-tu-dai-thao-duong-can-thi-5112227.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Gánh nặng mù lòa từ đái tháo đường, cận thị",
+    "description": "Thay vì do bệnh mắt hột hay thiếu vitamin A như trước, nguyên nhân gây mù lòa hàng đầu nay chuyển sang các biến chứng phức tạp của bệnh đái tháo đường và cận thị.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/22/img20260821094445-1787396960-5508-1787397077.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=D-0E0KDA6zNNWICsL4w2DQ",
+    "link": "https://vnexpress.net/ganh-nang-mu-loa-tu-dai-thao-duong-can-thi-5112227.html",
+    "published_at": "Sun, 23 Aug 2026 10:00:00 +0700",
+    "createAt": "2026-08-23T03:00:00.000Z",
+    "thumbnail_blurhash": "LTEMj[IUWExZ~pM{%2t8?aWBRjoy"
+  },
+  {
+    "id": "https://vnexpress.net/vi-sao-nguoi-lon-tuoi-kho-kiem-soat-mo-mau-5112139.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Vì sao người lớn tuổi khó kiểm soát mỡ máu?",
+    "description": "Ba tôi 62 tuổi, được chẩn đoán rối loạn mỡ máu, đã áp dụng chế độ ăn uống theo hướng dẫn của bác sĩ nhưng các chỉ số chưa ổn định. Có phải kiểm soát mỡ máu ở người lớn tuổi khó hơn? (Thu Hồng, Tây Ninh)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/22/image001-1787385036-1544-1787385085.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=C15L9vXMBBWRem1kgyrFqQ",
+    "link": "https://vnexpress.net/vi-sao-nguoi-lon-tuoi-kho-kiem-soat-mo-mau-5112139.html",
+    "published_at": "Sun, 23 Aug 2026 10:00:00 +0700",
+    "createAt": "2026-08-23T03:00:00.000Z",
+    "thumbnail_blurhash": "LaNmyis7IpM|~oNHRjjERNV@jray"
+  },
+  {
+    "id": "https://vnexpress.net/ba-dau-hieu-nhan-biet-tre-dang-phu-thuoc-thiet-bi-dien-tu-5112104.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Ba dấu hiệu nhận biết trẻ đang phụ thuộc thiết bị điện tử",
+    "description": "Trẻ phụ thuộc vào màn hình thường có biểu hiện như cáu gắt khi bị thu điện thoại, mất hứng thú với vui chơi, khó tập trung học tập.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/22/cde62767-c042f69ab4-a423380636-5344-3815-1787384959.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=6eOWoAkyVvdCwzemgjcehQ",
+    "link": "https://vnexpress.net/ba-dau-hieu-nhan-biet-tre-dang-phu-thuoc-thiet-bi-dien-tu-5112104.html",
+    "published_at": "Sun, 23 Aug 2026 10:00:00 +0700",
+    "createAt": "2026-08-23T03:00:00.000Z",
+    "thumbnail_blurhash": "LkIqu+?Fv~%1~pkCRixuxbjuNto}"
+  },
+  {
+    "id": "https://vnexpress.net/vi-sao-nguoi-tieu-duong-kho-giam-can-5111938.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Vì sao người tiểu đường khó giảm cân?",
+    "description": "Thiếu ngủ, ăn quá nhiều dù là thực phẩm lành mạnh hoặc chế biến không phù hợp có thể khiến người tiểu đường khó giảm cân.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/22/z7912822015012a9fb8b88f228db0d-1550-3935-1787360794.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ykeLSHx8_g7hzPtURyDrDQ",
+    "link": "https://vnexpress.net/vi-sao-nguoi-tieu-duong-kho-giam-can-5111938.html",
+    "published_at": "Sun, 23 Aug 2026 10:00:00 +0700",
+    "createAt": "2026-08-23T03:00:00.000Z",
+    "thumbnail_blurhash": "LIGuBx%gT#o}.Rx^9bnhx^aKn3oz"
+  },
+  {
+    "id": "https://vnexpress.net/cac-benh-ho-hap-thuong-gap-o-dan-van-phong-5112099.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Các bệnh hô hấp thường gặp ở dân văn phòng",
+    "description": "Người làm văn phòng thường xuyên ở không gian kín, thông gió kém có thể tiếp xúc với bụi, nấm mốc, hóa chất, làm tăng nguy cơ viêm mũi dị ứng, hen phế quản.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/22/image001-1787379460-4763-1787379487.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=iSzc3jVIyNVF5aVOSxJJ0A",
+    "link": "https://vnexpress.net/cac-benh-ho-hap-thuong-gap-o-dan-van-phong-5112099.html",
+    "published_at": "Sun, 23 Aug 2026 11:00:00 +0700",
+    "createAt": "2026-08-23T04:00:00.000Z",
+    "thumbnail_blurhash": "LINc$sjDIU%N_NIVRlMxrpI[ozac"
   }
 ]
