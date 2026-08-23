@@ -596,5 +596,44 @@
     "published_at": "Sun, 23 Aug 2026 11:00:00 +0700",
     "createAt": "2026-08-23T04:00:00.000Z",
     "thumbnail_blurhash": "LINc$sjDIU%N_NIVRlMxrpI[ozac"
+  },
+  {
+    "id": "https://vnexpress.net/ung-thu-o-viet-nam-dang-lo-khong-phai-so-ca-tang-ma-phat-hien-qua-muon-5112371.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "'Ung thư ở Việt Nam đáng lo không phải số ca tăng mà phát hiện quá muộn'",
+    "description": "Số ca ung thư ngày càng tăng không hoàn toàn là tín hiệu xấu, bởi một phần phản ánh khả năng chẩn đoán và ý thức khám bệnh tốt hơn, đáng lo là đa số người bệnh ở giai đoạn muộn.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/23/anh-chup-man-hinh-luc-17874580-3341-4833-1787458394.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=9ocLnA-5dSxW87Exk81oGQ",
+    "link": "https://vnexpress.net/ung-thu-o-viet-nam-dang-lo-khong-phai-so-ca-tang-ma-phat-hien-qua-muon-5112371.html",
+    "published_at": "Sun, 23 Aug 2026 11:36:12 +0700",
+    "createAt": "2026-08-23T04:36:12.000Z",
+    "thumbnail_blurhash": "LKJ*uB?b%hMx~pD$xuxu-:xuRP%2"
+  },
+  {
+    "id": "https://vnexpress.net/cu-ba-song-tho-117-tuoi-nho-bi-quyet-khong-tranh-cai-voi-ai-5112272.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Cụ bà sống thọ 117 tuổi nhờ bí quyết 'không tranh cãi với ai'",
+    "description": "Đón sinh nhật lần thứ 117, cụ bà Ethel Caterham nói bí quyết sống thọ là không tranh cãi với ai, biết lắng nghe và luôn làm những điều mình thích.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/22/11-1787412585-4989-1787413292.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Q4mWCH8YCdkZWt5EJsWLuw",
+    "link": "https://vnexpress.net/cu-ba-song-tho-117-tuoi-nho-bi-quyet-khong-tranh-cai-voi-ai-5112272.html",
+    "published_at": "Sun, 23 Aug 2026 12:00:00 +0700",
+    "createAt": "2026-08-23T05:00:00.000Z",
+    "thumbnail_blurhash": "LTKAf%M|KPSO~9RkIUNGM|t7a0s,"
+  },
+  {
+    "id": "https://vnexpress.net/gai-cot-song-co-tu-teo-dan-5112295.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Gai cột sống có tự teo dần?",
+    "description": "Tôi bị gai cột sống nhẹ, chưa cần can thiệp. Gai có thể biến mất hoặc nhỏ lại theo thời gian không? (Trần Chí, Bình Dương)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/22/canonc-1787416021-4460-1787416066.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=h7PFMPSkka5hCV6SnNBcRA",
+    "link": "https://vnexpress.net/gai-cot-song-co-tu-teo-dan-5112295.html",
+    "published_at": "Sun, 23 Aug 2026 12:00:00 +0700",
+    "createAt": "2026-08-23T05:00:00.000Z",
+    "thumbnail_blurhash": "LOP?w7~p~p%3^+-oNLRQoxt8RkMx"
   }
 ]
