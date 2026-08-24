@@ -1,3 +1,43 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/nha-tro-tp-hcm-tang-gia-truoc-mua-nhap-hoc-5110826.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Nhà trọ TP HCM tăng giá trước mùa nhập học",
+      "description": "Giá phòng trọ gần các trường đại học lớn ở TP HCM tăng 10-20% so cùng kỳ và khó tìm phòng với ngân sách dưới 3 triệu.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/24/1787133295948a0398f8addfdd64d4-3957-3530-1787536431.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=RGoeGwEIzRoy_TdXsiZJVQ",
+      "link": "https://vnexpress.net/nha-tro-tp-hcm-tang-gia-truoc-mua-nhap-hoc-5110826.html",
+      "published_at": "Mon, 24 Aug 2026 00:01:00 +0700",
+      "createAt": "2026-08-23T17:01:00.000Z",
+      "thumbnail_blurhash": "LSDvG,%gIp%1~q%MbFWD?bxvWEay"
+    },
+    {
+      "id": "https://vnexpress.net/dot-nao-tu-thoi-quen-luot-tiktok-vai-phut-truoc-ngu-5108230.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "'Đốt' não từ thói quen lướt TikTok vài phút trước ngủ",
+      "description": "Lướt điện thoại suốt đêm để thư giãn, Nam không thể đọc nổi một dòng lệnh đơn giản vào sáng hôm sau, dù anh là chuyên gia phân tích dữ liệu.",
+      "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/12/screenshot-at-1786525524-9304-1786525888.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=OqhsPLT0ebUAu58NjPZf_Q",
+      "link": "https://vnexpress.net/dot-nao-tu-thoi-quen-luot-tiktok-vai-phut-truoc-ngu-5108230.html",
+      "published_at": "Mon, 24 Aug 2026 08:03:32 +0700",
+      "createAt": "2026-08-24T01:03:32.000Z",
+      "thumbnail_blurhash": "L48y-*}bDj5P}^s:9YEKJPS0w{w}"
+    },
+    {
+      "id": "https://vnexpress.net/hang-tram-nguoi-truy-lung-nghi-can-giet-em-ruot-roi-tron-vao-rung-5112531.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Hàng trăm người truy lùng nghi can giết em ruột rồi trốn vào rừng",
+      "description": "Hàng trăm người gồm công an, dân quân truy tìm Vừ Bá Lỉa - nghi can cầm dao đâm chết em trai, đang lẩn trốn trong rừng ở xã biên giới Na Ngoi.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/24/nui-rung-na-ngoi-1787531970-9799-1787532904.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Lg3_go25U7TJSJoGKIGVBg",
+      "link": "https://vnexpress.net/hang-tram-nguoi-truy-lung-nghi-can-giet-em-ruot-roi-tron-vao-rung-5112531.html",
+      "published_at": "Mon, 24 Aug 2026 08:13:57 +0700",
+      "createAt": "2026-08-24T01:13:57.000Z",
+      "thumbnail_blurhash": "L$E3exoKWqj]_4oLWXfk?bofWVju"
+    }
+  ]
 }
