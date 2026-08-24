@@ -570,5 +570,31 @@
     "published_at": "Mon, 24 Aug 2026 17:45:28 +0700",
     "createAt": "2026-08-24T10:45:28.000Z",
     "thumbnail_blurhash": "LMD,Dv?c%h.9?b%N%Nt7?wtRt7t7"
+  },
+  {
+    "id": "https://vnexpress.net/dao-duc-la-hang-rao-phong-ngua-rui-ro-trong-nghe-bao-5112678.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "'Đạo đức là hàng rào phòng ngừa rủi ro trong nghề báo'",
+    "description": "Phó chủ tịch Thường trực Hội Nhà báo Việt Nam Nguyễn Đức Lợi cho rằng lương tâm, trách nhiệm và chuẩn mực nghề nghiệp sẽ chỉ dẫn cho các nhà báo biết dừng lại đúng lúc trước khi thông tin có thể gây tổn hại đến cá nhân, tổ chức hay cộng đồng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/24/1787543260955f1d378e0ee9592519-5903-1760-1787543501.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=BfcKLn5Xmth4WrkJ84CHkg",
+    "link": "https://vnexpress.net/dao-duc-la-hang-rao-phong-ngua-rui-ro-trong-nghe-bao-5112678.html",
+    "published_at": "Mon, 24 Aug 2026 20:39:48 +0700",
+    "createAt": "2026-08-24T13:39:48.000Z",
+    "thumbnail_blurhash": "LJH{+*9J6A~WMe?H%gD*InV@t6Rj"
+  },
+  {
+    "id": "https://vnexpress.net/vien-kiem-sat-nhan-dan-toi-cao-co-them-4-kiem-sat-vien-5112916.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Viện Kiểm sát nhân dân Tối cao có thêm 4 kiểm sát viên",
+    "description": "Chiều 24/8, Tổng Bí thư, Chủ tịch nước Tô Lâm trao quyết định bổ nhiệm 4 kiểm sát viên Viện Kiểm sát nhân dân tối cao cho các ông Lê Văn Đông, Đào Thịnh Cường, Trần Thế Kính, Nguyễn Đức Bằng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/24/vna-potal-tong-bi-thu-chu-tich-7448-9974-1787578289.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=yaSj7evZ3SmmsDE7OJAgGA",
+    "link": "https://vnexpress.net/vien-kiem-sat-nhan-dan-toi-cao-co-them-4-kiem-sat-vien-5112916.html",
+    "published_at": "Mon, 24 Aug 2026 20:56:13 +0700",
+    "createAt": "2026-08-24T13:56:13.000Z",
+    "thumbnail_blurhash": "LBJ6vgr?ic~AujRQE1$%M0bcE3Rk"
   }
 ]
