@@ -401,5 +401,31 @@
     "published_at": "Mon, 24 Aug 2026 17:00:00 +0700",
     "createAt": "2026-08-24T10:00:00.000Z",
     "thumbnail_blurhash": "LPJQWcx]^%kD~VsnIpn$_3RjS#e."
+  },
+  {
+    "id": "https://vnexpress.net/giam-30-thue-cho-ca-nhan-doanh-nghiep-co-doanh-thu-khong-qua-10-ty-dong-5112642.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Giảm 30% thuế cho cá nhân, doanh nghiệp có doanh thu không quá 10 tỷ đồng",
+    "description": "Hộ kinh doanh, doanh nghiệp có doanh thu tối đa 10 tỷ đồng một năm sẽ được giảm 30% thuế trong giai đoạn 2026-2027.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/08/24/nganhang-1787558979-4559-1787558983.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=e74wOnrM0qR0RTClOdAk3A",
+    "link": "https://vnexpress.net/giam-30-thue-cho-ca-nhan-doanh-nghiep-co-doanh-thu-khong-qua-10-ty-dong-5112642.html",
+    "published_at": "Mon, 24 Aug 2026 14:54:05 +0700",
+    "createAt": "2026-08-24T07:54:05.000Z",
+    "thumbnail_blurhash": "LYHeXrDiIobc_4WARjV@b{Rjs.kB"
+  },
+  {
+    "id": "https://vnexpress.net/f88-du-kien-dat-hon-1-000-ty-lai-truoc-thue-5112896.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "F88 dự kiến đạt hơn 1.000 tỷ lãi trước thuế",
+    "description": "F88 ước đạt 1.077 tỷ đồng lợi nhuận trước thuế sau 8 tháng, tiến gần mục tiêu cả năm 1.133 tỷ đồng.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/08/24/a-nh-1787569339-1775-1787569387.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=3vfYuXPGXgMdqaQrXw90Kw",
+    "link": "https://vnexpress.net/f88-du-kien-dat-hon-1-000-ty-lai-truoc-thue-5112896.html",
+    "published_at": "Mon, 24 Aug 2026 19:00:00 +0700",
+    "createAt": "2026-08-24T12:00:00.000Z",
+    "thumbnail_blurhash": "LlIFSXtkS0R*~qRjt7t7%3RPjZof"
   }
 ]
