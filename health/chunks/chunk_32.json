@@ -869,5 +869,44 @@
     "published_at": "Mon, 24 Aug 2026 08:16:39 +0700",
     "createAt": "2026-08-24T01:16:39.000Z",
     "thumbnail_blurhash": "LMDc8X_Mbwxu%1%2tRoy01Me$%ae"
+  },
+  {
+    "id": "https://vnexpress.net/cac-phuong-phap-dieu-tri-ung-thu-gan-tien-trien-5112559.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Các phương pháp điều trị ung thư gan tiến triển",
+    "description": "Ở giai đoạn tiến triển, khối u đã phát triển rộng trong gan và di căn ra ngoài, có thể được chỉ định truyền hóa chất động mạch gan, xạ trị.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/24/bs-binh-1787534701-9582-1787534750.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=kJIE3eykAwXtPwH9dxRuCQ",
+    "link": "https://vnexpress.net/cac-phuong-phap-dieu-tri-ung-thu-gan-tien-trien-5112559.html",
+    "published_at": "Mon, 24 Aug 2026 09:00:00 +0700",
+    "createAt": "2026-08-24T02:00:00.000Z",
+    "thumbnail_blurhash": "LMLz,LXU009F~oM_tQV?xa%N-;xt"
+  },
+  {
+    "id": "https://vnexpress.net/suy-tim-do-nhiem-doc-giap-5112537.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Suy tim do nhiễm độc giáp",
+    "description": "Anh An, 30 tuổi, đột ngột đau thắt ngực trái, hồi hộp, đánh trống ngực, bác sĩ chẩn đoán rối loạn nhịp - dấu hiệu suy tim do nhiễm độc giáp.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/24/bs-hoang-1787532495-5301-1787532572.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=QDnkOBk8KAyPUrdISW7Mvw",
+    "link": "https://vnexpress.net/suy-tim-do-nhiem-doc-giap-5112537.html",
+    "published_at": "Mon, 24 Aug 2026 09:00:00 +0700",
+    "createAt": "2026-08-24T02:00:00.000Z",
+    "thumbnail_blurhash": "LAOzraW4%#%QI7RO%ND*wX-?.8RN"
+  },
+  {
+    "id": "https://vnexpress.net/vi-sao-nam-gioi-de-chu-quan-voi-hpv-5112049.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Vì sao nam giới dễ chủ quan với HPV",
+    "description": "Nam giới thường nghĩ HPV không liên quan tới bản thân hoặc chỉ biết về bệnh khi có dấu hiệu bất thường, dẫn tới chủ quan với vi rút này.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/22/anh-toa-dam-msd-ba-chuyen-gia-6861-2913-1787372742.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Uat9qIzgWr3RKPgoE7_NTg",
+    "link": "https://vnexpress.net/vi-sao-nam-gioi-de-chu-quan-voi-hpv-5112049.html",
+    "published_at": "Mon, 24 Aug 2026 09:00:00 +0700",
+    "createAt": "2026-08-24T02:00:00.000Z",
+    "thumbnail_blurhash": "LeJ8t,xuD*oz_4of%2ofw}WBRijZ"
   }
 ]
