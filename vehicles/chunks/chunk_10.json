@@ -1194,5 +1194,31 @@
     "published_at": "Mon, 24 Aug 2026 05:00:00 +0700",
     "createAt": "2026-08-23T22:00:00.000Z",
     "thumbnail_blurhash": "LQD0ZG_4.8x[tmx^o#xu-;xvkXxu"
+  },
+  {
+    "id": "https://vnexpress.net/dat-binh-chua-chay-canh-bao-cach-xe-18-m-tai-xe-bi-phat-13-trieu-dong-5112412.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Đặt bình chữa cháy cảnh báo cách xe 18 m, tài xế bị phạt 13 triệu đồng",
+    "description": "Xe đầu kéo hỏng trên cao tốc, tài xế cảnh báo phương tiện phía sau nhưng không bảo đảm khoảng cách tối thiểu.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/23/783729523-1787470477-8904-1787470492.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=yKwxL0LbgY1OD64wyZXb-A",
+    "link": "https://vnexpress.net/dat-binh-chua-chay-canh-bao-cach-xe-18-m-tai-xe-bi-phat-13-trieu-dong-5112412.html",
+    "published_at": "Sun, 23 Aug 2026 22:34:24 +0700",
+    "createAt": "2026-08-23T15:34:24.000Z",
+    "thumbnail_blurhash": "LhHx+,t7WBof~qayofay-;RkWCof"
+  },
+  {
+    "id": "https://vnexpress.net/diem-nhan-tren-xe-tay-ga-the-thao-sym-naga-150-5111957.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Điểm nhấn trên xe tay ga thể thao SYM Naga 150",
+    "description": "SYM Naga lắp động cơ 150 cc, tích hợp phanh ABS 2 kênh, công nghệ kiểm soát độ bám đường TCS, hướng đến nhóm người dùng nam giới ưa trải nghiệm.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/22/1-1787363302-7623-1787363391.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=FIYbauF4OkhUtXqD0R__5Q",
+    "link": "https://vnexpress.net/diem-nhan-tren-xe-tay-ga-the-thao-sym-naga-150-5111957.html",
+    "published_at": "Mon, 24 Aug 2026 08:00:00 +0700",
+    "createAt": "2026-08-24T01:00:00.000Z",
+    "thumbnail_blurhash": "L5F?Lb00.3Z|00DoOSVW^Q~DOa9F"
   }
 ]
