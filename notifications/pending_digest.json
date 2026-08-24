@@ -1,3 +1,95 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/bo-van-hoa-the-thao-va-du-lich-lay-y-kien-chuan-hoa-viec-su-dung-quoc-ca-5112595.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Bộ Văn hóa, Thể thao và Du lịch lấy ý kiến 'chuẩn hóa việc sử dụng Quốc ca'",
+      "description": "Bộ Văn hóa, Thể thao và Du lịch dự thảo Nghị định nhằm chuẩn hóa việc sử dụng Quốc ca trong đời sống, trên môi trường số.",
+      "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/08/24/quo-c-ca-1787539437-5915-1787539453.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=WDsWM_PJ9tZVBN47T0MMAQ",
+      "link": "https://vnexpress.net/bo-van-hoa-the-thao-va-du-lich-lay-y-kien-chuan-hoa-viec-su-dung-quoc-ca-5112595.html",
+      "published_at": "Mon, 24 Aug 2026 13:06:56 +0700",
+      "createAt": "2026-08-24T06:06:56.000Z",
+      "thumbnail_blurhash": "L9DjMT2[NFnh}uX9sCJ72t,[oMSh"
+    },
+    {
+      "id": "https://vnexpress.net/neu-khong-pha-cua-kip-cu-ba-80-tuoi-bi-nuoc-cuon-5112790.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "'Nếu không phá cửa kịp, cụ bà 80 tuổi bị nước cuốn'",
+      "description": "Tông bung cửa căn nhà ngập gần 4 mét nước ở Lạng Sơn, anh Tú cùng đồng đội kịp đưa cụ bà 80 tuổi bị tai biến ở một mình lên thuyền trước khi lũ tràn tầng hai.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/24/178756458062429054653333407889-2778-2930-1787564656.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Ev192Lk33UYGL43Soh5nAQ",
+      "link": "https://vnexpress.net/neu-khong-pha-cua-kip-cu-ba-80-tuoi-bi-nuoc-cuon-5112790.html",
+      "published_at": "Mon, 24 Aug 2026 15:02:20 +0700",
+      "createAt": "2026-08-24T08:02:20.000Z",
+      "thumbnail_blurhash": "L38W?Mne00-sz@E3EL~U00Os?bmk"
+    },
+    {
+      "id": "https://vnexpress.net/iran-len-danh-sach-den-tau-bi-cam-qua-hormuz-5112776.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Iran lên 'danh sách đen' tàu bị cấm qua Hormuz",
+      "description": "Iran công bố danh sách các tàu không tuân thủ quy định ở Hormuz, cảnh báo sẽ bắt giữ nếu những phương tiện này đi qua eo biển.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/24/20260824t081953z1962010047rc2t-6558-6383-1787561004.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=2RGGxrdsLZkO3Qm5jpYhjg",
+      "link": "https://vnexpress.net/iran-len-danh-sach-den-tau-bi-cam-qua-hormuz-5112776.html",
+      "published_at": "Mon, 24 Aug 2026 15:58:37 +0700",
+      "createAt": "2026-08-24T08:58:37.000Z",
+      "thumbnail_blurhash": "LIGlk#%MM{%M~pj[WVoLRPj]WBWB"
+    },
+    {
+      "id": "https://vnexpress.net/nhung-dau-hieu-nao-bi-coi-la-dang-ngo-trong-giao-dich-tai-san-ma-hoa-5112657.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Những dấu hiệu nào bị coi là đáng ngờ trong giao dịch tài sản mã hóa?",
+      "description": "Dịch vụ tài sản mã hóa phải tuân thủ quy định phòng, chống rửa tiền, trong đó chia nhỏ giao dịch thành nhiều khoản giá trị thấp là dấu hiệu đáng ngờ.",
+      "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/08/24/wm28-wm28-202608241450139142-g75742-6598-6006-1787560494.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ay0H0Q21zw7ihDJbJ6LbUg",
+      "link": "https://vnexpress.net/nhung-dau-hieu-nao-bi-coi-la-dang-ngo-trong-giao-dich-tai-san-ma-hoa-5112657.html",
+      "published_at": "Mon, 24 Aug 2026 16:34:20 +0700",
+      "createAt": "2026-08-24T09:34:20.000Z",
+      "thumbnail_blurhash": "LZJitU~9w?$x^0$$R-WCk7WoW?W="
+    },
+    {
+      "id": "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-nghien-cuu-bo-rao-can-bo-nhiem-nhan-tai-5112769.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Tổng Bí thư, Chủ tịch nước: Nghiên cứu bỏ rào cản bổ nhiệm nhân tài",
+      "description": "Tổng Bí thư, Chủ tịch nước Tô Lâm yêu cầu các cơ quan nghiên cứu bỏ rào cản trong bổ nhiệm chức danh quản lý với nhân tài, đồng thời có chính sách đãi ngộ tương xứng.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/24/img-jpg-1787558010-5224-1787558495.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=JCyDOtJ3DFYCNBGrXQXPxg",
+      "link": "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-nghien-cuu-bo-rao-can-bo-nhiem-nhan-tai-5112769.html",
+      "published_at": "Mon, 24 Aug 2026 16:39:50 +0700",
+      "createAt": "2026-08-24T09:39:50.000Z",
+      "thumbnail_blurhash": "LVLo.cu+rG]i}[+a$,VZiwi_^*Ip"
+    },
+    {
+      "id": "https://vnexpress.net/cuu-thu-truong-nguyen-ba-hoan-duoc-toa-tuyen-tra-lai-gan-5-ty-dong-nop-thua-5112779.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Cựu thứ trưởng Nguyễn Bá Hoan được tòa tuyên trả lại gần 5 tỷ đồng nộp thừa",
+      "description": "Cựu thứ trưởng Lao động thương binh Xã hội bị tuyên 12 năm tù do \"vẽ\" cơ chế vòi tiền, nhận hối lộ 16,3 tỷ đồng; do nộp thừa tiền khắc phục nên được tòa trả lại hơn 4,9 tỷ.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/24/2aoboqtkt8shp0m4depabot8godzyl-1557-4043-1787565292.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=EgGB2uWm26DuQ8rV2D2duQ",
+      "link": "https://vnexpress.net/cuu-thu-truong-nguyen-ba-hoan-duoc-toa-tuyen-tra-lai-gan-5-ty-dong-nop-thua-5112779.html",
+      "published_at": "Mon, 24 Aug 2026 17:02:31 +0700",
+      "createAt": "2026-08-24T10:02:31.000Z",
+      "thumbnail_blurhash": "LsFr*}S4WVWY}|R+WXa{,+jYa{ax"
+    },
+    {
+      "id": "https://vnexpress.net/lang-son-nhu-bien-nuoc-nhin-tu-tren-cao-5112877.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Lạng Sơn như biển nước nhìn từ trên cao",
+      "description": "Từ trên cao, nhiều khu vực như Thất Khê, Tràng Định, Tam Thanh… chìm trong biển nước đục ngầu, một số nơi chỉ còn thấy những mái nhà.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/24/Anhmanhinh20260824luc173048-17-1380-1183-1787567643.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=g8zolDG68rw-xGb03D9sjg",
+      "link": "https://vnexpress.net/lang-son-nhu-bien-nuoc-nhin-tu-tren-cao-5112877.html",
+      "published_at": "Mon, 24 Aug 2026 17:34:03 +0700",
+      "createAt": "2026-08-24T10:34:03.000Z",
+      "thumbnail_blurhash": "LNF6LI%35QSeyZNG-VxawNaKW?jb"
+    }
+  ]
 }
