@@ -1142,5 +1142,31 @@
     "published_at": "Mon, 24 Aug 2026 16:00:00 +0700",
     "createAt": "2026-08-24T09:00:00.000Z",
     "thumbnail_blurhash": "L7Dbs2OT4[D?%#D*~9^$0iMxN1$%"
+  },
+  {
+    "id": "https://vnexpress.net/dau-hieu-bat-thuong-tren-mong-tay-canh-bao-benh-tiem-an-5112725.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Dấu hiệu bất thường trên móng tay cảnh báo bệnh tiềm ẩn",
+    "description": "Nhiều người thường nghĩ móng tay có vết rỗ lấm tấm là do thiếu canxi hoặc vitamin, song bác sĩ cảnh báo đây có thể là dấu hiệu hệ miễn dịch đang viêm nhiễm.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/24/screenshot-at-1787548943-1974-1787549062.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=2I4WqiizSpngvvZnu8F7zA",
+    "link": "https://vnexpress.net/dau-hieu-bat-thuong-tren-mong-tay-canh-bao-benh-tiem-an-5112725.html",
+    "published_at": "Mon, 24 Aug 2026 17:00:00 +0700",
+    "createAt": "2026-08-24T10:00:00.000Z",
+    "thumbnail_blurhash": "LaMYHJNGWXIo~BR*WV$*xZxaxGWB"
+  },
+  {
+    "id": "https://vnexpress.net/be-2-tuoi-suy-ho-hap-cap-nhip-tim-nhanh-bat-thuong-5112645.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Bé 2 tuổi suy hô hấp cấp, nhịp tim nhanh bất thường",
+    "description": "Bé An, 2 tuổi, nhập viện vì triệu chứng hô hấp, 60 phút sau rút lõm lồng ngực, nhịp tim tới 221 lần/phút.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/24/image001-1787545747-4094-1787546022.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=tX1GfxFQSncQ3YbpNqTLAg",
+    "link": "https://vnexpress.net/be-2-tuoi-suy-ho-hap-cap-nhip-tim-nhanh-bat-thuong-5112645.html",
+    "published_at": "Mon, 24 Aug 2026 17:00:00 +0700",
+    "createAt": "2026-08-24T10:00:00.000Z",
+    "thumbnail_blurhash": "LjJuAb_4t7xu-oRjxaNGRiM{t7xu"
   }
 ]
