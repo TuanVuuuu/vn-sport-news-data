@@ -1,38 +1,6 @@
 {
   "entries": [
     {
-      "sent_at": "2026-08-20T10:01:25.231Z",
-      "topic": null,
-      "device_id": "b9ffbb33ac6e18b3",
-      "slot": "evening",
-      "type": "featured_digest",
-      "article_ids": [
-        "https://vnexpress.net/ly-giai-ve-man-an-mung-moi-cua-nguyen-xuan-son-5111042.html",
-        "https://vnexpress.net/quoc-hoi-se-xem-xet-bo-co-quan-dieu-tra-vksnd-toi-cao-5111138.html",
-        "https://vnexpress.net/cuu-thu-truong-nguyen-ba-hoan-bi-de-nghi-12-13-nam-tu-5111184.html",
-        "https://vnexpress.net/5-ban-thang-giup-xuan-son-cung-dinh-bac-dan-dau-vua-pha-luoi-5111169.html",
-        "https://vnexpress.net/nhung-thua-dat-sieu-nho-tren-vanh-dai-1-ha-noi-5111164.html",
-        "https://vnexpress.net/du-kien-tieng-anh-thanh-mon-bat-buoc-voi-lop-1-tu-nam-2028-5111165.html",
-        "https://vnexpress.net/nhieu-xa-o-nghe-an-ha-tinh-ngap-sau-do-mua-lon-5111191.html",
-        "https://vnexpress.net/tai-xe-bi-phat-vi-camera-ai-phat-hien-oto-do-den-5111166.html",
-        "https://vnexpress.net/my-tim-cach-bop-nghet-la-phoi-kinh-te-cua-iran-5111047.html",
-        "https://vnexpress.net/tau-dien-thu-thiem-long-thanh-chay-toi-da-120-km-h-cho-47-000-khach-moi-gio-5111235.html",
-        "https://vnexpress.net/khoi-no-40-000-ty-usd-cua-my-lon-den-muc-nao-5111247.html",
-        "https://vnexpress.net/dinh-bac-ghi-dau-an-sinh-nhat-tuoi-23-cung-tuyen-viet-nam-5111268.html",
-        "https://vnexpress.net/tuyen-viet-nam-len-duong-sang-thai-lan-5111276.html",
-        "https://vnexpress.net/set-danh-chet-nguoi-dan-ong-tru-mua-trong-choi-5111275.html",
-        "https://vnexpress.net/40-nguoi-bi-bat-trong-duong-day-danh-bac-gan-600-ty-dong-o-tp-hcm-5111288.html",
-        "https://vnexpress.net/nguoi-viet-mua-oto-trung-quoc-ngay-cang-nhieu-5111264.html",
-        "https://vnexpress.net/gia-xang-dau-moi-nhat-hom-nay-20-8-5111297.html",
-        "https://vnexpress.net/ngan-hang-vi-dien-tu-thu-phi-lien-ket-tai-khoan-giao-thong-the-nao-5111028.html",
-        "https://vnexpress.net/trung-quoc-mien-visa-qua-canh-cho-cong-dan-viet-nam-5111325.html",
-        "https://vnexpress.net/ngoai-truong-iran-cuoc-chien-kinh-te-cua-my-se-that-bai-5111279.html",
-        "https://vnexpress.net/nguoi-mau-andrea-aybar-thua-nhan-nhieu-lan-nho-tro-ly-mua-ma-tuy-5111153.html",
-        "https://vnexpress.net/pho-chu-tich-ldbd-thai-lan-ho-thuc-chat-la-viet-nam-cong-brazil-5111346.html"
-      ],
-      "highlight_id": "https://vnexpress.net/pho-chu-tich-ldbd-thai-lan-ho-thuc-chat-la-viet-nam-cong-brazil-5111346.html"
-    },
-    {
       "sent_at": "2026-08-20T10:01:25.364Z",
       "topic": null,
       "device_id": "730d096a4aca0cc7",
@@ -17356,6 +17324,19 @@
         "https://vnexpress.net/barca-dai-thang-tran-ra-quan-la-liga-5112512.html"
       ],
       "highlight_id": "https://vnexpress.net/barca-dai-thang-tran-ra-quan-la-liga-5112512.html"
+    },
+    {
+      "sent_at": "2026-08-24T01:31:04.969Z",
+      "topic": null,
+      "device_id": "B3D4B7F7-C2A7-4E7A-A92F-53B6A2B611D0",
+      "slot": "morning",
+      "type": "featured_digest",
+      "article_ids": [
+        "https://vnexpress.net/nguoi-tre-hep-cua-vao-thi-truong-lao-dong-5112450.html",
+        "https://vnexpress.net/vi-sao-gia-vang-trong-nuoc-giam-chenh-lech-so-voi-the-gioi-5112480.html",
+        "https://vnexpress.net/bao-narra-gan-nhu-dung-yen-trong-vinh-bac-bo-5112521.html"
+      ],
+      "highlight_id": "https://vnexpress.net/bao-narra-gan-nhu-dung-yen-trong-vinh-bac-bo-5112521.html"
     }
   ]
 }
