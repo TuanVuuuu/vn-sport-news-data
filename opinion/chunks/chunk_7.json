@@ -323,5 +323,31 @@
     "published_at": "Tue, 25 Aug 2026 07:57:38 +0700",
     "createAt": "2026-08-25T00:57:38.000Z",
     "thumbnail_blurhash": "LQB:7}~B%2NKxtxu%2xuNIW=t6xt"
+  },
+  {
+    "id": "https://vnexpress.net/dau-tu-vang-gia-vang-hom-nay-tiem-vang-nau-chay-5-chi-vang-cua-toi-roi-ep-gia-5112871.html",
+    "category_id": "opinion",
+    "category_name": "Ý kiến",
+    "source": "VnExpress",
+    "title": "Tiệm vàng nấu chảy 5 chỉ của tôi rồi ép giá",
+    "description": "Vàng đã chảy thành một cục, mất luôn ký hiệu riêng nên tôi đành bán dù bị ép giá.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/24/nhanvangtron-1787564635-7105-1787564666.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=IpMtmueKFKKJIimLpzl84Q",
+    "link": "https://vnexpress.net/dau-tu-vang-gia-vang-hom-nay-tiem-vang-nau-chay-5-chi-vang-cua-toi-roi-ep-gia-5112871.html",
+    "published_at": "Tue, 25 Aug 2026 10:00:00 +0700",
+    "createAt": "2026-08-25T03:00:00.000Z",
+    "thumbnail_blurhash": "LVHwx,_2bwoM~VtSS$R+%f%M%MW="
+  },
+  {
+    "id": "https://vnexpress.net/thoi-quen-an-man-bay-an-man-trong-bua-com-it-muoi-nha-toi-5113106.html",
+    "category_id": "opinion",
+    "category_name": "Ý kiến",
+    "source": "VnExpress",
+    "title": "Bẫy ăn mặn trong bữa cơm 'ít muối' nhà tôi",
+    "description": "Bắt đầu buổi sáng bằng bánh mì thịt nguội, cơm trưa có món kho, tối ăn canh và món xào, không món nào quá mặn nhưng tôi vẫn thừa muối.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/25/pexelsmazic36126349-1787630277-2772-1787630362.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=8lqWDXMb1lDyxlT9ndSL-Q",
+    "link": "https://vnexpress.net/thoi-quen-an-man-bay-an-man-trong-bua-com-it-muoi-nha-toi-5113106.html",
+    "published_at": "Tue, 25 Aug 2026 12:00:00 +0700",
+    "createAt": "2026-08-25T05:00:00.000Z",
+    "thumbnail_blurhash": "LDG8DsD4~V,G[=D,IV?aL25kawOt"
   }
 ]
