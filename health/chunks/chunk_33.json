@@ -440,5 +440,44 @@
     "published_at": "Tue, 25 Aug 2026 18:00:00 +0700",
     "createAt": "2026-08-25T11:00:00.000Z",
     "thumbnail_blurhash": "LULgwlIUtW?bnDoygHtRtnxuocM_"
+  },
+  {
+    "id": "https://vnexpress.net/hai-lan-suy-than-tien-trien-do-an-kieng-sai-cach-5113160.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Hai lần suy thận tiến triển do ăn kiêng sai cách",
+    "description": "Suy thận giai đoạn 4, bà Tươi, 74 tuổi, tự ý giảm đạm, kiêng muối, hạn chế uống nước khiến chức năng thận hai lần suy giảm nặng hơn.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/25/hinh-1787652460-5847-1787652503.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=b1di1gVuwLPKXK5hvhK3rA",
+    "link": "https://vnexpress.net/hai-lan-suy-than-tien-trien-do-an-kieng-sai-cach-5113160.html",
+    "published_at": "Tue, 25 Aug 2026 19:00:00 +0700",
+    "createAt": "2026-08-25T12:00:00.000Z",
+    "thumbnail_blurhash": "LaM7P,v}-:M}~q%fRjkCjEflRjRP"
+  },
+  {
+    "id": "https://vnexpress.net/vi-sao-hit-tho-sau-giup-thu-gian-5113141.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Vì sao hít thở sâu giúp thư giãn?",
+    "description": "Hít thở sâu giúp cơ thể thư giãn, làm chậm nhịp tim, giảm căng cơ và hỗ trợ kiểm soát căng thẳng.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/25/6e1c801e-a77fcddff72eb840765-j-4326-8910-1787647746.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=a59af8Wo8rUUHIIBnw8SPA",
+    "link": "https://vnexpress.net/vi-sao-hit-tho-sau-giup-thu-gian-5113141.html",
+    "published_at": "Tue, 25 Aug 2026 19:00:00 +0700",
+    "createAt": "2026-08-25T12:00:00.000Z",
+    "thumbnail_blurhash": "LHK1anXT9F~WpIxtoftRxWROxuW="
+  },
+  {
+    "id": "https://vnexpress.net/hon-100-nguoi-gia-lai-nghi-ngo-doc-sau-an-banh-mi-5113337.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Hơn 100 người Gia Lai nghi ngộ độc sau ăn bánh mì",
+    "description": "105 người ở phường An Khê nhập viện do đau quặn bụng, tiêu chảy, nôn ói và sốt, sau khi ăn bánh mì mua tại hộ kinh doanh Bin Bin.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/25/z8192061155208beff2ff07995dabe-4155-9272-1787657202.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=OIZ7Gc9ku7eARyrK1N0xZg",
+    "link": "https://vnexpress.net/hon-100-nguoi-gia-lai-nghi-ngo-doc-sau-an-banh-mi-5113337.html",
+    "published_at": "Tue, 25 Aug 2026 19:04:47 +0700",
+    "createAt": "2026-08-25T12:04:47.000Z",
+    "thumbnail_blurhash": "LeI}S9xbnixa~qozofa~S}W-ogj["
   }
 ]
