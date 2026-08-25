@@ -1,6 +1,19 @@
 {
   "featured": [
     {
+      "id": "https://vnexpress.net/de-xuat-hon-400-loai-xet-nghiem-phim-chup-duoc-dung-lai-khi-chuyen-vien-5112990.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Đề xuất liên thông hơn 400 loại xét nghiệm, phim chụp giữa các bệnh viện",
+      "description": "Bộ Y tế đề xuất công nhận chéo hơn 400 kết quả xét nghiệm và dịch vụ cận lâm sàng giữa các cơ sở khám chữa bệnh, để người dân không phải làm lại những kỹ thuật còn giá trị sử dụng.",
+      "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/25/huy-1787619711-2058-1787619785.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=EFnNJ8smnBkKmve6lBRl6w",
+      "link": "https://vnexpress.net/de-xuat-hon-400-loai-xet-nghiem-phim-chup-duoc-dung-lai-khi-chuyen-vien-5112990.html",
+      "published_at": "Tue, 25 Aug 2026 09:16:21 +0700",
+      "createAt": "2026-08-25T02:16:21.000Z",
+      "thumbnail_blurhash": "LNJ8O$_4E1R+~qxvx]tR%M%MxtjY"
+    },
+    {
       "id": "https://vnexpress.net/be-boi-cai-thao-nhung-hoa-chat-gay-ung-thu-chan-dong-trung-quoc-5113033.html",
       "category_id": "featured",
       "category_name": "Tin nổi bật",
@@ -12,6 +25,19 @@
       "published_at": "Tue, 25 Aug 2026 10:11:45 +0700",
       "createAt": "2026-08-25T03:11:45.000Z",
       "thumbnail_blurhash": "LQJ[a%IEQ|~WtuVtRRRi01xoIBMy"
+    },
+    {
+      "id": "https://vnexpress.net/hlv-kim-khong-de-kich-ban-thua-u23-trung-quoc-0-3-lap-lai-truoc-thai-lan-5113075.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "HLV Kim không để kịch bản thua U23 Trung Quốc 0-3 lặp lại trước Thái Lan",
+      "description": "HLV Kim Sang-sik cho biết Việt Nam chỉ có chút lợi thế nhỏ trước Thái Lan ở lượt về chung kết để đăng quang ASEAN Cup 2026 trên sân Mỹ Đình tối 26/8.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/08/25/dong7788-jpg-1787627945-3745-1787628243.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=l5Gxt0mg3CGxyozfmRKlRA",
+      "link": "https://vnexpress.net/hlv-kim-khong-de-kich-ban-thua-u23-trung-quoc-0-3-lap-lai-truoc-thai-lan-5113075.html",
+      "published_at": "Tue, 25 Aug 2026 11:32:36 +0700",
+      "createAt": "2026-08-25T04:32:36.000Z",
+      "thumbnail_blurhash": "LPKBF5={_NpK~7xYEAxpR;j]skWB"
     }
   ]
 }

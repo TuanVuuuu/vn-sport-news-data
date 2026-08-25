@@ -570,5 +570,31 @@
     "published_at": "Tue, 25 Aug 2026 11:12:23 +0700",
     "createAt": "2026-08-25T04:12:23.000Z",
     "thumbnail_blurhash": "LcGbxGxx%ERq_4%MfzoNoht7xsj^"
+  },
+  {
+    "id": "https://vnexpress.net/canva-muon-giup-giao-vien-viet-tu-thiet-ke-bai-giang-truc-quan-5112986.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Canva muốn giúp giáo viên Việt tự thiết kế bài giảng trực quan",
+    "description": "Canva hợp tác cùng Trung tâm Đổi mới sáng tạo Quốc gia (NIC) đào tạo 30.000 giáo viên về công nghệ và AI, hướng tới phát triển nguồn nhân lực số tại Việt Nam.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/25/IMG-8579-JPG-1787630225-2087-1787630319.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=2KD1bFcoZhP5G5bTdOCYaw",
+    "link": "https://vnexpress.net/canva-muon-giup-giao-vien-viet-tu-thiet-ke-bai-giang-truc-quan-5112986.html",
+    "published_at": "Tue, 25 Aug 2026 11:32:10 +0700",
+    "createAt": "2026-08-25T04:32:10.000Z",
+    "thumbnail_blurhash": "LMGbk$?a.9SP~q%Ms,t6xrxZR*W="
+  },
+  {
+    "id": "https://vnexpress.net/dao-dai-loan-truy-to-9-nguoi-buon-lau-chip-ai-sang-trung-quoc-5113056.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Đảo Đài Loan truy tố 9 người buôn lậu chip AI sang Trung Quốc",
+    "description": "Đảo Đài Loan cáo buộc 9 người vì hỗ trợ vận chuyển hệ thống máy chủ AI chạy chip Nvidia trái phép vào Trung Quốc đại lục.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/25/SuperMicroComputerSMCI-1787629-6368-4863-1787629436.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=x2NfbWSrNCW3Y_6RwE-irQ",
+    "link": "https://vnexpress.net/dao-dai-loan-truy-to-9-nguoi-buon-lau-chip-ai-sang-trung-quoc-5113056.html",
+    "published_at": "Tue, 25 Aug 2026 12:00:00 +0700",
+    "createAt": "2026-08-25T05:00:00.000Z",
+    "thumbnail_blurhash": "L24emD-;009E?wozM_j]D%M{%2%M"
   }
 ]
