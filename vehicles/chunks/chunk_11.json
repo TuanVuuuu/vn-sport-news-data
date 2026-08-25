@@ -63,5 +63,31 @@
     "published_at": "Tue, 25 Aug 2026 06:00:00 +0700",
     "createAt": "2026-08-24T23:00:00.000Z",
     "thumbnail_blurhash": "LUKUD;-p_No#-;xuNGRjTJM|Dism"
+  },
+  {
+    "id": "https://vnexpress.net/suzuki-e-sky-kei-car-dien-moi-lo-dien-5112946.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Suzuki e SKY - kei car điện mới lộ diện",
+    "description": "Mẫu xe điện mini lắp pin LFP 26 kWh, phạm vi hoạt động 310 km, môtơ điện cầu trước, ra mắt cuối 2026.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/25/SuzukieSKY202720-1787586495-4556-1787621139.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=I7ia8MYcddaWGBfckE1YtQ",
+    "link": "https://vnexpress.net/suzuki-e-sky-kei-car-dien-moi-lo-dien-5112946.html",
+    "published_at": "Tue, 25 Aug 2026 08:35:10 +0700",
+    "createAt": "2026-08-25T01:35:10.000Z",
+    "thumbnail_blurhash": "LKJH:N-;-;tS?wj]ITxt0CWC-nt6"
+  },
+  {
+    "id": "https://vnexpress.net/oto-gan-hai-bien-so-de-ne-camera-ai-tai-xe-bi-phat-23-trieu-dong-5113008.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Ôtô gắn hai biển số để né camera AI, tài xế bị phạt 23 triệu đồng",
+    "description": "Ôtô lưu thông với hai biển số khác nhau, nhưng hành trình vẫn được hệ thống camera AI ghi nhận và truy vết.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/25/unknown-jpeg-1787622804-5968-1787622827.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=eLWTrB_7JXgYxbaamvMtcw",
+    "link": "https://vnexpress.net/oto-gan-hai-bien-so-de-ne-camera-ai-tai-xe-bi-phat-23-trieu-dong-5113008.html",
+    "published_at": "Tue, 25 Aug 2026 08:59:55 +0700",
+    "createAt": "2026-08-25T01:59:55.000Z",
+    "thumbnail_blurhash": "LPM5^XS7vhxb.mxHw{NaG9IVj=of"
   }
 ]
