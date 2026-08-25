@@ -492,5 +492,31 @@
     "published_at": "Tue, 25 Aug 2026 23:00:00 +0700",
     "createAt": "2026-08-25T16:00:00.000Z",
     "thumbnail_blurhash": "LHF5HosWRO~V9ZogE3xCEioc%1Nx"
+  },
+  {
+    "id": "https://vnexpress.net/ly-do-tram-nam-co-don-kho-chuyen-thanh-phim-5113049.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Lý do 'Trăm năm cô đơn' khó chuyển thành phim",
+    "description": "Đưa \"Trăm năm cô đơn\" lên màn ảnh là thách thức của nhà làm phim bởi tiểu thuyết có cấu trúc thời gian phức tạp, đậm màu hiện thực huyền ảo.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/08/25/cads-s2-ep04-scn50-r-178763625-3332-1762-1787636785.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=6oJOyzoD4lphW1L6q9aKwQ",
+    "link": "https://vnexpress.net/ly-do-tram-nam-co-don-kho-chuyen-thanh-phim-5113049.html",
+    "published_at": "Wed, 26 Aug 2026 00:00:00 +0700",
+    "createAt": "2026-08-25T17:00:00.000Z",
+    "thumbnail_blurhash": "L4C=uC=Z01%y.6xr9v={s*M|~C9b"
+  },
+  {
+    "id": "https://vnexpress.net/phong-cach-nu-tro-ly-cua-ong-donald-trump-5111506.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Phong cách nữ trợ lý của ông Donald Trump",
+    "description": "Natalie Harp - nữ trợ lý tóc vàng của Tổng thống Mỹ Donald Trump - gây ấn tượng với vóc dáng cao ráo, gu mặc thanh lịch.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/08/25/Natalie-Harp-nu-tro-ly-cua-Donald-Trump-1787646547.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=mGQF7fnqxndOir2OPBETfw",
+    "link": "https://vnexpress.net/phong-cach-nu-tro-ly-cua-ong-donald-trump-5111506.html",
+    "published_at": "Wed, 26 Aug 2026 00:05:00 +0700",
+    "createAt": "2026-08-25T17:05:00.000Z",
+    "thumbnail_blurhash": "LTI=7I4:pd-p?w%2D%%MS$t7D%of"
   }
 ]
