@@ -843,5 +843,31 @@
     "published_at": "Tue, 25 Aug 2026 20:31:03 +0700",
     "createAt": "2026-08-25T13:31:03.000Z",
     "thumbnail_blurhash": "LIJ@:u?vkqM{04~W-;V@~q%LxvM{"
+  },
+  {
+    "id": "https://vnexpress.net/bao-narra-suy-yeu-thanh-ap-thap-nhiet-doi-5113330.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Bão Narra suy yếu thành áp thấp nhiệt đới",
+    "description": "Chiều 25/8 bão suy yếu thành áp thấp nhiệt đới, dự kiến đi vào bán đảo Lôi Châu, Trung Quốc, rồi tan dần.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/25/784520427-n-1787654914-1636-1787654971.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=nWIzFTQ--3Q1R_-9ylHwUg",
+    "link": "https://vnexpress.net/bao-narra-suy-yeu-thanh-ap-thap-nhiet-doi-5113330.html",
+    "published_at": "Tue, 25 Aug 2026 20:31:03 +0700",
+    "createAt": "2026-08-25T13:31:03.000Z",
+    "thumbnail_blurhash": "LIK1XT?vkXM{0N~X-;V@~q%LxuM{"
+  },
+  {
+    "id": "https://vnexpress.net/quoc-lo-6-un-tac-tu-trua-den-toi-5113366.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Quốc lộ 6 ùn tắc từ trưa đến tối",
+    "description": "Quốc lộ 6, đoạn từ bến xe Yên Nghĩa qua cầu Mai Lĩnh, phía tây Hà Nội, ùn tắc kéo dài hơn 5 km ở cả hai chiều từ trưa nay. Các phương tiện có lúc mất 1 giờ để đi 1 km.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/25/wm1-btt-7437-1787663799-1787664624.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ga_bHOjn2ICoOj1RrDHuzw",
+    "link": "https://vnexpress.net/quoc-lo-6-un-tac-tu-trua-den-toi-5113366.html",
+    "published_at": "Tue, 25 Aug 2026 20:40:11 +0700",
+    "createAt": "2026-08-25T13:40:11.000Z",
+    "thumbnail_blurhash": "LEE{Ry~VDi%g_N%Ns=bas;-:xYM{"
   }
 ]
