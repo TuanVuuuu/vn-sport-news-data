@@ -1,3 +1,30 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/vu-kien-9-000-m2-dat-thua-ke-tu-nha-chong-va-nghi-van-tu-nhung-chu-ky-5113139.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Vụ kiện 9.000 m2 đất thừa kế từ nhà chồng và nghi vấn từ những chữ ký",
+      "description": "Trong vụ kiện 9.000 m2 đất thừa kế, con dâu trưởng cho rằng chữ ký của người chồng quá cố trên các thỏa thuận chia tài sản cần được giám định, trong khi em chồng khẳng định ông đã trực tiếp tham gia và ký các văn bản này.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/25/s-1787646040-6435-1787646060.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=eZLNqnX0_OGzCOOU37IETA",
+      "link": "https://vnexpress.net/vu-kien-9-000-m2-dat-thua-ke-tu-nha-chong-va-nghi-van-tu-nhung-chu-ky-5113139.html",
+      "published_at": "Tue, 25 Aug 2026 15:21:31 +0700",
+      "createAt": "2026-08-25T08:21:31.000Z",
+      "thumbnail_blurhash": "LJH2D?~V00N@x]-;WCbcEeNGspM{"
+    },
+    {
+      "id": "https://vnexpress.net/cam-giay-bao-trung-tuyen-den-truong-moi-biet-truot-dai-hoc-5113250.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Cầm giấy báo trúng tuyển đến trường mới biết trượt đại học",
+      "description": "Đến Đại học Huế nhập học, một số thí sinh ngỡ ngàng khi được thông báo trượt vì 'tiêu chí phụ', dù đã nhận giấy báo trúng tuyển.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/25/776497619-1026601343706142-497-2639-2605-1787647908.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=qGfPWBvlUjEj0X-Hm4ZPhQ",
+      "link": "https://vnexpress.net/cam-giay-bao-trung-tuyen-den-truong-moi-biet-truot-dai-hoc-5113250.html",
+      "published_at": "Tue, 25 Aug 2026 16:53:40 +0700",
+      "createAt": "2026-08-25T09:53:40.000Z",
+      "thumbnail_blurhash": "L9HLVm.m00Em00-W^j$do$M]9HtT"
+    }
+  ]
 }
