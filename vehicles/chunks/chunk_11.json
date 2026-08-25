@@ -232,5 +232,31 @@
     "published_at": "Tue, 25 Aug 2026 19:24:10 +0700",
     "createAt": "2026-08-25T12:24:10.000Z",
     "thumbnail_blurhash": "LAB48x-:ISInt.WaV@r=_NROs:oy"
+  },
+  {
+    "id": "https://vnexpress.net/thanh-thep-nho-ra-tu-xe-ban-tai-quat-nga-nguoi-di-xe-may-5113274.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Thanh thép nhô ra từ xe bán tải quật ngã người đi xe máy",
+    "description": "Người phụ nữ phải khâu 10 mũi ở cằm sau khi tông trúng thanh thép thò ra ngoài thùng xe bán tải đứng trên hè.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/25/ezgif7238dfc15c214c56-17876516-9667-5162-1787651814.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=XsA-qbGVc5cK_25Dect88Q&t=image",
+    "link": "https://vnexpress.net/thanh-thep-nho-ra-tu-xe-ban-tai-quat-nga-nguoi-di-xe-may-5113274.html",
+    "published_at": "Wed, 26 Aug 2026 05:00:00 +0700",
+    "createAt": "2026-08-25T22:00:00.000Z",
+    "thumbnail_blurhash": "L7Eoue00SQ-qB=00%Mt8?w9F%2t8"
+  },
+  {
+    "id": "https://vnexpress.net/xe-may-dat-khi-thai-euro-4-duoc-di-vao-vung-phat-thai-thap-5113176.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Xe máy đạt khí thải Euro 4 được đi vào vùng phát thải thấp?",
+    "description": "Xe đáp ứng khí thải Euro 4 có được đi vào vùng phát thải thấp ở Hà Nội. (Phan Dũng)",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/25/tt178011465996551780114970-178-5236-2247-1787640556.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=VeCZN1v6y7_j0lbqNldCSg",
+    "link": "https://vnexpress.net/xe-may-dat-khi-thai-euro-4-duoc-di-vao-vung-phat-thai-thap-5113176.html",
+    "published_at": "Wed, 26 Aug 2026 06:00:00 +0700",
+    "createAt": "2026-08-25T23:00:00.000Z",
+    "thumbnail_blurhash": "LQG8=pRPIVtR~pNGWXs:.8kDRjj["
   }
 ]
