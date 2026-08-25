@@ -752,5 +752,57 @@
     "published_at": "Tue, 25 Aug 2026 17:24:12 +0700",
     "createAt": "2026-08-25T10:24:12.000Z",
     "thumbnail_blurhash": "L,G]O5MxWBof?wV@WCkCtRs:WBj["
+  },
+  {
+    "id": "https://vnexpress.net/chua-den-10-doanh-nghiep-vua-va-nho-co-the-vay-von-5113325.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "'Chưa đến 10% doanh nghiệp vừa và nhỏ có thể vay vốn'",
+    "description": "Tính đến cuối tháng 7, tỷ lệ doanh nghiệp vừa và nhỏ (SME) được tiếp cận vốn vay là 8,8%, mức rất thấp theo đánh giá của Fiin Group.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/08/25/tom-1787653493-4029-1787653531.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=ku2rv9qHiyz2g6IwIFnkhg",
+    "link": "https://vnexpress.net/chua-den-10-doanh-nghiep-vua-va-nho-co-the-vay-von-5113325.html",
+    "published_at": "Wed, 26 Aug 2026 00:01:00 +0700",
+    "createAt": "2026-08-25T17:01:00.000Z",
+    "thumbnail_blurhash": "LLI}@f%L_NIB-:Rjt7t7_3D%ITkB"
+  },
+  {
+    "id": "https://vnexpress.net/vi-sao-nhieu-co-phieu-quen-thuoc-vang-bong-trong-ro-ftse-5112917.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Vì sao nhiều cổ phiếu 'quen thuộc' vắng bóng trong rổ FTSE?",
+    "description": "FTSE đưa 27 cổ phiếu Việt Nam vào rổ chỉ số Global All Cap, nhưng nhiều mã quen thuộc vắng mặt do không còn đủ \"room\" ngoại theo quy định.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/08/24/233a8005-1787577092-8743-1787577209.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Ng8y59IQGQn_Cw9UyrnEfQ",
+    "link": "https://vnexpress.net/vi-sao-nhieu-co-phieu-quen-thuoc-vang-bong-trong-ro-ftse-5112917.html",
+    "published_at": "Wed, 26 Aug 2026 00:06:00 +0700",
+    "createAt": "2026-08-25T17:06:00.000Z",
+    "thumbnail_blurhash": "LBCQ4000Z~_200$xxuNHVs?wofIB"
+  },
+  {
+    "id": "https://vnexpress.net/doanh-nghiep-ngung-hoat-dong-can-lam-gi-de-hoan-tat-giai-the-5111282.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Doanh nghiệp ngừng hoạt động cần làm gì để hoàn tất giải thể?",
+    "description": "Doanh nghiệp không hoạt động tại địa chỉ đăng ký muốn giải thể phải hoàn tất các nghĩa vụ về thuế, hóa đơn, đơn vị phụ thuộc trước khi nộp hồ sơ chấm dứt hoạt động.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/08/21/wm1-wm1-congchucdanang16-178728119-7724-9971-1787281271.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=BpW7zFA9S5Fk23detm2t0g",
+    "link": "https://vnexpress.net/doanh-nghiep-ngung-hoat-dong-can-lam-gi-de-hoan-tat-giai-the-5111282.html",
+    "published_at": "Wed, 26 Aug 2026 00:08:00 +0700",
+    "createAt": "2026-08-25T17:08:00.000Z",
+    "thumbnail_blurhash": "LDF~K*={4n_NcF?w?vDhI:S5yEIp"
+  },
+  {
+    "id": "https://vnexpress.net/nhung-nuoc-anh-huong-nhat-khi-my-siet-gong-kim-kinh-te-voi-iran-5113227.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Những nước ảnh hưởng nhất khi Mỹ siết gọng kìm kinh tế với Iran",
+    "description": "Trung Quốc - khách mua chính của dầu Iran và UAE - thị trường thương mại số 1 của nước này sẽ chịu tác động lớn khi Mỹ muốn cô lập Iran.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/08/25/AFP-20260623-B82W9UU-v1-HighRe-5121-8762-1787666133.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=pl5Sibpt8VBKCoFvDo7RmQ",
+    "link": "https://vnexpress.net/nhung-nuoc-anh-huong-nhat-khi-my-siet-gong-kim-kinh-te-voi-iran-5113227.html",
+    "published_at": "Wed, 26 Aug 2026 00:13:00 +0700",
+    "createAt": "2026-08-25T17:13:00.000Z",
+    "thumbnail_blurhash": "LUFiMh%14oNI_NbHIVa~IvRks:j]"
   }
 ]
