@@ -778,5 +778,31 @@
     "published_at": "Tue, 25 Aug 2026 22:40:08 +0700",
     "createAt": "2026-08-25T15:40:08.000Z",
     "thumbnail_blurhash": "LDBgSp-=EKIn~pbVMy%3tKSdW=sA"
+  },
+  {
+    "id": "https://vnexpress.net/4-cong-nghe-noi-bat-cua-robot-ai-phau-thuat-thay-khop-5113365.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "4 công nghệ nổi bật của robot AI phẫu thuật thay khớp",
+    "description": "Khác với các robot chỉ định hướng, Cuvis-Joint tích hợp AI dựng mô hình 3D, chủ động cắt xương, camera hồng ngoại và thư viện khớp nhân tạo, hỗ trợ mổ thay khớp chính xác.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/25/3-1787666360-6830-1787666460.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=Mav0fuqTF0lvZVSo1SCeMQ",
+    "link": "https://vnexpress.net/4-cong-nghe-noi-bat-cua-robot-ai-phau-thuat-thay-khop-5113365.html",
+    "published_at": "Wed, 26 Aug 2026 08:00:00 +0700",
+    "createAt": "2026-08-26T01:00:00.000Z",
+    "thumbnail_blurhash": "LJKn[A?ERnWY~PtS_3D%D,Nf?Ioa"
+  },
+  {
+    "id": "https://vnexpress.net/nguoi-viet-chi-1-7-trieu-usd-cho-claude-7-1-trieu-usd-cho-chatgpt-5112620.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Người Việt chi 1,7 triệu USD cho Claude, 7,1 triệu USD cho ChatGPT",
+    "description": "Người Việt chi 1,71 triệu USD để sử dụng Claude trong nửa đầu năm, đưa ứng dụng của Anthropic từ vị trí thứ 9 lên thứ 2 về doanh thu trên di động, chỉ sau ChatGPT.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/25/wm1-wm1-lq-1787595414-8310-1787613137.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=5o586z402lo6ZRaSxrd1vA",
+    "link": "https://vnexpress.net/nguoi-viet-chi-1-7-trieu-usd-cho-claude-7-1-trieu-usd-cho-chatgpt-5112620.html",
+    "published_at": "Wed, 26 Aug 2026 08:11:51 +0700",
+    "createAt": "2026-08-26T01:11:51.000Z",
+    "thumbnail_blurhash": "L5Ir1?0000I92{034;m7~p}?~WyD"
   }
 ]
