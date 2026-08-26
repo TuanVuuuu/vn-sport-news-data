@@ -817,5 +817,31 @@
     "published_at": "Wed, 26 Aug 2026 10:00:00 +0700",
     "createAt": "2026-08-26T03:00:00.000Z",
     "thumbnail_blurhash": "LPLO4h0]y=tLx,br-=%M9[tL$wR%"
+  },
+  {
+    "id": "https://vnexpress.net/viet-nam-xay-co-so-du-lieu-ve-mua-ban-tai-san-tri-tue-5113407.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Việt Nam xây cơ sở dữ liệu về mua bán tài sản trí tuệ",
+    "description": "Cục Sở hữu trí tuệ đang xây dựng các cơ sở dữ liệu nhằm cung cấp thông tin tham chiếu về định giá, thúc đẩy hình thành thị trường tài sản trí tuệ.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/26/lq0386247621780815715-17876826-7769-9690-1787682805.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=8UUge6idRNUrxMaZrFC0ug",
+    "link": "https://vnexpress.net/viet-nam-xay-co-so-du-lieu-ve-mua-ban-tai-san-tri-tue-5113407.html",
+    "published_at": "Wed, 26 Aug 2026 11:13:47 +0700",
+    "createAt": "2026-08-26T04:13:47.000Z",
+    "thumbnail_blurhash": "LTH_iLAI~A?b-q%gxXofo|RONfxs"
+  },
+  {
+    "id": "https://vnexpress.net/loat-su-co-hai-huoc-tai-the-van-hoi-cho-robot-hinh-nguoi-5113564.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Loạt sự cố hài hước tại Thế vận hội cho robot hình người",
+    "description": "Trong lần thứ hai tổ chức, Đại hội Thể thao Robot hình người Thế giới (WHRG) ở Bắc Kinh ghi nhận nhiều sự cố trong các môn thi đấu.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/26/RobotOlympic-1787718474-5654-1787718530.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=1EDmixvrOUYA-Sjtso756A&t=image",
+    "link": "https://vnexpress.net/loat-su-co-hai-huoc-tai-the-van-hoi-cho-robot-hinh-nguoi-5113564.html",
+    "published_at": "Wed, 26 Aug 2026 12:00:41 +0700",
+    "createAt": "2026-08-26T05:00:41.000Z",
+    "thumbnail_blurhash": "L8A-b0M_R$tQ_LofM{ozoeozRQWB"
   }
 ]
