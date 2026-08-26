@@ -1,3 +1,82 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/nhung-ong-tay-thanh-fan-cuong-cua-dtqg-viet-nam-5113192.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Những ông Tây thành 'fan cuồng' của ĐTQG Việt Nam",
+      "description": "Tom O'Farrell đăng bài lên mạng nhờ mua giúp vé xem tuyển Việt Nam đá trận chung kết lượt về, sau một năm bị cuốn vào những lần \"đi bão\" mừng chiến thắng.",
+      "thumbnail_url": "https://vcdn1-giadinh.vnecdn.net/2026/08/25/screen-shot-at-1787659332-7606-1787660357.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=TN6KCHOVmD58nRk0-eSqIw",
+      "link": "https://vnexpress.net/nhung-ong-tay-thanh-fan-cuong-cua-dtqg-viet-nam-5113192.html",
+      "published_at": "Wed, 26 Aug 2026 06:27:00 +0700",
+      "createAt": "2026-08-25T23:27:00.000Z",
+      "thumbnail_blurhash": "LOFY72?Z~U-n?u%etPoy.8R.RnNL"
+    },
+    {
+      "id": "https://vnexpress.net/mac-dinh-im-lang-la-dong-y-xu-ly-du-lieu-co-the-bi-phat-70-trieu-dong-5113306.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Mặc định 'im lặng là đồng ý xử lý dữ liệu' có thể bị phạt 70 triệu đồng",
+      "description": "Tổ chức tự coi người dùng \"im lặng hoặc không phản hồi\" là đồng ý cho thu thập, xử lý dữ liệu cá nhân, có thể bị phạt đến 70 triệu đồng.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/25/nghng-1787650970-3829-1787651135.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=c44EE04U3p4_TKCY-ZEuTw",
+      "link": "https://vnexpress.net/mac-dinh-im-lang-la-dong-y-xu-ly-du-lieu-co-the-bi-phat-70-trieu-dong-5113306.html",
+      "published_at": "Wed, 26 Aug 2026 10:24:26 +0700",
+      "createAt": "2026-08-26T03:24:26.000Z",
+      "thumbnail_blurhash": "LADSwaD,?a^}?d4?Mx%0EE4rRoW9"
+    },
+    {
+      "id": "https://vnexpress.net/nu-than-cau-long-nhat-ban-rang-ngoi-tai-ha-noi-5113487.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "'Nữ thần cầu lông' Nhật Bản rạng ngời tại Hà Nội",
+      "description": "Chiharu Shida thu hút sự chú ý bởi vẻ xinh xắn, thân thiện khi giao lưu cùng người hâm mộ cầu lông Việt Nam.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/08/26/wm1-dsc05478-1787711919-1787712064-1787713790.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=NcECsj-_YI9NbRtpI07h3Q",
+      "link": "https://vnexpress.net/nu-than-cau-long-nhat-ban-rang-ngoi-tai-ha-noi-5113487.html",
+      "published_at": "Wed, 26 Aug 2026 10:25:14 +0700",
+      "createAt": "2026-08-26T03:25:14.000Z",
+      "thumbnail_blurhash": "L5E{FZpH00Tg00WY%Q-6U]OEGcOs"
+    },
+    {
+      "id": "https://vnexpress.net/le-giang-patrik-diem-tua-moi-trong-khung-thanh-tuyen-viet-nam-5113448.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Lê Giang Patrik – điểm tựa mới trong khung thành tuyển Việt Nam",
+      "description": "Bật nhảy cứu thua, ra vào dũng mãnh và chơi chân tốt, Patrik Lê Giang tạo dấu ấn ngay giải đấu đầu tiên khoác áo tuyển Việt Nam, hướng đến kỷ lục thủng lưới ít nhất lịch sử ASEAN Cup.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/26/top1-1787707748-2259-1787707795.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=dMihnUI1xuMtGtCbcTjBMA",
+      "link": "https://vnexpress.net/le-giang-patrik-diem-tua-moi-trong-khung-thanh-tuyen-viet-nam-5113448.html",
+      "published_at": "Wed, 26 Aug 2026 10:25:47 +0700",
+      "createAt": "2026-08-26T03:25:47.000Z",
+      "thumbnail_blurhash": "LEDSn1^7b_P9{l=#S4S#vwnMxat8"
+    },
+    {
+      "id": "https://vnexpress.net/chang-trai-viet-mac-ao-dai-gioi-thieu-pho-trong-mv-kpop-5113480.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Chàng trai Việt mặc áo dài, giới thiệu phở trong MV Kpop",
+      "description": "Ca sĩ Hanbin (tên thật Ngô Ngọc Hưng, 28 tuổi) mặc áo dài, giới thiệu phở Việt trong MV mới - \"No Fear\".",
+      "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/08/26/hanbin-1787711507-4731-1787711630.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=hC0XLE5UdekRycagYjiMAQ",
+      "link": "https://vnexpress.net/chang-trai-viet-mac-ao-dai-gioi-thieu-pho-trong-mv-kpop-5113480.html",
+      "published_at": "Wed, 26 Aug 2026 10:26:36 +0700",
+      "createAt": "2026-08-26T03:26:36.000Z",
+      "thumbnail_blurhash": "L36Hffjb00o#~Boz4:V?0eax~VbJ"
+    },
+    {
+      "id": "https://vnexpress.net/met-moi-vi-kieng-ky-thang-co-hon-5111472.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Mệt mỏi vì kiêng kỵ 'tháng cô hồn'",
+      "description": "Lo sợ xui xẻo trong tháng 7 âm lịch, nhiều người hoãn chữa bệnh, đổi giờ làm và áp đặt các quy tắc kiêng kỵ lên gia đình gây mệt mỏi, xáo trộn cuộc sống.",
+      "thumbnail_url": "https://vcdn1-giadinh.vnecdn.net/2026/08/26/co-hon-1787715073-8986-1787715131.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=c02xGHOGKD7j_IqqVt-AdA",
+      "link": "https://vnexpress.net/met-moi-vi-kieng-ky-thang-co-hon-5111472.html",
+      "published_at": "Wed, 26 Aug 2026 10:32:34 +0700",
+      "createAt": "2026-08-26T03:32:34.000Z",
+      "thumbnail_blurhash": "LLD,7i%h9aIp?wtRIAV@?wtRr=s9"
+    }
+  ]
 }
