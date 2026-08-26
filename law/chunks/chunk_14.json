@@ -297,5 +297,44 @@
     "published_at": "Wed, 26 Aug 2026 12:20:18 +0700",
     "createAt": "2026-08-26T05:20:18.000Z",
     "thumbnail_blurhash": "L7EMjz=i00007+o4?J^90JEe~E^S"
+  },
+  {
+    "id": "https://vnexpress.net/thanh-nien-bi-danh-ep-viet-giay-vay-no-400-trieu-dong-5113619.html",
+    "category_id": "law",
+    "category_name": "Pháp luật",
+    "source": "VnExpress",
+    "title": "Thanh niên bị đánh, ép viết giấy vay nợ 400 triệu đồng",
+    "description": "Ngô Đức Bảo cùng hai đồng phạm bị cáo buộc đánh đập, đe dọa, ép nam thanh niên 22 tuổi viết giấy vay 400 triệu đồng tại một tiệm cầm đồ.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/26/ba-nghi-pham-1787724536-9705-1787724584.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=GMgNmmBqDa2m2eL-Up1_Gg",
+    "link": "https://vnexpress.net/thanh-nien-bi-danh-ep-viet-giay-vay-no-400-trieu-dong-5113619.html",
+    "published_at": "Wed, 26 Aug 2026 14:45:10 +0700",
+    "createAt": "2026-08-26T07:45:10.000Z",
+    "thumbnail_blurhash": "LoI#P*-;%2t7~VNHRkoe-ojsRkoe"
+  },
+  {
+    "id": "https://vnexpress.net/phong-hoa-nha-nguoi-tinh-sau-mau-thuan-5113475.html",
+    "category_id": "law",
+    "category_name": "Pháp luật",
+    "source": "VnExpress",
+    "title": "Phóng hỏa nhà người tình sau mâu thuẫn",
+    "description": "Sau khi dùng xăng đốt hàng quán của người phụ nữ, ông Nguyễn Thanh Bình, 54 tuổi, ôm nạn nhân đứng trong đám cháy, sau đó được mọi người cứu.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/26/ChatGPTImageAug262026114856AM-6058-5292-1787727960.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=YuY5Ii0S_6H_Cfq5lDBZ0A",
+    "link": "https://vnexpress.net/phong-hoa-nha-nguoi-tinh-sau-mau-thuan-5113475.html",
+    "published_at": "Wed, 26 Aug 2026 14:47:02 +0700",
+    "createAt": "2026-08-26T07:47:02.000Z",
+    "thumbnail_blurhash": "LYEV+,9Et7%M_ND%s:%L_3IUs:xu"
+  },
+  {
+    "id": "https://vnexpress.net/noi-so-nho-viec-quan-trong-tu-nhung-cuoc-goi-lua-dao-nhay-may-mot-giay-5113613.html",
+    "category_id": "law",
+    "category_name": "Pháp luật",
+    "source": "VnExpress",
+    "title": "Nỗi sợ 'nhỡ việc quan trọng' từ những cuộc gọi lừa đảo nháy máy một giây",
+    "description": "Biết cuộc gọi nháy máy có thể là \"bẫy\", anh Việt Hưng vẫn không dám bỏ qua số lạ vì người anh mắc bệnh, thường đi lang thang; một cuộc gọi nhỡ đôi khi có thể là cuộc gọi \"sống còn\".",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/26/luaao-1787723719-1215-1787723890.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=a7MOGuwxU2z-tsJHA1g2gA",
+    "link": "https://vnexpress.net/noi-so-nho-viec-quan-trong-tu-nhung-cuoc-goi-lua-dao-nhay-may-mot-giay-5113613.html",
+    "published_at": "Wed, 26 Aug 2026 15:02:49 +0700",
+    "createAt": "2026-08-26T08:02:49.000Z",
+    "thumbnail_blurhash": "L8INgU00~4CA}i0N-:-o4mGIkrmP"
   }
 ]
