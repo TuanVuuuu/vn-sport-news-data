@@ -258,5 +258,44 @@
     "published_at": "Wed, 26 Aug 2026 06:00:00 +0700",
     "createAt": "2026-08-25T23:00:00.000Z",
     "thumbnail_blurhash": "LQG8=pRPIVtR~pNGWXs:.8kDRjj["
+  },
+  {
+    "id": "https://vnexpress.net/ceo-vietnam-star-automobile-khach-viet-chuong-trai-nghiem-ca-nhan-hoa-5111940.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "CEO Vietnam Star Automobile: Khách Việt chuộng trải nghiệm cá nhân hóa",
+    "description": "Chủ sở hữu xe Mercedes-Benz ngày càng trẻ, am hiểu và đề cao trải nghiệm cá nhân, đặt ra những yêu cầu mới cho các nhà phân phối.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/25/1-1787670766-7156-1787670879.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=YiIgwwPQPvW7u4HqIZjADQ",
+    "link": "https://vnexpress.net/ceo-vietnam-star-automobile-khach-viet-chuong-trai-nghiem-ca-nhan-hoa-5111940.html",
+    "published_at": "Wed, 26 Aug 2026 08:00:00 +0700",
+    "createAt": "2026-08-26T01:00:00.000Z",
+    "thumbnail_blurhash": "LRMtQ?Djn$_3~q-oxtIobE%2fPRj"
+  },
+  {
+    "id": "https://vnexpress.net/vi-sao-loi-dung-do-xe-nguoc-chieu-phat-nhe-hon-di-nguoc-chieu-5112998.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "'Vì sao lỗi dừng, đỗ xe ngược chiều phạt nhẹ hơn đi ngược chiều?'",
+    "description": "Làm thế nào để một chiếc xe có thể \"rơi\" vào vị trí đỗ ngược chiều nếu không di chuyển ngược chiều trong khi mức phạt lại \"một trời một vực\".",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/26/ScreenshotatAug26082835-178770-8363-3802-1787707882.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=n-IfWyuWlPNM6SzgmVgMiA",
+    "link": "https://vnexpress.net/vi-sao-loi-dung-do-xe-nguoc-chieu-phat-nhe-hon-di-nguoc-chieu-5112998.html",
+    "published_at": "Wed, 26 Aug 2026 08:31:56 +0700",
+    "createAt": "2026-08-26T01:31:56.000Z",
+    "thumbnail_blurhash": "LPAxlmyYH=Mw.TyDRORPyZx]M{of"
+  },
+  {
+    "id": "https://vnexpress.net/dreame-hang-may-hut-bui-vo-mong-giac-mo-lam-sieu-xe-ten-lua-5113427.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Dreame - hãng máy hút bụi vỡ mộng giấc mơ làm siêu xe tên lửa",
+    "description": "Dreame khai tử mảng ôtô điện chỉ sau một năm sau khi gây chú ý bằng các bản thiết kế nhái, trong đó có siêu xe Bugatti.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/26/Dreame1-1787708563-8065-1787708677.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=GAMS3DvTftef9YFkkpDSZg",
+    "link": "https://vnexpress.net/dreame-hang-may-hut-bui-vo-mong-giac-mo-lam-sieu-xe-ten-lua-5113427.html",
+    "published_at": "Wed, 26 Aug 2026 08:53:48 +0700",
+    "createAt": "2026-08-26T01:53:48.000Z",
+    "thumbnail_blurhash": "LKAdG_xoxD%M_4j;Rjox-oxtohob"
   }
 ]
