@@ -713,5 +713,31 @@
     "published_at": "Wed, 26 Aug 2026 10:06:09 +0700",
     "createAt": "2026-08-26T03:06:09.000Z",
     "thumbnail_blurhash": "L7D*k{531KImrTOv0ckZK,}tEyI-"
+  },
+  {
+    "id": "https://vnexpress.net/dong-mach-chau-tac-nghen-do-xo-vua-5113373.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Động mạch chậu tắc nghẽn do xơ vữa",
+    "description": "Ông Ning, 60 tuổi, 5 năm tê chân nay không thể đi lại, bác sĩ chẩn đoán động mạch chậu tắc nghẽn do xơ vữa.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/25/image001-1787666361-1223-1787666478.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=QqzeiibrAtV_MBVcvg5D2w",
+    "link": "https://vnexpress.net/dong-mach-chau-tac-nghen-do-xo-vua-5113373.html",
+    "published_at": "Wed, 26 Aug 2026 11:00:00 +0700",
+    "createAt": "2026-08-26T04:00:00.000Z",
+    "thumbnail_blurhash": "LVIZ9@tTtSo$~Ws.xubd-xW=s:xC"
+  },
+  {
+    "id": "https://vnexpress.net/tuoi-60-cham-soc-suc-khoe-cha-me-de-bao-hieu-5113099.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Tuổi 60 chăm sóc sức khỏe cha mẹ để báo hiếu",
+    "description": "Nhiều người ngoài 60 tuổi coi việc vun đắp sức khỏe cho cha mẹ 80–90 tuổi là cách báo hiếu thiết thực.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/25/vaccin-mua-vu-lan-gia-dinh-chu-7660-8068-1787630983.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=fj1AkhL11QfhT1k0M4TLhA",
+    "link": "https://vnexpress.net/tuoi-60-cham-soc-suc-khoe-cha-me-de-bao-hieu-5113099.html",
+    "published_at": "Wed, 26 Aug 2026 11:00:00 +0700",
+    "createAt": "2026-08-26T04:00:00.000Z",
+    "thumbnail_blurhash": "L$LXrk-;%MxV_NRio#o#tSbbRPoe"
   }
 ]
