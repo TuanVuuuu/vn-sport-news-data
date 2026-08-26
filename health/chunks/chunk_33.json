@@ -921,5 +921,31 @@
     "published_at": "Wed, 26 Aug 2026 17:00:00 +0700",
     "createAt": "2026-08-26T10:00:00.000Z",
     "thumbnail_blurhash": "L79*h?9FvHIU_K4nxbIU#bIVWUxt"
+  },
+  {
+    "id": "https://vnexpress.net/nam-sam-da-khi-mang-thai-co-tu-het-5113765.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Nám, sạm da khi mang thai có tự hết?",
+    "description": "Tôi mang thai 7 tháng, gần đây da mặt xuất hiện nhiều nám, sạm. Tình trạng này có thể tự hết sau khi sinh không hay cần điều trị? (Ngọc Như, 32 tuổi, TP HCM)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/26/anh-1787736862-4228-1787736908.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=3i5J4z1VYgu5kOweOdxp2A",
+    "link": "https://vnexpress.net/nam-sam-da-khi-mang-thai-co-tu-het-5113765.html",
+    "published_at": "Wed, 26 Aug 2026 18:00:00 +0700",
+    "createAt": "2026-08-26T11:00:00.000Z",
+    "thumbnail_blurhash": "LPN^e@pI$|%g~qI;Rnoc.7xaS6Rj"
+  },
+  {
+    "id": "https://vnexpress.net/ba-nho-rang-sua-bang-chi-be-trai-7-tuoi-hoc-xep-phoi-5113767.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Bà nhổ răng sữa bằng chỉ, bé trai 7 tuổi hóc xẹp phổi",
+    "description": "Sau khi bà dùng sợi chỉ nhổ răng sữa tại nhà, bé trai 7 tuổi khó thở, bác sĩ phát hiện răng mắc trong phế quản gây xẹp phổi.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/26/chie-c-ra-ng-1787737784-1202-1787737861.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=nWpPLIFK4r65nYiHHF1T5w",
+    "link": "https://vnexpress.net/ba-nho-rang-sua-bang-chi-be-trai-7-tuoi-hoc-xep-phoi-5113767.html",
+    "published_at": "Wed, 26 Aug 2026 18:07:07 +0700",
+    "createAt": "2026-08-26T11:07:07.000Z",
+    "thumbnail_blurhash": "LC3ElAY+O?pIqEa0VZjFPUkqwbWV"
   }
 ]
