@@ -1,29 +1,6 @@
 {
   "entries": [
     {
-      "sent_at": "2026-08-22T10:20:49.603Z",
-      "topic": null,
-      "device_id": "730d096a4aca0cc7",
-      "slot": "evening",
-      "type": "featured_digest",
-      "article_ids": [
-        "https://vnexpress.net/ky-luc-17-sinh-vien-kinh-te-quoc-dan-tot-nghiep-diem-tuyet-doi-5112009.html",
-        "https://vnexpress.net/viet-nam-duoc-du-doan-thang-thai-lan-3-0-5112067.html",
-        "https://vnexpress.net/hang-nghin-nguoi-tre-xep-hang-nhan-ve-concert-to-quoc-trong-tim-5112032.html",
-        "https://vnexpress.net/tuong-quan-truoc-tran-thai-lan-viet-nam-5111907.html",
-        "https://vnexpress.net/hai-phong-quang-ninh-va-hung-yen-cam-bien-5112062.html",
-        "https://vnexpress.net/vo-chong-tu-vong-nghi-do-dien-giat-5112068.html",
-        "https://vnexpress.net/du-kien-giam-5-truong-dai-hoc-thuoc-bo-giao-duc-va-dao-tao-5112020.html",
-        "https://vnexpress.net/nhieu-phuong-xa-tp-hcm-de-xuat-khong-tiep-tuc-sap-nhap-5112077.html",
-        "https://vnexpress.net/spacex-se-thu-hoi-tang-tren-cua-ten-lua-starship-bang-dua-gap-5111820.html",
-        "https://vnexpress.net/thai-lan-viet-nam-di-tim-su-khang-dinh-o-dong-nam-a-5112101.html",
-        "https://vnexpress.net/bo-truong-tai-chinh-can-co-che-phat-trien-do-thi-lan-bien-de-tao-cuc-tang-truong-moi-5112093.html",
-        "https://vnexpress.net/huong-loramen-khai-quang-cao-gian-doi-san-pham-tang-cuong-sinh-ly-5112130.html",
-        "https://vnexpress.net/tieu-thuong-chay-dua-cuu-tai-san-khi-cho-dau-moi-lang-son-ngap-sau-5112097.html"
-      ],
-      "highlight_id": "https://vnexpress.net/tieu-thuong-chay-dua-cuu-tai-san-khi-cho-dau-moi-lang-son-ngap-sau-5112097.html"
-    },
-    {
       "sent_at": "2026-08-22T10:20:49.836Z",
       "topic": null,
       "device_id": "2c939316dd386076",
@@ -16269,6 +16246,30 @@
         "https://vnexpress.net/kiatisuk-thang-viet-nam-3-ban-khong-phai-bat-kha-thi-5113307.html"
       ],
       "highlight_id": "https://vnexpress.net/kiatisuk-thang-viet-nam-3-ban-khong-phai-bat-kha-thi-5113307.html"
+    },
+    {
+      "sent_at": "2026-08-26T03:01:43.565Z",
+      "topic": null,
+      "device_id": "9A5AA45B-AC73-4BAD-AA82-C1439CEC76FB",
+      "slot": "morning",
+      "type": "featured_digest",
+      "article_ids": [
+        "https://vnexpress.net/vu-bat-coc-phu-bong-no-luc-hut-khach-trung-quoc-cua-thai-lan-5113038.html",
+        "https://vnexpress.net/bay-kiet-suc-cua-nhung-nguoi-me-muon-hoan-hao-5109918.html",
+        "https://vnexpress.net/duong-den-bong-da-cua-may-chay-truong-tien-anh-5112933.html",
+        "https://vnexpress.net/chuyen-gia-thai-lan-viet-nam-xung-dang-vo-dich-vi-ton-trong-asean-cup-5113228.html",
+        "https://vnexpress.net/al-nassr-thang-nguoc-sau-khi-ronaldo-bi-thay-som-5113415.html",
+        "https://vnexpress.net/vang-tren-the-gioi-dang-duoc-dung-vao-dau-5113378.html",
+        "https://vnexpress.net/dung-internet-ve-tinh-ket-noi-tam-thoi-cho-thon-ban-trang-song-5113338.html",
+        "https://vnexpress.net/bieu-tuong-am-nhac-dolly-parton-qua-doi-5113416.html",
+        "https://vnexpress.net/nguoi-gui-tien-mac-ca-lai-suat-5113041.html",
+        "https://vnexpress.net/nguoi-viet-chi-1-7-trieu-usd-cho-claude-7-1-trieu-usd-cho-chatgpt-5112620.html",
+        "https://vnexpress.net/nha-trang-xac-nhan-dot-thu-hoi-thi-thuc-lon-nhat-lich-su-5113439.html",
+        "https://vnexpress.net/canada-ap-thue-tra-dua-voi-20-ty-usd-hang-hoa-my-5113433.html",
+        "https://vnexpress.net/xac-dinh-32-doi-du-vong-bang-champions-league-2026-2027-5113453.html",
+        "https://vnexpress.net/my-tam-ngung-lich-hen-phong-van-visa-toan-cau-5113446.html"
+      ],
+      "highlight_id": "https://vnexpress.net/my-tam-ngung-lich-hen-phong-van-visa-toan-cau-5113446.html"
     }
   ]
 }
