@@ -867,6 +867,20 @@
       },
       "created_at": "2026-08-25T15:06:31.259Z",
       "updated_at": "2026-08-25T15:06:32.819Z"
+    },
+    {
+      "device_id": "9A5AA45B-AC73-4BAD-AA82-C1439CEC76FB",
+      "fcm_token": "cXATzqXrWkcjmQQ0Pv48f8:APA91bHJOpMPAVD-aP9ENg5GDBOUByBa5hdcoIl_p7kZgFAamciPvUwP5McJMn17Rbguk6gMatmHvNo1iCm7huto3anGbbH9LDqSwrs58EXulhRAPVPY58Q",
+      "platform": "ios",
+      "preferences": {
+        "enabled": true,
+        "max_per_day": 3,
+        "categories": [
+          "featured"
+        ]
+      },
+      "created_at": "2026-08-26T02:46:53.257Z",
+      "updated_at": "2026-08-26T02:46:53.257Z"
     }
   ]
 }
