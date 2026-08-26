@@ -869,5 +869,31 @@
     "published_at": "Wed, 26 Aug 2026 15:30:00 +0700",
     "createAt": "2026-08-26T08:30:00.000Z",
     "thumbnail_blurhash": "LCIWQ2E2WX={}@kBWVs.smR*NGS4"
+  },
+  {
+    "id": "https://vnexpress.net/dieu-tri-vo-sinh-thu-phat-thu-tinh-ong-nghiem-thanh-cong-co-con-5113696.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Điều trị vô sinh thứ phát, thụ tinh ống nghiệm thành công có con",
+    "description": "Chị Huế, 35 tuổi, 6 lần điều trị vô sinh thất bại, được bác sĩ xử lý khuyết sẹo mổ lấy thai và viêm nội mạc tử cung giúp thụ tinh ống nghiệm thành công.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/26/key-ao-1787731435-9970-1787731498.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=6TuFAHlFjis6VJk7KUWM7Q",
+    "link": "https://vnexpress.net/dieu-tri-vo-sinh-thu-phat-thu-tinh-ong-nghiem-thanh-cong-co-con-5113696.html",
+    "published_at": "Wed, 26 Aug 2026 16:00:00 +0700",
+    "createAt": "2026-08-26T09:00:00.000Z",
+    "thumbnail_blurhash": "LENwyj01BV?wTeNGx]-pyBbb$lsp"
+  },
+  {
+    "id": "https://vnexpress.net/5-dau-hieu-tieu-duong-it-duoc-chu-y-5113437.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "5 dấu hiệu tiểu đường ít được chú ý",
+    "description": "Bên cạnh mệt mỏi, đi tiểu nhiều, sụt cân, người bệnh tiểu đường có thể bị ngứa da, vết cắt bầm không lành, vùng da quanh cổ sẫm màu.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/26/gaiden-1787706067-5384-1787706144.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=YfYA7u6CVhhA2YW0-YFi8w",
+    "link": "https://vnexpress.net/5-dau-hieu-tieu-duong-it-duoc-chu-y-5113437.html",
+    "published_at": "Wed, 26 Aug 2026 16:30:00 +0700",
+    "createAt": "2026-08-26T09:30:00.000Z",
+    "thumbnail_blurhash": "LMJGWM~A-o-n,=9^RkWVR-t5WYbH"
   }
 ]
