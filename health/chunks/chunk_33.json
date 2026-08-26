@@ -830,5 +830,44 @@
     "published_at": "Wed, 26 Aug 2026 14:07:18 +0700",
     "createAt": "2026-08-26T07:07:18.000Z",
     "thumbnail_blurhash": "LAJHaJ04*0%q00r;E00j02Im?HD."
+  },
+  {
+    "id": "https://vnexpress.net/sot-xuat-huyet-vao-chu-ky-tang-manh-canh-bao-dinh-nhap-vien-thang-8-11-5113473.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Sốt xuất huyết vào chu kỳ tăng mạnh, cảnh báo đỉnh nhập viện tháng 8-11",
+    "description": "Với hơn 56.000 ca sốt xuất huyết trong 7 tháng đầu năm và các chỉ số véc-tơ vượt ngưỡng, y tế phía Nam đang chuẩn bị ứng phó đỉnh nhập viện dự báo rơi vào tháng 8-11.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/26/cg2a6919-1787712609-4935-1787712724.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=yn3Ah0W4s_6Kzm_V3TqoEA",
+    "link": "https://vnexpress.net/sot-xuat-huyet-vao-chu-ky-tang-manh-canh-bao-dinh-nhap-vien-thang-8-11-5113473.html",
+    "published_at": "Wed, 26 Aug 2026 14:54:47 +0700",
+    "createAt": "2026-08-26T07:54:47.000Z",
+    "thumbnail_blurhash": "LXHC7j%Ms;tR?wxuaeozx]t7WAt7"
+  },
+  {
+    "id": "https://vnexpress.net/uong-gi-giam-ton-thuong-gan-do-ruou-bia-5113634.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Uống gì giảm tổn thương gan do rượu bia?",
+    "description": "Nước chanh ấm, sắn dây, bí đao có thể hỗ trợ giải độc, bù điện giải, góp phần giảm tổn thương gan sau khi dùng rượu bia.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/26/nu-o-c-chanh-jpeg-1787727192-7560-1787727343.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=1-5At4BsVYRhvZl7T0R0IQ",
+    "link": "https://vnexpress.net/uong-gi-giam-ton-thuong-gan-do-ruou-bia-5113634.html",
+    "published_at": "Wed, 26 Aug 2026 15:00:00 +0700",
+    "createAt": "2026-08-26T08:00:00.000Z",
+    "thumbnail_blurhash": "LtJk$O%2oLs:_4t7j[ayRjR%axj]"
+  },
+  {
+    "id": "https://vnexpress.net/dieu-gi-xay-ra-voi-duong-ruot-khi-an-cu-hanh-song-5112948.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Điều gì xảy ra với đường ruột khi ăn củ hành sống?",
+    "description": "Ăn hành sống có thể gây trào ngược axit và kích thích đường ruột, dẫn đến các triệu chứng rối loạn tiêu hóa.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/24/cuhanh-1787584517-5859-1787584656.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=Pl836yAor3OexJzf-uRouQ",
+    "link": "https://vnexpress.net/dieu-gi-xay-ra-voi-duong-ruot-khi-an-cu-hanh-song-5112948.html",
+    "published_at": "Wed, 26 Aug 2026 15:30:00 +0700",
+    "createAt": "2026-08-26T08:30:00.000Z",
+    "thumbnail_blurhash": "LCIWQ2E2WX={}@kBWVs.smR*NGS4"
   }
 ]
