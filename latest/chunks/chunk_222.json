@@ -726,5 +726,31 @@
     "published_at": "Wed, 26 Aug 2026 10:00:00 +0700",
     "createAt": "2026-08-26T03:00:00.000Z",
     "thumbnail_blurhash": "LGC?cpMe0KW70ht6?FWF~8f5E4j["
+  },
+  {
+    "id": "https://vnexpress.net/hang-nghin-nguoi-sap-bay-be-tren-chi-diem-trung-xo-so-5113496.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Hàng nghìn người sập bẫy 'bề trên chỉ điểm' trúng xổ số",
+    "description": "Nhóm người livestream về tâm linh, tự xưng được \"bề trên chỉ điểm\" kết quả xổ số rồi bán \"lộc\", lừa hàng nghìn người, chiếm đoạt hơn 50 tỷ đồng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/26/dovat-1787712658-4351-1787712676.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=w4P8Xe-xJrnqZG0n3MKcwA",
+    "link": "https://vnexpress.net/hang-nghin-nguoi-sap-bay-be-tren-chi-diem-trung-xo-so-5113496.html",
+    "published_at": "Wed, 26 Aug 2026 10:02:14 +0700",
+    "createAt": "2026-08-26T03:02:14.000Z",
+    "thumbnail_blurhash": "LCGkzb=zMf~W?bOtI;nNVDIAMxM{"
+  },
+  {
+    "id": "https://vnexpress.net/gan-ton-thuong-nang-sau-ba-ngay-nhau-lien-tiep-5113462.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Gan tổn thương nặng sau ba ngày nhậu liên tiếp",
+    "description": "Sau ba ngày nhậu liên tiếp, thanh niên 30 tuổi đau tức hạ sườn, chướng bụng, ngứa toàn thân, chỉ số tổn thương gan do rượu cao gấp 18 lần bình thường.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/26/screenshot-at-1787712259-6880-1787712284.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=sDtOY24LbGyXvXHElZwd2A",
+    "link": "https://vnexpress.net/gan-ton-thuong-nang-sau-ba-ngay-nhau-lien-tiep-5113462.html",
+    "published_at": "Wed, 26 Aug 2026 10:06:09 +0700",
+    "createAt": "2026-08-26T03:06:09.000Z",
+    "thumbnail_blurhash": "L7D*k{531KImrTOv0ckZK,}tEyI-"
   }
 ]
