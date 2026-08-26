@@ -895,5 +895,31 @@
     "published_at": "Wed, 26 Aug 2026 16:30:00 +0700",
     "createAt": "2026-08-26T09:30:00.000Z",
     "thumbnail_blurhash": "LMJGWM~A-o-n,=9^RkWVR-t5WYbH"
+  },
+  {
+    "id": "https://vnexpress.net/thay-khop-goi-thoai-hoa-10-nam-5113708.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Thay khớp gối thoái hóa 10 năm",
+    "description": "Ông Đạt, 70 tuổi, thoái hóa khớp gối 10 năm, được bác sĩ thay khớp gối giúp vận động dễ dàng, tập thể dục chỉ sau 3 tháng.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/26/img-1787732351-6418-1787732454.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=THdMJF8crhd10tNywpkIVw",
+    "link": "https://vnexpress.net/thay-khop-goi-thoai-hoa-10-nam-5113708.html",
+    "published_at": "Wed, 26 Aug 2026 17:00:00 +0700",
+    "createAt": "2026-08-26T10:00:00.000Z",
+    "thumbnail_blurhash": "LWIOw~Istk?b~mWE%Ks*xUjXM}M{"
+  },
+  {
+    "id": "https://vnexpress.net/6-thoi-quen-an-uong-khien-co-the-de-thieu-vitamin-khoang-chat-5113477.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "6 thói quen ăn uống khiến cơ thể dễ thiếu vitamin, khoáng chất",
+    "description": "Bỏ bữa thường xuyên, ăn quá ít rau và trái cây, uống trà hoặc cà phê ngay sau bữa ăn, cắt bỏ một nhóm thực phẩm dễ khiến cơ thể thiếu vitamin, khoáng chất.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/26/luo-c-rau-1787711289-1501-1787711433.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=gbery3v1Sf6OJ7CD4xrfzg",
+    "link": "https://vnexpress.net/6-thoi-quen-an-uong-khien-co-the-de-thieu-vitamin-khoang-chat-5113477.html",
+    "published_at": "Wed, 26 Aug 2026 17:00:00 +0700",
+    "createAt": "2026-08-26T10:00:00.000Z",
+    "thumbnail_blurhash": "L79*h?9FvHIU_K4nxbIU#bIVWUxt"
   }
 ]
