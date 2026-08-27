@@ -1207,5 +1207,31 @@
     "published_at": "Thu, 27 Aug 2026 16:09:06 +0700",
     "createAt": "2026-08-27T09:09:06.000Z",
     "thumbnail_blurhash": "LDHLPYR$0Loz00of~qt7tlfkrroK"
+  },
+  {
+    "id": "https://vnexpress.net/gia-xang-dau-moi-nhat-hom-nay-27-8-5114100.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Giá xăng E10 giảm về 22.600 đồng một lít",
+    "description": "Từ 15h hôm nay, giá xăng, dầu trong nước (trừ mazut) cùng giảm 60-460 đồng một lít, theo đà biến động của thị trường năng lượng thế giới.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/08/27/wm1-wm1-xange103-1787811832-1372-1787811894.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=-3oqTx2U2LFZQOVlgT6msA",
+    "link": "https://vnexpress.net/gia-xang-dau-moi-nhat-hom-nay-27-8-5114100.html",
+    "published_at": "Thu, 27 Aug 2026 14:33:24 +0700",
+    "createAt": "2026-08-27T07:33:24.000Z",
+    "thumbnail_blurhash": "LHG98RM^?W?[pL={$kt59b-;V_r;"
+  },
+  {
+    "id": "https://vnexpress.net/thoi-tiet-ca-nuoc-dip-nghi-le-2-9-5114225.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Thời tiết cả nước dịp nghỉ lễ 2/9",
+    "description": "Kỳ nghỉ lễ Quốc khánh 2/9, miền Bắc và Bắc Trung Bộ mưa giông, có nơi mưa lớn, trong khi miền Trung nắng nóng, còn Nam Bộ chiều tối có mưa rào và giông.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/27/6-jpg-1787824231-4590-1787824293.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=qU1zbXT_s1OybxAYUOO0Gw",
+    "link": "https://vnexpress.net/thoi-tiet-ca-nuoc-dip-nghi-le-2-9-5114225.html",
+    "published_at": "Thu, 27 Aug 2026 17:12:34 +0700",
+    "createAt": "2026-08-27T10:12:34.000Z",
+    "thumbnail_blurhash": "LEJZA3qG}@=$_~t+MxMzOsTJaex]"
   }
 ]
