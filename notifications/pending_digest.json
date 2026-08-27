@@ -1,3 +1,17 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/su-ket-hop-tu-than-trong-tran-lu-quet-nepal-5113915.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Sự kết hợp tử thần trong trận lũ quét Nepal",
+      "description": "Sự kết hợp giữa băng vỡ do biến đổi khí hậu, hồ nước trên núi và địa hình dốc đã tạo ra trận lũ quét không gì cản nổi tàn phá vùng biên giới Nepal.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/27/ap26238334534782-1787801241-6059-1787801911.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=haOnk88-LQuATpDp6ld_qw",
+      "link": "https://vnexpress.net/su-ket-hop-tu-than-trong-tran-lu-quet-nepal-5113915.html",
+      "published_at": "Thu, 27 Aug 2026 11:41:48 +0700",
+      "createAt": "2026-08-27T04:41:48.000Z",
+      "thumbnail_blurhash": "L3Am#fxV00E10Eog~W%MKB9ZV@-;"
+    }
+  ]
 }
