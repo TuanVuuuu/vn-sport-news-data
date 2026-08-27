@@ -1116,5 +1116,31 @@
     "published_at": "Thu, 27 Aug 2026 07:00:00 +0700",
     "createAt": "2026-08-27T00:00:00.000Z",
     "thumbnail_blurhash": "LUFG5~Ou5Zt70[xu%2Rkg7oLxBj]"
+  },
+  {
+    "id": "https://vnexpress.net/ba-diem-den-binh-yen-gan-ha-noi-dip-le-2-9-5113559.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Ba điểm đến bình yên gần Hà Nội dịp lễ 2/9",
+    "description": "Hồ Mắt Ngọc, Đà Bắc, Bản Hốc không phải là những điểm check in nổi tiếng, nhận được cảm tình của du khách thích sự yên bình.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/08/26/690641814-n-1787732041-9854-1787760060.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=SyF5_-2qalbhHqgXXSsl8w",
+    "link": "https://vnexpress.net/ba-diem-den-binh-yen-gan-ha-noi-dip-le-2-9-5113559.html",
+    "published_at": "Thu, 27 Aug 2026 09:25:54 +0700",
+    "createAt": "2026-08-27T02:25:54.000Z",
+    "thumbnail_blurhash": "LWE{B{NcE2t5~VR+NHkB=|j[R+bI"
+  },
+  {
+    "id": "https://vnexpress.net/nha-hang-dua-nep-com-nha-vao-thuc-don-5112914.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Nhà hàng đưa 'nếp cơm nhà' vào thực đơn",
+    "description": "Nhà hàng Hoa Vị mang đến mâm cơm gia đình Việt bằng nguồn nguyên liệu bản địa theo mùa, kết hợp các kỹ thuật chế biến truyền thống như ủ, om và nén.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/08/27/hv1-1787796202-3989-1787796265.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=m6GNps6p-Yn63lPc6mhFow",
+    "link": "https://vnexpress.net/nha-hang-dua-nep-com-nha-vao-thuc-don-5112914.html",
+    "published_at": "Thu, 27 Aug 2026 09:30:00 +0700",
+    "createAt": "2026-08-27T02:30:00.000Z",
+    "thumbnail_blurhash": "L8BVqY%K0N9b}?s:58V[0iNIs+$~"
   }
 ]
