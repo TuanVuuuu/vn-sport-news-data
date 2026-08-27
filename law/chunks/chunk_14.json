@@ -479,5 +479,44 @@
     "published_at": "Thu, 27 Aug 2026 11:23:47 +0700",
     "createAt": "2026-08-27T04:23:47.000Z",
     "thumbnail_blurhash": "LBAwe;OwMbrS}gI9NLNO~4nfbxx_"
+  },
+  {
+    "id": "https://vnexpress.net/sat-hai-anh-sau-mau-thuan-cham-soc-me-5114059.html",
+    "category_id": "law",
+    "category_name": "Pháp luật",
+    "source": "VnExpress",
+    "title": "Sát hại anh sau mâu thuẫn chăm sóc mẹ",
+    "description": "Võ Ngọc Hùng, 44 tuổi, cho rằng người anh đã tự ý đưa mẹ về nhà chăm sóc nên cầm dao sát hại, sau đó ra đầu thú.",
+    "thumbnail_url": null,
+    "link": "https://vnexpress.net/sat-hai-anh-sau-mau-thuan-cham-soc-me-5114059.html",
+    "published_at": "Thu, 27 Aug 2026 13:05:47 +0700",
+    "createAt": "2026-08-27T06:05:47.000Z",
+    "thumbnail_blurhash": null
+  },
+  {
+    "id": "https://vnexpress.net/gia-xe-om-cong-nghe-de-trom-cho-5114019.html",
+    "category_id": "law",
+    "category_name": "Pháp luật",
+    "source": "VnExpress",
+    "title": "Giả xe ôm công nghệ để trộm chó",
+    "description": "Phan Văn Lộc, 51 tuổi, mặc đồ xe ôm công nghệ, mang theo súng điện rảo quanh nhiều tuyến đường để trộm chó.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/27/trmch-1787800317-2504-1787800897.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ktCa-Y0cAifwIawQsUIr-g",
+    "link": "https://vnexpress.net/gia-xe-om-cong-nghe-de-trom-cho-5114019.html",
+    "published_at": "Thu, 27 Aug 2026 13:19:14 +0700",
+    "createAt": "2026-08-27T06:19:14.000Z",
+    "thumbnail_blurhash": "LlHCo;D%8_S2yZnNnOWBxvM{s;%M"
+  },
+  {
+    "id": "https://vnexpress.net/nhac-si-vu-quang-trung-phu-nhan-bo-show-ve-day-bon-canh-chim-troi-vi-tien-5114070.html",
+    "category_id": "law",
+    "category_name": "Pháp luật",
+    "source": "VnExpress",
+    "title": "Nhạc sĩ Vũ Quang Trung phủ nhận bỏ show Về đây bốn cánh chim trời 'vì tiền'",
+    "description": "Ông Vũ Quang Trung nói khi show hoãn, các nghệ sĩ bị hiểu nhầm \"bỏ show vì tiền\" khiến ông rất buồn, dù trước đó luyện tập đến ngày cuối và chưa nhận thù lao.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/27/wm1-wm1-20260827-1787808234-9628-1787810720.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=mdLnXA4nSxHMRA2c3RzCGA",
+    "link": "https://vnexpress.net/nhac-si-vu-quang-trung-phu-nhan-bo-show-ve-day-bon-canh-chim-troi-vi-tien-5114070.html",
+    "published_at": "Thu, 27 Aug 2026 13:38:56 +0700",
+    "createAt": "2026-08-27T06:38:56.000Z",
+    "thumbnail_blurhash": "LHEyMYsnnNNG~BxuROM|I9oexvog"
   }
 ]
