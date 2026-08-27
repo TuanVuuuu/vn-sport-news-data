@@ -1,6 +1,19 @@
 {
   "featured": [
     {
+      "id": "https://vnexpress.net/cach-han-che-bi-dien-vao-cho-trong-tren-cao-toc-5113956.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Cách hạn chế bị 'điền vào chỗ trống' trên cao tốc",
+      "description": "Tài xế cần chạy đồng tốc với dòng xe, giữ tốc độ ổn định, hạn chế khoảng trống quá lớn và giảm tốc nhẹ khi xe khác nhập vào làn.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/27/33b9de38623ae364ba2b-178781883-3181-8933-1787818849.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=DLzAUXMoJ4ZF74Hb20m45w",
+      "link": "https://vnexpress.net/cach-han-che-bi-dien-vao-cho-trong-tren-cao-toc-5113956.html",
+      "published_at": "Thu, 27 Aug 2026 11:41:24 +0700",
+      "createAt": "2026-08-27T04:41:24.000Z",
+      "thumbnail_blurhash": "L6EMK}?:Mtx@?P.39Yak9@-mJCxE"
+    },
+    {
       "id": "https://vnexpress.net/su-ket-hop-tu-than-trong-tran-lu-quet-nepal-5113915.html",
       "category_id": "featured",
       "category_name": "Tin nổi bật",
@@ -12,6 +25,110 @@
       "published_at": "Thu, 27 Aug 2026 11:41:48 +0700",
       "createAt": "2026-08-27T04:41:48.000Z",
       "thumbnail_blurhash": "L3Am#fxV00E10Eog~W%MKB9ZV@-;"
+    },
+    {
+      "id": "https://vnexpress.net/xe-bi-chen-vao-khoang-cach-an-toan-khong-coi-la-vi-pham-5114093.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Xe bị chen vào khoảng cách an toàn không coi là vi phạm",
+      "description": "CSGT sẽ xem xét diễn biến thực tế, không chỉ dựa vào khoảng cách tại một thời điểm để xử phạt tài xế khi xe khác bất ngờ chuyển làn vào phía trước.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/27/ket9-1787810587-1267-1787810666.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=W0ZbIckCiwCEc0B_aoqQNg",
+      "link": "https://vnexpress.net/xe-bi-chen-vao-khoang-cach-an-toan-khong-coi-la-vi-pham-5114093.html",
+      "published_at": "Thu, 27 Aug 2026 14:17:16 +0700",
+      "createAt": "2026-08-27T07:17:16.000Z",
+      "thumbnail_blurhash": "LyHx.~tQWAt7_4t8WBt7%Ma|a{j["
+    },
+    {
+      "id": "https://vnexpress.net/chu-tich-fifa-tham-cong-truong-svd-lon-bac-nhat-viet-nam-5114126.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Chủ tịch FIFA thăm công trường SVĐ lớn bậc nhất Việt Nam",
+      "description": "Chủ tịch FIFA Gianni Infantino tham quan công trường xây sân vận động PVF có sức chứa 60.000 chỗ sáng 27/8, trước khi kết thúc chuyến thăm Việt Nam.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/08/27/img-1787815435-7878-1787815510.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=uUAUxLQaUzTl39JUED0QVQ",
+      "link": "https://vnexpress.net/chu-tich-fifa-tham-cong-truong-svd-lon-bac-nhat-viet-nam-5114126.html",
+      "published_at": "Thu, 27 Aug 2026 14:34:56 +0700",
+      "createAt": "2026-08-27T07:34:56.000Z",
+      "thumbnail_blurhash": "LEF=UF~qQlw[^+KOM|9tD#t2%NNH"
+    },
+    {
+      "id": "https://vnexpress.net/khach-tay-toi-chua-tung-thay-canh-mung-bong-da-nhu-o-viet-nam-5114081.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Khách Tây: 'Tôi chưa từng thấy cảnh mừng bóng đá như ở Việt Nam'",
+      "description": "Du khách người Australia cho biết bóng đá cũng được yêu mến cuồng nhiệt ở quê nhà, nhưng không khí ăn mừng tại Việt Nam khiến anh ấn tượng hơn nhiều.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/27/tng-1787814407-7588-1787814413.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=SUoEGxeB6rNfqkiA07Jw3w",
+      "link": "https://vnexpress.net/khach-tay-toi-chua-tung-thay-canh-mung-bong-da-nhu-o-viet-nam-5114081.html",
+      "published_at": "Thu, 27 Aug 2026 14:44:10 +0700",
+      "createAt": "2026-08-27T07:44:10.000Z",
+      "thumbnail_blurhash": "LPHdsy~o%NxvyXS$xuI;%#%2o}S$"
+    },
+    {
+      "id": "https://vnexpress.net/phut-kinh-hoang-cua-phi-cong-nepal-truoc-song-lu-cao-6-m-5113990.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Phút kinh hoàng của phi công Nepal trước sóng lũ cao 6 m",
+      "description": "Từ buồng lái trực thăng, phi công Budathoki chứng kiến những đợt sóng lũ cao 5-6 m hất tung phương tiện và làm bật gốc cây trên bờ sông.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/27/afp-c6j89g4-v1-highres-nepalwe-8103-2963-1787804560.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=aj9MLhLeKLex4I9iv1-2RQ",
+      "link": "https://vnexpress.net/phut-kinh-hoang-cua-phi-cong-nepal-truoc-song-lu-cao-6-m-5113990.html",
+      "published_at": "Thu, 27 Aug 2026 14:45:01 +0700",
+      "createAt": "2026-08-27T07:45:01.000Z",
+      "thumbnail_blurhash": "L2EME=00%L~W0d00IT^,0ctLRis="
+    },
+    {
+      "id": "https://vnexpress.net/se-mien-thue-thu-nhap-doanh-nghiep-voi-suat-an-hoc-sinh-sinh-vien-5114112.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Sẽ miễn thuế thu nhập doanh nghiệp với suất ăn học sinh, sinh viên",
+      "description": "Thủ tướng chỉ đạo miễn toàn bộ thuế thu nhập doanh nghiệp với các đơn vị cung cấp suất ăn vào trường học, để góp phần bảo đảm chất lượng.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/27/c2e39489a8-a38b-adb3e2-1787818-6089-9360-1787818556.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=zX1eqAO0nnY-GaKotsgD3w",
+      "link": "https://vnexpress.net/se-mien-thue-thu-nhap-doanh-nghiep-voi-suat-an-hoc-sinh-sinh-vien-5114112.html",
+      "published_at": "Thu, 27 Aug 2026 14:45:14 +0700",
+      "createAt": "2026-08-27T07:45:14.000Z",
+      "thumbnail_blurhash": "L5GR#P?a0GVs0;IW~7%L%KEL?aRP"
+    },
+    {
+      "id": "https://vnexpress.net/moi-xa-phuong-ha-noi-du-kien-co-mot-co-so-cham-soc-nguoi-cao-tuoi-5114110.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Mỗi xã, phường Hà Nội dự kiến có một cơ sở chăm sóc người cao tuổi",
+      "description": "Các điểm chăm sóc ban ngày giúp người cao tuổi được theo dõi sức khỏe, phục hồi chức năng và tham gia sinh hoạt cộng đồng mà không phải rời gia đình.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/27/DSC09650-1787816073-7399-1787816107.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=hfD0XbY-j4m0n_0m10FjUQ",
+      "link": "https://vnexpress.net/moi-xa-phuong-ha-noi-du-kien-co-mot-co-so-cham-soc-nguoi-cao-tuoi-5114110.html",
+      "published_at": "Thu, 27 Aug 2026 14:51:05 +0700",
+      "createAt": "2026-08-27T07:51:05.000Z",
+      "thumbnail_blurhash": "LEGj%NGa:s?bG=}]K1RkA8nf9@I;"
+    },
+    {
+      "id": "https://vnexpress.net/gan-1-500-nguoi-co-the-da-bi-chon-vui-trong-lu-bun-nepal-5114121.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Gần 1.500 người có thể đã bị chôn vùi trong lũ bùn Nepal",
+      "description": "Gần 1.500 người, trong đó khoảng 800 người nước ngoài, đang mất tích sau khi trận lũ bùn quét qua khu vực biên giới Trung Quốc - Nepal.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/27/afp-c6kh76l-v1-highres-nepalwe-3846-1234-1787815993.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=BJMDkgz9-xeji5h1epAt6Q",
+      "link": "https://vnexpress.net/gan-1-500-nguoi-co-the-da-bi-chon-vui-trong-lu-bun-nepal-5114121.html",
+      "published_at": "Thu, 27 Aug 2026 15:14:57 +0700",
+      "createAt": "2026-08-27T08:14:57.000Z",
+      "thumbnail_blurhash": "L47Uel9D?]9GoQyUMOS|pJMNXSje"
+    },
+    {
+      "id": "https://vnexpress.net/bao-ve-da-toi-tap-vao-dau-tai-xe-giao-hang-bi-bat-5114089.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Bảo vệ 'đá tới tấp vào đầu tài xế giao hàng' bị bắt",
+      "description": "Lê Xuân Việt, 38 tuổi, bảo vệ khu đô thị Louis City, bị cáo buộc đấm ngã tài xế giao hàng rồi liên tiếp đá, giẫm vào đầu, bụng nạn nhân đang nằm dưới đường.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/27/2-1787809697-1488-1787809763.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=yT1fankr-v9A_Se1ssmiEA",
+      "link": "https://vnexpress.net/bao-ve-da-toi-tap-vao-dau-tai-xe-giao-hang-bi-bat-5114089.html",
+      "published_at": "Thu, 27 Aug 2026 15:47:17 +0700",
+      "createAt": "2026-08-27T08:47:17.000Z",
+      "thumbnail_blurhash": "LkPZiV%M_N%L?bfRtRj[fmWCV@j["
     }
   ]
 }
