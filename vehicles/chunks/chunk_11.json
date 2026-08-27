@@ -401,5 +401,31 @@
     "published_at": "Thu, 27 Aug 2026 06:00:00 +0700",
     "createAt": "2026-08-26T23:00:00.000Z",
     "thumbnail_blurhash": "LWG98TbHV|M__4o#RPbGD-M|%Mt7"
+  },
+  {
+    "id": "https://vnexpress.net/ceo-lamborghini-sieu-xe-dien-trung-quoc-thieu-cam-xuc-5113431.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "CEO Lamborghini: Siêu xe điện Trung Quốc thiếu cảm xúc",
+    "description": "Lãnh đạo Lamborghini khẳng định ôtô điện hiệu năng cao Trung Quốc chưa thể đe dọa hãng xe Italy do thiếu âm thanh và cảm xúc đặc trưng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/26/DenzaZ-1787730791-6696-1787730919.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=cHzBDSTY9Fyrp-q8OqM1dg",
+    "link": "https://vnexpress.net/ceo-lamborghini-sieu-xe-dien-trung-quoc-thieu-cam-xuc-5113431.html",
+    "published_at": "Thu, 27 Aug 2026 08:10:04 +0700",
+    "createAt": "2026-08-27T01:10:04.000Z",
+    "thumbnail_blurhash": "L*Ih]aRkt7t7.TR+j[of%MozayRk"
+  },
+  {
+    "id": "https://vnexpress.net/ba-lay-mu-game-pubg-cua-chau-trai-lam-mu-bao-hiem-5113493.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Bà lấy mũ game PUBG của cháu trai làm mũ bảo hiểm",
+    "description": "Chiếc mũ nhựa của trò PUBG mà cháu trai dùng khi chơi điện tử được người bà đội ra đường và bị cảnh sát dừng xe.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/26/China1-1787713478-9426-1787717926.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=r9Rw23Sj_Z1IVBeaF48-Qg",
+    "link": "https://vnexpress.net/ba-lay-mu-game-pubg-cua-chau-trai-lam-mu-bao-hiem-5113493.html",
+    "published_at": "Thu, 27 Aug 2026 08:27:31 +0700",
+    "createAt": "2026-08-27T01:27:31.000Z",
+    "thumbnail_blurhash": "LPIOeHIUR%0M_Nofj^xC?ZRjfls7"
   }
 ]
