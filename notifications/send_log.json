@@ -1,35 +1,6 @@
 {
   "entries": [
     {
-      "sent_at": "2026-08-23T23:01:18.564Z",
-      "topic": null,
-      "device_id": "b557c896d6bacca4",
-      "slot": "morning",
-      "type": "featured_digest",
-      "article_ids": [
-        "https://vnexpress.net/5-truong-hop-bi-coi-la-tron-nghia-vu-quan-su-5112423.html",
-        "https://vnexpress.net/hang-nghin-nguoi-lang-son-chay-lu-5112419.html",
-        "https://vnexpress.net/ong-zelensky-canh-bao-ve-song-than-xe-doi-ukraine-5112434.html",
-        "https://vnexpress.net/bup-be-cong-hoa-czech-thuyet-trinh-cam-xuc-tai-miss-world-5112196.html",
-        "https://vnexpress.net/tai-xe-khong-co-loi-trong-vu-xe-khach-lao-doc-vuc-lam-4-nguoi-chet-5112433.html",
-        "https://vnexpress.net/quang-ninh-di-doi-khan-cap-gan-400-nguoi-do-sat-lo-5112444.html",
-        "https://vnexpress.net/to-hop-danh-chan-uav-h-x2-do-viet-nam-nghien-cuu-phat-trien-5112417.html",
-        "https://vnexpress.net/nguoi-lang-son-trang-dem-canh-nuoc-chay-lu-5112453.html",
-        "https://vnexpress.net/tung-duong-se-bieu-dien-o-chung-ket-asean-cup-2026-5112447.html",
-        "https://vnexpress.net/mat-xich-quan-trong-cua-duong-day-lua-qua-quet-ma-qr-bi-bat-5112467.html",
-        "https://vnexpress.net/bien-nguoi-do-ve-xem-concert-to-quoc-trong-tim-5112471.html",
-        "https://vnexpress.net/hang-chuc-nghin-khan-gia-doi-mua-xem-concert-to-quoc-trong-tim-5112474.html",
-        "https://vnexpress.net/hang-chuc-nghin-khan-gia-doi-mua-hat-quoc-ca-o-concert-to-quoc-trong-tim-5112474.html",
-        "https://vnexpress.net/cdv-vay-quanh-chao-don-tuyen-viet-nam-ve-nuoc-5112502.html",
-        "https://vnexpress.net/bai-toan-gia-thit-bo-chia-re-ong-trump-va-nhom-cu-tri-trung-thanh-nhat-5111946.html",
-        "https://vnexpress.net/cung-duong-lo-dieu-uon-luon-giua-nui-va-bien-5110935.html",
-        "https://vnexpress.net/nguy-co-neu-iran-mo-mat-tran-moi-o-chau-au-5112166.html",
-        "https://vnexpress.net/nhieu-truong-o-ha-noi-lui-gio-chuyen-hoc-online-vi-mua-lon-5112504.html",
-        "https://vnexpress.net/barca-dai-thang-tran-ra-quan-la-liga-5112512.html"
-      ],
-      "highlight_id": "https://vnexpress.net/barca-dai-thang-tran-ra-quan-la-liga-5112512.html"
-    },
-    {
       "sent_at": "2026-08-23T23:01:18.669Z",
       "topic": null,
       "device_id": "e7368c7543fff02f",
@@ -16938,6 +16909,36 @@
         "https://vnexpress.net/noi-buon-cua-cau-thu-thai-lan-tren-san-my-dinh-5113971.html"
       ],
       "highlight_id": "https://vnexpress.net/noi-buon-cua-cau-thu-thai-lan-tren-san-my-dinh-5113971.html"
+    },
+    {
+      "sent_at": "2026-08-27T08:31:20.258Z",
+      "topic": null,
+      "device_id": "bb480a74ed8e12d7",
+      "slot": "noon",
+      "type": "featured_digest",
+      "article_ids": [
+        "https://vnexpress.net/dieu-chuyen-hon-32-600-hieu-truong-hieu-pho-sau-sap-nhap-truong-5113969.html",
+        "https://vnexpress.net/hom-nay-boc-tham-vong-phan-hang-champions-league-2026-2027-5113912.html",
+        "https://vnexpress.net/bat-luc-truoc-suc-huy-diet-cua-dong-lu-bun-o-nepal-5113970.html",
+        "https://vnexpress.net/madam-pang-dien-phong-cach-tieu-thu-tren-san-my-dinh-5114030.html",
+        "https://vnexpress.net/su-ket-hop-tu-than-trong-tham-hoa-lu-quet-tan-pha-bien-gioi-nepal-5113915.html",
+        "https://vnexpress.net/su-ket-hop-chet-choc-trong-tran-lu-quet-nepal-5113915.html",
+        "https://vnexpress.net/ha-noi-mien-phi-loat-diem-tham-quan-ngay-2-9-5113647.html",
+        "https://vnexpress.net/bac-si-noi-tru-tp-hcm-duoc-ho-tro-100-hoc-phi-5114031.html",
+        "https://vnexpress.net/pham-xuan-manh-khong-ma-thuat-nao-giup-viet-nam-o-asean-cup-2026-5114064.html",
+        "https://vnexpress.net/chuyen-gia-siamsport-xin-cac-clb-cuu-doi-tuyen-thai-lan-5114071.html",
+        "https://vnexpress.net/hanh-trinh-vo-dich-cua-viet-nam-tai-asean-cup-2026-5114084.html",
+        "https://vnexpress.net/nguoi-dan-do-thi-dac-biet-duoc-huong-them-chinh-sach-gi-5113495.html",
+        "https://vnexpress.net/nhac-si-vu-quang-trung-phu-nhan-bo-show-ve-day-bon-canh-chim-troi-vi-tien-5114070.html",
+        "https://vnexpress.net/tp-hcm-du-kien-co-them-29-phuong-5114101.html",
+        "https://vnexpress.net/nguoi-dan-vay-bat-ca-khi-nuoc-ho-tran-bo-5113833.html",
+        "https://vnexpress.net/my-xac-nhan-ngung-phong-van-nguoi-xin-visa-dinh-cu-tren-toan-cau-5114044.html",
+        "https://vnexpress.net/ha-noi-thu-nghiem-xe-buyt-tu-hanh-robotaxi-5114096.html",
+        "https://vnexpress.net/xe-bi-chen-vao-khoang-cach-an-toan-khong-bi-coi-la-vi-pham-5114093.html",
+        "https://vnexpress.net/gia-xang-dau-cung-giam-5114100.html",
+        "https://vnexpress.net/tran-lu-quet-o-nepal-xay-ra-the-nao-5113929.html"
+      ],
+      "highlight_id": "https://vnexpress.net/tran-lu-quet-o-nepal-xay-ra-the-nao-5113929.html"
     }
   ]
 }
