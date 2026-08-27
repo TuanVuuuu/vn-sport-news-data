@@ -752,5 +752,44 @@
     "published_at": "Thu, 27 Aug 2026 09:48:30 +0700",
     "createAt": "2026-08-27T02:48:30.000Z",
     "thumbnail_blurhash": "LPID%7$i02xZ?u9u9ZxY~Vw^IUof"
+  },
+  {
+    "id": "https://vnexpress.net/doan-van-hau-hon-doan-hai-my-tren-san-my-dinh-5113985.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Đoàn Văn Hậu hôn Doãn Hải My trên sân Mỹ Đình",
+    "description": "Cầu thủ Đoàn Văn Hậu chia sẻ niềm vui bên Doãn Hải My và con trai trong giây phút nâng cúp vô địch giải ASEAN Cup 2026.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/08/27/Doan-Hai-My-11-1787798673.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=HV1VSyATIrWrpBFrijVexQ",
+    "link": "https://vnexpress.net/doan-van-hau-hon-doan-hai-my-tren-san-my-dinh-5113985.html",
+    "published_at": "Thu, 27 Aug 2026 10:10:54 +0700",
+    "createAt": "2026-08-27T03:10:54.000Z",
+    "thumbnail_blurhash": "LDI{sz5N*_[13Z#k$wK*3XnMEMS~"
+  },
+  {
+    "id": "https://vnexpress.net/truong-tri-lam-lan-dau-dien-cung-con-trai-20-tuoi-5113952.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Trương Trí Lâm lần đầu diễn cùng con trai 20 tuổi",
+    "description": "Trương Mộ Đồng, con trai 20 tuổi của tài tử Hong Kong Trương Trí Lâm, chơi guitar trong liveshow của cha.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/08/27/toptrilam1-1787798232-3823-1787798420.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=m4FcSIJzfUwhsOIDbTyXYQ",
+    "link": "https://vnexpress.net/truong-tri-lam-lan-dau-dien-cung-con-trai-20-tuoi-5113952.html",
+    "published_at": "Thu, 27 Aug 2026 10:33:58 +0700",
+    "createAt": "2026-08-27T03:33:58.000Z",
+    "thumbnail_blurhash": "LGFFEO004:~W00~W%M9G9tR+oexZ"
+  },
+  {
+    "id": "https://vnexpress.net/brooklyn-beckham-dung-ban-tan-ve-vo-toi-5113974.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Brooklyn Beckham: 'Đừng bàn tán về vợ tôi'",
+    "description": "Brooklyn, con lớn nhà Beckham, đáp trả bình luận chê vợ anh quá ốm, cho rằng phán xét cơ thể phụ nữ là điều đáng xấu hổ.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/08/27/vo-chong-brooklyn-beckham-1787-2843-2376-1787800956.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=KE2d1xGF7ys1Vm60Vzupeg",
+    "link": "https://vnexpress.net/brooklyn-beckham-dung-ban-tan-ve-vo-toi-5113974.html",
+    "published_at": "Thu, 27 Aug 2026 10:39:57 +0700",
+    "createAt": "2026-08-27T03:39:57.000Z",
+    "thumbnail_blurhash": "LFNS~M00uP4T8^V@?cRPSbt7xbkC"
   }
 ]
