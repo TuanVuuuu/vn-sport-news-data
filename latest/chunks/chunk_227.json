@@ -362,5 +362,70 @@
     "published_at": "Thu, 27 Aug 2026 22:15:55 +0700",
     "createAt": "2026-08-27T15:15:55.000Z",
     "thumbnail_blurhash": "LcF=^C-@E2ITbIxuNIM|o}R%xZkC"
+  },
+  {
+    "id": "https://vnexpress.net/metro-ben-thanh-suoi-tien-den-san-bay-long-thanh-se-duoc-xay-cap-bach-5114269.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Metro Bến Thành - Suối Tiên đến sân bay Long Thành sẽ được xây cấp bách",
+    "description": "Chính phủ cho phép UBND TP Đồng Nai xây dựng dự án kéo dài tuyến metro Bến Thành - Suối Tiên đến trung tâm hành chính thành phố và sân bay Long Thành theo hình thức cấp bách.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/27/0f9b351c421dff43a60c-178783517-1338-2324-1787835360.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=nYKhmwbB7tZlz-YHcFpuag",
+    "link": "https://vnexpress.net/metro-ben-thanh-suoi-tien-den-san-bay-long-thanh-se-duoc-xay-cap-bach-5114269.html",
+    "published_at": "Thu, 27 Aug 2026 22:35:38 +0700",
+    "createAt": "2026-08-27T15:35:38.000Z",
+    "thumbnail_blurhash": "LHGSP+x[e@-:?wj=M^%2x^ofWYxv"
+  },
+  {
+    "id": "https://vnexpress.net/khanh-hoa-mien-phi-sach-giao-khoa-5114092.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Khánh Hòa miễn phí sách giáo khoa",
+    "description": "Khánh Hòa miễn phí sách giáo khoa theo lộ trình, bắt đầu ngay từ năm học tới, rồi mở rộng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/27/a-nh-ma-n-hi-nh-lu-c-178781014-9260-4571-1787810166.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=Ukb36o3a1WixZP1KRe7FXw",
+    "link": "https://vnexpress.net/khanh-hoa-mien-phi-sach-giao-khoa-5114092.html",
+    "published_at": "Thu, 27 Aug 2026 22:42:03 +0700",
+    "createAt": "2026-08-27T15:42:03.000Z",
+    "thumbnail_blurhash": "L6G*{LE800?K00?b~Xsl00D#_2-:"
+  },
+  {
+    "id": "https://vnexpress.net/samsung-xuat-khau-500-ty-usd-dien-thoai-tu-viet-nam-sau-17-nam-5114286.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Samsung xuất khẩu 500 tỷ USD điện thoại từ Việt Nam sau 17 năm",
+    "description": "Hai pháp nhân sản xuất điện thoại Samsung tại Bắc Ninh và Thái Nguyên đạt kim ngạch xuất khẩu lũy kế 500 tỷ USD vào cuối tháng 6, sau 17 năm hoạt động tại Việt Nam.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/08/27/base6417878279619931253504318-3345-3256-1787839219.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=_AZnWIX5oSWeZla3w37XnQ",
+    "link": "https://vnexpress.net/samsung-xuat-khau-500-ty-usd-dien-thoai-tu-viet-nam-sau-17-nam-5114286.html",
+    "published_at": "Thu, 27 Aug 2026 22:58:59 +0700",
+    "createAt": "2026-08-27T15:58:59.000Z",
+    "thumbnail_blurhash": "L5C67O-;00_4]{8_0LoI-N%gtoax"
+  },
+  {
+    "id": "https://vnexpress.net/nga-neu-kha-nang-tan-cong-can-cu-quan-su-anh-5114293.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Nga nêu khả năng tấn công căn cứ quân sự Anh",
+    "description": "Moskva cảnh báo về khả năng \"tấn công mục tiêu quân sự Anh ở trong và ngoài Ukraine\", nhằm đáp trả việc London cung cấp vũ khí cho Kiev.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/27/5563187178137269474a-178784192-2878-6436-1787842533.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=tyoiaxVd8nc_FfI0loa82g",
+    "link": "https://vnexpress.net/nga-neu-kha-nang-tan-cong-can-cu-quan-su-anh-5114293.html",
+    "published_at": "Thu, 27 Aug 2026 23:09:05 +0700",
+    "createAt": "2026-08-27T16:09:05.000Z",
+    "thumbnail_blurhash": "LIGua#|H[V$lEo9GVrx]GZTeFZXm"
+  },
+  {
+    "id": "https://vnexpress.net/qualcomm-muon-dua-viet-nam-thanh-trung-tam-r-d-ai-lon-thu-ba-cua-tap-doan-tren-toan-cau-5114298.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Qualcomm muốn đưa Việt Nam thành trung tâm R&amp;D AI lớn thứ ba của tập đoàn trên toàn cầu",
+    "description": "Qualcomm đang hướng đến mục tiêu đưa Việt Nam thành trung tâm nghiên cứu và phát triển AI lớn thứ ba của tập đoàn trên toàn cầu.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/08/27/tbt1-1787843013-3083-1787843168.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=7y7Wo0YZVvg6iEhQtkzd3Q",
+    "link": "https://vnexpress.net/qualcomm-muon-dua-viet-nam-thanh-trung-tam-r-d-ai-lon-thu-ba-cua-tap-doan-tren-toan-cau-5114298.html",
+    "published_at": "Thu, 27 Aug 2026 23:11:28 +0700",
+    "createAt": "2026-08-27T16:11:28.000Z",
+    "thumbnail_blurhash": "LCFzHN5p4U}9]gwcEmog0Nxs?GM}"
   }
 ]
