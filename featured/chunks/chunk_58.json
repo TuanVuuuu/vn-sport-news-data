@@ -167,5 +167,57 @@
     "published_at": "Thu, 27 Aug 2026 22:35:38 +0700",
     "createAt": "2026-08-27T15:35:38.000Z",
     "thumbnail_blurhash": "LHGSP+x[e@-:?wj=M^%2x^ofWYxv"
+  },
+  {
+    "id": "https://vnexpress.net/qualcomm-muon-dua-viet-nam-thanh-trung-tam-r-d-ai-lon-thu-ba-cua-tap-doan-tren-toan-cau-5114298.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Qualcomm muốn đưa Việt Nam thành trung tâm R&amp;D AI lớn thứ ba của tập đoàn trên toàn cầu",
+    "description": "Qualcomm đang hướng đến mục tiêu đưa Việt Nam thành trung tâm nghiên cứu và phát triển AI lớn thứ ba của tập đoàn trên toàn cầu.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/08/27/tbt1-1787843013-3083-1787843168.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=7y7Wo0YZVvg6iEhQtkzd3Q",
+    "link": "https://vnexpress.net/qualcomm-muon-dua-viet-nam-thanh-trung-tam-r-d-ai-lon-thu-ba-cua-tap-doan-tren-toan-cau-5114298.html",
+    "published_at": "Thu, 27 Aug 2026 23:11:28 +0700",
+    "createAt": "2026-08-27T16:11:28.000Z",
+    "thumbnail_blurhash": "LCFzHN5p4U}9]gwcEmog0Nxs?GM}"
+  },
+  {
+    "id": "https://vnexpress.net/lap-camera-noi-cong-cong-khong-canh-bao-co-the-bi-phat-20-trieu-dong-5114221.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Lắp camera nơi công cộng không cảnh báo có thể bị phạt 20 triệu đồng",
+    "description": "Tổ chức lắp camera, thiết bị ghi âm, ghi hình tại nơi công cộng hoặc khu vực phục vụ khách hàng nhưng không cảnh báo để mọi người biết có thể bị phạt tới 20 triệu đồng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/27/178782368436758033392396982906-8481-1847-1787823880.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=vtn7zWFnwoazoA8XtUhN3Q",
+    "link": "https://vnexpress.net/lap-camera-noi-cong-cong-khong-canh-bao-co-the-bi-phat-20-trieu-dong-5114221.html",
+    "published_at": "Fri, 28 Aug 2026 00:00:00 +0700",
+    "createAt": "2026-08-27T17:00:00.000Z",
+    "thumbnail_blurhash": "LAG92100?bIU~pRPt7M{IU%MM{%M"
+  },
+  {
+    "id": "https://vnexpress.net/khong-khi-lao-dong-kien-thiet-dat-nuoc-thap-nien-1950-1980-5113177.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Không khí lao động kiến thiết đất nước thập niên 1950-1980",
+    "description": "Cảnh người dân đắp đường tại chiến khu Việt Bắc năm 1954, người lao động trong lò than nhà máy điện Yên Phụ năm 1958 được tái hiện ở triển lãm \"Ký ức những năm tháng không quên\".",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/08/25/dao-duc-viet-bac-dap-duong-lua-1787646467.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=JdNsHRThgZXuBO5o9vps3Q",
+    "link": "https://vnexpress.net/khong-khi-lao-dong-kien-thiet-dat-nuoc-thap-nien-1950-1980-5113177.html",
+    "published_at": "Fri, 28 Aug 2026 00:00:00 +0700",
+    "createAt": "2026-08-27T17:00:00.000Z",
+    "thumbnail_blurhash": "LBD9eFRQRQ$~_KR+NHbH~TRlbFj["
+  },
+  {
+    "id": "https://vnexpress.net/dung-dau-gia-san-van-dong-long-an-5113821.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Dừng đấu giá sân vận động Long An",
+    "description": "Sân vận động từng là \"chảo lửa\" ở miền Tây sẽ không được đưa ra đấu giá hơn 1.800 tỷ đồng, thay vào đó nghiên cứu phương án sử dụng mới trong quy hoạch đô thị Tân An.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/27/wm1-wm1-dji-jpg-1787814681-6540-1787814754.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=gF9WoN35Lrb5rMWqrkCJDw",
+    "link": "https://vnexpress.net/dung-dau-gia-san-van-dong-long-an-5113821.html",
+    "published_at": "Fri, 28 Aug 2026 00:00:00 +0700",
+    "createAt": "2026-08-27T17:00:00.000Z",
+    "thumbnail_blurhash": "LCG[}~9bN#$+_NIAMxtQ-@%LotSw"
   }
 ]
