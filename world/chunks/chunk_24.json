@@ -492,5 +492,31 @@
     "published_at": "Fri, 28 Aug 2026 23:04:26 +0700",
     "createAt": "2026-08-28T16:04:26.000Z",
     "thumbnail_blurhash": "L9BN4maI9FxuTLI9D%tR.AIAIAxu"
+  },
+  {
+    "id": "https://vnexpress.net/viet-nam-duc-huong-toi-dat-kim-ngach-thuong-mai-20-ty-usd-5114769.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Việt Nam - Đức hướng tới đạt kim ngạch thương mại 20 tỷ USD",
+    "description": "Thủ tướng Lê Minh Hưng điện đàm với Thủ tướng Đức, đề nghị hai bên tạo thêm động lực cho quan hệ song phương và hướng tới kim ngạch thương mại 20 tỷ USD.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/28/thu-tuong-le-minh-hung-dien-da-8202-6551-1787934760.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=JrSwtz22fgl5cTnIDncEcQ",
+    "link": "https://vnexpress.net/viet-nam-duc-huong-toi-dat-kim-ngach-thuong-mai-20-ty-usd-5114769.html",
+    "published_at": "Sat, 29 Aug 2026 00:15:36 +0700",
+    "createAt": "2026-08-28T17:15:36.000Z",
+    "thumbnail_blurhash": "LBFXhz:NCO1%{2H^0}GG=Y?aI[Z~"
+  },
+  {
+    "id": "https://vnexpress.net/tuyen-huy-diet-cua-lu-quet-nepal-5114581.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Tuyến hủy diệt của lũ quét Nepal",
+    "description": "Sử dụng các video đã được chính quyền và các hãng thông tấn lớn xác minh cùng hình ảnh vệ tinh, BBC đã dựng lại video mô phỏng đường đi của lũ quét Nepal.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/28/default-1787908547-9167-1787908669.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=a3XHQ-2dBXSmPHWRtM42Tw",
+    "link": "https://vnexpress.net/tuyen-huy-diet-cua-lu-quet-nepal-5114581.html",
+    "published_at": "Sat, 29 Aug 2026 01:00:00 +0700",
+    "createAt": "2026-08-28T18:00:00.000Z",
+    "thumbnail_blurhash": "L48z_n~W00D*b_NHbJkA%Mxv%NWA"
   }
 ]
