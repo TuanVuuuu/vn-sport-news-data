@@ -1,3 +1,17 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/kho-hau-can-o-kiev-boc-chay-sau-khi-ukraine-tuyen-bo-ha-nhieu-ten-lua-nga-5114167.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Kho hậu cần ở Kiev bốc cháy sau khi Ukraine tuyên bố hạ nhiều tên lửa Nga",
+      "description": "Ukraine thông báo phòng không bắn hạ hơn 220 UAV, cùng nhiều tên lửa đạn đạo Iskander-M và tên lửa siêu thanh Oniks, song bỏ lọt một số mục tiêu.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/27/5563187178137269209b-178782035-3842-8712-1787827684.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=k4jAjdnHAJ4bpEA2suvlKw",
+      "link": "https://vnexpress.net/kho-hau-can-o-kiev-boc-chay-sau-khi-ukraine-tuyen-bo-ha-nhieu-ten-lua-nga-5114167.html",
+      "published_at": "Thu, 27 Aug 2026 18:28:31 +0700",
+      "createAt": "2026-08-27T11:28:31.000Z",
+      "thumbnail_blurhash": "LFDvfo~U000N~q%04o9bRiRjxuxt"
+    }
+  ]
 }
