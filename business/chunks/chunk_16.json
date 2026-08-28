@@ -167,5 +167,31 @@
     "published_at": "Sat, 29 Aug 2026 00:05:00 +0700",
     "createAt": "2026-08-28T17:05:00.000Z",
     "thumbnail_blurhash": "LrJtPO%2R.g4~VWURjso-=flofay"
+  },
+  {
+    "id": "https://vnexpress.net/lam-muoi-cua-ca-mau-doanh-thu-3-ty-dong-moi-nam-5112854.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Làm muối cua Cà Mau doanh thu 3 tỷ đồng mỗi năm",
+    "description": "Chị Nguyễn Thị Lan Hương, 32 tuổi, dùng cua nuôi tự nhiên làm muối cua bán hàng nghìn hộp mỗi năm, trong đó có sản phẩm xuất sang Mỹ, doanh thu khoảng 3 tỷ đồng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/24/wm1-wm1-muoi-cua-jpg-1787565452-1161-1787565475.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=fRgRuwHrwcat0NRhfp-oSA",
+    "link": "https://vnexpress.net/lam-muoi-cua-ca-mau-doanh-thu-3-ty-dong-moi-nam-5112854.html",
+    "published_at": "Sat, 29 Aug 2026 06:00:00 +0700",
+    "createAt": "2026-08-28T23:00:00.000Z",
+    "thumbnail_blurhash": "LEKvEbD7Ie=Gy=ADE0K5386{K3-5"
+  },
+  {
+    "id": "https://vnexpress.net/nho-mau-don-trung-quoc-tu-hang-cao-cap-con-vai-chuc-nghin-dong-5112800.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Nho mẫu đơn Trung Quốc từ hàng cao cấp còn vài chục nghìn đồng",
+    "description": "Nho mẫu đơn Trung Quốc, từng được bán như trái cây cao cấp, nay xuất hiện phổ biến tại chợ, siêu thị với giá chỉ vài chục nghìn đồng một kg.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/08/24/nho-1787559617-2747-1787561304.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=fFqiTgEc-ZpGeOsqbTAFHA",
+    "link": "https://vnexpress.net/nho-mau-don-trung-quoc-tu-hang-cao-cap-con-vai-chuc-nghin-dong-5112800.html",
+    "published_at": "Sat, 29 Aug 2026 06:00:00 +0700",
+    "createAt": "2026-08-28T23:00:00.000Z",
+    "thumbnail_blurhash": "LHF%9Y.SZs%Lk}o~%6a%,5tSNGV_"
   }
 ]
