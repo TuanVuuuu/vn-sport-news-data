@@ -427,5 +427,31 @@
     "published_at": "Fri, 28 Aug 2026 17:33:44 +0700",
     "createAt": "2026-08-28T10:33:44.000Z",
     "thumbnail_blurhash": "LSIq$q^Y5]1K|;whGGESO^NGoGxt"
+  },
+  {
+    "id": "https://vnexpress.net/10-gio-dong-lu-quet-xe-toac-vung-bien-gioi-nepal-5114350.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "10 giờ dòng lũ quét xé toạc vùng biên giới Nepal",
+    "description": "Khoảng 20 triệu khối nước từ Himalaya đã tràn vào hệ thống sông Nepal, tạo ra đợt lũ quét như sóng thần gây thiệt hại nghiêm trọng cho nước này.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/28/ap26238515301269-1787892153-4738-1787892599.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=jqjHScBOEcloPNuXkCTOqw",
+    "link": "https://vnexpress.net/10-gio-dong-lu-quet-xe-toac-vung-bien-gioi-nepal-5114350.html",
+    "published_at": "Fri, 28 Aug 2026 19:00:00 +0700",
+    "createAt": "2026-08-28T12:00:00.000Z",
+    "thumbnail_blurhash": "L5B4H_~U0xAU00outKNXY5I.#*$d"
+  },
+  {
+    "id": "https://vnexpress.net/kiev-bao-dong-khong-kich-nhieu-chua-tung-thay-tu-dau-xung-dot-5114620.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Kiev báo động không kích nhiều chưa từng thấy từ đầu xung đột",
+    "description": "Cảnh báo không kích được kích hoạt 13 lần trong một ngày ở thủ đô Kiev, mức cao nhất từ khi chiến sự bùng phát.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/28/Kiev-1787909938-8638-1787910341.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=44TJL5TaviQhqNbmtlc4ag",
+    "link": "https://vnexpress.net/kiev-bao-dong-khong-kich-nhieu-chua-tung-thay-tu-dau-xung-dot-5114620.html",
+    "published_at": "Fri, 28 Aug 2026 19:05:29 +0700",
+    "createAt": "2026-08-28T12:05:29.000Z",
+    "thumbnail_blurhash": "LTD,fxxus:t7?wxaoeWCIUs.R*R*"
   }
 ]
