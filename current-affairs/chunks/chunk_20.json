@@ -583,5 +583,44 @@
     "published_at": "Fri, 28 Aug 2026 16:48:54 +0700",
     "createAt": "2026-08-28T09:48:54.000Z",
     "thumbnail_blurhash": "L8CGoc_Naexu.R9Y9E-;000000?u"
+  },
+  {
+    "id": "https://vnexpress.net/dong-oto-ken-dac-quanh-tan-son-nhat-truoc-ky-nghi-2-9-5114667.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Dòng ôtô ken đặc quanh Tân Sơn Nhất trước kỳ nghỉ 2/9",
+    "description": "Người dân về quê, đi du lịch ra sân bay sớm khiến nhiều tuyến đường quanh Tân Sơn Nhất đông nghịt xe, gây ùn ứ trước kỳ nghỉ lễ Quốc khánh, chiều 28/8.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/28/tansonnhat-1787910083.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Lghq0cxdXbMTJsgkpLm2cQ",
+    "link": "https://vnexpress.net/dong-oto-ken-dac-quanh-tan-son-nhat-truoc-ky-nghi-2-9-5114667.html",
+    "published_at": "Fri, 28 Aug 2026 16:48:54 +0700",
+    "createAt": "2026-08-28T09:48:54.000Z",
+    "thumbnail_blurhash": "L8CGoc_Naexu.R9Y9E-;000000?u"
+  },
+  {
+    "id": "https://vnexpress.net/xe-nhich-tung-met-o-cua-ngo-ha-noi-tp-hcm-truoc-nghi-le-5114688.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Xe nhích từng mét ở cửa ngõ Hà Nội, TP HCM trước nghỉ lễ",
+    "description": "Dòng xe ùn ứ kéo dài nhiều km ở cửa ngõ Hà Nội, TP HCM trong ngày làm việc cuối, trước kỳ nghỉ lễ Quốc khánh, chiều 28/8.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/28/wm1-unu-1787914603.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=8AMi79TSYzdUG0Ycs5xdAA",
+    "link": "https://vnexpress.net/xe-nhich-tung-met-o-cua-ngo-ha-noi-tp-hcm-truoc-nghi-le-5114688.html",
+    "published_at": "Fri, 28 Aug 2026 17:58:34 +0700",
+    "createAt": "2026-08-28T10:58:34.000Z",
+    "thumbnail_blurhash": "LB9kB3-:x[tQ_4xvt7t8-;oeM_t8"
+  },
+  {
+    "id": "https://vnexpress.net/ha-noi-lam-cau-can-mo-rong-duong-ven-ho-tay-5114647.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Hà Nội làm cầu cạn mở rộng đường ven Hồ Tây",
+    "description": "Chiều 28/8, UBND TP Hà Nội tổ chức lễ khởi công, khánh thành 17 dự án, trong đó có cải tạo, phát huy giá trị khu vực Hồ Tây và tuyến đường giao thông cảnh quan ven hồ.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/28/ht1-1787916473-4603-1787916481.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=q4z1stpEOJ7Nq8zmmieLFQ",
+    "link": "https://vnexpress.net/ha-noi-lam-cau-can-mo-rong-duong-ven-ho-tay-5114647.html",
+    "published_at": "Fri, 28 Aug 2026 18:13:11 +0700",
+    "createAt": "2026-08-28T11:13:11.000Z",
+    "thumbnail_blurhash": "LcFPgMDhMwoJ%%ROV=WBRlxujrWB"
   }
 ]
