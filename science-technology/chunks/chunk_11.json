@@ -1103,5 +1103,44 @@
     "published_at": "Fri, 28 Aug 2026 07:00:00 +0700",
     "createAt": "2026-08-28T00:00:00.000Z",
     "thumbnail_blurhash": "LED1EFxvuj,;loW;MxWXDjS3XlSN"
+  },
+  {
+    "id": "https://vnexpress.net/giam-doc-honor-ai-khong-chi-danh-cho-smartphone-cao-cap-5113288.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Giám đốc Honor: 'AI không chỉ dành cho smartphone cao cấp'",
+    "description": "AI là tính năng nên có trên smartphone, nhưng cần đáp ứng đa dạng phân khúc thay vì chỉ trên thiết bị cao cấp, theo ông George Zheng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/25/dsc01447-jpg-1787650075-7850-1787650371.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=rEInNc-GwV6mQnZY4SczBQ",
+    "link": "https://vnexpress.net/giam-doc-honor-ai-khong-chi-danh-cho-smartphone-cao-cap-5113288.html",
+    "published_at": "Fri, 28 Aug 2026 09:00:00 +0700",
+    "createAt": "2026-08-28T02:00:00.000Z",
+    "thumbnail_blurhash": "LBB.$W9^00M{}PNGJra$ROslxvs:"
+  },
+  {
+    "id": "https://vnexpress.net/galaxy-s26-fe-nang-cap-camera-va-hau-ky-ai-theo-chuan-cao-cap-5114307.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Galaxy S26 FE nâng cấp camera và hậu kỳ AI theo chuẩn cao cấp",
+    "description": "Galaxy S26 FE trang bị loạt tính năng trên các dòng flagship như My FanCam, khóa đường chân trời, Photo Assist, hỗ trợ sáng tạo với hình ảnh, video.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/28/quay-1787876538-1972-1787876616.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=orr92ByRHM6rFqOBxQUHsQ",
+    "link": "https://vnexpress.net/galaxy-s26-fe-nang-cap-camera-va-hau-ky-ai-theo-chuan-cao-cap-5114307.html",
+    "published_at": "Fri, 28 Aug 2026 09:00:00 +0700",
+    "createAt": "2026-08-28T02:00:00.000Z",
+    "thumbnail_blurhash": "LV8rg[UHOSocXNkRS~k=Ojb.xsbX"
+  },
+  {
+    "id": "https://vnexpress.net/bill-gates-keu-goi-de-danh-cong-viec-cho-con-nguoi-thoi-ai-5114268.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Bill Gates kêu gọi 'để dành' công việc cho con người thời AI",
+    "description": "Bill Gates cảnh báo AI có thể mang đến nhiều rủi ro, chẳng hạn tăng tình trạng thất nghiệp, đề xuất bảo tồn một số công việc cho con người.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/27/afp20260419aa190420262745190v1-6568-5933-1787835289.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=EDoelerMZn8lqbrAdpyT2A",
+    "link": "https://vnexpress.net/bill-gates-keu-goi-de-danh-cong-viec-cho-con-nguoi-thoi-ai-5114268.html",
+    "published_at": "Fri, 28 Aug 2026 09:28:02 +0700",
+    "createAt": "2026-08-28T02:28:02.000Z",
+    "thumbnail_blurhash": "LLA,z~ImS+tT-@t7IUR+adj]V?Ri"
   }
 ]
