@@ -323,5 +323,31 @@
     "published_at": "Fri, 28 Aug 2026 08:00:00 +0700",
     "createAt": "2026-08-28T01:00:00.000Z",
     "thumbnail_blurhash": "LpHnENS$RjRP~CozWBRjtRxtayWA"
+  },
+  {
+    "id": "https://vnexpress.net/thu-thach-iq-di-chuyen-3-que-diem-de-tao-4-hinh-tam-giac-5112079.html",
+    "category_id": "relax",
+    "category_name": "Thư giãn",
+    "source": "VnExpress",
+    "title": "Di chuyển 3 que diêm nào để tạo 4 hình tam giác?",
+    "description": "Nhìn qua chỉ là 3 hình tam giác nối liền, nhưng làm sao tạo thành 4 hình bằng nhau chỉ với 3 lần di chuyển? Thử trí thông minh ngay!",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/24/document-1787536528-3511-1787536864.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=q3w5ZhoJeMFLWtkFWZ8S4A",
+    "link": "https://vnexpress.net/thu-thach-iq-di-chuyen-3-que-diem-de-tao-4-hinh-tam-giac-5112079.html",
+    "published_at": "Fri, 28 Aug 2026 08:43:05 +0700",
+    "createAt": "2026-08-28T01:43:05.000Z",
+    "thumbnail_blurhash": "LC6]3{oij]oi%jj@fPflEXa#axa#"
+  },
+  {
+    "id": "https://vnexpress.net/bi-mat-cao-thu-vo-lam-lam-sao-nhan-biet-co-sat-khi-5113669.html",
+    "category_id": "relax",
+    "category_name": "Thư giãn",
+    "source": "VnExpress",
+    "title": "Bí mật cao thủ võ lâm: Làm sao nhận biết có sát khí?",
+    "description": "Trong các bộ phim kiếm hiệp, các cao thủ luôn phát hiện ra kẻ thù phục kích dù chưa nhìn thấy mặt. Bí mật thực sự đằng sau là gì?",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/26/gemini-generated-imagewxd588wx-5159-7273-1787732339.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=E2OvKLGzl7JBltDecgvATg",
+    "link": "https://vnexpress.net/bi-mat-cao-thu-vo-lam-lam-sao-nhan-biet-co-sat-khi-5113669.html",
+    "published_at": "Fri, 28 Aug 2026 09:34:59 +0700",
+    "createAt": "2026-08-28T02:34:59.000Z",
+    "thumbnail_blurhash": "LUG[vD0L01~V-:SNRPt7IptRM{s."
   }
 ]

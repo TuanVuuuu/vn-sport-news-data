@@ -1259,5 +1259,31 @@
     "published_at": "Fri, 28 Aug 2026 07:00:00 +0700",
     "createAt": "2026-08-28T00:00:00.000Z",
     "thumbnail_blurhash": "LGIq_h^l00-A-aE1NFIo0KEIwPIp"
+  },
+  {
+    "id": "https://vnexpress.net/bon-mua-dep-nhu-tranh-o-co-do-nhat-ban-5113802.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Bốn mùa 'đẹp như tranh' ở cố đô Nhật Bản",
+    "description": "Qua ống kinh của Minh Vương, người Việt sống ở Kyoto, bốn mùa ở cố đô Nhật có những khoảnh khắc mà du khách thoáng qua khó có thể thấy.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/08/28/nhatban-1787886875.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=GvWiRzBqqvKbzArSnV9rNQ",
+    "link": "https://vnexpress.net/bon-mua-dep-nhu-tranh-o-co-do-nhat-ban-5113802.html",
+    "published_at": "Fri, 28 Aug 2026 09:00:00 +0700",
+    "createAt": "2026-08-28T02:00:00.000Z",
+    "thumbnail_blurhash": "LIG]W~?u01Dj*GSwMyt7_3aLITNF"
+  },
+  {
+    "id": "https://vnexpress.net/thai-lan-thay-doi-de-keo-khach-viet-quay-lai-5114305.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Thái Lan thay đổi để kéo khách Việt quay lại",
+    "description": "Thái Lan đang mở rộng sản phẩm, đường bay và nhóm khách mục tiêu tại Việt Nam, trong bối cảnh lượng khách Việt đến nước này giảm 21% nửa đầu năm.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/08/28/tta06817-jpg-1787886525-8731-1787886565.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=oC6NscTJxLYIX0MvibltJA",
+    "link": "https://vnexpress.net/thai-lan-thay-doi-de-keo-khach-viet-quay-lai-5114305.html",
+    "published_at": "Fri, 28 Aug 2026 10:15:29 +0700",
+    "createAt": "2026-08-28T03:15:29.000Z",
+    "thumbnail_blurhash": "LLG*A:-pJCx]~9s;bdkC$eM|Rlod"
   }
 ]
