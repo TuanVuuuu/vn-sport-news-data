@@ -609,5 +609,44 @@
     "published_at": "Fri, 28 Aug 2026 15:23:14 +0700",
     "createAt": "2026-08-28T08:23:14.000Z",
     "thumbnail_blurhash": "LQF7S2%%WoI9yYoyxZogICaJj[M}"
+  },
+  {
+    "id": "https://vnexpress.net/loi-ich-cua-vitamin-a-voi-mat-5114390.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Lợi ích của vitamin A với mắt",
+    "description": "Vitamin A giúp duy trì thị lực, hỗ trợ võng mạc hoạt động bình thường, tăng khả năng nhìn trong ánh sáng yếu và giữ giác mạc khỏe mạnh.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/28/ca-rot1-1787882697-8320-1787882710.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=Fg3ADF9UOA32kANYg4jFCg",
+    "link": "https://vnexpress.net/loi-ich-cua-vitamin-a-voi-mat-5114390.html",
+    "published_at": "Fri, 28 Aug 2026 02:00:00 +0700",
+    "createAt": "2026-08-27T19:00:00.000Z",
+    "thumbnail_blurhash": "LRKT}2=H%%0|^k%NOUOqx]S~Ri$*"
+  },
+  {
+    "id": "https://vnexpress.net/an-uong-the-nao-de-da-khoe-dep-5114505.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Ăn uống thế nào để da khỏe đẹp",
+    "description": "Chế độ ăn đa dạng, giàu vitamin, chất chống oxy hóa, omega-3, protein và uống đủ nước có thể hỗ trợ da duy trì độ ẩm, hạn chế tác động của quá trình lão hóa.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/28/img-1787890802-6148-1787890858.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=FFivz96UbKUWSBm4YlsRqw",
+    "link": "https://vnexpress.net/an-uong-the-nao-de-da-khoe-dep-5114505.html",
+    "published_at": "Fri, 28 Aug 2026 16:00:00 +0700",
+    "createAt": "2026-08-28T09:00:00.000Z",
+    "thumbnail_blurhash": "LjJtbY?]X9v|%dxVxZoyVtRiX5xF"
+  },
+  {
+    "id": "https://vnexpress.net/cach-nu-nghe-si-42-tuoi-giam-19-kg-khong-can-nhin-an-5114448.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Cách nữ nghệ sĩ 42 tuổi giảm 19 kg không cần nhịn ăn",
+    "description": "Nghệ sĩ Fu Shouer, 42 tuổi, gây chú ý khi giảm 19 kg sau hai năm nhờ kiên trì ăn uống khoa học và tập luyện đều đặn.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/08/28/screenshot-at-1787888655-3307-1787888692.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=2Bq2wjXk-d9rChdun4kc4w",
+    "link": "https://vnexpress.net/cach-nu-nghe-si-42-tuoi-giam-19-kg-khong-can-nhin-an-5114448.html",
+    "published_at": "Fri, 28 Aug 2026 17:00:00 +0700",
+    "createAt": "2026-08-28T10:00:00.000Z",
+    "thumbnail_blurhash": "LOCG}.NgKRVXu6xtn$xtkWn#s8og"
   }
 ]
