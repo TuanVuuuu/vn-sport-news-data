@@ -375,5 +375,31 @@
     "published_at": "Thu, 27 Aug 2026 18:28:31 +0700",
     "createAt": "2026-08-27T11:28:31.000Z",
     "thumbnail_blurhash": "LFDvfo~U000N~q%04o9bRiRjxuxt"
+  },
+  {
+    "id": "https://vnexpress.net/nhieu-diem-du-lich-mien-trung-kin-phong-dip-le-2-9-5114191.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Nhiều điểm du lịch miền Trung kín phòng dịp lễ 2/9",
+    "description": "Nhiều cơ sở lưu trú tại Huế, Đà Nẵng, Măng Đen đã sớm báo hết phòng cho kỳ nghỉ 2/9, trong khi du khách đi các tuyến biển đảo như Phú Quý có xu hướng đặt chỗ giờ chót.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/08/27/738261706-1787820578-3600-1787821781.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=5ykCo07hWQysM9jZN1Jjyg",
+    "link": "https://vnexpress.net/nhieu-diem-du-lich-mien-trung-kin-phong-dip-le-2-9-5114191.html",
+    "published_at": "Fri, 28 Aug 2026 07:00:00 +0700",
+    "createAt": "2026-08-28T00:00:00.000Z",
+    "thumbnail_blurhash": "LGI#fH^l00-A-aE1NFIo0KEIwPEM"
+  },
+  {
+    "id": "https://vnexpress.net/startup-trung-quoc-xac-nhan-dung-sau-mo-hinh-ai-bi-an-5114206.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Startup Trung Quốc xác nhận đứng sau mô hình AI bí ẩn",
+    "description": "Startup Z.ai cho biết họ là nhà phát triển Ox Alpha, mô hình trọng số mở đang gây xôn xao nhờ hiệu năng tốt và cho phép dùng miễn phí một tuần.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/27/5mjxvremrzd2te3keic3qmtyrm1786-3648-9774-1787822497.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=AYXxSdidmAQcGT9q4iyoFQ",
+    "link": "https://vnexpress.net/startup-trung-quoc-xac-nhan-dung-sau-mo-hinh-ai-bi-an-5114206.html",
+    "published_at": "Fri, 28 Aug 2026 07:00:00 +0700",
+    "createAt": "2026-08-28T00:00:00.000Z",
+    "thumbnail_blurhash": "LED1EFxvuj,;loW;MxWXDjS3XlSN"
   }
 ]
