@@ -635,5 +635,31 @@
     "published_at": "Fri, 28 Aug 2026 14:00:00 +0700",
     "createAt": "2026-08-28T07:00:00.000Z",
     "thumbnail_blurhash": "LrK1?%xuRPWB~qxuWBWUjuj[Rjay"
+  },
+  {
+    "id": "https://vnexpress.net/corolla-cross-hev-dan-dau-mang-xe-toyota-hybrid-o-viet-nam-5105780.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Corolla Cross HEV dẫn đầu mảng xe Toyota hybrid ở Việt Nam",
+    "description": "Doanh số phiên bản hybrid chiếm 75% tổng lượng bán ra của Corolla Cross, giúp dòng xe xăng lai điện của Toyota tăng doanh số gấp đôi cùng kỳ năm ngoái, trong nửa đầu 2026.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/28/settop-1787896882-6052-1787900600.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=9JkhvQZPJPrsNxMeuzzAaA",
+    "link": "https://vnexpress.net/corolla-cross-hev-dan-dau-mang-xe-toyota-hybrid-o-viet-nam-5105780.html",
+    "published_at": "Fri, 28 Aug 2026 15:00:00 +0700",
+    "createAt": "2026-08-28T08:00:00.000Z",
+    "thumbnail_blurhash": "LiG+%X4oxaR+~qM|RPj?%fW=bHf7"
+  },
+  {
+    "id": "https://vnexpress.net/nu-biker-lai-moto-hon-200-km-h-mot-tay-dung-dien-thoai-5114128.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Nữ biker lái môtô hơn 200 km/h, một tay dùng điện thoại",
+    "description": "Tay lái nữ điều khiển xe Ducati chạy tốc độ cao, một tay cầm điện thoại quay video chiếc Porsche chạy cùng chiều.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/27/Biker1-1787816407-2364-1787816414.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=BX0-dnOkAHM15mrukj_ciA",
+    "link": "https://vnexpress.net/nu-biker-lai-moto-hon-200-km-h-mot-tay-dung-dien-thoai-5114128.html",
+    "published_at": "Fri, 28 Aug 2026 15:40:45 +0700",
+    "createAt": "2026-08-28T08:40:45.000Z",
+    "thumbnail_blurhash": "LEAn1a%$XSt8%%XTV@V@X:tSVsM_"
   }
 ]
