@@ -856,5 +856,31 @@
     "published_at": "Fri, 28 Aug 2026 20:05:50 +0700",
     "createAt": "2026-08-28T13:05:50.000Z",
     "thumbnail_blurhash": "LsKBRD-;D%M{~q%Mxat7-;j[jst7"
+  },
+  {
+    "id": "https://vnexpress.net/chu-nha-xe-giau-xac-ho-tren-noc-oto-khach-5114761.html",
+    "category_id": "law",
+    "category_name": "Pháp luật",
+    "source": "VnExpress",
+    "title": "Chủ nhà xe giấu xác hổ trên nóc ôtô khách",
+    "description": "Ngô Sỹ Sáu vận chuyển thuê xác hổ từ Lào về Việt Nam với tiền công 80 triệu đồng, chỉ đạo nhân viên cất giấu vào khoang bí mật trên nóc xe khách.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/28/giau-xac-ho-1787929643-3613-1787929690.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=jSkyRT82iZWE-xED1YOd6A",
+    "link": "https://vnexpress.net/chu-nha-xe-giau-xac-ho-tren-noc-oto-khach-5114761.html",
+    "published_at": "Sat, 29 Aug 2026 00:00:00 +0700",
+    "createAt": "2026-08-28T17:00:00.000Z",
+    "thumbnail_blurhash": "LDE_]g~X-=_25Bkr-;xw^+-;x^tQ"
+  },
+  {
+    "id": "https://vnexpress.net/gia-nguoi-cham-benh-nhan-trom-20-dien-thoai-5114583.html",
+    "category_id": "law",
+    "category_name": "Pháp luật",
+    "source": "VnExpress",
+    "title": "Giả người chăm bệnh nhân, trộm 20 điện thoại",
+    "description": "Hồ Lê Phát, 37 tuổi, mang theo chiếu, khăn tắm đóng giả người chăm bệnh nhân, trà trộn vào bệnh viện trộm gần 20 điện thoại di động.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/28/z8202615220532dfbc5ec991681d12-4361-2202-1787903669.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=djXs1veVGH2ehoe6A8ZUwA",
+    "link": "https://vnexpress.net/gia-nguoi-cham-benh-nhan-trom-20-dien-thoai-5114583.html",
+    "published_at": "Sat, 29 Aug 2026 00:00:00 +0700",
+    "createAt": "2026-08-28T17:00:00.000Z",
+    "thumbnail_blurhash": "LYI5D5-UxF-p?^M{NGogI;aJbIbc"
   }
 ]
