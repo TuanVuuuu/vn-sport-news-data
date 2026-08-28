@@ -76,5 +76,70 @@
     "published_at": "Fri, 28 Aug 2026 05:00:00 +0700",
     "createAt": "2026-08-27T22:00:00.000Z",
     "thumbnail_blurhash": "LdJH]ut8ogoI?wofWAbIRjayV@of"
+  },
+  {
+    "id": "https://vnexpress.net/kho-hau-can-o-kiev-boc-chay-sau-khi-ukraine-tuyen-bo-ha-nhieu-ten-lua-nga-5114167.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Kho hậu cần ở Kiev bốc cháy sau khi Ukraine tuyên bố hạ nhiều tên lửa Nga",
+    "description": "Ukraine thông báo phòng không bắn hạ hơn 220 UAV, cùng nhiều tên lửa đạn đạo Iskander-M và tên lửa siêu thanh Oniks, song bỏ lọt một số mục tiêu.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/27/5563187178137269209b-178782035-3842-8712-1787827684.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=k4jAjdnHAJ4bpEA2suvlKw",
+    "link": "https://vnexpress.net/kho-hau-can-o-kiev-boc-chay-sau-khi-ukraine-tuyen-bo-ha-nhieu-ten-lua-nga-5114167.html",
+    "published_at": "Thu, 27 Aug 2026 18:28:31 +0700",
+    "createAt": "2026-08-27T11:28:31.000Z",
+    "thumbnail_blurhash": "LFDvfo~U000N~q%04o9bRiRjxuxt"
+  },
+  {
+    "id": "https://vnexpress.net/quan-chuc-eu-noi-khong-co-dau-hieu-nga-sap-tan-cong-nato-5114319.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Quan chức EU nói 'không có dấu hiệu' Nga sắp tấn công NATO",
+    "description": "Quan chức cấp cao EU nói rằng tình báo châu Âu không phát hiện dấu hiệu nào cho thấy Nga lên kế hoạch tấn công các nước thành viên NATO.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/28/5563187178137269475a-178785453-7864-2902-1787854542.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=p2-on_tOELdJMsQ4c4BmqA",
+    "link": "https://vnexpress.net/quan-chuc-eu-noi-khong-co-dau-hieu-nga-sap-tan-cong-nato-5114319.html",
+    "published_at": "Fri, 28 Aug 2026 06:50:26 +0700",
+    "createAt": "2026-08-27T23:50:26.000Z",
+    "thumbnail_blurhash": "L48EF_t6-oof_M%3MzawxTj^o3ax"
+  },
+  {
+    "id": "https://vnexpress.net/ong-trump-doi-ten-ho-ontario-thanh-ho-my-5114326.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Ông Trump đổi tên hồ Ontario thành 'hồ Mỹ'",
+    "description": "Tổng thống Trump ký sắc lệnh đổi tên hồ Ontario nằm giữa Mỹ và Canada thành \"hồ Mỹ\", động thái bị nước láng giềng phản đối.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/28/Trump-1787873522-3961-1787873782.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=kj_BJEldcya5VS0QbQC19g",
+    "link": "https://vnexpress.net/ong-trump-doi-ten-ho-ontario-thanh-ho-my-5114326.html",
+    "published_at": "Fri, 28 Aug 2026 06:57:48 +0700",
+    "createAt": "2026-08-27T23:57:48.000Z",
+    "thumbnail_blurhash": "LDFPQo8_004n_NW9sqxu00?vXAxb"
+  },
+  {
+    "id": "https://vnexpress.net/trieu-tien-doa-tra-dua-manh-tay-vi-my-duyet-ban-ten-lua-cho-han-quoc-5114245.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Triều Tiên dọa trả đũa mạnh tay vì Mỹ duyệt bán tên lửa cho Hàn Quốc",
+    "description": "Triều Tiên lên án Mỹ duyệt bán lô tên lửa đối không AIM-9X cho Hàn Quốc, cảnh báo sẽ đáp trả mạnh mẽ động thái này.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/27/5563187178137269471a-178782812-1782-5785-1787828151.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=BbMw38kzMIgcS8z7f63MAA",
+    "link": "https://vnexpress.net/trieu-tien-doa-tra-dua-manh-tay-vi-my-duyet-ban-ten-lua-cho-han-quoc-5114245.html",
+    "published_at": "Fri, 28 Aug 2026 07:21:29 +0700",
+    "createAt": "2026-08-28T00:21:29.000Z",
+    "thumbnail_blurhash": "LaKK=[_N%M%M00%g%MoyofV@t7WB"
+  },
+  {
+    "id": "https://vnexpress.net/tong-thong-my-nga-se-khong-tan-cong-lanh-tho-nato-5114328.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Tổng thống Mỹ: Nga sẽ không tấn công lãnh thổ NATO",
+    "description": "Tổng thống Trump tuyên bố Nga sẽ không tấn công lãnh thổ NATO, sau khi có thông tin rằng Washington đã cảnh báo Moskva về ý định này.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/28/DonaldTrump-1787876769-5397-1787877179.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=Wy9dXPrLAoOm5OrEiUViUQ",
+    "link": "https://vnexpress.net/tong-thong-my-nga-se-khong-tan-cong-lanh-tho-nato-5114328.html",
+    "published_at": "Fri, 28 Aug 2026 07:50:06 +0700",
+    "createAt": "2026-08-28T00:50:06.000Z",
+    "thumbnail_blurhash": "LdIN?cmkxW-o~VIAIVtRx[SxNGtQ"
   }
 ]
