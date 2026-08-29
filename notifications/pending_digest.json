@@ -1,3 +1,147 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/chang-trai-nhat-moi-thang-bay-sang-mot-lan-de-cua-co-gai-viet-5111515.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Chàng trai Nhật mỗi tháng bay sang một lần để 'cưa'cô gái Việt",
+      "description": "Cảm mến cô chủ quán ăn ở TP HCM, trong suốt gần một năm, Hiroshi mua vé máy bay sang Việt Nam mỗi tháng để theo đuổi và cầu hôn.",
+      "thumbnail_url": "https://vcdn1-giadinh.vnecdn.net/2026/08/22/640391745-n-1787408112-7689-1787408554.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=hUnCdiq3-SDwhzF97j7z2g",
+      "link": "https://vnexpress.net/chang-trai-nhat-moi-thang-bay-sang-mot-lan-de-cua-co-gai-viet-5111515.html",
+      "published_at": "Sat, 29 Aug 2026 06:00:00 +0700",
+      "createAt": "2026-08-28T23:00:00.000Z",
+      "thumbnail_blurhash": "LEFOfd4T00_N0J.8ogD%0dxt?HIU"
+    },
+    {
+      "id": "https://vnexpress.net/cong-bo-tiet-lo-doi-tu-cua-tre-trai-quy-dinh-co-the-bi-phat-100-trieu-dong-5114133.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Công bố, tiết lộ đời tư của trẻ trái quy định có thể bị phạt 100 triệu đồng",
+      "description": "Tổ chức xử lý dữ liệu của trẻ từ đủ 7 tuổi để công bố, tiết lộ đời tư, bí mật cá nhân khi thiếu đồng thời sự đồng ý của trẻ và người đại diện có thể bị phạt 100 triệu đồng.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/27/178781674156758033392396982906-6679-3405-1787816902.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=wNZNL00KEjoWZyI-BrTLdw",
+      "link": "https://vnexpress.net/cong-bo-tiet-lo-doi-tu-cua-tre-trai-quy-dinh-co-the-bi-phat-100-trieu-dong-5114133.html",
+      "published_at": "Sat, 29 Aug 2026 06:00:00 +0700",
+      "createAt": "2026-08-28T23:00:00.000Z",
+      "thumbnail_blurhash": "LcIzn?~BIUxCt7xuM{RjRjMxM|g3"
+    },
+    {
+      "id": "https://vnexpress.net/chang-trai-bat-ngo-do-thu-khoa-bac-si-noi-tru-rang-ham-mat-5114462.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Chàng trai 'bất ngờ' đỗ thủ khoa bác sĩ nội trú Răng Hàm Mặt",
+      "description": "Nhận bằng khá ngành Răng Hàm Mặt của Đại học Y Hà Nội, Phạm Quang Minh không ngờ mình trở thành thủ khoa thi bác sĩ nội trú.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/29/wm1-wm1-2aoboqtwpxkj4wi4odzmq6lqfn-5353-4796-1787941711.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=vxvLWjp5coQUaZE9DoKeOg",
+      "link": "https://vnexpress.net/chang-trai-bat-ngo-do-thu-khoa-bac-si-noi-tru-rang-ham-mat-5114462.html",
+      "published_at": "Sat, 29 Aug 2026 06:05:35 +0700",
+      "createAt": "2026-08-28T23:05:35.000Z",
+      "thumbnail_blurhash": "LLG9gDxb00t600nl_4xu%$V]iwxt"
+    },
+    {
+      "id": "https://vnexpress.net/dolly-parton-con-mai-loi-yeu-5113642.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Dolly Parton: Còn mãi lời yêu",
+      "description": "Dolly Parton viết \"I Will Always Love You\" để chia tay người thầy, hơn nửa thế kỷ sau, ca khúc là lời tiễn biệt của triệu khán giả dành cho bà.",
+      "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/08/26/cha-n-dung-huye-n-thoa-i-dolly-8444-6566-1787756278.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=HoyNgubLnBbms08S3HZuHg",
+      "link": "https://vnexpress.net/dolly-parton-con-mai-loi-yeu-5113642.html",
+      "published_at": "Sat, 29 Aug 2026 06:10:10 +0700",
+      "createAt": "2026-08-28T23:10:10.000Z",
+      "thumbnail_blurhash": "L7LXC_0000?w00.700^,%~%g}[DO"
+    },
+    {
+      "id": "https://vnexpress.net/ronaldo-giup-al-nassr-giu-mach-toan-thang-5114791.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Ronaldo giúp Al Nassr giữ mạch toàn thắng",
+      "description": "Tiền đạo Cristiano Ronaldo đá nối cận thành, giúp Al Nassr thắng Al Taawon 2-1 ở vòng bốn và giữ đỉnh bảng Saudi Pro League với 12 điểm.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/08/29/ronaldo-jpeg-1787959065-8380-1787959259.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=U3ZMsq6nnnE0xfqAxFdpQA",
+      "link": "https://vnexpress.net/ronaldo-giup-al-nassr-giu-mach-toan-thang-5114791.html",
+      "published_at": "Sat, 29 Aug 2026 06:22:25 +0700",
+      "createAt": "2026-08-28T23:22:25.000Z",
+      "thumbnail_blurhash": "L49[O]t%9d1j4lMMxYr_06RN${?T"
+    },
+    {
+      "id": "https://vnexpress.net/trung-quoc-muon-xay-nha-may-ai-tai-viet-nam-5114619.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Trung Quốc muốn xây 'nhà máy AI' tại Việt Nam",
+      "description": "Doanh nghiệp Trung Quốc đề xuất hợp tác với Việt Nam về trung tâm dữ liệu, hạ tầng tính toán, cũng như các ứng dụng, kịch bản sử dụng AI.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/28/tq-1787909270-7036-1787909306.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=OXeUsl8-7ieOgvpHI6Xudw",
+      "link": "https://vnexpress.net/trung-quoc-muon-xay-nha-may-ai-tai-viet-nam-5114619.html",
+      "published_at": "Sat, 29 Aug 2026 07:00:00 +0700",
+      "createAt": "2026-08-29T00:00:00.000Z",
+      "thumbnail_blurhash": "LEBE2yir4TNi00oyS2V@}{XCx]nz"
+    },
+    {
+      "id": "https://vnexpress.net/buc-xuc-vi-nguoi-ngoai-dung-ke-tien-ich-chung-cu-5107353.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Bức xúc vì người ngoài dùng ké tiện ích chung cư",
+      "description": "Nhiều cư dân ở các chung cư mở tại TP HCM bức xúc vì người ngoài tự do tràn vào sử dụng tiện ích, gây quá tải và mất an ninh.",
+      "thumbnail_url": "https://vcdn1-giadinh.vnecdn.net/2026/08/11/4009481c-b21bde8b49cfc5d40d2-j-5233-9860-1786434682.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=QoFsKVmngpERoOEaCP0bsg",
+      "link": "https://vnexpress.net/buc-xuc-vi-nguoi-ngoai-dung-ke-tien-ich-chung-cu-5107353.html",
+      "published_at": "Sat, 29 Aug 2026 07:00:00 +0700",
+      "createAt": "2026-08-29T00:00:00.000Z",
+      "thumbnail_blurhash": "LKDv}z%N8|.7_NoyMx%MIpWAs.t8"
+    },
+    {
+      "id": "https://vnexpress.net/hai-doi-hoa-mua-tim-hut-khach-o-quang-ngai-5114469.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Hai đồi hoa mua tím hút khách ở Quảng Ngãi",
+      "description": "Cuối tháng 8, hàng nghìn cây hoa mua ở đồi chè Đông Trường Sơn và Đồi Tiên Nhân ở Măng Đen khoe sắc tím, hút nhiều du khách chụp ảnh.",
+      "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/08/28/wm1-11-1787888104-1787888201.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=SYV2qcdUv1pch8P6jVOd2w",
+      "link": "https://vnexpress.net/hai-doi-hoa-mua-tim-hut-khach-o-quang-ngai-5114469.html",
+      "published_at": "Sat, 29 Aug 2026 07:00:00 +0700",
+      "createAt": "2026-08-29T00:00:00.000Z",
+      "thumbnail_blurhash": "LUHMD4WCf#ov~qR*R*oe^-bFain,"
+    },
+    {
+      "id": "https://vnexpress.net/hlv-kim-sang-sik-khong-du-asiad-20-5114788.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "HLV Kim Sang-sik không dự ASIAD 20",
+      "description": "HLV Kim Sang-sik sẽ tập trung dẫn dắt đội tuyển Việt Nam đấu FIFA ASEAN Cup 2026, nên không nắm đội Olympic dự ASIAD 20 cùng thời gian.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/08/29/dong-vd12-1787941616-4032-1787941626.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=kwx8FqcHLPA9BmFNkL8BAw",
+      "link": "https://vnexpress.net/hlv-kim-sang-sik-khong-du-asiad-20-5114788.html",
+      "published_at": "Sat, 29 Aug 2026 07:17:46 +0700",
+      "createAt": "2026-08-29T00:17:46.000Z",
+      "thumbnail_blurhash": "LABf%@^-J3z;pK_KML9Y57IXt79b"
+    },
+    {
+      "id": "https://vnexpress.net/so-nguoi-chet-trong-lu-quet-nepal-tang-len-gan-600-5114798.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Số người chết trong lũ quét Nepal tăng lên gần 600",
+      "description": "584 người đã thiệt mạng tại Nepal và Trung Quốc sau trận lũ quét thảm khốc, trong khi số người mất tích tăng lên hơn 2.400.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/08/29/afp-c6l699e-v1-highres-nepalwe-9156-7938-1787962655.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=obOTmLv2gXLokCnOXki4zg",
+      "link": "https://vnexpress.net/so-nguoi-chet-trong-lu-quet-nepal-tang-len-gan-600-5114798.html",
+      "published_at": "Sat, 29 Aug 2026 07:24:28 +0700",
+      "createAt": "2026-08-29T00:24:28.000Z",
+      "thumbnail_blurhash": "L37_7u4Tn{ks9ZxbITbc00?wxwsi"
+    },
+    {
+      "id": "https://vnexpress.net/bao-thai-lan-khong-the-trach-viet-nam-viec-nhap-tich-cau-thu-5114771.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Báo Thái Lan: 'Không thể trách Việt Nam việc nhập tịch cầu thủ'",
+      "description": "Trong bài viết của chuyên gia Bee Bangpakong trên Thairath, đội tuyển Việt Nam đã có chiến lược rõ ràng khi nhập tịch cầu thủ nước ngoài, để gặt hái thành quả như hai chức vô địch ASEAN Cup liên tiếp.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/08/28/1787795387935e16268743d5e6818b-6201-3434-1787933114.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=MddW4ocb7_wMiLW6wBGITQ",
+      "link": "https://vnexpress.net/bao-thai-lan-khong-the-trach-viet-nam-viec-nhap-tich-cau-thu-5114771.html",
+      "published_at": "Sat, 29 Aug 2026 07:42:42 +0700",
+      "createAt": "2026-08-29T00:42:42.000Z",
+      "thumbnail_blurhash": "LtHV9+%2RlS%ysX8NHR-RQs9V?aJ"
+    }
+  ]
 }
