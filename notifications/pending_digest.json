@@ -1,3 +1,56 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/co-gai-nhat-ban-giam-tu-102-kg-xuong-59-kg-khong-can-an-kieng-khac-kho-5123579.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Cô gái Nhật Bản giảm từ 102 kg xuống 59 kg không cần ăn kiêng khắc khổ",
+      "description": "Từng chạm mốc 102,6 kg cùng bệnh gan nhiễm mỡ, cô gái 27 tuổi đã trút bỏ 43 kg thành công nhờ điều chỉnh tỷ lệ chất đạm, chất béo và carbohydrate kết hợp bài tập kháng lực suốt một năm.",
+      "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/09/23/31-1790132093-5501-1790132879.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=BaHqKn1At08u4LesVfN-0Q",
+      "link": "https://vnexpress.net/co-gai-nhat-ban-giam-tu-102-kg-xuong-59-kg-khong-can-an-kieng-khac-kho-5123579.html",
+      "published_at": "Thu, 24 Sep 2026 05:00:00 +0700",
+      "createAt": "2026-09-23T22:00:00.000Z",
+      "thumbnail_blurhash": "LPJHw5Di%M.8~qIAV@%MI@IURjt7"
+    },
+    {
+      "id": "https://vnexpress.net/de-xuat-bo-18-thu-tuc-ve-so-huu-tri-tue-5124053.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Đề xuất bỏ 18 thủ tục về sở hữu trí tuệ",
+      "description": "Chính phủ đề xuất bãi bỏ 18 thủ tục hành chính, cắt giảm 5 điều kiện kinh doanh về giám định và chuyển nhượng quyền sở hữu trí tuệ.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/09/24/202609240845405252-z8298073742-4065-5361-1790216066.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=i00HFOdxzybIMlZUqN_vQw",
+      "link": "https://vnexpress.net/de-xuat-bo-18-thu-tuc-ve-so-huu-tri-tue-5124053.html",
+      "published_at": "Thu, 24 Sep 2026 10:30:22 +0700",
+      "createAt": "2026-09-24T03:30:22.000Z",
+      "thumbnail_blurhash": "LJKUZn*0ZgKku4t-m+J60MD*V?yE"
+    },
+    {
+      "id": "https://vnexpress.net/fifa-asean-cup-2026-khoi-tranh-hom-nay-5124184.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "FIFA ASEAN Cup 2026 khởi tranh hôm nay",
+      "description": "Giải vô địch Đông Nam Á lần đầu tiên do FIFA tổ chức sẽ bắt đầu bằng hai trận ra quân ở hạng Nhì diễn ra tại Hong Kong chiều 24/9.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/09/24/screenshot-at-1790224763-8073-1790224884.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=dpCJNWtQMH_bxEgqx2zphg",
+      "link": "https://vnexpress.net/fifa-asean-cup-2026-khoi-tranh-hom-nay-5124184.html",
+      "published_at": "Thu, 24 Sep 2026 12:00:07 +0700",
+      "createAt": "2026-09-24T05:00:07.000Z",
+      "thumbnail_blurhash": "L39jTAv{00PEpdxvMcI90NS%~ArV"
+    },
+    {
+      "id": "https://vnexpress.net/hoang-nato-khai-su-dung-ma-tuy-voi-tiktoker-phannhibeauty-cho-vui-5124177.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Hoàng Nato khai sử dụng ma túy với TikToker Phannhibeauty 'cho vui'",
+      "description": "Giang hồ Hoàng Nato khai cùng hút pod chill với bạn gái Phan Kim Nhi, tức TikToker Phannhibeauty \"cho vui\", sau khi thấy bạn bè sử dụng nhiều.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/09/24/di-ly-cac-doi-tuong-trong-chuy-8849-9540-1790226923.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=bG0-w9oAPPbm8QWMgoK8tg",
+      "link": "https://vnexpress.net/hoang-nato-khai-su-dung-ma-tuy-voi-tiktoker-phannhibeauty-cho-vui-5124177.html",
+      "published_at": "Thu, 24 Sep 2026 12:15:23 +0700",
+      "createAt": "2026-09-24T05:15:23.000Z",
+      "thumbnail_blurhash": "LCDvyI~B?u-W*GkpMyOF9@XRjY%L"
+    }
+  ]
 }
