@@ -1,5 +1,5 @@
 {
-  "total_articles": 1380,
+  "total_articles": 1440,
   "files": [
     "chunk_1.json",
     "chunk_2.json",
@@ -14,7 +14,8 @@
     "chunk_11.json",
     "chunk_12.json",
     "chunk_13.json",
-    "chunk_14.json"
+    "chunk_14.json",
+    "chunk_15.json"
   ],
   "channel": {
     "title": "Pháp luật - VnExpress RSS",
@@ -23,7 +24,7 @@
     "copyright": "",
     "logo_url": "https://s.vnecdn.net/vnexpress/i/v20/logos/vne_logo_rss.png",
     "link": "https://vnexpress.net/rss/phap-luat.rss",
-    "last_updated": "Sat, 29 Aug 2026 21:10:59 +0700"
+    "last_updated": "Thu, 24 Sep 2026 12:10:39 +0700"
   },
-  "last_updated": "2026-08-29T15:41:01.041Z"
+  "last_updated": "2026-09-24T05:15:58.497Z"
 }
