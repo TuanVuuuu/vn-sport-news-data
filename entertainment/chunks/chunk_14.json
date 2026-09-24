@@ -843,5 +843,31 @@
     "published_at": "Thu, 24 Sep 2026 16:00:00 +0700",
     "createAt": "2026-09-24T09:00:00.000Z",
     "thumbnail_blurhash": "LIHod,tRTxs=~pxutnROK8bbb1WB"
+  },
+  {
+    "id": "https://vnexpress.net/ekip-trung-quoc-dung-ai-thay-mat-trinh-sang-5124268.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Êkíp Trung Quốc dùng AI thay mặt Trịnh Sảng",
+    "description": "Phim \"Yêu em từ cái nhìn đầu tiên\" dùng AI ghép mặt diễn viên khác vào nhân vật do Trịnh Sảng đóng sau khi cô vướng bê bối đời tư.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/09/24/transformers-1790239028-4477-1790239039.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=Zs7CJ1V77qAlg6zy_nbyRg",
+    "link": "https://vnexpress.net/ekip-trung-quoc-dung-ai-thay-mat-trinh-sang-5124268.html",
+    "published_at": "Thu, 24 Sep 2026 18:00:00 +0700",
+    "createAt": "2026-09-24T11:00:00.000Z",
+    "thumbnail_blurhash": "LMGkj;^jR5~WY4oeIVxtM|WBV@WV"
+  },
+  {
+    "id": "https://vnexpress.net/sap-dien-ra-trien-lam-mot-ha-noi-trieu-buoc-tien-5124383.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Sắp diễn ra triển lãm 'Một Hà Nội. Triệu bước tiến'",
+    "description": "Triển lãm \"Một Hà Nội. Triệu bước tiến\" trưng bày 30 tác phẩm nhiếp ảnh về con người, văn hóa và nhịp sống Thủ đô, diễn ra từ 26/9 đến 18/10 tại phố đi bộ Đinh Tiên Hoàng.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/09/24/tcb-1790247570-2861-1790247768.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ma5Ro1qwrQlASxSA7k7Fcw",
+    "link": "https://vnexpress.net/sap-dien-ra-trien-lam-mot-ha-noi-trieu-buoc-tien-5124383.html",
+    "published_at": "Thu, 24 Sep 2026 19:00:00 +0700",
+    "createAt": "2026-09-24T12:00:00.000Z",
+    "thumbnail_blurhash": "L8Ff$*$i0$NG}nEh-B=wFZNw,;R+"
   }
 ]
