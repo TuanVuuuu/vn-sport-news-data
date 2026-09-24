@@ -869,5 +869,31 @@
     "published_at": "Fri, 25 Sep 2026 00:03:00 +0700",
     "createAt": "2026-09-24T17:03:00.000Z",
     "thumbnail_blurhash": "LVF$CP-4rpxu%Lo#M{Rj~U-TaJR-"
+  },
+  {
+    "id": "https://vnexpress.net/vi-sao-duong-huyet-tang-khi-doi-5124261.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Vì sao đường huyết tăng khi đói?",
+    "description": "Đường huyết vẫn có thể tăng dù chưa ăn gì bởi cơ thể tiếp tục tạo và giải phóng glucose, đồng thời một số thay đổi sinh lý có thể ảnh hưởng đến chỉ số này.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/09/24/duong-huyet-1790234445-5443-1790234456.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=9PebYgQ4x_TJog0Z536xBQ",
+    "link": "https://vnexpress.net/vi-sao-duong-huyet-tang-khi-doi-5124261.html",
+    "published_at": "Fri, 25 Sep 2026 01:00:00 +0700",
+    "createAt": "2026-09-24T18:00:00.000Z",
+    "thumbnail_blurhash": "LcK^jM~po}ayX.xYn$M|JVofIojb"
+  },
+  {
+    "id": "https://vnexpress.net/dieu-gi-xay-ra-voi-co-the-khi-ban-thuong-xuyen-uong-ruou-5122207.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Điều gì xảy ra với cơ thể khi bạn thường xuyên uống rượu?",
+    "description": "Uống rượu thường xuyên có liên quan đến lão hóa nhanh hơn do ảnh hưởng đến giấc ngủ, gan và khả năng phục hồi của cơ thể.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/09/19/ruou-1789794580-7508-1789794619.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=JSIpm1X2_mN0cypq18MZQQ",
+    "link": "https://vnexpress.net/dieu-gi-xay-ra-voi-co-the-khi-ban-thuong-xuyen-uong-ruou-5122207.html",
+    "published_at": "Fri, 25 Sep 2026 01:02:00 +0700",
+    "createAt": "2026-09-24T18:02:00.000Z",
+    "thumbnail_blurhash": "L8D*w,wM72xGOY}@%1R+0LS}E1NG"
   }
 ]
