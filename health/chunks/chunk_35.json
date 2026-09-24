@@ -648,5 +648,31 @@
     "published_at": "Thu, 24 Sep 2026 14:30:00 +0700",
     "createAt": "2026-09-24T07:30:00.000Z",
     "thumbnail_blurhash": "LeLg|pMc%K_4_MX9%Ms.xtWYj]V?"
+  },
+  {
+    "id": "https://vnexpress.net/cach-thay-doi-thoi-quen-de-cai-thuoc-la-5123701.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Cách thay đổi thói quen để cai thuốc lá",
+    "description": "Hạn chế rượu bia, tránh khói thuốc và thay đổi cách giải tỏa căng thẳng giúp giảm nguy cơ tái hút thuốc.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/09/24/nu-o-c-chanh-jpeg-1790233944-5170-1790234409.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=PViVqmI370DxJlQUm1fnUw",
+    "link": "https://vnexpress.net/cach-thay-doi-thoi-quen-de-cai-thuoc-la-5123701.html",
+    "published_at": "Thu, 24 Sep 2026 15:00:00 +0700",
+    "createAt": "2026-09-24T08:00:00.000Z",
+    "thumbnail_blurhash": "LpJbN*%3oMt7_4t7oga{RjRjWBfR"
+  },
+  {
+    "id": "https://vnexpress.net/rui-ro-y-khoa-sau-duong-day-mang-thai-ho-lay-quoc-tich-my-5124195.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Rủi ro y khoa sau đường dây mang thai hộ lấy quốc tịch Mỹ",
+    "description": "Nhiều nhà giàu Trung Quốc sẵn sàng chi 120.000 đến 200.000 USD cho dịch vụ mang thai hộ tại Mỹ nhằm giành quốc tịch quyền lực cho con, song chuyên gia cảnh báo các nguy cơ.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/09/24/3-1790227415-3783-1790228814.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=siSktuSu0cVR5clOH_yqlg",
+    "link": "https://vnexpress.net/rui-ro-y-khoa-sau-duong-day-mang-thai-ho-lay-quoc-tich-my-5124195.html",
+    "published_at": "Thu, 24 Sep 2026 15:03:35 +0700",
+    "createAt": "2026-09-24T08:03:35.000Z",
+    "thumbnail_blurhash": "LiIXBN-;yDX9~BM{ODRkk9R*s:s:"
   }
 ]
