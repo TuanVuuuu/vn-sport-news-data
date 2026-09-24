@@ -817,5 +817,44 @@
     "published_at": "Thu, 24 Sep 2026 19:00:00 +0700",
     "createAt": "2026-09-24T12:00:00.000Z",
     "thumbnail_blurhash": "LUMH0{009Ft9~V-ps:IoWAogozt5"
+  },
+  {
+    "id": "https://vnexpress.net/tp-hcm-mua-lon-keo-dai-cuoc-goi-cap-cuu-115-tang-ky-luc-5124405.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "TP HCM mưa lớn kéo dài, cuộc gọi cấp cứu 115 tăng kỷ lục",
+    "description": "Tổng đài Cấp cứu 115 TP HCM tiếp nhận hơn 15.600 cuộc gọi trong 9 ngày mưa lớn vừa qua, tăng gần 16%, có ngày vượt 2.000 cuộc.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/09/24/wm1-wm1-mu-a-lo-n-1790252326-8331-1790252438.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=njSNsCsOOHyBjdqHhK2N4A",
+    "link": "https://vnexpress.net/tp-hcm-mua-lon-keo-dai-cuoc-goi-cap-cuu-115-tang-ky-luc-5124405.html",
+    "published_at": "Thu, 24 Sep 2026 19:37:03 +0700",
+    "createAt": "2026-09-24T12:37:03.000Z",
+    "thumbnail_blurhash": "LHGk|E^,_N?bDiXUS4%2?bOYM|wx"
+  },
+  {
+    "id": "https://vnexpress.net/54-nguoi-tu-vong-vi-benh-dai-trong-9-thang-5124307.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "54 người tử vong vì bệnh dại trong 9 tháng",
+    "description": "Từ đầu năm đến nay, cả nước ghi nhận 54 người tử vong vì bệnh dại, khoảng 400.000 người phải tiêm vaccine phòng dại sau khi bị chó mèo cắn.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/09/24/img-jpg-1790238984-7654-1790239014.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=uI_JIVcG6HfNFNtA0W39fw",
+    "link": "https://vnexpress.net/54-nguoi-tu-vong-vi-benh-dai-trong-9-thang-5124307.html",
+    "published_at": "Thu, 24 Sep 2026 20:00:00 +0700",
+    "createAt": "2026-09-24T13:00:00.000Z",
+    "thumbnail_blurhash": "LHI5Vt9Z~qtQV=?b-;Ris%0KM_R$"
+  },
+  {
+    "id": "https://vnexpress.net/long-chau-bat-tay-abbott-nang-cao-suc-khoe-tieu-hoa-cho-cong-dong-5124388.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Long Châu bắt tay Abbott nâng cao sức khỏe tiêu hóa cho cộng đồng",
+    "description": "Hệ thống Nhà thuốc và Tiêm chủng Long Châu phối hợp Abbott Việt Nam tổ chức khám miễn phí và tư vấn sức khỏe hệ tiêu hóa cho hơn 1.000 người dân TPHCM, ngày 19/9.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/09/24/1-1790248022-6429-1790249216.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=wmPj9IlUQszx2T3oJwV4Ag",
+    "link": "https://vnexpress.net/long-chau-bat-tay-abbott-nang-cao-suc-khoe-tieu-hoa-cho-cong-dong-5124388.html",
+    "published_at": "Thu, 24 Sep 2026 20:00:00 +0700",
+    "createAt": "2026-09-24T13:00:00.000Z",
+    "thumbnail_blurhash": "LCEyx%zm9txB_K$|%%H;TIkrNZx]"
   }
 ]
