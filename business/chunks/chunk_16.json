@@ -1142,5 +1142,31 @@
     "published_at": "Thu, 24 Sep 2026 14:30:53 +0700",
     "createAt": "2026-09-24T07:30:53.000Z",
     "thumbnail_blurhash": "LNGb9qDN~UD.?u4.ksRObWR*WXt6"
+  },
+  {
+    "id": "https://vnexpress.net/vua-son-moi-trung-quoc-khong-lo-ai-cuop-viec-lam-5124054.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "'Vua son môi' Trung Quốc không lo AI cướp việc làm",
+    "description": "Lý Giai Kỳ tin lĩnh vực livestream bán hàng sẽ tiếp tục phụ thuộc vào những người như anh, dù người dẫn AI ngày càng phổ biến.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/09/24/screenshot-1790221510-9988-1790221521.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=B0Sx6rWFbg2x3sDdjKpM7A",
+    "link": "https://vnexpress.net/vua-son-moi-trung-quoc-khong-lo-ai-cuop-viec-lam-5124054.html",
+    "published_at": "Thu, 24 Sep 2026 15:25:00 +0700",
+    "createAt": "2026-09-24T08:25:00.000Z",
+    "thumbnail_blurhash": "L5D*bV0J;+?b|G1bM|}]00Okob$l"
+  },
+  {
+    "id": "https://vnexpress.net/chung-khoan-giam-hon-26-diem-khi-khoi-ngoai-tiep-tuc-ban-rong-5124299.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Chứng khoán giảm hơn 26 điểm khi khối ngoại tiếp tục bán ròng",
+    "description": "Khối ngoại bán ròng hơn 900 tỷ đồng khiến tâm lý giao dịch chứng khoán trở nên thận trọng, lực bán lan rộng gây áp lực VN-Index giảm hơn 26,5 điểm.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/09/24/td5-1790237940-1768-1790238019.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Vb3NEJ139cOaOoIDfmoIMg",
+    "link": "https://vnexpress.net/chung-khoan-giam-hon-26-diem-khi-khoi-ngoai-tiep-tuc-ban-rong-5124299.html",
+    "published_at": "Thu, 24 Sep 2026 15:56:27 +0700",
+    "createAt": "2026-09-24T08:56:27.000Z",
+    "thumbnail_blurhash": "L36Q-n^j^#}[Os9GD%D%g%J:OsS~"
   }
 ]
