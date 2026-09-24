@@ -583,5 +583,44 @@
     "published_at": "Thu, 24 Sep 2026 13:00:00 +0700",
     "createAt": "2026-09-24T06:00:00.000Z",
     "thumbnail_blurhash": "L6OW?2^s-g01wV00xB%O9DWcIA_N"
+  },
+  {
+    "id": "https://vnexpress.net/viem-hong-co-tu-khoi-5123576.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Viêm họng có tự khỏi?",
+    "description": "Tôi thường tái phát viêm họng khi trời lạnh, không uống thuốc có tự khỏi không, khi nào nên đi khám? (Trang Dung, 30 tuổi, Lâm Đồng)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/09/23/2-1790124216-5157-1790124298.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=SwEarulxA_FiWiRYbr0zgw",
+    "link": "https://vnexpress.net/viem-hong-co-tu-khoi-5123576.html",
+    "published_at": "Wed, 23 Sep 2026 08:00:00 +0700",
+    "createAt": "2026-09-23T01:00:00.000Z",
+    "thumbnail_blurhash": "LWMQ#GDiE2x]~qIUITRj?Gs=RiR*"
+  },
+  {
+    "id": "https://vnexpress.net/vo-o-ap-xe-trong-nao-5123573.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Vỡ ổ áp xe trong não",
+    "description": "Ông Long, 58 tuổi, đau đầu, đột ngột tăng huyết áp, suy giảm tri giác nhanh, bác sĩ chẩn đoán ổ áp xe não vỡ vào hệ thống não thất.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/09/23/ba-c-si-khu-o-ng-duy-kha-m-cho-3302-8002-1790123965.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=Oi8ntJ9tqaGKRUkZdXOpIQ",
+    "link": "https://vnexpress.net/vo-o-ap-xe-trong-nao-5123573.html",
+    "published_at": "Wed, 23 Sep 2026 08:00:00 +0700",
+    "createAt": "2026-09-23T01:00:00.000Z",
+    "thumbnail_blurhash": "LXJH?eD$?Zt8~p-;%LM{_2xuD%kC"
+  },
+  {
+    "id": "https://vnexpress.net/tuong-loet-tai-do-doi-moi-hoa-ung-thu-5123567.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Tưởng loét tai do đồi mồi hóa ung thư",
+    "description": "Bà Hương, 77 tuổi, có vết loét nhỏ ở tai phải tưởng đồi mồi, gần đây mất thính lực đi khám bác sĩ chẩn đoán ung thư ống tai.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/09/23/anhut-1790123423-2154-1790123661.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=efn67Sn-oRmEIEVuJX-Lsw",
+    "link": "https://vnexpress.net/tuong-loet-tai-do-doi-moi-hoa-ung-thu-5123567.html",
+    "published_at": "Wed, 23 Sep 2026 08:00:00 +0700",
+    "createAt": "2026-09-23T01:00:00.000Z",
+    "thumbnail_blurhash": "LHF=@4~c_0%3~os~xutP4mD$alRg"
   }
 ]
