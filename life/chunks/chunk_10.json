@@ -258,5 +258,31 @@
     "published_at": "Fri, 25 Sep 2026 11:30:00 +0700",
     "createAt": "2026-09-25T04:30:00.000Z",
     "thumbnail_blurhash": "LlM=6R$*%MxF~qozb_oJ=|jYOFR*"
+  },
+  {
+    "id": "https://vnexpress.net/1-300-hoc-sinh-vung-bien-dien-bien-don-trung-thu-som-5124349.html",
+    "category_id": "life",
+    "category_name": "Đời sống",
+    "source": "VnExpress",
+    "title": "1.300 học sinh vùng biên Điện Biên đón Trung thu sớm",
+    "description": "Chương trình \"Giao nắng, chuyển yêu thương\" mang Tết Trung thu sớm, áo ấm cùng các công trình hạ tầng hỗ trợ học tập đến với hơn 1.300 học sinh tại các xã biên giới tỉnh Điện Biên.",
+    "thumbnail_url": "https://vcdn1-giadinh.vnecdn.net/2026/09/24/n1-1790242626-4707-1790242640.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=LWrI6ZA9BkivPtPa825Pdg",
+    "link": "https://vnexpress.net/1-300-hoc-sinh-vung-bien-dien-bien-don-trung-thu-som-5124349.html",
+    "published_at": "Fri, 25 Sep 2026 13:00:00 +0700",
+    "createAt": "2026-09-25T06:00:00.000Z",
+    "thumbnail_blurhash": "LFI3j_XR00v#D1#mDjO??uF^D*#U"
+  },
+  {
+    "id": "https://vnexpress.net/6-cau-hoi-can-tra-loi-truoc-khi-cho-vay-tien-5124651.html",
+    "category_id": "life",
+    "category_name": "Đời sống",
+    "source": "VnExpress",
+    "title": "6 câu hỏi cần trả lời trước khi cho vay tiền",
+    "description": "Khi người thân hỏi vay tiền, nhiều người muốn giúp ngay nhưng lo khoản nợ ảnh hưởng đến tài chính và tình cảm.",
+    "thumbnail_url": "https://vcdn1-giadinh.vnecdn.net/2026/09/25/d3794c99-d90ff6-b7e768b85780-1-9435-2760-1790309493.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=Y1M_L-ObPFkyv6sNrtp1xA",
+    "link": "https://vnexpress.net/6-cau-hoi-can-tra-loi-truoc-khi-cho-vay-tien-5124651.html",
+    "published_at": "Fri, 25 Sep 2026 13:03:07 +0700",
+    "createAt": "2026-09-25T06:03:07.000Z",
+    "thumbnail_blurhash": "LHFYS?~q?c?vyD-;.7xu?vX9S1oz"
   }
 ]
