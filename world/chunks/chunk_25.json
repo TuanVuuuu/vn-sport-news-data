@@ -869,5 +869,31 @@
     "published_at": "Fri, 25 Sep 2026 22:54:49 +0700",
     "createAt": "2026-09-25T15:54:49.000Z",
     "thumbnail_blurhash": "LBH,L?9d01z=00AB_L%M.6n9;Mw["
+  },
+  {
+    "id": "https://vnexpress.net/ong-trump-moi-ong-tap-thuong-tra-5124911.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Ông Trump mời ông Tập thưởng trà",
+    "description": "Tổng thống Trump và phu nhân Melania mời vợ chồng Chủ tịch Trung Quốc Tập Cận Bình dự tiệc trà tại Nhà Trắng, với thực đơn chuẩn phương Tây.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/09/25/ap26268559320478-1790354874-4877-1790354905.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=AXaemAACoQ9l197KZX_aNQ",
+    "link": "https://vnexpress.net/ong-trump-moi-ong-tap-thuong-tra-5124911.html",
+    "published_at": "Sat, 26 Sep 2026 00:29:53 +0700",
+    "createAt": "2026-09-25T17:29:53.000Z",
+    "thumbnail_blurhash": "LeGj5FROo~aJ}Znht7r?-BjFspsA"
+  },
+  {
+    "id": "https://vnexpress.net/the-kho-cua-phong-khong-ukraine-truoc-uav-phan-luc-nga-5124069.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Thế khó của phòng không Ukraine trước UAV phản lực Nga",
+    "description": "UAV phản lực Nga thường bay ngoài tầm bắn của tên lửa vác vai, khiến các tổ phòng không di động Ukraine chỉ có vài giây để phản ứng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/09/24/Ukraine-1790218153-7769-1790218620.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=i0eefk4b9oWmdqZc3JeTCQ",
+    "link": "https://vnexpress.net/the-kho-cua-phong-khong-ukraine-truoc-uav-phan-luc-nga-5124069.html",
+    "published_at": "Sat, 26 Sep 2026 01:00:00 +0700",
+    "createAt": "2026-09-25T18:00:00.000Z",
+    "thumbnail_blurhash": "L$H_upW=xuj[~qs:t7a}.8f6WBof"
   }
 ]

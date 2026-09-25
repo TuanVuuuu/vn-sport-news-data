@@ -934,5 +934,44 @@
     "published_at": "Sat, 26 Sep 2026 00:37:37 +0700",
     "createAt": "2026-09-25T17:37:37.000Z",
     "thumbnail_blurhash": "LCD+9x=q9a}:}*$x-p}mI[WB$y%1"
+  },
+  {
+    "id": "https://vnexpress.net/mua-cha-tro-bong-5123521.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Mùa chá trổ bông",
+    "description": "Rừng ngập mặn Rú Chá vào mùa đẹp nhất trong năm khi hàng nghìn cây chá cổ thụ đồng loạt trổ bông vàng, thu hút nhiều du khách và người yêu thiên nhiên.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/09/23/14-1790136307.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Jxlq74sSwekJpqed-bVuig",
+    "link": "https://vnexpress.net/mua-cha-tro-bong-5123521.html",
+    "published_at": "Sat, 26 Sep 2026 00:57:54 +0700",
+    "createAt": "2026-09-25T17:57:54.000Z",
+    "thumbnail_blurhash": "LAH_Yn}~9aEWtSD,IpbJNGIqI[t2"
+  },
+  {
+    "id": "https://vnexpress.net/an-dua-thuong-xuyen-co-tot-cho-than-5124309.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Ăn dứa thường xuyên có tốt cho thận?",
+    "description": "Ăn dứa mỗi ngày nhìn chung an toàn, nhưng người bệnh thận nên điều chỉnh khẩu phần theo chức năng thận và nồng độ kali máu.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/09/24/dua-1790239048-7740-1790239080.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=2rF1b_SwFgYPteg-jJRJuQ",
+    "link": "https://vnexpress.net/an-dua-thuong-xuyen-co-tot-cho-than-5124309.html",
+    "published_at": "Sat, 26 Sep 2026 01:00:00 +0700",
+    "createAt": "2026-09-25T18:00:00.000Z",
+    "thumbnail_blurhash": "LDEVAs~W0D?Z~K4:03ITxuxux[t7"
+  },
+  {
+    "id": "https://vnexpress.net/the-kho-cua-phong-khong-ukraine-truoc-uav-phan-luc-nga-5124069.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Thế khó của phòng không Ukraine trước UAV phản lực Nga",
+    "description": "UAV phản lực Nga thường bay ngoài tầm bắn của tên lửa vác vai, khiến các tổ phòng không di động Ukraine chỉ có vài giây để phản ứng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/09/24/Ukraine-1790218153-7769-1790218620.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=i0eefk4b9oWmdqZc3JeTCQ",
+    "link": "https://vnexpress.net/the-kho-cua-phong-khong-ukraine-truoc-uav-phan-luc-nga-5124069.html",
+    "published_at": "Sat, 26 Sep 2026 01:00:00 +0700",
+    "createAt": "2026-09-25T18:00:00.000Z",
+    "thumbnail_blurhash": "L$H_upW=xuj[~qs:t7a}.8f6WBof"
   }
 ]
