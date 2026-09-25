@@ -388,5 +388,31 @@
     "published_at": "Fri, 25 Sep 2026 08:29:00 +0700",
     "createAt": "2026-09-25T01:29:00.000Z",
     "thumbnail_blurhash": "LDC?cZEkbEnP^+tkELnO~Wx[IoxG"
+  },
+  {
+    "id": "https://vnexpress.net/nhung-tai-xe-so-di-cao-toc-5123790.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Những tài xế sợ đi cao tốc",
+    "description": "Tài xế mới đi cao tốc dễ lúng túng khi xe phía sau tiến gần, từ tăng tốc, chuyển làn vội đến mất tập trung vì áp lực nhường đường.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/09/23/caotoc-1790147018-1975-1790147061.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=bnYygkb-NNJTJzeg_V7yrA",
+    "link": "https://vnexpress.net/nhung-tai-xe-so-di-cao-toc-5123790.html",
+    "published_at": "Fri, 25 Sep 2026 09:00:00 +0700",
+    "createAt": "2026-09-25T02:00:00.000Z",
+    "thumbnail_blurhash": "LlFO3_t6EjW;~9f+Shj[^ibbNxj["
+  },
+  {
+    "id": "https://vnexpress.net/xe-ben-keo-do-gia-long-mon-tren-cao-toc-5124497.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Xe ben kéo đổ giá long môn trên cao tốc",
+    "description": "Phần thùng xe chưa hạ của chiếc xe ben kéo đổ giá long môn trên cao tốc Long Thành - Dầu Giây, hôm 24/9 tại địa phận Bình Trưng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/09/25/ezgif88d4b597ebaf18c8-17902965-9594-4162-1790296672.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=nGQ1EdfRhox3X31mKJbAmA&t=image",
+    "link": "https://vnexpress.net/xe-ben-keo-do-gia-long-mon-tren-cao-toc-5124497.html",
+    "published_at": "Fri, 25 Sep 2026 09:04:35 +0700",
+    "createAt": "2026-09-25T02:04:35.000Z",
+    "thumbnail_blurhash": "LLEo}c-=xaIU~Ws;xuV@%MWCs;js"
   }
 ]
