@@ -1,6 +1,19 @@
 {
   "featured": [
     {
+      "id": "https://vnexpress.net/viet-nam-v-trung-quoc-5124680-tong-thuat.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Việt Nam thua tối thiểu Trung Quốc ở tứ kết bóng đá nữ ASIAD 2026",
+      "description": "Việt Nam bị đánh giá thấp hơn rất nhiều, nhưng khiến Trung Quốc phải đá hiệp phụ và chỉ thua 0-1 tại tứ kết bóng đá nữ ASIAD 2026, chiều 25/9.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/09/25/az4a2460scaled-1790311954-4070-1790311983.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=bEYk-K4Xu0ZbPQcqG2Svtg",
+      "link": "https://vnexpress.net/viet-nam-v-trung-quoc-5124680-tong-thuat.html",
+      "published_at": "Fri, 25 Sep 2026 12:30:00 +0700",
+      "createAt": "2026-09-25T05:30:00.000Z",
+      "thumbnail_blurhash": "L7HLVX8wDi=d00$~?axaHG*0nSJB"
+    },
+    {
       "id": "https://vnexpress.net/tong-thong-iran-tiet-lo-ve-tinh-trang-suc-khoe-cua-lanh-tu-toi-cao-5124796.html",
       "category_id": "featured",
       "category_name": "Tin nổi bật",
@@ -12,6 +25,32 @@
       "published_at": "Fri, 25 Sep 2026 16:38:03 +0700",
       "createAt": "2026-09-25T09:38:03.000Z",
       "thumbnail_blurhash": "LQH,V9J6nOIU}mv}tlr?axoLRkWC"
+    },
+    {
+      "id": "https://vnexpress.net/tong-thong-iran-tiet-lo-tinh-trang-suc-khoe-cua-lanh-tu-toi-cao-5124796.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Tổng thống Iran tiết lộ tình trạng sức khỏe của Lãnh tụ Tối cao",
+      "description": "Tổng thống Pezeshkian cho hay Lãnh tụ Tối cao Iran có thể đi lại và không gặp trở ngại nào lớn về sức khỏe, dù chưa xuất hiện công khai.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/09/25/iranian-president-masoud-pezes-3049-2627-1790329049.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=TqWsJR5c_73o0iQJ9CUFxA",
+      "link": "https://vnexpress.net/tong-thong-iran-tiet-lo-tinh-trang-suc-khoe-cua-lanh-tu-toi-cao-5124796.html",
+      "published_at": "Fri, 25 Sep 2026 16:38:03 +0700",
+      "createAt": "2026-09-25T09:38:03.000Z",
+      "thumbnail_blurhash": "LQH,V9J6nOIU}mv}tlr?axoLRkWC"
+    },
+    {
+      "id": "https://vnexpress.net/han-quoc-viet-nam-thay-hon-nua-doi-hinh-5124828.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Hàn Quốc 1-0 Việt Nam (H1): Lee Young-jun mở tỷ số",
+      "description": "Việt Nam sớm thủng lưới, kh đấu ĐKVĐ Hàn Quốc tại tứ kết bóng đá nam ASIAD 2026 hôm nay. Bóng lăn lúc 17h30.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/09/25/tnw179033267926717617774970833-4661-9060-1790333003.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=O7WZoFNHENWZtZncxydrtA",
+      "link": "https://vnexpress.net/han-quoc-viet-nam-thay-hon-nua-doi-hinh-5124828.html",
+      "published_at": "Fri, 25 Sep 2026 16:55:24 +0700",
+      "createAt": "2026-09-25T09:55:24.000Z",
+      "thumbnail_blurhash": "L9BMlOml00y?M1s+tRNu0wtS-pH?"
     }
   ]
 }
