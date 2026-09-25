@@ -89,5 +89,44 @@
     "published_at": "Fri, 25 Sep 2026 14:30:00 +0700",
     "createAt": "2026-09-25T07:30:00.000Z",
     "thumbnail_blurhash": "LUKvs-$k,BELQ7W:pJwdO@S#tRWC"
+  },
+  {
+    "id": "https://vnexpress.net/smbc-dang-dam-phan-mua-them-5-von-vpbank-5124770.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "SMBC 'đang đàm phán mua thêm' 5% vốn VPBank",
+    "description": "Pháp nhân thuộc tập đoàn tài chính Sumitomo Mitsui (SMFG), muốn tăng tỷ lệ nắm giữ tại VPBank lên 20% nhưng hai bên chưa thống nhất được mức giá, theo Reuters.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/09/25/vpbank-lap-ky-luc-loi-nhuan-ty-7582-1773-1790323421.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=jZfr7LZ3obza4vzWsA7eiA",
+    "link": "https://vnexpress.net/smbc-dang-dam-phan-mua-them-5-von-vpbank-5124770.html",
+    "published_at": "Fri, 25 Sep 2026 15:14:05 +0700",
+    "createAt": "2026-09-25T08:14:05.000Z",
+    "thumbnail_blurhash": "LoI5_V%gRjxu_NxaofjrI;Rjo0R*"
+  },
+  {
+    "id": "https://vnexpress.net/nguoi-viet-tiet-kiem-chi-phi-sam-long-den-trung-thu-5124741.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Người Việt tiết kiệm chi phí sắm lồng đèn Trung thu",
+    "description": "Thị trường lồng đèn Trung thu năm nay chậm hơn cùng kỳ nhưng phân khúc mini giá mềm và giấy kiếng (còn gọi là giấy bóng kính) truyền thống hút khách.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/09/25/huy-copy-1790322771-7487-1790322827.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=1V9huEk712RnTZQYM4-n_A",
+    "link": "https://vnexpress.net/nguoi-viet-tiet-kiem-chi-phi-sam-long-den-trung-thu-5124741.html",
+    "published_at": "Fri, 25 Sep 2026 15:19:33 +0700",
+    "createAt": "2026-09-25T08:19:33.000Z",
+    "thumbnail_blurhash": "LGIgfl9t6A=:}m%$OsMd%~-UIqNw"
+  },
+  {
+    "id": "https://vnexpress.net/chung-khoan-tang-diem-tro-lai-5124779.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Chứng khoán tăng điểm trở lại",
+    "description": "Sau hai phiên điều chỉnh, chứng khoán đảo chiều tăng hơn 10 điểm ở phiên cuối tuần, dưới lực đỡ chính của cổ phiếu Vingroup, Vinhomes và VPBank.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/09/25/233a7851-1790324110-4926-1790324142.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=SnxwWF6sYJbPutBE3VcrEw",
+    "link": "https://vnexpress.net/chung-khoan-tang-diem-tro-lai-5124779.html",
+    "published_at": "Fri, 25 Sep 2026 15:34:04 +0700",
+    "createAt": "2026-09-25T08:34:04.000Z",
+    "thumbnail_blurhash": "LJA^wd00~VEN9[.7Ioo}TdNZXTS1"
   }
 ]
