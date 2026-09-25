@@ -1025,5 +1025,31 @@
     "published_at": "Fri, 25 Sep 2026 17:00:00 +0700",
     "createAt": "2026-09-25T10:00:00.000Z",
     "thumbnail_blurhash": "LQE:q{NZ~W%yFBS_9FOTImx[brSh"
+  },
+  {
+    "id": "https://vnexpress.net/cac-luc-trong-loi-trai-dat-dang-khien-ngay-ngan-dan-5124665.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Các lực trong lõi Trái Đất đang khiến ngày ngắn dần",
+    "description": "Chuyển động của lõi Trái Đất tạo ra cuộc chiến giữa các lực, dẫn tới những biến động nhỏ trong vòng quay của hành tinh, khiến cho ngày ngắn dần theo thời gian.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/09/25/VNECore-1790310313-9231-1790310388.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ko8unQkNnU4jQTqqiQQP1A",
+    "link": "https://vnexpress.net/cac-luc-trong-loi-trai-dat-dang-khien-ngay-ngan-dan-5124665.html",
+    "published_at": "Fri, 25 Sep 2026 19:00:00 +0700",
+    "createAt": "2026-09-25T12:00:00.000Z",
+    "thumbnail_blurhash": "LECZXyt904feD@of-zRj0DbF~1Rl"
+  },
+  {
+    "id": "https://vnexpress.net/go-nhung-diem-nghen-cap-bach-voi-khoa-hoc-cong-nghe-5124850.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "'Gỡ những điểm nghẽn cấp bách với khoa học công nghệ'",
+    "description": "Bộ Khoa học và Công nghệ đang lấy ý kiến các đơn vị để sửa, bổ sung 5 Nghị định theo hướng \"tháo gỡ những điểm nghẽn, kiến tạo những cách làm mới.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/09/25/img-1790340400-3145-1790340763.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=-gKWZbeF0o0pH_XdlYGlaQ",
+    "link": "https://vnexpress.net/go-nhung-diem-nghen-cap-bach-voi-khoa-hoc-cong-nghe-5124850.html",
+    "published_at": "Fri, 25 Sep 2026 20:22:22 +0700",
+    "createAt": "2026-09-25T13:22:22.000Z",
+    "thumbnail_blurhash": "LONd%VysNHZ$%}x]ozMxDjMxaebb"
   }
 ]
