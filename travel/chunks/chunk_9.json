@@ -1194,5 +1194,31 @@
     "published_at": "Fri, 25 Sep 2026 15:40:43 +0700",
     "createAt": "2026-09-25T08:40:43.000Z",
     "thumbnail_blurhash": "L3FP7sL#0B-X030n?Do|00-q~V4T"
+  },
+  {
+    "id": "https://vnexpress.net/chat-kin-nguoi-ngam-long-den-linh-vat-khong-lo-o-nha-trang-5124903.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Chật kín người ngắm lồng đèn linh vật khổng lồ ở Nha Trang",
+    "description": "Nhiều người dân, du khách đội mưa đến Quảng trường 2 tháng 4, phường Nha Trang vui Trung thu, ngắm những lồng đèn linh vật cao 4 m.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/09/25/trungthu-28-1790351136.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=QGWqByo0LagKcAbnr4bh9A",
+    "link": "https://vnexpress.net/chat-kin-nguoi-ngam-long-den-linh-vat-khong-lo-o-nha-trang-5124903.html",
+    "published_at": "Sat, 26 Sep 2026 00:00:00 +0700",
+    "createAt": "2026-09-25T17:00:00.000Z",
+    "thumbnail_blurhash": "LABMfH,@00gQtmxGixog4Ts:?^M^"
+  },
+  {
+    "id": "https://vnexpress.net/ruoc-den-trung-thu-quanh-ho-guom-5124913.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Rước đèn Trung thu quanh Hồ Gươm",
+    "description": "14 khối với đèn lồng, đèn ông sao cùng các mô hình Tiến sĩ giấy, Tháp Bút, Đài Nghiên diễu hành quanh hồ Hoàn Kiếm, tạo nên không khí rộn ràng trong đêm Rằm tháng Tám.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/09/26/huy-copy-1790357989.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Ez9Qm77Nl4wznLqFey_vyQ",
+    "link": "https://vnexpress.net/ruoc-den-trung-thu-quanh-ho-guom-5124913.html",
+    "published_at": "Sat, 26 Sep 2026 00:37:37 +0700",
+    "createAt": "2026-09-25T17:37:37.000Z",
+    "thumbnail_blurhash": "LCD[tX]}9a}:}*$x-p}mJCWB$y%1"
   }
 ]
