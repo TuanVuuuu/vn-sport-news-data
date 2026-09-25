@@ -765,5 +765,57 @@
     "published_at": "Fri, 25 Sep 2026 11:05:13 +0700",
     "createAt": "2026-09-25T04:05:13.000Z",
     "thumbnail_blurhash": "LLGIu|_3IoR,9|E1jGoc?wW.xuxa"
+  },
+  {
+    "id": "https://vnexpress.net/vao-rung-hai-ot-hiem-5124415.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Vào rừng hái ớt hiểm",
+    "description": "Người Chứt, Bru-Vân Kiều ở xã Dân Hóa vào rừng keo, nương rẫy hái ớt hiểm mọc tự nhiên, mang về làm gia vị hoặc bán để có thêm thu nhập.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/09/24/wm1-anh-6-1790253027-1790253151.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=B6MZ_hfW9gBCFKJf7RGKIQ",
+    "link": "https://vnexpress.net/vao-rung-hai-ot-hiem-5124415.html",
+    "published_at": "Fri, 25 Sep 2026 00:00:00 +0700",
+    "createAt": "2026-09-24T17:00:00.000Z",
+    "thumbnail_blurhash": "L57enHMk*8tP%dIDR*tPk~jc$,Vx"
+  },
+  {
+    "id": "https://vnexpress.net/doan-oto-400-600-tan-thu-tai-cau-phuoc-khanh-cao-nhat-viet-nam-5124703.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Đoàn ôtô 400-600 tấn thử tải cầu Phước Khánh cao nhất Việt Nam",
+    "description": "16-24 ôtô tổng tải trọng 400-600 tấn, được huy động thử tải cầu Phước Khánh trên cao tốc Bến Lức - Long Thành, kiểm tra an toàn công trình trước ngày thông xe.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/09/25/179031445767435459090879102285-5135-8753-1790315800.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=0P-BqSfw5j-3489GwX2_Ew",
+    "link": "https://vnexpress.net/doan-oto-400-600-tan-thu-tai-cau-phuoc-khanh-cao-nhat-viet-nam-5124703.html",
+    "published_at": "Fri, 25 Sep 2026 13:08:50 +0700",
+    "createAt": "2026-09-25T06:08:50.000Z",
+    "thumbnail_blurhash": "LmFPjNIVxujZ_4NGWVofx^WXWBj["
+  },
+  {
+    "id": "https://vnexpress.net/tan-lanh-dao-quang-tri-de-nghi-cac-don-vi-khong-den-chuc-mung-5124699.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Tân lãnh đạo Quảng Trị đề nghị các đơn vị không đến chúc mừng",
+    "description": "Sau khi nhận nhiệm vụ, Bí thư Tỉnh ủy Vương Quốc Tuấn và Chủ tịch UBND tỉnh Bùi Hoàng Phương đề nghị các cơ quan, đơn vị, địa phương trong tỉnh không tổ chức đoàn đến thăm hỏi, tặng hoa chúc mừng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/09/25/IMaG8755-1790314759-5887-1790314765.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=fxdlC8yr11_vk0mG3o2siQ",
+    "link": "https://vnexpress.net/tan-lanh-dao-quang-tri-de-nghi-cac-don-vi-khong-den-chuc-mung-5124699.html",
+    "published_at": "Fri, 25 Sep 2026 13:29:54 +0700",
+    "createAt": "2026-09-25T06:29:54.000Z",
+    "thumbnail_blurhash": "LdO0+5XmvzOT}@n%NGsSVXaybwog"
+  },
+  {
+    "id": "https://vnexpress.net/nguoi-phu-nu-bi-set-danh-nguy-kich-khi-dang-lai-xe-may-5124706.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Người phụ nữ bị sét đánh nguy kịch khi đang lái xe máy",
+    "description": "Sau tiếng sét lớn trưa 25/9, người phụ nữ đi xe máy loạng choạng lao vào lề đường, được đưa tới bệnh viện trong tình trạng nguy kịch.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/09/25/setdanhonghean-1790316933-7013-1790316965.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=8xJCTT6hoLfGAizXjWm6Mw&t=image",
+    "link": "https://vnexpress.net/nguoi-phu-nu-bi-set-danh-nguy-kich-khi-dang-lai-xe-may-5124706.html",
+    "published_at": "Fri, 25 Sep 2026 13:47:21 +0700",
+    "createAt": "2026-09-25T06:47:21.000Z",
+    "thumbnail_blurhash": "L+Ddz%kWaeRP?^f+jsWA%MWCjZof"
   }
 ]
