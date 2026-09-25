@@ -1,3 +1,95 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/pho-thu-tuong-cham-dut-dao-tao-giao-vien-o-truong-ngoai-su-pham-5124894.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Phó thủ tướng: Chấm dứt đào tạo giáo viên ở trường ngoài sư phạm",
+      "description": "Bộ Giáo dục và Đào tạo phải chấm dứt tình trạng \"đào tạo sư phạm ở các trường không phải sư phạm\", đổi mới cách tuyển sinh ngành này, theo yêu cầu của Chính phủ.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/09/25/wm1ccf39cc8f0f0e51571e-1790354-7725-4807-1790354220.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=wSLjG2bP7q3u61-f2fzdtw",
+      "link": "https://vnexpress.net/pho-thu-tuong-cham-dut-dao-tao-giao-vien-o-truong-ngoai-su-pham-5124894.html",
+      "published_at": "Sat, 26 Sep 2026 00:02:00 +0700",
+      "createAt": "2026-09-25T17:02:00.000Z",
+      "thumbnail_blurhash": "LFG+df00-q8x~oIVtQnnX1s=xuRj"
+    },
+    {
+      "id": "https://vnexpress.net/ong-trump-moi-ong-tap-thuong-tra-5124911.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Ông Trump mời ông Tập thưởng trà",
+      "description": "Tổng thống Trump và phu nhân Melania mời vợ chồng Chủ tịch Trung Quốc Tập Cận Bình dự tiệc trà tại Nhà Trắng, với thực đơn chuẩn phương Tây.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/09/25/ap26268559320478-1790354874-4877-1790354905.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=AXaemAACoQ9l197KZX_aNQ",
+      "link": "https://vnexpress.net/ong-trump-moi-ong-tap-thuong-tra-5124911.html",
+      "published_at": "Sat, 26 Sep 2026 00:29:53 +0700",
+      "createAt": "2026-09-25T17:29:53.000Z",
+      "thumbnail_blurhash": "LeGj8NVro~aJ}Znht7r?-AjFspsA"
+    },
+    {
+      "id": "https://vnexpress.net/mua-cha-tro-bong-5123521.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Mùa chá trổ bông",
+      "description": "Rừng ngập mặn Rú Chá vào mùa đẹp nhất trong năm khi hàng nghìn cây chá cổ thụ đồng loạt trổ bông vàng, thu hút nhiều du khách và người yêu thiên nhiên.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/09/23/14-1790136307.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Jxlq74sSwekJpqed-bVuig",
+      "link": "https://vnexpress.net/mua-cha-tro-bong-5123521.html",
+      "published_at": "Sat, 26 Sep 2026 00:57:54 +0700",
+      "createAt": "2026-09-25T17:57:54.000Z",
+      "thumbnail_blurhash": "LAH_Yn}~9aEWtSD,IpbJNGIqI[t2"
+    },
+    {
+      "id": "https://vnexpress.net/dai-hoc-o-california-rung-dong-vi-4-vu-hiep-dam-lien-tiep-5123989.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Đại học ở California 'rúng động' vì 4 vụ hiếp dâm liên tiếp",
+      "description": "4 vụ hiếp dâm trong khuôn viên Đại học Cal State San Marcos trong ba tuần đầu của năm học mới, khiến nhiều nữ sinh sợ hãi.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/09/23/thequad-1790178567-4192-1790178674.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=1VDRvwAuqR9iw7-MypsZkg",
+      "link": "https://vnexpress.net/dai-hoc-o-california-rung-dong-vi-4-vu-hiep-dam-lien-tiep-5123989.html",
+      "published_at": "Sat, 26 Sep 2026 03:02:00 +0700",
+      "createAt": "2026-09-25T20:02:00.000Z",
+      "thumbnail_blurhash": "LLCi%SnNV?o~%jNGt7r=%%M_V?XS"
+    },
+    {
+      "id": "https://vnexpress.net/nhung-ty-phu-ai-tre-va-giau-nhat-nuoc-my-5123894.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Những tỷ phú AI trẻ và giàu nhất nước Mỹ",
+      "description": "Trong danh sách Forbes 400 năm nay có một số tỷ phú trẻ tạo dựng khối tài sản khổng lồ nhờ sự bùng nổ của AI.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/09/23/Settyphureal-1790159720-6214-1790161469.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=18nABiqdzp1AX3jFEjKI5w",
+      "link": "https://vnexpress.net/nhung-ty-phu-ai-tre-va-giau-nhat-nuoc-my-5123894.html",
+      "published_at": "Sat, 26 Sep 2026 05:00:00 +0700",
+      "createAt": "2026-09-25T22:00:00.000Z",
+      "thumbnail_blurhash": "LEF5{*000dbEE=xB]_%KtVMw$_t7"
+    },
+    {
+      "id": "https://vnexpress.net/tinh-canh-an-rau-dai-cam-hoi-o-thanh-pho-tien-tuyen-nga-ukraine-5124224.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Tình cảnh ăn rau dại cầm hơi ở thành phố tiền tuyến Nga - Ukraine",
+      "description": "Mất điện nước, cạn lương thực, thuốc men, hàng nghìn dân thường tại thành phố Oleshky đang phải sinh tồn bằng cách ăn rau dại qua ngày.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/09/24/anh1-1790235925-9008-1790236409.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=VQjd6mIB4gOTTsjePw2j0A",
+      "link": "https://vnexpress.net/tinh-canh-an-rau-dai-cam-hoi-o-thanh-pho-tien-tuyen-nga-ukraine-5124224.html",
+      "published_at": "Sat, 26 Sep 2026 05:00:00 +0700",
+      "createAt": "2026-09-25T22:00:00.000Z",
+      "thumbnail_blurhash": "LIIOLftRjas:~VxtM|NHt7-nR*R+"
+    },
+    {
+      "id": "https://vnexpress.net/lich-dau-ngay-26-9-cua-viet-nam-tai-asiad-2026-5124919.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Lịch đấu ngày 26/9 của Việt Nam tại ASIAD 2026",
+      "description": "Đoàn thể thao Việt Nam dự nhiều nội dung thi đấu tại ASIAD 2026 ngày 26/9, trong đó có chung kết bắn súng, kayak và nhảy ba bước nam.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/09/25/ngo-c-ha-1790354972-2397-1790355402.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=5wd8r7NRH1LrIFwu5wOc-A",
+      "link": "https://vnexpress.net/lich-dau-ngay-26-9-cua-viet-nam-tai-asiad-2026-5124919.html",
+      "published_at": "Sat, 26 Sep 2026 05:40:02 +0700",
+      "createAt": "2026-09-25T22:40:02.000Z",
+      "thumbnail_blurhash": "LQG*i~-WRiNa~Ci~M{kCbuR+NFxa"
+    }
+  ]
 }
