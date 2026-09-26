@@ -1103,5 +1103,31 @@
     "published_at": "Sat, 26 Sep 2026 07:32:07 +0700",
     "createAt": "2026-09-26T00:32:07.000Z",
     "thumbnail_blurhash": "LwOzb{WV_3t7~qxuM{j[jtRjM{j["
+  },
+  {
+    "id": "https://vnexpress.net/apple-co-the-dang-tao-vong-deo-suc-khoe-khong-man-hinh-5123963.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Apple có thể đang tạo vòng đeo sức khỏe không màn hình",
+    "description": "Apple được cho là đạt bước tiến mới trong việc phát triển thiết bị theo dõi sức khỏe dạng vòng đeo tay không màn hình, tương tự sản phẩm của Whoop và Garmin.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/09/23/cirqa2-1790169034-4624-1790169100.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=4JFxV_gvj3fex7SpWWMhFw",
+    "link": "https://vnexpress.net/apple-co-the-dang-tao-vong-deo-suc-khoe-khong-man-hinh-5123963.html",
+    "published_at": "Sat, 26 Sep 2026 09:00:00 +0700",
+    "createAt": "2026-09-26T02:00:00.000Z",
+    "thumbnail_blurhash": "L4AdA.-5150L?cx_D$ISBs0K^j~X"
+  },
+  {
+    "id": "https://vnexpress.net/tinh-nang-an-toan-tren-dong-ho-tre-em-myalo-5124577.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Tính năng an toàn trên đồng hồ trẻ em myAlo",
+    "description": "Đồng hồ myAlo giúp trẻ tiện liên lạc, gửi tin khẩn cấp, hỗ trợ học tập, còn phụ huynh có thể định vị vị trí của con, quản lý danh bạ - SMS từ xa.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/09/26/image005-1790377017-7039-1790377217.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=FUG3iiRtpA1D1s6kxEeVmw",
+    "link": "https://vnexpress.net/tinh-nang-an-toan-tren-dong-ho-tre-em-myalo-5124577.html",
+    "published_at": "Sat, 26 Sep 2026 09:00:00 +0700",
+    "createAt": "2026-09-26T02:00:00.000Z",
+    "thumbnail_blurhash": "LDKmhC]|-$-P~U#%VCr;.l-;VsJ7"
   }
 ]
