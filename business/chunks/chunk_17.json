@@ -284,5 +284,31 @@
     "published_at": "Sat, 26 Sep 2026 11:00:31 +0700",
     "createAt": "2026-09-26T04:00:31.000Z",
     "thumbnail_blurhash": "L{BYIBaLR=byyZjIWZbcbVa$jEf4"
+  },
+  {
+    "id": "https://vnexpress.net/hdbank-trao-26-luong-vang-cho-25-khach-gui-tiet-kiem-5125067.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "HDBank trao 26 lượng vàng cho 25 khách gửi tiết kiệm",
+    "description": "HDBank công bố 25 khách hàng nhận tổng cộng 26 lượng vàng SJC trong kỳ quay số ngày 25/9, giải đặc biệt trị giá 16 lượng vàng thuộc về khách hàng tại Kiên Giang.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/09/26/gvdhfcv-1790401586-5147-1790401709.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=91ab0IqEifXFu51F8aHDLQ",
+    "link": "https://vnexpress.net/hdbank-trao-26-luong-vang-cho-25-khach-gui-tiet-kiem-5125067.html",
+    "published_at": "Sat, 26 Sep 2026 13:00:00 +0700",
+    "createAt": "2026-09-26T06:00:00.000Z",
+    "thumbnail_blurhash": "LeIXaSkXMyax~qWqj]W=TJazWVjb"
+  },
+  {
+    "id": "https://vnexpress.net/xuat-khau-rau-qua-3-thang-lien-tiep-vuot-mot-ty-usd-5125032.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Xuất khẩu rau quả 3 tháng liên tiếp vượt một tỷ USD",
+    "description": "Xuất khẩu rau quả Việt Nam vượt một tỷ USD tháng thứ ba liên tiếp, đưa kim ngạch 9 tháng lên gần 7,3 tỷ USD, tăng 18,5% so với cùng kỳ năm ngoái.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/09/26/ri-1790396282-9064-1790396400.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=x1TzXznFn0OZJ35wvoHuXQ",
+    "link": "https://vnexpress.net/xuat-khau-rau-qua-3-thang-lien-tiep-vuot-mot-ty-usd-5125032.html",
+    "published_at": "Sat, 26 Sep 2026 13:07:13 +0700",
+    "createAt": "2026-09-26T06:07:13.000Z",
+    "thumbnail_blurhash": "LUKc~?SP-l~54=i^xZR.JER.fPR-"
   }
 ]
