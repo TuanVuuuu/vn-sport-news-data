@@ -1272,5 +1272,31 @@
     "published_at": "Sat, 26 Sep 2026 06:30:00 +0700",
     "createAt": "2026-09-25T23:30:00.000Z",
     "thumbnail_blurhash": "LSH-+4_N^k?GX..8.8xuXSjFR*oz"
+  },
+  {
+    "id": "https://vnexpress.net/9x-lam-viec-15-nam-de-mua-nha-5124579.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "9X làm việc 15 năm để mua nhà",
+    "description": "Người quen của tôi thế hệ 6X đã chuẩn bị sẵn vài căn nhà cho con và cháu.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/09/25/muanha-1790326872-3076-1790326898.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=ecoUpjORjcsHaXpSFc_-bg",
+    "link": "https://vnexpress.net/9x-lam-viec-15-nam-de-mua-nha-5124579.html",
+    "published_at": "Sat, 26 Sep 2026 06:00:00 +0700",
+    "createAt": "2026-09-25T23:00:00.000Z",
+    "thumbnail_blurhash": "LoI5Vw-;MyM{_4t7V@WBt8WBWBae"
+  },
+  {
+    "id": "https://vnexpress.net/henry-toi-toan-thua-tay-ban-nha-ngoi-sao-lon-nhat-cua-ho-la-tap-the-5124296.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Henry: 'Tôi toàn thua Tây Ban Nha, ngôi sao lớn nhất của họ là tập thể'",
+    "description": "Trả lời phỏng vấn báo AS, cựu danh thủ Thierry Henry – một trong những chuyên gia phân tích bóng đá hàng đầu thế giới hiện tại và giữ vai trò Giám đốc Bóng đá của hãng đồ thể thao On – đưa ra góc nhìn về đội tuyển Tây Ban Nha và xu hướng bóng đá đương đại.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/09/24/Screenshot20260924143022-17902-5218-6281-1790237818.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=E2S-oH4sq9OWOi8cS3zfoQ",
+    "link": "https://vnexpress.net/henry-toi-toan-thua-tay-ban-nha-ngoi-sao-lon-nhat-cua-ho-la-tap-the-5124296.html",
+    "published_at": "Sat, 26 Sep 2026 06:43:17 +0700",
+    "createAt": "2026-09-25T23:43:17.000Z",
+    "thumbnail_blurhash": "L8B3?C_48^M_n0-:S7D%DhRjSiS%"
   }
 ]
