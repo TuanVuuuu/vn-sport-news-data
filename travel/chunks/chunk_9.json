@@ -1246,5 +1246,31 @@
     "published_at": "Sat, 26 Sep 2026 00:37:37 +0700",
     "createAt": "2026-09-25T17:37:37.000Z",
     "thumbnail_blurhash": "LCD[tX]}9a}:}*$x-p}mJCWB$y%1"
+  },
+  {
+    "id": "https://vnexpress.net/10-cong-trinh-ky-thuat-vi-dai-phai-den-mot-lan-trong-doi-5124167.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "10 công trình kỹ thuật vĩ đại phải đến một lần trong đời",
+    "description": "Những công trình như kênh đào Panama, đường hầm eo biển Manche chứng minh cho khả năng chinh phục những giới hạn thiên nhiên của con người.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/09/24/tai-xuongt170505-1790250331.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=BHKiFddKm9Ig_XKv9PuIWA",
+    "link": "https://vnexpress.net/10-cong-trinh-ky-thuat-vi-dai-phai-den-mot-lan-trong-doi-5124167.html",
+    "published_at": "Sat, 26 Sep 2026 08:00:00 +0700",
+    "createAt": "2026-09-26T01:00:00.000Z",
+    "thumbnail_blurhash": "LHI~JnXCNNo$PERjxYt6Xox]Rjay"
+  },
+  {
+    "id": "https://vnexpress.net/dong-nghit-khach-xem-mua-lan-duoi-nuoc-o-ha-noi-5124924.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Đông nghịt khách xem múa lân dưới nước ở Hà Nội",
+    "description": "Một thủy cung Hà Nội đã trình diễn màn múa lân ở độ sâu 7 m dưới nước nhằm đem lại trải nghiệm mới cho khách tham quan mùa Trung thu.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/09/26/LWA01269-1790357002-1809-1790357054.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=2Yd34fICizGWkB3_ggFf1Q",
+    "link": "https://vnexpress.net/dong-nghit-khach-xem-mua-lan-duoi-nuoc-o-ha-noi-5124924.html",
+    "published_at": "Sat, 26 Sep 2026 09:00:00 +0700",
+    "createAt": "2026-09-26T02:00:00.000Z",
+    "thumbnail_blurhash": "LX5QG8k]V?a+S,a%emaKVVf8g5k8"
   }
 ]
