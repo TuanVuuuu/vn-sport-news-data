@@ -1,3 +1,30 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/nguoi-viet-quen-an-man-uong-ngot-nang-ganh-benh-tat-5124956.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Người Việt quen 'ăn mặn, uống ngọt' nặng gánh bệnh tật",
+      "description": "Người Việt ăn mặn, uống ngọt, thiếu rau quả nên tăng nguy cơ bệnh tim mạch, đái tháo đường, béo phì và nhiều bệnh không lây nhiễm khác.",
+      "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/09/26/anh-chup-man-hinh-luc-17903846-6562-5528-1790384720.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=PJUmavbFq7NnYVuHbzVXnA",
+      "link": "https://vnexpress.net/nguoi-viet-quen-an-man-uong-ngot-nang-ganh-benh-tat-5124956.html",
+      "published_at": "Sat, 26 Sep 2026 11:00:00 +0700",
+      "createAt": "2026-09-26T04:00:00.000Z",
+      "thumbnail_blurhash": "LADbyW610|.R~CS|IUo49aS##,M|"
+    },
+    {
+      "id": "https://vnexpress.net/tiep-vien-xe-buyt-bi-dinh-chi-vi-xo-day-hanh-khach-5125030.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Tiếp viên xe buýt bị đình chỉ vì xô đẩy hành khách",
+      "description": "Nam tiếp viên tuyến buýt 152 kết nối sân bay Tân Sơn Nhất bị đình chỉ công việc sau khi xô đẩy, yêu cầu nữ hành khách xuống xe trong lúc hai bên tranh cãi.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/09/26/825278407171664604610958340390-4805-7981-1790395662.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=gsC4cpqHCeVGzaoJej2Csg",
+      "link": "https://vnexpress.net/tiep-vien-xe-buyt-bi-dinh-chi-vi-xo-day-hanh-khach-5125030.html",
+      "published_at": "Sat, 26 Sep 2026 11:19:39 +0700",
+      "createAt": "2026-09-26T04:19:39.000Z",
+      "thumbnail_blurhash": "LJDl+t_4%N$*~qxv%MRjV?adM{M{"
+    }
+  ]
 }
