@@ -1,5 +1,5 @@
 {
-  "total_articles": 2296,
+  "total_articles": 2301,
   "files": [
     "chunk_1.json",
     "chunk_2.json",
@@ -23,7 +23,8 @@
     "chunk_20.json",
     "chunk_21.json",
     "chunk_22.json",
-    "chunk_23.json"
+    "chunk_23.json",
+    "chunk_24.json"
   ],
   "channel": {
     "title": "Thể thao - VnExpress RSS",
@@ -32,7 +33,7 @@
     "copyright": "",
     "logo_url": "https://s.vnecdn.net/vnexpress/i/v20/logos/vne_logo_rss.png",
     "link": "https://vnexpress.net/rss/the-thao.rss",
-    "last_updated": "Sat, 26 Sep 2026 09:20:40 +0700"
+    "last_updated": "Sat, 26 Sep 2026 10:30:53 +0700"
   },
-  "last_updated": "2026-09-26T04:30:54.117Z"
+  "last_updated": "2026-09-26T04:40:42.939Z"
 }
