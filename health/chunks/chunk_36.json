@@ -908,5 +908,31 @@
     "published_at": "Mon, 28 Sep 2026 00:04:00 +0700",
     "createAt": "2026-09-27T17:04:00.000Z",
     "thumbnail_blurhash": "LNL|_t~p~Vt8.8xawbkW-pM_R*bb"
+  },
+  {
+    "id": "https://vnexpress.net/nhung-quyet-dinh-sinh-tu-khi-chua-benh-bao-thai-5125363.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Những quyết định sinh tử khi chữa bệnh bào thai",
+    "description": "Cô gái 23 tuổi ở Nghệ An mang song thai. Tuyến dưới báo một bé bình thường, bé còn lại đã lưu, bảo gia đình không cần lo.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/09/27/dsc04561-1790492260-2443-1790492586.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=thOr_423KzhULtbAlq1abw",
+    "link": "https://vnexpress.net/nhung-quyet-dinh-sinh-tu-khi-chua-benh-bao-thai-5125363.html",
+    "published_at": "Mon, 28 Sep 2026 02:00:00 +0700",
+    "createAt": "2026-09-27T19:00:00.000Z",
+    "thumbnail_blurhash": "LEIqW4^+00~A=V?G?H-UD$D%V]I:"
+  },
+  {
+    "id": "https://vnexpress.net/5-thoi-quen-co-the-khien-gan-nhiem-mo-nang-5119378.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "5 thói quen có thể khiến gan nhiễm mỡ nặng",
+    "description": "Uống rượu bia, ăn nhiều đường, hút thuốc, không điều trị phù hợp có thể khiến gan nhiễm mỡ tiến triển, tăng nguy cơ viêm và biến chứng.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/09/12/440c0999b22cb1-aa6cdf97cbe7-jp-6607-4291-1789199164.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=FO9qAjaPybspxCp9T51YmQ",
+    "link": "https://vnexpress.net/5-thoi-quen-co-the-khien-gan-nhiem-mo-nang-5119378.html",
+    "published_at": "Mon, 28 Sep 2026 02:00:00 +0700",
+    "createAt": "2026-09-27T19:00:00.000Z",
+    "thumbnail_blurhash": "LFH^@G~W9-_2$_tREjWUEobvEfE2"
   }
 ]
