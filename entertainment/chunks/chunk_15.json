@@ -141,5 +141,31 @@
     "published_at": "Sun, 27 Sep 2026 12:00:00 +0700",
     "createAt": "2026-09-27T05:00:00.000Z",
     "thumbnail_blurhash": "LIEe+CIA00_4E2t7o}IUe:RPxYof"
+  },
+  {
+    "id": "https://vnexpress.net/phi-linh-mc-da-sac-5125346.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Phí Linh, MC đa sắc",
+    "description": "Phí Linh sẽ tung hứng cùng Đen Vâu, Tuấn Cry trong show ẩm thực \"Sao chọn\", với phong cách hóm hỉnh, ở tập phát sóng đầu tiên vào tối 27/9.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/09/27/phi-linh-sao-chon-1790483243-1790487334-1790487597.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=dLvmhu8CWfArY7k5roqUlw",
+    "link": "https://vnexpress.net/phi-linh-mc-da-sac-5125346.html",
+    "published_at": "Sun, 27 Sep 2026 12:52:43 +0700",
+    "createAt": "2026-09-27T05:52:43.000Z",
+    "thumbnail_blurhash": "L8F}=x_Ms8rX00z;n,xGz=01S#EL"
+  },
+  {
+    "id": "https://vnexpress.net/nhac-moi-cua-taylor-swift-vo-vi-5125251.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Nhạc mới của Taylor Swift 'vô vị'",
+    "description": "Giới chuyên môn nhận xét bốn bài hát thuộc bản mở rộng album \"The Life of a Showgirl\" của Taylor Swift \"nhạt nhẽo, không mới mẻ\".",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/09/27/taylor-swift-1790477719-6132-1790478999.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=YzUpH0-aTx0ooYIvnHtskQ",
+    "link": "https://vnexpress.net/nhac-moi-cua-taylor-swift-vo-vi-5125251.html",
+    "published_at": "Sun, 27 Sep 2026 13:10:34 +0700",
+    "createAt": "2026-09-27T06:10:34.000Z",
+    "thumbnail_blurhash": "L370;|EM0Ls,xaEMNG}@58Ip^P-V"
   }
 ]
