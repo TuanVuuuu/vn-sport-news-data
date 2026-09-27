@@ -1,3 +1,69 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/the-kho-cua-thu-tuong-israel-o-dien-dan-lien-hop-quoc-5124735.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Thế khó của Thủ tướng Israel ở diễn đàn Liên Hợp Quốc",
+      "description": "Phát biểu tại Đại hội đồng LHQ, Thủ tướng Netanyahu quyết bảo vệ lập trường của Israel trong xung đột khu vực, nhưng phản ứng của nhiều nước và rạn nứt với Mỹ đẩy ông vào thế khó.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/09/26/ap26267660504694-1790417801-1470-1790417825.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=LCW_f8bY4RiQDilJG0JZgw",
+      "link": "https://vnexpress.net/the-kho-cua-thu-tuong-israel-o-dien-dan-lien-hop-quoc-5124735.html",
+      "published_at": "Sun, 27 Sep 2026 05:00:00 +0700",
+      "createAt": "2026-09-26T22:00:00.000Z",
+      "thumbnail_blurhash": "L5AcMJ}@000L}?Na0g$*%et7R6i{"
+    },
+    {
+      "id": "https://vnexpress.net/lich-dau-ngay-27-9-cua-viet-nam-o-asiad-2026-cho-giai-con-khat-huy-chuong-5125218.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Lịch đấu ngày 27/9 của Việt Nam ở ASIAD 2026: Chờ giải cơn khát huy chương",
+      "description": "Việt Nam tranh tài ở nhiều môn ngày 27/9, trong đó điền kinh thi ba nội dung chung kết, bên cạnh các trận đấu cầu mây, bóng chuyền và bóng ném.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/09/26/ho-tro-ng-ma-nh-hu-ng-jpeg-179-4235-6543-1790440233.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=lntGlZy-zwX8US_X9g8H3A",
+      "link": "https://vnexpress.net/lich-dau-ngay-27-9-cua-viet-nam-o-asiad-2026-cho-giai-con-khat-huy-chuong-5125218.html",
+      "published_at": "Sun, 27 Sep 2026 06:00:57 +0700",
+      "createAt": "2026-09-26T23:00:57.000Z",
+      "thumbnail_blurhash": "L9KJ_cv{x^t9D4?b9FM{}T9FX8x^"
+    },
+    {
+      "id": "https://vnexpress.net/duong-toi-giang-duong-cua-co-be-canh-cut-5122063.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Đường tới giảng đường của cô bé 'cánh cụt'",
+      "description": "Không có tay chân từ bẩm sinh, Hoài Thương tự học viết, vẽ bằng hai phần cánh tay và trở thành tân sinh viên ngành Thiết kế đồ họa.",
+      "thumbnail_url": "https://vcdn1-giadinh.vnecdn.net/2026/09/27/screenshot-at-1790442304-4625-1790442320.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=B_NE0eRHmwB5xKkfOcIAeQ",
+      "link": "https://vnexpress.net/duong-toi-giang-duong-cua-co-be-canh-cut-5122063.html",
+      "published_at": "Sun, 27 Sep 2026 06:31:00 +0700",
+      "createAt": "2026-09-26T23:31:00.000Z",
+      "thumbnail_blurhash": "LECGf6.mc@?H~o-;f6xbv|,ErYRO"
+    },
+    {
+      "id": "https://vnexpress.net/ong-trump-tu-choi-de-xuat-cua-iran-ve-mo-cua-eo-bien-hormuz-5125240.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Ông Trump từ chối đề xuất của Iran về mở cửa eo biển Hormuz",
+      "description": "Tổng thống Trump bác bỏ đề xuất mở lại eo biển Hormuz và chấm dứt giao tranh, cho rằng Iran \"đang thua nặng\".",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/09/27/ap26269505006045-1790465238-9854-1790465533.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=lgp6krPPiyYuHEIX-Mi0bQ",
+      "link": "https://vnexpress.net/ong-trump-tu-choi-de-xuat-cua-iran-ve-mo-cua-eo-bien-hormuz-5125240.html",
+      "published_at": "Sun, 27 Sep 2026 06:40:06 +0700",
+      "createAt": "2026-09-26T23:40:06.000Z",
+      "thumbnail_blurhash": "L9HL#68x8R3e~d^l0L57N89FVH8z"
+    },
+    {
+      "id": "https://vnexpress.net/bill-gates-ai-du-manh-de-gay-ra-nhung-su-kien-khien-mot-ty-nguoi-chet-5125234.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Bill Gates: 'AI đủ mạnh để gây ra những sự kiện khiến một tỷ người chết'",
+      "description": "Bill Gates, nhà đồng sáng lập Microsoft, cảnh báo AI có thể gây hậu quả khủng khiếp nếu rơi vào tay kẻ xấu, kêu gọi chính phủ kiểm soát chặt chẽ hơn.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/09/27/lnmc2h3xrbknvfo6irc3njc5oy-179-3332-2328-1790448988.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=NCWNUqn5oSsfi8aU2xrJ7Q",
+      "link": "https://vnexpress.net/bill-gates-ai-du-manh-de-gay-ra-nhung-su-kien-khien-mot-ty-nguoi-chet-5125234.html",
+      "published_at": "Sun, 27 Sep 2026 07:00:00 +0700",
+      "createAt": "2026-09-27T00:00:00.000Z",
+      "thumbnail_blurhash": "LWL4sf_N?vDi_3NGSgRPR%ofRix]"
+    }
+  ]
 }
