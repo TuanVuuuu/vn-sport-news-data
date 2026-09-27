@@ -1168,5 +1168,31 @@
     "published_at": "Sun, 27 Sep 2026 11:54:58 +0700",
     "createAt": "2026-09-27T04:54:58.000Z",
     "thumbnail_blurhash": "LDD0lk^--+,D?c%2oaw}I9IAWAt7"
+  },
+  {
+    "id": "https://vnexpress.net/cong-ty-go-o-dong-nai-chay-ngun-ngut-nha-xuong-do-sap-5125403.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Công ty gỗ ở Đồng Nai cháy ngùn ngụt, nhà xưởng đổ sập",
+    "description": "Lửa bùng lên rồi nhanh chóng lan toàn bộ nhà xưởng sản xuất gỗ rộng hơn 2.000 m2, khiến nhiều máy móc, tài sản bị thiêu rụi, chiều 27/9.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/09/27/179050519310537606489211450864-4277-5941-1790505493.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=JbQh7GbPFGRetfyM7YthVw",
+    "link": "https://vnexpress.net/cong-ty-go-o-dong-nai-chay-ngun-ngut-nha-xuong-do-sap-5125403.html",
+    "published_at": "Sun, 27 Sep 2026 17:46:03 +0700",
+    "createAt": "2026-09-27T10:46:03.000Z",
+    "thumbnail_blurhash": "LKFOip=ZNGX9~XofkCs:5oENt7xa"
+  },
+  {
+    "id": "https://vnexpress.net/sat-lo-deo-tren-tuyen-phan-thiet-da-lat-5125407.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Sạt lở đèo trên tuyến Phan Thiết - Đà Lạt",
+    "description": "Sau mưa, đất đá từ taluy trên đèo Đại Ninh thuộc quốc lộ 28B đổ xuống đường, gây nguy hiểm cho người đi tuyến Phan Thiết - Đà Lạt, chiều 27/9.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/09/27/sat-lo-deo-dai-ninh-1790508252-8367-1790508312.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=7xLpJcSiqzlaXsP5OVzPIg",
+    "link": "https://vnexpress.net/sat-lo-deo-tren-tuyen-phan-thiet-da-lat-5125407.html",
+    "published_at": "Sun, 27 Sep 2026 18:26:02 +0700",
+    "createAt": "2026-09-27T11:26:02.000Z",
+    "thumbnail_blurhash": "L3BpFCMJ9GW=00~V^j?aKjo|wwIV"
   }
 ]
