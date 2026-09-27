@@ -1,3 +1,56 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/cong-ty-go-o-dong-nai-chay-ngun-ngut-nha-xuong-do-sap-5125403.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Công ty gỗ ở Đồng Nai cháy ngùn ngụt, nhà xưởng đổ sập",
+      "description": "Lửa bùng lên rồi nhanh chóng lan toàn bộ nhà xưởng sản xuất gỗ rộng hơn 2.000 m2, khiến nhiều máy móc, tài sản bị thiêu rụi, chiều 27/9.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/09/27/179050519310537606489211450864-4277-5941-1790505493.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=JbQh7GbPFGRetfyM7YthVw",
+      "link": "https://vnexpress.net/cong-ty-go-o-dong-nai-chay-ngun-ngut-nha-xuong-do-sap-5125403.html",
+      "published_at": "Sun, 27 Sep 2026 17:46:03 +0700",
+      "createAt": "2026-09-27T10:46:03.000Z",
+      "thumbnail_blurhash": "LKFOip=ZNGX9~XofkCs:5oENt7xa"
+    },
+    {
+      "id": "https://vnexpress.net/than-dong-dien-kinh-thai-lan-tiep-tuc-tao-dia-chan-o-asiad-2026-5125413.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Thần đồng điền kinh Thái Lan tiếp tục tạo địa chấn ở ASIAD 2026",
+      "description": "Puripol Boonson giành HC vàng chạy 200m nam ASIAD 2026 tối nay, và trở thành người Đông Nam Á đầu tiên chạy dưới 20 giây.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/09/27/ap26270385952775-1790507372-8627-1790507468.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=n8vbXfJg2sUoQrd1oA2Vzg",
+      "link": "https://vnexpress.net/than-dong-dien-kinh-thai-lan-tiep-tuc-tao-dia-chan-o-asiad-2026-5125413.html",
+      "published_at": "Sun, 27 Sep 2026 18:13:04 +0700",
+      "createAt": "2026-09-27T11:13:04.000Z",
+      "thumbnail_blurhash": "LGEL+]~V?Y--?1n7IWM}j3rsV[Ip"
+    },
+    {
+      "id": "https://vnexpress.net/bao-bai-dang-ve-muse-cua-ty-phu-ai-alexandr-wang-5125399.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "'Bão bài đăng' về Muse của tỷ phú AI Alexandr Wang",
+      "description": "Alexandr Wang, Giám đốc AI của Meta, đăng hơn 350 bài về trợ lý AI Muse trên mạng xã hội trong gần ba tuần, từ hài hước đến châm biếm đối thủ.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/09/27/screenshot20260927170004-17905-8793-6370-1790504040.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=zPZAA3DJe4n4QYPV8Od_7A",
+      "link": "https://vnexpress.net/bao-bai-dang-ve-muse-cua-ty-phu-ai-alexandr-wang-5125399.html",
+      "published_at": "Sun, 27 Sep 2026 18:21:06 +0700",
+      "createAt": "2026-09-27T11:21:06.000Z",
+      "thumbnail_blurhash": "LwIYIXoLj[t7_Nayj[of9EWBj[ae"
+    },
+    {
+      "id": "https://vnexpress.net/sat-lo-deo-tren-tuyen-phan-thiet-da-lat-5125407.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Sạt lở đèo trên tuyến Phan Thiết - Đà Lạt",
+      "description": "Sau mưa, đất đá từ taluy trên đèo Đại Ninh thuộc quốc lộ 28B đổ xuống đường, gây nguy hiểm cho người đi tuyến Phan Thiết - Đà Lạt, chiều 27/9.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/09/27/2aobor1zffw9nwkr1zxbij8m0iuf9n-3126-5893-1790508934.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Re0EVnSMFJopXHfpz5dIxg",
+      "link": "https://vnexpress.net/sat-lo-deo-tren-tuyen-phan-thiet-da-lat-5125407.html",
+      "published_at": "Sun, 27 Sep 2026 18:26:02 +0700",
+      "createAt": "2026-09-27T11:26:02.000Z",
+      "thumbnail_blurhash": "LGD]bvVWD$%h5saJMw-=_4IUISx]"
+    }
+  ]
 }
