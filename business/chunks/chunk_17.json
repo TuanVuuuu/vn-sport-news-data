@@ -440,5 +440,31 @@
     "published_at": "Sun, 27 Sep 2026 11:00:00 +0700",
     "createAt": "2026-09-27T04:00:00.000Z",
     "thumbnail_blurhash": "L%Gl;oayWBkC_NflWBj[%2ofj[j["
+  },
+  {
+    "id": "https://vnexpress.net/vikki-digital-bank-mo-rong-giai-phap-tai-chinh-so-cho-sinh-vien-5125323.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Vikki Digital Bank mở rộng giải pháp tài chính số cho sinh viên",
+    "description": "Vikki Digital Bank triển khai thẻ sinh viên đa năng, hạn mức tín dụng đến 40 triệu đồng cùng \"Trạm công dân số\" tại Đại học Victoria Hòa Bình ngày 25/9.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/09/27/1790482984828dcbd57dcd69c2bad0-5663-5774-1790483376.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=PFOB_7d16_z50J6xXa0lww",
+    "link": "https://vnexpress.net/vikki-digital-bank-mo-rong-giai-phap-tai-chinh-so-cho-sinh-vien-5125323.html",
+    "published_at": "Sun, 27 Sep 2026 11:30:00 +0700",
+    "createAt": "2026-09-27T04:30:00.000Z",
+    "thumbnail_blurhash": "LRIq=m^*9v5D?dDiMvRi8|IBs,t2"
+  },
+  {
+    "id": "https://vnexpress.net/nam-a-bank-nhan-khoan-tai-tro-60-trieu-usd-tu-fmo-5125321.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Nam Á Bank nhận khoản tài trợ 60 triệu USD từ FMO",
+    "description": "Nam A Bank ký thỏa thuận vay 60 triệu USD, kỳ hạn 5 năm, không có tài sản bảo đảm từ FMO để cấp vốn cho dự án xanh, doanh nghiệp siêu nhỏ và SME tại Việt Nam.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/09/27/thumb-1790482212-1164-1790482315.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=IEg4KfOtfnUxqgnpaKdeXg",
+    "link": "https://vnexpress.net/nam-a-bank-nhan-khoan-tai-tro-60-trieu-usd-tu-fmo-5125321.html",
+    "published_at": "Sun, 27 Sep 2026 11:30:00 +0700",
+    "createAt": "2026-09-27T04:30:00.000Z",
+    "thumbnail_blurhash": "LnHLoCn#5@o#2gWC%1oLVyoziwV@"
   }
 ]
