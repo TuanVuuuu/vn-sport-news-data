@@ -583,5 +583,31 @@
     "published_at": "Mon, 28 Sep 2026 06:00:00 +0700",
     "createAt": "2026-09-27T23:00:00.000Z",
     "thumbnail_blurhash": "LBI;-e0000-XuPDiMxM_00IAi_M_"
+  },
+  {
+    "id": "https://vnexpress.net/mb-trien-khai-nen-tang-tai-tro-chuoi-cung-ung-da-tang-cho-doanh-nghiep-5125115.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "MB triển khai nền tảng tài trợ chuỗi cung ứng đa tầng cho doanh nghiệp",
+    "description": "MB triển khai gói giải pháp Tài trợ chuỗi cung ứng đa tầng trên nền tảng số, cho phép mở rộng dòng vốn từ doanh nghiệp trung tâm tới các nhà cung cấp cấp 2, 3… trong hệ sinh thái.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/09/26/1790336826961-g115950898961400-7386-9399-1790415164.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ozmCoMmD2ukSPGPcw5um1g",
+    "link": "https://vnexpress.net/mb-trien-khai-nen-tang-tai-tro-chuoi-cung-ung-da-tang-cho-doanh-nghiep-5125115.html",
+    "published_at": "Mon, 28 Sep 2026 08:00:00 +0700",
+    "createAt": "2026-09-28T01:00:00.000Z",
+    "thumbnail_blurhash": "LRHMG}?^_NktAg.7%Lxv.9IV9FMx"
+  },
+  {
+    "id": "https://vnexpress.net/gia-dau-the-gioi-tang-tro-lai-khi-my-tu-choi-de-xuat-cua-iran-5125490.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Giá dầu thế giới tăng trở lại khi Mỹ từ chối đề xuất của Iran",
+    "description": "Giá dầu thô bật tăng sau khi ông Trump bác bỏ đề xuất hòa bình và mở lại eo biển Hormuz từ phía Iran.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/09/28/Screenshot20260821120140-17905-5128-7587-1790557702.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=-VCBzuK-LJlcIFbLs4AcNw",
+    "link": "https://vnexpress.net/gia-dau-the-gioi-tang-tro-lai-khi-my-tu-choi-de-xuat-cua-iran-5125490.html",
+    "published_at": "Mon, 28 Sep 2026 08:12:52 +0700",
+    "createAt": "2026-09-28T01:12:52.000Z",
+    "thumbnail_blurhash": "LOGIQ3_3tlxuT}%LoNS5.SxZafNH"
   }
 ]
