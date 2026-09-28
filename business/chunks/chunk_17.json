@@ -609,5 +609,57 @@
     "published_at": "Mon, 28 Sep 2026 08:12:52 +0700",
     "createAt": "2026-09-28T01:12:52.000Z",
     "thumbnail_blurhash": "LOGIQ3_3tlxuT}%LoNS5.SxZafNH"
+  },
+  {
+    "id": "https://vnexpress.net/doanh-nghiep-nho-chua-kip-co-lai-da-het-han-ho-tro-thue-5125518.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "'Doanh nghiệp nhỏ chưa kịp có lãi đã hết hạn hỗ trợ thuế'",
+    "description": "Đại biểu Trần Văn Lâm cho rằng chỉ miễn thuế thu nhập cho doanh nghiệp nhỏ trong 3 năm đầu là chưa phù hợp bởi nhiều đơn vị \"chưa kịp có lãi đã hết thời hạn hỗ trợ\".",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/09/28/wm28-wm28-202609280833349192-img-17-5156-6846-1790562428.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=fkLDZsecbvL1AhRtoc6qbw",
+    "link": "https://vnexpress.net/doanh-nghiep-nho-chua-kip-co-lai-da-het-han-ho-tro-thue-5125518.html",
+    "published_at": "Mon, 28 Sep 2026 10:17:21 +0700",
+    "createAt": "2026-09-28T03:17:21.000Z",
+    "thumbnail_blurhash": "LbLpaLrCDi%1}=aKx^VsIUkDo}Ri"
+  },
+  {
+    "id": "https://vnexpress.net/doanh-nghiep-von-137-000-ty-sap-nhap-vao-cong-ty-san-xuat-xe-vinfast-5125517.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Doanh nghiệp vốn 137.000 tỷ sáp nhập vào công ty sản xuất xe VinFast",
+    "description": "Công ty Tương lai, pháp nhân có vốn điều lệ 136.668 tỷ đồng, sắp sáp nhập với VinFast Trading &amp; Production, doanh nghiệp sở hữu mảng sản xuất của VinFast ở Việt Nam.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/09/28/VFtuanvu-1790567212-5584-1790567220.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=wHPjFLkg1pgWvQo0ZopXqQ",
+    "link": "https://vnexpress.net/doanh-nghiep-von-137-000-ty-sap-nhap-vao-cong-ty-san-xuat-xe-vinfast-5125517.html",
+    "published_at": "Mon, 28 Sep 2026 10:32:40 +0700",
+    "createAt": "2026-09-28T03:32:40.000Z",
+    "thumbnail_blurhash": "L+Kd}OofM|og~qj[WVoft8oLogj["
+  },
+  {
+    "id": "https://vnexpress.net/gia-vang-mieng-xuong-thap-nhat-mot-thang-5125572.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Giá vàng miếng xuống thấp nhất một tháng",
+    "description": "Mỗi lượng vàng sáng nay xuống vùng 143 triệu đồng, thấp hơn 5 triệu mỗi lượng so với đầu tháng này.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/09/28/233a0866-1790565054-7509-1790565166.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=FiIXj_FXJlBUDy4P3f_Qtg",
+    "link": "https://vnexpress.net/gia-vang-mieng-xuong-thap-nhat-mot-thang-5125572.html",
+    "published_at": "Mon, 28 Sep 2026 10:42:03 +0700",
+    "createAt": "2026-09-28T03:42:03.000Z",
+    "thumbnail_blurhash": "LBGt=.~n-@?u-6x@=]D*?^x^TL.7"
+  },
+  {
+    "id": "https://vnexpress.net/san-crypto-bitget-bi-hack-gan-388-trieu-usd-5125580.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Sàn crypto Bitget bị hack gần 388 triệu USD",
+    "description": "Sàn giao dịch tiền số Bitget bị rút trái phép khoảng 387,5 triệu USD, sau khi hacker xâm nhập hệ thống backend xử lý giao dịch.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/09/28/wm1-wm1-20260717-1790565302-6873-1790565352.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=oZPq1hCQaUwjkYt-y0phzw",
+    "link": "https://vnexpress.net/san-crypto-bitget-bi-hack-gan-388-trieu-usd-5125580.html",
+    "published_at": "Mon, 28 Sep 2026 10:49:51 +0700",
+    "createAt": "2026-09-28T03:49:51.000Z",
+    "thumbnail_blurhash": "LHF~U1EO%g=v_N-;NHD*%MxZsmIo"
   }
 ]
