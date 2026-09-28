@@ -1233,5 +1233,70 @@
     "published_at": "Mon, 28 Sep 2026 15:00:00 +0700",
     "createAt": "2026-09-28T08:00:00.000Z",
     "thumbnail_blurhash": "LKHT~a9KE+xb}[bw%NafoiX9xakD"
+  },
+  {
+    "id": "https://vnexpress.net/an-com-nguoi-tru-lanh-qua-dem-giup-ha-duong-huyet-5125377.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Ăn cơm nguội trữ lạnh qua đêm giúp hạ đường huyết?",
+    "description": "Cơm hạt dài để tủ lạnh qua đêm giúp tăng tinh bột kháng hạ đường huyết, nhưng gạo dẻo hay khoai nướng lại không có tác dụng này.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/09/27/wm1-wm1-screenshot-at-1790499054-2749-1790519333.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=u0Hgkt9KpEl7ctp77m99BA",
+    "link": "https://vnexpress.net/an-com-nguoi-tru-lanh-qua-dem-giup-ha-duong-huyet-5125377.html",
+    "published_at": "Mon, 28 Sep 2026 15:54:40 +0700",
+    "createAt": "2026-09-28T08:54:40.000Z",
+    "thumbnail_blurhash": "L5F#%I1Q00009b?GE2xG00NIo^~B"
+  },
+  {
+    "id": "https://vnexpress.net/vi-sao-dau-cot-song-sau-mo-thoat-vi-dia-dem-5125762.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Vì sao đau cột sống sau mổ thoát vị đĩa đệm?",
+    "description": "Tổn thương thần kinh, mô sẹo, thay đổi cấu trúc cột sống, bệnh tái phát hoặc phẫu thuật thất bại có thể gây đau kéo dài dù đã mổ thoát vị đĩa đệm.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/09/28/1-1790581803-8972-1790581823.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=clvVAhr9qzJg5Typ6GDuOA",
+    "link": "https://vnexpress.net/vi-sao-dau-cot-song-sau-mo-thoat-vi-dia-dem-5125762.html",
+    "published_at": "Mon, 28 Sep 2026 16:00:00 +0700",
+    "createAt": "2026-09-28T09:00:00.000Z",
+    "thumbnail_blurhash": "LLG]UhyD9Zx]~Nt8out6xlxunMNG"
+  },
+  {
+    "id": "https://vnexpress.net/nhung-thay-doi-trong-mieng-khien-hoi-tho-co-mui-5125690.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Những thay đổi trong miệng khiến hơi thở có mùi",
+    "description": "Giảm tiết nước bọt, mảng bám tích tụ, thức ăn mắc kẹt hoặc sâu răng tạo điều kiện cho vi khuẩn phát triển, khiến hơi thở có mùi.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/09/28/nh10-1790572581-4550-1790572892.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ZN_kykZU9V26q8gcAbFB8A",
+    "link": "https://vnexpress.net/nhung-thay-doi-trong-mieng-khien-hoi-tho-co-mui-5125690.html",
+    "published_at": "Mon, 28 Sep 2026 16:00:00 +0700",
+    "createAt": "2026-09-28T09:00:00.000Z",
+    "thumbnail_blurhash": "LDF~dNn5IBxu_MSha^Rl~VxvXSs="
+  },
+  {
+    "id": "https://vnexpress.net/an-gi-buoi-toi-it-lam-tang-duong-huyet-5125592.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Ăn gì buổi tối ít làm tăng đường huyết?",
+    "description": "Ưu tiên món giàu chất xơ, có chỉ số đường huyết thấp giúp no lâu, hạn chế tăng đường huyết và tránh ảnh hưởng đến giấc ngủ.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/09/28/431644986339187561909364295639-6613-6948-1790566140.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=f8qAoT6SC4hotzFFnMmG_Q",
+    "link": "https://vnexpress.net/an-gi-buoi-toi-it-lam-tang-duong-huyet-5125592.html",
+    "published_at": "Mon, 28 Sep 2026 16:00:00 +0700",
+    "createAt": "2026-09-28T09:00:00.000Z",
+    "thumbnail_blurhash": "LBJOP5%#yXx]}Zxtoy-UDQDjMez="
+  },
+  {
+    "id": "https://vnexpress.net/khong-co-ong-dan-tinh-do-bat-thuong-gene-5125829.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Không có ống dẫn tinh do bất thường gene",
+    "description": "Anh Minh, 32 tuổi, vô sinh do không có tinh trùng, bác sĩ phát hiện dị tật không có hai ống dẫn tinh liên quan bất thường gene CFTR.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/09/28/3-chuyen-vien-phoi-hoc-quan-sa-7667-4067-1790588148.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=8Rs2iAJCvpx789Dvy9l0sg",
+    "link": "https://vnexpress.net/khong-co-ong-dan-tinh-do-bat-thuong-gene-5125829.html",
+    "published_at": "Mon, 28 Sep 2026 17:00:00 +0700",
+    "createAt": "2026-09-28T10:00:00.000Z",
+    "thumbnail_blurhash": "LRGcZTtn?cDh_NnMR%I[j]s.V?Rk"
   }
 ]
