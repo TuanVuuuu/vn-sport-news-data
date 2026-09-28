@@ -284,5 +284,31 @@
     "published_at": "Mon, 28 Sep 2026 08:06:39 +0700",
     "createAt": "2026-09-28T01:06:39.000Z",
     "thumbnail_blurhash": "LSJ}ZR$e9k#U2gWUkrOY69R+wHW?"
+  },
+  {
+    "id": "https://vnexpress.net/bo-phim-ai-dau-tien-sap-ra-rap-trung-quoc-5125484.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Bộ phim AI đầu tiên sắp ra rạp Trung Quốc",
+    "description": "Phim khoa học viễn tưởng \"Tam Tinh Đôi: Vị lai vãng sự\", 100 phút, là tác phẩm điện ảnh AI đầu tiên Trung Quốc cấp phép, dự kiến ra rạp ngày 23/10.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/09/28/tam-tinh-doi3-jpeg-1790560013-2505-1790560289.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=cEFj-tbUv0j3hrTcmNASSw",
+    "link": "https://vnexpress.net/bo-phim-ai-dau-tien-sap-ra-rap-trung-quoc-5125484.html",
+    "published_at": "Mon, 28 Sep 2026 08:56:42 +0700",
+    "createAt": "2026-09-28T01:56:42.000Z",
+    "thumbnail_blurhash": "L8G*l~~Q0002?w%2DhR5Ef%1%LIU"
+  },
+  {
+    "id": "https://vnexpress.net/phuong-nam-biet-on-vo-ben-toi-luc-kho-khan-5125411.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Phương Nam: 'Biết ơn vợ bên tôi lúc khó khăn'",
+    "description": "Phương Nam phim \"Mưa đỏ\" nói vợ gắn bó, yêu thương từ lúc anh chưa nổi tiếng đến khi có chỗ đứng trong sự nghiệp.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/09/27/dien-vien-phuong-nam-va-vo-179-9486-6603-1790522835.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Od7rUbKFJbPSIj68m-7sBg",
+    "link": "https://vnexpress.net/phuong-nam-biet-on-vo-ben-toi-luc-kho-khan-5125411.html",
+    "published_at": "Mon, 28 Sep 2026 09:53:17 +0700",
+    "createAt": "2026-09-28T02:53:17.000Z",
+    "thumbnail_blurhash": "LqMQbTIV_N%M_3xakCR+xuaxNGt7"
   }
 ]
