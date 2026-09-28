@@ -1,5 +1,5 @@
 {
-  "total_articles": 24384,
+  "total_articles": 24403,
   "files": [
     "chunk_1.json",
     "chunk_2.json",
@@ -244,7 +244,8 @@
     "chunk_241.json",
     "chunk_242.json",
     "chunk_243.json",
-    "chunk_244.json"
+    "chunk_244.json",
+    "chunk_245.json"
   ],
   "channel": {
     "title": "Tin mới nhất - VnExpress RSS",
@@ -253,7 +254,7 @@
     "copyright": "",
     "logo_url": "https://s.vnecdn.net/vnexpress/i/v20/logos/vne_logo_rss.png",
     "link": "https://vnexpress.net/rss/tin-moi-nhat.rss",
-    "last_updated": "Mon, 28 Sep 2026 21:50:42 +0700"
+    "last_updated": "Tue, 29 Sep 2026 00:10:53 +0700"
   },
-  "last_updated": "2026-09-28T17:40:48.284Z"
+  "last_updated": "2026-09-28T17:50:50.777Z"
 }
