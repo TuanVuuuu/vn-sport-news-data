@@ -960,5 +960,31 @@
     "published_at": "Mon, 28 Sep 2026 06:00:00 +0700",
     "createAt": "2026-09-27T23:00:00.000Z",
     "thumbnail_blurhash": "L7Gu,l00tl00M44n^j4.FUx]~WNG"
+  },
+  {
+    "id": "https://vnexpress.net/be-7-ngay-tuoi-viem-phoi-do-vi-khuan-5125470.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Bé 7 ngày tuổi viêm phổi do vi khuẩn",
+    "description": "Bé Long, 7 ngày tuổi, sốt 39 độ C, viêm phổi, suy hô hấp, xét nghiệm dương tính với vi khuẩn legionella pneumophila thường tồn tại trong nguồn nước.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/09/28/image001-1790555568-1591-1790555575.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Me4LnlXrjAIJ-uuFpajeHA",
+    "link": "https://vnexpress.net/be-7-ngay-tuoi-viem-phoi-do-vi-khuan-5125470.html",
+    "published_at": "Mon, 28 Sep 2026 08:00:00 +0700",
+    "createAt": "2026-09-28T01:00:00.000Z",
+    "thumbnail_blurhash": "LHIXsu}$TJ4nEIIWD-xatR9dWAjr"
+  },
+  {
+    "id": "https://vnexpress.net/thuc-don-cua-nhung-nguoi-nhat-ban-tren-100-tuoi-5125310.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Thực đơn của những người Nhật Bản trên 100 tuổi",
+    "description": "Người trăm tuổi ở Nhật chuộng nhất thịt lợn, sữa chua, đậu phụ, cá thu và thường phối hợp cá hồi, khoai lang để ngừa xơ mạch, sa sút trí tuệ.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/09/27/wm1-wm1-screenshot-at-1790479867-3386-1790519550.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=QiYR1759o-XkeGozFgj89A",
+    "link": "https://vnexpress.net/thuc-don-cua-nhung-nguoi-nhat-ban-tren-100-tuoi-5125310.html",
+    "published_at": "Mon, 28 Sep 2026 08:17:22 +0700",
+    "createAt": "2026-09-28T01:17:22.000Z",
+    "thumbnail_blurhash": "L9FrniD*00kW_3xDIVN_00%M_Nae"
   }
 ]
