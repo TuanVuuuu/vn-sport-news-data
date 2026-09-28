@@ -258,5 +258,57 @@
     "published_at": "Mon, 28 Sep 2026 10:47:50 +0700",
     "createAt": "2026-09-28T03:47:50.000Z",
     "thumbnail_blurhash": "LIHCD*Rjxuxu_ND%t7j[_4RjM{j["
+  },
+  {
+    "id": "https://vnexpress.net/noi-lo-cua-chau-au-khi-duc-tang-suc-manh-quan-su-5122963.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Nỗi lo của châu Âu khi Đức tăng sức mạnh quân sự",
+    "description": "Đức đẩy nhanh đầu tư cho quân đội, nhưng sự trỗi dậy của phe cực hữu ở nước này đang khiến nhiều quốc gia châu Âu bất an.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/09/21/AFP20260430A9FK9MFv1HighResGer-7153-7541-1789985636.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=-ng-6UTiicr3n2uYEWipiQ",
+    "link": "https://vnexpress.net/noi-lo-cua-chau-au-khi-duc-tang-suc-manh-quan-su-5122963.html",
+    "published_at": "Mon, 28 Sep 2026 11:19:58 +0700",
+    "createAt": "2026-09-28T04:19:58.000Z",
+    "thumbnail_blurhash": "L49Qmh_MD%~p9XITxsD%$|kCtRxu"
+  },
+  {
+    "id": "https://vnexpress.net/ngap-nang-nguoi-dan-new-york-cheo-kayak-giua-pho-5125576.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Ngập nặng, người dân New York chèo kayak giữa phố",
+    "description": "Cơn bão đổ bộ vào cuối tuần mang theo mưa lớn đã gây ngập lụt nghiêm trọng, khiến nhiều người phải di chuyển bằng kayak.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/09/28/weathernewjersynoreaster265541-3426-1841-1790566123.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=zqP5eruLGLwEVUWrwtw0zA",
+    "link": "https://vnexpress.net/ngap-nang-nguoi-dan-new-york-cheo-kayak-giua-pho-5125576.html",
+    "published_at": "Mon, 28 Sep 2026 11:41:17 +0700",
+    "createAt": "2026-09-28T04:41:17.000Z",
+    "thumbnail_blurhash": "L8G[~B~p4nM_00xutRD%00tSkDIn"
+  },
+  {
+    "id": "https://vnexpress.net/van-cuoc-cua-ong-trump-khi-bac-de-xuat-ngung-ban-tu-iran-5125479.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Ván cược của ông Trump khi bác đề xuất ngừng bắn từ Iran",
+    "description": "Bác đề xuất ngừng bắn của Iran, ông Trump tự tin có thể ép đối thủ khuất phục, nhưng quyết định đó có thể tăng rủi ro cho bầu cử giữa kỳ.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/09/28/AP26270838444463-1790568051-2229-1790568484.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=xOygf4IamsBWstgZ9B3r9Q",
+    "link": "https://vnexpress.net/van-cuoc-cua-ong-trump-khi-bac-de-xuat-ngung-ban-tu-iran-5125479.html",
+    "published_at": "Mon, 28 Sep 2026 11:55:05 +0700",
+    "createAt": "2026-09-28T04:55:05.000Z",
+    "thumbnail_blurhash": "L47-NRSi00=[~ox^9aaJ7ixu]gIn"
+  },
+  {
+    "id": "https://vnexpress.net/tinh-o-thai-lan-phat-lenh-so-tan-khan-vi-nguy-co-vo-dap-5125575.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Tỉnh ở Thái Lan phát lệnh sơ tán khẩn vì nguy cơ vỡ đập",
+    "description": "Giới chức tỉnh Rayong yêu cầu người dân tại các khu vực có nguy cơ nhanh chóng sơ tán, sau khi phát hiện hư hại tại đập tràn của hồ chứa Khlong Ra-ok.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/09/28/dap-nuoc-thai-lan-1790567028-5193-1790569497.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=p_IbyZWKYHVUsALiCGllww",
+    "link": "https://vnexpress.net/tinh-o-thai-lan-phat-lenh-so-tan-khan-vi-nguy-co-vo-dap-5125575.html",
+    "published_at": "Mon, 28 Sep 2026 12:04:53 +0700",
+    "createAt": "2026-09-28T05:04:53.000Z",
+    "thumbnail_blurhash": "L5EVmL000KM|J600?H?b00~q%MD%"
   }
 ]
