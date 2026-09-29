@@ -245,5 +245,31 @@
     "published_at": "Tue, 29 Sep 2026 10:00:00 +0700",
     "createAt": "2026-09-29T03:00:00.000Z",
     "thumbnail_blurhash": "LRKUvS_4?G-:D%tRt7V@t7oeRjR*"
+  },
+  {
+    "id": "https://vnexpress.net/chuoi-hoat-dong-huong-ung-ngay-hoi-doi-moi-sang-tao-quoc-gia-5125856.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Chuỗi hoạt động hưởng ứng Ngày hội Đổi mới sáng tạo quốc gia",
+    "description": "Các hội thảo, triển lãm công nghệ... hưởng ứng Ngày đổi mới sáng tạo quốc gia 2026 diễn ra tại các bộ ngành, địa phương từ giữa tháng 9, điểm nhấn là lễ chào mừng ngày 4/10 với loạt vinh danh, công bố Chỉ số đổi mới sáng tạo cấp địa phương (PII).",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/09/28/7f3165bc05ec452eaf0929b66e9400-1524-4371-1790589653.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=cXCOSeFygl3RsY-rr7vmwg",
+    "link": "https://vnexpress.net/chuoi-hoat-dong-huong-ung-ngay-hoi-doi-moi-sang-tao-quoc-gia-5125856.html",
+    "published_at": "Tue, 29 Sep 2026 10:09:36 +0700",
+    "createAt": "2026-09-29T03:09:36.000Z",
+    "thumbnail_blurhash": "LCGuq4n$00x^R4xC~q-okD%Mw]Di"
+  },
+  {
+    "id": "https://vnexpress.net/22-nha-nghien-cuu-hang-dau-keu-goi-giam-sat-khan-cap-ai-5126045.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "22 nhà nghiên cứu hàng đầu kêu gọi giám sát khẩn cấp AI",
+    "description": "Các nhà nghiên cứu tại OpenAI, Anthropic, Microsoft, Meta và chuyên gia đầu ngành cùng cảnh báo sự bùng nổ AI có thể \"gây suy yếu hoặc tuyệt chủng nhân loại\".",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/09/29/lq-1790650970-6501-1790651038.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ZQuGdO1KJtZQZEgB6CsBTA",
+    "link": "https://vnexpress.net/22-nha-nghien-cuu-hang-dau-keu-goi-giam-sat-khan-cap-ai-5126045.html",
+    "published_at": "Tue, 29 Sep 2026 10:29:05 +0700",
+    "createAt": "2026-09-29T03:29:05.000Z",
+    "thumbnail_blurhash": "LEGS1C}UL}xuEf574.Io5SEMR5xa"
   }
 ]
