@@ -129,6 +129,32 @@
       "published_at": "Tue, 29 Sep 2026 13:16:10 +0700",
       "createAt": "2026-09-29T06:16:10.000Z",
       "thumbnail_blurhash": "LGGl9c0000~W00?b_4M{yEVss:IU"
+    },
+    {
+      "id": "https://vnexpress.net/phuc-dung-dien-kinh-thien-o-hoang-thanh-thang-long-5126139.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Phục dựng điện Kính Thiên ở hoàng thành Thăng Long",
+      "description": "Dự án bảo quản, tu bổ, phục hồi điện Kính Thiên được khởi công trưa 29/9 tại Khu di sản trung tâm hoàng thành Thăng Long - Hà Nội sau 15 năm nghiên cứu.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/09/29/1790659396561-g502307469459244-7936-9040-1790661541.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=SlwjozfajWA5CI09BmIniQ",
+      "link": "https://vnexpress.net/phuc-dung-dien-kinh-thien-o-hoang-thanh-thang-long-5126139.html",
+      "published_at": "Tue, 29 Sep 2026 14:13:59 +0700",
+      "createAt": "2026-09-29T07:13:59.000Z",
+      "thumbnail_blurhash": "LzJ[6UWXNyog%$bHo#of%%kCs.j]"
+    },
+    {
+      "id": "https://vnexpress.net/ukraine-tuyen-bo-bat-250-linh-nga-trong-chien-dich-phan-cong-o-donetsk-5126148.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Ukraine tuyên bố bắt 250 lính Nga trong chiến dịch phản công ở Donetsk",
+      "description": "Ukraine thông báo tái chiếm 176 km2 lãnh thổ và bắt được hơn 250 tù binh trong chiến dịch phản công Vivaldi gần thành phố Lyman.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/09/29/nh-1790654869-6677-1790655290.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=LNJMVoI9o77JvlH52Fwtvg",
+      "link": "https://vnexpress.net/ukraine-tuyen-bo-bat-250-linh-nga-trong-chien-dich-phan-cong-o-donetsk-5126148.html",
+      "published_at": "Tue, 29 Sep 2026 14:38:41 +0700",
+      "createAt": "2026-09-29T07:38:41.000Z",
+      "thumbnail_blurhash": "LeCP@gtRfkog~qt7fQof?cozj[of"
     }
   ]
 }
