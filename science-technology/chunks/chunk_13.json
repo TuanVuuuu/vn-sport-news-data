@@ -414,5 +414,18 @@
     "published_at": "Wed, 30 Sep 2026 00:00:00 +0700",
     "createAt": "2026-09-29T17:00:00.000Z",
     "thumbnail_blurhash": "LeMife;a?F%1-jbbRkt6~8RjElNH"
+  },
+  {
+    "id": "https://vnexpress.net/hacker-17-tuoi-tao-tro-ly-ai-tham-nhap-nen-tang-cua-microsoft-5125925.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Hacker 17 tuổi tạo trợ lý AI thâm nhập nền tảng của Microsoft",
+    "description": "Hacker có biệt danh Faav đã sử dụng trợ lý AI tự phát triển để phát hiện và khai thác thành công lỗ hổng xác thực trên nền tảng phân tích nội bộ Titan của Microsoft.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/09/28/wm1-wm1-dsc00498-jpg-1790605130-5618-1790605216.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=qkdMw0oxrN-DrWUl_moYsw",
+    "link": "https://vnexpress.net/hacker-17-tuoi-tao-tro-ly-ai-tham-nhap-nen-tang-cua-microsoft-5125925.html",
+    "published_at": "Wed, 30 Sep 2026 06:00:00 +0700",
+    "createAt": "2026-09-29T23:00:00.000Z",
+    "thumbnail_blurhash": "L23lt5xv00E3yFjZMbRj00RP~q-;"
   }
 ]
