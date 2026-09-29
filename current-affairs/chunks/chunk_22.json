@@ -505,5 +505,70 @@
     "published_at": "Tue, 29 Sep 2026 14:31:23 +0700",
     "createAt": "2026-09-29T07:31:23.000Z",
     "thumbnail_blurhash": "LLFG5y%MW@tRyGM_t7WXtnohRjof"
+  },
+  {
+    "id": "https://vnexpress.net/chuyen-gia-phu-my-hung-it-ngap-nho-giu-cho-cho-nuoc-5126209.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Chuyên gia: Phú Mỹ Hưng ít ngập nhờ giữ chỗ cho nước",
+    "description": "Khu đô thị Phú Mỹ Hưng được ghi nhận lún chậm so với khu Nam Sài Gòn; cốt nền cao, kênh rạch và không gian trữ nước giúp khu đô thị hạn chế ngập.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/09/29/wm1-wm1-dji-0798-1790664955-5690-1790665217.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=qOye-_rvROvKoybt50F3sA",
+    "link": "https://vnexpress.net/chuyen-gia-phu-my-hung-it-ngap-nho-giu-cho-cho-nuoc-5126209.html",
+    "published_at": "Tue, 29 Sep 2026 14:31:23 +0700",
+    "createAt": "2026-09-29T07:31:23.000Z",
+    "thumbnail_blurhash": "LLFG5y%MW@tRyGM_t7WXtnohRjof"
+  },
+  {
+    "id": "https://vnexpress.net/an-giang-yeu-cau-xu-ly-ho-so-uu-tien-apec-trong-mot-ngay-5126289.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "An Giang yêu cầu xử lý hồ sơ ưu tiên APEC trong một ngày",
+    "description": "Hồ sơ phục vụ APEC 2027 được áp dụng \"luồng xanh\", riêng nhiệm vụ ưu tiên đặc biệt phải được tiếp nhận, xử lý trong một ngày làm việc.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/09/29/nha-bieu-dien-da-nang2-1790676-5882-2557-1790676188.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=7U-v0cnKfk-YeoboBc_lmg",
+    "link": "https://vnexpress.net/an-giang-yeu-cau-xu-ly-ho-so-uu-tien-apec-trong-mot-ngay-5126289.html",
+    "published_at": "Tue, 29 Sep 2026 16:12:02 +0700",
+    "createAt": "2026-09-29T09:12:02.000Z",
+    "thumbnail_blurhash": "L#F?qyogt8s:u6WEa}WB-=bIjYo0"
+  },
+  {
+    "id": "https://vnexpress.net/de-xuat-co-che-ba-ben-giup-tai-xe-cong-nghe-dong-bao-hiem-xa-hoi-5126273.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Đề xuất 'cơ chế ba bên' giúp tài xế công nghệ đóng bảo hiểm xã hội",
+    "description": "Đại biểu Trần Thị Diệu Thúy đề xuất tài xế, doanh nghiệp nền tảng và Nhà nước cùng chia sẻ mức đóng bảo hiểm xã hội khi nhóm lao động này chuyển từ tự nguyện sang bắt buộc.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/09/29/202609291514579939-g7574298250-9866-6152-1790671459.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=htwpDW-kZVcZSvcJBLXsMA",
+    "link": "https://vnexpress.net/de-xuat-co-che-ba-ben-giup-tai-xe-cong-nghe-dong-bao-hiem-xa-hoi-5126273.html",
+    "published_at": "Tue, 29 Sep 2026 16:23:21 +0700",
+    "createAt": "2026-09-29T09:23:21.000Z",
+    "thumbnail_blurhash": "LMGR9.~WavI9~C-;VsM{XRt8WFNG"
+  },
+  {
+    "id": "https://vnexpress.net/phat-hien-hang-dong-o-rung-nguyen-sinh-nghe-an-5126282.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Phát hiện hang động ở rừng nguyên sinh Nghệ An",
+    "description": "Hang động rộng 2.000-3.000 m2, có 3-4 tầng cùng nhiều nhũ đá bề mặt ánh kim xếp chồng lên nhau, được phát hiện tại khu rừng nguyên sinh ở xã Tam Thái.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/09/29/phat-hien-hang-dong-o-nghe-an-3619-7310-1790673704.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=khmEHUcYOq2bq2GE7kS83g",
+    "link": "https://vnexpress.net/phat-hien-hang-dong-o-rung-nguyen-sinh-nghe-an-5126282.html",
+    "published_at": "Tue, 29 Sep 2026 16:36:53 +0700",
+    "createAt": "2026-09-29T09:36:53.000Z",
+    "thumbnail_blurhash": "LMF$CK9J9ZI-~ANZNLxvVrxtWst8"
+  },
+  {
+    "id": "https://vnexpress.net/phuong-an-mo-rong-gan-1-000-km-cao-toc-bac-nam-len-6-lan-5126275.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Phương án mở rộng gần 1.000 km cao tốc Bắc Nam lên 6 làn",
+    "description": "15 đoạn cao tốc Bắc Nam phía Đông dài 966 km được đề xuất gom thành hai dự án để mở rộng lên 6 làn xe theo phương thức PPP, hợp đồng BOT, tổng vốn hơn 150.000 tỷ đồng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/09/29/cao-toc-dien-chau-bai-vot-truo-5419-3928-1790670974.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=YFT2Zv0KKDV0-0rx2koBgA",
+    "link": "https://vnexpress.net/phuong-an-mo-rong-gan-1-000-km-cao-toc-bac-nam-len-6-lan-5126275.html",
+    "published_at": "Tue, 29 Sep 2026 16:38:35 +0700",
+    "createAt": "2026-09-29T09:38:35.000Z",
+    "thumbnail_blurhash": "LrG9Kmxuj]t6~qt6f6oe.8bIWCj]"
   }
 ]
