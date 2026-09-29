@@ -1051,5 +1051,83 @@
     "published_at": "Tue, 29 Sep 2026 19:00:00 +0700",
     "createAt": "2026-09-29T12:00:00.000Z",
     "thumbnail_blurhash": "LNC6cL~UM|IV-:t6IoNG4:9aRjt7"
+  },
+  {
+    "id": "https://vnexpress.net/phuong-an-mo-rong-gan-1-000-km-cao-toc-bac-nam-len-6-lan-5126275.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Phương án mở rộng gần 1.000 km cao tốc Bắc Nam lên 6 làn",
+    "description": "15 đoạn cao tốc Bắc Nam phía Đông dài 966 km được đề xuất gom thành hai dự án để mở rộng lên 6 làn xe theo phương thức PPP, hợp đồng BOT, tổng vốn hơn 150.000 tỷ đồng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/09/29/cao-toc-dien-chau-bai-vot-truo-5419-3928-1790670974.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=YFT2Zv0KKDV0-0rx2koBgA",
+    "link": "https://vnexpress.net/phuong-an-mo-rong-gan-1-000-km-cao-toc-bac-nam-len-6-lan-5126275.html",
+    "published_at": "Tue, 29 Sep 2026 16:38:35 +0700",
+    "createAt": "2026-09-29T09:38:35.000Z",
+    "thumbnail_blurhash": "LrG9Kmxuj]t6~qt6f6oe.8bIWCj]"
+  },
+  {
+    "id": "https://vnexpress.net/tinh-huong-var-tu-choi-ban-go-hoa-cua-viet-nam-truoc-thai-lan-5126374.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Tình huống VAR từ chối bàn gỡ hòa của Việt Nam trước Thái Lan",
+    "description": "Việt Nam tưởng như gỡ hòa 1-1 khi Minh Khoa chọc khe tinh tế để Tài Lộc thoát xuống ghi bàn vào lưới Thái Lan, nhưng trọng tài hủy bàn sau khi tham khảo VAR.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/09/29/Lark20260929222541-1790695617-2397-1790695620.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=iUdVb2naVa48BDEq6olCtA&t=image",
+    "link": "https://vnexpress.net/tinh-huong-var-tu-choi-ban-go-hoa-cua-viet-nam-truoc-thai-lan-5126374.html",
+    "published_at": "Tue, 29 Sep 2026 20:39:45 +0700",
+    "createAt": "2026-09-29T13:39:45.000Z",
+    "thumbnail_blurhash": "L89u$D.ksqo_U@tlaORR8*t9WBVu"
+  },
+  {
+    "id": "https://vnexpress.net/hlv-kim-toi-xau-ho-vi-viet-nam-khong-ghi-ban-truoc-thai-lan-5126379.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "HLV Kim: 'Tôi xấu hổ vì Việt Nam không ghi bàn trước Thái Lan'",
+    "description": "HLV Kim Sang-sik tiếc nuối khi các học trò đã nỗ lực theo các phương án chiến thuật khác nhau, nhưng Việt Nam vẫn thua Thái Lan 0-2 lượt hai bảng B hạng Nhất FIFA ASEAN Cup 2026 tối 29/9.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/09/29/wm1-wm1-kim-1790694099-7635-1790694601.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=jU0RDyix4_KXRD_IqYobQw",
+    "link": "https://vnexpress.net/hlv-kim-toi-xau-ho-vi-viet-nam-khong-ghi-ban-truoc-thai-lan-5126379.html",
+    "published_at": "Tue, 29 Sep 2026 21:48:42 +0700",
+    "createAt": "2026-09-29T14:48:42.000Z",
+    "thumbnail_blurhash": "L?L4]Vxu%NkD~pkBt7ofNgV@RPju"
+  },
+  {
+    "id": "https://vnexpress.net/hlv-thai-lan-chung-toi-manh-hon-viet-nam-5126378.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "HLV Thái Lan: 'Chúng tôi mạnh hơn Việt Nam'",
+    "description": "HLV Anthony Hudson hài lòng khi Thái Lan thể hiện được bản lĩnh để đánh bại Việt Nam ở lượt hai bảng B FIFA ASEAN Cup 2026, tối 29/9.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/09/29/1790695104544-g651265587011251-6745-9958-1790696316.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=yxYAzr8TkcYEziyHDm1gag",
+    "link": "https://vnexpress.net/hlv-thai-lan-chung-toi-manh-hon-viet-nam-5126378.html",
+    "published_at": "Tue, 29 Sep 2026 21:55:34 +0700",
+    "createAt": "2026-09-29T14:55:34.000Z",
+    "thumbnail_blurhash": "LwN0;$xu-=%h~qRjR*ozIoayjFjY"
+  },
+  {
+    "id": "https://vnexpress.net/doi-tuyen-viet-nam-dut-chuoi-27-tran-bat-bai-5126394.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Đội tuyển Việt Nam đứt chuỗi 27 trận bất bại",
+    "description": "Trận thua Thái Lan ở FIFA ASEAN Cup 2026 khiến Việt Nam đứt chuỗi 27 trận bất bại trên mọi đấu trường, dù đó vẫn là kỷ lục Đông Nam Á.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/09/29/do-i-tuye-n-vie-t-nam-jpeg-179-3024-9651-1790693416.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=KU5hbe420NxMfafK-13h3Q",
+    "link": "https://vnexpress.net/doi-tuyen-viet-nam-dut-chuoi-27-tran-bat-bai-5126394.html",
+    "published_at": "Tue, 29 Sep 2026 22:05:10 +0700",
+    "createAt": "2026-09-29T15:05:10.000Z",
+    "thumbnail_blurhash": "LIFs42~okqE400IWMxV@4,D*aK%1"
+  },
+  {
+    "id": "https://vnexpress.net/roi-oanh-tac-co-chien-luoc-nga-6-quan-nhan-thiet-mang-5126388.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Rơi oanh tạc cơ chiến lược Nga, 6 quân nhân thiệt mạng",
+    "description": "Máy bay ném bom chiến lược Tu-95 của Nga rơi tại tỉnh Amur ở vùng Viễn Đông trong chuyến bay huấn luyện.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/09/29/a-nh-hie-n-tru-o-ng-jpeg-17906-3031-5154-1790695674.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=aKLwRWW42NYzAzAlpCNvug",
+    "link": "https://vnexpress.net/roi-oanh-tac-co-chien-luoc-nga-6-quan-nhan-thiet-mang-5126388.html",
+    "published_at": "Tue, 29 Sep 2026 22:28:28 +0700",
+    "createAt": "2026-09-29T15:28:28.000Z",
+    "thumbnail_blurhash": "LBFh9L01K6X8}qS#WBNa01^*v}NH"
   }
 ]
