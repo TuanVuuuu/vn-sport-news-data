@@ -947,5 +947,31 @@
     "published_at": "Tue, 29 Sep 2026 22:28:28 +0700",
     "createAt": "2026-09-29T15:28:28.000Z",
     "thumbnail_blurhash": "LBFh9L01K6X8}qS#WBNa01^*v}NH"
+  },
+  {
+    "id": "https://vnexpress.net/my-dieu-dong-quan-doi-bao-ve-bau-cu-giua-ky-5126359.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Mỹ điều động quân đội bảo vệ bầu cử giữa kỳ",
+    "description": "Lầu Năm Góc thông báo Bộ trưởng Quốc phòng Mỹ đã yêu cầu quân đội bảo vệ cuộc bầu cử giữa kỳ khỏi nguy cơ can thiệp từ nước ngoài.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/09/29/afp-v1-highres-defensesecretar-5197-8749-1790682196.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=e6iMScMORcqApMRPztPmxA",
+    "link": "https://vnexpress.net/my-dieu-dong-quan-doi-bao-ve-bau-cu-giua-ky-5126359.html",
+    "published_at": "Tue, 29 Sep 2026 23:53:23 +0700",
+    "createAt": "2026-09-29T16:53:23.000Z",
+    "thumbnail_blurhash": "L6C5|@9j0002}#4?-,56Y8T0+tnP"
+  },
+  {
+    "id": "https://vnexpress.net/nhung-nong-dan-my-choi-voi-giua-bao-gia-no-nan-5125972.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Những nông dân Mỹ chới với giữa bão giá, nợ nần",
+    "description": "Chi phí đầu vào leo thang, lãi suất tăng cao đang đẩy nhiều nông dân Mỹ vào cảnh nợ nần, khiến họ hoài nghi về tương lai.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/09/29/anh1-1790656081-2357-1790656537.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=aBjC66fLzAVQWqpi3t59Xg",
+    "link": "https://vnexpress.net/nhung-nong-dan-my-choi-voi-giua-bao-gia-no-nan-5125972.html",
+    "published_at": "Wed, 30 Sep 2026 00:00:00 +0700",
+    "createAt": "2026-09-29T17:00:00.000Z",
+    "thumbnail_blurhash": "LEC$}_^S?a^S~W=}ai$+-URiIVX4"
   }
 ]
