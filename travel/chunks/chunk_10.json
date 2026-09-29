@@ -362,5 +362,31 @@
     "published_at": "Tue, 29 Sep 2026 06:00:00 +0700",
     "createAt": "2026-09-28T23:00:00.000Z",
     "thumbnail_blurhash": "L3HKzgVC00^i03rp~qIn009ZLNIo"
+  },
+  {
+    "id": "https://vnexpress.net/cho-hai-san-hut-du-khach-o-vinh-ha-long-5123668.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Chợ hải sản hút du khách ở vịnh Hạ Long",
+    "description": "Đến chợ hải sản Hạ Long, du khách được tự tay chọn hải sản tươi sống, hòa mình vào không gian nhộn nhịp và thưởng thức nhiều đặc sản Quảng Ninh.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/09/28/9-1790583570.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=LvbFrmEr6TKK-95qVBHGMw",
+    "link": "https://vnexpress.net/cho-hai-san-hut-du-khach-o-vinh-ha-long-5123668.html",
+    "published_at": "Tue, 29 Sep 2026 07:00:00 +0700",
+    "createAt": "2026-09-29T00:00:00.000Z",
+    "thumbnail_blurhash": "LIE_%6SeM{^P{fR*tQv}yVtkoLW."
+  },
+  {
+    "id": "https://vnexpress.net/chu-quan-ru-den-bo-hat-ve-trang-banh-cuon-cha-muc-5125599.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Chủ quán rủ Đen 'bỏ hát về tráng bánh cuốn chả mực'",
+    "description": "Chủ quán nức tiếng ở Hạ Long hứa truyền nghề miễn phí nếu rapper Đen bỏ ca hát về tráng bánh cuốn chả mực, trong tập một show thực tế \"Sao Chọn\".",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/09/28/adn09874-jpg-1790592980-2787-1790593422.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=x4VmVFK1l46D8mR_Pxy0XA",
+    "link": "https://vnexpress.net/chu-quan-ru-den-bo-hat-ve-trang-banh-cuon-cha-muc-5125599.html",
+    "published_at": "Tue, 29 Sep 2026 07:00:00 +0700",
+    "createAt": "2026-09-29T00:00:00.000Z",
+    "thumbnail_blurhash": "LDJH:VI^009G~24px^o#004nM|?b"
   }
 ]
