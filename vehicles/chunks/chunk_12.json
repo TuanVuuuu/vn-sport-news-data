@@ -908,5 +908,44 @@
     "published_at": "Tue, 29 Sep 2026 04:00:00 +0700",
     "createAt": "2026-09-28T21:00:00.000Z",
     "thumbnail_blurhash": "L,G+%bjZRjof?wofazj[j^ofoMj]"
+  },
+  {
+    "id": "https://vnexpress.net/mazda-cx-6e-2026-ban-nang-cap-them-cong-nghe-5125584.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Mazda CX-6e 2026 - bản nâng cấp thêm công nghệ",
+    "description": "Mẫu CUV cỡ C phiên bản mới bổ sung bộ cảm biến LiDAR, tùy chọn hệ truyền động EV hoặc EREV, giá 21.700-24.900 USD.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/09/28/mazdacx6e1-1790571854-2255-1790571887.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=rf5iD6sQN63wUtpflOQwDg",
+    "link": "https://vnexpress.net/mazda-cx-6e-2026-ban-nang-cap-them-cong-nghe-5125584.html",
+    "published_at": "Tue, 29 Sep 2026 05:00:00 +0700",
+    "createAt": "2026-09-28T22:00:00.000Z",
+    "thumbnail_blurhash": "L,G[]4NGkAjF?wRjV@WVtmRkjFW;"
+  },
+  {
+    "id": "https://vnexpress.net/hang-chuc-tru-sac-nhanh-tesla-bi-cat-trom-day-5125694.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Hàng chục trụ sạc nhanh Tesla bị cắt trộm dây",
+    "description": "28 trụ sạc Supercharger của Tesla ở bang Victoria bị lấy trộm dây trong vụ phá hoại lớn nhất quốc gia này.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/09/28/Tesla3-1790573550-9990-1790573725.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=34KLYqkecjaquicsyijDJw",
+    "link": "https://vnexpress.net/hang-chuc-tru-sac-nhanh-tesla-bi-cat-trom-day-5125694.html",
+    "published_at": "Tue, 29 Sep 2026 06:00:00 +0700",
+    "createAt": "2026-09-28T23:00:00.000Z",
+    "thumbnail_blurhash": "LSFPQx_4_49Ftntm%gt7tStSt8of"
+  },
+  {
+    "id": "https://vnexpress.net/nguoi-di-xe-may-bi-camera-ai-quy-loi-khi-deo-dan-guitar-5125485.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Người đi xe máy bị camera AI quy lỗi khi đeo đàn guitar",
+    "description": "Một người đi xe máy nhận phiếu phạt do hệ thống AI trên đường nhận diện chiếc guitar sau lưng là hành khách không đội mũ bảo hiểm.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/09/28/India12-1790580696-6153-1790580704.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=DPVmG_kVyxxlB2FvokXvpw",
+    "link": "https://vnexpress.net/nguoi-di-xe-may-bi-camera-ai-quy-loi-khi-deo-dan-guitar-5125485.html",
+    "published_at": "Tue, 29 Sep 2026 06:39:00 +0700",
+    "createAt": "2026-09-28T23:39:00.000Z",
+    "thumbnail_blurhash": "L2ECwa0000n5nBxb9F0000_MM{4p"
   }
 ]
