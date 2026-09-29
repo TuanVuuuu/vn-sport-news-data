@@ -349,5 +349,31 @@
     "published_at": "Tue, 29 Sep 2026 10:00:00 +0700",
     "createAt": "2026-09-29T03:00:00.000Z",
     "thumbnail_blurhash": "LJIFow070M?c~mtRNLt8nKRMskkD"
+  },
+  {
+    "id": "https://vnexpress.net/an-com-the-nao-ho-tro-kiem-soat-duong-huyet-giam-can-5126046.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Ăn cơm thế nào hỗ trợ kiểm soát đường huyết, giảm cân?",
+    "description": "Tôi 86 kg, tiền tiểu đường, hạn chế tinh bột nhưng luôn thèm cơm. Ăn cơm thế nào để giảm cân mà không tăng đường huyết? (Vũ Phi Long, TP HCM)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/09/29/z7915363263062eec9dc2eddcb2bff-2036-8520-1790651365.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=qNwquWo3C1r2YQW9MZvIsg",
+    "link": "https://vnexpress.net/an-com-the-nao-ho-tro-kiem-soat-duong-huyet-giam-can-5126046.html",
+    "published_at": "Tue, 29 Sep 2026 11:00:00 +0700",
+    "createAt": "2026-09-29T04:00:00.000Z",
+    "thumbnail_blurhash": "LAIN]b_N3FDN4TQ+,=TwQSH@Nft,"
+  },
+  {
+    "id": "https://vnexpress.net/roi-loan-van-dong-sau-7-nam-dung-thuoc-ngu-5126004.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Rối loạn vận động sau 7 năm dùng thuốc ngủ",
+    "description": "Bà Lệ, 56 tuổi, 7 năm qua thường xuyên uống thuốc ngủ, nay bứt rứt, bác sĩ phát hiện não mất cân bằng vận động.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/09/29/tk2-1790643593-2457-1790643682.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=7NKsTAk1xDHTNdXippxEMQ",
+    "link": "https://vnexpress.net/roi-loan-van-dong-sau-7-nam-dung-thuoc-ngu-5126004.html",
+    "published_at": "Tue, 29 Sep 2026 11:00:00 +0700",
+    "createAt": "2026-09-29T04:00:00.000Z",
+    "thumbnail_blurhash": "LbNK3ZICE1%1?^jCWAR,-:o#t6t7"
   }
 ]
