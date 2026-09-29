@@ -271,5 +271,31 @@
     "published_at": "Tue, 29 Sep 2026 10:29:05 +0700",
     "createAt": "2026-09-29T03:29:05.000Z",
     "thumbnail_blurhash": "LEGS1C}UL}xuEf574.Io5SEMR5xa"
+  },
+  {
+    "id": "https://vnexpress.net/amd-chi-8-2-ty-usd-mua-lai-cong-ty-cua-me-do-dau-ai-5126092.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "AMD chi 8,2 tỷ USD mua lại công ty của 'mẹ đỡ đầu AI'",
+    "description": "Nhà sản xuất chip AMD mua lại World Labs, startup do Fei-Fei Li, người được mệnh danh là \"mẹ đỡ đầu AI\", đồng sáng lập.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/09/29/Li1-1790653607-1408-1790653798.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=7r2KLCYNqw07pUlsOB81Fg",
+    "link": "https://vnexpress.net/amd-chi-8-2-ty-usd-mua-lai-cong-ty-cua-me-do-dau-ai-5126092.html",
+    "published_at": "Tue, 29 Sep 2026 10:49:58 +0700",
+    "createAt": "2026-09-29T03:49:58.000Z",
+    "thumbnail_blurhash": "LjJ7]=4:R-IU~pRjRPWX-qodNHt6"
+  },
+  {
+    "id": "https://vnexpress.net/chuan-bi-ha-tang-cloud-cho-giai-doan-cao-diem-5126176.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Chuẩn bị hạ tầng Cloud cho giai đoạn cao điểm",
+    "description": "Mùa cao điểm mua sắm từ tháng 10 đến Tết Nguyên đán có lưu lượng truy cập và tác vụ AI tăng, kéo theo yêu cầu mở rộng hạ tầng cho doanh nghiệp thương mại, tài chính.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/09/29/zonetd-1790657021-1224-1790657122.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=hOK1HVDcY_X6CHTYf16N_A",
+    "link": "https://vnexpress.net/chuan-bi-ha-tang-cloud-cho-giai-doan-cao-diem-5126176.html",
+    "published_at": "Tue, 29 Sep 2026 12:00:00 +0700",
+    "createAt": "2026-09-29T05:00:00.000Z",
+    "thumbnail_blurhash": "LC6[m+DiV@IWu6M{t7tRTMaKslo#"
   }
 ]
