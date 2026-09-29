@@ -323,5 +323,57 @@
     "published_at": "Tue, 29 Sep 2026 05:00:00 +0700",
     "createAt": "2026-09-28T22:00:00.000Z",
     "thumbnail_blurhash": "LkC%2+EO$aI]xzoyj_WENes,S8sm"
+  },
+  {
+    "id": "https://vnexpress.net/zidane-sut-bong-an-mung-tran-phap-thang-bi-5125968.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Zidane sút bóng ăn mừng trận Pháp thắng Bỉ",
+    "description": "HLV Zinedine Zidane bứt tốc rồi sút mạnh quả bóng ngoài đường biên ăn mừng bàn của Michael Olise, khi Pháp thắng Bỉ 1-0 ở lượt hai bảng A1 Nations League.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/09/29/zidane-jpeg-1790635889-2029-1790636263.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=cnEKTx7f2urXOxKzvXkMTw",
+    "link": "https://vnexpress.net/zidane-sut-bong-an-mung-tran-phap-thang-bi-5125968.html",
+    "published_at": "Tue, 29 Sep 2026 05:57:43 +0700",
+    "createAt": "2026-09-28T22:57:43.000Z",
+    "thumbnail_blurhash": "L1BMJJ3m{10K000g?GIq1C:,1gxu"
+  },
+  {
+    "id": "https://vnexpress.net/hang-chuc-tru-sac-nhanh-tesla-bi-cat-trom-day-5125694.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Hàng chục trụ sạc nhanh Tesla bị cắt trộm dây",
+    "description": "28 trụ sạc Supercharger của Tesla ở bang Victoria bị lấy trộm dây trong vụ phá hoại lớn nhất quốc gia này.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/09/28/Tesla3-1790573550-9990-1790573725.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=34KLYqkecjaquicsyijDJw",
+    "link": "https://vnexpress.net/hang-chuc-tru-sac-nhanh-tesla-bi-cat-trom-day-5125694.html",
+    "published_at": "Tue, 29 Sep 2026 06:00:00 +0700",
+    "createAt": "2026-09-28T23:00:00.000Z",
+    "thumbnail_blurhash": "LSFPQx_4?w9Ftotm%gt7t9t9t8of"
+  },
+  {
+    "id": "https://vnexpress.net/toa-tuyen-nu-doanh-nhan-khong-duoc-chia-loi-nhuan-sau-17-nam-gop-von-xay-chung-cu-5125924.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Tòa tuyên nữ doanh nhân không được chia lợi nhuận sau 17 năm góp vốn xây chung cư",
+    "description": "Sau 17 năm góp vốn 29 tỷ đồng, bà Phương yêu cầu được chia lợi nhuận, tổng 251 tỷ đồng vì chung cư 32 tầng đã mở bán, song chủ đầu tư muốn chấm dứt hợp đồng, trả lại đúng 29 tỷ.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/09/28/wm1-wm1-20260926-1790608251-3372-1790610438.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=gIU4TsD3ejPrfRR4dUeUmQ",
+    "link": "https://vnexpress.net/toa-tuyen-nu-doanh-nhan-khong-duoc-chia-loi-nhuan-sau-17-nam-gop-von-xay-chung-cu-5125924.html",
+    "published_at": "Tue, 29 Sep 2026 06:06:00 +0700",
+    "createAt": "2026-09-28T23:06:00.000Z",
+    "thumbnail_blurhash": "LIGJEV00_N%NxY4TI9bwS*xaaKx]"
+  },
+  {
+    "id": "https://vnexpress.net/vi-sao-dinh-trieu-o-tp-hcm-lien-tuc-tang-5125958.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Vì sao đỉnh triều ở TP HCM liên tục tăng?",
+    "description": "Đỉnh triều tại TP HCM có xu hướng tăng trong 10 năm qua, nền đất tiếp tục sụt lún là một trong những yếu tố khiến cùng một mực nước nhưng nguy cơ ngập ngày càng lớn.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/09/29/intro300228-1790639898-9874-1790639908.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=ILJcBQcwPZiG6J2EG_z4_Q",
+    "link": "https://vnexpress.net/vi-sao-dinh-trieu-o-tp-hcm-lien-tuc-tang-5125958.html",
+    "published_at": "Tue, 29 Sep 2026 06:58:28 +0700",
+    "createAt": "2026-09-28T23:58:28.000Z",
+    "thumbnail_blurhash": "LDB4UI$$0XO?D4NdRj#+0YoL~1NI"
   }
 ]
