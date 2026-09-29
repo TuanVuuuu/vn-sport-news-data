@@ -1051,5 +1051,31 @@
     "published_at": "Tue, 29 Sep 2026 22:03:43 +0700",
     "createAt": "2026-09-29T15:03:43.000Z",
     "thumbnail_blurhash": "LLLf|6IV~D4n}tV?ITt7%LrW$*-W"
+  },
+  {
+    "id": "https://vnexpress.net/luu-y-gi-khi-dau-tu-trai-phieu-5126071.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Lưu ý gì khi đầu tư trái phiếu?",
+    "description": "Lãi suất hấp dẫn không đồng nghĩa trái phiếu an toàn, nhà đầu tư cần hiểu rõ điều kiện, rủi ro, khả năng bán lại để hạn chế mất vốn.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/09/29/wm1-wm1-huy-1790649609-9453-1790649637.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=NSbeE09KrVpx_kdXk-duYw",
+    "link": "https://vnexpress.net/luu-y-gi-khi-dau-tu-trai-phieu-5126071.html",
+    "published_at": "Wed, 30 Sep 2026 00:01:00 +0700",
+    "createAt": "2026-09-29T17:01:00.000Z",
+    "thumbnail_blurhash": "LJI}#7%gt7%N~BtRIUxuVZ-;x]S5"
+  },
+  {
+    "id": "https://vnexpress.net/thu-tuc-cham-nang-suat-thap-han-che-suc-hut-fdi-cua-viet-nam-5126368.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Thủ tục chậm, năng suất thấp hạn chế sức hút FDI của Việt Nam",
+    "description": "Dòng vốn FDI vẫn tăng nhưng nhiều ý kiến cho rằng, việc chậm giải quyết thủ tục và năng suất thấp làm giảm lợi thế cạnh tranh của Việt Nam.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/09/29/ba-trang-le-1790688793-4287-1790689779.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=AjEPY6S5oXBY3da5SdTq2Q",
+    "link": "https://vnexpress.net/thu-tuc-cham-nang-suat-thap-han-che-suc-hut-fdi-cua-viet-nam-5126368.html",
+    "published_at": "Wed, 30 Sep 2026 00:03:00 +0700",
+    "createAt": "2026-09-29T17:03:00.000Z",
+    "thumbnail_blurhash": "LqEW#5tmO_ofyFjrjDkCWYkBs+bH"
   }
 ]
