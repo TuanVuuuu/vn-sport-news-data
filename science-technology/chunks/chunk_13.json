@@ -219,5 +219,31 @@
     "published_at": "Tue, 29 Sep 2026 08:00:00 +0700",
     "createAt": "2026-09-29T01:00:00.000Z",
     "thumbnail_blurhash": "LLFZ1dyJB#1N%f%KR%NHbiDsz?+@"
+  },
+  {
+    "id": "https://vnexpress.net/tinh-nang-an-giai-phong-bo-nho-smartphone-khong-gay-mat-du-lieu-5125921.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Tính năng ẩn giải phóng bộ nhớ smartphone không gây mất dữ liệu",
+    "description": "Hai hệ điều hành Android và iOS đều cung cấp tính năng giúp giải phóng dung lượng bộ nhớ trên điện thoại mà vẫn giữ nguyên dữ liệu của người dùng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/09/28/dsc0091-1790604612-7812-1790604761.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=X86PFbFh7MJOu07qSWR4XA",
+    "link": "https://vnexpress.net/tinh-nang-an-giai-phong-bo-nho-smartphone-khong-gay-mat-du-lieu-5125921.html",
+    "published_at": "Tue, 29 Sep 2026 09:48:38 +0700",
+    "createAt": "2026-09-29T02:48:38.000Z",
+    "thumbnail_blurhash": "LwK1q4WF~q%MxuRkRjt7xvRPRjfk"
+  },
+  {
+    "id": "https://vnexpress.net/cong-nghe-lau-con-lan-tu-giat-tuc-thi-tren-robot-tam-trung-cua-ecovacs-5120942.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Công nghệ lau con lăn tự giặt tức thì trên robot tầm trung của Ecovacs",
+    "description": "Ecovacs lần đầu đưa công nghệ lau con lăn tự giặt tức thì lên dòng Deebot T80 Max Omni, hỗ trợ quá trình lau dọn với độ sạch lớn hơn các dòng giẻ lau phẳng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/09/29/Settop1-1790648927-5267-1790649186.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=OEFN4JNM-GHJUfBctcbkpw",
+    "link": "https://vnexpress.net/cong-nghe-lau-con-lan-tu-giat-tuc-thi-tren-robot-tam-trung-cua-ecovacs-5120942.html",
+    "published_at": "Tue, 29 Sep 2026 10:00:00 +0700",
+    "createAt": "2026-09-29T03:00:00.000Z",
+    "thumbnail_blurhash": "LRKUvS_4?G-:D%tRt7V@t7oeRjR*"
   }
 ]

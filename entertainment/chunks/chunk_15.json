@@ -518,5 +518,31 @@
     "published_at": "Tue, 29 Sep 2026 08:55:01 +0700",
     "createAt": "2026-09-29T01:55:01.000Z",
     "thumbnail_blurhash": "LJKTiA8^EL56~D01x[tRQ+-:xt-p"
+  },
+  {
+    "id": "https://vnexpress.net/giai-tri/phim/thu-vien-phim/resident-evil-922",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "'Resident Evil': Sống sót giữa vùng đất chết",
+    "description": "\"Resident Evil\" đưa khán giả dõi theo ván cược sinh tử, nơi một người giao hàng phải giành giật mạng sống trước bầy sinh vật biến dị.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/09/27/mv5bndy1mju2mjqtnmy3oc00odrilw-9450-7308-1790495516.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Tc8lazoNS4TGm2vBxj2Fbg",
+    "link": "https://vnexpress.net/giai-tri/phim/thu-vien-phim/resident-evil-922",
+    "published_at": "Tue, 29 Sep 2026 09:37:19 +0700",
+    "createAt": "2026-09-29T02:37:19.000Z",
+    "thumbnail_blurhash": "LFBVg~NKRk};xYENIr$$xXWCENjs"
+  },
+  {
+    "id": "https://vnexpress.net/khung-canh-cho-mien-nam-hon-100-nam-truoc-5125830.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Khung cảnh chợ miền Nam hơn 100 năm trước",
+    "description": "Cảnh chợ Bến Thành, Bình Tây, Cầu Ngang nhộn nhịp hơn 100 năm trước, được giới thiệu trong triển lãm ảnh xưa.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/09/28/anh-xua-cho-lon-1790594226.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=pluZditM_XwwHb60AQv7Ww",
+    "link": "https://vnexpress.net/khung-canh-cho-mien-nam-hon-100-nam-truoc-5125830.html",
+    "published_at": "Tue, 29 Sep 2026 09:56:12 +0700",
+    "createAt": "2026-09-29T02:56:12.000Z",
+    "thumbnail_blurhash": "L;KK1U%2oft7~Vt7fkt6-pj[WCof"
   }
 ]
