@@ -817,5 +817,70 @@
     "published_at": "Wed, 30 Sep 2026 09:00:00 +0700",
     "createAt": "2026-09-30T02:00:00.000Z",
     "thumbnail_blurhash": "LkH{$sM_nmN3~VRoX5tQRhRjRP%0"
+  },
+  {
+    "id": "https://vnexpress.net/7-benh-ly-gay-do-mat-5126479.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "7 bệnh lý gây đỏ mắt",
+    "description": "Đỏ mắt thường do viêm kết mạc nhưng cũng là dấu hiệu của nhiều bệnh lý khác như khô mắt, viêm giác mạc hay tăng nhãn áp cấp.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/09/30/dau-ma-t-do-1790731702-1171-1790731717.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=ElHj9SN5bj58PWwUthX6aQ",
+    "link": "https://vnexpress.net/7-benh-ly-gay-do-mat-5126479.html",
+    "published_at": "Wed, 30 Sep 2026 10:00:00 +0700",
+    "createAt": "2026-09-30T03:00:00.000Z",
+    "thumbnail_blurhash": "LHNI88xn5Rj[9[RkELNG~Cs:WVoL"
+  },
+  {
+    "id": "https://vnexpress.net/soi-co-tai-phat-sau-phau-thuat-cat-tui-mat-5126474.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Sỏi có tái phát sau phẫu thuật cắt túi mật?",
+    "description": "Tôi bị sỏi túi mật, bác sĩ chỉ định mổ nội soi cắt bỏ túi mật. Sau khi phẫu thuật, sỏi hết hoàn toàn hay có thể tái phát? (Nguyễn Hoàng Long, 46 tuổi, Nghệ An)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/09/30/kluan-1790731169-3473-1790731212.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=qPtpQKAZaYhUWhygYCHwmA",
+    "link": "https://vnexpress.net/soi-co-tai-phat-sau-phau-thuat-cat-tui-mat-5126474.html",
+    "published_at": "Wed, 30 Sep 2026 10:00:00 +0700",
+    "createAt": "2026-09-30T03:00:00.000Z",
+    "thumbnail_blurhash": "LdHC~W.8E3WG~LxuWAoy%GxZWAoe"
+  },
+  {
+    "id": "https://vnexpress.net/hon-10-u-ung-thu-o-tuyen-giap-nguoi-phu-nu-5126458.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Hơn 10 u ung thư ở tuyến giáp người phụ nữ",
+    "description": "Chị Hằng, 46 tuổi, đau họng, bác sĩ phát hiện hơn 10 u nhỏ ở tuyến giáp, sinh thiết xác định ung thư.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/09/30/ut-giap-1790729735-6531-1790729810.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=xkGy22FwcAwCxVQGp_FUmg",
+    "link": "https://vnexpress.net/hon-10-u-ung-thu-o-tuyen-giap-nguoi-phu-nu-5126458.html",
+    "published_at": "Wed, 30 Sep 2026 10:00:00 +0700",
+    "createAt": "2026-09-30T03:00:00.000Z",
+    "thumbnail_blurhash": "LcH2{FS8EU${~7bWxUi{=^R+RPWG"
+  },
+  {
+    "id": "https://vnexpress.net/an-qua-bo-co-giam-mo-noi-tang-5125476.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Ăn quả bơ có giảm mỡ nội tạng?",
+    "description": "Tôi nghe nói quả bơ giàu chất béo không bão hòa và chất xơ, có thể \"đốt cháy mỡ nội tạng\". Điều này có đúng không và tôi nên ăn bơ thế nào? (Ngân An, Bắc Ninh)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/09/28/image001-1790556191-7006-1790556280.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=SjSeY4nRXQ73TLGKaziYIw",
+    "link": "https://vnexpress.net/an-qua-bo-co-giam-mo-noi-tang-5125476.html",
+    "published_at": "Wed, 30 Sep 2026 10:00:00 +0700",
+    "createAt": "2026-09-30T03:00:00.000Z",
+    "thumbnail_blurhash": "LLK0[*~VDk?b-:-VS29b?bo#E19a"
+  },
+  {
+    "id": "https://vnexpress.net/benh-vien-cho-ray-tang-gia-kham-chua-benh-tu-1-10-5126511.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Bệnh viện Chợ Rẫy tăng giá khám chữa bệnh từ 1/10",
+    "description": "Giá khám chữa bệnh tại Bệnh viện Chợ Rẫy từ ngày 1/10 tăng khoảng 4%, gồm giá khám, tiền giường, hội chẩn, xét nghiệm và các dịch vụ kỹ thuật.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/09/30/233a4666-1790736387-5711-1790736436.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=B_F52ji2UiIOqrGPBURceg",
+    "link": "https://vnexpress.net/benh-vien-cho-ray-tang-gia-kham-chua-benh-tu-1-10-5126511.html",
+    "published_at": "Wed, 30 Sep 2026 10:25:35 +0700",
+    "createAt": "2026-09-30T03:25:35.000Z",
+    "thumbnail_blurhash": "LSDlye%3oMRj~qt7t7fl%hWBs:fl"
   }
 ]
