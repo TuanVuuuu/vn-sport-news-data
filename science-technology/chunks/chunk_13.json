@@ -466,5 +466,31 @@
     "published_at": "Wed, 30 Sep 2026 08:06:39 +0700",
     "createAt": "2026-09-30T01:06:39.000Z",
     "thumbnail_blurhash": "L9B31.$*00Io},E10$RkIoofs;jb"
+  },
+  {
+    "id": "https://vnexpress.net/fpt-tim-kiem-tai-nang-tre-nghien-cuu-ai-dien-toan-luong-tu-5126544.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "FPT tìm kiếm tài năng trẻ nghiên cứu AI, điện toán lượng tử",
+    "description": "FPT Frontier Innovators tuyển sinh viên năm cuối, người mới tốt nghiệp và nghiên cứu viên có kinh nghiệm, tập trung vào AI, điện toán lượng tử và an ninh mạng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/09/30/2-1790738227-9383-1790738313.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=5WDP3hbE05b6WkJwxbM4Lw",
+    "link": "https://vnexpress.net/fpt-tim-kiem-tai-nang-tre-nghien-cuu-ai-dien-toan-luong-tu-5126544.html",
+    "published_at": "Wed, 30 Sep 2026 10:30:00 +0700",
+    "createAt": "2026-09-30T03:30:00.000Z",
+    "thumbnail_blurhash": "L8GlIo1;l.=?~0R.rX-n4U?J;0%$"
+  },
+  {
+    "id": "https://vnexpress.net/nha-khoa-hoc-goc-viet-tim-cach-dua-dong-ho-nguyen-tu-ra-khong-gian-5125877.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Nhà khoa học gốc Việt tìm cách đưa đồng hồ nguyên tử ra không gian",
+    "description": "TS Hoàng Thái cùng các cộng sự tại NASA tìm cách thu nhỏ đồng hồ nguyên tử độ chính xác cao để đưa vào các sứ mệnh không gian sâu.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/09/29/wm1-wm1-img-3808-jpg-1790635953-7603-1790636289.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=pdj8G1QvtY-EbjoWEnZK5A",
+    "link": "https://vnexpress.net/nha-khoa-hoc-goc-viet-tim-cach-dua-dong-ho-nguyen-tu-ra-khong-gian-5125877.html",
+    "published_at": "Wed, 30 Sep 2026 11:00:00 +0700",
+    "createAt": "2026-09-30T04:00:00.000Z",
+    "thumbnail_blurhash": "LQD,2FNitoIvIiROn#s+ICxbRPxt"
   }
 ]
