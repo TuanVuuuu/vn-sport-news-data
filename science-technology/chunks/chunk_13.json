@@ -427,5 +427,44 @@
     "published_at": "Wed, 30 Sep 2026 06:00:00 +0700",
     "createAt": "2026-09-29T23:00:00.000Z",
     "thumbnail_blurhash": "L23lt5xv00E3yFjZMbRj00RP~q-;"
+  },
+  {
+    "id": "https://vnexpress.net/ong-trump-ky-thoa-thuan-rang-buoc-dao-duc-trong-bua-trua-voi-ty-phu-ai-5126439.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Ông Trump ký thỏa thuận 'ràng buộc đạo đức' trong bữa trưa với tỷ phú AI",
+    "description": "Tổng thống Mỹ ăn trưa làm việc với các tỷ phú và lãnh đạo hàng đầu của ngành AI, tuyên bố đã ký thỏa thuận có thể giúp quản lý lĩnh vực.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/09/30/ap26271697949481-1790728144-1479-1790728160.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=zwAFxqB6sX1EJRKPaBftjg",
+    "link": "https://vnexpress.net/ong-trump-ky-thoa-thuan-rang-buoc-dao-duc-trong-bua-trua-voi-ty-phu-ai-5126439.html",
+    "published_at": "Wed, 30 Sep 2026 07:50:00 +0700",
+    "createAt": "2026-09-30T00:50:00.000Z",
+    "thumbnail_blurhash": "LDAmPU%L00sB~W-pE3M{?IniV@oz"
+  },
+  {
+    "id": "https://vnexpress.net/trom-thung-hang-voi-logo-nvidia-ben-trong-chi-co-18-tan-cat-5126298.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Trộm thùng hàng với logo Nvidia, bên trong chỉ có 18 tấn cát",
+    "description": "Hai xe đầu kéo chở thùng hàng gắn logo Nvidia bị trộm, nhưng mỗi thùng chỉ chứa 9 tấn cát thay vì phần cứng AI giá trị cao.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/09/29/6abab693d15f8a572974b754-17906-9006-9078-1790673511.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=721abZ7FOrqpc_lXH8F-ag",
+    "link": "https://vnexpress.net/trom-thung-hang-voi-logo-nvidia-ben-trong-chi-co-18-tan-cat-5126298.html",
+    "published_at": "Wed, 30 Sep 2026 08:00:00 +0700",
+    "createAt": "2026-09-30T01:00:00.000Z",
+    "thumbnail_blurhash": "LADmEx-Txp_301ngxVNG~RInIBIV"
+  },
+  {
+    "id": "https://vnexpress.net/tong-thong-my-doi-ten-ai-thanh-sieu-tri-tue-5126433.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Tổng thống Mỹ đổi tên AI thành 'siêu trí tuệ'",
+    "description": "Tổng thống Mỹ Donald Trump yêu cầu tất cả bộ và cơ quan hành pháp sử dụng thuật ngữ \"siêu trí tuệ\" (super intelligence) thay vì trí tuệ nhân tạo.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/09/30/ap26226704815131-1790728511-7121-1790728521.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=ewmppZBmDDno4C3v39UoSA",
+    "link": "https://vnexpress.net/tong-thong-my-doi-ten-ai-thanh-sieu-tri-tue-5126433.html",
+    "published_at": "Wed, 30 Sep 2026 08:06:39 +0700",
+    "createAt": "2026-09-30T01:06:39.000Z",
+    "thumbnail_blurhash": "L9B31.$*00Io},E10$RkIoofs;jb"
   }
 ]
