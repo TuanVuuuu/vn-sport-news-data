@@ -908,5 +908,44 @@
     "published_at": "Wed, 30 Sep 2026 18:02:41 +0700",
     "createAt": "2026-09-30T11:02:41.000Z",
     "thumbnail_blurhash": "LBEfNS~q00IUR5t79tM{DOjsShRj"
+  },
+  {
+    "id": "https://vnexpress.net/nhieu-chuyen-bay-phai-cho-ha-canh-tan-son-nhat-do-mua-lon-5126808.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Nhiều chuyến bay phải chờ hạ cánh Tân Sơn Nhất do mưa lớn",
+    "description": "Trận mưa lớn chiều 30/9 khiến ít nhất 5 chuyến bay đến Tân Sơn Nhất phải bay chờ, nhiều chuyến khác lùi giờ khởi hành, trong khi đường quanh sân bay ùn tắc.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/09/30/829071098-n-1790771456-4421-1790771461.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=uC0uEHQ9N3M9ezuTRo1X2w",
+    "link": "https://vnexpress.net/nhieu-chuyen-bay-phai-cho-ha-canh-tan-son-nhat-do-mua-lon-5126808.html",
+    "published_at": "Wed, 30 Sep 2026 18:54:39 +0700",
+    "createAt": "2026-09-30T11:54:39.000Z",
+    "thumbnail_blurhash": "L83dMpt-axo$yZaeV?kCe@Vto#kD"
+  },
+  {
+    "id": "https://vnexpress.net/chi-bo-cuc-xuat-ban-in-va-phat-hanh-cung-25-dang-vien-bi-ky-luat-5126810.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Chi bộ Cục Xuất bản, In và Phát hành cùng 25 đảng viên bị kỷ luật",
+    "description": "Ủy ban Kiểm tra Trung ương khiển trách chi bộ Cục Xuất bản, In và Phát hành nhiệm kỳ 2025-2030 và 23 đảng viên, hai người khác bị cảnh cáo.",
+    "thumbnail_url": null,
+    "link": "https://vnexpress.net/chi-bo-cuc-xuat-ban-in-va-phat-hanh-cung-25-dang-vien-bi-ky-luat-5126810.html",
+    "published_at": "Wed, 30 Sep 2026 19:18:25 +0700",
+    "createAt": "2026-09-30T12:18:25.000Z",
+    "thumbnail_blurhash": null
+  },
+  {
+    "id": "https://vnexpress.net/nut-giao-loa-ken-noi-khu-kinh-te-dung-quat-voi-cao-toc-thong-xe-5126656.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Nút giao 'loa kèn' nối Khu kinh tế Dung Quất với cao tốc thông xe",
+    "description": "Sau 8 năm dang dở, nút giao Trì Bình - Dung Quất thông xe từ 0h ngày 1/10, kết nối Khu kinh tế Dung Quất với cao tốc Đà Nẵng - Quảng Ngãi.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/09/30/1790765999407b40b1d43edf10334d-7727-4111-1790772496.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=rn_pHv12CcQAqXSmPDMgPw",
+    "link": "https://vnexpress.net/nut-giao-loa-ken-noi-khu-kinh-te-dung-quat-voi-cao-toc-thong-xe-5126656.html",
+    "published_at": "Wed, 30 Sep 2026 19:48:16 +0700",
+    "createAt": "2026-09-30T12:48:16.000Z",
+    "thumbnail_blurhash": "LyD^imRkR*kC.TR-oLof%hWYjuWB"
   }
 ]
