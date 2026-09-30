@@ -116,6 +116,32 @@
       "published_at": "Wed, 30 Sep 2026 07:18:53 +0700",
       "createAt": "2026-09-30T00:18:53.000Z",
       "thumbnail_blurhash": "L=D0~9RjXAXAtpf6j^a~IXt7V@ad"
+    },
+    {
+      "id": "https://vnexpress.net/ong-trump-ky-thoa-thuan-rang-buoc-dao-duc-trong-bua-trua-voi-ty-phu-ai-5126439.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Ông Trump ký thỏa thuận 'ràng buộc đạo đức' trong bữa trưa với tỷ phú AI",
+      "description": "Tổng thống Mỹ ăn trưa làm việc với các tỷ phú và lãnh đạo hàng đầu của ngành AI, tuyên bố đã ký thỏa thuận có thể giúp quản lý lĩnh vực.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/09/30/ap26271697949481-1790728144-1479-1790728160.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=zwAFxqB6sX1EJRKPaBftjg",
+      "link": "https://vnexpress.net/ong-trump-ky-thoa-thuan-rang-buoc-dao-duc-trong-bua-trua-voi-ty-phu-ai-5126439.html",
+      "published_at": "Wed, 30 Sep 2026 07:50:00 +0700",
+      "createAt": "2026-09-30T00:50:00.000Z",
+      "thumbnail_blurhash": "LDAmPU%L00sB~W-pE3M{?IniV@oz"
+    },
+    {
+      "id": "https://vnexpress.net/mua-lon-gay-ngap-un-tac-khap-tp-hcm-5126477.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Mưa lớn gây ngập, ùn tắc khắp TP HCM",
+      "description": "Mưa lớn vào giờ cao điểm sáng 30/9 khiến xe ken đặc trên nhiều tuyến đường về trung tâm TP HCM, ùn ứ kéo dài qua các cầu Bình Triệu, Rạch Chiếc.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/09/30/2aobor2a3rwxov4x9gmiudcomcp0qruvdzmuxjtq81-1790734190.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=5utLI13OZDBAxRIoieOgxA",
+      "link": "https://vnexpress.net/mua-lon-gay-ngap-un-tac-khap-tp-hcm-5126477.html",
+      "published_at": "Wed, 30 Sep 2026 08:25:20 +0700",
+      "createAt": "2026-09-30T01:25:20.000Z",
+      "thumbnail_blurhash": "L9E.-F=Y$#-;~oIS%hx^$*%0%M%g"
     }
   ]
 }
