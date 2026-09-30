@@ -960,5 +960,31 @@
     "published_at": "Wed, 30 Sep 2026 19:18:25 +0700",
     "createAt": "2026-09-30T12:18:25.000Z",
     "thumbnail_blurhash": null
+  },
+  {
+    "id": "https://vnexpress.net/nuoc-tran-vao-xe-buyt-hang-quan-sau-mua-lon-o-tp-hcm-5126823.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Nước tràn vào xe buýt, hàng quán sau mưa lớn ở TP HCM",
+    "description": "Trận mưa lớn suốt hai giờ khiến đường Phan Huy Ích ngập sâu hơn một mét, nước tràn vào xe buýt, hàng quán, nhiều phương tiện chết máy, tối 30/9.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/09/30/2aobor2gspgtlup4wdkvctpy1v2cwhqwtwwlt7a430-1790775562-1790775586-1790781399.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=iKtxrMR8FegXzVZ7Mw_WDQ",
+    "link": "https://vnexpress.net/nuoc-tran-vao-xe-buyt-hang-quan-sau-mua-lon-o-tp-hcm-5126823.html",
+    "published_at": "Wed, 30 Sep 2026 21:29:13 +0700",
+    "createAt": "2026-09-30T14:29:13.000Z",
+    "thumbnail_blurhash": "LGATvSD$xwoH?dM_RkRho#j?M{Rl"
+  },
+  {
+    "id": "https://vnexpress.net/thong-qua-van-kien-ha-noi-ve-bao-ton-di-san-5125557.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Thông qua Văn kiện Hà Nội về bảo tồn di sản",
+    "description": "Văn kiện Hà Nội được thông qua chiều 30/9, nhấn mạnh người dân cần tham gia từ khâu xác định giá trị đến gìn giữ, truyền lại và quản lý di sản.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/09/30/img-jpg-1790774205-7885-1790774274.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=0tLBbZI2xjHs2rnj2g1Trg",
+    "link": "https://vnexpress.net/thong-qua-van-kien-ha-noi-ve-bao-ton-di-san-5125557.html",
+    "published_at": "Wed, 30 Sep 2026 21:49:29 +0700",
+    "createAt": "2026-09-30T14:49:29.000Z",
+    "thumbnail_blurhash": "LGFYZ0]}z.^N_LXm9GIWX#OqItIq"
   }
 ]
