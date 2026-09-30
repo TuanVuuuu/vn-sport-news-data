@@ -492,5 +492,44 @@
     "published_at": "Wed, 30 Sep 2026 00:14:43 +0700",
     "createAt": "2026-09-29T17:14:43.000Z",
     "thumbnail_blurhash": "LvF$ha.9bIoe?w%NWBn~-;t7RjoK"
+  },
+  {
+    "id": "https://vnexpress.net/banh-duc-ha-noi-duoc-bien-tau-o-tp-hcm-5126100.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Bánh đúc Hà Nội được biến tấu ở TP HCM",
+    "description": "Quán bánh đúc kiểu Hà Nội tại phường Thạnh Mỹ Tây, TP HCM, biến tấu vị truyền thống khi kết hợp với tôm, chả cá, bán khoảng 200 phần mỗi ngày.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/09/29/2aobor1xohhhpakpnp3ablo1c8qrlb-3352-2023-1790659086.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=kYTAI228iBSXYc6g6sZHxQ",
+    "link": "https://vnexpress.net/banh-duc-ha-noi-duoc-bien-tau-o-tp-hcm-5126100.html",
+    "published_at": "Wed, 30 Sep 2026 06:00:00 +0700",
+    "createAt": "2026-09-29T23:00:00.000Z",
+    "thumbnail_blurhash": "L7HK2#-?049utjV?E19t0#Nd}t$R"
+  },
+  {
+    "id": "https://vnexpress.net/vinpearl-se-khai-truong-to-hop-du-lich-giai-tri-tai-can-gio-vao-nam-2027-5126386.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Vinpearl sẽ khai trương tổ hợp du lịch, giải trí tại Cần Giờ vào năm 2027",
+    "description": "Vinpearl sẽ đồng loạt khai trương các hạng mục vui chơi giải trí, thể thao và lưu trú quy mô lớn tại khu đô thị Vinhomes Green Paradise Cần Giờ vào 1/7/2027.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/09/30/v1-1790692038-8332-1790725537.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=FY0mCLKy58U8MTJG93Akcw",
+    "link": "https://vnexpress.net/vinpearl-se-khai-truong-to-hop-du-lich-giai-tri-tai-can-gio-vao-nam-2027-5126386.html",
+    "published_at": "Wed, 30 Sep 2026 07:00:00 +0700",
+    "createAt": "2026-09-30T00:00:00.000Z",
+    "thumbnail_blurhash": "L~JbU0%2t7t7.Txas:ofNzoeWBay"
+  },
+  {
+    "id": "https://vnexpress.net/den-tuan-cry-moi-shipper-tai-xe-thuong-thuc-cha-muc-gia-tay-5125601.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Đen, Tuấn Cry mời shipper, tài xế thưởng thức chả mực giã tay",
+    "description": "Rapper Đen và nhạc sĩ Tuấn Cry lần lượt mời nhân viên hậu đài, người giao hàng, tài xế taxi thử món chả mực do họ giã tay, trong tập một \"Sao Chọn\".",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/09/29/adn09494jpg-1790667766-3129-1790667834.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=wmlbLVq-6Q1bmX6rLTByhQ",
+    "link": "https://vnexpress.net/den-tuan-cry-moi-shipper-tai-xe-thuong-thuc-cha-muc-gia-tay-5125601.html",
+    "published_at": "Wed, 30 Sep 2026 07:00:00 +0700",
+    "createAt": "2026-09-30T00:00:00.000Z",
+    "thumbnail_blurhash": "LDE{e1IoT{xCCM_4ozpb_M_3-qEL"
   }
 ]
