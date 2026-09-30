@@ -1181,5 +1181,31 @@
     "published_at": "Wed, 30 Sep 2026 14:06:00 +0700",
     "createAt": "2026-09-30T07:06:00.000Z",
     "thumbnail_blurhash": "LEDl$h~VIo%24TD*bdRPt5Rit6t7"
+  },
+  {
+    "id": "https://vnexpress.net/vn-index-giam-64-diem-trong-thang-nay-5126731.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "VN-Index giảm 64 điểm trong tháng này",
+    "description": "VN-Index tháng này được kỳ vọng tiếp tục hưng phấn sau khi tăng gần 100 điểm trong tháng trước, nhưng thực tế chỉ số có nhiều phiên giảm mạnh, mất tổng cộng 64 điểm.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/09/30/233A7637-8280-1790758063.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=A_QEydFRHw3-hWLQHieRUg",
+    "link": "https://vnexpress.net/vn-index-giam-64-diem-trong-thang-nay-5126731.html",
+    "published_at": "Wed, 30 Sep 2026 15:56:51 +0700",
+    "createAt": "2026-09-30T08:56:51.000Z",
+    "thumbnail_blurhash": "L3Av@MN90c[S000J-=?G1I.8Q.tT"
+  },
+  {
+    "id": "https://vnexpress.net/nguoi-gui-tien-san-ngan-hang-lai-suat-cao-5126404.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Người gửi tiền 'săn' ngân hàng lãi suất cao",
+    "description": "Miệt mài lên các hội nhóm tìm nơi lãi cao, chị Dung không ngần ngại đổi ngay ngân hàng có chênh lệch tiền lãi hàng chục triệu đồng mỗi năm cho khoản gửi 2 tỷ đồng đáo hạn.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/09/30/2aobor1gkcmjpu4n8u5pokpz86o1no-6347-2137-1790738617.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=tceYlLmQNK0xIr2LWdp6Fw",
+    "link": "https://vnexpress.net/nguoi-gui-tien-san-ngan-hang-lai-suat-cao-5126404.html",
+    "published_at": "Wed, 30 Sep 2026 16:15:18 +0700",
+    "createAt": "2026-09-30T09:15:18.000Z",
+    "thumbnail_blurhash": "LfHeOQ~p.7?atR-pt7bbIUWBs.WB"
   }
 ]
