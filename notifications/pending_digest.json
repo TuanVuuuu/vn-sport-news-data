@@ -53,6 +53,19 @@
       "thumbnail_blurhash": "L5Fi3:H{00Ag00IoTz?v01_K?uvx"
     },
     {
+      "id": "https://vnexpress.net/hacker-17-tuoi-tao-tro-ly-ai-tham-nhap-nen-tang-cua-microsoft-5125925.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Hacker 17 tuổi tạo trợ lý AI thâm nhập nền tảng của Microsoft",
+      "description": "Hacker có biệt danh Faav đã sử dụng trợ lý AI tự phát triển để phát hiện và khai thác thành công lỗ hổng xác thực trên nền tảng phân tích nội bộ Titan của Microsoft.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/09/28/wm1-wm1-dsc00498-jpg-1790605130-5618-1790605216.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=qkdMw0oxrN-DrWUl_moYsw",
+      "link": "https://vnexpress.net/hacker-17-tuoi-tao-tro-ly-ai-tham-nhap-nen-tang-cua-microsoft-5125925.html",
+      "published_at": "Wed, 30 Sep 2026 06:00:00 +0700",
+      "createAt": "2026-09-29T23:00:00.000Z",
+      "thumbnail_blurhash": "L23lt5xv00E3yFjZMbRj00RP~q-;"
+    },
+    {
       "id": "https://vnexpress.net/dinh-bac-trong-bong-da-khong-the-thang-mai-duoc-5126421.html",
       "category_id": "featured",
       "category_name": "Tin nổi bật",
@@ -77,6 +90,32 @@
       "published_at": "Wed, 30 Sep 2026 06:41:43 +0700",
       "createAt": "2026-09-29T23:41:43.000Z",
       "thumbnail_blurhash": "L*N,*$xa_NtR~qj[R*t7RjWBWAj["
+    },
+    {
+      "id": "https://vnexpress.net/chu-toa-vu-an-tai-vien-phap-y-tam-than-trung-uong-cac-bi-cao-qua-lieu-5126399.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Chủ tọa vụ án tại Viện Pháp y tâm thần Trung ương: 'Các bị cáo quá liều'",
+      "description": "Khi xét hỏi cựu điều tra viên \"chạy\" hồ sơ tâm thần cho tội phạm ma túy, chủ tọa phiên tòa vụ án tại Viện Pháp y tâm thần Trung ương lắc đầu nói: \"Các bị cáo quá liều\".",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/09/29/126a5835-1790699026-5102-1790699220.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=iOgwRssHUR3IKWdj70ghzA",
+      "link": "https://vnexpress.net/chu-toa-vu-an-tai-vien-phap-y-tam-than-trung-uong-cac-bi-cao-qua-lieu-5126399.html",
+      "published_at": "Wed, 30 Sep 2026 07:00:00 +0700",
+      "createAt": "2026-09-30T00:00:00.000Z",
+      "thumbnail_blurhash": "LAD9em%3x[Na^PIT.8?b~p%3E1E1"
+    },
+    {
+      "id": "https://vnexpress.net/14-dai-hoc-viet-nam-vao-bang-xep-hang-the-gioi-2027-5126438.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "14 đại học Việt Nam vào bảng xếp hạng thế giới 2027",
+      "description": "14 đại học Việt Nam được xếp hạng thế giới của THE, nhiều nhất từ trước tới nay, nhưng chỉ một trường thăng hạng.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/09/30/dtu-1790726389-1489-1790726422.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=oSW5pE9Eey7Zwupi4gwBCg",
+      "link": "https://vnexpress.net/14-dai-hoc-viet-nam-vao-bang-xep-hang-the-gioi-2027-5126438.html",
+      "published_at": "Wed, 30 Sep 2026 07:18:53 +0700",
+      "createAt": "2026-09-30T00:18:53.000Z",
+      "thumbnail_blurhash": "L=D0~9RjXAXAtpf6j^a~IXt7V@ad"
     }
   ]
 }
