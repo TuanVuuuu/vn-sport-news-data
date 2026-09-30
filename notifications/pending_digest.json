@@ -1,6 +1,19 @@
 {
   "featured": [
     {
+      "id": "https://vnexpress.net/can-ho-ven-song-gia-len-den-650-trieu-dong-mot-m2-5126154.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Căn hộ ven sông giá lên đến 650 triệu đồng một m2",
+      "description": "Giá căn hộ ven sông tại thành phố tăng mạnh 5 năm qua, có nơi lên đến 500-650 triệu một m2, khi quỹ đất dọc sông Sài Gòn ngày càng khan hiếm và các dự án mới liên tục lập mặt bằng giá cao.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/09/29/DJI-20260527103734-0857-D-2-2819-1790658111.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=y1S1csF9r8OTphBP3lS-sQ",
+      "link": "https://vnexpress.net/can-ho-ven-song-gia-len-den-650-trieu-dong-mot-m2-5126154.html",
+      "published_at": "Wed, 30 Sep 2026 09:15:14 +0700",
+      "createAt": "2026-09-30T02:15:14.000Z",
+      "thumbnail_blurhash": "LjGI=gaxa#a{_4ofazt7%Nt7axju"
+    },
+    {
       "id": "https://vnexpress.net/cong-khai-ten-truong-hoc-lam-thu-trong-vong-3-ngay-5126402.html",
       "category_id": "featured",
       "category_name": "Tin nổi bật",
@@ -14,6 +27,45 @@
       "thumbnail_blurhash": "L4D9eb0001tQ~oE358D%9H?Z%MeV"
     },
     {
+      "id": "https://vnexpress.net/xe-trung-quoc-ap-dao-oto-moi-ra-mat-khach-viet-trong-2026-5126565.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Xe Trung Quốc áp đảo ôtô mới ra mắt khách Việt trong 2026",
+      "description": "Tính đến tháng 9, trong gần 40 ôtô mới ra mắt khách Việt thì hơn 30% từ các hãng Trung Quốc, nhiều nhất thị trường.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/09/30/xe-moi-ra-mat-VNEXPRESS-1790739098.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=o6vE_afLAYnhmYzgsFvP4w",
+      "link": "https://vnexpress.net/xe-trung-quoc-ap-dao-oto-moi-ra-mat-khach-viet-trong-2026-5126565.html",
+      "published_at": "Wed, 30 Sep 2026 10:53:04 +0700",
+      "createAt": "2026-09-30T03:53:04.000Z",
+      "thumbnail_blurhash": "LLM7$7x]MxtR-;WBWBj[_NV@WBt7"
+    },
+    {
+      "id": "https://vnexpress.net/kiev-rung-chuyen-mat-dien-mot-phan-sau-don-tap-kich-cua-nga-5126497.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Kiev rung chuyển, mất điện một phần sau đòn tập kích của Nga",
+      "description": "Nga phóng loạt tên lửa đạn đạo nhằm vào thủ đô Kiev, gây ra các vụ nổ lớn và làm thành phố mất điện một phần.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/09/30/Settop2-1790738097-6469-1790738686.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=6KJmAktL9MfPTmPx0agQJg",
+      "link": "https://vnexpress.net/kiev-rung-chuyen-mat-dien-mot-phan-sau-don-tap-kich-cua-nga-5126497.html",
+      "published_at": "Wed, 30 Sep 2026 11:06:35 +0700",
+      "createAt": "2026-09-30T04:06:35.000Z",
+      "thumbnail_blurhash": "LGFNur=z00EK00so~XS#KhI.w0$+"
+    },
+    {
+      "id": "https://vnexpress.net/ben-luc-long-thanh-manh-ghep-cuoi-cao-toc-bac-nam-truoc-gio-thong-tuyen-5126395.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Bến Lức - Long Thành, mảnh ghép cuối cao tốc Bắc - Nam trước giờ thông tuyến",
+      "description": "Cao tốc Bến Lức - Long Thành dài 58 km sẽ thông toàn tuyến đêm 30/9, giúp nối thông trục Bắc - Nam qua TP HCM, rút hơn một giờ cho ôtô từ miền Tây chạy đến Đồng Nai, Vũng Tàu, Phan Thiết...",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/09/30/1790744725570-604643063585622627-604643063585622627-1d93148d2b86e33c5a9bb773b7e6be8e-1790744960.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=A4QEYi-1WjiMUQrPXwOWhw",
+      "link": "https://vnexpress.net/ben-luc-long-thanh-manh-ghep-cuoi-cao-toc-bac-nam-truoc-gio-thong-tuyen-5126395.html",
+      "published_at": "Wed, 30 Sep 2026 11:11:00 +0700",
+      "createAt": "2026-09-30T04:11:00.000Z",
+      "thumbnail_blurhash": "LJKx9l00D*~ox:9Zt7xZn=xTWAR;"
+    },
+    {
       "id": "https://vnexpress.net/ba-trum-thao-tung-vien-phap-y-tam-than-trung-uong-bi-de-nghi-30-nam-tu-5126585.html",
       "category_id": "featured",
       "category_name": "Tin nổi bật",
@@ -25,6 +77,19 @@
       "published_at": "Wed, 30 Sep 2026 11:12:31 +0700",
       "createAt": "2026-09-30T04:12:31.000Z",
       "thumbnail_blurhash": "LTEMOTt2t8og~poIRkogRMbJRiaw"
+    },
+    {
+      "id": "https://vnexpress.net/taxi-bay-duoc-de-xuat-thu-nghiem-o-ha-noi-co-gi-dac-biet-5126403.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "'Taxi bay' được đề xuất thử nghiệm ở Hà Nội có gì đặc biệt?",
+      "description": "EH216-S - máy bay điện không người lái hai chỗ ngồi, được đề xuất thử nghiệm tại Khu Công nghệ cao Hòa Lạc, tốc độ tối đa 130 km/h với tầm hoạt động khoảng 30 km.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/09/29/HINHezgifcomvideotogifconverte-3296-7776-1790697091.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=6hVnK4vB_1tt2QXbvZPrzA&t=image",
+      "link": "https://vnexpress.net/taxi-bay-duoc-de-xuat-thu-nghiem-o-ha-noi-co-gi-dac-biet-5126403.html",
+      "published_at": "Wed, 30 Sep 2026 11:27:59 +0700",
+      "createAt": "2026-09-30T04:27:59.000Z",
+      "thumbnail_blurhash": "LEJt}5o}^+-p*0-;RmWCOYogSOIo"
     }
   ]
 }
