@@ -895,5 +895,31 @@
     "published_at": "Wed, 30 Sep 2026 20:25:21 +0700",
     "createAt": "2026-09-30T13:25:21.000Z",
     "thumbnail_blurhash": "LWPPN2?b_4sA%hRPxGtR.9RjM{t7"
+  },
+  {
+    "id": "https://vnexpress.net/dao-dien-quang-dung-toi-tiet-kiem-hang-chuc-ty-dong-nho-ai-5126729.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Đạo diễn Quang Dũng: 'Tôi tiết kiệm hàng chục tỷ đồng nhờ AI'",
+    "description": "Đạo diễn Quang Dũng cho biết công nghệ AI giúp anh tiết kiệm hàng chục tỷ đồng, nhờ đó hiện thức hóa ước mơ làm phim hoạt hình.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/09/30/daodienquangdungt-1790761023-9000-1790761440.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=xBDsby9ZTEu5fsOWUB4RGg",
+    "link": "https://vnexpress.net/dao-dien-quang-dung-toi-tiet-kiem-hang-chuc-ty-dong-nho-ai-5126729.html",
+    "published_at": "Thu, 01 Oct 2026 00:00:00 +0700",
+    "createAt": "2026-09-30T17:00:00.000Z",
+    "thumbnail_blurhash": "LDA^5g9b0g~B-oWENIRjENxYxDNd"
+  },
+  {
+    "id": "https://vnexpress.net/hong-dao-duoc-khen-khi-hat-xuan-thi-5126692.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Hồng Đào được khen khi hát 'Xuân thì'",
+    "description": "Diễn viên Hồng Đào, 64 tuổi, được khán giả, đồng nghiệp khen thể hiện nhạc phẩm \"Xuân thì\" cảm xúc tại một show nhạc.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/09/30/HongDao15-1790758333-6575-1790760013.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=DpiFL3UyELqimykqAOc8qw",
+    "link": "https://vnexpress.net/hong-dao-duoc-khen-khi-hat-xuan-thi-5126692.html",
+    "published_at": "Thu, 01 Oct 2026 00:05:00 +0700",
+    "createAt": "2026-09-30T17:05:00.000Z",
+    "thumbnail_blurhash": "LCH13+=~01D*VWDj~B^+%gxv^j4."
   }
 ]
