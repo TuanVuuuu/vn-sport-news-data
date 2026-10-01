@@ -388,5 +388,44 @@
     "published_at": "Thu, 01 Oct 2026 19:00:00 +0700",
     "createAt": "2026-10-01T12:00:00.000Z",
     "thumbnail_blurhash": "LEEy.0~qWDo~-;xaoJj[ESIpoIs:"
+  },
+  {
+    "id": "https://vnexpress.net/my-thanh-lap-bo-tu-lenh-chuyen-ve-drone-robot-5127189.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Mỹ thành lập bộ tư lệnh chuyên về drone, robot",
+    "description": "Bộ Quốc phòng Mỹ thành lập bộ tư lệnh chuyên về chế tạo, cung cấp khí tài liên quan đến công nghệ tự hành và robot.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/01/UGV-1790846466-5625-1790847295.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=9fhoLbs0xVQwIAPMu1Vv0g",
+    "link": "https://vnexpress.net/my-thanh-lap-bo-tu-lenh-chuyen-ve-drone-robot-5127189.html",
+    "published_at": "Thu, 01 Oct 2026 18:04:38 +0700",
+    "createAt": "2026-10-01T11:04:38.000Z",
+    "thumbnail_blurhash": "L27BoWNFO~.Ku4w34rV@.NR%^*RP"
+  },
+  {
+    "id": "https://vnexpress.net/tong-thong-panama-sap-tham-viet-nam-5127333.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Tổng thống Panama sắp thăm Việt Nam",
+    "description": "Tổng thống Panama và phu nhân sẽ thăm chính thức Việt Nam theo lời mời của Tổng Bí thư, Chủ tịch nước Tô Lâm và phu nhân.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/01/afp-aa-v1-highres-greekprimemi-5681-7862-1790857801.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=kdRQwkkC-qwFWxLbunXVbw",
+    "link": "https://vnexpress.net/tong-thong-panama-sap-tham-viet-nam-5127333.html",
+    "published_at": "Thu, 01 Oct 2026 19:40:28 +0700",
+    "createAt": "2026-10-01T12:40:28.000Z",
+    "thumbnail_blurhash": "L89?,$In00?I=pt89vMxyZjFMJX8"
+  },
+  {
+    "id": "https://vnexpress.net/kiev-ngap-khoi-mu-sau-nhung-cuoc-khong-kich-cua-nga-5126897.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Kiev ngập khói mù sau những cuộc không kích của Nga",
+    "description": "Sau những đợt không kích dồn dập của Nga, khói và muội than tích tụ cùng thời tiết bất lợi khiến Kiev chìm trong màn sương ô nhiễm chưa từng thấy.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/01/kiev-1790840865-2573-1790841118.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=0Z2ISco9p-AQqiUWaRaHsA",
+    "link": "https://vnexpress.net/kiev-ngap-khoi-mu-sau-nhung-cuoc-khong-kich-cua-nga-5126897.html",
+    "published_at": "Thu, 01 Oct 2026 20:00:00 +0700",
+    "createAt": "2026-10-01T13:00:00.000Z",
+    "thumbnail_blurhash": "LTF$O+9axaj]_4R*j?oftmoJWBj["
   }
 ]
