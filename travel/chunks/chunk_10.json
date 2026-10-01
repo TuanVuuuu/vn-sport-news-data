@@ -713,5 +713,31 @@
     "published_at": "Thu, 01 Oct 2026 10:24:19 +0700",
     "createAt": "2026-10-01T03:24:19.000Z",
     "thumbnail_blurhash": "LjDw%PyZS5aet:WCV?ofa*r;oeoz"
+  },
+  {
+    "id": "https://vnexpress.net/thai-airways-giam-40-cong-suat-1-000-khach-mac-ket-o-san-bay-bangkok-5126747.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Thai Airways giảm 40% công suất, 1.000 khách mắc kẹt ở sân bay Bangkok",
+    "description": "Thai Airways cắt 30-40% công suất khai thác do ngập lụt, khiến hơn 1.000 hành khách transit mắc kẹt tại sân bay Suvarnabhumi trong lúc 5.600 kiện hành lý vẫn chưa được giải quyết.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/10/01/c76fdd6ec042eb32eea510000322aa-6414-8551-1790828687.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=I0bdZ0auhPBl0a7liycexA",
+    "link": "https://vnexpress.net/thai-airways-giam-40-cong-suat-1-000-khach-mac-ket-o-san-bay-bangkok-5126747.html",
+    "published_at": "Thu, 01 Oct 2026 00:44:12 +0700",
+    "createAt": "2026-09-30T17:44:12.000Z",
+    "thumbnail_blurhash": "LPG8o|yEM{$*.S-:IUWB?^tRiwNG"
+  },
+  {
+    "id": "https://vnexpress.net/10-quoc-gia-dan-dau-the-gioi-ve-du-lich-2026-5126943.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "10 quốc gia dẫn đầu thế giới về du lịch 2026",
+    "description": "Nhật Bản là quốc gia dẫn đầu trong danh sách 10 điểm đến phát triển du lịch nhất thế giới 2026, theo Diễn đàn Kinh tế thế giới (WEF).",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/10/01/newfile-1790823858-3892-1790824057.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=5jZgIA9dzvzX_uXL8uVTiw",
+    "link": "https://vnexpress.net/10-quoc-gia-dan-dau-the-gioi-ve-du-lich-2026-5126943.html",
+    "published_at": "Thu, 01 Oct 2026 10:49:05 +0700",
+    "createAt": "2026-10-01T03:49:05.000Z",
+    "thumbnail_blurhash": "L7BM*[Dh00_3xT?bE1IV_MRjD%Rl"
   }
 ]

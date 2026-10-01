@@ -648,5 +648,31 @@
     "published_at": "Thu, 01 Oct 2026 06:00:42 +0700",
     "createAt": "2026-09-30T23:00:42.000Z",
     "thumbnail_blurhash": "LfJQ+Uxsxt-o~UWVR+RkIpoJRjRk"
+  },
+  {
+    "id": "https://vnexpress.net/thi-sinh-do-nganh-cong-nghe-thong-tin-giam-manh-5126909.html",
+    "category_id": "education",
+    "category_name": "Giáo dục",
+    "source": "VnExpress",
+    "title": "Thí sinh đỗ ngành Công nghệ thông tin giảm mạnh",
+    "description": "Số thí sinh đỗ nhóm ngành Công nghệ thông tin giảm 10.000 em so với năm ngoái - là nhóm duy nhất sụt giảm trong 15 nhóm ngành khoa học cơ bản, kỹ thuật then chốt và công nghệ chiến lược.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/01/hn-thi-thpt-1790823243-6870-1790823493.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=XfZyCilznwnHC5hzooB03A",
+    "link": "https://vnexpress.net/thi-sinh-do-nganh-cong-nghe-thong-tin-giam-manh-5126909.html",
+    "published_at": "Thu, 01 Oct 2026 09:58:13 +0700",
+    "createAt": "2026-10-01T02:58:13.000Z",
+    "thumbnail_blurhash": "LCF$Fd8^X,tP~p9EtQtR00?vD$IU"
+  },
+  {
+    "id": "https://vnexpress.net/giao-su-viet-giai-bai-toan-be-tac-suot-55-nam-5127017.html",
+    "category_id": "education",
+    "category_name": "Giáo dục",
+    "source": "VnExpress",
+    "title": "Giáo sư Việt giải bài toán bế tắc suốt 55 năm",
+    "description": "Phạm Tuấn Huy và cộng sự gây kinh ngạc khi giải quyết nhanh chóng một bài toán đã bế tắc 55 năm, lấy ý tưởng từ bộ môn xiếc tung hứng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/01/pth-1790829048-7839-1790829055.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=M4WyM7Ou3DRQqWOLYt35NA",
+    "link": "https://vnexpress.net/giao-su-viet-giai-bai-toan-be-tac-suot-55-nam-5127017.html",
+    "published_at": "Thu, 01 Oct 2026 11:22:54 +0700",
+    "createAt": "2026-10-01T04:22:54.000Z",
+    "thumbnail_blurhash": "LHF5dI_N0Nt9JCtR-pt758NK-pbI"
   }
 ]
