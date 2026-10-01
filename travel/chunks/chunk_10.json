@@ -752,5 +752,31 @@
     "published_at": "Thu, 01 Oct 2026 12:30:00 +0700",
     "createAt": "2026-10-01T05:30:00.000Z",
     "thumbnail_blurhash": "LRA-bkr=IUW=*0oKZ~aKkrWBV?V?"
+  },
+  {
+    "id": "https://vnexpress.net/roi-bi-song-5-nam-tren-dao-khong-dien-nuoc-may-o-indonesia-5127106.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Rời Bỉ, sống 5 năm trên đảo không điện, nước máy ở Indonesia",
+    "description": "Bỏ cuộc sống tiện nghi ở Bỉ, vợ chồng Marjolein đến hòn đảo không điện, nước máy ở Indonesia để sống và nuôi dạy con gái đầu lòng.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/10/01/tai-xuongt130254-1790834857-4937-1790836204.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=uWY3C_Z0CIaywzvITcgWBA",
+    "link": "https://vnexpress.net/roi-bi-song-5-nam-tren-dao-khong-dien-nuoc-may-o-indonesia-5127106.html",
+    "published_at": "Thu, 01 Oct 2026 19:00:00 +0700",
+    "createAt": "2026-10-01T12:00:00.000Z",
+    "thumbnail_blurhash": "LbKV8P%g_4tR%3-;X9RPD%aztRRj"
+  },
+  {
+    "id": "https://vnexpress.net/hai-phong-la-diem-dung-chan-tiep-theo-cua-sao-chon-5125608.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Hải Phòng là điểm dừng chân tiếp theo của 'Sao Chọn'",
+    "description": "Diễn viên Quang Thắng, Đỗ Duy Nam và host Phí Linh sẽ khám phá ẩm thực Hải Phòng trong tập 2 show thực tế \"Sao Chọn\", lên sóng Chủ nhật này.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/10/01/cnt04784-1790851090-9187-1790851614.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=92tXIpuOcN11ttdwPXdHqw",
+    "link": "https://vnexpress.net/hai-phong-la-diem-dung-chan-tiep-theo-cua-sao-chon-5125608.html",
+    "published_at": "Thu, 01 Oct 2026 19:00:00 +0700",
+    "createAt": "2026-10-01T12:00:00.000Z",
+    "thumbnail_blurhash": "L7CYm_$-CQx[00R%MxV@SvWm}YxF"
   }
 ]
