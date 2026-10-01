@@ -1259,5 +1259,44 @@
     "published_at": "Thu, 01 Oct 2026 07:07:46 +0700",
     "createAt": "2026-10-01T00:07:46.000Z",
     "thumbnail_blurhash": "LVG[J}~qxw%N-ot7tRtRM~WUt2WB"
+  },
+  {
+    "id": "https://vnexpress.net/cach-bao-ve-he-ho-hap-cho-tre-nhung-ngay-suong-mu-5126883.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Cách bảo vệ hệ hô hấp cho trẻ những ngày sương mù",
+    "description": "Phụ huynh nên hạn chế cho trẻ vui chơi ngoài trời, tránh khói bụi, theo dõi các triệu chứng hô hấp vào những ngày nhiều sương mù.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/01/image001-1790814859-9778-1790814908.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=A9yt1v_CUSXdZn9u_d-l0g",
+    "link": "https://vnexpress.net/cach-bao-ve-he-ho-hap-cho-tre-nhung-ngay-suong-mu-5126883.html",
+    "published_at": "Thu, 01 Oct 2026 09:00:00 +0700",
+    "createAt": "2026-10-01T02:00:00.000Z",
+    "thumbnail_blurhash": "LoK-h2IVIoa}~qa}ofa}%Lj[j[j["
+  },
+  {
+    "id": "https://vnexpress.net/uong-tra-gung-buoi-sang-co-tot-cho-nguoi-benh-gout-5126876.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Uống trà gừng buổi sáng có tốt cho người bệnh gout?",
+    "description": "Tôi thường uống trà gừng vào buổi sáng, gần đây mới phát hiện gout thì có nên duy trì thói quen này? (Thanh Hưng, TP HCM)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/01/tra-gu-ng-1790813480-1402-1790813580.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=1Vm0jPDnX4Es_ob4A9m9eQ",
+    "link": "https://vnexpress.net/uong-tra-gung-buoi-sang-co-tot-cho-nguoi-benh-gout-5126876.html",
+    "published_at": "Thu, 01 Oct 2026 09:00:00 +0700",
+    "createAt": "2026-10-01T02:00:00.000Z",
+    "thumbnail_blurhash": "LhLgU?$|p0kY?wM|aKxabxogV@kB"
+  },
+  {
+    "id": "https://vnexpress.net/tu-my-den-viet-nam-phau-thuat-u-than-bang-robot-5126843.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Từ Mỹ đến Việt Nam phẫu thuật u thận bằng robot",
+    "description": "Ông Frank, quốc tịch Mỹ, có khối u ở thận trái, được bác sĩ phẫu thuật bằng robot Da Vinci Xi lấy trọn khối u, xuất viện sau 3 ngày.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/09/30/hinh-pr-1790781743-5588-1790781909.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=i-4QytQH7whMtXb2SDgMWA",
+    "link": "https://vnexpress.net/tu-my-den-viet-nam-phau-thuat-u-than-bang-robot-5126843.html",
+    "published_at": "Thu, 01 Oct 2026 09:00:00 +0700",
+    "createAt": "2026-10-01T02:00:00.000Z",
+    "thumbnail_blurhash": "LNKxG2~nV=S+^*IVIVxr^gxxt9xT"
   }
 ]
