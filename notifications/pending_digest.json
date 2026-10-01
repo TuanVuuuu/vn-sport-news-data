@@ -1,3 +1,43 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/tp-hcm-mua-trang-troi-ket-xe-hon-3-km-duong-cua-ngo-tan-son-nhat-5127298.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "TP HCM mưa trắng trời, kẹt xe hơn 3 km đường cửa ngõ Tân Sơn Nhất",
+      "description": "Mưa như trút kèm sấm chớp dữ dội tại trung tâm TP HCM, nhiều tuyến đường gần sân bay Tân Sơn Nhất ùn tắc kéo dài.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/01/wm1-1-1790851748.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=3UTs5RTNi4SoG5WxjVcpqQ",
+      "link": "https://vnexpress.net/tp-hcm-mua-trang-troi-ket-xe-hon-3-km-duong-cua-ngo-tan-son-nhat-5127298.html",
+      "published_at": "Thu, 01 Oct 2026 17:33:52 +0700",
+      "createAt": "2026-10-01T10:33:52.000Z",
+      "thumbnail_blurhash": "LBEJ-z}sB6AW5RI;ADs:1bJ7w|#:"
+    },
+    {
+      "id": "https://vnexpress.net/giam-doc-so-giao-duc-va-dao-tao-tuyen-quang-bi-khoi-to-5127025.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Giám đốc Sở Giáo dục và Đào tạo Tuyên Quang bị khởi tố",
+      "description": "Giám đốc Sở Giáo dục và Đào tạo tỉnh Tuyên Quang Vũ Đình Hưng bị khởi tố với cáo buộc có sai phạm trong vụ gian lận thi tốt nghiệp THPT tại trường chuyên Tuyên Quang.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/01/1-1790825849-3176-1790851209.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=74ACgdkj30p1ekpspsADRw",
+      "link": "https://vnexpress.net/giam-doc-so-giao-duc-va-dao-tao-tuyen-quang-bi-khoi-to-5127025.html",
+      "published_at": "Thu, 01 Oct 2026 17:44:48 +0700",
+      "createAt": "2026-10-01T10:44:48.000Z",
+      "thumbnail_blurhash": "LGDv.jx]00IU00WA~qkD%NazaJof"
+    },
+    {
+      "id": "https://vnexpress.net/cho-tan-son-nhat-ngap-hon-nua-met-5127312.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Chợ Tân Sơn Nhất ngập hơn nửa mét",
+      "description": "Mưa lớn tối 1/10 khiến nhiều nơi ở TP HCM ngập nặng, tại chợ Tân Sơn Nhất nước ngập hơn nửa mét.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/01/2aobor2tllroiayhoy4839szc7g2wh-5322-7716-1790852712.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ty0L1bvz3uoakiNKvEOfhg",
+      "link": "https://vnexpress.net/cho-tan-son-nhat-ngap-hon-nua-met-5127312.html",
+      "published_at": "Thu, 01 Oct 2026 18:05:12 +0700",
+      "createAt": "2026-10-01T11:05:12.000Z",
+      "thumbnail_blurhash": "L9C$v7~oKje,D*M|$NxaS}a$oft8"
+    }
+  ]
 }
