@@ -362,5 +362,31 @@
     "published_at": "Thu, 01 Oct 2026 20:32:19 +0700",
     "createAt": "2026-10-01T13:32:19.000Z",
     "thumbnail_blurhash": "LOE{zowb#lxa~EOXj=kW?bxan~a}"
+  },
+  {
+    "id": "https://vnexpress.net/4-thuc-pham-giup-ban-ngu-ngon-5126730.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "4 thực phẩm giúp bạn ngủ ngon",
+    "description": "Kiwi, hạt óc chó, sữa, cá béo cung cấp một số chất dinh dưỡng có thể cải thiện chất lượng giấc ngủ và hạn chế thức giấc giữa đêm.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/09/30/qua-kiwi-1790757614.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=5kl_L_zApP0nShYsGHAyCg",
+    "link": "https://vnexpress.net/4-thuc-pham-giup-ban-ngu-ngon-5126730.html",
+    "published_at": "Fri, 02 Oct 2026 00:02:00 +0700",
+    "createAt": "2026-10-01T17:02:00.000Z",
+    "thumbnail_blurhash": "LFFi9;xc05~U-=WAawog4yxr?9M~"
+  },
+  {
+    "id": "https://vnexpress.net/tai-sao-nguoi-tre-ngay-cang-phai-thuc-giac-giua-dem-de-di-tieu-5127117.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Tại sao người trẻ ngày càng phải thức giấc giữa đêm để đi tiểu?",
+    "description": "Ánh sáng xanh từ điện thoại không chỉ gây mất ngủ mà còn làm sụt giảm hormone chống bài niệu, khiến thận tăng sản xuất nước tiểu và buộc nhiều người liên tục thức giấc giữa đêm.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/01/6-1790834185-8207-1790834510.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=VLDwBryWelO8l3enIWyUpg",
+    "link": "https://vnexpress.net/tai-sao-nguoi-tre-ngay-cang-phai-thuc-giac-giua-dem-de-di-tieu-5127117.html",
+    "published_at": "Fri, 02 Oct 2026 00:03:00 +0700",
+    "createAt": "2026-10-01T17:03:00.000Z",
+    "thumbnail_blurhash": "LSA16c%%o#tRkCofofj]M_VrROV@"
   }
 ]
