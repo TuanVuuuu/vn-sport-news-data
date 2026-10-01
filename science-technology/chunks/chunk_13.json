@@ -817,5 +817,31 @@
     "published_at": "Thu, 01 Oct 2026 16:00:00 +0700",
     "createAt": "2026-10-01T09:00:00.000Z",
     "thumbnail_blurhash": "L#Lzjh}pR5Nz-=ngslt7IVt4xtRk"
+  },
+  {
+    "id": "https://vnexpress.net/ceo-nvidia-amd-tham-gia-hoi-dong-co-van-thuoc-dai-hoc-thanh-hoa-5127159.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "CEO Nvidia, AMD tham gia hội đồng cố vấn thuộc Đại học Thanh Hoa",
+    "description": "CEO Nvidia Jensen Huang và CEO AMD Lisa Su là thành viên hội đồng cố vấn của Trường Kinh tế và Quản lý thuộc Đại học Thanh Hoa (Tsinghua SEM).",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/01/galleryimage-coreim-1790844021-1823-1790844307.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=Mrqmc4fcVDkAkGlvaY7Xgg",
+    "link": "https://vnexpress.net/ceo-nvidia-amd-tham-gia-hoi-dong-co-van-thuoc-dai-hoc-thanh-hoa-5127159.html",
+    "published_at": "Thu, 01 Oct 2026 16:27:54 +0700",
+    "createAt": "2026-10-01T09:27:54.000Z",
+    "thumbnail_blurhash": "LiGGz?}sniI:=y$*n$aexaxaniV@"
+  },
+  {
+    "id": "https://vnexpress.net/mo-hinh-ai-tu-thiet-ke-va-cai-tien-chip-ban-dan-5127088.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Mô hình AI tự thiết kế và cải tiến chip bán dẫn",
+    "description": "Mô hình GPT-Synopsys, do OpenAI hợp tác phát triển với Synopsys, có thể tự chạy phần mềm, ra quyết định chỉnh sửa và tối ưu hóa thiết kế chip.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/01/2024-02-09T051613Z-372912161-R-7889-7736-1790830052.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=1XwuDjvrp4ze5y7goJ4fNg",
+    "link": "https://vnexpress.net/mo-hinh-ai-tu-thiet-ke-va-cai-tien-chip-ban-dan-5127088.html",
+    "published_at": "Thu, 01 Oct 2026 18:00:00 +0700",
+    "createAt": "2026-10-01T11:00:00.000Z",
+    "thumbnail_blurhash": "LuJ+7VbcWBt7~UWAj[ofxajsa|fQ"
   }
 ]
