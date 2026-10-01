@@ -258,5 +258,44 @@
     "published_at": "Thu, 01 Oct 2026 15:00:00 +0700",
     "createAt": "2026-10-01T08:00:00.000Z",
     "thumbnail_blurhash": "LROMKl0MuOvg*0T0rCwIX:MyM|t,"
+  },
+  {
+    "id": "https://vnexpress.net/vay-trang-dau-do-viem-da-man-tinh-5127209.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Vảy trắng đầu do viêm da mạn tính",
+    "description": "Chị Lan, 35 tuổi, da đầu nhiều vảy trắng gây ngứa và mảng đỏ ngày càng lan rộng, bác sĩ chẩn đoán viêm da mạn tính.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/01/viem-da-dau-1790843411-7209-1790843446.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Sd9iwc1LfFEcXMbFgve7OA",
+    "link": "https://vnexpress.net/vay-trang-dau-do-viem-da-man-tinh-5127209.html",
+    "published_at": "Thu, 01 Oct 2026 16:00:00 +0700",
+    "createAt": "2026-10-01T09:00:00.000Z",
+    "thumbnail_blurhash": "LJHnT#IN049c05^-^+NgJXN1-BxW"
+  },
+  {
+    "id": "https://vnexpress.net/magie-tac-dong-the-nao-den-suc-khoe-phu-nu-5127013.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Magie tác động thế nào đến sức khỏe phụ nữ",
+    "description": "Magie giúp tăng cường sức khỏe xương, hệ thần kinh, cơ bắp và có thể giảm một số triệu chứng tiền kinh nguyệt như mệt mỏi, đau đầu, căng thẳng.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/01/ca-i-xanh-1790824543-8173-1790824616.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=qAtdwTF5GRBs_2YgCn2MhA",
+    "link": "https://vnexpress.net/magie-tac-dong-the-nao-den-suc-khoe-phu-nu-5127013.html",
+    "published_at": "Thu, 01 Oct 2026 16:00:00 +0700",
+    "createAt": "2026-10-01T09:00:00.000Z",
+    "thumbnail_blurhash": "LJC7Js9HMPt6??M|RRoeDlx[NGof"
+  },
+  {
+    "id": "https://vnexpress.net/dieu-gi-xay-ra-khi-ha-duong-huyet-thuong-xuyen-5126833.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Điều gì xảy ra khi hạ đường huyết thường xuyên?",
+    "description": "Hạ đường huyết kéo dài không kiểm soát có thể khiến não thiếu năng lượng, gây rối loạn nhịp tim.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/01/do-du-o-ng-huye-t-1790818140-3224-1790818174.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=dX7CEhD-2H8P9DZNT6L4AQ",
+    "link": "https://vnexpress.net/dieu-gi-xay-ra-khi-ha-duong-huyet-thuong-xuyen-5126833.html",
+    "published_at": "Thu, 01 Oct 2026 16:00:00 +0700",
+    "createAt": "2026-10-01T09:00:00.000Z",
+    "thumbnail_blurhash": "LGJ83A^kw?Wm%j*0ibH?tSIqIpxt"
   }
 ]
