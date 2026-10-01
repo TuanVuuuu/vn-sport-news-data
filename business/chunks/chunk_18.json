@@ -37,5 +37,31 @@
     "published_at": "Thu, 01 Oct 2026 07:00:00 +0700",
     "createAt": "2026-10-01T00:00:00.000Z",
     "thumbnail_blurhash": "LLFr;caI%0%MKnMwROs:AM%KM_oI"
+  },
+  {
+    "id": "https://vnexpress.net/vn-index-giam-64-diem-trong-thang-9-5126731.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "VN-Index giảm 64 điểm trong tháng 9",
+    "description": "VN-Index tháng này được kỳ vọng tiếp tục hưng phấn sau khi tăng gần 100 điểm trong tháng trước, nhưng thực tế chỉ số có nhiều phiên giảm mạnh, mất tổng cộng 64 điểm.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/09/30/233A7637-8280-1790758063.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=A_QEydFRHw3-hWLQHieRUg",
+    "link": "https://vnexpress.net/vn-index-giam-64-diem-trong-thang-9-5126731.html",
+    "published_at": "Wed, 30 Sep 2026 15:56:51 +0700",
+    "createAt": "2026-09-30T08:56:51.000Z",
+    "thumbnail_blurhash": "L3A,X;N90c:$000J-=.70}.7Q.xw"
+  },
+  {
+    "id": "https://vnexpress.net/viet-nam-va-singapore-ky-bien-ban-dua-co-phieu-len-san-cua-nhau-5126880.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Việt Nam và Singapore ký biên bản đưa cổ phiếu lên sàn của nhau",
+    "description": "Hai nước sẽ phát triển chứng chỉ đại diện cổ phiếu, mở hướng để doanh nghiệp Việt tiếp cận nhà đầu tư Singapore mà không cần niêm yết trực tiếp.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/01/chu-tich-ubcknn-phat-bieu-1790-9717-3181-1790814269.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=N5X7wynl0qlnNCuIKIOnRg",
+    "link": "https://vnexpress.net/viet-nam-va-singapore-ky-bien-ban-dua-co-phieu-len-san-cua-nhau-5126880.html",
+    "published_at": "Thu, 01 Oct 2026 09:57:16 +0700",
+    "createAt": "2026-10-01T02:57:16.000Z",
+    "thumbnail_blurhash": "LhJHv^s9Rjog#Qs.r?nl~AenRjxa"
   }
 ]
