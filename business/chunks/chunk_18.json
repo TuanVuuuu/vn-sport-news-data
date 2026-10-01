@@ -102,5 +102,44 @@
     "published_at": "Thu, 01 Oct 2026 14:29:05 +0700",
     "createAt": "2026-10-01T07:29:05.000Z",
     "thumbnail_blurhash": "L5B;5:4T00#i00TM.A?bV?IVSPD*"
+  },
+  {
+    "id": "https://vnexpress.net/gia-xang-dau-moi-nhat-hom-nay-1-10-5127119.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Giá xăng E10 lên gần 27.200 đồng một lít",
+    "description": "Từ 15h hôm nay, mỗi lít xăng tăng 100-170 đồng, dầu (trừ mazut) giảm 780 đồng, theo đà biến động của thị trường năng lượng thế giới.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/01/wm1-wm1-c91r3361jpg-1790834493-4695-1790834527.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=7ww8sPNvbZPOt8KXJQW2hw",
+    "link": "https://vnexpress.net/gia-xang-dau-moi-nhat-hom-nay-1-10-5127119.html",
+    "published_at": "Thu, 01 Oct 2026 14:35:58 +0700",
+    "createAt": "2026-10-01T07:35:58.000Z",
+    "thumbnail_blurhash": "LE8#$yt;91rLyskNMfI2m@RjS|V}"
+  },
+  {
+    "id": "https://vnexpress.net/hon-90-hoa-chat-trong-bao-bi-do-choi-tiem-an-nguy-co-toi-suc-khoe-5127026.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Hơn 90% hóa chất trong bao bì, đồ chơi tiềm ẩn nguy cơ tới sức khoẻ",
+    "description": "Hơn 90% hóa chất phát hiện trong hộp đựng thực phẩm, đồ chơi và quần áo tiềm ẩn nguy cơ cao với sức khỏe con người, theo báo cáo của Tổ chức Công lý Môi trường.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/01/ap26260768520574-1790825578-7771-1790825721.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=AyWaTyHkiFQLQFgs8p6oIA",
+    "link": "https://vnexpress.net/hon-90-hoa-chat-trong-bao-bi-do-choi-tiem-an-nguy-co-toi-suc-khoe-5127026.html",
+    "published_at": "Thu, 01 Oct 2026 15:20:17 +0700",
+    "createAt": "2026-10-01T08:20:17.000Z",
+    "thumbnail_blurhash": "LSK-h0RRbtxa~qIoog%M%M%3Riog"
+  },
+  {
+    "id": "https://vnexpress.net/von-hoa-pnj-giam-hon-4-200-ty-dong-5127211.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Vốn hóa PNJ giảm hơn 4.200 tỷ đồng",
+    "description": "Sau 4 phiên nằm sàn liên tiếp, cổ phiếu PNJ giảm về 24.750 đồng một đơn vị, kéo theo vốn hóa sụt 25%, tương đương hơn 4.200 tỷ đồng.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/01/233a7652-1790843595-3572-1790843641.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=wl20Lw5HIAOGB4OYt5Z8cg",
+    "link": "https://vnexpress.net/von-hoa-pnj-giam-hon-4-200-ty-dong-5127211.html",
+    "published_at": "Thu, 01 Oct 2026 15:44:00 +0700",
+    "createAt": "2026-10-01T08:44:00.000Z",
+    "thumbnail_blurhash": "L68;AQ-FR5-400EJNtg3?w-;-pIV"
   }
 ]
