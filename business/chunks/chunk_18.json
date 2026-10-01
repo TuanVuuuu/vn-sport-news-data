@@ -141,5 +141,44 @@
     "published_at": "Thu, 01 Oct 2026 15:44:00 +0700",
     "createAt": "2026-10-01T08:44:00.000Z",
     "thumbnail_blurhash": "L68;AQ-FR5-400EJNtg3?w-;-pIV"
+  },
+  {
+    "id": "https://vnexpress.net/lpbank-tang-hang-nghin-phan-qua-tren-ung-dung-lpbank-plus-5127230.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "LPBank tặng hàng nghìn phần quà trên ứng dụng LPBank Plus",
+    "description": "LPBank triển khai chương trình ưu đãi cung cấp 3.000 voucher mỗi tháng cùng các giải thưởng định kỳ cho khách hàng giao dịch trên LPBank Plus, tổng giá trị gần 700 triệu đồng.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/01/anh-mock-up-1790845489-6767-1790845678.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=jEZA5cnZjLe6R83BppQ-7Q",
+    "link": "https://vnexpress.net/lpbank-tang-hang-nghin-phan-qua-tren-ung-dung-lpbank-plus-5127230.html",
+    "published_at": "Thu, 01 Oct 2026 16:15:00 +0700",
+    "createAt": "2026-10-01T09:15:00.000Z",
+    "thumbnail_blurhash": "LPLM|m_37jKk~WtRyDogBXtS=_v}"
+  },
+  {
+    "id": "https://vnexpress.net/chu-the-vpbank-nhan-loat-uu-dai-du-lich-mua-sam-am-thuc-5127228.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Chủ thẻ VPBank nhận loạt ưu đãi du lịch, mua sắm, ẩm thực",
+    "description": "VPBank triển khai loạt ưu đãi cho chủ thẻ tín dụng ở các nhóm du lịch, mua sắm và ẩm thực, với mức giảm tại nhiều đối tác cùng các lựa chọn thanh toán linh hoạt.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/01/vne-1790845630-2017-1790845703.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=8MGRdC7iLkLdgitPQ69I0g",
+    "link": "https://vnexpress.net/chu-the-vpbank-nhan-loat-uu-dai-du-lich-mua-sam-am-thuc-5127228.html",
+    "published_at": "Thu, 01 Oct 2026 16:15:00 +0700",
+    "createAt": "2026-10-01T09:15:00.000Z",
+    "thumbnail_blurhash": "LOKKl{0Kvg-Cys9FVsM|~WR59ZX8"
+  },
+  {
+    "id": "https://vnexpress.net/de-xuat-bo-sung-ba-truong-hop-nha-nuoc-thu-hoi-dat-de-phat-trien-kinh-te-xa-hoi-5127201.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Đề xuất bổ sung ba trường hợp Nhà nước thu hồi đất để phát triển kinh tế xã hội",
+    "description": "Chính phủ đề xuất bổ sung 3 trường hợp Nhà nước thu hồi đất để phát triển kinh tế - xã hội, trong đó có thực hiện dự án nhà ở cho thuê.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/01/thu-truong-diep-1790848213-3245-1790848221.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=99yLFjwW9h7vvRdXot2pCg",
+    "link": "https://vnexpress.net/de-xuat-bo-sung-ba-truong-hop-nha-nuoc-thu-hoi-dat-de-phat-trien-kinh-te-xa-hoi-5127201.html",
+    "published_at": "Thu, 01 Oct 2026 16:33:51 +0700",
+    "createAt": "2026-10-01T09:33:51.000Z",
+    "thumbnail_blurhash": "LGJ8bGZz4:_NP;I9IVtn0gxA%N9Z"
   }
 ]
