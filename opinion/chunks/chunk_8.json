@@ -752,5 +752,31 @@
     "published_at": "Thu, 01 Oct 2026 13:00:00 +0700",
     "createAt": "2026-10-01T06:00:00.000Z",
     "thumbnail_blurhash": "LXE:6*xttStS~VxZR*WB?Fs,V@jF"
+  },
+  {
+    "id": "https://vnexpress.net/cristiano-ronaldo-phai-hoc-cach-ngoi-du-bi-5127071.html",
+    "category_id": "opinion",
+    "category_name": "Ý kiến",
+    "source": "VnExpress",
+    "title": "Chuyến bay cuối cùng của Ronaldo",
+    "description": "Ngay cả Messi cũng có lúc phải chấp nhận dự bị, chờ thời điểm và đóng góp trong vai trò được giao, Ronaldo không thể mặc nhiên được đá chính.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/01/anhmanhinhluc17905467788789874-7607-3254-1790828326.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=2mztI2d9elO5We-pdupC9A",
+    "link": "https://vnexpress.net/cristiano-ronaldo-phai-hoc-cach-ngoi-du-bi-5127071.html",
+    "published_at": "Thu, 01 Oct 2026 15:00:00 +0700",
+    "createAt": "2026-10-01T08:00:00.000Z",
+    "thumbnail_blurhash": "LN8E[qtp9vT3-Up0I]WCNeV@xBnz"
+  },
+  {
+    "id": "https://vnexpress.net/sot-ruot-di-dam-cuoi-sai-gon-moi-18-gio-nhung-20-gio-moi-khai-tiec-5127207.html",
+    "category_id": "opinion",
+    "category_name": "Ý kiến",
+    "source": "VnExpress",
+    "title": "Sốt ruột vì đám cưới Sài Gòn 'mời 18 giờ nhưng 20 giờ mới khai tiệc'",
+    "description": "'Tôi đi ăn cưới ở TP HCM, dù thiệp mời ghi 18h nhưng sớm lắm cũng phải 19h30 mới có đồ ăn, thậm chí 20h mới bắt đầu khai tiệc'.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/01/drwatermarkgemini1790842539604-3649-1919-1790843045.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=f3RGnIvX6BYmApgmCvnTtg",
+    "link": "https://vnexpress.net/sot-ruot-di-dam-cuoi-sai-gon-moi-18-gio-nhung-20-gio-moi-khai-tiec-5127207.html",
+    "published_at": "Thu, 01 Oct 2026 17:00:00 +0700",
+    "createAt": "2026-10-01T10:00:00.000Z",
+    "thumbnail_blurhash": "LKI4qp01Iq~V^$%NR*WV_3E1xaRj"
   }
 ]
