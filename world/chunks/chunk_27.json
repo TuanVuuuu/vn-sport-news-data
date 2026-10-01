@@ -245,5 +245,70 @@
     "published_at": "Thu, 01 Oct 2026 12:52:34 +0700",
     "createAt": "2026-10-01T05:52:34.000Z",
     "thumbnail_blurhash": "LHDwdTtQyE%N*0o#kXkBMxV?V@j["
+  },
+  {
+    "id": "https://vnexpress.net/ukraine-co-the-da-ban-ha-ten-lua-iskander-1000-cua-nga-5126932.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Ukraine có thể đã bắn hạ tên lửa Iskander-1000 của Nga",
+    "description": "Mảnh vỡ có dòng chữ \"9M723-2F3\" được tìm thấy ở Kiev sau đòn tập kích của Nga, được cho là tên lửa Iskander-1000 bị Ukraine bắn hạ.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/01/Iskander-1790822781-4943-1790823147.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=FoxzmAzF-Y9PodQY-rG6iQ",
+    "link": "https://vnexpress.net/ukraine-co-the-da-ban-ha-ten-lua-iskander-1000-cua-nga-5126932.html",
+    "published_at": "Thu, 01 Oct 2026 14:43:03 +0700",
+    "createAt": "2026-10-01T07:43:03.000Z",
+    "thumbnail_blurhash": "LAEf$Txs9pR$?]x[J3R$RMnjs?WX"
+  },
+  {
+    "id": "https://vnexpress.net/nhung-dieu-hy-huu-giup-may-bay-uae-thoat-tham-hoa-5126989.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Những điều hy hữu giúp máy bay UAE thoát thảm họa",
+    "description": "Quy định về khóa cửa buồng lái và giới hạn giờ bay có thể đã giúp máy bay UAE thoát thảm họa khi cơ phó đâm cơ trưởng để cướp phi cơ.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/01/flydubai-jpeg-1790828004-7776-1790828060.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=azmZym_9A0OT1-daUXGGmA",
+    "link": "https://vnexpress.net/nhung-dieu-hy-huu-giup-may-bay-uae-thoat-tham-hoa-5126989.html",
+    "published_at": "Thu, 01 Oct 2026 14:46:35 +0700",
+    "createAt": "2026-10-01T07:46:35.000Z",
+    "thumbnail_blurhash": "LA9SDZa1D+kZyGoLacae0sWT$Hj]"
+  },
+  {
+    "id": "https://vnexpress.net/bao-co-lap-hon-dao-500-nguoi-la-den-chung-vui-cung-co-dau-chu-re-5126903.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Bão cô lập hòn đảo, 500 người lạ đến chung vui cùng cô dâu chú rể",
+    "description": "Khách khứa không thể tới dự đám cưới vì bão, hơn 500 người dân địa phương đã xuất hiện cùng hoa, thức ăn, bánh kem và âm nhạc, để góp vui cùng cô dâu chú rể.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/01/imrs-1790830332-7901-1790830904.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=53CEjUmc14YClA3usZrAzg",
+    "link": "https://vnexpress.net/bao-co-lap-hon-dao-500-nguoi-la-den-chung-vui-cung-co-dau-chu-re-5126903.html",
+    "published_at": "Thu, 01 Oct 2026 14:48:59 +0700",
+    "createAt": "2026-10-01T07:48:59.000Z",
+    "thumbnail_blurhash": "LFJtk{=o9ENL=CWE~p^+ImtSIA$#"
+  },
+  {
+    "id": "https://vnexpress.net/4-nguoi-cuu-chuyen-bay-flydubai-se-duoc-israel-trao-danh-hieu-anh-hung-5127135.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "4 người cứu chuyến bay flydubai sẽ được Israel trao danh hiệu anh hùng",
+    "description": "Tổng thống Israel quyết định trao giải Anh hùng Dân sự cho 4 công dân có hành động dũng cảm cứu chuyến bay flydubai suýt bị cơ phó lao xuống đất.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/01/nguoi-hung-1790838305-5336-1790839643.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=orR3q2sLwZAnzw4mT6IiNg",
+    "link": "https://vnexpress.net/4-nguoi-cuu-chuyen-bay-flydubai-se-duoc-israel-trao-danh-hieu-anh-hung-5127135.html",
+    "published_at": "Thu, 01 Oct 2026 15:15:46 +0700",
+    "createAt": "2026-10-01T08:15:46.000Z",
+    "thumbnail_blurhash": "LED+GD569Y%g~9jG%ME1ITR+?bIB"
+  },
+  {
+    "id": "https://vnexpress.net/co-pho-am-muu-cuop-may-bay-flydubai-la-nguoi-cuong-tin-5127173.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Cơ phó âm mưu cướp máy bay flydubai là 'người cuồng tín'",
+    "description": "Đồng nghiệp cho biết cơ phó người Oman bị cáo buộc định cướp máy bay flydubai là người cuồng tín, thường xuyên thực hiện các hành vi kỳ lạ.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/01/anh2-jpeg-1790844389-9418-1790844417.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=UtNhsZcPix2yXl-QnQ37MQ",
+    "link": "https://vnexpress.net/co-pho-am-muu-cuop-may-bay-flydubai-la-nguoi-cuong-tin-5127173.html",
+    "published_at": "Thu, 01 Oct 2026 15:51:05 +0700",
+    "createAt": "2026-10-01T08:51:05.000Z",
+    "thumbnail_blurhash": "L#Gl@+Mxt8t8%%ofofWVM|t7V@WA"
   }
 ]
