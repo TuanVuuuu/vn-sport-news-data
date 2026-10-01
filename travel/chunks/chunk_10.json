@@ -661,5 +661,31 @@
     "published_at": "Thu, 01 Oct 2026 07:08:13 +0700",
     "createAt": "2026-10-01T00:08:13.000Z",
     "thumbnail_blurhash": "L9FOx^?^0LMw01$*InE1D$01kD-U"
+  },
+  {
+    "id": "https://vnexpress.net/5-600-vali-van-mac-ket-o-san-bay-thai-airways-giam-40-cong-suat-5126747.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "5.600 vali vẫn mắc kẹt ở sân bay, Thai Airways giảm 40% công suất",
+    "description": "Hãng Thai Airways cắt 30-40% công suất khai thác, hủy nhiều chuyến nội địa và quốc tế khi 5.600 kiện hành lý vẫn mắc kẹt tại sân bay Suvarnabhumi.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/09/30/c1-1790762763-3393-1790762816.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=zHPcEiwfsC8y6PgAmn9ZcQ",
+    "link": "https://vnexpress.net/5-600-vali-van-mac-ket-o-san-bay-thai-airways-giam-40-cong-suat-5126747.html",
+    "published_at": "Thu, 01 Oct 2026 00:44:12 +0700",
+    "createAt": "2026-09-30T17:44:12.000Z",
+    "thumbnail_blurhash": "LGC?Jt~8$vx[El9xIvM}V{w]nhXS"
+  },
+  {
+    "id": "https://vnexpress.net/quan-pho-ga-michelin-chieu-khach-ban-gia-linh-hoat-5121989.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Quán phở gà Michelin chiều khách, bán giá linh hoạt",
+    "description": "Phở gà Hàng Hòm trong danh sách \"ngon, giá hợp lý\" của Michelin 2026 tấp nập từ sáng đến đêm, được khách yêu thích còn vì thái độ niềm nở và giá bán linh hoạt.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/09/26/pho-ga-ha-ng-ho-m-of-1790387814.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=dD5VmC3ASW6H3O0-mZl_RQ",
+    "link": "https://vnexpress.net/quan-pho-ga-michelin-chieu-khach-ban-gia-linh-hoat-5121989.html",
+    "published_at": "Thu, 01 Oct 2026 07:08:13 +0700",
+    "createAt": "2026-10-01T00:08:13.000Z",
+    "thumbnail_blurhash": "L9FOx^?^0LMw01$*InE1D$01kD-U"
   }
 ]
