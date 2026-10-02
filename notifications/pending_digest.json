@@ -1,3 +1,108 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/canh-phim-trai-buon-nguoi-lay-nuoc-mat-khan-gia-5127636.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Cảnh phim 'Trại buôn người' lấy nước mắt khán giả",
+      "description": "Nhiều khán giả khóc khi xem phân cảnh mẹ con nạn nhân bị lừa đảo đoàn tụ trong \"Trại buôn người\" - phim gây sốt rạp Việt.",
+      "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/10/02/canhphimtbn1-1790927013-9982-1790927221.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=njeZjbmMBaLbTbqn-JTk1g",
+      "link": "https://vnexpress.net/canh-phim-trai-buon-nguoi-lay-nuoc-mat-khan-gia-5127636.html",
+      "published_at": "Fri, 02 Oct 2026 15:01:04 +0700",
+      "createAt": "2026-10-02T08:01:04.000Z",
+      "thumbnail_blurhash": "LSJGo,~U_1?F~U%1kWR+t7I;sTs,"
+    },
+    {
+      "id": "https://vnexpress.net/ket-qua-viet-nam-vs-pakistan-5127670.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Việt Nam thắng 4-2, xếp nhì bảng FIFA ASEAN Cup",
+      "description": "Việt Nam ghi liền bốn bàn trong hiệp hai, để thắng Pakistan 4-2 lượt cuối bảng B FIFA ASEAN Cup 2026, qua đó giành quyền tranh giải ba.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/10/02/179093832900852737980667512245-4012-8698-1790938959.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=wcXo59MfnN7hJWlgpTD2HQ",
+      "link": "https://vnexpress.net/ket-qua-viet-nam-vs-pakistan-5127670.html",
+      "published_at": "Fri, 02 Oct 2026 15:09:35 +0700",
+      "createAt": "2026-10-02T08:09:35.000Z",
+      "thumbnail_blurhash": "LAD[Lx9i2^Xm0J-Ni[V?GwN3rdbw"
+    },
+    {
+      "id": "https://vnexpress.net/bo-gd-va-dt-khong-xay-lai-tu-dau-sach-giao-khoa-moi-5127721.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Bộ GD và ĐT: Không 'xây lại từ đầu' sách giáo khoa mới",
+      "description": "Bộ sách giáo khoa mới sẽ được kế thừa, chỉnh sửa dựa trên nền tảng sách hiện hành, không xây mới từ đầu, theo Bộ Giáo dục và Đào tạo.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/02/wm1-wm1-hgn02187-1790934360-9445-1790934465.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=cdGic9fZMNPPY6zlqAnNXg",
+      "link": "https://vnexpress.net/bo-gd-va-dt-khong-xay-lai-tu-dau-sach-giao-khoa-moi-5127721.html",
+      "published_at": "Fri, 02 Oct 2026 16:59:33 +0700",
+      "createAt": "2026-10-02T09:59:33.000Z",
+      "thumbnail_blurhash": "LDIr4:%ivJ==~Et,WUxH00=|FME-"
+    },
+    {
+      "id": "https://vnexpress.net/viet-nam-se-lap-ba-khu-thu-nghiem-uav-cap-quoc-gia-5127706.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Việt Nam sẽ lập ba khu thử nghiệm UAV cấp quốc gia",
+      "description": "Bộ Chính trị đặt mục tiêu đưa vào vận hành ba khu thử nghiệm bay và ít nhất một trung tâm R&amp;D quốc gia về phương tiện bay không người lái (UAV).",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/02/dsc-jpg-1790931492-5526-1790931504.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=n47uvD-z5dmlszTmnaXpdA",
+      "link": "https://vnexpress.net/viet-nam-se-lap-ba-khu-thu-nghiem-uav-cap-quoc-gia-5127706.html",
+      "published_at": "Fri, 02 Oct 2026 17:12:37 +0700",
+      "createAt": "2026-10-02T10:12:37.000Z",
+      "thumbnail_blurhash": "LNJG$$-p:kyrHXm7bw4.~W$*J,S~"
+    },
+    {
+      "id": "https://vnexpress.net/vks-ly-giai-vi-sao-bao-ve-nhan-lot-tay-400-000-dong-lai-bi-de-nghi-4-nam-tu-5127367.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "VKS lý giải vì sao bảo vệ nhận lót tay 400.000 đồng lại bị đề nghị 4 năm tù",
+      "description": "Bốn bảo vệ Viện Pháp y tâm thần Trung ương bị đề nghị 3-4 năm tù dù chỉ nhận 400.000-570.000 đồng, bởi VKS cho rằng họ đã nhiều lần mở cổng cho can phạm trốn viện và báo tin để đối phó cơ quan chức năng.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/02/gemini-generated-image-o3um7mo-1280-7880-1790915314.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=88DgTwN-HLsx32zI3oIvTA",
+      "link": "https://vnexpress.net/vks-ly-giai-vi-sao-bao-ve-nhan-lot-tay-400-000-dong-lai-bi-de-nghi-4-nam-tu-5127367.html",
+      "published_at": "Fri, 02 Oct 2026 17:17:22 +0700",
+      "createAt": "2026-10-02T10:17:22.000Z",
+      "thumbnail_blurhash": "LED]PPo#sktR~SxYNHn}bZWVt8bb"
+    },
+    {
+      "id": "https://vnexpress.net/tiktoker-minh-sam-son-bi-khoi-to-5127726.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "TikToker 'Minh Sầm Sơn' bị khởi tố",
+      "description": "Sau khi mãn hạn tù, Hoàng Quốc Minh xây kênh TikTok, tổ chức các màn thách đấu có hành vi nguy hiểm để thu hút tương tác và tiền từ người xem.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/02/1790929915200bca0758136db4b11e-7414-5935-1790933151.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=zlOtfKtgPoaZeD8Cax3kQQ",
+      "link": "https://vnexpress.net/tiktoker-minh-sam-son-bi-khoi-to-5127726.html",
+      "published_at": "Fri, 02 Oct 2026 17:21:57 +0700",
+      "createAt": "2026-10-02T10:21:57.000Z",
+      "thumbnail_blurhash": "LBH1PcvV0f-7*GvMQpR${-=[}H#r"
+    },
+    {
+      "id": "https://vnexpress.net/nghi-tet-am-lich-2027-tu-28-thang-chap-5127753.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Nghỉ Tết Âm lịch 2027 từ 28 tháng chạp",
+      "description": "Cán bộ, công chức, viên chức được nghỉ Tết Âm lịch 7 ngày, từ 28 tháng chạp Bính Ngọ đến hết mùng 5 tháng giêng Đinh Mùi.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/02/wm1-wm1-tetam-1790937715-6285-1790937742.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=tIHFv0rAYENW901mJeAGrg",
+      "link": "https://vnexpress.net/nghi-tet-am-lich-2027-tu-28-thang-chap-5127753.html",
+      "published_at": "Fri, 02 Oct 2026 17:50:19 +0700",
+      "createAt": "2026-10-02T10:50:19.000Z",
+      "thumbnail_blurhash": "LHRodJq^tk?v~ptRR*oz*Ho|W.WB"
+    },
+    {
+      "id": "https://vnexpress.net/khong-hoan-doi-de-keo-dai-ky-nghi-ngay-van-hoa-viet-nam-5127755.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Không hoán đổi để kéo dài kỳ nghỉ Ngày Văn hóa Việt Nam",
+      "description": "Cán bộ, công chức, viên chức và người lao động được nghỉ làm, hưởng nguyên lương ngày 24/11, không hoán đổi ngày làm việc để kéo dài kỳ nghỉ thành 4 ngày.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/02/vanhoa-1790939028-2185-1790939080.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=AeN_6DFmLNNo_QKhBwt9Ew",
+      "link": "https://vnexpress.net/khong-hoan-doi-de-keo-dai-ky-nghi-ngay-van-hoa-viet-nam-5127755.html",
+      "published_at": "Fri, 02 Oct 2026 18:03:10 +0700",
+      "createAt": "2026-10-02T11:03:10.000Z",
+      "thumbnail_blurhash": "LCQvXVIr9Z?GwG4pIUoc_4-=xuof"
+    }
+  ]
 }
