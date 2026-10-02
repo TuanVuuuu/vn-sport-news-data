@@ -843,5 +843,31 @@
     "published_at": "Fri, 02 Oct 2026 11:14:58 +0700",
     "createAt": "2026-10-02T04:14:58.000Z",
     "thumbnail_blurhash": "L8EfZ*=_x@pcy?D%%2RPy5%gD+^i"
+  },
+  {
+    "id": "https://vnexpress.net/10-quoc-gia-co-ha-tang-hang-khong-tot-nhat-the-gioi-5127482.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "10 quốc gia có hạ tầng hàng không tốt nhất thế giới",
+    "description": "UAE là quốc gia dẫn đầu điểm số về chất lượng cơ sở hạ tầng hàng không toàn cầu trong khi Sierra Leone có thứ hạng thấp nhất, theo Diễn đàn Kinh tế thế giới 2026.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/10/02/pr-mydubai-experience-installa-1595-4104-1790913082.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=SGy-GhAUwssEA8PHTwlvsA",
+    "link": "https://vnexpress.net/10-quoc-gia-co-ha-tang-hang-khong-tot-nhat-the-gioi-5127482.html",
+    "published_at": "Fri, 02 Oct 2026 14:31:14 +0700",
+    "createAt": "2026-10-02T07:31:14.000Z",
+    "thumbnail_blurhash": "LOJkci5QImxW_Nt2bEIo%$M{Wnbb"
+  },
+  {
+    "id": "https://vnexpress.net/du-thuyen-boc-mui-am-anh-hanh-khach-13-nam-truoc-5127355.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Du thuyền 'bốc mùi ám ảnh' hành khách 13 năm trước",
+    "description": "Chuyến du thuyền xa hoa với hơn 4.000 khách từ Mỹ kết thúc bằng cảnh túi đựng chất thải khắp nơi còn mặt sàn ướt nước tiểu.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/10/01/tai-xuongt213941-1790865633-5567-1790865814.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=8hg3ra9Fu4WyUO421n8Xlw",
+    "link": "https://vnexpress.net/du-thuyen-boc-mui-am-anh-hanh-khach-13-nam-truoc-5127355.html",
+    "published_at": "Fri, 02 Oct 2026 14:39:55 +0700",
+    "createAt": "2026-10-02T07:39:55.000Z",
+    "thumbnail_blurhash": "LPFFy{~qoGRi?b%Mx^j]?bxujEM{"
   }
 ]
