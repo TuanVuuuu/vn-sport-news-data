@@ -128,5 +128,44 @@
     "published_at": "Fri, 02 Oct 2026 00:00:00 +0700",
     "createAt": "2026-10-01T17:00:00.000Z",
     "thumbnail_blurhash": "LTHU^EIVxuIU~poIM_t7kDM{IUt7"
+  },
+  {
+    "id": "https://vnexpress.net/buong-ky-thuat-chung-cu-boc-chay-hang-tram-cu-dan-so-tan-5127445.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Buồng kỹ thuật chung cư bốc cháy, hàng trăm cư dân sơ tán",
+    "description": "Buồng kỹ thuật tầng 10 chung cư Ecohome 1 bốc cháy lúc sáng sớm, khói lan lên các tầng trên khiến hàng trăm cư dân phải sơ tán xuống đất.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/02/2aobor2bicrj7g020bbetftzuiy7qu-3794-3675-1790908307.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=DcX_2axJ4aM3cv4Ejxb-3A",
+    "link": "https://vnexpress.net/buong-ky-thuat-chung-cu-boc-chay-hang-tram-cu-dan-so-tan-5127445.html",
+    "published_at": "Fri, 02 Oct 2026 09:31:47 +0700",
+    "createAt": "2026-10-02T02:31:47.000Z",
+    "thumbnail_blurhash": "LjFGLWtSWAjs%%o#oft7t-W=f6j@"
+  },
+  {
+    "id": "https://vnexpress.net/ha-noi-xen-dai-phan-cach-mo-rong-duong-o-cho-dua-5127455.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Hà Nội xén dải phân cách, mở rộng đường Ô Chợ Dừa",
+    "description": "Trước 9/10, Sở Xây dựng Hà Nội sẽ cho xén dải phân cách để mở rộng đường Ô Chợ Dừa thêm 5,5 m mỗi bên nhằm giải quyết điểm nghẽn ùn tắc.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/02/CaptureJPG-1790907728-9014-1790907788.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=mtO004v9KZZOmJVfXsnvpA",
+    "link": "https://vnexpress.net/ha-noi-xen-dai-phan-cach-mo-rong-duong-o-cho-dua-5127455.html",
+    "published_at": "Fri, 02 Oct 2026 09:35:59 +0700",
+    "createAt": "2026-10-02T02:35:59.000Z",
+    "thumbnail_blurhash": "LuIrKZ9FD%%M~qD%M{t7-pRjj[M{"
+  },
+  {
+    "id": "https://vnexpress.net/khong-khi-lanh-tran-xuong-mien-bac-tu-dem-4-10-5127486.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Không khí lạnh tràn xuống miền Bắc từ đêm 4/10",
+    "description": "Không khí lạnh sẽ tràn xuống Đông Bắc Bộ từ đêm 4/10, sau đó mở rộng ra Bắc Bộ và Thanh Hóa đến TP Huế, gây mưa giông, miền Bắc chuyển lạnh.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/02/dsc00465-1790909355-6179-1790909481.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=66bejbWN2hv5KuwsKVs6_A",
+    "link": "https://vnexpress.net/khong-khi-lanh-tran-xuong-mien-bac-tu-dem-4-10-5127486.html",
+    "published_at": "Fri, 02 Oct 2026 10:03:28 +0700",
+    "createAt": "2026-10-02T03:03:28.000Z",
+    "thumbnail_blurhash": "LQF~KvW?E4W9~VtRo}R-iuIUXnt7"
   }
 ]
