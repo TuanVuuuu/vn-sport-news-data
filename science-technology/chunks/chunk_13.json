@@ -960,5 +960,31 @@
     "published_at": "Fri, 02 Oct 2026 11:45:00 +0700",
     "createAt": "2026-10-02T04:45:00.000Z",
     "thumbnail_blurhash": "L+F=:k~q-;x]xat7kDj[V@WBa#ay"
+  },
+  {
+    "id": "https://vnexpress.net/vinh-danh-42-nha-khoa-hoc-cua-nha-nong-5127563.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Vinh danh 42 nhà khoa học của nhà nông",
+    "description": "42 cá nhân có công trình nghiên cứu, sáng kiến kỹ thuật làm tăng hiệu quả sản xuất nông nghiệp được tôn vinh Nhà khoa học của nhà nông sáng 2/10.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/02/179091250790039010747654285570-8265-9170-1790916624.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=TFpyYrFz-2mS-ROJ9Bv6zw",
+    "link": "https://vnexpress.net/vinh-danh-42-nha-khoa-hoc-cua-nha-nong-5127563.html",
+    "published_at": "Fri, 02 Oct 2026 12:57:07 +0700",
+    "createAt": "2026-10-02T05:57:07.000Z",
+    "thumbnail_blurhash": "LY8?s~o}i^kCUHg2nOoMV#f$nia#"
+  },
+  {
+    "id": "https://vnexpress.net/tau-spacex-lap-ky-luc-bay-nhanh-nhat-den-tram-iss-5127535.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Tàu SpaceX lập kỷ lục bay nhanh nhất đến trạm ISS",
+    "description": "Phi hành đoàn Crew-13 của SpaceX cập bến Trạm Vũ trụ Quốc tế chưa đầy 8 giờ sau khi phóng từ Florida.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/02/VNECrew-1790914691-8965-1790914764.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=hLXeAGCka3746-BNPuEdYA",
+    "link": "https://vnexpress.net/tau-spacex-lap-ky-luc-bay-nhanh-nhat-den-tram-iss-5127535.html",
+    "published_at": "Fri, 02 Oct 2026 13:00:00 +0700",
+    "createAt": "2026-10-02T06:00:00.000Z",
+    "thumbnail_blurhash": "L66kbTRk_4xt-=%MtRxa4nRPIURi"
   }
 ]
