@@ -674,5 +674,70 @@
     "published_at": "Fri, 02 Oct 2026 14:00:00 +0700",
     "createAt": "2026-10-02T07:00:00.000Z",
     "thumbnail_blurhash": "LFN0-w00NF=_%%D%8_9F_1.AIU9E"
+  },
+  {
+    "id": "https://vnexpress.net/chia-nhau-nghi-lam-cham-con-tai-nhiem-tay-chan-mieng-5127610.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Chia nhau nghỉ làm chăm con tái nhiễm tay chân miệng",
+    "description": "Con trai mắc tay chân miệng hai lần trong một tháng, vợ chồng chị Nguyễn Thị Minh, 35 tuổi, phải dùng gần hết ngày phép và nghỉ không lương để thay nhau chăm con.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/02/vnvc-tai-nhiem-tay-chan-mieng-5188-1174-1790924095.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=6PqI75C56dl_RB4IFvpw0w",
+    "link": "https://vnexpress.net/chia-nhau-nghi-lam-cham-con-tai-nhiem-tay-chan-mieng-5127610.html",
+    "published_at": "Fri, 02 Oct 2026 14:30:00 +0700",
+    "createAt": "2026-10-02T07:30:00.000Z",
+    "thumbnail_blurhash": "LKJ7w7;100^i_MNa9Z%Lnj-U?G%1"
+  },
+  {
+    "id": "https://vnexpress.net/nhin-an-giup-thai-doc-bo-doi-te-bao-ung-thu-5127619.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Nhịn ăn giúp thải độc, 'bỏ đói' tế bào ung thư?",
+    "description": "Nhiều người tin việc nhịn ăn giúp \"bỏ đói tế bào ung thư\", \"thải độc\", song chuyên gia cảnh báo đây là suy luận ngụy biện, có thể gây suy gan thận cấp.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/02/screenshot-at-1790926404-5569-1790926476.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=cPKVnHpY3jnHjHKe5z1jtg",
+    "link": "https://vnexpress.net/nhin-an-giup-thai-doc-bo-doi-te-bao-ung-thu-5127619.html",
+    "published_at": "Fri, 02 Oct 2026 14:44:43 +0700",
+    "createAt": "2026-10-02T07:44:43.000Z",
+    "thumbnail_blurhash": "LTH_PZM|^3-A_2V@WBnj}swuRkV["
+  },
+  {
+    "id": "https://vnexpress.net/tuong-mun-nhot-hoa-ken-thuong-bi-o-thai-duong-5127503.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Tưởng mụn nhọt hóa kén thượng bì ở thái dương",
+    "description": "Thủy, 11 tuổi, nổi nốt đỏ sưng ở thái dương khoảng một năm nay, tưởng mụn nhọt, bác sĩ phát hiện nang dưới da chứa chất sừng gọi là kén thượng bì.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/02/image001-1790910542-9445-1790910596.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=4t57yDl-NdFzLSpvURM4aw",
+    "link": "https://vnexpress.net/tuong-mun-nhot-hoa-ken-thuong-bi-o-thai-duong-5127503.html",
+    "published_at": "Fri, 02 Oct 2026 15:00:00 +0700",
+    "createAt": "2026-10-02T08:00:00.000Z",
+    "thumbnail_blurhash": "LBIYFOtA009Y~otSkTRjyDIUi__4"
+  },
+  {
+    "id": "https://vnexpress.net/nhung-thuc-pham-ket-hop-trung-tot-cho-huyet-ap-cholesterol-5127492.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Những thực phẩm kết hợp trứng tốt cho huyết áp, cholesterol",
+    "description": "Kết hợp trứng với rau xanh, khoai tây, yến mạch, các loại đậu, quả bơ giúp bổ sung chất xơ, kali góp phần cân bằng huyết áp và cholesterol.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/02/anh-trung-ran-ngai-cuu-1790909-5321-9768-1790909441.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=A6nIujLJIXFuKzvZjSPaTw",
+    "link": "https://vnexpress.net/nhung-thuc-pham-ket-hop-trung-tot-cho-huyet-ap-cholesterol-5127492.html",
+    "published_at": "Fri, 02 Oct 2026 15:00:00 +0700",
+    "createAt": "2026-10-02T08:00:00.000Z",
+    "thumbnail_blurhash": "L9E2E@VXiMai~o5kxtwIxZT0x@I="
+  },
+  {
+    "id": "https://vnexpress.net/chien-luoc-sinh-tri-hoan-giup-ba-em-be-tam-thai-chao-doi-cach-nhau-36-gio-5127477.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Chiến lược sinh trì hoãn giúp ba em bé 'tam thai' chào đời cách nhau 36 giờ",
+    "description": "Sản phụ mang tam thai vỡ ối ở tuần 27, sau khi đón bé trai đầu tiên chào đời nặng 900 gram, bác sĩ trì hoãn cuộc sinh để giữ hai bé còn lại trong bụng mẹ thêm 36 giờ nữa.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/02/dsc08041-jpg-1790927987-7182-1790928003.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=rBDTY5uOCRAGc1cOUyoz5A",
+    "link": "https://vnexpress.net/chien-luoc-sinh-tri-hoan-giup-ba-em-be-tam-thai-chao-doi-cach-nhau-36-gio-5127477.html",
+    "published_at": "Fri, 02 Oct 2026 15:00:03 +0700",
+    "createAt": "2026-10-02T08:00:03.000Z",
+    "thumbnail_blurhash": "LEMQnm}}W5_3tU%jx_%N0Mx_%Nn$"
   }
 ]
