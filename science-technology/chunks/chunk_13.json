@@ -921,5 +921,44 @@
     "published_at": "Fri, 02 Oct 2026 09:58:23 +0700",
     "createAt": "2026-10-02T02:58:23.000Z",
     "thumbnail_blurhash": "LKKx0n9v+p.T004:rpIU_2?IN$$_"
+  },
+  {
+    "id": "https://vnexpress.net/ly-do-viet-nam-co-ngay-hoi-doi-moi-sang-tao-quoc-gia-5127125.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Lý do Việt Nam có Ngày hội Đổi mới sáng tạo quốc gia",
+    "description": "Chính phủ chọn ngày 1/10 hàng năm là Ngày hội Đổi mới sáng tạo quốc gia với mong muốn khuyến khích toàn dân trở thành chủ thể sáng tạo, ứng dụng các kỹ thuật, công nghệ tiến bộ vào phát triển kinh tế - xã hội.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/01/img-1790836881-6921-1790836921.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=XJXNfS7JB_pgg8R87A-USg",
+    "link": "https://vnexpress.net/ly-do-viet-nam-co-ngay-hoi-doi-moi-sang-tao-quoc-gia-5127125.html",
+    "published_at": "Fri, 02 Oct 2026 10:58:21 +0700",
+    "createAt": "2026-10-02T03:58:21.000Z",
+    "thumbnail_blurhash": "LBK-Xp~pn4E20qx]r?Ip02RPo#M~"
+  },
+  {
+    "id": "https://vnexpress.net/openai-sa-thai-ba-nha-nghien-cuu-vi-tuon-thong-tin-mat-5127466.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "OpenAI sa thải ba nhà nghiên cứu vì tuồn thông tin mật",
+    "description": "OpenAI cho biết đã cho thôi việc ba nhà nghiên cứu vì chia sẻ thông tin mật của công ty với một tổ chức an toàn AI bên thứ ba.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/02/2023t005924z-rc2ne4azsu1g-rtrm-2518-1261-1790911729.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=poJoO6dewREIwDLfCCAlDw",
+    "link": "https://vnexpress.net/openai-sa-thai-ba-nha-nghien-cuu-vi-tuon-thong-tin-mat-5127466.html",
+    "published_at": "Fri, 02 Oct 2026 11:30:00 +0700",
+    "createAt": "2026-10-02T04:30:00.000Z",
+    "thumbnail_blurhash": "L76HZp0QWV~A9D-pjYIVNzw]oLNb"
+  },
+  {
+    "id": "https://vnexpress.net/innovaconnect-ket-noi-nha-khoa-hoc-viet-voi-chuyen-gia-quoc-te-5127548.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "InnovaConnect kết nối nhà khoa học Việt với chuyên gia quốc tế",
+    "description": "Chuỗi InnovaConnect kết nối các nhà khoa học Việt Nam với chuyên gia quốc tế, trao đổi về đổi mới sáng tạo trong hóa học và khám phá thuốc.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/02/anh-1790915696-6309-1790915790.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=cJW_NNkEytMlbXJh1aCkcg",
+    "link": "https://vnexpress.net/innovaconnect-ket-noi-nha-khoa-hoc-viet-voi-chuyen-gia-quoc-te-5127548.html",
+    "published_at": "Fri, 02 Oct 2026 11:45:00 +0700",
+    "createAt": "2026-10-02T04:45:00.000Z",
+    "thumbnail_blurhash": "L+F=:k~q-;x]xat7kDj[V@WBa#ay"
   }
 ]
