@@ -921,5 +921,31 @@
     "published_at": "Sat, 03 Oct 2026 05:00:00 +0700",
     "createAt": "2026-10-02T22:00:00.000Z",
     "thumbnail_blurhash": "L184Pe?d7P.9zp4-00D*nyr;%MNZ"
+  },
+  {
+    "id": "https://vnexpress.net/phap-bi-italy-cam-hoa-ngay-zidane-ra-mat-san-nha-5127836.html",
+    "category_id": "sports",
+    "category_name": "Thể thao",
+    "source": "VnExpress",
+    "title": "Pháp bị Italy cầm hòa ngày Zidane ra mắt sân nhà",
+    "description": "Michael Olise lập siêu phẩm, nhưng Pháp chỉ hòa Italy 1-1 trong trận sân nhà đầu tiên của Zinedine Zidane trên cương vị HLV trưởng, ở lượt ba bảng A1 Nations League.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/10/03/a-nh-ma-n-hi-nh-lu-c-179098120-5138-2783-1790981275.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=k9vwI3zNXoC1x_VEoPM9mA",
+    "link": "https://vnexpress.net/phap-bi-italy-cam-hoa-ngay-zidane-ra-mat-san-nha-5127836.html",
+    "published_at": "Sat, 03 Oct 2026 05:47:54 +0700",
+    "createAt": "2026-10-02T22:47:54.000Z",
+    "thumbnail_blurhash": "LHBzqR?^x]o#-Fi_nixZk5IVM|x]"
+  },
+  {
+    "id": "https://vnexpress.net/lich-dau-ngay-cuoi-cua-viet-nam-tai-asiad-2026-5127827.html",
+    "category_id": "sports",
+    "category_name": "Thể thao",
+    "source": "VnExpress",
+    "title": "Lịch đấu ngày cuối của Việt Nam tại ASIAD 2026",
+    "description": "Hôm nay 3/10 là ngày thi cuối cùng của Việt Nam tại ASIAD 2026, nổi bật là chung kết cầu mây nữ lúc 7h.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/10/03/ca-u-ma-y-jpeg-1790961477-9920-1790961644.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=b4baIbiCcJD9RQanusZVcA",
+    "link": "https://vnexpress.net/lich-dau-ngay-cuoi-cua-viet-nam-tai-asiad-2026-5127827.html",
+    "published_at": "Sat, 03 Oct 2026 06:00:45 +0700",
+    "createAt": "2026-10-02T23:00:45.000Z",
+    "thumbnail_blurhash": "LEJF#?}S9G,0%x,nIpEf90xHt1j;"
   }
 ]

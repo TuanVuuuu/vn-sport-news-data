@@ -349,5 +349,31 @@
     "published_at": "Fri, 02 Oct 2026 17:00:00 +0700",
     "createAt": "2026-10-02T10:00:00.000Z",
     "thumbnail_blurhash": "L6D+*cEeE0M^00%19a%M^ks:~V%M"
+  },
+  {
+    "id": "https://vnexpress.net/chu-tich-toyota-mang-xe-bac-thay-thu-cong-den-my-5127623.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Chủ tịch Toyota mang xe 'bậc thầy thủ công' đến Mỹ",
+    "description": "Khi đến sự kiện được vinh danh tại Đại sảnh danh vọng ôtô ở Detroit tuần trước, ông Akio Toyoda đi bằng một chiếc SUV Century mang từ Nhật sang.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/02/ToyotaCentury1-1790927486-7804-1790927668.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=HiK3FlSOvlETy0IP24bNmw",
+    "link": "https://vnexpress.net/chu-tich-toyota-mang-xe-bac-thay-thu-cong-den-my-5127623.html",
+    "published_at": "Sat, 03 Oct 2026 06:00:00 +0700",
+    "createAt": "2026-10-02T23:00:00.000Z",
+    "thumbnail_blurhash": "L071l@~n0000HX00P;u6y@Mzysu5"
+  },
+  {
+    "id": "https://vnexpress.net/crossover-co-b-honda-elevate-2027-lo-dien-5127611.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Crossover cỡ B Honda Elevate 2027 lộ diện",
+    "description": "Mẫu CUV cỡ B phiên bản mới tinh chỉnh thiết kế, giữ động cơ xăng 1.5, thêm gói an toàn ADAS.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/02/HondaElevate-1790925397-5426-1790925517.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=yz-NnXLQk2kxD5bO3eqS9A",
+    "link": "https://vnexpress.net/crossover-co-b-honda-elevate-2027-lo-dien-5127611.html",
+    "published_at": "Sat, 03 Oct 2026 06:00:00 +0700",
+    "createAt": "2026-10-02T23:00:00.000Z",
+    "thumbnail_blurhash": "L54_Li=|-WxH~C={$*s:=|%2t6W;"
   }
 ]
