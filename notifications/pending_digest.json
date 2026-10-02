@@ -1,3 +1,56 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/niem-vui-noi-buon-cua-brad-pitt-5126221.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Niềm vui, nỗi buồn của Brad Pitt",
+      "description": "Brad Pitt thắng Oscar, đóng bom tấn, tận hưởng hạnh phúc bên tình trẻ trong giai đoạn các con bỏ họ sau khi anh ly hôn Angelina Jolie.",
+      "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/10/02/revf1fpjkrhighresjpeg-17909180-8272-7046-1790918118.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=2MSDySGHSM_0MhSNZs_l3Q",
+      "link": "https://vnexpress.net/niem-vui-noi-buon-cua-brad-pitt-5126221.html",
+      "published_at": "Fri, 02 Oct 2026 11:24:12 +0700",
+      "createAt": "2026-10-02T04:24:12.000Z",
+      "thumbnail_blurhash": "L6Crv1oy000M00EM~o-n0gIo^i-:"
+    },
+    {
+      "id": "https://vnexpress.net/ha-noi-lap-cau-can-canh-quan-tam-ben-ho-guom-5127545.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Hà Nội lắp cầu cạn cảnh quan tạm bên Hồ Gươm",
+      "description": "Phường Hoàn Kiếm sẽ lắp cầu cạn cảnh quan uốn lượn qua khu vườn ven Hồ Gươm, phục vụ người dân tham quan từ ngày 8/10 đến 2/12 rồi tháo dỡ, hoàn trả mặt bằng.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/02/a1-1790916247-9416-1790916683.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=j9Kn0CEo6bywwqdChQ36XA",
+      "link": "https://vnexpress.net/ha-noi-lap-cau-can-canh-quan-tam-ben-ho-guom-5127545.html",
+      "published_at": "Fri, 02 Oct 2026 12:00:20 +0700",
+      "createAt": "2026-10-02T05:00:20.000Z",
+      "thumbnail_blurhash": "LAA0{+00?w9EtRD$%MM{9F-=IUkD"
+    },
+    {
+      "id": "https://vnexpress.net/quyen-anh-viet-nam-gianh-tam-hc-bac-lich-su-tai-asiad-2026-5127585.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Quyền Anh Việt Nam giành tấm HC bạc lịch sử tại ASIAD 2026",
+      "description": "Nguyễn Thị Tâm thua nhà vô địch Olympic Wu Yu 0-5 ở chung kết hạng 51 kg nữ sáng 2/10, qua đó giành HC bạc - thành tích tốt nhất lịch sử quyền Anh Việt Nam tại ASIAD.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/10/02/tam-1790919229-4095-1790919243.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=mPhGN4Lo_MvT406xnAe5BA",
+      "link": "https://vnexpress.net/quyen-anh-viet-nam-gianh-tam-hc-bac-lich-su-tai-asiad-2026-5127585.html",
+      "published_at": "Fri, 02 Oct 2026 12:35:50 +0700",
+      "createAt": "2026-10-02T05:35:50.000Z",
+      "thumbnail_blurhash": "LZO.I0VZ]}-;_~kpa1eSt7kDS$WX"
+    },
+    {
+      "id": "https://vnexpress.net/cau-trong-yeu-o-kiev-lien-tiep-hung-don-uav-nga-5127529.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Cầu trọng yếu ở Kiev liên tiếp hứng đòn UAV Nga",
+      "description": "UAV Nga nhiều lần đánh trúng cầu Pivdenny ở thủ đô Kiev trong một ngày, làm hư hại trụ cầu và khiến giao thông bị đình trệ.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/02/5563187178137269244b-179091435-1406-4503-1790914922.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=jaDBVGALb4G7X5ObZHQcSQ",
+      "link": "https://vnexpress.net/cau-trong-yeu-o-kiev-lien-tiep-hung-don-uav-nga-5127529.html",
+      "published_at": "Fri, 02 Oct 2026 12:49:21 +0700",
+      "createAt": "2026-10-02T05:49:21.000Z",
+      "thumbnail_blurhash": "LE9Hz|?wRjR*%gn#Mxayxut7ofoz"
+    }
+  ]
 }
