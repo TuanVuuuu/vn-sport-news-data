@@ -1103,5 +1103,44 @@
     "published_at": "Sat, 03 Oct 2026 10:00:00 +0700",
     "createAt": "2026-10-03T03:00:00.000Z",
     "thumbnail_blurhash": "LYD^pg+=fAtk%johW,ogMKOrX9Vs"
+  },
+  {
+    "id": "https://vnexpress.net/5-loai-virus-vi-khuan-gay-gan-1-8-ca-ung-thu-toan-cau-5127888.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "5 loại virus, vi khuẩn gây gần 1/8 ca ung thư toàn cầu",
+    "description": "HPV, virus viêm gan B và C, Epstein-Barr (EBV), vi khuẩn Helicobacter pylori gây ra khoảng 2,3 triệu ca ung thư mới, tương đương gần 1/8 ca trên toàn cầu năm 2024.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/03/medium-vecteezy-asian-doctor-w-4785-1166-1790995836.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=N8LTqriHG66qcx3xGxc2Ew",
+    "link": "https://vnexpress.net/5-loai-virus-vi-khuan-gay-gan-1-8-ca-ung-thu-toan-cau-5127888.html",
+    "published_at": "Sat, 03 Oct 2026 11:00:00 +0700",
+    "createAt": "2026-10-03T04:00:00.000Z",
+    "thumbnail_blurhash": "LeJRjdx]V@oM~pNFafxuM{t7ogof"
+  },
+  {
+    "id": "https://vnexpress.net/tang-huyet-ap-co-phong-ngua-duoc-khong-5127850.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Tăng huyết áp có phòng ngừa được không?",
+    "description": "Tôi 32 tuổi, sức khỏe bình thường, có bố mẹ và anh trai đều tăng huyết áp. Tôi có nguy cơ mắc bệnh này không, làm thế nào phòng ngừa? (Hoàng Tú, Đồng Nai)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/03/do-huye-t-a-p-1790993571-1794-1790993679.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=9lz_IJV7RCTb5H1ZbNMcXQ",
+    "link": "https://vnexpress.net/tang-huyet-ap-co-phong-ngua-duoc-khong-5127850.html",
+    "published_at": "Sat, 03 Oct 2026 11:00:00 +0700",
+    "createAt": "2026-10-03T04:00:00.000Z",
+    "thumbnail_blurhash": "LsLD[a_4xut6M|%MbHWBRPn$RiM{"
+  },
+  {
+    "id": "https://vnexpress.net/dau-hieu-thay-doi-o-mat-co-the-do-benh-parkinson-5127887.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Dấu hiệu thay đổi ở mắt có thể do bệnh Parkinson",
+    "description": "Parkinson không chỉ gây run, cứng cơ hay vận động chậm mà còn có thể ảnh hưởng đến thị giác, gây khô mắt, nhìn đôi, khó đọc.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/03/kinh-mat1-1790992122-9803-1790992252.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=11ELbbpRvkRdhHk0d37KUw",
+    "link": "https://vnexpress.net/dau-hieu-thay-doi-o-mat-co-the-do-benh-parkinson-5127887.html",
+    "published_at": "Sat, 03 Oct 2026 11:14:52 +0700",
+    "createAt": "2026-10-03T04:14:52.000Z",
+    "thumbnail_blurhash": "LCHnywtRZM?G~q-:-;IVPBbI9]t7"
   }
 ]
