@@ -1,6 +1,19 @@
 {
   "featured": [
     {
+      "id": "https://vnexpress.net/robot-hinh-nguoi-o-viet-nam-chu-yeu-dung-de-trinh-dien-5127833.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "'Robot hình người ở Việt Nam chủ yếu dùng để trình diễn'",
+      "description": "Robot hình người xuất hiện ngày càng nhiều tại Việt Nam, nhưng chủ yếu ở giai đoạn trình diễn, nghiên cứu, chưa hỗ trợ nhiều trong gia đình hay tăng năng suất lao động.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/03/IMG-3985-JPG-1790974483-8335-1790974642.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=EhvVy-tBop9ewwgeoW0k2w",
+      "link": "https://vnexpress.net/robot-hinh-nguoi-o-viet-nam-chu-yeu-dung-de-trinh-dien-5127833.html",
+      "published_at": "Fri, 02 Oct 2026 23:59:51 +0700",
+      "createAt": "2026-10-02T16:59:51.000Z",
+      "thumbnail_blurhash": "LjBXTYyEV?o0yZtmfOWBtRtRozWC"
+    },
+    {
       "id": "https://vnexpress.net/ong-trump-se-phat-1-000-ty-usd-cho-dan-neu-phe-cong-hoa-thang-cu-5127908.html",
       "category_id": "featured",
       "category_name": "Tin nổi bật",
@@ -92,6 +105,19 @@
       "thumbnail_blurhash": "L$J[kxWBayof_NWBayofIoWBj@ay"
     },
     {
+      "id": "https://vnexpress.net/7-ga-tau-dien-dep-nhat-the-gioi-5127512.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "7 ga tàu điện đẹp nhất thế giới",
+      "description": "7 ga tàu được chọn dựa trên kiến trúc, tính sáng tạo, khả năng hòa nhập với văn hóa địa phương và phát triển bền vững.",
+      "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/10/02/gatt-1790914906.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Omb3eLlW9m_LJ0Vay9tu9w",
+      "link": "https://vnexpress.net/7-ga-tau-dien-dep-nhat-the-gioi-5127512.html",
+      "published_at": "Sat, 03 Oct 2026 10:41:34 +0700",
+      "createAt": "2026-10-03T03:41:34.000Z",
+      "thumbnail_blurhash": "LAA-3h-;00ITO_M|$a%LnLt6p0Rl"
+    },
+    {
       "id": "https://vnexpress.net/dao-dien-mua-do-lam-phim-dat-lua-5127924.html",
       "category_id": "featured",
       "category_name": "Tin nổi bật",
@@ -129,6 +155,71 @@
       "published_at": "Sat, 03 Oct 2026 11:39:48 +0700",
       "createAt": "2026-10-03T04:39:48.000Z",
       "thumbnail_blurhash": "L59@P7x]00VX~UtR9ZVs4.V@vz9Y"
+    },
+    {
+      "id": "https://vnexpress.net/nguoi-cam-dau-vu-mang-loa-keo-keo-doi-no-ra-dau-thu-5127951.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Người cầm đầu vụ 'mang loa kẹo kéo đòi nợ' ra đầu thú",
+      "description": "Hồ Thanh Tuấn đến cơ quan công an đầu thú sau hơn 4 tháng cùng 6 người mang loa kéo đến làng chài Hải Minh, phường Quy Nhơn, gây náo loạn để đòi nợ.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/03/hinhanhtuandocthukeugoi-179100-2250-7646-1791002979.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=_Ex3Z83_Da-Jbfr3pyeFMw",
+      "link": "https://vnexpress.net/nguoi-cam-dau-vu-mang-loa-keo-keo-doi-no-ra-dau-thu-5127951.html",
+      "published_at": "Sat, 03 Oct 2026 12:10:10 +0700",
+      "createAt": "2026-10-03T05:10:10.000Z",
+      "thumbnail_blurhash": "LIE_:P~W%gwb~Xxw9xIVtlxu-TWB"
+    },
+    {
+      "id": "https://vnexpress.net/mao-danh-pho-ban-noi-chinh-lua-nguoi-phu-nu-30-ty-dong-5127958.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Mạo danh Phó Ban Nội chính, lừa người phụ nữ 30 tỷ đồng",
+      "description": "Trần Anh Vũ bị cáo buộc tự nhận là Phó ban Nội chính Trung ương, có khả năng giúp doanh nghiệp vay vốn ưu đãi, mua nhà giá rẻ rồi lừa người phụ nữ hơn 30 tỷ đồng.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/03/vu-jpeg-1791006253-8496-1791006444.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=dQZkaySuRpHOZKtar5GdQw",
+      "link": "https://vnexpress.net/mao-danh-pho-ban-noi-chinh-lua-nguoi-phu-nu-30-ty-dong-5127958.html",
+      "published_at": "Sat, 03 Oct 2026 12:50:18 +0700",
+      "createAt": "2026-10-03T05:50:18.000Z",
+      "thumbnail_blurhash": "LJKKZpba9axa_MtRIADj-n?bIp9F"
+    },
+    {
+      "id": "https://vnexpress.net/nha-hai-tang-o-tp-hcm-chay-ngun-ngut-5127984.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Nhà hai tầng ở TP HCM cháy ngùn ngụt",
+      "description": "Nhiều người tháo chạy khi lửa bốc dữ dội từ cơ sở sản xuất nước đá trong căn nhà hai tầng ở phường Minh Phụng (quận 11 cũ), trưa 3/10.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/03/828986193157171931409101247125-4836-1267-1791010747.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=ctVmBNSLX0vCHCeCVJljCw&t=image",
+      "link": "https://vnexpress.net/nha-hai-tang-o-tp-hcm-chay-ngun-ngut-5127984.html",
+      "published_at": "Sat, 03 Oct 2026 14:01:29 +0700",
+      "createAt": "2026-10-03T07:01:29.000Z",
+      "thumbnail_blurhash": "LEFiDP_NyD4n~q%ME19Etmxu?Hxu"
+    },
+    {
+      "id": "https://vnexpress.net/tin-dung-tang-gan-11-6-sau-9-thang-5127973.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Tín dụng tăng gần 11,6% sau 9 tháng",
+      "description": "Dư nợ tín dụng toàn hệ thống đạt khoảng 20,75 triệu tỷ đồng đến cuối tháng 9, tăng 11,59% so với cuối năm ngoái.",
+      "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/03/base6417910059074351814001061-8643-3190-1791009282.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=1xXXD8QloIG-Gc5ha5MjcA",
+      "link": "https://vnexpress.net/tin-dung-tang-gan-11-6-sau-9-thang-5127973.html",
+      "published_at": "Sat, 03 Oct 2026 14:18:51 +0700",
+      "createAt": "2026-10-03T07:18:51.000Z",
+      "thumbnail_blurhash": "LGI?Kf%Q74%Mk[og%MWCImoM-pWA"
+    },
+    {
+      "id": "https://vnexpress.net/bo-cong-thuong-thuc-dia-phuong-ho-tro-dien-mat-troi-mai-nha-5127980.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Bộ Công Thương thúc địa phương hỗ trợ điện mặt trời mái nhà",
+      "description": "Bộ Công Thương sẽ tiếp tục đôn đốc các địa phương ban hành chính sách hỗ trợ điện mặt trời mái nhà, trong bối cảnh nhu cầu điện tăng khoảng 10% mỗi năm.",
+      "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/03/wm31-wm31-base641791008173659692048-4437-8051-1791010091.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=37I-91PoWLO1SyxlBf-81A",
+      "link": "https://vnexpress.net/bo-cong-thuong-thuc-dia-phuong-ho-tro-dien-mat-troi-mai-nha-5127980.html",
+      "published_at": "Sat, 03 Oct 2026 14:19:18 +0700",
+      "createAt": "2026-10-03T07:19:18.000Z",
+      "thumbnail_blurhash": "L8IZC@=,3.Q63NNG~X%hD}OA=}${"
     }
   ]
 }
