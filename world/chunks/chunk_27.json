@@ -895,5 +895,31 @@
     "published_at": "Sat, 03 Oct 2026 08:00:00 +0700",
     "createAt": "2026-10-03T01:00:00.000Z",
     "thumbnail_blurhash": "LED]_GysWGrp0Wo$Nbi^00DNxutm"
+  },
+  {
+    "id": "https://vnexpress.net/ly-do-chuyen-bay-flydubai-co-4-phi-cong-5127843.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Lý do chuyến bay flydubai có 4 phi công",
+    "description": "Chuyến bay FZ 1073 của flydubai có tới 4 phi công, có thể do hai người \"đi nhờ\" để tới địa điểm khác theo phân công của hãng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/03/phi-co-1790987832-2220-1790991147.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=IJsLYE1CA16J4_9gZJzKTA",
+    "link": "https://vnexpress.net/ly-do-chuyen-bay-flydubai-co-4-phi-cong-5127843.html",
+    "published_at": "Sat, 03 Oct 2026 08:33:31 +0700",
+    "createAt": "2026-10-03T01:33:31.000Z",
+    "thumbnail_blurhash": "LbFG;0W=xatRO_j^RjWUI9f5j?az"
+  },
+  {
+    "id": "https://vnexpress.net/tu-tu-phai-dung-may-tho-sau-khi-bi-tiem-hai-lieu-thuoc-doc-5127852.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Tử tù phải dùng máy thở sau khi bị tiêm hai liều thuốc độc",
+    "description": "Luật sư cho biết Christa Pike, tử tù bị tiêm thuốc độc hai lần không chết, phải dùng máy thở và bác sĩ đang cố gắng cứu mạng người này.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/03/Pike-1790989788-5052-1790990551.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=zyr_RI74BP0XbzWBkeg0pQ",
+    "link": "https://vnexpress.net/tu-tu-phai-dung-may-tho-sau-khi-bi-tiem-hai-lieu-thuoc-doc-5127852.html",
+    "published_at": "Sat, 03 Oct 2026 09:02:40 +0700",
+    "createAt": "2026-10-03T02:02:40.000Z",
+    "thumbnail_blurhash": "LGEeuk_M-i-m$KbF%M%2ozt6e-Rj"
   }
 ]
