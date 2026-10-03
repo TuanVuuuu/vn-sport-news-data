@@ -1,3 +1,82 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/goc-khuat-du-hoc-nghe-duc-5120938.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Góc khuất du học nghề Đức",
+      "description": "Trả hàng trăm triệu đồng phí môi giới sang Đức học nghề, nhiều thanh niên Việt vỡ mộng vì bị bóc lột sức lao động, quỵt lương và sa thải trái luật.",
+      "thumbnail_url": "https://vcdn1-giadinh.vnecdn.net/2026/09/29/1-1790055037-3768-1790641790.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=jJGMpBdV1ovuu6b0BomQjQ",
+      "link": "https://vnexpress.net/goc-khuat-du-hoc-nghe-duc-5120938.html",
+      "published_at": "Sat, 03 Oct 2026 06:00:00 +0700",
+      "createAt": "2026-10-02T23:00:00.000Z",
+      "thumbnail_blurhash": "LGFiMhn200-V0c?w%LDh?]ob$$IU"
+    },
+    {
+      "id": "https://vnexpress.net/co-pho-flydubai-tung-bi-oman-cam-bay-vi-tu-tuong-cuc-doan-5127837.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Cơ phó flydubai từng bị Oman cấm bay vì 'tư tưởng cực đoan'",
+      "description": "Cơ phó âm mưu lao phi cơ flydubai xuống đất từng bị Oman cấm bay vì có tư tưởng cực đoan, nhưng vẫn được hãng UAE thuê, theo báo Mỹ.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/03/flydubai-1790985171-4210-1790985196.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=EuACHuU7TAmWaFP8AGexkA",
+      "link": "https://vnexpress.net/co-pho-flydubai-tung-bi-oman-cam-bay-vi-tu-tuong-cuc-doan-5127837.html",
+      "published_at": "Sat, 03 Oct 2026 06:51:18 +0700",
+      "createAt": "2026-10-02T23:51:18.000Z",
+      "thumbnail_blurhash": "LGGTNux]tmx]%$kCkDay.TofMwa~"
+    },
+    {
+      "id": "https://vnexpress.net/robot-hinh-nguoi-nhay-mua-o-hoi-nghi-ai-hien-than-viet-nam-5127828.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Robot hình người nhảy múa ở Hội nghị AI hiện thân Việt Nam",
+      "description": "9 robot của một hãng công nghệ Trung Quốc nhảy múa, nhào lộn, tương tác với khán giả tại Hội nghị AI hiện thân lần đầu được tổ chức ở Khu công nghệ cao Hòa Lạc.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/03/Sequence01ezgifcomvideotogifco-3097-8268-1790961932.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=E78yaDg6ZqEbPwEWpLM7AQ&t=image",
+      "link": "https://vnexpress.net/robot-hinh-nguoi-nhay-mua-o-hoi-nghi-ai-hien-than-viet-nam-5127828.html",
+      "published_at": "Sat, 03 Oct 2026 07:03:16 +0700",
+      "createAt": "2026-10-03T00:03:16.000Z",
+      "thumbnail_blurhash": "L18zf9WC00V@02Ip-pxt~9%1Nbt6"
+    },
+    {
+      "id": "https://vnexpress.net/cuu-hlv-doan-minh-xuong-hoang-hen-khong-hop-da-cung-hoang-duc-5127749.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Cựu HLV Đoàn Minh Xương: 'Hoàng Hên không hợp đá cùng Hoàng Đức'",
+      "description": "Theo chuyên gia bóng đá Đoàn Minh Xương, việc đội tuyển không dư dả lực lượng khiến HLV Kim Sang-sik phải xới tung đội hình và lắp ghép thiếu hợp lý, như trận thắng ngược Pakistan ở FIFA ASEAN Cup 2026.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/10/02/1790932453513-g651265587011251-8627-8511-1790948565.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=VgiyCEVYBRfDp17_iWU7rg",
+      "link": "https://vnexpress.net/cuu-hlv-doan-minh-xuong-hoang-hen-khong-hop-da-cung-hoang-duc-5127749.html",
+      "published_at": "Sat, 03 Oct 2026 07:03:39 +0700",
+      "createAt": "2026-10-03T00:03:39.000Z",
+      "thumbnail_blurhash": "LMIhHK}t-p%gDG=f$+sE8^%1rsa0"
+    },
+    {
+      "id": "https://vnexpress.net/nhay-du-tu-do-cao-900-m-cuu-nan-nhan-tai-nan-may-bay-5127734.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Nhảy dù từ độ cao 900 m cứu nạn nhân tai nạn máy bay",
+      "description": "Chứng kiến một chiếc máy bay hạng nhẹ gặp nạn, ba người chơi nhảy dù đã thực hiện cú nhảy khó từ độ cao 900 m để xuống ruộng ngô giúp đỡ họ.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/02/wisconsin-skydiving-center-tan-2597-5409-1790934853.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=7mXf3_QyGXZTMITvVe60Sg",
+      "link": "https://vnexpress.net/nhay-du-tu-do-cao-900-m-cuu-nan-nhan-tai-nan-may-bay-5127734.html",
+      "published_at": "Sat, 03 Oct 2026 08:00:00 +0700",
+      "createAt": "2026-10-03T01:00:00.000Z",
+      "thumbnail_blurhash": "LED]_GysWGrp0Wo$Nbi^00DNxutm"
+    },
+    {
+      "id": "https://vnexpress.net/gdp-quy-iii-tang-9-95-5127865.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "GDP quý III tăng 9,95%",
+      "description": "Kinh tế quý III tăng trưởng 9,95%, góp phần vào mức tăng 9,01% của 9 tháng đầu năm, theo Cục Thống kê.",
+      "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/03/DSC03558JPG-1790988566-8787-1790989788.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=0qI40Ia083VFMhUVB8dFow",
+      "link": "https://vnexpress.net/gdp-quy-iii-tang-9-95-5127865.html",
+      "published_at": "Sat, 03 Oct 2026 08:20:32 +0700",
+      "createAt": "2026-10-03T01:20:32.000Z",
+      "thumbnail_blurhash": "LCB;,uMg8w.T?]$w%fX8xBnyj=em"
+    }
+  ]
 }
