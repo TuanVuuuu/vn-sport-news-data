@@ -596,5 +596,31 @@
     "published_at": "Sun, 04 Oct 2026 18:00:00 +0700",
     "createAt": "2026-10-04T11:00:00.000Z",
     "thumbnail_blurhash": "L8Gk:n02D%~VXAxAIVNHt6WB?a%2"
+  },
+  {
+    "id": "https://vnexpress.net/xe-ba-gac-cho-nguoi-qua-doan-ngap-sau-sau-mua-o-tp-hcm-5128264.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Xe ba gác chở người qua đoạn ngập sâu sau mưa ở TP HCM",
+    "description": "Đường Mã Lò, phường Bình Trị Đông, ngập hơn nửa mét sau cơn mưa lớn chiều 4/10, nhiều xe chết máy, người dân phải nhờ xe ba gác hỗ trợ di chuyển.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/04/Pi7GIFCMP-1791113745-1594-1791113751.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=2e91e7cAuAICHc7W1DE93w&t=image",
+    "link": "https://vnexpress.net/xe-ba-gac-cho-nguoi-qua-doan-ngap-sau-sau-mua-o-tp-hcm-5128264.html",
+    "published_at": "Sun, 04 Oct 2026 18:42:21 +0700",
+    "createAt": "2026-10-04T11:42:21.000Z",
+    "thumbnail_blurhash": "LLF=R8-pMx#+~VI;I:jEVXxa%2$*"
+  },
+  {
+    "id": "https://vnexpress.net/mot-nguoi-trung-jackpot-gan-200-ty-dong-5128267.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Một người trúng Jackpot gần 200 tỷ đồng",
+    "description": "Giải thưởng kỷ lục của sản phẩm Mega 6/45 do Vietlott phát hành vừa có người trúng vào tối Chủ nhật (4/10) với trị giá 199,5 tỷ đồng.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/04/CG2A7369-7971-1791114415.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=J2eNVHaEbtKCeIF6R7FwzA",
+    "link": "https://vnexpress.net/mot-nguoi-trung-jackpot-gan-200-ty-dong-5128267.html",
+    "published_at": "Sun, 04 Oct 2026 18:51:37 +0700",
+    "createAt": "2026-10-04T11:51:37.000Z",
+    "thumbnail_blurhash": "LoKm-Ct9tRnN.TNekVr?xbj]bFni"
   }
 ]
