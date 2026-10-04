@@ -1090,5 +1090,31 @@
     "published_at": "Sun, 04 Oct 2026 21:00:00 +0700",
     "createAt": "2026-10-04T14:00:00.000Z",
     "thumbnail_blurhash": "L4Fr3E~X0J^}00NM9~5800?XofVZ"
+  },
+  {
+    "id": "https://vnexpress.net/nghe-si-quang-thang-nguoi-hai-phong-chat-5127179.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Nghệ sĩ Quang Thắng - người Hải Phòng chất",
+    "description": "Nghệ sĩ Quang Thắng nói luôn đưa một chút giọng và chất Hải Phòng vào vai diễn bởi không thể quên quê hương dù lập nghiệp ở Hà Nội.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/10/04/quang-thang-1791086221-3645-1791086405.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=jesfyI-dmWHvpo_jIM_RKQ",
+    "link": "https://vnexpress.net/nghe-si-quang-thang-nguoi-hai-phong-chat-5127179.html",
+    "published_at": "Mon, 05 Oct 2026 00:00:00 +0700",
+    "createAt": "2026-10-04T17:00:00.000Z",
+    "thumbnail_blurhash": "L8CF-c9G},M}qZI;0KofS_XnTLax"
+  },
+  {
+    "id": "https://vnexpress.net/6-ngay-khach-viet-kham-pha-myanmar-5125077.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "6 ngày khách Việt khám phá Myanmar",
+    "description": "Muốn khám phá Myanmar của hiện tại, nam du khách Việt dành 6 tháng trước chuyến đi cập nhật tình hình đất nước, lựa chọn điểm đến để đảm bảo mọi thứ diễn ra suôn sẻ.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/09/28/img-1790558964-3820-1790559061.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=S2EdRHk_GH682ghVjCP6Ag",
+    "link": "https://vnexpress.net/6-ngay-khach-viet-kham-pha-myanmar-5125077.html",
+    "published_at": "Mon, 05 Oct 2026 00:00:00 +0700",
+    "createAt": "2026-10-04T17:00:00.000Z",
+    "thumbnail_blurhash": "LgDct6ogt7of?wofR*j]-?ofj[ju"
   }
 ]
