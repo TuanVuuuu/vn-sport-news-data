@@ -1,3 +1,69 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/bat-dau-ngay-hoi-doi-moi-sang-tao-quoc-gia-2026-5127769.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Bắt đầu Ngày hội Đổi mới sáng tạo quốc gia 2026",
+      "description": "Lễ hưởng ứng Ngày hội Đổi mới sáng tạo quốc gia 2026 diễn ra lúc 8h30, ngày 4/10 tại Hà Nội, cùng loạt hoạt động công bố chỉ số PII 2026, trao giải Sáng kiến khoa học và giải thưởng sách.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/02/wm1-wm1-img-20260624-161107-179094-4205-3150-1790943401.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=pIfvVZ39WrULutveq7Lhrg",
+      "link": "https://vnexpress.net/bat-dau-ngay-hoi-doi-moi-sang-tao-quoc-gia-2026-5127769.html",
+      "published_at": "Sun, 04 Oct 2026 00:00:00 +0700",
+      "createAt": "2026-10-03T17:00:00.000Z",
+      "thumbnail_blurhash": "LIH_oY~BNNNw~9^*og9vs%xvnhjD"
+    },
+    {
+      "id": "https://vnexpress.net/fed-co-the-khong-tang-lai-suat-trong-thang-nay-5128086.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Fed có thể không tăng lãi suất trong tháng này",
+      "description": "Tháng trước, Fed nâng lãi suất tham chiếu 0,25 điểm phần trăm nhưng giới phân tích đang nghiêng về khả năng Fed không hành động như vậy trong tháng này.",
+      "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/03/vpb-jpg-1791037529-9996-1791038001.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=i0vXhV4wDZHc30TAbLUXzQ",
+      "link": "https://vnexpress.net/fed-co-the-khong-tang-lai-suat-trong-thang-nay-5128086.html",
+      "published_at": "Sun, 04 Oct 2026 00:07:00 +0700",
+      "createAt": "2026-10-03T17:07:00.000Z",
+      "thumbnail_blurhash": "LILEE3cFe8%fx^jYW9R*?w%2NZog"
+    },
+    {
+      "id": "https://vnexpress.net/hai-cot-sa-hoang-bulgaria-hoi-huong-sau-1-000-nam-5128065.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Hài cốt Sa hoàng Bulgaria hồi hương sau 1.000 năm",
+      "description": "Hơn 1.000 năm sau khi qua đời, hài cốt của Sa hoàng Samuel, một trong những lãnh đạo cuối cùng của Đế quốc Bulgaria đệ nhất, sẽ trở về quê nhà.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/03/afp-d2689wp-v1-highres-bulgari-6875-4723-1791042281.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=bg9Bu9OxplKevLiquxLOtg",
+      "link": "https://vnexpress.net/hai-cot-sa-hoang-bulgaria-hoi-huong-sau-1-000-nam-5128065.html",
+      "published_at": "Sun, 04 Oct 2026 01:00:25 +0700",
+      "createAt": "2026-10-03T18:00:25.000Z",
+      "thumbnail_blurhash": "L5DQ[r-A0zniTct6Shxu1HNu|^V["
+    },
+    {
+      "id": "https://vnexpress.net/tai-xe-cong-nghe-chat-vat-sau-tai-nan-vi-lot-luoi-an-sinh-5127142.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Tài xế công nghệ chật vật sau tai nạn vì 'lọt' lưới an sinh",
+      "description": "Mất một mắt sau cuốc xe 17.000 đồng, Thanh Tùng phải tự trả viện phí, nghỉ chạy 7 tháng trong khi cả gia đình bốn người chỉ còn trông vào lương công nhân của vợ.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/01/td5-jpg-1790838494-5278-1790838880.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=qw0ejnNHOJxcF4vjfSDXaQ",
+      "link": "https://vnexpress.net/tai-xe-cong-nghe-chat-vat-sau-tai-nan-vi-lot-luoi-an-sinh-5127142.html",
+      "published_at": "Sun, 04 Oct 2026 06:00:00 +0700",
+      "createAt": "2026-10-03T23:00:00.000Z",
+      "thumbnail_blurhash": "L3B:y_LMx^]p00of~qMy7zznozBA"
+    },
+    {
+      "id": "https://vnexpress.net/bo-lan-dung-khan-cap-vanh-dai-3-khong-kha-thi-5128116.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Bỏ làn dừng khẩn cấp Vành đai 3 'không khả thi'",
+      "description": "Sở Xây dựng Hà Nội cho rằng bỏ làn dừng khẩn cấp để bố trí ba làn xe chạy mỗi chiều trên Vành đai 3 trên cao không khả thi vì không đáp ứng quy chuẩn thiết kế.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/04/wm1-wm1-va-nh-dai-tre-n-cao-179107-3938-5123-1791074389.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=lxCawtPSd2MtTacuyVl8kQ",
+      "link": "https://vnexpress.net/bo-lan-dung-khan-cap-vanh-dai-3-khong-kha-thi-5128116.html",
+      "published_at": "Sun, 04 Oct 2026 07:15:00 +0700",
+      "createAt": "2026-10-04T00:15:00.000Z",
+      "thumbnail_blurhash": "L3Bp,~_N00-;T1M_00D%D%RjITt6"
+    }
+  ]
 }
