@@ -50,5 +50,31 @@
     "published_at": "Sun, 04 Oct 2026 20:00:00 +0700",
     "createAt": "2026-10-04T13:00:00.000Z",
     "thumbnail_blurhash": "LEK_LN4;-=000O~o$a9E05N2RO-p"
+  },
+  {
+    "id": "https://vnexpress.net/muse-charm-van-cuoc-cua-meta-vao-trao-luu-phu-kien-gioi-tre-5127331.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Muse Charm - ván cược của Meta vào trào lưu phụ kiện giới trẻ",
+    "description": "Muse Charm, thiết bị đeo tích hợp AI của Meta, được đánh giá dễ thu hút giới trẻ nhờ sự nhỏ gọn, dễ thương và có phần hoài cổ.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/01/unnamed1-1790856262-3633-1790856819.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=1eBL4q_ASRswOZ3g9Gq9xg",
+    "link": "https://vnexpress.net/muse-charm-van-cuoc-cua-meta-vao-trao-luu-phu-kien-gioi-tre-5127331.html",
+    "published_at": "Mon, 05 Oct 2026 05:00:00 +0700",
+    "createAt": "2026-10-04T22:00:00.000Z",
+    "thumbnail_blurhash": "LdDT;=WGlBo#JIRlRjj]NioMnMWB"
+  },
+  {
+    "id": "https://vnexpress.net/apple-siet-quyen-truy-cap-du-lieu-tren-macos-vi-ai-5128081.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Apple siết quyền truy cập dữ liệu trên macOS vì AI",
+    "description": "Apple cho biết sẽ thay đổi cơ chế bảo mật trên macOS nhằm kiểm soát chặt chẽ hơn khi các ứng dụng AI yêu cầu truy cập toàn bộ dữ liệu máy tính Mac.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/03/screen-shot-at-1791034189-7900-1791034251.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=0q_WmTdEIxG4XpbMQ5M6EA",
+    "link": "https://vnexpress.net/apple-siet-quyen-truy-cap-du-lieu-tren-macos-vi-ai-5128081.html",
+    "published_at": "Mon, 05 Oct 2026 05:34:03 +0700",
+    "createAt": "2026-10-04T22:34:03.000Z",
+    "thumbnail_blurhash": "LXGIWKtm~Wxu.8V?RjWB~qxtWYxa"
   }
 ]
