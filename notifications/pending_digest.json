@@ -1,6 +1,19 @@
 {
   "featured": [
     {
+      "id": "https://vnexpress.net/nghe-si-quang-thang-nguoi-hai-phong-chat-5127179.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Nghệ sĩ Quang Thắng - người Hải Phòng chất",
+      "description": "Nghệ sĩ Quang Thắng nói luôn đưa một chút giọng và chất Hải Phòng vào vai diễn bởi không thể quên quê hương dù lập nghiệp ở Hà Nội.",
+      "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/10/04/quang-thang-1791086221-3645-1791086405.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=jesfyI-dmWHvpo_jIM_RKQ",
+      "link": "https://vnexpress.net/nghe-si-quang-thang-nguoi-hai-phong-chat-5127179.html",
+      "published_at": "Mon, 05 Oct 2026 00:00:00 +0700",
+      "createAt": "2026-10-04T17:00:00.000Z",
+      "thumbnail_blurhash": "L8CF-c9G},M}qZI;0KofS_XnTLax"
+    },
+    {
       "id": "https://vnexpress.net/vi-sao-tre-vao-nhom-con-ghet-bo-me-5127692.html",
       "category_id": "featured",
       "category_name": "Tin nổi bật",
@@ -25,6 +38,19 @@
       "published_at": "Mon, 05 Oct 2026 05:00:00 +0700",
       "createAt": "2026-10-04T22:00:00.000Z",
       "thumbnail_blurhash": "LJRC}O_NaKx]?bxvniaetSRjbHt7"
+    },
+    {
+      "id": "https://vnexpress.net/9-cay-cau-ket-noi-dong-nai-voi-tp-hcm-5127260.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "9 cây cầu kết nối Đồng Nai với TP HCM",
+      "description": "Với 6 cây cầu hiện hữu cùng 3 dự án đang xây, những công trình bắc qua sông có ý nghĩa kết nối giữa hai thành phố lớn nhất phía Nam.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/04/cau-phuoc-an-jpg-1791121634.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Cdna9pZC2lm0sQl7dUpxUw",
+      "link": "https://vnexpress.net/9-cay-cau-ket-noi-dong-nai-voi-tp-hcm-5127260.html",
+      "published_at": "Mon, 05 Oct 2026 05:00:00 +0700",
+      "createAt": "2026-10-04T22:00:00.000Z",
+      "thumbnail_blurhash": "LZI#.Ixt%2xv?dV[R*ofW?WDt7WB"
     },
     {
       "id": "https://vnexpress.net/trinh-tu-boi-thuong-the-nao-khi-dat-thuoc-dien-di-doi-5128308.html",
@@ -77,6 +103,19 @@
       "published_at": "Mon, 05 Oct 2026 08:17:34 +0700",
       "createAt": "2026-10-05T01:17:34.000Z",
       "thumbnail_blurhash": "LNDw2PSiDN$fys$fo2NexAj[Rjt7"
+    },
+    {
+      "id": "https://vnexpress.net/khai-mac-hoi-nghi-trung-uong-4-khoa-14-5128364.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Khai mạc Hội nghị Trung ương 4 khóa 14",
+      "description": "Hội nghị lần thứ tư Ban Chấp hành Trung ương Đảng khóa 14 khai mạc tại Thủ đô Hà Nội, sáng 5/10.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/05/hinh-anh-1791166409-9149-1791166422.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=m9UhqKj_j3oAKrssxSd6UQ",
+      "link": "https://vnexpress.net/khai-mac-hoi-nghi-trung-uong-4-khoa-14-5128364.html",
+      "published_at": "Mon, 05 Oct 2026 09:13:42 +0700",
+      "createAt": "2026-10-05T02:13:42.000Z",
+      "thumbnail_blurhash": "L@KdMWWCazt7~pjZazofxuofj[ay"
     }
   ]
 }
