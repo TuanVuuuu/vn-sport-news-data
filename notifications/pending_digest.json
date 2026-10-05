@@ -1,3 +1,69 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/vi-sao-tre-vao-nhom-con-ghet-bo-me-5127692.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Vì sao trẻ vào nhóm 'Con ghét bố mẹ'?",
+      "description": "Cảm thấy bế tắc và đứt gãy kết nối với gia đình, hàng nghìn trẻ vị thành niên tìm đến các hội nhóm trên mạng xã hội để trút bỏ áp lực.",
+      "thumbnail_url": "https://vcdn1-giadinh.vnecdn.net/2026/10/05/bd2a72b5-bef4b-bd9dc5e05-17911-2401-9545-1791133640.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=DKSIdnJ5cAIXT4vSYp9Gpw",
+      "link": "https://vnexpress.net/vi-sao-tre-vao-nhom-con-ghet-bo-me-5127692.html",
+      "published_at": "Mon, 05 Oct 2026 00:07:41 +0700",
+      "createAt": "2026-10-04T17:07:41.000Z",
+      "thumbnail_blurhash": "LeHC$i?wtRMd%$bHayaeIARjfPt7"
+    },
+    {
+      "id": "https://vnexpress.net/159-diem-ngap-thuong-xuyen-tai-tp-hcm-nam-o-dau-5127780.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "159 điểm ngập thường xuyên tại TP HCM nằm ở đâu?",
+      "description": "Trong 159 điểm ngập thường xuyên của TP HCM, những khu vực ngập nặng nhất nằm ở Gò Vấp, Bình Thạnh, Bình Tân, Thủ Đức và đô thị ven biển Bà Rịa - Vũng Tàu cũ. Độc giả có thể tra cứu vị trí ngập cùng dự báo mưa trên bản đồ để chọn lộ trình di chuyển.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/03/20261003150424-1791014696-9970-1791019017.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=tqaZNV73jkfjFditIqPYUg",
+      "link": "https://vnexpress.net/159-diem-ngap-thuong-xuyen-tai-tp-hcm-nam-o-dau-5127780.html",
+      "published_at": "Mon, 05 Oct 2026 05:00:00 +0700",
+      "createAt": "2026-10-04T22:00:00.000Z",
+      "thumbnail_blurhash": "LJRC}O_NaKx]?bxvniaetSRjbHt7"
+    },
+    {
+      "id": "https://vnexpress.net/trinh-tu-boi-thuong-the-nao-khi-dat-thuoc-dien-di-doi-5128308.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Trình tự bồi thường thế nào khi đất thuộc diện di dời?",
+      "description": "Khi đất thuộc diện thu hồi, người dân sẽ trải qua quy trình nhiều bước từ thông báo, kiểm đếm, lấy ý kiến đến bồi thường và bàn giao đất.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/04/Thumbngang5-1791132750-1697-1791133065.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=5HdpEEkWF4_43FAcLJNUwA",
+      "link": "https://vnexpress.net/trinh-tu-boi-thuong-the-nao-khi-dat-thuoc-dien-di-doi-5128308.html",
+      "published_at": "Mon, 05 Oct 2026 06:00:00 +0700",
+      "createAt": "2026-10-04T23:00:00.000Z",
+      "thumbnail_blurhash": "LiFsMWbctltR_NjZtQofN2n#aeWB"
+    },
+    {
+      "id": "https://vnexpress.net/vien-duong-lao-ban-tru-cong-lap-o-ha-noi-chay-cho-5127678.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Viện dưỡng lão bán trú công lập ở Hà Nội 'cháy chỗ'",
+      "description": "Mô hình dưỡng lão công lập bán trú tại Hà Nội nhanh chóng quá tải sau vài tháng thí điểm, nhiều người cao tuổi phải xếp hàng chờ đến lượt.",
+      "thumbnail_url": "https://vcdn1-giadinh.vnecdn.net/2026/10/05/anh2-1791135214-7709-1791135228.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=SenflKb2tDYKRy4N0XJljQ",
+      "link": "https://vnexpress.net/vien-duong-lao-ban-tru-cong-lap-o-ha-noi-chay-cho-5127678.html",
+      "published_at": "Mon, 05 Oct 2026 06:30:00 +0700",
+      "createAt": "2026-10-04T23:30:00.000Z",
+      "thumbnail_blurhash": "LHIEIb.7_NMyLKVWnND%-.xvM|ix"
+    },
+    {
+      "id": "https://vnexpress.net/co-pho-flydubai-am-muu-lao-may-bay-vao-san-bay-israel-5128323.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Cơ phó flydubai âm mưu 'lao máy bay vào sân bay Israel'",
+      "description": "Cơ phó âm mưu chiếm máy bay flydubai đã khai báo ý định lao máy bay xuống Ben Gurion, sân bay chủ chốt gần Tel Aviv, theo báo Israel.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/05/2-1791157712-3713-1791158467.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=i0-kpBASubdiWHjOGtiPfg",
+      "link": "https://vnexpress.net/co-pho-flydubai-am-muu-lao-may-bay-vao-san-bay-israel-5128323.html",
+      "published_at": "Mon, 05 Oct 2026 07:03:34 +0700",
+      "createAt": "2026-10-05T00:03:34.000Z",
+      "thumbnail_blurhash": "LaE{ndfls.t7T#kCWCbHNJoeWBWC"
+    }
+  ]
 }
