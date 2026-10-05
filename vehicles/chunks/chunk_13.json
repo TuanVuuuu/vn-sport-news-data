@@ -583,5 +583,31 @@
     "published_at": "Mon, 05 Oct 2026 14:12:49 +0700",
     "createAt": "2026-10-05T07:12:49.000Z",
     "thumbnail_blurhash": "LCJ8R#^,ID-?_Jn-%4bXtuD~?1s;"
+  },
+  {
+    "id": "https://vnexpress.net/hanh-khach-bi-kep-ngon-tay-vao-cua-xe-tu-lai-5128455.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Hành khách bị kẹp ngón tay vào cửa xe tự lái",
+    "description": "Người đàn ông tỏ ra đau đớn và kêu cứu khi ba ngón tay bị kẹp phía cửa bên lái của chiếc robotaxi.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/05/robotaxi2-1791187084-8480-1791187308.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=n5Dzu_r-RlwgLsMoONUx9g",
+    "link": "https://vnexpress.net/hanh-khach-bi-kep-ngon-tay-vao-cua-xe-tu-lai-5128455.html",
+    "published_at": "Mon, 05 Oct 2026 15:02:50 +0700",
+    "createAt": "2026-10-05T08:02:50.000Z",
+    "thumbnail_blurhash": "LYGSDk_N9ZaJDh9ZT0%1~q%gR-oe"
+  },
+  {
+    "id": "https://vnexpress.net/byd-tang-toc-xuat-khau-5128273.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "BYD tăng tốc xuất khẩu",
+    "description": "BYD bán 463.561 xe trong tháng 9, tăng 17%, trong đó xuất khẩu tăng 154%, giúp hãng duy trì đà tăng trưởng giữa cạnh tranh gay gắt tại Trung Quốc.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/04/sx274uspjfazzawu3jqku5ywpu-179-6396-2860-1791129080.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=a8_rxp-lB9ZVQRMHmOo2Tw",
+    "link": "https://vnexpress.net/byd-tang-toc-xuat-khau-5128273.html",
+    "published_at": "Mon, 05 Oct 2026 15:30:00 +0700",
+    "createAt": "2026-10-05T08:30:00.000Z",
+    "thumbnail_blurhash": "LkFiGlWA%0s8GdxXaeWAtnWDNHkC"
   }
 ]
