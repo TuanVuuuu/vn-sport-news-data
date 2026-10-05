@@ -1,3 +1,82 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/nobel-y-sinh-2026-vinh-danh-nghien-cuu-bat-tat-nao-bo-bang-anh-sang-5128353.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Nobel Y sinh 2026 vinh danh nghiên cứu 'bật tắt' não bộ bằng ánh sáng",
+      "description": "Nobel Y sinh 2026 vinh danh 3 nhà khoa học Peter Hegemann, Georg Nagel và Karl Deisseroth với quang di truyền học – kỹ thuật đột phá giúp \"bật tắt\" tế bào thần kinh bằng ánh sáng, mở ra hiểu biết sâu sắc về não bộ.",
+      "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/05/dfebca4a-b8cb-a4bfe6870419fb-j-3521-9483-1791194544.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=GYiQZCOcmjvq2TV3wog4Sg",
+      "link": "https://vnexpress.net/nobel-y-sinh-2026-vinh-danh-nghien-cuu-bat-tat-nao-bo-bang-anh-sang-5128353.html",
+      "published_at": "Mon, 05 Oct 2026 16:36:51 +0700",
+      "createAt": "2026-10-05T09:36:51.000Z",
+      "thumbnail_blurhash": "L6HK%{HDDQAe~000004-1+?bS~xC"
+    },
+    {
+      "id": "https://vnexpress.net/fbi-bat-dac-vu-trung-quoc-giua-san-bay-los-angeles-5128643.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "FBI bắt 'đặc vụ Trung Quốc' giữa sân bay Los Angeles",
+      "description": "Các đặc vụ FBI bắt Wanying Zhang tại sân bay quốc tế Los Angeles với cáo buộc hoạt động tình báo cho Trung Quốc.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/05/wanying-zhang-jpeg-1791190625-9770-1791190744.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=loneYjzDmgXTaGx5DmYcZg",
+      "link": "https://vnexpress.net/fbi-bat-dac-vu-trung-quoc-giua-san-bay-los-angeles-5128643.html",
+      "published_at": "Mon, 05 Oct 2026 17:01:02 +0700",
+      "createAt": "2026-10-05T10:01:02.000Z",
+      "thumbnail_blurhash": "LCJa+Y^PUHtlAuWV+as-1jR*#RR+"
+    },
+    {
+      "id": "https://vnexpress.net/trung-uong-ban-ve-doi-moi-toan-dien-cong-tac-can-bo-5128698.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Trung ương bàn về đổi mới toàn diện công tác cán bộ",
+      "description": "Trong ngày đầu Hội nghị Trung ương 4 khóa 14, các đại biểu thảo luận việc ban hành nghị quyết mới về xây dựng đội ngũ cán bộ và đổi mới căn bản, toàn diện công tác cán bộ.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/05/base64-1791195206-9644-1791195306.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=H9IXeJcdCazyn3KA2YM0gA",
+      "link": "https://vnexpress.net/trung-uong-ban-ve-doi-moi-toan-dien-cong-tac-can-bo-5128698.html",
+      "published_at": "Mon, 05 Oct 2026 17:28:42 +0700",
+      "createAt": "2026-10-05T10:28:42.000Z",
+      "thumbnail_blurhash": "LOI:qLsA%MxZ~At7-pt6_2ofn$of"
+    },
+    {
+      "id": "https://vnexpress.net/mua-don-dap-mien-trung-nguy-co-ngap-sau-lu-quet-5128701.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Mưa dồn dập, miền Trung nguy cơ ngập sâu, lũ quét",
+      "description": "Mưa lớn dự báo kéo dài đến khoảng 10-11/10; riêng phía nam Quảng Trị và TP Huế có thể mưa trên 600 mm trong 4 ngày.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/05/vne6839-jpg-1791196267-3102-1791196298.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=7yNL8he0oM9lde_3QezkpQ",
+      "link": "https://vnexpress.net/mua-don-dap-mien-trung-nguy-co-ngap-sau-lu-quet-5128701.html",
+      "published_at": "Mon, 05 Oct 2026 17:48:20 +0700",
+      "createAt": "2026-10-05T10:48:20.000Z",
+      "thumbnail_blurhash": "L7Gu].~q0000E1t6t6tR00%g%LMx"
+    },
+    {
+      "id": "https://vnexpress.net/hlv-kim-doi-tuyen-viet-nam-can-choi-tot-hon-o-asian-cup-2027-5128694.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "HLV Kim: 'Đội tuyển Việt Nam cần chơi tốt hơn ở Asian Cup 2027'",
+      "description": "Thất vọng vì đội thua Malaysia 0-1 chiều 5/10, và chỉ đứng thứ tư FIFA ASEAN Cup 2026, nhưng HLV Kim Sang-sik xem đây như một cữ dượt, để Việt Nam chơi tốt hơn tại Asian Cup đầu năm sau.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/10/05/1791192892914-g651265587011251-6711-3061-1791194409.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=edTuZG65yPIZ5TVzuaetYA",
+      "link": "https://vnexpress.net/hlv-kim-doi-tuyen-viet-nam-can-choi-tot-hon-o-asian-cup-2027-5128694.html",
+      "published_at": "Mon, 05 Oct 2026 18:03:03 +0700",
+      "createAt": "2026-10-05T11:03:03.000Z",
+      "thumbnail_blurhash": "LPGSQE^,%Ot6?wtRo}jG.9yDbubG"
+    },
+    {
+      "id": "https://vnexpress.net/du-kien-giam-quy-mo-nghien-cuu-du-an-safari-ba-vi-xuong-300-ha-5128699.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Dự kiến giảm quy mô nghiên cứu dự án safari Ba Vì xuống 300 ha",
+      "description": "Hội đồng thẩm định của Hà Nội đang xem xét chủ trương đầu tư dự án safari Ba Vì, xác định lại quy mô đầu tư khoảng 300 ha đất, giảm 280 ha so với đề xuất trước đó.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/05/phamvinghiencuu-1791197582-4633-1791197924.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=51-77mgCKgsBssistZQMgg",
+      "link": "https://vnexpress.net/du-kien-giam-quy-mo-nghien-cuu-du-an-safari-ba-vi-xuong-300-ha-5128699.html",
+      "published_at": "Mon, 05 Oct 2026 18:14:32 +0700",
+      "createAt": "2026-10-05T11:14:32.000Z",
+      "thumbnail_blurhash": "L8Bghm~nwixbo|%LM~o48~xGxtxt"
+    }
+  ]
 }

@@ -1090,5 +1090,31 @@
     "published_at": "Mon, 05 Oct 2026 18:14:32 +0700",
     "createAt": "2026-10-05T11:14:32.000Z",
     "thumbnail_blurhash": "L8Bghm~nwixbo|%LM~o48~xGxtxt"
+  },
+  {
+    "id": "https://vnexpress.net/mua-da-o-lam-dong-5128712.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Mưa đá ở Lâm Đồng",
+    "description": "Mưa đá kéo dài khoảng 15 phút tại xã Đơn Dương, sau đó mưa lớn khiến quốc lộ 27 ngập 30-50 cm, nhiều xe chết máy, chiều 5/10.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/05/mua-da-1791200034-6990-1791200050.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=1Ya3XbKaOmXHxIVh4njHOA",
+    "link": "https://vnexpress.net/mua-da-o-lam-dong-5128712.html",
+    "published_at": "Mon, 05 Oct 2026 18:34:10 +0700",
+    "createAt": "2026-10-05T11:34:10.000Z",
+    "thumbnail_blurhash": "LGHw#^00FX%0~V$zRPOpO;nOxak9"
+  },
+  {
+    "id": "https://vnexpress.net/boi-thuong-dat-du-an-ben-nha-rong-du-kien-cao-nhat-338-trieu-dong-m2-5128724.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Bồi thường đất dự án Bến Nhà Rồng dự kiến cao nhất 338 triệu đồng/m2",
+    "description": "Đất ở mặt tiền Nguyễn Tất Thành thuộc dự án Công viên văn hóa Bến Nhà Rồng - Khánh Hội dự kiến bồi thường cao nhất 338,5 triệu đồng mỗi m2, tổng kinh phí hơn 5.580 tỷ đồng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/05/dji-d-1791200455-8965-1791200612.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ZZpzocD7TdF7ELOBphuyXA",
+    "link": "https://vnexpress.net/boi-thuong-dat-du-an-ben-nha-rong-du-kien-cao-nhat-338-trieu-dong-m2-5128724.html",
+    "published_at": "Mon, 05 Oct 2026 18:57:02 +0700",
+    "createAt": "2026-10-05T11:57:02.000Z",
+    "thumbnail_blurhash": "LEFiV?~q?HozpebwIoxux^aKoet6"
   }
 ]
