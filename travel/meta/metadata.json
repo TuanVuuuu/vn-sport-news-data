@@ -1,5 +1,5 @@
 {
-  "total_articles": 991,
+  "total_articles": 992,
   "files": [
     "chunk_1.json",
     "chunk_2.json",
@@ -19,7 +19,7 @@
     "copyright": "",
     "logo_url": "https://s.vnecdn.net/vnexpress/i/v20/logos/vne_logo_rss.png",
     "link": "https://vnexpress.net/rss/du-lich.rss",
-    "last_updated": "Mon, 05 Oct 2026 16:20:57 +0700"
+    "last_updated": "Mon, 05 Oct 2026 18:21:00 +0700"
   },
-  "last_updated": "2026-10-05T11:40:54.604Z"
+  "last_updated": "2026-10-05T11:51:01.486Z"
 }
