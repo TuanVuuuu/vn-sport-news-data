@@ -466,5 +466,31 @@
     "published_at": "Mon, 05 Oct 2026 05:00:00 +0700",
     "createAt": "2026-10-04T22:00:00.000Z",
     "thumbnail_blurhash": "LaEfE7g3Mxe.~qS5jYofo~NHxuog"
+  },
+  {
+    "id": "https://vnexpress.net/mua-ban-tai-de-lam-gi-5104567.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Mua bán tải để làm gì?",
+    "description": "Khách Việt luôn có cách định nghĩa riêng cho các dòng xe, nên chiếc bán tải đôi khi cũng không cần thiết đặt nặng yếu tố \"tải\".",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/04/vanhanhfordrangerraptor2055316-2370-7194-1791102390.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=OySkVrf65pGoIuo8vykFbQ",
+    "link": "https://vnexpress.net/mua-ban-tai-de-lam-gi-5104567.html",
+    "published_at": "Mon, 05 Oct 2026 06:00:00 +0700",
+    "createAt": "2026-10-04T23:00:00.000Z",
+    "thumbnail_blurhash": "L27J@2sm2YR*05I;bYo22-%K[Esp"
+  },
+  {
+    "id": "https://vnexpress.net/cf-moto-450cl-c-moto-so-tu-dong-gia-167-trieu-dong-5128192.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "CF Moto 450CL-C - môtô số tự động giá 167 triệu đồng",
+    "description": "Mẫu môtô pha trộn thiết kế cổ điển và hiện đại, động cơ 450 phân khối, hộp số tự động 6 cấp vận hành không cần bóp côn.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/04/CFMoto450CLC1vnexpressnet3-179-7983-6662-1791090278.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=3fE-Wkya3HjwcmuQfdmpQg",
+    "link": "https://vnexpress.net/cf-moto-450cl-c-moto-so-tu-dong-gia-167-trieu-dong-5128192.html",
+    "published_at": "Mon, 05 Oct 2026 06:40:00 +0700",
+    "createAt": "2026-10-04T23:40:00.000Z",
+    "thumbnail_blurhash": "LFECzk-ps*xt%g%1ROt6_4t6V[bI"
   }
 ]
