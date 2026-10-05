@@ -661,5 +661,44 @@
     "published_at": "Mon, 05 Oct 2026 10:00:00 +0700",
     "createAt": "2026-10-05T03:00:00.000Z",
     "thumbnail_blurhash": "L8NwH00001H;_M8w4TH=xo4.00?a"
+  },
+  {
+    "id": "https://vnexpress.net/mot-qua-ca-bang-ba-thang-thuoc-co-dung-5128439.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "'Một quả cà bằng ba thang thuốc' có đúng?",
+    "description": "Mọi người truyền tai nhau: \"Một quả cà, ba thang thuốc, ý nói cà gây độc\", gia đình tôi thường xuyên ăn cà muối, vậy có nguy hiểm? (Hải, 54 tuổi, Phú Thọ).",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/05/b3ec6238fcdf4b29a8ed1f1d4d67c9-8028-9964-1791171033.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=uY3AFGD8OyMg4pH6GZQcnA",
+    "link": "https://vnexpress.net/mot-qua-ca-bang-ba-thang-thuoc-co-dung-5128439.html",
+    "published_at": "Mon, 05 Oct 2026 11:00:00 +0700",
+    "createAt": "2026-10-05T04:00:00.000Z",
+    "thumbnail_blurhash": "LaMGz@R5u6%f-rofXPo#g5j=i^og"
+  },
+  {
+    "id": "https://vnexpress.net/nguoi-phu-nu-mac-hai-hoi-chung-mach-mau-5128362.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Người phụ nữ mắc hai hội chứng mạch máu",
+    "description": "Bà Phương, 67 tuổi, đầy bụng, khó tiêu nhiều năm, tưởng bệnh đường tiêu hóa nhưng bác sĩ phát hiện mắc hội chứng động mạch mạc treo tràng trên và kẹp hạt dẻ.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/05/image001-1791165065-4108-1791165085.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=xVna5V4Wbqr60D7ZqiFSOw",
+    "link": "https://vnexpress.net/nguoi-phu-nu-mac-hai-hoi-chung-mach-mau-5128362.html",
+    "published_at": "Mon, 05 Oct 2026 11:00:00 +0700",
+    "createAt": "2026-10-05T04:00:00.000Z",
+    "thumbnail_blurhash": "LIL#qcHX~U%4VWMdRR8^oH%htS9E"
+  },
+  {
+    "id": "https://vnexpress.net/viem-phoi-do-tu-cau-vang-5128347.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Viêm phổi do tụ cầu vàng",
+    "description": "Thành, 20 tuổi, đau ngực kéo dài, bác sĩ cho rằng khuẩn tụ cầu vàng từ vết bỏng ở môi tấn công phổi gây viêm.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/05/image001-1791162507-3003-1791162844.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=i_4UR67mkrRirULkIztocA",
+    "link": "https://vnexpress.net/viem-phoi-do-tu-cau-vang-5128347.html",
+    "published_at": "Mon, 05 Oct 2026 11:00:00 +0700",
+    "createAt": "2026-10-05T04:00:00.000Z",
+    "thumbnail_blurhash": "LLN^JG~qr=xw_N.8DikD=V-;0f={"
   }
 ]
