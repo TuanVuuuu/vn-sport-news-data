@@ -1,6 +1,19 @@
 {
   "featured": [
     {
+      "id": "https://vnexpress.net/viet-nam-v-malaysia-5128576-tong-thuat.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Thua Malaysia sau 12 năm, Việt Nam xếp thứ 4 FIFA ASEAN Cup",
+      "description": "Kể từ năm 2014, Việt Nam mới thua Malaysia với tỷ số 0-1 trong trận tranh giải Ba FIFA ASEAN Cup 2026 trên sân Gelora Bung Karno, Jakarta chiều 5/10.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/10/05/1791195894577-g765842866275597-3253-5921-1791196400.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=FWocHhDELqHUlwxB2zQ0-Q",
+      "link": "https://vnexpress.net/viet-nam-v-malaysia-5128576-tong-thuat.html",
+      "published_at": "Mon, 05 Oct 2026 15:00:00 +0700",
+      "createAt": "2026-10-05T08:00:00.000Z",
+      "thumbnail_blurhash": "L6KS*F^mMs:600E00LTJ2=ggFC9^"
+    },
+    {
       "id": "https://vnexpress.net/nobel-y-sinh-2026-vinh-danh-nghien-cuu-bat-tat-nao-bo-bang-anh-sang-5128353.html",
       "category_id": "featured",
       "category_name": "Tin nổi bật",
@@ -131,6 +144,19 @@
       "thumbnail_blurhash": "LUG]5BR#~nxZ-;-qj;bJtSsqR%W."
     },
     {
+      "id": "https://vnexpress.net/tram-sac-phai-duoc-thiet-ke-san-sang-cho-nhieu-loai-xe-dien-5128523.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Trạm sạc phải được thiết kế sẵn sàng cho nhiều loại xe điện",
+      "description": "Từ 1/7/2027, trạm sạc công cộng phải được thiết kế về mặt kỹ thuật sẵn sàng dùng chung cho các xe điện tương thích, công khai giá hoặc cách tính tiền, theo quy định mới của Bộ Công Thương.",
+      "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/05/tram-sac-1791201371-4603-1791201377.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=vuFd2ghRQVbFkUMvw1Pv3w",
+      "link": "https://vnexpress.net/tram-sac-phai-duoc-thiet-ke-san-sang-cho-nhieu-loai-xe-dien-5128523.html",
+      "published_at": "Mon, 05 Oct 2026 18:52:43 +0700",
+      "createAt": "2026-10-05T11:52:43.000Z",
+      "thumbnail_blurhash": "LUG]5BR#~nxZ-;-qj;bJtSsqR%W."
+    },
+    {
       "id": "https://vnexpress.net/boi-thuong-dat-du-an-ben-nha-rong-du-kien-cao-nhat-338-trieu-dong-m2-5128724.html",
       "category_id": "featured",
       "category_name": "Tin nổi bật",
@@ -168,6 +194,19 @@
       "published_at": "Mon, 05 Oct 2026 19:15:00 +0700",
       "createAt": "2026-10-05T12:15:00.000Z",
       "thumbnail_blurhash": "LJH-fTxaP;tk00jYHrM|XnW=xanP"
+    },
+    {
+      "id": "https://vnexpress.net/indonesia-vs-thai-lan-5128707-tong-thuat.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Indonesia thắng luân lưu Thái Lan, vô địch FIFA ASEAN Cup 2026",
+      "description": "Bị dẫn bàn trong hiệp phụ, Indonesia gỡ hòa rồi thắng trên loạt đá luân lưu ở trận chung kết FIFA ASEAN Cup 2026 trên sân Gelora Bung Karno.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/10/05/indonesia-jpeg-1791217625-7871-1791218135.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=LlxqtOMGNbRqB3D2bOUXIA",
+      "link": "https://vnexpress.net/indonesia-vs-thai-lan-5128707-tong-thuat.html",
+      "published_at": "Mon, 05 Oct 2026 19:15:00 +0700",
+      "createAt": "2026-10-05T12:15:00.000Z",
+      "thumbnail_blurhash": "LDGR#L.l.S.S03VvV_RR0cQ-MJMc"
     },
     {
       "id": "https://vnexpress.net/nga-noi-tinh-hinh-duoc-kiem-soat-sau-ca-tu-vong-nghi-do-ro-ri-vi-khuan-dich-hach-5128728.html",
@@ -220,6 +259,32 @@
       "published_at": "Mon, 05 Oct 2026 20:49:08 +0700",
       "createAt": "2026-10-05T13:49:08.000Z",
       "thumbnail_blurhash": "LCHwcK_$-=IV.:ibEL%M=KXmOsH?"
+    },
+    {
+      "id": "https://vnexpress.net/hoai-lam-hat-trong-tiec-truoc-ngay-cuoi-5128747.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Hoài Lâm hát trong tiệc trước ngày cưới",
+      "description": "Hoài Lâm hát giao lưu với người thân, bạn bè, hàng xóm trong tiệc trước ngày cưới ở nhà riêng, tối 5/10.",
+      "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/10/05/1791205671281-g5112763746660179511cb5560c1fb3bea9b7a30d41af063fa8-1791208261.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=NuemVnWysvAiX8siRJj4KA",
+      "link": "https://vnexpress.net/hoai-lam-hat-trong-tiec-truoc-ngay-cuoi-5128747.html",
+      "published_at": "Mon, 05 Oct 2026 21:56:23 +0700",
+      "createAt": "2026-10-05T14:56:23.000Z",
+      "thumbnail_blurhash": "LVH,z[O8t7M{}sf#n+s,%0ods,oe"
+    },
+    {
+      "id": "https://vnexpress.net/tau-tho-nhi-ky-bi-drone-danh-chim-o-bien-den-5128760.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Tàu Thổ Nhĩ Kỳ bị drone đánh chìm ở Biển Đen",
+      "description": "Tàu Thổ Nhĩ Kỳ chở ngũ cốc bốc cháy và chìm ở Biển Đen sau khi bị drone tấn công, khiến hai thủy thủ thiệt mạng.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/05/2-1791212947-7054-1791212964.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=1AKneVbt7Zaj1amX4dSaRQ",
+      "link": "https://vnexpress.net/tau-tho-nhi-ky-bi-drone-danh-chim-o-bien-den-5128760.html",
+      "published_at": "Mon, 05 Oct 2026 22:28:42 +0700",
+      "createAt": "2026-10-05T15:28:42.000Z",
+      "thumbnail_blurhash": "LEDv.y-oS%SP_Ns.RPf,JCR+sSs,"
     }
   ]
 }
