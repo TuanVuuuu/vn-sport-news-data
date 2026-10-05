@@ -622,5 +622,31 @@
     "published_at": "Mon, 05 Oct 2026 18:30:00 +0700",
     "createAt": "2026-10-05T11:30:00.000Z",
     "thumbnail_blurhash": "LLEe.CaiX8nO}?%MNGi_$xRPx]S$"
+  },
+  {
+    "id": "https://vnexpress.net/noi-lo-mat-sac-cua-nguoi-dung-xe-may-dien-5128535.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Nỗi lo mất sạc của người dùng xe máy điện",
+    "description": "Sự phổ biến của xe máy điện tạo ra một nỗi lo mới tại chung cư, khi người dùng phải tìm cách giữ sạc khỏi mất cắp trong lúc sạc.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/05/xichsac-1791178712-4325-1791178818.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=pA6GZ8Gd7iJuF_lhwSz5Xw",
+    "link": "https://vnexpress.net/noi-lo-mat-sac-cua-nguoi-dung-xe-may-dien-5128535.html",
+    "published_at": "Tue, 06 Oct 2026 05:00:00 +0700",
+    "createAt": "2026-10-05T22:00:00.000Z",
+    "thumbnail_blurhash": "LAA,%p~p%gwZ9#.8-nng}*?a$_%L"
+  },
+  {
+    "id": "https://vnexpress.net/vinfast-va-xe-trung-quoc-thong-tri-doanh-so-oto-dien-hoa-o-dong-nam-a-5128377.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "VinFast và xe Trung Quốc thống trị doanh số ôtô điện hóa ở Đông Nam Á",
+    "description": "Trong 15 thương hiệu bán nhiều xe điện hóa nhất nửa đầu 2026 ở ASEAN, VinFast dẫn đầu, xe Trung Quốc chiếm đến 8.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/05/vf3vnexpressjpg-1791190741-9568-1791191011.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=2-LZcxUqQ4UMYK7jaW1tXA",
+    "link": "https://vnexpress.net/vinfast-va-xe-trung-quoc-thong-tri-doanh-so-oto-dien-hoa-o-dong-nam-a-5128377.html",
+    "published_at": "Tue, 06 Oct 2026 05:33:00 +0700",
+    "createAt": "2026-10-05T22:33:00.000Z",
+    "thumbnail_blurhash": "L5C6.C?b0000OSo#IU~q4Txt.9~q"
   }
 ]
