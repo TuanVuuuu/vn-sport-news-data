@@ -791,5 +791,31 @@
     "published_at": "Mon, 05 Oct 2026 14:00:00 +0700",
     "createAt": "2026-10-05T07:00:00.000Z",
     "thumbnail_blurhash": "LJIXv,~VSw-;^%agD*t7XTtQs;nP"
+  },
+  {
+    "id": "https://vnexpress.net/thoi-quen-tuong-vo-hai-sau-bua-an-khien-mo-mau-tang-vot-5128281.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Thói quen tưởng vô hại sau bữa ăn khiến mỡ máu tăng vọt",
+    "description": "Ăn tối xong rồi nằm hoặc ngồi bất động hàng giờ là thói quen nhiều người mắc, về lâu dài không có lợi cho quá trình chuyển hóa, khiến mỡ máu tăng, đặc biệt nếu chế độ ăn thiếu khoa học.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/05/buoc-thanh-pham-1791169044-3072-1791169091.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=O4JM21mY0UzRSzeNKDSG3w",
+    "link": "https://vnexpress.net/thoi-quen-tuong-vo-hai-sau-bua-an-khien-mo-mau-tang-vot-5128281.html",
+    "published_at": "Mon, 05 Oct 2026 14:32:21 +0700",
+    "createAt": "2026-10-05T07:32:21.000Z",
+    "thumbnail_blurhash": "LLFqK]~ABVoz?G?H%LoMX-tRozbI"
+  },
+  {
+    "id": "https://vnexpress.net/gia-do-mon-an-binh-dan-giup-ha-duong-huyet-phong-ngua-benh-tat-5128363.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Giá đỗ - món ăn bình dân giúp hạ đường huyết, phòng ngừa bệnh tật",
+    "description": "Giá đỗ ít calo, giàu chất xơ và chất chống oxy hóa giúp hạ đường huyết hiệu quả; nên kết hợp cùng đạm, không ăn thay tinh bột hoàn toàn.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/05/screenshot-at-1791164546-6606-1791164572.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=07EDZeaGamnpNbBRd-R8eQ",
+    "link": "https://vnexpress.net/gia-do-mon-an-binh-dan-giup-ha-duong-huyet-phong-ngua-benh-tat-5128363.html",
+    "published_at": "Mon, 05 Oct 2026 14:32:59 +0700",
+    "createAt": "2026-10-05T07:32:59.000Z",
+    "thumbnail_blurhash": "LDMQCKY60=Xp~LR-9%-:039E00s%"
   }
 ]

@@ -830,5 +830,31 @@
     "published_at": "Sat, 03 Oct 2026 14:00:00 +0700",
     "createAt": "2026-10-03T07:00:00.000Z",
     "thumbnail_blurhash": "LHE_E*}uH?E0AoK5k?-VA-TJJUs."
+  },
+  {
+    "id": "https://vnexpress.net/ngan-hang-ha-gia-rao-ban-50-nha-may-nong-san-lien-quan-ba-truong-my-lan-5128498.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Ngân hàng hạ giá rao bán 50% nhà máy nông sản liên quan bà Trương Mỹ Lan",
+    "description": "Sau nửa năm, VietinBank hạ giá rao bán nhà máy nông sản liên quan bà Trương Mỹ Lan từ hơn 1.300 tỷ xuống gần 703 tỷ đồng.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/05/anh1-nhamaytanifood-zytl-17911-3492-3621-1791175211.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=2sp3_rtxnX0JzNjitTqh5w",
+    "link": "https://vnexpress.net/ngan-hang-ha-gia-rao-ban-50-nha-may-nong-san-lien-quan-ba-truong-my-lan-5128498.html",
+    "published_at": "Mon, 05 Oct 2026 14:19:27 +0700",
+    "createAt": "2026-10-05T07:19:27.000Z",
+    "thumbnail_blurhash": "LSD,J?xsM{oe?wIUM{ayo~M|xuog"
+  },
+  {
+    "id": "https://vnexpress.net/viet-nam-co-nen-kinh-te-crypto-lon-thu-2-dong-nam-a-5128401.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Việt Nam có nền kinh tế crypto lớn thứ 2 Đông Nam Á",
+    "description": "Việt Nam ghi nhận hơn 122 tỷ USD giá trị hoạt động tiền số (crypto) trong vòng một năm qua, đứng thứ 2 tại Đông Nam Á, chỉ sau Singapore.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/05/106923510-hand-h-1791166986-2821-1791167037.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=q4eqNVyNQVwWEtXN9LV4UQ",
+    "link": "https://vnexpress.net/viet-nam-co-nen-kinh-te-crypto-lon-thu-2-dong-nam-a-5128401.html",
+    "published_at": "Mon, 05 Oct 2026 14:27:54 +0700",
+    "createAt": "2026-10-05T07:27:54.000Z",
+    "thumbnail_blurhash": "L8DSOG}j0t0U0057|q}--3-q=^Ef"
   }
 ]
