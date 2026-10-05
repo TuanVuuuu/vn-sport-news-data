@@ -791,5 +791,31 @@
     "published_at": "Mon, 05 Oct 2026 09:35:46 +0700",
     "createAt": "2026-10-05T02:35:46.000Z",
     "thumbnail_blurhash": "LhDmE=ozWAof?wjsa#of?bofaxj]"
+  },
+  {
+    "id": "https://vnexpress.net/loat-ngan-hang-han-quoc-lien-tiep-bi-tan-cong-mang-5128451.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Loạt ngân hàng Hàn Quốc liên tiếp bị tấn công mạng",
+    "description": "5 ngân hàng lớn ở Hàn Quốc liên tiếp bị tấn công mạng khiến dữ liệu hàng chục nghìn khách hàng bị rò rỉ, Tổng thống nước này yêu cầu điều tra toàn diện.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/05/4-ngan-hang-1791172577-6407-1791172833.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=wcM0ZuZ7kIjSDTWatPjwZw",
+    "link": "https://vnexpress.net/loat-ngan-hang-han-quoc-lien-tiep-bi-tan-cong-mang-5128451.html",
+    "published_at": "Mon, 05 Oct 2026 11:40:32 +0700",
+    "createAt": "2026-10-05T04:40:32.000Z",
+    "thumbnail_blurhash": "LECteM9cx_yEHq%%tSD$t5NgRjVq"
+  },
+  {
+    "id": "https://vnexpress.net/evn-de-nghi-dam-phan-lai-gia-mua-dien-loat-du-an-tai-tao-vuong-nghiem-thu-5128495.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "EVN đề nghị đàm phán lại giá mua điện loạt dự án tái tạo vướng nghiệm thu",
+    "description": "Công ty Mua bán điện thuộc EVN đề nghị chủ đầu tư năng lượng tái tạo đàm phán giảm giá cho thời gian đã vận hành thương mại, nhưng chưa được chấp thuận nghiệm thu.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/05/wm1-wm1-nhamaydienmattroiomuinepha-9170-2378-1791173934.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=7azIofKNQ3fHzgW_6j33Aw",
+    "link": "https://vnexpress.net/evn-de-nghi-dam-phan-lai-gia-mua-dien-loat-du-an-tai-tao-vuong-nghiem-thu-5128495.html",
+    "published_at": "Mon, 05 Oct 2026 12:49:51 +0700",
+    "createAt": "2026-10-05T05:49:51.000Z",
+    "thumbnail_blurhash": "L{DnYNbIkCkD%%a$fPflM|WCjsjs"
   }
 ]
