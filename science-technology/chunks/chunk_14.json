@@ -102,5 +102,44 @@
     "published_at": "Mon, 05 Oct 2026 07:00:00 +0700",
     "createAt": "2026-10-05T00:00:00.000Z",
     "thumbnail_blurhash": "LNLXSx00~q%29bI=Mw9FD%9ExZx]"
+  },
+  {
+    "id": "https://vnexpress.net/mot-quan-ly-an-toan-openai-tu-chuc-vi-lo-toc-do-phat-trien-mo-hinh-5128333.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Một quản lý an toàn OpenAI từ chức vì lo tốc độ phát triển mô hình",
+    "description": "David Robinson, người từng giám sát báo cáo an toàn tại OpenAI và xin nghỉ việc tuần trước, chỉ trích văn hóa phát triển ưu tiên tốc độ phát hành sản phẩm của công ty.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/05/openai-jpg-1791161314-9370-1791161340.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=zN9gY9hjZSxkzdY2ywquzQ",
+    "link": "https://vnexpress.net/mot-quan-ly-an-toan-openai-tu-chuc-vi-lo-toc-do-phat-trien-mo-hinh-5128333.html",
+    "published_at": "Mon, 05 Oct 2026 10:00:00 +0700",
+    "createAt": "2026-10-05T03:00:00.000Z",
+    "thumbnail_blurhash": "LRF%=D?dD4%i~U?Hs;xax7xaVHs;"
+  },
+  {
+    "id": "https://vnexpress.net/10-dia-phuong-dan-dau-ca-nuoc-ve-doi-moi-sang-tao-5128288.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "10 địa phương dẫn đầu cả nước về đổi mới sáng tạo",
+    "description": "Chỉ số đổi mới sáng tạo cấp địa phương (PII) 2026 ghi nhận 7/10 vị trí dẫn đầu là thành phố trực thuộc trung ương, 6/10 ở khu vực phía Bắc.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/04/2aobor34wmheclfheee3eafkke2bbe-8289-5556-1791126533.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=iuBXuK_oQuatB5tQiINETQ",
+    "link": "https://vnexpress.net/10-dia-phuong-dan-dau-ca-nuoc-ve-doi-moi-sang-tao-5128288.html",
+    "published_at": "Mon, 05 Oct 2026 10:41:36 +0700",
+    "createAt": "2026-10-05T03:41:36.000Z",
+    "thumbnail_blurhash": "LaC?pG-;oat8kvRijCtRI{s*nzR."
+  },
+  {
+    "id": "https://vnexpress.net/giao-su-my-robot-hinh-nguoi-dang-bi-thoi-phong-5126722.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Giáo sư Mỹ: Robot hình người đang bị thổi phồng",
+    "description": "Robot hình người tiến bộ nhanh nhưng vẫn chưa thể ứng dụng nhiều trong thực tế khi bài toán an toàn chưa được giải quyết triệt để, theo GS Aaron Ames tại Viện Caltech.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/01/wm1-wm1-20260922-1790850857-3239-1790851503.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=IIaxjixNddKSFZ3IHOl5gw",
+    "link": "https://vnexpress.net/giao-su-my-robot-hinh-nguoi-dang-bi-thoi-phong-5126722.html",
+    "published_at": "Mon, 05 Oct 2026 11:00:00 +0700",
+    "createAt": "2026-10-05T04:00:00.000Z",
+    "thumbnail_blurhash": "LOIhBFOFyCNH~VNdShoMRPs.ens."
   }
 ]
