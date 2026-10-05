@@ -310,5 +310,31 @@
     "published_at": "Mon, 05 Oct 2026 19:15:00 +0700",
     "createAt": "2026-10-05T12:15:00.000Z",
     "thumbnail_blurhash": "LDGR#L.l.S.S03VvV_RR0cQ-MJMc"
+  },
+  {
+    "id": "https://vnexpress.net/phap-thang-tran-dam-nhat-duoi-thoi-zidane-5128781.html",
+    "category_id": "sports",
+    "category_name": "Thể thao",
+    "source": "VnExpress",
+    "title": "Pháp thắng trận đậm nhất dưới thời Zidane",
+    "description": "Pháp ghi bốn bàn trong 15 phút cuối để ngược dòng hạ Bỉ 4-1 ở lượt bốn bảng A1 Nations League và có chiến thắng đậm nhất sau bốn trận dưới thời HLV Zinedine Zidane.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/10/06/a-nh-ma-n-hi-nh-lu-c-179123765-2375-9428-1791237693.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=S9uutZ6cOLC9mwbQezcIHg",
+    "link": "https://vnexpress.net/phap-thang-tran-dam-nhat-duoi-thoi-zidane-5128781.html",
+    "published_at": "Tue, 06 Oct 2026 05:01:32 +0700",
+    "createAt": "2026-10-05T22:01:32.000Z",
+    "thumbnail_blurhash": "LJG+N;9T~V?rQmM_D*oZxn?FI;s="
+  },
+  {
+    "id": "https://vnexpress.net/hoa-hau-duc-chuyen-sang-lam-vo-si-quyen-anh-chuyen-nghiep-5128779.html",
+    "category_id": "sports",
+    "category_name": "Thể thao",
+    "source": "VnExpress",
+    "title": "Hoa hậu Đức chuyển sang làm võ sĩ quyền Anh chuyên nghiệp",
+    "description": "Tatjana Genrich, người đăng quang Miss Deutschland 2022, sẽ ra mắt quyền Anh chuyên nghiệp ở tuổi 33, và đặt mục tiêu tranh đai vô địch thế giới.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/10/06/a-nh-ma-n-hi-nh-lu-c-179123424-2861-2498-1791234260.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=Pv9UnPb2VU4iBL5rOIL-uA",
+    "link": "https://vnexpress.net/hoa-hau-duc-chuyen-sang-lam-vo-si-quyen-anh-chuyen-nghiep-5128779.html",
+    "published_at": "Tue, 06 Oct 2026 05:30:43 +0700",
+    "createAt": "2026-10-05T22:30:43.000Z",
+    "thumbnail_blurhash": "LMJaJ?J.s;~V_N%fS5S*K+n3NGRj"
   }
 ]
