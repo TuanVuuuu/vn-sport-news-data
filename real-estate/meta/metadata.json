@@ -1,5 +1,5 @@
 {
-  "total_articles": 1004,
+  "total_articles": 1005,
   "files": [
     "chunk_1.json",
     "chunk_2.json",
@@ -20,7 +20,7 @@
     "copyright": "",
     "logo_url": "https://s.vnecdn.net/vnexpress/i/v20/logos/vne_logo_rss.png",
     "link": "https://vnexpress.net/rss/bat-dong-san.rss",
-    "last_updated": "Mon, 05 Oct 2026 07:51:06 +0700"
+    "last_updated": "Mon, 05 Oct 2026 10:20:49 +0700"
   },
-  "last_updated": "2026-10-05T04:31:12.140Z"
+  "last_updated": "2026-10-05T04:40:53.037Z"
 }
