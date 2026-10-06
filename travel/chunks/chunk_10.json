@@ -1246,5 +1246,31 @@
     "published_at": "Tue, 06 Oct 2026 09:18:45 +0700",
     "createAt": "2026-10-06T02:18:45.000Z",
     "thumbnail_blurhash": "LPIi5|.9ETtS%%IUM{s:tnt4s,WA"
+  },
+  {
+    "id": "https://vnexpress.net/nghe-si-quang-thang-me-banh-mi-que-tuoi-tho-5128823.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Nghệ sĩ Quang Thắng mê bánh mì que tuổi thơ",
+    "description": "Nghệ sĩ Quang Thắng cho biết khi đói, anh có thể ăn liền 15 ổ bánh mì que Hải Phòng, trong tập 2 show thực tế \"Sao Chọn\".",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/10/06/cnt05176-1791253596-6434-1791253728.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=NQHHYwcgG5G2oXsvtlT82w",
+    "link": "https://vnexpress.net/nghe-si-quang-thang-me-banh-mi-que-tuoi-tho-5128823.html",
+    "published_at": "Tue, 06 Oct 2026 12:00:00 +0700",
+    "createAt": "2026-10-06T05:00:00.000Z",
+    "thumbnail_blurhash": "LAN8?D0yC%-oC4%#~WD%TeRP#Sxu"
+  },
+  {
+    "id": "https://vnexpress.net/bo-bi-chi-trich-vi-cho-con-7-tuoi-lap-ky-luc-leo-nui-5128753.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Bố bị chỉ trích vì cho con 7 tuổi lập kỷ lục leo núi",
+    "description": "Ông bố đưa con trai 7 tuổi chinh phục vách đá hoa cương lớn nhất thế giới và bị cộng đồng mạng chỉ trích vì cách nuôi dạy trẻ nhỏ.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/10/05/tai-xuongt211713-1791209844-1314-1791209971.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=uyTBcGkgu1vloc0XZ4xFMQ",
+    "link": "https://vnexpress.net/bo-bi-chi-trich-vi-cho-con-7-tuoi-lap-ky-luc-leo-nui-5128753.html",
+    "published_at": "Tue, 06 Oct 2026 12:07:11 +0700",
+    "createAt": "2026-10-06T05:07:11.000Z",
+    "thumbnail_blurhash": "L8Iqu$Oq#$0100D$9bxa00-q-?~V"
   }
 ]
