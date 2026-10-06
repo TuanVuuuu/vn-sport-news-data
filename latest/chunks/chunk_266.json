@@ -1259,5 +1259,44 @@
     "published_at": "Tue, 06 Oct 2026 19:24:07 +0700",
     "createAt": "2026-10-06T12:24:07.000Z",
     "thumbnail_blurhash": "LKHd=:s,589%~3Wq=?Iu%IoI-iWs"
+  },
+  {
+    "id": "https://vnexpress.net/bo-tai-chinh-yeu-cau-lam-ro-go-mao-danh-lap-doanh-nghiep-mat-vai-nam-5129157.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Bộ Tài chính yêu cầu làm rõ 'gỡ mạo danh lập doanh nghiệp mất vài năm'",
+    "description": "Thứ trưởng Nguyễn Đức Chi yêu cầu làm rõ phản ánh của nhiều người bị mạo danh lập doanh nghiệp nhưng mất 3-4 năm chưa được giải quyết, ảnh hưởng quyền lợi cá nhân.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/06/wm14-wm14-thtrngjpg-1791278411-3667-1791281175.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=50W4QV-N-uGJ7iCO9FVQdQ",
+    "link": "https://vnexpress.net/bo-tai-chinh-yeu-cau-lam-ro-go-mao-danh-lap-doanh-nghiep-mat-vai-nam-5129157.html",
+    "published_at": "Tue, 06 Oct 2026 18:34:46 +0700",
+    "createAt": "2026-10-06T11:34:46.000Z",
+    "thumbnail_blurhash": "LrJ+GoS#Iot8.TShb_kX-nXSxaXQ"
+  },
+  {
+    "id": "https://vnexpress.net/chuyen-di-lac-theo-google-maps-cua-du-khach-anh-o-quang-ngai-5129057.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Chuyến đi lạc theo Google Maps của du khách Anh ở Quảng Ngãi",
+    "description": "Barry Mattacott, 63 tuổi, chạy môtô từ Quy Nhơn ra Đà Nẵng rồi lạc vào đường núi trước khi được người dân và cảnh sát giúp vá xe, dẫn đường.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/10/06/img-jpeg-1791286156-3879-1791288382.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=D3wAWw59Ah0XmAZI_DQ3PQ",
+    "link": "https://vnexpress.net/chuyen-di-lac-theo-google-maps-cua-du-khach-anh-o-quang-ngai-5129057.html",
+    "published_at": "Tue, 06 Oct 2026 19:06:21 +0700",
+    "createAt": "2026-10-06T12:06:21.000Z",
+    "thumbnail_blurhash": "LSGI$KRO-:%0GKoGD*RkKTxut5bJ"
+  },
+  {
+    "id": "https://vnexpress.net/thanh-pho-nao-giau-co-nhat-the-gioi-5129162.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Thành phố nào giàu có nhất thế giới?",
+    "description": "Trung bình GDP đầu người ở thành phố này đạt gần 240.000 USD, cao nhất thế giới. Bạn nghĩ đó là New York, San Jose hay San Francisco?",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/06/sanjosecalifornia3821x19467796-6472-5381-1791281373.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=h_hbi_MUzMJAszQ6rmFpZg",
+    "link": "https://vnexpress.net/thanh-pho-nao-giau-co-nhat-the-gioi-5129162.html",
+    "published_at": "Tue, 06 Oct 2026 19:48:51 +0700",
+    "createAt": "2026-10-06T12:48:51.000Z",
+    "thumbnail_blurhash": "L%I~A9t7WAt7?woMWBWVt-a#ayof"
   }
 ]
