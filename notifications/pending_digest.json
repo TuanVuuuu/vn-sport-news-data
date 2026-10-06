@@ -1,6 +1,19 @@
 {
   "featured": [
     {
+      "id": "https://vnexpress.net/duong-day-dung-chat-cam-tao-nac-10-000-tan-heo-the-nao-5129105.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Đường dây dùng chất cấm tạo nạc 10.000 tấn heo thế nào",
+      "description": "Người phụ nữ 37 tuổi bị cáo buộc nhập salbutamol từ Thái Lan, Campuchia, bán cho các hộ chăn nuôi trộn vào thức ăn nhằm giúp heo săn chắc, nhiều nạc.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/06/20261006155340-1791276836-8523-1791277084.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=sNB0FclYH3XsayGzTPQZnw",
+      "link": "https://vnexpress.net/duong-day-dung-chat-cam-tao-nac-10-000-tan-heo-the-nao-5129105.html",
+      "published_at": "Tue, 06 Oct 2026 17:34:14 +0700",
+      "createAt": "2026-10-06T10:34:14.000Z",
+      "thumbnail_blurhash": "LHEVpT-;-p~qu5-;%gTJKP%hxcRO"
+    },
+    {
       "id": "https://vnexpress.net/sam-altman-the-gioi-nen-chap-nhan-nhung-dieu-toi-te-cua-ai-5129146.html",
       "category_id": "featured",
       "category_name": "Tin nổi bật",
@@ -12,6 +25,45 @@
       "published_at": "Tue, 06 Oct 2026 17:42:26 +0700",
       "createAt": "2026-10-06T10:42:26.000Z",
       "thumbnail_blurhash": "L59@F,^j000Kzm-WTg4-D$Mx%2_4"
+    },
+    {
+      "id": "https://vnexpress.net/trung-uong-ban-quy-dinh-dang-vien-tham-gia-dau-tu-kinh-doanh-5129045.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Trung ương bàn quy định đảng viên tham gia đầu tư, kinh doanh",
+      "description": "Trong ngày làm việc thứ hai, Hội nghị Trung ương 4 khóa 14 thảo luận quy định về đảng viên tham gia đầu tư, kinh doanh, thay thế quy định đảng viên làm kinh tế tư nhân.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/06/20261005-hntw4-km-1791268357-3361-1791268427.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=DB9MeXfA6B0Aa1XkAjsZ0w",
+      "link": "https://vnexpress.net/trung-uong-ban-quy-dinh-dang-vien-tham-gia-dau-tu-kinh-doanh-5129045.html",
+      "published_at": "Tue, 06 Oct 2026 18:05:23 +0700",
+      "createAt": "2026-10-06T11:05:23.000Z",
+      "thumbnail_blurhash": "LNJ?Nx%$b]M}~V%N-B9_-;tRjFRQ"
+    },
+    {
+      "id": "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-chu-tri-le-don-tong-thong-panama-5129167.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Tổng Bí thư, Chủ tịch nước chủ trì lễ đón Tổng thống Panama",
+      "description": "Tổng Bí thư, Chủ tịch nước Tô Lâm và phu nhân chủ trì lễ đón Tổng thống Panama Jose Raul Mulino và phu nhân thăm chính thức Việt Nam.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/06/tong-bi-thu-chu-tich-nuoc-to-l-4317-7091-1791283925.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=Gboj3HQD-VYR26007B4Z8A",
+      "link": "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-chu-tri-le-don-tong-thong-panama-5129167.html",
+      "published_at": "Tue, 06 Oct 2026 18:21:16 +0700",
+      "createAt": "2026-10-06T11:21:16.000Z",
+      "thumbnail_blurhash": "LPHeg{_MyD=}-xEJRln5==RQ9aIV"
+    },
+    {
+      "id": "https://vnexpress.net/gian-khoan-rach-xuyen-tam-do-gay-ket-xe-duong-ven-kenh-nhieu-loc-5129022.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Giàn khoan rạch Xuyên Tâm đổ gây kẹt xe đường ven kênh Nhiêu Lộc",
+      "description": "Thiết bị khoan cao hơn 10 m, nặng hàng chục tấn, phục vụ thi công rạch Xuyên Tâm bị đổ, chắn đường Bùi Hữu Nghĩa, khiến lực lượng chức năng phong tỏa hiện trường, giao thông ùn tắc.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/06/2aobor3cuktpd42rfvmhlymawad0weemp66fti9i-1791285514.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=qwG_Wj1P2xQRuNiCiwtDdA",
+      "link": "https://vnexpress.net/gian-khoan-rach-xuyen-tam-do-gay-ket-xe-duong-ven-kenh-nhieu-loc-5129022.html",
+      "published_at": "Tue, 06 Oct 2026 18:23:40 +0700",
+      "createAt": "2026-10-06T11:23:40.000Z",
+      "thumbnail_blurhash": "LVAl|]ofR%jv?Kj[axay%5f5j[ay"
     }
   ]
 }
