@@ -804,5 +804,31 @@
     "published_at": "Tue, 06 Oct 2026 14:00:00 +0700",
     "createAt": "2026-10-06T07:00:00.000Z",
     "thumbnail_blurhash": "LEMGnsiyM|xu~XtRNGRj?bxGRPbH"
+  },
+  {
+    "id": "https://vnexpress.net/nguyen-truong-quy-viet-ve-nhung-dau-van-tay-cua-ha-noi-5128051.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Nguyễn Trương Quý viết về những 'dấu vân tay' của Hà Nội",
+    "description": "Nhà văn Trương Quý khai thác những chuyện phía sau câu ''Hàng Đào lụa đỏ, Hàng Ngang áo xanh'', trong sách ''Dấu vân tay của phố''.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/10/06/dau-van-tay-cua-pho-1791272884-7559-1791273717.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=NxikHKnOZi6iC6pXEv-GgQ",
+    "link": "https://vnexpress.net/nguyen-truong-quy-viet-ve-nhung-dau-van-tay-cua-ha-noi-5128051.html",
+    "published_at": "Tue, 06 Oct 2026 16:24:22 +0700",
+    "createAt": "2026-10-06T09:24:22.000Z",
+    "thumbnail_blurhash": "LDKA.-dV00IA02~Vsrxb.R58R-NH"
+  },
+  {
+    "id": "https://vnexpress.net/ra-mat-khong-gian-nghe-thuat-saigon-art-hub-5123900.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Ra mắt không gian nghệ thuật Saigon Art Hub",
+    "description": "Saigon Art Hub mở màn với sân khấu mô phỏng một công trình đang thành hình, quy tụ các nghệ sĩ thể nghiệm múa đương đại, âm nhạc giao thoa Đông - Tây.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/09/29/825268183-n-jfif-1790658537-5947-1790658877.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=PZp7MiAetPUq7r-9egTr7Q",
+    "link": "https://vnexpress.net/ra-mat-khong-gian-nghe-thuat-saigon-art-hub-5123900.html",
+    "published_at": "Tue, 06 Oct 2026 16:25:46 +0700",
+    "createAt": "2026-10-06T09:25:46.000Z",
+    "thumbnail_blurhash": "LACV}Dr@1^X7w{o2Wpso1wf*|wnj"
   }
 ]
