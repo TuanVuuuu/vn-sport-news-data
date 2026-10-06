@@ -271,5 +271,31 @@
     "published_at": "Tue, 06 Oct 2026 08:40:10 +0700",
     "createAt": "2026-10-06T01:40:10.000Z",
     "thumbnail_blurhash": "LOELvi~UoIIV%0s*R+bcE3IpWYkW"
+  },
+  {
+    "id": "https://vnexpress.net/ai-hien-than-de-buoc-chan-vao-doi-thuc-5128406.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "AI 'hiện thân' để bước chân vào đời thực",
+    "description": "Trí tuệ nhân tạo hiện thân (Embodied AI) được xem là bước tiếp theo để AI tiến vào thế giới vật lý, nhưng vẫn còn rào cản dữ liệu.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/05/20260928fb09138c57f24c18bf896c-2103-1908-1791195222.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=zuZjx2RGWFjlhCMPqkTsIA",
+    "link": "https://vnexpress.net/ai-hien-than-de-buoc-chan-vao-doi-thuc-5128406.html",
+    "published_at": "Tue, 06 Oct 2026 10:00:00 +0700",
+    "createAt": "2026-10-06T03:00:00.000Z",
+    "thumbnail_blurhash": "LPEyoY_NjY%2.8WUROV??bxvj]ad"
+  },
+  {
+    "id": "https://vnexpress.net/tech-awards-2026-mo-cong-nhan-dang-ky-de-cu-5128893.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Tech Awards 2026 mở cổng nhận đăng ký đề cử",
+    "description": "Chương trình Bình chọn Công nghệ Tech Awards 2026 bắt đầu mở cổng để các đơn vị tự ứng cử sản phẩm, dịch vụ, thương hiệu tại 11 hạng mục.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/06/wm1-wm1-a2-1791256139-9328-1791256900.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=oRkRvgi_RycScIkt-K7WBg",
+    "link": "https://vnexpress.net/tech-awards-2026-mo-cong-nhan-dang-ky-de-cu-5128893.html",
+    "published_at": "Tue, 06 Oct 2026 10:39:50 +0700",
+    "createAt": "2026-10-06T03:39:50.000Z",
+    "thumbnail_blurhash": "LULqbH-:9X-@xtR+WFt6D*ofxtM}"
   }
 ]
