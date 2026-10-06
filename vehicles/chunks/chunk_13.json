@@ -661,5 +661,31 @@
     "published_at": "Tue, 06 Oct 2026 06:00:00 +0700",
     "createAt": "2026-10-05T23:00:00.000Z",
     "thumbnail_blurhash": "LDDl.z%%9FD#_4?dRkD#I^-=%MMw"
+  },
+  {
+    "id": "https://vnexpress.net/15-hang-ban-xe-dien-hoa-nhieu-nhat-dong-nam-a-5128377.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "15 hãng bán xe điện hóa nhiều nhất Đông Nam Á",
+    "description": "Trong 15 thương hiệu bán nhiều xe điện hóa nhất nửa đầu 2026 ở ASEAN, VinFast dẫn đầu, xe Trung Quốc chiếm đến 8.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/05/vf3vnexpressjpg-1791190741-9568-1791191011.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=2-LZcxUqQ4UMYK7jaW1tXA",
+    "link": "https://vnexpress.net/15-hang-ban-xe-dien-hoa-nhieu-nhat-dong-nam-a-5128377.html",
+    "published_at": "Tue, 06 Oct 2026 05:33:00 +0700",
+    "createAt": "2026-10-05T22:33:00.000Z",
+    "thumbnail_blurhash": "L5C6.C?b0000OSo#IU~q4Txt.9~q"
+  },
+  {
+    "id": "https://vnexpress.net/nhieu-tai-xe-nam-ngu-mac-oto-tu-lai-tren-duong-di-nghi-le-5128582.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Nhiều tài xế nằm ngủ mặc ôtô tự lái trên đường đi nghỉ lễ",
+    "description": "Một số tài xế bị ghi lại cảnh gục đầu ngủ trong khi chiếc xe tự lái trên cao tốc làm dấy lên lo ngại về an toàn.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/06/Robotaxi4179118834217211791188-5366-4318-1791252321.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=zJBTRJEJ2P48HQXx455xDA",
+    "link": "https://vnexpress.net/nhieu-tai-xe-nam-ngu-mac-oto-tu-lai-tren-duong-di-nghi-le-5128582.html",
+    "published_at": "Tue, 06 Oct 2026 09:05:21 +0700",
+    "createAt": "2026-10-06T02:05:21.000Z",
+    "thumbnail_blurhash": "LFDU9[%gRQx]4TtRoMtR?^tRt7a{"
   }
 ]
