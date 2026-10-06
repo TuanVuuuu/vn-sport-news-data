@@ -674,5 +674,57 @@
     "published_at": "Tue, 06 Oct 2026 13:22:45 +0700",
     "createAt": "2026-10-06T06:22:45.000Z",
     "thumbnail_blurhash": "LuKUA+?c?aV@_M%Mo#R+SiofV?jY"
+  },
+  {
+    "id": "https://vnexpress.net/vu-an-thai-thien-phuong-phap-y-xac-nhan-noi-canh-chua-dau-vet-nan-nhan-5129007.html",
+    "category_id": "law",
+    "category_name": "Pháp luật",
+    "source": "VnExpress",
+    "title": "Vụ án Thái Thiên Phượng: Pháp y xác nhận nồi canh chứa dấu vết nạn nhân",
+    "description": "Kết quả xét nghiệm pháp y xác nhận trong hai nồi canh rau củ đang nấu trên bếp tại hiện trường có phần mô cơ thể của Thái Thiên Phượng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/06/4f2aecef750adb96352a46d993ce4d-2560-2735-1791262340.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=QdtmhGBK9XbUP8skEaoOsA",
+    "link": "https://vnexpress.net/vu-an-thai-thien-phuong-phap-y-xac-nhan-noi-canh-chua-dau-vet-nan-nhan-5129007.html",
+    "published_at": "Tue, 06 Oct 2026 12:27:07 +0700",
+    "createAt": "2026-10-06T05:27:07.000Z",
+    "thumbnail_blurhash": "L8B3g1?w%0tR4:RjWst700D$s.Rj"
+  },
+  {
+    "id": "https://vnexpress.net/co-vo-my-khai-ban-chong-vi-de-sung-bua-bai-khi-nha-co-tre-nho-5129036.html",
+    "category_id": "law",
+    "category_name": "Pháp luật",
+    "source": "VnExpress",
+    "title": "Cô vợ Mỹ khai bắn chồng vì để súng bừa bãi khi nhà có trẻ nhỏ",
+    "description": "Nghi phạm khai bực bội vì chồng để súng trên bàn ăn dù đã được nhắc nhiều lần nên bắn anh này để 'dạy cho một bài học' về an toàn súng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/06/unsecuredgunindrawerathome-179-3124-9330-1791266495.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=LAwuY0Gfc2qVxYw1-FbaWQ",
+    "link": "https://vnexpress.net/co-vo-my-khai-ban-chong-vi-de-sung-bua-bai-khi-nha-co-tre-nho-5129036.html",
+    "published_at": "Tue, 06 Oct 2026 15:03:29 +0700",
+    "createAt": "2026-10-06T08:03:29.000Z",
+    "thumbnail_blurhash": "LTKSt=Me%f9[IV~Bi_S~0zS~R6-A"
+  },
+  {
+    "id": "https://vnexpress.net/bien-banh-keo-troi-noi-thanh-hang-co-ma-vach-nuoc-ngoai-5129094.html",
+    "category_id": "law",
+    "category_name": "Pháp luật",
+    "source": "VnExpress",
+    "title": "Biến bánh kẹo trôi nổi thành hàng có mã vạch nước ngoài",
+    "description": "Nguyễn Quang Đạt mua hàng nghìn thùng bánh kẹo nguyên liệu trôi nổi về tự đóng gói, in mã vạch sản phẩm có nguồn gốc từ Hàn Quốc, Nhật Bản, Thái Lan.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/06/1-jpeg-1791273960-7108-1791274141.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Cy3Q2uXN3ea8tf9ZAn5N9g",
+    "link": "https://vnexpress.net/bien-banh-keo-troi-noi-thanh-hang-co-ma-vach-nuoc-ngoai-5129094.html",
+    "published_at": "Tue, 06 Oct 2026 15:26:11 +0700",
+    "createAt": "2026-10-06T08:26:11.000Z",
+    "thumbnail_blurhash": "LBF}}]sw2vxJ5P--+wI;Dh9WDP$^"
+  },
+  {
+    "id": "https://vnexpress.net/xem-livestream-thay-vo-uong-bia-mai-khong-ve-chong-dot-nha-5129090.html",
+    "category_id": "law",
+    "category_name": "Pháp luật",
+    "source": "VnExpress",
+    "title": "Xem livestream thấy vợ uống bia mãi không về, chồng đốt nhà",
+    "description": "Thấy vợ uống bia, nhảy múa tại tiệc liên hoan rồi không chịu về, Y Chương Byă, 21 tuổi, tức giận đập phá tài sản và tưới xăng đốt nhà.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/06/z834365564906332ba1ac82443238e-8411-4803-1791274567.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=aasnf0F3n_5z9YmYLRy55g",
+    "link": "https://vnexpress.net/xem-livestream-thay-vo-uong-bia-mai-khong-ve-chong-dot-nha-5129090.html",
+    "published_at": "Tue, 06 Oct 2026 15:35:00 +0700",
+    "createAt": "2026-10-06T08:35:00.000Z",
+    "thumbnail_blurhash": "LDEC5q+byPCL}=+vyC5*Hrv~%M9v"
   }
 ]
