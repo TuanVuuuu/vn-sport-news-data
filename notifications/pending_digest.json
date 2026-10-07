@@ -1,3 +1,82 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/thao-do-hang-quan-o-bai-tam-da-nhay-5129206.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Tháo dỡ hàng quán ở bãi tắm Đá Nhảy",
+      "description": "14 hàng quán tại bãi tắm Đá Nhảy, xã Bắc Trạch, được các hộ kinh doanh tự tháo dỡ, bàn giao mặt bằng cho chính quyền sau kết luận của Thanh tra Chính phủ.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/07/anh-1791340274.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=d9o8sVGnaqmH8ulHqBoXfQ",
+      "link": "https://vnexpress.net/thao-do-hang-quan-o-bai-tam-da-nhay-5129206.html",
+      "published_at": "Wed, 07 Oct 2026 09:57:12 +0700",
+      "createAt": "2026-10-07T02:57:12.000Z",
+      "thumbnail_blurhash": "LpFF~#M|V[ozt:s:RikClCs,ogbI"
+    },
+    {
+      "id": "https://vnexpress.net/ly-do-ha-noi-dan-dau-chi-so-doi-moi-sang-tao-bon-nam-lien-5129086.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Lý do Hà Nội dẫn đầu chỉ số đổi mới sáng tạo bốn năm liền",
+      "description": "Nguồn nhân lực, nền tảng thị trường và nhiều lợi thế về nghiên cứu, phát triển, giúp Hà Nội bốn năm dẫn đầu Chỉ số đổi mới sáng tạo địa phương (PII).",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/06/2aobor34wlckgptbtumegccdglmyyj-4909-4840-1791282861.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=ClBf0ah9nikpiYTm-_RKjg",
+      "link": "https://vnexpress.net/ly-do-ha-noi-dan-dau-chi-so-doi-moi-sang-tao-bon-nam-lien-5129086.html",
+      "published_at": "Wed, 07 Oct 2026 11:04:58 +0700",
+      "createAt": "2026-10-07T04:04:58.000Z",
+      "thumbnail_blurhash": "LQF6w$X=IAI_pfNKvyxvbxNMV_x^"
+    },
+    {
+      "id": "https://vnexpress.net/quan-chinh-phu-yemen-lao-thiet-giap-vao-chien-binh-houthi-5129345.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Quân chính phủ Yemen lao thiết giáp vào chiến binh Houthi",
+      "description": "Quân chính phủ Yemen hứng chỉ trích khi đăng video lái xe bọc thép lao qua các chiến binh Houthi bị bao vây trong chiến dịch tấn công ở tỉnh Taiz.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/07/anh-1791345870-6785-1791345973.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=KLtkzCm-nN9HRSmHzHnUJg",
+      "link": "https://vnexpress.net/quan-chinh-phu-yemen-lao-thiet-giap-vao-chien-binh-houthi-5129345.html",
+      "published_at": "Wed, 07 Oct 2026 11:06:46 +0700",
+      "createAt": "2026-10-07T04:06:46.000Z",
+      "thumbnail_blurhash": "LUH2+k_3Rjxtt:M{t6bcAfN0aeRk"
+    },
+    {
+      "id": "https://vnexpress.net/cuoc-chien-vo-hinh-tai-ukraine-thay-doi-tu-duy-quan-su-toan-cau-5129281.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "'Cuộc chiến vô hình' tại Ukraine thay đổi tư duy quân sự toàn cầu",
+      "description": "Những gì đang diễn ra tại Ukraine cho thấy tác chiến điện tử là yếu tố sống còn trong chiến tranh hiện đại, buộc loạt quốc gia phải thay đổi tư duy quân sự.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/07/a1-1791345487-4295-1791345502.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=rAyAa72fdXZZTqrgsLI54g",
+      "link": "https://vnexpress.net/cuoc-chien-vo-hinh-tai-ukraine-thay-doi-tu-duy-quan-su-toan-cau-5129281.html",
+      "published_at": "Wed, 07 Oct 2026 11:54:43 +0700",
+      "createAt": "2026-10-07T04:54:43.000Z",
+      "thumbnail_blurhash": "LNFi76a1OAbF~pIVxtxY%LWFRjR*"
+    },
+    {
+      "id": "https://vnexpress.net/giam-doc-intel-dung-de-ai-tu-duy-va-quyet-dinh-thay-minh-5128610.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Giám đốc Intel: 'Đừng để AI tư duy và quyết định thay mình'",
+      "description": "Con người cần giữ sự chủ động để tránh bị suy giảm năng lực vì lạm dụng AI, theo Tổng giám đốc Intel Đông Nam Á George Chacko.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/05/intel-jfif-1791189379-3364-1791189895.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=gm-rRr9PTOeWbe9UlXBwGg",
+      "link": "https://vnexpress.net/giam-doc-intel-dung-de-ai-tu-duy-va-quyet-dinh-thay-minh-5128610.html",
+      "published_at": "Wed, 07 Oct 2026 12:00:00 +0700",
+      "createAt": "2026-10-07T05:00:00.000Z",
+      "thumbnail_blurhash": "LjFY.kF*NLiu-;IWRPaLNEnzV?bJ"
+    },
+    {
+      "id": "https://vnexpress.net/dung-so-bao-hiem-xa-hoi-the-bao-hiem-y-te-dien-tu-the-nao-5129396.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Dùng sổ bảo hiểm xã hội, thẻ bảo hiểm y tế điện tử thế nào?",
+      "description": "Người tham gia có thể sử dụng sổ BHXH, thẻ BHYT điện tử trên VssID, VNeID mức 2 hoặc bản được gửi qua email để làm thủ tục hưởng chế độ, khám chữa bệnh.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/07/sobhxh-1791344603-9970-1791345111.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ytfNIfoqfJV-YtaYS_vIag",
+      "link": "https://vnexpress.net/dung-so-bao-hiem-xa-hoi-the-bao-hiem-y-te-dien-tu-the-nao-5129396.html",
+      "published_at": "Wed, 07 Oct 2026 12:03:41 +0700",
+      "createAt": "2026-10-07T05:03:41.000Z",
+      "thumbnail_blurhash": "LGJ]Db-1DO}s17A3yUE*4sMhs%O="
+    }
+  ]
 }
