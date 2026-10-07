@@ -700,5 +700,31 @@
     "published_at": "Wed, 07 Oct 2026 16:10:27 +0700",
     "createAt": "2026-10-07T09:10:27.000Z",
     "thumbnail_blurhash": "LQGIS{~A~8%Ms,Ngt8WEn+%JX9kB"
+  },
+  {
+    "id": "https://vnexpress.net/nhieu-nang-chen-ep-than-nguoi-phu-nu-5129534.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Nhiều nang chèn ép thận người phụ nữ",
+    "description": "Bà Liên, 56 tuổi, có nhiều nang rải rác kích thước 4-8 cm chèn ép đài bể thận, được bác sĩ phẫu thuật bảo tồn thận.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/07/pr-1791360032-7833-1791360095.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=rHWF2ulJtToqc05Y0H0npQ",
+    "link": "https://vnexpress.net/nhieu-nang-chen-ep-than-nguoi-phu-nu-5129534.html",
+    "published_at": "Wed, 07 Oct 2026 17:00:00 +0700",
+    "createAt": "2026-10-07T10:00:00.000Z",
+    "thumbnail_blurhash": "LwLX}qt8bJS6~UoJoeoe%1WWWBod"
+  },
+  {
+    "id": "https://vnexpress.net/ba-thoi-quen-buoi-toi-khong-co-loi-cho-chieu-cao-cua-tre-5129432.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Ba thói quen buổi tối không có lợi cho chiều cao của trẻ",
+    "description": "Ăn tối thiếu chất, ngồi học sai tư thế, dùng điện thoại và ngủ muộn có thể ảnh hưởng đến giấc ngủ, quá trình phát triển chiều cao của trẻ.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/07/chieu-cao-1791364001-2540-1791364702.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=O-Pt8YcAu2cg5iP1eo55bg",
+    "link": "https://vnexpress.net/ba-thoi-quen-buoi-toi-khong-co-loi-cho-chieu-cao-cua-tre-5129432.html",
+    "published_at": "Wed, 07 Oct 2026 17:00:00 +0700",
+    "createAt": "2026-10-07T10:00:00.000Z",
+    "thumbnail_blurhash": "LlN,PltS_N-pXlW=-pniWEaxoJkB"
   }
 ]
