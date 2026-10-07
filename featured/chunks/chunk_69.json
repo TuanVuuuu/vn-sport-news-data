@@ -1012,5 +1012,57 @@
     "published_at": "Wed, 07 Oct 2026 18:22:52 +0700",
     "createAt": "2026-10-07T11:22:52.000Z",
     "thumbnail_blurhash": "LJHK|U8^?tx_~AagNdt7M_ozogWA"
+  },
+  {
+    "id": "https://vnexpress.net/sap-o-vang-nam-cong-nhan-tu-vong-5129611.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Sập ô văng, nam công nhân tử vong",
+    "description": "Trong lúc thi công dãy ki-ốt ven đường Lê Duẩn, ô văng nặng nhiều tấn bất ngờ sập, đè chết nam công nhân 36 tuổi, chiều 7/10.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/07/2aOboR3qKnksuneICvejbdIaDoI8Ms-6460-4416-1791368314.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=iZa4kDZvalonpidekuwwyA",
+    "link": "https://vnexpress.net/sap-o-vang-nam-cong-nhan-tu-vong-5129611.html",
+    "published_at": "Wed, 07 Oct 2026 17:35:56 +0700",
+    "createAt": "2026-10-07T10:35:56.000Z",
+    "thumbnail_blurhash": "LBGbxHVs00-;00?wNKITnh4Togx]"
+  },
+  {
+    "id": "https://vnexpress.net/mo-hinh-cua-openai-giai-mat-thu-217-nam-cua-napoleon-5129006.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Mô hình của OpenAI giải mật thư 217 năm của Napoleon",
+    "description": "Mô hình GPT-6 Astra của OpenAI chỉ mất 6 giờ để phá giải bức mật thư từng khiến các chuyên gia đau đầu suốt hàng trăm năm.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/06/VNECode-1791262473-7184-1791262540.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=mg3Unh1EuOQ9yNDm4kKE2A",
+    "link": "https://vnexpress.net/mo-hinh-cua-openai-giai-mat-thu-217-nam-cua-napoleon-5129006.html",
+    "published_at": "Wed, 07 Oct 2026 19:00:00 +0700",
+    "createAt": "2026-10-07T12:00:00.000Z",
+    "thumbnail_blurhash": "L6BfIY-:000100E1~W?bF|X9=Yn3"
+  },
+  {
+    "id": "https://vnexpress.net/mua-lon-gio-tan-tam-giao-thong-tp-hcm-roi-loan-5129632.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Mưa lớn giờ tan tầm, giao thông TP HCM rối loạn",
+    "description": "Mưa lớn kéo dài chiều 7/10 khiến nhiều tuyến đường trung tâm TP HCM ùn tắc, một số khu vực ngập sâu, xe chết máy, người dân chật vật về nhà.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/07/ngap-2-1791376715.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=HM1GAeSYjwyiHY4YZSc2ig",
+    "link": "https://vnexpress.net/mua-lon-gio-tan-tam-giao-thong-tp-hcm-roi-loan-5129632.html",
+    "published_at": "Wed, 07 Oct 2026 19:05:28 +0700",
+    "createAt": "2026-10-07T12:05:28.000Z",
+    "thumbnail_blurhash": "L7EyJR5Q00xK_4R300%i00aJg5-="
+  },
+  {
+    "id": "https://vnexpress.net/san-bay-long-thanh-dien-tap-don-chuyen-bay-tu-vung-dich-5129641.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Sân bay Long Thành diễn tập đón chuyến bay từ vùng dịch",
+    "description": "Trước khi khai thác một phần cuối tháng 12, sân bay Long Thành diễn tập tình huống tiếp nhận chuyến bay từ vùng có dịch bệnh để kiểm tra quy trình vận hành.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/07/2aOboR3rfDQMbJBzZittY4df4Ic8hx-4073-8216-1791374066.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=yTaCWXgZodkrTSTqyulUaA",
+    "link": "https://vnexpress.net/san-bay-long-thanh-dien-tap-don-chuyen-bay-tu-vung-dich-5129641.html",
+    "published_at": "Wed, 07 Oct 2026 19:29:28 +0700",
+    "createAt": "2026-10-07T12:29:28.000Z",
+    "thumbnail_blurhash": "LACuSQaS.n_0T_%$8{%z~2MITzXo"
   }
 ]
