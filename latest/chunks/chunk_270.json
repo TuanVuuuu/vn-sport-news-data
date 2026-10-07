@@ -544,5 +544,57 @@
     "published_at": "Thu, 08 Oct 2026 04:00:00 +0700",
     "createAt": "2026-10-07T21:00:00.000Z",
     "thumbnail_blurhash": "LVL.a]~8t5xE?DWqjZoet5jsNIWC"
+  },
+  {
+    "id": "https://vnexpress.net/khung-hoang-nha-o-don-thu-tuong-tay-ban-nha-den-chan-tuong-5129110.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Khủng hoảng nhà ở dồn Thủ tướng Tây Ban Nha đến chân tường",
+    "description": "Thủ tướng Sanchez buộc phải tuyên bố bầu cử sớm, bởi đây là lối thoát duy nhất với ông khi đối mặt cuộc khủng hoảng nhà ở ngày càng trầm trọng tại Tây Ban Nha.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/07/afp-romanostardao-notitle26100-7470-7524-1791340685.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Q7nLihM_LFKDbIdsZ9_ThQ",
+    "link": "https://vnexpress.net/khung-hoang-nha-o-don-thu-tuong-tay-ban-nha-den-chan-tuong-5129110.html",
+    "published_at": "Thu, 08 Oct 2026 05:00:00 +0700",
+    "createAt": "2026-10-07T22:00:00.000Z",
+    "thumbnail_blurhash": "LBF5aFoz9FM{}?kX4nV@yYaxIUIV"
+  },
+  {
+    "id": "https://vnexpress.net/tp-hcm-dinh-song-chung-voi-ngap-the-nao-5129043.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "TP HCM định sống chung với ngập thế nào",
+    "description": "Sau hơn hai thập kỷ theo đuổi mục tiêu xóa ngập triệt để, trong tầm nhìn quy hoạch mới, TP HCM chuyển đổi tư duy sang \"quản lý rủi ro ngập ở mức chấp nhận được\".",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/06/top-1791271173-2026-1791271188.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=gHLmsRv-OZhkNN_grAuEeA",
+    "link": "https://vnexpress.net/tp-hcm-dinh-song-chung-voi-ngap-the-nao-5129043.html",
+    "published_at": "Thu, 08 Oct 2026 05:00:00 +0700",
+    "createAt": "2026-10-07T22:00:00.000Z",
+    "thumbnail_blurhash": "LNQ0gj~CyWS}~DE1xttQOsxXZ$kC"
+  },
+  {
+    "id": "https://vnexpress.net/can-vao-buoi-sang-hay-toi-cho-ket-qua-that-nhat-5128607.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Cân vào buổi sáng hay tối cho kết quả thật nhất?",
+    "description": "Sáng ngủ dậy tôi cân được 50 kg, đến tối cân lại tăng 1-2 kg dù tôi không ăn quá nhiều. Vậy đâu mới là kết quả thật, có phải tôi đang tăng cân thật không? (Yến, 39 tuổi, Hà Nội)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/05/screenshot-1791189974-8761-1791190017.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=XVOs__vI0Gyq_yCy3_4zvA",
+    "link": "https://vnexpress.net/can-vao-buoi-sang-hay-toi-cho-ket-qua-that-nhat-5128607.html",
+    "published_at": "Thu, 08 Oct 2026 05:00:00 +0700",
+    "createAt": "2026-10-07T22:00:00.000Z",
+    "thumbnail_blurhash": "LGF5y_?w0$xuxGV@Rijt0LM_=wV@"
+  },
+  {
+    "id": "https://vnexpress.net/xe-tai-cho-pin-cuu-canh-cho-oto-dien-khi-tram-sac-vo-tran-5128920.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Xe tải chở pin - cứu cánh cho ôtô điện khi trạm sạc vỡ trận",
+    "description": "Xe tải trang bị pin dung lượng cao trở thành cục sạc khổng lồ giúp giải quyết tình trạng ùn tắc ở các trạm sạc dịp nghỉ lễ.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/06/Charging1-1791274692-2783-1791275588.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=jv05HhU5WMNasZrDyYAs7w",
+    "link": "https://vnexpress.net/xe-tai-cho-pin-cuu-canh-cho-oto-dien-khi-tram-sac-vo-tran-5128920.html",
+    "published_at": "Thu, 08 Oct 2026 05:00:00 +0700",
+    "createAt": "2026-10-07T22:00:00.000Z",
+    "thumbnail_blurhash": "LBGbu4v~^+^*NdxaR6Rl_Mo#iwNd"
   }
 ]
