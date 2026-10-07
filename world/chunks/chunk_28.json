@@ -947,5 +947,31 @@
     "published_at": "Wed, 07 Oct 2026 09:46:50 +0700",
     "createAt": "2026-10-07T02:46:50.000Z",
     "thumbnail_blurhash": "LgEN6k%htSRO?wofa#V@jDRPRjbI"
+  },
+  {
+    "id": "https://vnexpress.net/250-000-nguoi-xuong-duong-bieu-tinh-khap-nuoc-phap-5129318.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "250.000 người xuống đường biểu tình khắp nước Pháp",
+    "description": "Các cuộc biểu tình bùng lên khắp nước Pháp để yêu cầu cải cách giáo dục phổ thông, buộc cảnh sát phải sử dụng hơi cay để kiểm soát đám đông.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/07/afp20261006d2en4j4v1highresfra-2765-6620-1791339819.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=hbmbHhc96gdOD91NIz1xPA",
+    "link": "https://vnexpress.net/250-000-nguoi-xuong-duong-bieu-tinh-khap-nuoc-phap-5129318.html",
+    "published_at": "Wed, 07 Oct 2026 09:46:50 +0700",
+    "createAt": "2026-10-07T02:46:50.000Z",
+    "thumbnail_blurhash": "LgEN6k%htSRO?wofa#V@jDRPRjbI"
+  },
+  {
+    "id": "https://vnexpress.net/cuu-trum-tinh-bao-duc-bi-bat-vi-cao-buoc-phan-quoc-5129337.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Cựu trùm tình báo Đức bị bắt vì cáo buộc phản quốc",
+    "description": "Cựu lãnh đạo cơ quan tình báo Đức bị bắt với cáo buộc phản quốc và gián điệp, sự việc chưa từng có tiền lệ khiến nước này rúng động.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/07/5563187178137269249a-179133970-3352-8638-1791340403.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=THPs9o7aWvpR3uaMDJ125Q",
+    "link": "https://vnexpress.net/cuu-trum-tinh-bao-duc-bi-bat-vi-cao-buoc-phan-quoc-5129337.html",
+    "published_at": "Wed, 07 Oct 2026 10:15:32 +0700",
+    "createAt": "2026-10-07T03:15:32.000Z",
+    "thumbnail_blurhash": "LFEyD8_NACNH~BxuE2WXv|8^v}s."
   }
 ]
