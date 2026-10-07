@@ -336,5 +336,31 @@
     "published_at": "Wed, 07 Oct 2026 16:43:13 +0700",
     "createAt": "2026-10-07T09:43:13.000Z",
     "thumbnail_blurhash": "LOH.7--:xZxuu6xaoft7OtWBW=a}"
+  },
+  {
+    "id": "https://vnexpress.net/trung-uong-ban-tam-nhin-phat-trien-dat-nuoc-den-nam-2130-5129530.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Trung ương bàn tầm nhìn phát triển đất nước đến năm 2130",
+    "description": "Hội nghị Trung ương 4 khóa 14 ngày 7/10 thảo luận đề cương chi tiết báo cáo tổng kết 100 năm Đảng lãnh đạo, định hướng phát triển đất nước giai đoạn 2030-2130.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/07/20261005-hntw4-km-1791363790-9607-1791363809.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=qhwSyhQnP_0HNmhf2NIpsQ",
+    "link": "https://vnexpress.net/trung-uong-ban-tam-nhin-phat-trien-dat-nuoc-den-nam-2130-5129530.html",
+    "published_at": "Wed, 07 Oct 2026 15:56:15 +0700",
+    "createAt": "2026-10-07T08:56:15.000Z",
+    "thumbnail_blurhash": "L2EAvH5Y1P]~00eVEKB:01}?9Y{L"
+  },
+  {
+    "id": "https://vnexpress.net/sap-o-vang-nam-cong-nhan-tu-vong-5129611.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Sập ô văng, nam công nhân tử vong",
+    "description": "Trong lúc thi công dãy ki-ốt ven đường Lê Duẩn, ô văng nặng nhiều tấn bất ngờ sập, đè chết nam công nhân 36 tuổi, chiều 7/10.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/07/2aOboR3qKnksuneICvejbdIaDoI8Ms-6460-4416-1791368314.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=iZa4kDZvalonpidekuwwyA",
+    "link": "https://vnexpress.net/sap-o-vang-nam-cong-nhan-tu-vong-5129611.html",
+    "published_at": "Wed, 07 Oct 2026 17:35:56 +0700",
+    "createAt": "2026-10-07T10:35:56.000Z",
+    "thumbnail_blurhash": "LBGbxHVs00-;00?wNKITnh4Togx]"
   }
 ]
