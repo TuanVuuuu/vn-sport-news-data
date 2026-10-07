@@ -1,6 +1,32 @@
 {
   "featured": [
     {
+      "id": "https://vnexpress.net/kiet-suc-vi-don-loi-ai-5129247.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Kiệt sức vì dọn lỗi AI",
+      "description": "Liên tục sửa dữ liệu bịa đặt và văn bản của AI đến lần thứ sáu khiến Hạ Vy, nhân viên truyền thông tại TP HCM, kiệt sức trí não mà sản phẩm vẫn bị sếp trả về.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/07/20230720T093420Z16898458345471-1416-3310-1791326735.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=89g0uzZJDNQocff5el4jHQ",
+      "link": "https://vnexpress.net/kiet-suc-vi-don-loi-ai-5129247.html",
+      "published_at": "Wed, 07 Oct 2026 06:01:19 +0700",
+      "createAt": "2026-10-06T23:01:19.000Z",
+      "thumbnail_blurhash": "L89QXG?I00-j0oI]$xM_z,~8%h9b"
+    },
+    {
+      "id": "https://vnexpress.net/chay-cua-hang-xe-may-o-tp-hcm-mot-nguoi-chet-5129254.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Cháy cửa hàng xe máy ở TP HCM, một người chết",
+      "description": "Khói lửa kèm tiếng nổ từ cửa hàng xe máy, xe điện ở phường Bình Tân, lan sang nhà dân và dãy trọ, một người chết, hai người bị thương, sáng 7/10.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/07/838742845999492726510024740503-6605-7475-1791332390.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=GP3DB1VMmWWbM36g-Kagxw&t=image",
+      "link": "https://vnexpress.net/chay-cua-hang-xe-may-o-tp-hcm-mot-nguoi-chet-5129254.html",
+      "published_at": "Wed, 07 Oct 2026 06:39:01 +0700",
+      "createAt": "2026-10-06T23:39:01.000Z",
+      "thumbnail_blurhash": "LfIy]]~Akq%K={-oozW=9vR,ofR-"
+    },
+    {
       "id": "https://vnexpress.net/thao-do-hang-quan-o-bai-tam-da-nhay-5129206.html",
       "category_id": "featured",
       "category_name": "Tin nổi bật",
@@ -53,6 +79,19 @@
       "thumbnail_blurhash": "LNFi76a1OAbF~pIVxtxY%LWFRjR*"
     },
     {
+      "id": "https://vnexpress.net/ga-trung-quoc-van-hanh-40-giay-mot-chuyen-trong-cao-diem-tuan-le-vang-5129100.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Ga Trung Quốc vận hành 40 giây một chuyến trong cao điểm Tuần lễ vàng",
+      "description": "Ga Nam Quảng Châu lập kỷ lục quốc gia về phục vụ số lượng khách với tần suất khởi hành dày đặc 40 giây một chuyến.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/06/e1b98db6a7-cb2dc232-1791278025-4024-1791278565.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=OOU8l2FboO0nP--aJ4mGeg",
+      "link": "https://vnexpress.net/ga-trung-quoc-van-hanh-40-giay-mot-chuyen-trong-cao-diem-tuan-le-vang-5129100.html",
+      "published_at": "Wed, 07 Oct 2026 11:59:39 +0700",
+      "createAt": "2026-10-07T04:59:39.000Z",
+      "thumbnail_blurhash": "LMDv[_t7IUt7%%WBt7flo~WVxuof"
+    },
+    {
       "id": "https://vnexpress.net/giam-doc-intel-dung-de-ai-tu-duy-va-quyet-dinh-thay-minh-5128610.html",
       "category_id": "featured",
       "category_name": "Tin nổi bật",
@@ -77,6 +116,45 @@
       "published_at": "Wed, 07 Oct 2026 12:03:41 +0700",
       "createAt": "2026-10-07T05:03:41.000Z",
       "thumbnail_blurhash": "LGJ]Db-1DO}s17A3yUE*4sMhs%O="
+    },
+    {
+      "id": "https://vnexpress.net/bau-doan-lai-qua-bao-nhieu-tien-cho-nhieu-quan-chuc-tinh-thanh-hoa-5129190.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Bầu Đoan 'lại quả' bao nhiêu tiền cho nhiều quan chức tỉnh Thanh Hóa?",
+      "description": "Cựu Bí thư Tỉnh ủy Đỗ Trọng Hưng nhận 150.000 USD, cựu Phó chủ tịch tỉnh Nguyễn Văn Thi nhận 200.000 USD, nhiều cán bộ khác được bầu Đoan đưa tiền hoặc bán đất ngoại giao.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/07/ong-cao-tien-doan-1791344312-4701-1791345836.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=gwZGE1L6jIDXBeE7LaB9gg",
+      "link": "https://vnexpress.net/bau-doan-lai-qua-bao-nhieu-tien-cho-nhieu-quan-chuc-tinh-thanh-hoa-5129190.html",
+      "published_at": "Wed, 07 Oct 2026 12:22:05 +0700",
+      "createAt": "2026-10-07T05:22:05.000Z",
+      "thumbnail_blurhash": "L4AS[NVs00oy00OWu6D*9Er?of%M"
+    },
+    {
+      "id": "https://vnexpress.net/piers-morgan-hlv-jorge-jesus-boi-uoc-ronaldo-5129225.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Piers Morgan: 'HLV Jorge Jesus bội ước Ronaldo'",
+      "description": "Piers Morgan cho rằng Cristiano Ronaldo rời đội tuyển Bồ Đào Nha vì HLV Jorge Jesus nhiều lần thay đổi thỏa thuận về thời gian thi đấu, trong đó có việc để anh khởi động nhưng không vào sân trước Na Uy.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/10/06/ronaldo-jorge-jesus-1791298630-6381-1791298674.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=GaLiIGqTqxTCCbL8JnIORg",
+      "link": "https://vnexpress.net/piers-morgan-hlv-jorge-jesus-boi-uoc-ronaldo-5129225.html",
+      "published_at": "Wed, 07 Oct 2026 13:00:00 +0700",
+      "createAt": "2026-10-07T06:00:00.000Z",
+      "thumbnail_blurhash": "LCFYS$.AE7^EDkM^wZIx9abcovtm"
+    },
+    {
+      "id": "https://vnexpress.net/dem-cuoi-cua-messi-voi-doi-tuyen-argentina-5129447.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Đêm cuối của Messi với đội tuyển Argentina",
+      "description": "Tối 6/10, Lionel Messi khép lại chương huy hoàng cùng đội tuyển Argentina, dưới sự chứng kiến của khoảng 85.000 khán giả ngồi chật kín sân Monumental.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/10/07/2026-10-07T011206Z-1738126519-UP1EMA703C4R2-RTRMADP-3-SOCCER-FRIENDLY-ARG-BEN-JPG-1791348779.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Wp8Qwf7LE4nE44SsNC1Mrg",
+      "link": "https://vnexpress.net/dem-cuoi-cua-messi-voi-doi-tuyen-argentina-5129447.html",
+      "published_at": "Wed, 07 Oct 2026 13:00:41 +0700",
+      "createAt": "2026-10-07T06:00:41.000Z",
+      "thumbnail_blurhash": "LCAT[-MIIU.9%%RNS%a#NywafltR"
     }
   ]
 }
