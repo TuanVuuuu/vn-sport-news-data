@@ -596,5 +596,31 @@
     "published_at": "Wed, 07 Oct 2026 19:00:00 +0700",
     "createAt": "2026-10-07T12:00:00.000Z",
     "thumbnail_blurhash": "L6BfIY-:000100E1~W?bF|X9=Yn3"
+  },
+  {
+    "id": "https://vnexpress.net/thi-nghiem-phong-tra-tan-ai-gay-tranh-cai-5129171.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Thí nghiệm 'Phòng tra tấn AI' gây tranh cãi",
+    "description": "Thí nghiệm ‘Phòng tra tấn AI’ bị chỉ trích đi ngược lại đạo đức nghiên cứu công nghệ do cố tình tác động và gia tăng tín hiệu đau đớn trên các mô hình ngôn ngữ.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/06/VNELogo-1791283424-5362-1791283470.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=QMp0JuCr4h79tDZgtXddYg",
+    "link": "https://vnexpress.net/thi-nghiem-phong-tra-tan-ai-gay-tranh-cai-5129171.html",
+    "published_at": "Thu, 08 Oct 2026 00:00:00 +0700",
+    "createAt": "2026-10-07T17:00:00.000Z",
+    "thumbnail_blurhash": "LaPEMT|DmP?HqspJTeM{nORQS2nN"
+  },
+  {
+    "id": "https://vnexpress.net/nha-khoa-hoc-viet-che-tao-ke-huy-diet-vi-khuan-5124122.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Nhà khoa học Việt chế tạo 'kẻ hủy diệt' vi khuẩn",
+    "description": "PGS Trương Vĩ Khánh, Đại học Flinders (Australia) cùng cộng sự phát triển các vật liệu nano dựa trên nền kim loại lỏng gallium, có khả năng diệt khuẩn và hỗ trợ phục hồi mô.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/07/wm1-wm1-nha-khoa-hoc-1791356635-2999-1791356723.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=PyXYaAClELhhPvAZPKMDTA",
+    "link": "https://vnexpress.net/nha-khoa-hoc-viet-che-tao-ke-huy-diet-vi-khuan-5124122.html",
+    "published_at": "Thu, 08 Oct 2026 00:00:00 +0700",
+    "createAt": "2026-10-07T17:00:00.000Z",
+    "thumbnail_blurhash": "LDIX?P0f.6~V00tmx]rqIT?G?akD"
   }
 ]
