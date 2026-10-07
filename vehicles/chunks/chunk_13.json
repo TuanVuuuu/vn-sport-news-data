@@ -1038,5 +1038,31 @@
     "published_at": "Wed, 07 Oct 2026 17:00:00 +0700",
     "createAt": "2026-10-07T10:00:00.000Z",
     "thumbnail_blurhash": "LA9ZjCRi0Jbxv{t9J7Rh0Jfh}@oM"
+  },
+  {
+    "id": "https://vnexpress.net/xe-tai-cho-pin-cuu-canh-cho-oto-dien-khi-tram-sac-vo-tran-5128920.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Xe tải chở pin - cứu cánh cho ôtô điện khi trạm sạc vỡ trận",
+    "description": "Xe tải trang bị pin dung lượng cao trở thành cục sạc khổng lồ giúp giải quyết tình trạng ùn tắc ở các trạm sạc dịp nghỉ lễ.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/06/Charging1-1791274692-2783-1791275588.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=jv05HhU5WMNasZrDyYAs7w",
+    "link": "https://vnexpress.net/xe-tai-cho-pin-cuu-canh-cho-oto-dien-khi-tram-sac-vo-tran-5128920.html",
+    "published_at": "Thu, 08 Oct 2026 05:00:00 +0700",
+    "createAt": "2026-10-07T22:00:00.000Z",
+    "thumbnail_blurhash": "LBGbu4v~^+^*NdxaR6Rl_Mo#iwNd"
+  },
+  {
+    "id": "https://vnexpress.net/suzuki-e-sky-kei-car-dien-thach-thuc-byd-racco-ev-5129414.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Suzuki e Sky - kei car điện thách thức BYD Racco EV",
+    "description": "Mẫu xe điện mini sử dụng pin của BYD, phạm vi hoạt động 310 km, bán ra từ tháng 11, giá dự kiến từ 13.500 USD.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/07/SuzukieSky20270-1791356654-3246-1791356709.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=wnCfQvxG_k0HFcxvcDoaRg",
+    "link": "https://vnexpress.net/suzuki-e-sky-kei-car-dien-thach-thuc-byd-racco-ev-5129414.html",
+    "published_at": "Thu, 08 Oct 2026 06:00:00 +0700",
+    "createAt": "2026-10-07T23:00:00.000Z",
+    "thumbnail_blurhash": "LSE3fM90.9je-o4onit9_JIo%Lf,"
   }
 ]
