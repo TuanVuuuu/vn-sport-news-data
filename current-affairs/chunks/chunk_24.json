@@ -102,5 +102,31 @@
     "published_at": "Wed, 07 Oct 2026 00:00:00 +0700",
     "createAt": "2026-10-06T17:00:00.000Z",
     "thumbnail_blurhash": "LSIhzC%2X4?c%%VqocV@t:MwMwof"
+  },
+  {
+    "id": "https://vnexpress.net/tp-hcm-dang-chong-ngap-den-dau-5128671.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "TP HCM đang chống ngập đến đâu?",
+    "description": "TP HCM đã xử lý nhiều tuyến đường ngập, song hạ tầng thiếu đồng bộ, dự án chậm hoàn thành và áp lực mưa, triều khiến nhiều khu vực vẫn ngập nặng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/06/2aobor0bwhwywigujifbr5i7yjwwrp-5224-4983-1791300299.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=nLTqz3iSjXcuTelyiUzJ_w",
+    "link": "https://vnexpress.net/tp-hcm-dang-chong-ngap-den-dau-5128671.html",
+    "published_at": "Wed, 07 Oct 2026 06:00:00 +0700",
+    "createAt": "2026-10-06T23:00:00.000Z",
+    "thumbnail_blurhash": "L]Ir1[oeM{of~qofRjof%Nt7ofay"
+  },
+  {
+    "id": "https://vnexpress.net/chay-cua-hang-xe-may-o-tp-hcm-lan-sang-nha-dan-5129254.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Cháy cửa hàng xe máy ở TP HCM, lan sang nhà dân",
+    "description": "Khói lửa bùng lên kèm nhiều tiếng nổ tại cửa hàng xe máy trên đường Nguyễn Thị Tú, phường Bình Tân, lan sang hai nhà dân, hai người bị thương, sáng 7/10.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/07/wm1-wm1-2aobor3kkanxmartrejj2yrxg5-7421-3880-1791330232.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=B-_MaXryU-a9olcYfXhlZw",
+    "link": "https://vnexpress.net/chay-cua-hang-xe-may-o-tp-hcm-lan-sang-nha-dan-5129254.html",
+    "published_at": "Wed, 07 Oct 2026 06:39:01 +0700",
+    "createAt": "2026-10-06T23:39:01.000Z",
+    "thumbnail_blurhash": "LMEL~cNYH?M{~qni9FWC%gVsIoV@"
   }
 ]
