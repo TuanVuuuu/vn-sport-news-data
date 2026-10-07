@@ -193,5 +193,31 @@
     "published_at": "Wed, 07 Oct 2026 12:00:00 +0700",
     "createAt": "2026-10-07T05:00:00.000Z",
     "thumbnail_blurhash": "LiGQOLxDWVxZ}=sloLs.XRS2aybH"
+  },
+  {
+    "id": "https://vnexpress.net/vi-sao-cac-nuoc-chau-a-dan-khai-tu-bon-cau-xom-5129448.html",
+    "category_id": "life",
+    "category_name": "Đời sống",
+    "source": "VnExpress",
+    "title": "Vì sao các nước châu Á dần 'khai tử' bồn cầu xổm?",
+    "description": "Tốc độ già hóa dân số đang buộc các nước châu Á như Hàn Quốc, Nhật Bản đẩy nhanh việc thay thế bồn cầu xổm bằng bồn cầu bệt.",
+    "thumbnail_url": "https://vcdn1-giadinh.vnecdn.net/2026/10/07/0-1791349422-8247-1791349964.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=UHx2oaA9SBAOJIbGbGoKmQ",
+    "link": "https://vnexpress.net/vi-sao-cac-nuoc-chau-a-dan-khai-tu-bon-cau-xom-5129448.html",
+    "published_at": "Wed, 07 Oct 2026 14:29:08 +0700",
+    "createAt": "2026-10-07T07:29:08.000Z",
+    "thumbnail_blurhash": "LFH.4+?w0JD%xuV@NGt74naxj]%2"
+  },
+  {
+    "id": "https://vnexpress.net/vuot-cu-soc-that-tinh-nho-di-nhat-rac-5129406.html",
+    "category_id": "life",
+    "category_name": "Đời sống",
+    "source": "VnExpress",
+    "title": "Vượt cú sốc thất tình nhờ đi nhặt rác",
+    "description": "Sau khi mất việc và chia tay bạn gái, Li Shuyun, 24 tuổi, đã vượt qua giai đoạn trầm cảm nhờ thói quen nhặt rác quanh hồ Đông Giang suốt hai năm.",
+    "thumbnail_url": "https://vcdn1-giadinh.vnecdn.net/2026/10/07/a-nh-ma-n-hi-nh-lu-c-179134558-8645-4870-1791345743.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=RYgZpoEeG23uSsskVcNA4Q",
+    "link": "https://vnexpress.net/vuot-cu-soc-that-tinh-nho-di-nhat-rac-5129406.html",
+    "published_at": "Wed, 07 Oct 2026 14:29:29 +0700",
+    "createAt": "2026-10-07T07:29:29.000Z",
+    "thumbnail_blurhash": "LtHCDm~q%fa#R%IVM{RjIUIUWBxt"
   }
 ]
