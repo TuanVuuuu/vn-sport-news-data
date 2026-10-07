@@ -518,5 +518,57 @@
     "published_at": "Wed, 07 Oct 2026 12:00:00 +0700",
     "createAt": "2026-10-07T05:00:00.000Z",
     "thumbnail_blurhash": "LfJkuWiv#cRQ~maznUayw5t8ngoK"
+  },
+  {
+    "id": "https://vnexpress.net/an-dua-muoi-xoi-co-loi-khuan-an-toan-5129367.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Ăn dưa muối xổi có lợi khuẩn, an toàn?",
+    "description": "Nhà tôi hay ăn dưa muối, nhất là dưa muối xổi, nhiều thông tin cho rằng thực phẩm này lợi khuẩn, an toàn, điều này có đúng? (Hạnh, 40 tuổi, Hà Nội)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/07/buoc-thanh-pham-1791343290-6014-1791343355.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=RcZJinRg_leRvDIunyxW7g",
+    "link": "https://vnexpress.net/an-dua-muoi-xoi-co-loi-khuan-an-toan-5129367.html",
+    "published_at": "Wed, 07 Oct 2026 13:00:00 +0700",
+    "createAt": "2026-10-07T06:00:00.000Z",
+    "thumbnail_blurhash": "L5F5{PIb03_L^t_3T2D$tW_2000L"
+  },
+  {
+    "id": "https://vnexpress.net/dau-hieu-mi-mat-co-giat-nen-di-kham-5129380.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Dấu hiệu mí mắt co giật nên đi khám",
+    "description": "Mí mắt co giật thường thoáng qua và tự hết, nhưng nếu kéo dài, khiến mắt nhắm kín hoặc kèm sụp mí, sưng đỏ, tiết dịch, người bệnh nên khám.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/07/mat-1791343625-6146-1791343643.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=Nr3UM6r4F9gq_1nTrS1G4A",
+    "link": "https://vnexpress.net/dau-hieu-mi-mat-co-giat-nen-di-kham-5129380.html",
+    "published_at": "Wed, 07 Oct 2026 13:00:00 +0700",
+    "createAt": "2026-10-07T06:00:00.000Z",
+    "thumbnail_blurhash": "LHI:zX=_~VnN~BR*?Gt7kV^*IpbI"
+  },
+  {
+    "id": "https://vnexpress.net/bo-y-te-de-xuat-cho-vo-dung-tinh-trung-chong-da-mat-de-sinh-con-5129398.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Bộ Y tế đề xuất cho vợ dùng tinh trùng chồng đã mất để sinh con",
+    "description": "Bộ Y tế đề xuất cho phép người vợ sử dụng tinh trùng của người chồng đã qua đời hoặc nhận phôi của chính hai vợ chồng để sinh con bằng kỹ thuật hỗ trợ sinh sản, nếu có nguyện vọng.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/07/vienphusan-1791345923-6643-1791345988.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=zN7tEfukEIxVVfrIvbAMPA",
+    "link": "https://vnexpress.net/bo-y-te-de-xuat-cho-vo-dung-tinh-trung-chong-da-mat-de-sinh-con-5129398.html",
+    "published_at": "Wed, 07 Oct 2026 13:45:46 +0700",
+    "createAt": "2026-10-07T06:45:46.000Z",
+    "thumbnail_blurhash": "LBI5GIISTJ~p*0-o-pt-8_%NF4R5"
+  },
+  {
+    "id": "https://vnexpress.net/hai-lan-chan-hoai-tu-do-bien-chung-tieu-duong-5129259.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Hai lần chân hoại tử do biến chứng tiểu đường",
+    "description": "Ông Tuyên, 80 tuổi, từng phải cắt ngón chân út vì biến chứng bàn chân tiểu đường, nay tiếp tục nhiễm trùng bàn chân.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/07/bs-ha-1791342910-7072-1791342947.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=OivR5w0xuod7voOsCToB5Q",
+    "link": "https://vnexpress.net/hai-lan-chan-hoai-tu-do-bien-chung-tieu-duong-5129259.html",
+    "published_at": "Wed, 07 Oct 2026 14:00:00 +0700",
+    "createAt": "2026-10-07T07:00:00.000Z",
+    "thumbnail_blurhash": "LKM*Er-h~qOtJQoz?Fo$4nngxtbx"
   }
 ]
