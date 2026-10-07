@@ -141,5 +141,31 @@
     "published_at": "Wed, 07 Oct 2026 19:51:11 +0700",
     "createAt": "2026-10-07T12:51:11.000Z",
     "thumbnail_blurhash": "LUBXQPr=IUW=*0jua0aJtmWBRjV?"
+  },
+  {
+    "id": "https://vnexpress.net/phu-quoc-la-dao-dep-nhat-chau-a-2026-5129568.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Phú Quốc là đảo đẹp nhất châu Á 2026",
+    "description": "Phú Quốc năm thứ hai liên tiếp dẫn đầu hạng mục \"Đảo đẹp nhất châu Á\" do độc giả bình chọn của tạp chí du lịch Condé Nast Traveler, ấn bản Mỹ.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/10/07/cap-treo-hon-thom-1791366457-8747-1791366752.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=b604XeIUBWhYm1rG5J5AMw",
+    "link": "https://vnexpress.net/phu-quoc-la-dao-dep-nhat-chau-a-2026-5129568.html",
+    "published_at": "Thu, 08 Oct 2026 00:00:00 +0700",
+    "createAt": "2026-10-07T17:00:00.000Z",
+    "thumbnail_blurhash": "LlGJW.x^I9xZ?wSjNGt8RkR+o#oz"
+  },
+  {
+    "id": "https://vnexpress.net/tour-son-doong-80-trieu-dong-bi-rao-ban-tren-website-gia-5129520.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Tour Sơn Đoòng 80 triệu đồng bị rao bán trên website giả",
+    "description": "Một website giả mạo Oxalis Adventure, đơn vị khai thác tour Sơn Đoòng, đang rao bán tour giá 80 triệu đồng và chạy quảng cáo trên Google.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/10/07/o1-1791371308-3138-1791371554.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ecka8RKuKuDbNOsdUfWHIA",
+    "link": "https://vnexpress.net/tour-son-doong-80-trieu-dong-bi-rao-ban-tren-website-gia-5129520.html",
+    "published_at": "Thu, 08 Oct 2026 00:05:00 +0700",
+    "createAt": "2026-10-07T17:05:00.000Z",
+    "thumbnail_blurhash": "LPFi0*58H=t7~pxtIUoIox-nkrWB"
   }
 ]
