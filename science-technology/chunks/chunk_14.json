@@ -518,5 +518,31 @@
     "published_at": "Wed, 07 Oct 2026 11:04:58 +0700",
     "createAt": "2026-10-07T04:04:58.000Z",
     "thumbnail_blurhash": "LQF6w$X=IAI_pfNKvyxvbxNMV_x^"
+  },
+  {
+    "id": "https://vnexpress.net/ong-nguyen-van-khoa-tai-dac-cu-pho-chu-tich-asocio-5129444.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Ông Nguyễn Văn Khoa tái đắc cử Phó chủ tịch ASOCIO",
+    "description": "Ông Nguyễn Văn Khoa, Tổng giám đốc FPT, Chủ tịch Vinasa, lần thứ ba được bầu làm Phó chủ tịch Tổ chức công nghiệp điện toán châu Á - châu Đại Dương (ASOCIO).",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/07/1791274080269-4727763706466448-6362-7496-1791348193.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=YVl2cukA3_2dCcweGjxpVw",
+    "link": "https://vnexpress.net/ong-nguyen-van-khoa-tai-dac-cu-pho-chu-tich-asocio-5129444.html",
+    "published_at": "Wed, 07 Oct 2026 11:48:05 +0700",
+    "createAt": "2026-10-07T04:48:05.000Z",
+    "thumbnail_blurhash": "LRGRP5^jRP-:~A%1W=s.IUM|xuWE"
+  },
+  {
+    "id": "https://vnexpress.net/giam-doc-intel-dung-de-ai-tu-duy-va-quyet-dinh-thay-minh-5128610.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Giám đốc Intel: 'Đừng để AI tư duy và quyết định thay mình'",
+    "description": "Con người cần giữ sự chủ động để tránh bị suy giảm năng lực vì lạm dụng AI, theo Tổng giám đốc Intel Đông Nam Á George Chacko.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/05/intel-jfif-1791189379-3364-1791189895.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=gm-rRr9PTOeWbe9UlXBwGg",
+    "link": "https://vnexpress.net/giam-doc-intel-dung-de-ai-tu-duy-va-quyet-dinh-thay-minh-5128610.html",
+    "published_at": "Wed, 07 Oct 2026 12:00:00 +0700",
+    "createAt": "2026-10-07T05:00:00.000Z",
+    "thumbnail_blurhash": "LjFY.kF*NLiu-;IWRPaLNEnzV?bJ"
   }
 ]
