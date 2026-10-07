@@ -583,5 +583,18 @@
     "published_at": "Wed, 07 Oct 2026 16:56:58 +0700",
     "createAt": "2026-10-07T09:56:58.000Z",
     "thumbnail_blurhash": "LCPZcH_2-=%M~p%2xuRj.9-:oID%"
+  },
+  {
+    "id": "https://vnexpress.net/mo-hinh-cua-openai-giai-mat-thu-217-nam-cua-napoleon-5129006.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Mô hình của OpenAI giải mật thư 217 năm của Napoleon",
+    "description": "Mô hình GPT-6 Astra của OpenAI chỉ mất 6 giờ để phá giải bức mật thư từng khiến các chuyên gia đau đầu suốt hàng trăm năm.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/06/VNECode-1791262473-7184-1791262540.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=mg3Unh1EuOQ9yNDm4kKE2A",
+    "link": "https://vnexpress.net/mo-hinh-cua-openai-giai-mat-thu-217-nam-cua-napoleon-5129006.html",
+    "published_at": "Wed, 07 Oct 2026 19:00:00 +0700",
+    "createAt": "2026-10-07T12:00:00.000Z",
+    "thumbnail_blurhash": "L6BfIY-:000100E1~W?bF|X9=Yn3"
   }
 ]
