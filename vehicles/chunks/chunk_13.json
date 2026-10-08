@@ -1064,5 +1064,31 @@
     "published_at": "Thu, 08 Oct 2026 06:00:00 +0700",
     "createAt": "2026-10-07T23:00:00.000Z",
     "thumbnail_blurhash": "LSE3fM90.9je-o4onit9_JIo%Lf,"
+  },
+  {
+    "id": "https://vnexpress.net/oto-lao-thang-vao-xe-buyt-nguoc-chieu-tren-cau-5129504.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Ôtô lao thẳng vào xe buýt ngược chiều trên cầu",
+    "description": "Ôtô mới mang biển số tạm bất ngờ lấn sang làn đường ngược chiều, tông trực diện xe buýt đang lưu thông trên cầu khiến nhiều người nhập viện.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/07/ezgif381f9f145ab4570c-17913573-7750-6628-1791358660.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=CNt34Yv1xLC2NtLmu26txg&t=image",
+    "link": "https://vnexpress.net/oto-lao-thang-vao-xe-buyt-nguoc-chieu-tren-cau-5129504.html",
+    "published_at": "Thu, 08 Oct 2026 06:30:00 +0700",
+    "createAt": "2026-10-07T23:30:00.000Z",
+    "thumbnail_blurhash": "LWEfpFjsWBkC_NbHWBj[%Nj]WBs:"
+  },
+  {
+    "id": "https://vnexpress.net/robotaxi-cua-tesla-so-troi-toi-vi-khong-nhin-thay-duong-5129305.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Robotaxi của Tesla sợ trời tối vì không nhìn thấy đường",
+    "description": "CEO Tesla cho biết xe tự lái của hãng chưa thể chạy vào đêm muộn do camera khó phát hiện vật thể trong bóng tối hoặc lẫn với mặt đường.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/07/TeslaCybercab1-1791339491-4562-1791339497.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=oMZ7M5BiKBIOUZsLTnbS8A",
+    "link": "https://vnexpress.net/robotaxi-cua-tesla-so-troi-toi-vi-khong-nhin-thay-duong-5129305.html",
+    "published_at": "Thu, 08 Oct 2026 07:15:00 +0700",
+    "createAt": "2026-10-08T00:15:00.000Z",
+    "thumbnail_blurhash": "LWFYfVRkNF%3~WW=WYt6M{WnjGof"
   }
 ]

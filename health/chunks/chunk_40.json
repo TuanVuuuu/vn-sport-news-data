@@ -830,5 +830,31 @@
     "published_at": "Thu, 08 Oct 2026 05:00:00 +0700",
     "createAt": "2026-10-07T22:00:00.000Z",
     "thumbnail_blurhash": "LGF5y__40~xuxGV@Riju0LM_=wV@"
+  },
+  {
+    "id": "https://vnexpress.net/6-meo-an-uong-giup-song-tho-don-gian-nhung-it-nguoi-lam-dung-5128351.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "6 mẹo ăn uống giúp sống thọ - đơn giản nhưng ít người làm đúng",
+    "description": "Đa dạng thực phẩm, bổ sung đạm bữa sáng, kết hợp vitamin D, nạp đủ chất béo, ăn rau màu và kiểm soát trái cây giúp kéo dài tuổi thọ.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/05/wm1-wm1-screenshot-at-1791163271-5681-1791163304.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=2wXzx3Bbi-PRXbWUmT_p7Q",
+    "link": "https://vnexpress.net/6-meo-an-uong-giup-song-tho-don-gian-nhung-it-nguoi-lam-dung-5128351.html",
+    "published_at": "Thu, 08 Oct 2026 07:50:34 +0700",
+    "createAt": "2026-10-08T00:50:34.000Z",
+    "thumbnail_blurhash": "LEGb3C4p00=zKai$t79b00sE~CI:"
+  },
+  {
+    "id": "https://vnexpress.net/ap-xe-phoi-vo-tran-dich-mu-5129716.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Áp xe phổi vỡ tràn dịch mủ",
+    "description": "Ông Tám, 70 tuổi, đau ngực, đau lưng suốt một tuần, chụp CT ghi nhận tràn dịch màng phổi, bác sĩ chẩn đoán áp xe phổi vỡ.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/08/image003-1791418607-7845-1791418657.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=BWMBcHIhkyned5Z8-qSsjA",
+    "link": "https://vnexpress.net/ap-xe-phoi-vo-tran-dich-mu-5129716.html",
+    "published_at": "Thu, 08 Oct 2026 08:00:00 +0700",
+    "createAt": "2026-10-08T01:00:00.000Z",
+    "thumbnail_blurhash": "LgH3k1j^Nfo~~logoyn#t1fhoco3"
   }
 ]

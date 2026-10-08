@@ -167,5 +167,31 @@
     "published_at": "Thu, 08 Oct 2026 00:05:00 +0700",
     "createAt": "2026-10-07T17:05:00.000Z",
     "thumbnail_blurhash": "LPFi0*58H=t7~pxtIUoIox-nkrWB"
+  },
+  {
+    "id": "https://vnexpress.net/10-diem-den-chup-anh-mua-thu-dep-nhat-the-gioi-5129331.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "10 điểm đến chụp ảnh mùa thu đẹp nhất thế giới",
+    "description": "Châu Âu và Bắc Mỹ đều có 4 đại diện trong top 10 điểm đến chụp ảnh mùa thu đẹp nhất thế giới, trong khi châu Á có hai thành phố.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/10/07/Thu1-1791339226.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=gxt9a2eCbXM_I-LK-_peVA",
+    "link": "https://vnexpress.net/10-diem-den-chup-anh-mua-thu-dep-nhat-the-gioi-5129331.html",
+    "published_at": "Thu, 08 Oct 2026 07:00:00 +0700",
+    "createAt": "2026-10-08T00:00:00.000Z",
+    "thumbnail_blurhash": "LWLDVy=qDhx^~BMcnMx^kZIUM{tR"
+  },
+  {
+    "id": "https://vnexpress.net/dan-co-hang-nghin-con-xuat-hien-o-trung-tam-tp-hue-5129671.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Đàn cò hàng nghìn con xuất hiện ở trung tâm TP Huế",
+    "description": "Hàng nghìn con cò trắng bất ngờ xuất hiện, đậu kín cánh đồng lúa ở phường Thủy Xuân, thu hút người dân đến xem, chụp ảnh.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/10/07/nad06850-jpg-1791388195-8072-1791388385.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=o5uQhF3Blv1jwTPkoHRsdg",
+    "link": "https://vnexpress.net/dan-co-hang-nghin-con-xuat-hien-o-trung-tam-tp-hue-5129671.html",
+    "published_at": "Thu, 08 Oct 2026 07:28:18 +0700",
+    "createAt": "2026-10-08T00:28:18.000Z",
+    "thumbnail_blurhash": "LeDwW@R*WCtR%jRjWBog-;RjWUjb"
   }
 ]
