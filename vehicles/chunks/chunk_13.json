@@ -1129,5 +1129,31 @@
     "published_at": "Thu, 08 Oct 2026 08:13:45 +0700",
     "createAt": "2026-10-08T01:13:45.000Z",
     "thumbnail_blurhash": "LSEVaJ6CM|xt~EFzW9s-Myo|kpjI"
+  },
+  {
+    "id": "https://vnexpress.net/oto-va-may-cay-lao-vao-nhau-nhu-ten-ban-giua-duong-trong-5129752.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Ôtô và máy cày lao vào nhau như tên bắn giữa đường trống",
+    "description": "Ở tốc độ cao, chiếc máy cày dần lệch làn rồi lao vào xe ngược chiều, hôm 7/10 tại ĐT756, Nha Bích.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/08/ezgif115f58763edccd10-17914243-2323-5270-1791424819.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=HBegN0ghUudlVQC0l1dUtA&t=image",
+    "link": "https://vnexpress.net/oto-va-may-cay-lao-vao-nhau-nhu-ten-ban-giua-duong-trong-5129752.html",
+    "published_at": "Thu, 08 Oct 2026 10:30:00 +0700",
+    "createAt": "2026-10-08T03:30:00.000Z",
+    "thumbnail_blurhash": "LAFZE15400~E0gtN?HD*9F%M=~IU"
+  },
+  {
+    "id": "https://vnexpress.net/honda-elevate-2027-xe-gam-cao-co-nho-gia-tu-12-000-usd-5129416.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Honda Elevate 2027 - xe gầm cao cỡ nhỏ giá từ 12.000 USD",
+    "description": "Phiên bản mới của Elevate tinh chỉnh thiết kế từ trong ra ngoài, động cơ không đổi, thêm tính năng, giá cao nhất 19.000 USD.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/08/HondaElevate20271-1791358148-8014-1791420170.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=guOBnUSNOOXHl3Wgwr1CDw",
+    "link": "https://vnexpress.net/honda-elevate-2027-xe-gam-cao-co-nho-gia-tu-12-000-usd-5129416.html",
+    "published_at": "Thu, 08 Oct 2026 11:12:00 +0700",
+    "createAt": "2026-10-08T04:12:00.000Z",
+    "thumbnail_blurhash": "LaD^J?_N.8t7_4%MoLRj?v-;s.f6"
   }
 ]
