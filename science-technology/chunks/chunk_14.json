@@ -817,5 +817,31 @@
     "published_at": "Thu, 08 Oct 2026 20:00:00 +0700",
     "createAt": "2026-10-08T13:00:00.000Z",
     "thumbnail_blurhash": "LIGSWE~WHq0000t6D%Rj?FWBtSt6"
+  },
+  {
+    "id": "https://vnexpress.net/bai-toan-ban-quyen-khi-ai-lam-phim-viet-nhac-5130051.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Bài toán bản quyền khi AI làm phim, viết nhạc",
+    "description": "AI giúp giảm chi phí, rút ngắn quá trình làm phim, sản xuất âm nhạc, nhưng cũng đặt ra nhiều vấn đề về bản quyền.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/08/dsc-jpg-1791455740-2130-1791455773.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=B-n4uF3uUmFzDMulKjd5Sw",
+    "link": "https://vnexpress.net/bai-toan-ban-quyen-khi-ai-lam-phim-viet-nhac-5130051.html",
+    "published_at": "Thu, 08 Oct 2026 20:35:51 +0700",
+    "createAt": "2026-10-08T13:35:51.000Z",
+    "thumbnail_blurhash": "LR7;GzR3Xqtmu6aJe+p0b|oaneW="
+  },
+  {
+    "id": "https://vnexpress.net/khoa-hoc-hat-nhan-la-thach-thuc-va-co-hoi-cho-nha-nghien-cuu-tre-5130052.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "'Khoa học hạt nhân là thách thức và cơ hội cho nhà nghiên cứu trẻ'",
+    "description": "Nhu cầu nhân lực ngành năng lượng nguyên tử cho chương trình điện hạt nhân và các ứng dụng liên quan là cơ hội cho nhà nghiên cứu trẻ, theo TS Trần Chí Thành.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/08/b93i9597jpg-1791454560-3626-1791454683.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=e1iQ_ObyDi5dU5PASHfCfQ",
+    "link": "https://vnexpress.net/khoa-hoc-hat-nhan-la-thach-thuc-va-co-hoi-cho-nha-nghien-cuu-tre-5130052.html",
+    "published_at": "Thu, 08 Oct 2026 20:55:25 +0700",
+    "createAt": "2026-10-08T13:55:25.000Z",
+    "thumbnail_blurhash": "LVFiZGo$SvR~~pxYt7tm?Zocso%M"
   }
 ]

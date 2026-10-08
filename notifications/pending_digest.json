@@ -144,6 +144,19 @@
       "thumbnail_blurhash": "LJG6YX=1jF,H1{J7R%S2}bj]soSg"
     },
     {
+      "id": "https://vnexpress.net/chien-dich-loi-nguoc-dong-cua-ukraine-o-donbass-5129728.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Chiến dịch lội ngược dòng của Ukraine ở Donbass",
+      "description": "Chiến dịch phản công Vivaldi ở bắc Donetsk giúp Ukraine chặn đà tiến quân của Nga, giành lại một phần lãnh thổ và thế chủ động tại Donbass.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/08/AFP-20260605-B64U463-v3-HighRe-7700-7362-1791435425.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=eruvqOopjs195WTsgTYUyA",
+      "link": "https://vnexpress.net/chien-dich-loi-nguoc-dong-cua-ukraine-o-donbass-5129728.html",
+      "published_at": "Thu, 08 Oct 2026 19:00:00 +0700",
+      "createAt": "2026-10-08T12:00:00.000Z",
+      "thumbnail_blurhash": "LaK-2p01Xm=^?w%LIptRNM%LofWC"
+    },
+    {
       "id": "https://vnexpress.net/phu-tho-thu-hoi-hon-1-ty-dong-do-tinh-sai-thoi-gian-nghi-huu-truoc-tuoi-5130084.html",
       "category_id": "featured",
       "category_name": "Tin nổi bật",
@@ -246,6 +259,19 @@
       "published_at": "Thu, 08 Oct 2026 20:49:25 +0700",
       "createAt": "2026-10-08T13:49:25.000Z",
       "thumbnail_blurhash": "LXG@ZEJ=}tN%.lj{KiS8tixFS|n,"
+    },
+    {
+      "id": "https://vnexpress.net/viet-nam-thang-20-0-o-giai-u17-nu-chau-a-5130112.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Việt Nam thắng 20-0 ở giải U17 nữ châu Á",
+      "description": "Các cô gái trẻ Việt Nam ghi 20 bàn và giữ sạch lưới khi tiếp Quần đảo Bắc Mariana ở bảng D vòng loại U17 nữ châu Á 2027.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/10/08/wm1-wm1-don5315jpg-1791468383-3985-1791468422.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Jt_nGyOAkJUFRjZnO42skQ",
+      "link": "https://vnexpress.net/viet-nam-thang-20-0-o-giai-u17-nu-chau-a-5130112.html",
+      "published_at": "Thu, 08 Oct 2026 21:15:49 +0700",
+      "createAt": "2026-10-08T14:15:49.000Z",
+      "thumbnail_blurhash": "L7HB#q~XE19F00D%Vs%M00IntSt8"
     }
   ]
 }
