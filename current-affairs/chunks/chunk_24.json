@@ -752,5 +752,31 @@
     "published_at": "Thu, 08 Oct 2026 19:47:08 +0700",
     "createAt": "2026-10-08T12:47:08.000Z",
     "thumbnail_blurhash": "L5ARw^5l1y}EDlxYOWsA^PNHoynQ"
+  },
+  {
+    "id": "https://vnexpress.net/sat-lo-deo-da-mi-tren-tuyen-phan-thiet-bao-loc-5130080.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Sạt lở đèo Đa Mi trên tuyến Phan Thiết - Bảo Lộc",
+    "description": "Đất đá từ vách núi đổ xuống quốc lộ 55 qua đèo Đa Mi, chắn ngang đường khoảng 30 m, khiến nhiều phương tiện mắc kẹt chiều 8/10.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/08/Tac-deo-Da-Mi-1791463563-4574-1791463986.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=g8AWWu1OG9Ppox_ICFBjXA",
+    "link": "https://vnexpress.net/sat-lo-deo-da-mi-tren-tuyen-phan-thiet-bao-loc-5130080.html",
+    "published_at": "Thu, 08 Oct 2026 20:19:04 +0700",
+    "createAt": "2026-10-08T13:19:04.000Z",
+    "thumbnail_blurhash": "LTEC%kDNxbWCTMI9t8WB?w9YR*oz"
+  },
+  {
+    "id": "https://vnexpress.net/lam-the-nao-de-viet-nam-phat-trien-cong-nghiep-duong-sat-toc-do-cao-5130075.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Làm thế nào để Việt Nam phát triển công nghiệp đường sắt tốc độ cao?",
+    "description": "Việt Nam có thể hình thành ngành công nghiệp đường sắt từ các dự án lớn, nếu bảo đảm vốn, nhân lực, công nghệ và đầu ra để doanh nghiệp trong nước tham gia.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/08/9605-jpg-1791461686-5830-1791461786.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=2wC20WkdZx3LxsvvCqZwqA",
+    "link": "https://vnexpress.net/lam-the-nao-de-viet-nam-phat-trien-cong-nghiep-duong-sat-toc-do-cao-5130075.html",
+    "published_at": "Thu, 08 Oct 2026 20:33:01 +0700",
+    "createAt": "2026-10-08T13:33:01.000Z",
+    "thumbnail_blurhash": "LIH_75;gAV%~^,~WJ7XS0ypc^+rD"
   }
 ]
