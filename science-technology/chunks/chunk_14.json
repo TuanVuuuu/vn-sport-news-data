@@ -674,5 +674,31 @@
     "published_at": "Thu, 08 Oct 2026 10:00:00 +0700",
     "createAt": "2026-10-08T03:00:00.000Z",
     "thumbnail_blurhash": "L6A,ah030J$-NWf7t9Rk0#k9~Af5"
+  },
+  {
+    "id": "https://vnexpress.net/14-nha-khoa-hoc-viet-la-ngoi-sao-dang-len-trong-xep-hang-the-gioi-5129693.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "14 nhà khoa học Việt là 'Ngôi sao đang lên' trong xếp hạng thế giới",
+    "description": "Các nhà khoa học Việt được xếp hạng cao ở các bảng chuyên ngành, trong đó bảng Ngôi sao mới nổi (Rising Stars) ghi nhận 14 gương mặt xuất sắc.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/08/1555639730355tranxuanbachlzsi-9220-5702-1791433755.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=LR_0A1CmaK98fNkRkwcfRQ",
+    "link": "https://vnexpress.net/14-nha-khoa-hoc-viet-la-ngoi-sao-dang-len-trong-xep-hang-the-gioi-5129693.html",
+    "published_at": "Thu, 08 Oct 2026 11:34:44 +0700",
+    "createAt": "2026-10-08T04:34:44.000Z",
+    "thumbnail_blurhash": "LBIM}]L#+$%24T~V0gn-04T0%fR6"
+  },
+  {
+    "id": "https://vnexpress.net/microsoft-ra-surface-laptop-ultra-dung-sieu-chip-nvidia-5129846.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Microsoft ra Surface Laptop Ultra dùng 'siêu chip' Nvidia",
+    "description": "Thay vì Intel hay AMD, Surface Laptop Ultra sử dụng vi xử lý RTX Spark của Nvidia và là \"máy tính mạnh nhất của Microsoft\" với giá từ 2.599 USD.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/08/b01SurfaceLaptopUltraNVIDIA15i-6028-8638-1791432753.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=LdrG0-2pgCX_x6Mbcwid3A",
+    "link": "https://vnexpress.net/microsoft-ra-surface-laptop-ultra-dung-sieu-chip-nvidia-5129846.html",
+    "published_at": "Thu, 08 Oct 2026 12:00:58 +0700",
+    "createAt": "2026-10-08T05:00:58.000Z",
+    "thumbnail_blurhash": "LkEV]Goft7og~qj[ofofWBayRjay"
   }
 ]
