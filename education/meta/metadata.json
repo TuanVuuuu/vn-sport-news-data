@@ -1,5 +1,5 @@
 {
-  "total_articles": 1208,
+  "total_articles": 1209,
   "files": [
     "chunk_1.json",
     "chunk_2.json",
@@ -22,7 +22,7 @@
     "copyright": "",
     "logo_url": "https://s.vnecdn.net/vnexpress/i/v20/logos/vne_logo_rss.png",
     "link": "https://vnexpress.net/rss/giao-duc.rss",
-    "last_updated": "Thu, 08 Oct 2026 18:31:07 +0700"
+    "last_updated": "Thu, 08 Oct 2026 20:31:14 +0700"
   },
-  "last_updated": "2026-10-08T13:31:13.948Z"
+  "last_updated": "2026-10-08T13:40:55.304Z"
 }
