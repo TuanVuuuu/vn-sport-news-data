@@ -1,6 +1,19 @@
 {
   "featured": [
     {
+      "id": "https://vnexpress.net/video-ai-ty-phu-jensen-huang-nhay-nhu-michael-jackson-gay-sot-5129931.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Video AI 'tỷ phú Jensen Huang nhảy như Michael Jackson' gây sốt",
+      "description": "Video AI tạo tiết mục \"CEO Nvidia Jensen Huang nhảy như Michael Jackson\" đạt hàng triệu lượt xem, thu hút sự chú ý của tỷ phú Elon Musk.",
+      "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/10/08/jensenhuangai-1791449156-5777-1791449899.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=94--LQS8bG1Ofpymgpp6Cg",
+      "link": "https://vnexpress.net/video-ai-ty-phu-jensen-huang-nhay-nhu-michael-jackson-gay-sot-5129931.html",
+      "published_at": "Thu, 08 Oct 2026 16:20:14 +0700",
+      "createAt": "2026-10-08T09:20:14.000Z",
+      "thumbnail_blurhash": "L77n91xwM{M_?d$*RnM{%Os8WENG"
+    },
+    {
       "id": "https://vnexpress.net/han-quoc-trieu-hoi-dai-su-sau-cang-thang-voi-ukraine-ve-tu-binh-trieu-tien-5130021.html",
       "category_id": "featured",
       "category_name": "Tin nổi bật",
@@ -92,6 +105,19 @@
       "thumbnail_blurhash": "L7BCiA038_~p^*M|4;^%4=-nxZIV"
     },
     {
+      "id": "https://vnexpress.net/nu-bac-si-nhi-dong-1-bi-phan-anh-to-tieng-voi-me-benh-nhi-5130000.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Nữ bác sĩ Nhi đồng 1 bị phản ánh to tiếng với mẹ bệnh nhi",
+      "description": "Người mẹ đưa con sốt cao mệt lả đến Bệnh viện Nhi đồng 1 khám, bị bác sĩ \"to tiếng, đập bút xuống bàn, gọi người 'xử lý'\" rồi từ chối khám.",
+      "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/08/233a4344-1791451466-3746-1791451606.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=3PibgYPjMEdw6hUtkwE5UA",
+      "link": "https://vnexpress.net/nu-bac-si-nhi-dong-1-bi-phan-anh-to-tieng-voi-me-benh-nhi-5130000.html",
+      "published_at": "Thu, 08 Oct 2026 18:23:21 +0700",
+      "createAt": "2026-10-08T11:23:21.000Z",
+      "thumbnail_blurhash": "LIDSzb?w4n8^-=t9t6W9E2e-xtoz"
+    },
+    {
       "id": "https://vnexpress.net/nguoi-dan-ong-tu-vong-nghi-do-dien-giat-khi-don-nha-ngap-5130064.html",
       "category_id": "featured",
       "category_name": "Tin nổi bật",
@@ -116,6 +142,71 @@
       "published_at": "Thu, 08 Oct 2026 18:40:17 +0700",
       "createAt": "2026-10-08T11:40:17.000Z",
       "thumbnail_blurhash": "LJG6YX=1jF,H1{J7R%S2}bj]soSg"
+    },
+    {
+      "id": "https://vnexpress.net/phu-tho-thu-hoi-hon-1-ty-dong-do-tinh-sai-thoi-gian-nghi-huu-truoc-tuoi-5130084.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Phú Thọ thu hồi hơn 1 tỷ đồng do tính sai thời gian nghỉ hưu trước tuổi",
+      "description": "Qua rà soát 4.469 hồ sơ, Phú Thọ phát hiện 15 trường hợp có sai sót, trong đó một người được tính thời gian nghỉ hưu trước tuổi dài hơn thực tế, phải hoàn trả hơn 1 tỷ đồng.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/08/image-1791460642-8497-1791460675.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=qSLlYnBN1IV9MNJnOOLGQA",
+      "link": "https://vnexpress.net/phu-tho-thu-hoi-hon-1-ty-dong-do-tinh-sai-thoi-gian-nghi-huu-truoc-tuoi-5130084.html",
+      "published_at": "Thu, 08 Oct 2026 19:12:05 +0700",
+      "createAt": "2026-10-08T12:12:05.000Z",
+      "thumbnail_blurhash": "LHHeteW8rC]-sKOB54+aOsTfNbxU"
+    },
+    {
+      "id": "https://vnexpress.net/loi-hua-tra-no-cua-tai-xe-dam-vo-duoi-xe-lexus-5130066.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Lời hứa trả nợ của tài xế đâm vỡ đuôi xe Lexus",
+      "description": "Bị tông hỏng đuôi xe, chủ xe Lexus bất ngờ khi tài xế taxi công nghệ giữ đúng lời hứa, mỗi tháng trích thu nhập để trả góp khoản đền bù còn thiếu.",
+      "thumbnail_url": "https://vcdn1-giadinh.vnecdn.net/2026/10/08/064e83f1bdfa3-a0373a-179146126-8368-7501-1791461535.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=A6bvXNDmx7lbJkhJVd89kg",
+      "link": "https://vnexpress.net/loi-hua-tra-no-cua-tai-xe-dam-vo-duoi-xe-lexus-5130066.html",
+      "published_at": "Thu, 08 Oct 2026 19:12:41 +0700",
+      "createAt": "2026-10-08T12:12:41.000Z",
+      "thumbnail_blurhash": "LBBzXi~CE1WA8_9a57Md8_R*_2?H"
+    },
+    {
+      "id": "https://vnexpress.net/nhieu-khu-dan-cu-phia-nam-da-nang-ngap-gan-mot-met-5130083.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Nhiều khu dân cư phía nam Đà Nẵng ngập gần một mét",
+      "description": "Mưa lớn khiến nhiều khu dân cư ở xã Núi Thành ngập sâu, khoảng 80 hộ phải sơ tán; miền núi xảy ra sạt lở và một người mất tích do lật ghe.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/08/2aobor45nnhniepnvyuebj84th6xwn-8416-5714-1791460631.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=deE7Mx-x0rED4mKbXiwENA",
+      "link": "https://vnexpress.net/nhieu-khu-dan-cu-phia-nam-da-nang-ngap-gan-mot-met-5130083.html",
+      "published_at": "Thu, 08 Oct 2026 19:36:40 +0700",
+      "createAt": "2026-10-08T12:36:40.000Z",
+      "thumbnail_blurhash": "LEFiDC~WIn-=^+?v-=D%_4R.Rjt7"
+    },
+    {
+      "id": "https://vnexpress.net/cuc-truong-lam-nghiep-va-kiem-lam-lam-uy-vien-uy-ban-kiem-tra-trung-uong-5130091.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Cục trưởng Lâm nghiệp và Kiểm lâm làm Ủy viên Ủy ban Kiểm tra Trung ương",
+      "description": "Ông Trần Quang Bảo, Cục trưởng Lâm nghiệp và Kiểm lâm, được Ban Chấp hành Trung ương bầu giữ chức Ủy viên Ủy ban Kiểm tra Trung ương nhiệm kỳ 2026-2031.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/08/wm1-wm1-chc06174-jpg-jpg-179146253-6494-7859-1791462571.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=IH9BzaCBYRpKv2UijMyxKQ",
+      "link": "https://vnexpress.net/cuc-truong-lam-nghiep-va-kiem-lam-lam-uy-vien-uy-ban-kiem-tra-trung-uong-5130091.html",
+      "published_at": "Thu, 08 Oct 2026 19:43:29 +0700",
+      "createAt": "2026-10-08T12:43:29.000Z",
+      "thumbnail_blurhash": "LOK^]900Edtl~oIAI[x]56xuxFoI"
+    },
+    {
+      "id": "https://vnexpress.net/tu-tu-my-co-the-di-lai-sau-vu-tiem-thuoc-doc-bat-thanh-5130087.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Tử tù Mỹ có thể đi lại sau vụ tiêm thuốc độc bất thành",
+      "description": "Christa Pike có thể tự đi lại trong phòng bệnh, sau khi sống sót qua hai lần tiêm thuốc độc trong buổi hành quyết bất thành tại bang Tennessee.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/08/downloadt193319-1791462922-5456-1791463036.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=BsOGmV8PcZrBkCjsagoykg",
+      "link": "https://vnexpress.net/tu-tu-my-co-the-di-lai-sau-vu-tiem-thuoc-doc-bat-thanh-5130087.html",
+      "published_at": "Thu, 08 Oct 2026 19:56:30 +0700",
+      "createAt": "2026-10-08T12:56:30.000Z",
+      "thumbnail_blurhash": "LCDG$R}E0z1HJQS2=L=K#TjGxZxZ"
     }
   ]
 }
