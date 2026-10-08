@@ -258,5 +258,57 @@
     "published_at": "Thu, 08 Oct 2026 15:22:31 +0700",
     "createAt": "2026-10-08T08:22:31.000Z",
     "thumbnail_blurhash": "LdKyfCx[E7tR~WjZxus:%4oenhR+"
+  },
+  {
+    "id": "https://vnexpress.net/dich-vu-trai-dep-keo-xe-tai-nhat-5129933.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Dịch vụ 'trai đẹp kéo xe' tại Nhật",
+    "description": "Những phu xe thân hình săn chắc thu hút sự chú ý trên mạng xã hội, góp phần quảng bá dịch vụ xe kéo truyền thống đưa du khách khám phá cố đô Kyoto, Nhật Bản.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/10/08/427729411-n-1791449683.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Zu4E78U4BbbdrLmECFEEJA",
+    "link": "https://vnexpress.net/dich-vu-trai-dep-keo-xe-tai-nhat-5129933.html",
+    "published_at": "Thu, 08 Oct 2026 18:30:00 +0700",
+    "createAt": "2026-10-08T11:30:00.000Z",
+    "thumbnail_blurhash": "LND9qwX7XN$*_MjvRjkC%yxHVtNu"
+  },
+  {
+    "id": "https://vnexpress.net/da-nang-tam-dung-tham-quan-ban-dao-son-tra-5130055.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Đà Nẵng tạm dừng tham quan bán đảo Sơn Trà",
+    "description": "Hoạt động tham quan bán đảo Sơn Trà tạm dừng từ ngày 8/10 đến khi có thông báo mới, do dự báo mưa lớn kéo dài, tiềm ẩn nguy cơ sạt lở đất và lũ quét.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/10/08/ban-dao-son-tra-pham-phung-j-1-3070-5514-1791459574.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=Yo1JZ-X2e2NHOe5JtAeEBA",
+    "link": "https://vnexpress.net/da-nang-tam-dung-tham-quan-ban-dao-son-tra-5130055.html",
+    "published_at": "Thu, 08 Oct 2026 18:40:22 +0700",
+    "createAt": "2026-10-08T11:40:22.000Z",
+    "thumbnail_blurhash": "LLEzAk^*-p%f;Txaoeof?dxtofof"
+  },
+  {
+    "id": "https://vnexpress.net/mua-concert-thang-10-khien-luong-dat-ve-may-bay-tang-70-5130054.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "'Mùa concert' tháng 10 khiến lượng đặt vé máy bay tăng 70%",
+    "description": "Lượng đặt vé máy bay đến Hà Nội và TP HCM trong những ngày diễn ra các concert lớn vào 10, trong đó có BIGBANG, tăng hơn 70% so với cùng kỳ năm ngoái, theo Trip.com.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/10/08/3-1791456945-8540-1791456984.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=Yr8uzHuq0ZNtUuVj-TJ51w",
+    "link": "https://vnexpress.net/mua-concert-thang-10-khien-luong-dat-ve-may-bay-tang-70-5130054.html",
+    "published_at": "Thu, 08 Oct 2026 19:00:00 +0700",
+    "createAt": "2026-10-08T12:00:00.000Z",
+    "thumbnail_blurhash": "LwJH%RM|aet7~qofRjj??bjZj]s:"
+  },
+  {
+    "id": "https://vnexpress.net/sao-chon-dua-4-nghe-si-kham-pha-am-thuc-ha-noi-5128883.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "'Sao Chọn' đưa 4 nghệ sĩ khám phá ẩm thực Hà Nội",
+    "description": "Diễn viên Huyền Lizzie, ca sĩ (S)Trong Trọng Hiếu, 14 Casper và host Trần Ngọc sẽ khám phá ẩm thực, văn hóa Hà Nội trong tập ba \"Sao Chọn\", lên sóng cuối tuần này.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/10/08/97-1791422624-5005-1791425035.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=yQqPonA-RaKOSJqtVNcTLA",
+    "link": "https://vnexpress.net/sao-chon-dua-4-nghe-si-kham-pha-am-thuc-ha-noi-5128883.html",
+    "published_at": "Thu, 08 Oct 2026 19:00:00 +0700",
+    "createAt": "2026-10-08T12:00:00.000Z",
+    "thumbnail_blurhash": "LEJtrB:j00IU~VROR+?bp{01%f_3"
   }
 ]
