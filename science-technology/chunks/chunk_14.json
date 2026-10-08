@@ -739,5 +739,31 @@
     "published_at": "Thu, 08 Oct 2026 16:00:00 +0700",
     "createAt": "2026-10-08T09:00:00.000Z",
     "thumbnail_blurhash": "LiIrHUt7xtof~qofs:azxtayNHay"
+  },
+  {
+    "id": "https://vnexpress.net/trien-lam-thanh-pho-thong-minh-khai-mac-tai-ha-noi-5129970.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Triển lãm thành phố thông minh khai mạc tại Hà Nội",
+    "description": "Triển lãm quy tụ 200 đơn vị từ hơn 10 quốc gia và vùng lãnh thổ, giới thiệu nhiều giải pháp, công nghệ mới về thành phố thông minh.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/08/dsc-jpg-1791448065-7543-1791448279.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=C8Sddfafqv-ODI86RgmJtQ",
+    "link": "https://vnexpress.net/trien-lam-thanh-pho-thong-minh-khai-mac-tai-ha-noi-5129970.html",
+    "published_at": "Thu, 08 Oct 2026 16:23:58 +0700",
+    "createAt": "2026-10-08T09:23:58.000Z",
+    "thumbnail_blurhash": "LGJ[9%Hqr9nAIPnMnL%4v$v}?G$f"
+  },
+  {
+    "id": "https://vnexpress.net/tp-hcm-muon-dau-tu-mao-hiem-de-dua-nghien-cuu-ai-ra-thi-truong-5129981.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "TP HCM muốn đầu tư mạo hiểm để đưa nghiên cứu AI ra thị trường",
+    "description": "Phó chủ tịch TP HCM Trương Minh Huy Vũ cho biết thành phố đang chuẩn bị hạ tầng, dữ liệu và cơ chế vốn để các nhóm nghiên cứu AI đưa sản phẩm ra thực tế, có thêm nhiều startup công nghệ tỷ USD.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/08/wm1-wm1-wm1-saigon-ai-hub-17914536-3819-3400-1791453669.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=baZndED60alRsXmZs1s5GQ",
+    "link": "https://vnexpress.net/tp-hcm-muon-dau-tu-mao-hiem-de-dua-nghien-cuu-ai-ra-thi-truong-5129981.html",
+    "published_at": "Thu, 08 Oct 2026 16:58:06 +0700",
+    "createAt": "2026-10-08T09:58:06.000Z",
+    "thumbnail_blurhash": "LENK-SOrYj.mpcJ5-=Xl-VNZnPs."
   }
 ]
