@@ -1012,5 +1012,44 @@
     "published_at": "Thu, 08 Oct 2026 22:54:52 +0700",
     "createAt": "2026-10-08T15:54:52.000Z",
     "thumbnail_blurhash": "LRGRn|X.S4$L~q%MWAR+E#w]V@S~"
+  },
+  {
+    "id": "https://vnexpress.net/xay-dung-dai-hoc-huu-nghi-lao-viet-nam-rong-50-ha-5130127.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Xây dựng Đại học Hữu nghị Lào - Việt Nam rộng 50 ha",
+    "description": "Trường Đại học Hữu nghị Lào - Việt Nam dự kiến rộng 50 ha tại thủ đô Vientiane, là cơ sở công lập chất lượng cao, hiện đại, thông minh, đào tạo 4.000 học sinh, sinh viên.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/08/lao-vn-jpeg-1791474361-7301-1791474368.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=t_wVKSQfsGuCh4Matn2M7Q",
+    "link": "https://vnexpress.net/xay-dung-dai-hoc-huu-nghi-lao-viet-nam-rong-50-ha-5130127.html",
+    "published_at": "Thu, 08 Oct 2026 23:02:55 +0700",
+    "createAt": "2026-10-08T16:02:55.000Z",
+    "thumbnail_blurhash": "LlL|7Onhiexv~VofsqRQ?un$Iot7"
+  },
+  {
+    "id": "https://vnexpress.net/dinh-bac-chan-thuong-5130132.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Đình Bắc chấn thương",
+    "description": "Nguyễn Đình Bắc không thể tự di chuyển ở cuối trận Công an Hà Nội thắng Lion City Sailors 1-0 tại Cup CLB Đông Nam Á 2026-2027 tối 8/10.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/10/08/nguyen-dinh-bac-1791476119-6444-1791476167.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=DGlZlgt2ODGDkAIMhz2jxg",
+    "link": "https://vnexpress.net/dinh-bac-chan-thuong-5130132.html",
+    "published_at": "Thu, 08 Oct 2026 23:17:41 +0700",
+    "createAt": "2026-10-08T16:17:41.000Z",
+    "thumbnail_blurhash": "LCE_.%UV7EXL.Nb=w0NH3{+K;SOV"
+  },
+  {
+    "id": "https://vnexpress.net/cai-xua-tay-cua-nguoi-nhat-5130128.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Cái xua tay của người Nhật",
+    "description": "Có lần tôi cùng một doanh nghiệp Nhật Bản đến gặp và hỗ trợ một doanh nghiệp xuất khẩu gạo của Việt Nam tìm kiếm khách hàng quốc tế.",
+    "thumbnail_url": null,
+    "link": "https://vnexpress.net/cai-xua-tay-cua-nguoi-nhat-5130128.html",
+    "published_at": "Thu, 08 Oct 2026 23:20:10 +0700",
+    "createAt": "2026-10-08T16:20:10.000Z",
+    "thumbnail_blurhash": null
   }
 ]
