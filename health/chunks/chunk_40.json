@@ -1051,5 +1051,31 @@
     "published_at": "Thu, 08 Oct 2026 12:00:00 +0700",
     "createAt": "2026-10-08T05:00:00.000Z",
     "thumbnail_blurhash": "LsM@it9FWCM{~qWUWXoft7ocRjoz"
+  },
+  {
+    "id": "https://vnexpress.net/5-dau-hieu-de-bi-hieu-nham-khi-tre-mac-tay-chan-mieng-5129871.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "5 dấu hiệu dễ bị hiểu nhầm khi trẻ mắc tay chân miệng",
+    "description": "Nhiều người nhầm dấu hiệu nổi ban khi mắc tay chân miệng với rôm sảy, nhiệt miệng khiến trẻ chậm điều trị đúng cách dẫn đến tăng nguy cơ trở nặng.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/08/1-ok-1791434684-1769-1791434741.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=DK_VHg0UMTQF5LNKeIn3PA",
+    "link": "https://vnexpress.net/5-dau-hieu-de-bi-hieu-nham-khi-tre-mac-tay-chan-mieng-5129871.html",
+    "published_at": "Thu, 08 Oct 2026 13:00:00 +0700",
+    "createAt": "2026-10-08T06:00:00.000Z",
+    "thumbnail_blurhash": "LPH_xw.T?FOYOZI[ngTLyEbH$eNH"
+  },
+  {
+    "id": "https://vnexpress.net/thi-luc-thay-doi-the-nao-sau-40-tuoi-5129819.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Thị lực thay đổi thế nào sau 40 tuổi",
+    "description": "Sau tuổi 40, mắt bắt đầu thay đổi tự nhiên, khiến nhiều người khó nhìn gần, cần nhiều ánh sáng hơn và chậm thích nghi khi chuyển từ sáng sang tối.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/08/a17688d8ea486b163259-179143016-3770-3779-1791430177.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=MlGw1g5TmSZtrlL_IeB-2A",
+    "link": "https://vnexpress.net/thi-luc-thay-doi-the-nao-sau-40-tuoi-5129819.html",
+    "published_at": "Thu, 08 Oct 2026 13:00:00 +0700",
+    "createAt": "2026-10-08T06:00:00.000Z",
+    "thumbnail_blurhash": "LAI;nw0.Di59~8004o%$x9-;?vWA"
   }
 ]
