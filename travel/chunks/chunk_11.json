@@ -193,5 +193,31 @@
     "published_at": "Thu, 08 Oct 2026 07:28:18 +0700",
     "createAt": "2026-10-08T00:28:18.000Z",
     "thumbnail_blurhash": "LeDwW@R*WCtR%jRjWBog-;RjWUjb"
+  },
+  {
+    "id": "https://vnexpress.net/thu-ha-noi-trong-mat-chang-trai-tay-nguyen-5126247.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Thu Hà Nội trong mắt chàng trai Tây Nguyên",
+    "description": "Tự nhân là \"người yêu mùa thu Hà Nội\" nên mỗi năm cứ đến tháng 9-10, Lê Trọng Lộc lại ra thủ đô, lang thang trên các con phố để chụp ảnh.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/09/30/DSC04573-1-1790740582-1790756352.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=y9eKdyC4aKPVS2EwNeWM4Q",
+    "link": "https://vnexpress.net/thu-ha-noi-trong-mat-chang-trai-tay-nguyen-5126247.html",
+    "published_at": "Thu, 08 Oct 2026 09:00:00 +0700",
+    "createAt": "2026-10-08T02:00:00.000Z",
+    "thumbnail_blurhash": "LGAKy,?^ICH@EKWTVuR6nnoMV@M{"
+  },
+  {
+    "id": "https://vnexpress.net/saigontimes-travel-hop-tac-kizuna-nhat-ban-phat-trien-du-lich-ung-dung-ai-5129500.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "SaigonTimes Travel hợp tác Kizuna Nhật Bản phát triển du lịch ứng dụng AI",
+    "description": "SaigonTimes Travel và Kizuna ký thỏa thuận hợp tác phát triển hệ sinh thái \"AI Tourism\", ứng dụng công nghệ vào hỗ trợ thị thực, xây dựng hành trình và mở rộng trao đổi khách Việt - Nhật.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/10/07/pr02-1791358045-9932-1791366084.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Yu7zJqbKGsKR3GEqWEQp8w",
+    "link": "https://vnexpress.net/saigontimes-travel-hop-tac-kizuna-nhat-ban-phat-trien-du-lich-ung-dung-ai-5129500.html",
+    "published_at": "Thu, 08 Oct 2026 09:00:00 +0700",
+    "createAt": "2026-10-08T02:00:00.000Z",
+    "thumbnail_blurhash": "L+LE{Ft6tltR~qofjXbGnhfkaKaf"
   }
 ]
