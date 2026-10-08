@@ -1012,5 +1012,31 @@
     "published_at": "Thu, 08 Oct 2026 15:41:43 +0700",
     "createAt": "2026-10-08T08:41:43.000Z",
     "thumbnail_blurhash": "LD7xRvM{EdoIajxYN5NMOLWaxvnz"
+  },
+  {
+    "id": "https://vnexpress.net/tuong-phan-giua-messi-va-ronaldo-trong-ngay-chia-tay-doi-tuyen-5129932.html",
+    "category_id": "sports",
+    "category_name": "Thể thao",
+    "source": "VnExpress",
+    "title": "Tương phản giữa Messi và Ronaldo trong ngày chia tay đội tuyển",
+    "description": "Lionel Messi chia tay đội tuyển Argentina trong nước mắt và sự tôn vinh, còn Cristiano Ronaldo rời Bồ Đào Nha trong giận dữ sau mâu thuẫn với HLV Jorge Jesus.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/10/08/ronaldo-messsi-1791444541-8609-1791444729.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=PGBjROCE9_qA-JgFrfoYBQ",
+    "link": "https://vnexpress.net/tuong-phan-giua-messi-va-ronaldo-trong-ngay-chia-tay-doi-tuyen-5129932.html",
+    "published_at": "Thu, 08 Oct 2026 17:36:00 +0700",
+    "createAt": "2026-10-08T10:36:00.000Z",
+    "thumbnail_blurhash": "LCCj9TAOx^s*z-_3-o0L_0$JIUOt"
+  },
+  {
+    "id": "https://vnexpress.net/vi-sao-dinh-bac-van-bi-cam-hai-tran-o-asian-cup-2027-5130063.html",
+    "category_id": "sports",
+    "category_name": "Thể thao",
+    "source": "VnExpress",
+    "title": "Vì sao Đình Bắc vẫn bị cấm hai trận ở Asian Cup 2027?",
+    "description": "Nguyễn Đình Bắc không thi đấu trận Việt Nam gặp Malaysia ở vòng loại cuối Asian Cup 2027, nhưng LĐBĐ châu Á không tính vào án treo giò hai trận.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/10/08/don-jpg-1791457218-6865-1791457316.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=84kbCn6KwU3zZTtkUn3puw",
+    "link": "https://vnexpress.net/vi-sao-dinh-bac-van-bi-cam-hai-tran-o-asian-cup-2027-5130063.html",
+    "published_at": "Thu, 08 Oct 2026 18:04:07 +0700",
+    "createAt": "2026-10-08T11:04:07.000Z",
+    "thumbnail_blurhash": "LBEVNdiI3COr00I[+Hof.lRP^6%1"
   }
 ]
