@@ -804,5 +804,31 @@
     "published_at": "Fri, 09 Oct 2026 00:00:00 +0700",
     "createAt": "2026-10-08T17:00:00.000Z",
     "thumbnail_blurhash": "LCEVpVD%RjIV${D%_N8_9uV@IUIp"
+  },
+  {
+    "id": "https://vnexpress.net/chay-cua-hang-xe-may-tren-pho-ha-noi-5130135.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Cháy cửa hàng xe máy trên phố Hà Nội",
+    "description": "Cửa hàng xe máy cũ rộng hàng trăm m2 trên phố Nguyễn Khánh Toàn, phường Nghĩa Đô, bốc cháy dữ dội tối 8/10.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/08/10081-1791476381-8816-1791476675.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=IHXRlhMbN7_tddDOnq8opg&t=image",
+    "link": "https://vnexpress.net/chay-cua-hang-xe-may-tren-pho-ha-noi-5130135.html",
+    "published_at": "Fri, 09 Oct 2026 02:00:00 +0700",
+    "createAt": "2026-10-08T19:00:00.000Z",
+    "thumbnail_blurhash": "L9AI-^s+109v9JNKxtxZ2ZkB}?w]"
+  },
+  {
+    "id": "https://vnexpress.net/di-doi-loat-tru-dien-giua-duong-moi-mo-rong-o-noi-do-tp-hcm-5129667.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Di dời loạt trụ điện giữa đường mới mở rộng ở nội đô TP HCM",
+    "description": "Loạt trụ điện khiến đường Chu Văn An (phường Bình Thạnh) dù mở rộng gấp 4 lần nhưng không thể thông xe đang được di dời.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/08/wm1-233a1009-1791450254.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Ffpt4spjlVSS9eMeDNcG9A",
+    "link": "https://vnexpress.net/di-doi-loat-tru-dien-giua-duong-moi-mo-rong-o-noi-do-tp-hcm-5129667.html",
+    "published_at": "Fri, 09 Oct 2026 05:00:00 +0700",
+    "createAt": "2026-10-08T22:00:00.000Z",
+    "thumbnail_blurhash": "LwHLYzV[adt7.TtRbGWXtTo#t7js"
   }
 ]
