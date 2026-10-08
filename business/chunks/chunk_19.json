@@ -310,5 +310,44 @@
     "published_at": "Thu, 08 Oct 2026 13:00:00 +0700",
     "createAt": "2026-10-08T06:00:00.000Z",
     "thumbnail_blurhash": "LLH_iH4mMwKRu4sS^%so}+TfJBMw"
+  },
+  {
+    "id": "https://vnexpress.net/gia-xang-dau-moi-nhat-hom-nay-8-10-5129901.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Giá xăng tăng hơn 1.000 đồng, dầu giảm",
+    "description": "Từ 15h hôm nay, mỗi lít xăng tăng 1.070-1.140 đồng, dầu diesel giảm 590 đồng, theo đà biến động của thị trường năng lượng thế giới.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/08/wm1-wm1-110326xangdauhoanggiang-17-7152-4168-1791445491.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=rBH3TSAvGbmjmTxPiu_ACA",
+    "link": "https://vnexpress.net/gia-xang-dau-moi-nhat-hom-nay-8-10-5129901.html",
+    "published_at": "Thu, 08 Oct 2026 14:48:32 +0700",
+    "createAt": "2026-10-08T07:48:32.000Z",
+    "thumbnail_blurhash": "LCCim_~VxnIwcYT2OF${I84.xw-T"
+  },
+  {
+    "id": "https://vnexpress.net/spacex-tim-cach-xoay-40-ty-usd-de-mua-chip-nvidia-5129962.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "SpaceX tìm cách 'xoay' 40 tỷ USD để mua chip Nvidia",
+    "description": "Công ty hàng không vũ trụ của Elon Musk lên kế hoạch vay vốn và phát hành trái phiếu để có tiền mua thêm chip Nvidia.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/08/2026t095346z-rc2kxka3n3xk-rtrm-4857-9579-1791447064.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=8gF4SnDCrvvktobKdiNVYw",
+    "link": "https://vnexpress.net/spacex-tim-cach-xoay-40-ty-usd-de-mua-chip-nvidia-5129962.html",
+    "published_at": "Thu, 08 Oct 2026 15:20:46 +0700",
+    "createAt": "2026-10-08T08:20:46.000Z",
+    "thumbnail_blurhash": "LLD]uZIo00~W.AxttSRiIo%L-;E1"
+  },
+  {
+    "id": "https://vnexpress.net/nha-dau-tu-nuoc-ngoai-chua-dut-chuoi-ban-rong-5129968.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Nhà đầu tư nước ngoài chưa dứt chuỗi bán ròng",
+    "description": "Khối ngoại đã bán ròng trong 12 phiên liên tiếp với hơn 11.400 tỷ đồng, tạo áp lực lên thị trường chứng khoán trong phiên VN-Index giảm hơn 14 điểm.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/08/wm1-wm1-233a7417-1791447411-4066-1791447456.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=-u4OW9Vu6jqzn6x3Qd1xBQ",
+    "link": "https://vnexpress.net/nha-dau-tu-nuoc-ngoai-chua-dut-chuoi-ban-rong-5129968.html",
+    "published_at": "Thu, 08 Oct 2026 15:33:55 +0700",
+    "createAt": "2026-10-08T08:33:55.000Z",
+    "thumbnail_blurhash": "LC7-g7DiIT?wI9%MozD%Vrt8kCRi"
   }
 ]
