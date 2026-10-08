@@ -1220,5 +1220,31 @@
     "published_at": "Thu, 08 Oct 2026 15:31:23 +0700",
     "createAt": "2026-10-08T08:31:23.000Z",
     "thumbnail_blurhash": "LxI}@ZWUISog_4WBM_a#?GofWZbE"
+  },
+  {
+    "id": "https://vnexpress.net/jaguar-ra-mat-sedan-dien-1-000-ma-luc-sau-6-nam-cho-doi-5129754.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Jaguar ra mắt sedan điện 1.000 mã lực sau 6 năm chờ đợi",
+    "description": "Sau 6 năm chuẩn bị cho bước đi mạo hiểm nhất kể từ khi thành lập hơn 9 thập kỷ trước, Jaguar vừa vén màn mẫu sedan thuần điện Type 1.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/08/JaguarType011-1791428645-5046-1791429334.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=kv7doUCcrc_Qj4kD3tuh0Q",
+    "link": "https://vnexpress.net/jaguar-ra-mat-sedan-dien-1-000-ma-luc-sau-6-nam-cho-doi-5129754.html",
+    "published_at": "Thu, 08 Oct 2026 15:55:00 +0700",
+    "createAt": "2026-10-08T08:55:00.000Z",
+    "thumbnail_blurhash": "LHG+BkIUIT%L_2NGIUt6~ptRNIfj"
+  },
+  {
+    "id": "https://vnexpress.net/nguoi-viet-hinh-dung-xe-may-dien-tuong-lai-the-nao-5130010.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Người Việt hình dung xe máy điện tương lai thế nào?",
+    "description": "Xe tự giữ thăng bằng khi tắc đường, hỗ trợ người cao tuổi hay cấp điện cho hàng quán là những ý tưởng được người Việt đề xuất tại cuộc thi thiết kế xe máy điện.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/08/1-1791450530-3884-1791450649.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=UMQUILyIS3e-e5Oftzhgrw",
+    "link": "https://vnexpress.net/nguoi-viet-hinh-dung-xe-may-dien-tuong-lai-the-nao-5130010.html",
+    "published_at": "Thu, 08 Oct 2026 16:30:00 +0700",
+    "createAt": "2026-10-08T09:30:00.000Z",
+    "thumbnail_blurhash": "L8CGMp~X8w^0v}?G_3}@m*R5%Nxu"
   }
 ]
