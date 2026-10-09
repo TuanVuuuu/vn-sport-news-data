@@ -453,5 +453,18 @@
     "published_at": "Thu, 08 Oct 2026 23:20:10 +0700",
     "createAt": "2026-10-08T16:20:10.000Z",
     "thumbnail_blurhash": null
+  },
+  {
+    "id": "https://vnexpress.net/loi-chinh-ta-tren-bang-ron-bieu-tinh-5130561.html",
+    "category_id": "perspectives",
+    "category_name": "Góc nhìn",
+    "source": "VnExpress",
+    "title": "Lỗi chính tả trên băng rôn biểu tình",
+    "description": "Nếu có điều gì đó làm 'loãng' không khí căng thẳng của biểu tình ở Pháp, thì chính là lỗi chính tả trên các khẩu hiệu.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/09/20261009VoNhatVinh-1791564366-1498-1791564552.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=FDe24qcwaTBgw9s080tojQ",
+    "link": "https://vnexpress.net/loi-chinh-ta-tren-bang-ron-bieu-tinh-5130561.html",
+    "published_at": "Sat, 10 Oct 2026 00:00:16 +0700",
+    "createAt": "2026-10-09T17:00:16.000Z",
+    "thumbnail_blurhash": "L9Qck;~WM{~W~qt7RjkC~qoLRjRj"
   }
 ]
