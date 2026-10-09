@@ -726,5 +726,31 @@
     "published_at": "Fri, 09 Oct 2026 23:37:40 +0700",
     "createAt": "2026-10-09T16:37:40.000Z",
     "thumbnail_blurhash": "LLI=$H04bz_219-f%NNO.As4IqT3"
+  },
+  {
+    "id": "https://vnexpress.net/ong-putin-de-xuat-giup-iran-cham-dut-chien-su-5130333.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Ông Putin đề xuất giúp Iran chấm dứt chiến sự",
+    "description": "Tổng thống Nga Putin cam kết với người đồng cấp Iran Pezeshkian rằng sẽ \"làm mọi thứ\" để góp phần chấm dứt cuộc xung đột ở Trung Đông.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/09/afp20261008d2nr4kev3highrestur-3875-3545-1791538973.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=SvYi41v4CgIVX2ccYLK8rQ",
+    "link": "https://vnexpress.net/ong-putin-de-xuat-giup-iran-cham-dut-chien-su-5130333.html",
+    "published_at": "Sat, 10 Oct 2026 00:37:32 +0700",
+    "createAt": "2026-10-09T17:37:32.000Z",
+    "thumbnail_blurhash": "LuKwd;bwW=WZ~VNGNFbE%1ofkCt6"
+  },
+  {
+    "id": "https://vnexpress.net/tinh-canh-tro-troi-khien-oanh-tac-co-my-de-hung-don-drone-o-anh-5130304.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Tình cảnh trơ trọi khiến oanh tạc cơ Mỹ dễ hứng đòn drone ở Anh",
+    "description": "Căn cứ Fairford không có nhà chứa máy bay kiên cố, buộc phi đội B-1B Mỹ nằm ngoài trời và dễ tổn thương nếu bị drone tập kích.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/09/5563187178137269254a-179151780-3730-9680-1791518909.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=a8BY3sNSkrQ4cAgXxB0Kmg",
+    "link": "https://vnexpress.net/tinh-canh-tro-troi-khien-oanh-tac-co-my-de-hung-don-drone-o-anh-5130304.html",
+    "published_at": "Sat, 10 Oct 2026 01:00:00 +0700",
+    "createAt": "2026-10-09T18:00:00.000Z",
+    "thumbnail_blurhash": "LCIN~p024.^+~W?FNIocr;Rok9IU"
   }
 ]
