@@ -570,5 +570,31 @@
     "published_at": "Fri, 09 Oct 2026 04:00:00 +0700",
     "createAt": "2026-10-08T21:00:00.000Z",
     "thumbnail_blurhash": "LcG9jkx]IAbc%%o#M{xuxvogj[j]"
+  },
+  {
+    "id": "https://vnexpress.net/gia-dau-tho-the-gioi-tang-manh-5130188.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Giá dầu thô thế giới tăng mạnh",
+    "description": "Lo ngại nguồn cung tại Trung Đông và cơn bão sắp đổ bộ vào Mỹ khiến giá dầu thế giới tăng 4% một phiên.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/09/Screenshot20260905120648-17915-9341-2200-1791507898.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=vlGsSbwYjO7sRkv_MPx1-Q",
+    "link": "https://vnexpress.net/gia-dau-tho-the-gioi-tang-manh-5130188.html",
+    "published_at": "Fri, 09 Oct 2026 08:11:02 +0700",
+    "createAt": "2026-10-09T01:11:02.000Z",
+    "thumbnail_blurhash": "LDGSS}~q009rs$ROxvx^?vIV4nxq"
+  },
+  {
+    "id": "https://vnexpress.net/em-dau-chu-tich-kosy-muon-bat-day-co-phieu-5130184.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Em dâu Chủ tịch Kosy muốn 'bắt đáy' cổ phiếu",
+    "description": "Em dâu Chủ tịch HĐQT Kosy Nguyễn Việt Cường đăng ký mua 8 triệu cổ phiếu KOS khi thị giá xuống thấp kỷ lục sau chuỗi giảm sàn 14 phiên liên tiếp.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/09/wm1-wm1-td5-1791507668-5093-1791507758.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=5nj68sEPBHSXyFAVMtkoeg",
+    "link": "https://vnexpress.net/em-dau-chu-tich-kosy-muon-bat-day-co-phieu-5130184.html",
+    "published_at": "Fri, 09 Oct 2026 08:14:53 +0700",
+    "createAt": "2026-10-09T01:14:53.000Z",
+    "thumbnail_blurhash": "LJBpkP_NRks:019Ht7WW--xpRjWA"
   }
 ]
