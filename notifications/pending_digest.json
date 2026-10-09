@@ -1,3 +1,95 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/ben-trong-benh-vien-bao-duong-sieu-may-bay-5126281.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Bên trong 'bệnh viện' bảo dưỡng siêu máy bay",
+      "description": "Những chiếc máy bay thân rộng được tháo nội thất, mở vỏ động cơ để kiểm tra, sửa chữa và cải tạo tại trung tâm kỹ thuật rộng 40 ha ở sân bay quốc tế Dubai, UAE.",
+      "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/09/29/img-1790678961.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Km6dWAuy6pGs-kGgT41Aww",
+      "link": "https://vnexpress.net/ben-trong-benh-vien-bao-duong-sieu-may-bay-5126281.html",
+      "published_at": "Fri, 09 Oct 2026 00:00:00 +0700",
+      "createAt": "2026-10-08T17:00:00.000Z",
+      "thumbnail_blurhash": "LTCG+6t6tRxvyZocRkkX%$jrkCo#"
+    },
+    {
+      "id": "https://vnexpress.net/nha-hem-nha-pho-tai-tp-hcm-rot-gia-hang-ty-dong-5129906.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Nhà hẻm, nhà phố tại TP HCM 'rớt giá' hàng tỷ đồng",
+      "description": "Giá nhà phố, riêng lẻ tại TP HCM giảm hàng tỷ đồng ở nhiều khu vực khi người bán chịu áp lực tài chính, trong khi người mua vẫn chưa vội xuống tiền.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/09/wm1-wm1-z7399340769219-ca27b58db13-3653-9456-1791501273.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=13z1lw9KLLz69HSKrkMngw",
+      "link": "https://vnexpress.net/nha-hem-nha-pho-tai-tp-hcm-rot-gia-hang-ty-dong-5129906.html",
+      "published_at": "Fri, 09 Oct 2026 05:00:00 +0700",
+      "createAt": "2026-10-08T22:00:00.000Z",
+      "thumbnail_blurhash": "LDECzi?wV=00.6x]xtIU-:-o%Ns:"
+    },
+    {
+      "id": "https://vnexpress.net/di-doi-loat-tru-dien-giua-duong-moi-mo-rong-o-noi-do-tp-hcm-5129667.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Di dời loạt trụ điện giữa đường mới mở rộng ở nội đô TP HCM",
+      "description": "Loạt trụ điện khiến đường Chu Văn An (phường Bình Thạnh) dù mở rộng gấp 4 lần nhưng không thể thông xe đang được di dời.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/08/wm1-233a1009-1791450254.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Ffpt4spjlVSS9eMeDNcG9A",
+      "link": "https://vnexpress.net/di-doi-loat-tru-dien-giua-duong-moi-mo-rong-o-noi-do-tp-hcm-5129667.html",
+      "published_at": "Fri, 09 Oct 2026 05:00:00 +0700",
+      "createAt": "2026-10-08T22:00:00.000Z",
+      "thumbnail_blurhash": "LwHLYzV[adt7.TtRbGWXtTo#t7js"
+    },
+    {
+      "id": "https://vnexpress.net/nguoi-viet-chon-thuong-hieu-oto-cua-quoc-gia-nao-nhat-5129780.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Người Việt chọn thương hiệu ôtô của quốc gia nào nhất?",
+      "description": "Thứ tự ưa chuộng ôtô của người Việt dựa trên doanh số là xe Việt, Nhật, Hàn, Mỹ.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/08/nguoivietuachiongxevnexpress-1-6361-6745-1791450936.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Gzx0jqgd71940208jnlQdg",
+      "link": "https://vnexpress.net/nguoi-viet-chon-thuong-hieu-oto-cua-quoc-gia-nao-nhat-5129780.html",
+      "published_at": "Fri, 09 Oct 2026 05:00:00 +0700",
+      "createAt": "2026-10-08T22:00:00.000Z",
+      "thumbnail_blurhash": "LQIrZwtQgGs,%yjcRkV@~XjJnok9"
+    },
+    {
+      "id": "https://vnexpress.net/nhieu-thi-sinh-lanh-nhat-voi-nganh-cong-nghe-thong-tin-5128392.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Nhiều thí sinh 'lạnh nhạt' với ngành Công nghệ thông tin",
+      "description": "Ấp ủ, luyện thi để vào ngành Công nghệ thông tin từ lớp 11 nhưng đến khi chuẩn bị đăng ký xét tuyển đại học, Ngọc Hân chuyển hướng sang Kỹ thuật Điều khiển và Tự động hóa.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/05/it-1791188535-6414-1791193757.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=kgTT3vWcPEAlwZw6wft95Q",
+      "link": "https://vnexpress.net/nhieu-thi-sinh-lanh-nhat-voi-nganh-cong-nghe-thong-tin-5128392.html",
+      "published_at": "Fri, 09 Oct 2026 05:51:23 +0700",
+      "createAt": "2026-10-08T22:51:23.000Z",
+      "thumbnail_blurhash": "LEC6r-b|--~p5DaND%IU$vxtM}My"
+    },
+    {
+      "id": "https://vnexpress.net/nhung-nguoi-co-viec-lam-dung-ngoai-luoi-an-sinh-5130149.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Những người có việc làm đứng ngoài lưới an sinh",
+      "description": "Mất việc, Mạnh Khang 31 tuổi ở Hà Nội, chạy xe công nghệ 11 tiếng mỗi ngày suốt ba năm qua và được xếp vào nhóm có việc làm dù không có bảo hiểm xã hội, hợp đồng lao động.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/09/179148395108629054653333407889-3906-5783-1791500019.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=5QJDOpH3QwEdxNJFFHI1bQ",
+      "link": "https://vnexpress.net/nhung-nguoi-co-viec-lam-dung-ngoai-luoi-an-sinh-5130149.html",
+      "published_at": "Fri, 09 Oct 2026 05:54:17 +0700",
+      "createAt": "2026-10-08T22:54:17.000Z",
+      "thumbnail_blurhash": "LBE.@J}Ipdt8~qWm4T9Z0OUEI9M|"
+    },
+    {
+      "id": "https://vnexpress.net/may-bay-cho-khach-arab-saudi-bi-pha-huy-khi-houthi-tap-kich-riyadh-5130148.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Máy bay chở khách Arab Saudi 'bị phá hủy' khi Houthi tập kích Riyadh",
+      "description": "Các nhân chứng cho biết ít nhất một phi cơ tại sân bay thủ đô Riyadh của Arab Saudi đã bị phá hủy trong đòn tập kích của Houthi.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/09/downloadt061754-1791502299-4444-1791502309.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=CnNagxbH45z7-KQZLLgpJQ",
+      "link": "https://vnexpress.net/may-bay-cho-khach-arab-saudi-bi-pha-huy-khi-houthi-tap-kich-riyadh-5130148.html",
+      "published_at": "Fri, 09 Oct 2026 06:56:54 +0700",
+      "createAt": "2026-10-08T23:56:54.000Z",
+      "thumbnail_blurhash": "L9G+UJi^jE?b01IpRObI~7D%M{ax"
+    }
+  ]
 }

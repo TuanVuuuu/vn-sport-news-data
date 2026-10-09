@@ -1259,5 +1259,31 @@
     "published_at": "Fri, 09 Oct 2026 05:00:00 +0700",
     "createAt": "2026-10-08T22:00:00.000Z",
     "thumbnail_blurhash": "LQIrZwtQgGs,%yjcRkV@~XjJnok9"
+  },
+  {
+    "id": "https://vnexpress.net/tai-xe-thoat-chet-khi-xe-no-lop-o-toc-do-370-km-h-5129718.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Tài xế thoát chết khi xe nổ lốp ở tốc độ 370 km/h",
+    "description": "Mẫu xe độ Ford Mustang nổ lốp sau khi đạt tốc độ 370 km/h với sườn xe bị xé toạc nhưng người lái may mắn thoát chết.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/08/ezgif59b6e3afd3a0cb87-17914480-4935-3055-1791448577.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=YU1LeQFi7XKNG4npRUV3ew&t=image",
+    "link": "https://vnexpress.net/tai-xe-thoat-chet-khi-xe-no-lop-o-toc-do-370-km-h-5129718.html",
+    "published_at": "Fri, 09 Oct 2026 06:00:00 +0700",
+    "createAt": "2026-10-08T23:00:00.000Z",
+    "thumbnail_blurhash": "LMI=4A~XE0W-0Jxvxut6ITD$NGjv"
+  },
+  {
+    "id": "https://vnexpress.net/bmw-ix4-lan-dau-lo-dien-5129847.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "BMW iX4 lần đầu lộ diện",
+    "description": "Mẫu xe gầm cao chạy điện kiểu dáng coupe với tầm hoạt động gần 700 km, công suất hơn 600 mã lực, bán từ tháng 3/2027.",
+    "thumbnail_url": null,
+    "link": "https://vnexpress.net/bmw-ix4-lan-dau-lo-dien-5129847.html",
+    "published_at": "Fri, 09 Oct 2026 06:30:00 +0700",
+    "createAt": "2026-10-08T23:30:00.000Z",
+    "thumbnail_blurhash": null
   }
 ]
