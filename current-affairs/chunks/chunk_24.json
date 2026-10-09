@@ -856,5 +856,31 @@
     "published_at": "Fri, 09 Oct 2026 08:30:00 +0700",
     "createAt": "2026-10-09T01:30:00.000Z",
     "thumbnail_blurhash": "LFGb;q?Gx^x^?wMxjtbHE1Mxaef6"
+  },
+  {
+    "id": "https://vnexpress.net/16-ty-dong-khac-phuc-sat-lo-deo-prenn-cua-ngo-da-lat-5130288.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "16 tỷ đồng khắc phục sạt lở đèo Prenn cửa ngõ Đà Lạt",
+    "description": "Sau nhiều đợt đất đá tràn xuống đường, Lâm Đồng quyết định chi 16 tỷ đồng gia cố taluy đèo Prenn, ngăn nguy cơ tiếp tục sạt lở.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/09/sat-lo-deo-prenn-1791516297-7420-1791516390.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=U7MChRHpgLkkp5mNL_V0qg",
+    "link": "https://vnexpress.net/16-ty-dong-khac-phuc-sat-lo-deo-prenn-cua-ngo-da-lat-5130288.html",
+    "published_at": "Fri, 09 Oct 2026 10:40:14 +0700",
+    "createAt": "2026-10-09T03:40:14.000Z",
+    "thumbnail_blurhash": "LBC6[O3ikx~I0#t7#*RjY1$_tMXl"
+  },
+  {
+    "id": "https://vnexpress.net/tang-toc-thi-cong-truc-duong-10-lan-xe-tai-phu-quoc-5130227.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Tăng tốc thi công trục đường 10 làn xe tại Phú Quốc",
+    "description": "Đường tỉnh ĐT.975 quy mô 10 làn xe và tuyến đường sắt nhẹ LRT đang được đẩy nhanh tiến độ, nhằm kết nối sân bay Phú Quốc với trung tâm hội nghị APEC.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/09/anh-cong-truong-1791513645-6372-1791514266.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=3RjuRy3s9I9fxaNAAdubhg",
+    "link": "https://vnexpress.net/tang-toc-thi-cong-truc-duong-10-lan-xe-tai-phu-quoc-5130227.html",
+    "published_at": "Fri, 09 Oct 2026 10:53:17 +0700",
+    "createAt": "2026-10-09T03:53:17.000Z",
+    "thumbnail_blurhash": "LCEfA@^+x^o}.T%MWoWBEMIoInIV"
   }
 ]
