@@ -661,5 +661,44 @@
     "published_at": "Sat, 10 Oct 2026 00:00:00 +0700",
     "createAt": "2026-10-09T17:00:00.000Z",
     "thumbnail_blurhash": "L6DS?*={%L~C#l9a?H={00E2xYH?"
+  },
+  {
+    "id": "https://vnexpress.net/thao-do-80-hang-quan-o-bai-bien-nhat-le-5130100.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Tháo dỡ 80 hàng quán ở bãi biển Nhật Lệ",
+    "description": "Hộ kinh doanh chủ động tháo dỡ hàng quán ở ven biển Nhật Lệ, phường Đồng Hới, trả lại mặt bằng để chính quyền chỉnh trang đô thị.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/08/wm1-anh-2_1791465031-1791465226-1791465539.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=uMDHR2Vm95E7_kxSLxJ4jQ",
+    "link": "https://vnexpress.net/thao-do-80-hang-quan-o-bai-bien-nhat-le-5130100.html",
+    "published_at": "Sat, 10 Oct 2026 00:00:00 +0700",
+    "createAt": "2026-10-09T17:00:00.000Z",
+    "thumbnail_blurhash": "LpHyE@IUxuoy?wxtWAof?ct7f6t7"
+  },
+  {
+    "id": "https://vnexpress.net/ronaldo-ghi-ban-thu-980-5130578.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Ronaldo ghi bàn thứ 980",
+    "description": "Cristiano Ronaldo nâng tổng số bàn thắng trong sự nghiệp lên 980, sau khi mở tỷ số trong trận Al Nassr thắng Al Diriyah 3-0 ở vòng 8 Saudi Pro League.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/10/10/ronaldo-al-nassr-1791575058-5281-1791575356.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=RxzOZC1cy-oe2BJ032GDNg",
+    "link": "https://vnexpress.net/ronaldo-ghi-ban-thu-980-5130578.html",
+    "published_at": "Sat, 10 Oct 2026 02:56:25 +0700",
+    "createAt": "2026-10-09T19:56:25.000Z",
+    "thumbnail_blurhash": "L9By=^~g0C0C079P-#^^tKxoobso"
+  },
+  {
+    "id": "https://vnexpress.net/dong-dat-7-7-do-lam-rung-chuyen-panama-gay-canh-bao-song-than-5130583.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Động đất 7,7 độ làm rung chuyển Panama, gây cảnh báo sóng thần",
+    "description": "Trận động đất mạnh 7,7 độ khiến nhiều công trình ở Panama đổ sập, kích hoạt cảnh báo sóng thần ở quốc gia này và nhiều nước lân cận.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/10/afp-d2tt9wj-v1-highres-panamae-5853-5911-1791586623.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=CDjBgUtIT-jwAd0FGaM7CQ",
+    "link": "https://vnexpress.net/dong-dat-7-7-do-lam-rung-chuyen-panama-gay-canh-bao-song-than-5130583.html",
+    "published_at": "Sat, 10 Oct 2026 06:02:57 +0700",
+    "createAt": "2026-10-09T23:02:57.000Z",
+    "thumbnail_blurhash": "LOG+5X~W%Mn#O]I]WVM_T1x]n$jE"
   }
 ]
