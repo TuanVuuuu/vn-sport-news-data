@@ -583,5 +583,44 @@
     "published_at": "Sat, 10 Oct 2026 06:00:00 +0700",
     "createAt": "2026-10-09T23:00:00.000Z",
     "thumbnail_blurhash": "L58y-%];IB9@}]xH9YEKozW-enn,"
+  },
+  {
+    "id": "https://vnexpress.net/u-xo-tuyen-vu-co-lam-tang-nguy-co-ung-thu-vu-5130471.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "U xơ tuyến vú có làm tăng nguy cơ ung thư vú?",
+    "description": "Tôi u xơ tuyến vú lành tính, bác sĩ dặn theo dõi và tái khám. U xơ tuyến vú có thể phát triển thành ung thư? (Lê Lộc, Đồng Nai)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/09/u-xo-1791536394-2702-1791536530.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=UhY5ZyIB3o9R4YQTHoTDCA",
+    "link": "https://vnexpress.net/u-xo-tuyen-vu-co-lam-tang-nguy-co-ung-thu-vu-5130471.html",
+    "published_at": "Sat, 10 Oct 2026 07:00:00 +0700",
+    "createAt": "2026-10-10T00:00:00.000Z",
+    "thumbnail_blurhash": "LRL|=d4oD%RP.8M_s:Rk~Uo$W?ad"
+  },
+  {
+    "id": "https://vnexpress.net/bi-ho-co-nen-an-do-chien-ran-5130462.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Bị ho có nên ăn đồ chiên rán?",
+    "description": "Tôi thường xuyên viêm họng, ho nhiều đờm, nặng hơn vào ban đêm. Tôi có cần kiêng hoàn toàn đồ chiên rán không? (Hồng Nguyễn, 40 tuổi, TP HCM)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/09/ba-o-1791544082-8231-1791544981.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=_aj1FX6s8RrSp8ilX0kRiQ",
+    "link": "https://vnexpress.net/bi-ho-co-nen-an-do-chien-ran-5130462.html",
+    "published_at": "Sat, 10 Oct 2026 07:00:00 +0700",
+    "createAt": "2026-10-10T00:00:00.000Z",
+    "thumbnail_blurhash": "LjKBK_00M{?H~qV[WAWqxttRbct6"
+  },
+  {
+    "id": "https://vnexpress.net/tre-uong-sua-thay-bua-sang-co-du-chat-5130416.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Trẻ uống sữa thay bữa sáng có đủ chất?",
+    "description": "Con tôi thường dậy muộn nên trước khi đi học chỉ uống một hộp sữa thay bữa sáng. Bé ăn như vậy có đủ chất không, cần bổ sung thêm thực phẩm nào? (Thu Hà, Hà Nội)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/09/su-a-ly-nguye-n-jpeg-179154519-4764-1761-1791545597.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=gqBhKQl8Mx3HcTtDtbFtew",
+    "link": "https://vnexpress.net/tre-uong-sua-thay-bua-sang-co-du-chat-5130416.html",
+    "published_at": "Sat, 10 Oct 2026 07:00:00 +0700",
+    "createAt": "2026-10-10T00:00:00.000Z",
+    "thumbnail_blurhash": "LAJkDl0000E206bc9E%M0L~U-ot5"
   }
 ]
