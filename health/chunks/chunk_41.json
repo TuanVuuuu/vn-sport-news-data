@@ -869,5 +869,44 @@
     "published_at": "Sat, 10 Oct 2026 14:00:00 +0700",
     "createAt": "2026-10-10T07:00:00.000Z",
     "thumbnail_blurhash": "LvPsnfn3RQtS_4NZWBxuM|kCofj["
+  },
+  {
+    "id": "https://vnexpress.net/18-nguoi-o-quang-ngai-nghi-ngo-doc-sau-an-banh-mi-5130725.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "18 người ở Quảng Ngãi nghi ngộ độc sau ăn bánh mì",
+    "description": "18 người đau quặn bụng, tiêu chảy, nôn, sốt sau khi ăn bánh mì mua ở tiệm bánh mì lâu đời ở phường Cẩm Thành, Quảng Ngãi.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/10/IMG8274-1791616542-3808-1791616676.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=9VH1f7F4-G1stcC83nU_iw",
+    "link": "https://vnexpress.net/18-nguoi-o-quang-ngai-nghi-ngo-doc-sau-an-banh-mi-5130725.html",
+    "published_at": "Sat, 10 Oct 2026 14:27:28 +0700",
+    "createAt": "2026-10-10T07:27:28.000Z",
+    "thumbnail_blurhash": "LPIOwwt6InM{_NRkM_of%Mt7RktR"
+  },
+  {
+    "id": "https://vnexpress.net/dieu-gi-xay-ra-voi-giac-ngu-khi-ban-ngung-uong-bia-5129950.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Điều gì xảy ra với giấc ngủ khi bạn ngừng uống bia?",
+    "description": "Ngừng uống bia vào buổi tối có thể giúp giấc ngủ bớt gián đoạn, duy trì giấc ngủ tốt hơn và giảm cảm giác mệt mỏi khi thức dậy.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/08/bia-1-1791446296-9319-1791446366.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=-pbn_yFVmDTZzJcezhGNuA",
+    "link": "https://vnexpress.net/dieu-gi-xay-ra-voi-giac-ngu-khi-ban-ngung-uong-bia-5129950.html",
+    "published_at": "Sat, 10 Oct 2026 15:00:00 +0700",
+    "createAt": "2026-10-10T08:00:00.000Z",
+    "thumbnail_blurhash": "LYIOOMn3nn-:~on#M|xukVo$M}WU"
+  },
+  {
+    "id": "https://vnexpress.net/hop-tac-nang-cao-cham-soc-suc-khoe-da-lieu-cong-dong-5130726.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Hợp tác nâng cao chăm sóc sức khỏe da liễu cộng đồng",
+    "description": "Long Châu ký hợp tác chiến lược với Hội Da liễu TP HCM, Trường Đại học Y khoa Phạm Ngọc Thạch, Tập đoàn L’Oréal (Pháp), đưa các hoạt động chăm sóc sức khỏe da liễu đến gần cộng đồng hơn.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/10/1-1791617126-8645-1791617232.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=HGBrBlyZiMPlFhYr7znUyA",
+    "link": "https://vnexpress.net/hop-tac-nang-cao-cham-soc-suc-khoe-da-lieu-cong-dong-5130726.html",
+    "published_at": "Sat, 10 Oct 2026 15:00:00 +0700",
+    "createAt": "2026-10-10T08:00:00.000Z",
+    "thumbnail_blurhash": "LfDwI9W[EQkE_MWUNKkBtTWUt1j="
   }
 ]
