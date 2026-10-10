@@ -700,5 +700,57 @@
     "published_at": "Sat, 10 Oct 2026 09:00:00 +0700",
     "createAt": "2026-10-10T02:00:00.000Z",
     "thumbnail_blurhash": "LLLW@ZI8M|?b_NIqslxt-lIuNF?G"
+  },
+  {
+    "id": "https://vnexpress.net/4-dau-hieu-dot-quy-de-bi-bo-qua-5130542.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "4 dấu hiệu đột quỵ dễ bị bỏ qua",
+    "description": "Đột quỵ không phải lúc nào cũng gây liệt cơ thể rõ rệt mà có thể khởi phát bằng chóng mặt, thay đổi thị lực, yếu nhẹ hoặc nói khó.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/09/tetay1-1791553194-3952-1791553210.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=MCpyS8lEQ39GZqcbdWFoCQ",
+    "link": "https://vnexpress.net/4-dau-hieu-dot-quy-de-bi-bo-qua-5130542.html",
+    "published_at": "Sat, 10 Oct 2026 10:00:00 +0700",
+    "createAt": "2026-10-10T03:00:00.000Z",
+    "thumbnail_blurhash": "LLOfcF4TPW?c_Nt7R+W?I.kCo#a_"
+  },
+  {
+    "id": "https://vnexpress.net/vi-sao-mac-benh-mat-du-van-nhin-ro-5130524.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Vì sao mắc bệnh mắt dù vẫn nhìn rõ?",
+    "description": "Thị lực 10/10 không đồng nghĩa mắt hoàn toàn khỏe mạnh, bởi một số bệnh lý có thể tiến triển âm thầm mà chưa ảnh hưởng rõ đến khả năng nhìn hoặc đọc chữ.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/09/deo-kinh2-1791546663-6769-1791546800.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=Wavdyq7r5pY8CeUtoev5oA",
+    "link": "https://vnexpress.net/vi-sao-mac-benh-mat-du-van-nhin-ro-5130524.html",
+    "published_at": "Sat, 10 Oct 2026 10:00:00 +0700",
+    "createAt": "2026-10-10T03:00:00.000Z",
+    "thumbnail_blurhash": "LWPsV9_NMb-;?bM|xtf6_3MxxtWC"
+  },
+  {
+    "id": "https://vnexpress.net/cuc-mau-dong-o-tim-troi-len-mat-gay-tac-dong-mach-vong-mac-5130477.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Cục máu đông ở tim trôi lên mắt gây tắc động mạch võng mạc",
+    "description": "Chị Hường, 48 tuổi, nhìn mờ suốt một năm mới phát hiện lỗ thông trong tim khiến cục máu đông trôi lên mắt làm tắc động mạch võng mạc.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/09/image001-1791537552-8727-1791537606.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=jLK0HXgMmiL5Z2xiD6tYVw",
+    "link": "https://vnexpress.net/cuc-mau-dong-o-tim-troi-len-mat-gay-tac-dong-mach-vong-mac-5130477.html",
+    "published_at": "Sat, 10 Oct 2026 10:00:00 +0700",
+    "createAt": "2026-10-10T03:00:00.000Z",
+    "thumbnail_blurhash": "LdL5IDx[%LRj~qoJRjkCWqofkDog"
+  },
+  {
+    "id": "https://vnexpress.net/dau-hieu-cho-thay-ban-an-du-chat-xo-5130408.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Dấu hiệu cho thấy bạn ăn đủ chất xơ",
+    "description": "Đi tiêu đều đặn, phân mềm, ít táo bón và no lâu sau bữa ăn có thể là những dấu hiệu cho thấy chế độ ăn đang cung cấp đủ chất xơ.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/09/rau-xanh-1791531802-9034-1791538449.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=OG-L6DPMv1a6PCtNNZmXog",
+    "link": "https://vnexpress.net/dau-hieu-cho-thay-ban-an-du-chat-xo-5130408.html",
+    "published_at": "Sat, 10 Oct 2026 10:00:00 +0700",
+    "createAt": "2026-10-10T03:00:00.000Z",
+    "thumbnail_blurhash": "L49txX01Hb-oLo#V#Yo|v4%L0O^$"
   }
 ]
