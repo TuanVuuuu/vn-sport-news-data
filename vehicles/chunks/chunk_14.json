@@ -167,5 +167,31 @@
     "published_at": "Sat, 10 Oct 2026 14:00:00 +0700",
     "createAt": "2026-10-10T07:00:00.000Z",
     "thumbnail_blurhash": "L6C?+Sxu~q_400tRDiD%00RPIUIU"
+  },
+  {
+    "id": "https://vnexpress.net/nguoi-viet-tang-mua-xe-may-xang-5130371.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Người Việt tăng mua xe máy xăng",
+    "description": "Lượng xe máy xăng bán ra trong quý III tiếp tục tăng so với cùng kỳ 2025, nuôi đà tăng đều từ đầu năm.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/10/NguoiVietmuaXemay1-1791599331-7391-1791599637.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=51acfh4M38wKoM_4RKwNkw",
+    "link": "https://vnexpress.net/nguoi-viet-tang-mua-xe-may-xang-5130371.html",
+    "published_at": "Sat, 10 Oct 2026 11:44:30 +0700",
+    "createAt": "2026-10-10T04:44:30.000Z",
+    "thumbnail_blurhash": "LMDT0JRPt2Ipn2Rn%hsk_4ROt6bx"
+  },
+  {
+    "id": "https://vnexpress.net/lao-ra-duong-sau-tranh-cai-nguoi-dan-ong-bi-xe-khach-tong-5130687.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Lao ra đường sau tranh cãi, người đàn ông bị xe khách tông",
+    "description": "Sau khi tranh cãi với một phụ nữ bên vỉa hè, người đàn ông phóng xe máy ra đường, đúng lúc xe khách đi tới tông trực diện.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/10/ezgif7e33ecba22df5241-17916078-9098-5960-1791607931.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=BvqvfnTZTthMChspsrjqSQ&t=image",
+    "link": "https://vnexpress.net/lao-ra-duong-sau-tranh-cai-nguoi-dan-ong-bi-xe-khach-tong-5130687.html",
+    "published_at": "Sat, 10 Oct 2026 14:34:52 +0700",
+    "createAt": "2026-10-10T07:34:52.000Z",
+    "thumbnail_blurhash": "L06[2I00001G00?dYkve01~B57IB"
   }
 ]
