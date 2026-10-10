@@ -1,3 +1,17 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/dua-vang-chen-bac-cua-hoang-toc-cham-trong-le-kate-5130715.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Đũa vàng, chén bạc của hoàng tộc Chăm trong lễ Katê",
+      "description": "Hơn 100 cổ vật gồm đũa bọc vàng, chén bạc, trang sức và vật dụng hoàng gia Chăm qua nhiều thế kỷ được trưng bày tại tháp Pô Sah Inư.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/10/60dfef9d4e9ecec0978f-1791631916.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=6rQsl1g9wdGG44LajmxF1w",
+      "link": "https://vnexpress.net/dua-vang-chen-bac-cua-hoang-toc-cham-trong-le-kate-5130715.html",
+      "published_at": "Sun, 11 Oct 2026 06:00:00 +0700",
+      "createAt": "2026-10-10T23:00:00.000Z",
+      "thumbnail_blurhash": "LAG7[6s;E$$*00VsxFJ7*0xuM{oK"
+    }
+  ]
 }
