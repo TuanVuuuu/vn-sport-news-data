@@ -661,5 +661,44 @@
     "published_at": "Sat, 10 Oct 2026 08:00:00 +0700",
     "createAt": "2026-10-10T01:00:00.000Z",
     "thumbnail_blurhash": "LWN^b,xv_Mxt~pxtIVIUD%ogxuM{"
+  },
+  {
+    "id": "https://vnexpress.net/tu-mua-thuoc-khang-virus-cho-con-theo-tu-van-tren-mang-5130610.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Tự mua thuốc kháng virus cho con theo tư vấn trên mạng",
+    "description": "Lo con lâu khỏi cúm A, hai phụ huynh tự mua thuốc kháng virus theo tư vấn trên mạng hoặc dùng lại đơn cũ, làm tăng nguy cơ biến chứng.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/10/medium-vecteezy-mother-adminis-9345-4440-1791594787.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=va26AwDZCfZhxqgvidDSng",
+    "link": "https://vnexpress.net/tu-mua-thuoc-khang-virus-cho-con-theo-tu-van-tren-mang-5130610.html",
+    "published_at": "Sat, 10 Oct 2026 09:00:00 +0700",
+    "createAt": "2026-10-10T02:00:00.000Z",
+    "thumbnail_blurhash": "LGH-=J589ZH=PV-6-;.9c[oI^+Rj"
+  },
+  {
+    "id": "https://vnexpress.net/gai-nhieu-co-khien-u-mem-lan-rong-5130548.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Gãi nhiều có khiến u mềm lan rộng?",
+    "description": "Con tôi 2 tuổi, viêm da cơ địa kèm u mềm lây, ngứa và gãi đến trầy xước da. Gãi nhiều có khiến u mềm lây lan sang vùng da khác hay tăng nguy cơ nhiễm trùng? (Minh Anh, 32 tuổi, Đồng Nai)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/09/anh-1791554512-4893-1791554538.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=v3kLTuKFIdsi3rVD3b00pw",
+    "link": "https://vnexpress.net/gai-nhieu-co-khien-u-mem-lan-rong-5130548.html",
+    "published_at": "Sat, 10 Oct 2026 09:00:00 +0700",
+    "createAt": "2026-10-10T02:00:00.000Z",
+    "thumbnail_blurhash": "LWMQn%ROn#-=?wkBWr%2VrS6t7Vr"
+  },
+  {
+    "id": "https://vnexpress.net/5-thoi-quen-don-gian-giup-phong-benh-gan-5130454.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "5 thói quen đơn giản giúp phòng bệnh gan",
+    "description": "Hạn chế rượu bia, ăn uống lành mạnh, vận động ít nhất 30 phút mỗi ngày, giúp tăng cường sức khỏe tổng thể, góp phần giảm nguy cơ tổn thương gan.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/09/ba-o-1791553739-9452-1791553792.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=GQ0cwr4igVocwWfNvKedxw",
+    "link": "https://vnexpress.net/5-thoi-quen-don-gian-giup-phong-benh-gan-5130454.html",
+    "published_at": "Sat, 10 Oct 2026 09:00:00 +0700",
+    "createAt": "2026-10-10T02:00:00.000Z",
+    "thumbnail_blurhash": "LLLW@ZI8M|?b_NIqslxt-lIuNF?G"
   }
 ]
