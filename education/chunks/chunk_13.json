@@ -336,5 +336,31 @@
     "published_at": "Sat, 10 Oct 2026 16:00:00 +0700",
     "createAt": "2026-10-10T09:00:00.000Z",
     "thumbnail_blurhash": "LJE4GWD,x?%h~qSgVut7UGS]Q:tQ"
+  },
+  {
+    "id": "https://vnexpress.net/bo-de-xuat-giang-vien-di-hoc-nuoc-ngoai-duoc-huong-nguyen-luong-5130756.html",
+    "category_id": "education",
+    "category_name": "Giáo dục",
+    "source": "VnExpress",
+    "title": "Bỏ đề xuất giảng viên đi học nước ngoài được hưởng nguyên lương",
+    "description": "Giảng viên được cử đi học, nghiên cứu ở nước ngoài chỉ còn được hưởng 40% lương, thay vì 100% như đề xuất ban đầu của Bộ Giáo dục và Đào tạo.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/10/689671568-n-1791625159-8923-1791626773.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=AJlkjnjJoK8uhBO-RORtig",
+    "link": "https://vnexpress.net/bo-de-xuat-giang-vien-di-hoc-nuoc-ngoai-duoc-huong-nguyen-luong-5130756.html",
+    "published_at": "Sat, 10 Oct 2026 19:28:45 +0700",
+    "createAt": "2026-10-10T12:28:45.000Z",
+    "thumbnail_blurhash": "LSKw@9wHx^t7?^WV-;X8.7Iptlx]"
+  },
+  {
+    "id": "https://vnexpress.net/tinh-nao-hep-nhat-viet-nam-5130781.html",
+    "category_id": "education",
+    "category_name": "Giáo dục",
+    "source": "VnExpress",
+    "title": "Tỉnh nào hẹp nhất Việt Nam?",
+    "description": "Nơi hẹp nhất trên bản đồ Việt Nam tính từ Tây sang Đông chỉ gần 50 km. Bạn có biết khu vực này thuộc tỉnh nào?",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/10/conco-1791627475-9205-1791627491.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=05pLuYLmW00L2wh956waPQ",
+    "link": "https://vnexpress.net/tinh-nao-hep-nhat-viet-nam-5130781.html",
+    "published_at": "Sat, 10 Oct 2026 20:29:00 +0700",
+    "createAt": "2026-10-10T13:29:00.000Z",
+    "thumbnail_blurhash": "L+I#_m-pW=t7_NxZayofNyjEjsa{"
   }
 ]

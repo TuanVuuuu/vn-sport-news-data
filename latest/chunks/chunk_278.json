@@ -921,5 +921,44 @@
     "published_at": "Sat, 10 Oct 2026 20:00:00 +0700",
     "createAt": "2026-10-10T13:00:00.000Z",
     "thumbnail_blurhash": "LSOUu8#m~Cxt^jVYNGIURRaxn#WV"
+  },
+  {
+    "id": "https://vnexpress.net/hagl-tim-lai-niem-vui-o-v-league-5130803.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "HAGL tìm lại niềm vui ở V-League",
+    "description": "HAGL đè bẹp Đà Nẵng 3-0 ở vòng 3 chiều 10/10, giành chiến thắng đầu tiên ở V-League 2026-2027.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/10/10/dong-1791637207-2840-1791637414.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=x3fnzpOLTklY7sthBxz_9A",
+    "link": "https://vnexpress.net/hagl-tim-lai-niem-vui-o-v-league-5130803.html",
+    "published_at": "Sat, 10 Oct 2026 20:03:53 +0700",
+    "createAt": "2026-10-10T13:03:53.000Z",
+    "thumbnail_blurhash": "LPJQAvxH};x[G]oyJTj]1~XS9zWD"
+  },
+  {
+    "id": "https://vnexpress.net/bo-dao-nha-ky-luat-ronaldo-5130806.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Bồ Đào Nha kỷ luật Ronaldo",
+    "description": "Cristiano Ronaldo bị đình chỉ thi đấu tạm thời trong lúc Liên đoàn Bóng đá Bồ Đào Nha (FPF) điều tra vụ tiền đạo 41 tuổi tự ý rời đội tuyển.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/10/10/ap26267835562100-1791637883-4290-1791637936.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=s5F3oKq1kxEyRnvsR7u98g",
+    "link": "https://vnexpress.net/bo-dao-nha-ky-luat-ronaldo-5130806.html",
+    "published_at": "Sat, 10 Oct 2026 20:18:24 +0700",
+    "createAt": "2026-10-10T13:18:24.000Z",
+    "thumbnail_blurhash": "L5CsU2}F0O3C3;Nt;AR7H@wO}YJ$"
+  },
+  {
+    "id": "https://vnexpress.net/tinh-nao-hep-nhat-viet-nam-5130781.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Tỉnh nào hẹp nhất Việt Nam?",
+    "description": "Nơi hẹp nhất trên bản đồ Việt Nam tính từ Tây sang Đông chỉ gần 50 km. Bạn có biết khu vực này thuộc tỉnh nào?",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/10/conco-1791627475-9205-1791627491.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=05pLuYLmW00L2wh956waPQ",
+    "link": "https://vnexpress.net/tinh-nao-hep-nhat-viet-nam-5130781.html",
+    "published_at": "Sat, 10 Oct 2026 20:29:00 +0700",
+    "createAt": "2026-10-10T13:29:00.000Z",
+    "thumbnail_blurhash": "L+I#_m-pW=t7_NxZayofNyjEjsa{"
   }
 ]
