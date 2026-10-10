@@ -713,5 +713,70 @@
     "published_at": "Sat, 10 Oct 2026 18:00:00 +0700",
     "createAt": "2026-10-10T11:00:00.000Z",
     "thumbnail_blurhash": "LHE.t;01Io.9-@-=RNtTIxtSxoNM"
+  },
+  {
+    "id": "https://vnexpress.net/nhieu-duong-tp-hcm-ngap-sau-do-trieu-cuong-cao-nhat-tu-dau-nam-5130779.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Nhiều đường TP HCM ngập sâu do triều cường cao nhất từ đầu năm",
+    "description": "Triều cường hơn 1,7 m - cao nhất từ đầu năm khiến nhiều tuyến đường TP HCM ngập sâu, xe chết máy, người dân đi lại khó khăn, chiều 10/10.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/10/wm1-1791632294954c30ef69a8d42f02fde6d61e456b9801-1791632842.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=qK5f-8lt26PBg06WOVJM7A",
+    "link": "https://vnexpress.net/nhieu-duong-tp-hcm-ngap-sau-do-trieu-cuong-cao-nhat-tu-dau-nam-5130779.html",
+    "published_at": "Sat, 10 Oct 2026 17:31:47 +0700",
+    "createAt": "2026-10-10T10:31:47.000Z",
+    "thumbnail_blurhash": "LEEVTfM{02tQ},W;NLWB^*WBNeof"
+  },
+  {
+    "id": "https://vnexpress.net/viet-nam-len-tieng-sau-khi-duoc-eu-dua-ra-khoi-danh-sach-khong-hop-tac-ve-thue-5130778.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Việt Nam lên tiếng sau khi được EU đưa ra khỏi danh sách không hợp tác về thuế",
+    "description": "EU đưa Việt Nam ra khỏi danh sách các nước không hợp tác về thuế là ghi nhận với nỗ lực trong thời gian qua, theo người phát ngôn Bộ Ngoại giao.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/10/NgiPhtngnBNgoigiaoPhmThuHng-17-5833-4821-1791628205.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=OPp0PtusnPbhppZ74BrEzQ",
+    "link": "https://vnexpress.net/viet-nam-len-tieng-sau-khi-duoc-eu-dua-ra-khoi-danh-sach-khong-hop-tac-ve-thue-5130778.html",
+    "published_at": "Sat, 10 Oct 2026 17:51:03 +0700",
+    "createAt": "2026-10-10T10:51:03.000Z",
+    "thumbnail_blurhash": "L*L{=D}g-pR.$*a1WZS$RWV_nhkB"
+  },
+  {
+    "id": "https://vnexpress.net/nghich-ly-1-5-diem-cong-ielts-khien-hoc-sinh-diem-cao-truot-dai-hoc-5130753.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Nghịch lý 1,5 điểm cộng IELTS khiến học sinh điểm cao trượt đại học",
+    "description": "Có công bằng không khi học sinh đạt 27 điểm mất suất đại học vào tay học sinh 26 điểm chỉ vì được cộng 1,5 điểm chứng chỉ IELTS?",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/10/giaoduc17915898235331179158984-9467-4143-1791620672.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=S5ii-McaoyZYH2FlnLhX8A",
+    "link": "https://vnexpress.net/nghich-ly-1-5-diem-cong-ielts-khien-hoc-sinh-diem-cao-truot-dai-hoc-5130753.html",
+    "published_at": "Sat, 10 Oct 2026 18:21:05 +0700",
+    "createAt": "2026-10-10T11:21:05.000Z",
+    "thumbnail_blurhash": "LSIrB7_3V[Ri_L%LaOs:_Mj[MxRj"
+  },
+  {
+    "id": "https://vnexpress.net/38-phuong-xa-o-tp-hcm-bi-cat-nuoc-nuoc-yeu-dem-nay-5130782.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "38 phường xã ở TP HCM bị cắt nước, nước yếu đêm nay",
+    "description": "Việc bảo trì Nhà máy nước Tân Hiệp khiến 38 phường, xã ở TP HCM bị gián đoạn cấp nước hoặc nước yếu từ 21h ngày 10/10 đến 5h hôm sau.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/10/179162630941557875338744875558-4937-7399-1791628730.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=4efE6LlQCZhF0pZJ-jauXw",
+    "link": "https://vnexpress.net/38-phuong-xa-o-tp-hcm-bi-cat-nuoc-nuoc-yeu-dem-nay-5130782.html",
+    "published_at": "Sat, 10 Oct 2026 18:27:47 +0700",
+    "createAt": "2026-10-10T11:27:47.000Z",
+    "thumbnail_blurhash": "LuKxrFo}oLtR^ks;ozof~qV@adj["
+  },
+  {
+    "id": "https://vnexpress.net/nhieu-giam-doc-o-tp-hcm-bi-khoi-to-vi-lam-gia-so-lieu-moi-truong-5130786.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Nhiều giám đốc ở TP HCM bị khởi tố vì làm giả số liệu môi trường",
+    "description": "Hàng loạt giám đốc, lãnh đạo đơn vị quan trắc môi trường ở TP HCM bị cáo buộc chỉnh sửa số liệu ô nhiễm vượt quy chuẩn thành đạt chuẩn, nhằm che giấu kết quả thực tế.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/10/2Hinhkhamxet-1791631243-3584-1791631641.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=jp4tW90RX3JL91sYDEMAWA",
+    "link": "https://vnexpress.net/nhieu-giam-doc-o-tp-hcm-bi-khoi-to-vi-lam-gia-so-lieu-moi-truong-5130786.html",
+    "published_at": "Sat, 10 Oct 2026 18:43:39 +0700",
+    "createAt": "2026-10-10T11:43:39.000Z",
+    "thumbnail_blurhash": "L.M@ZJ%Lk9s:~qRjRjay%MayWBbH"
   }
 ]
