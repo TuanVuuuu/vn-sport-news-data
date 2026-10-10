@@ -1,6 +1,19 @@
 {
   "featured": [
     {
+      "id": "https://vnexpress.net/dien-mao-tuyen-vanh-dai-2-5-ha-noi-5130325.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Diện mạo tuyến Vành đai 2,5 Hà Nội",
+      "description": "Các đoạn tuyến thuộc dự án Vành đai 2,5 đang được đẩy nhanh tiến độ thi công, trong đó một số đoạn đã được thảm nhựa để thông xe kỹ thuật ngày 10/10.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/09/2-1791553327.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Tqx_0xNBbuC5Ja6uc5RdaQ",
+      "link": "https://vnexpress.net/dien-mao-tuyen-vanh-dai-2-5-ha-noi-5130325.html",
+      "published_at": "Sat, 10 Oct 2026 04:00:00 +0700",
+      "createAt": "2026-10-09T21:00:00.000Z",
+      "thumbnail_blurhash": "L6Bpe3-T00t7.TD*kCNHX;E1^*xu"
+    },
+    {
       "id": "https://vnexpress.net/chinh-sach-tuyen-sinh-thoi-bung-cuoc-dua-ielts-5124436.html",
       "category_id": "featured",
       "category_name": "Tin nổi bật",
@@ -25,6 +38,58 @@
       "published_at": "Sat, 10 Oct 2026 06:00:00 +0700",
       "createAt": "2026-10-09T23:00:00.000Z",
       "thumbnail_blurhash": "LEHo2p~n?v%#4nnKM_o#0fnKMwD*"
+    },
+    {
+      "id": "https://vnexpress.net/lam-co-ga-con-dau-di-lay-chong-khac-5130458.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Làm cỗ, gả con dâu đi lấy chồng khác",
+      "description": "Sau 7 năm sau ngày chồng mất, Chu Thùy Linh được bố mẹ chồng cũ đứng ra tổ chức đám cưới mời họ hàng, làng xóm đến chung vui ngày cô đi bước nữa.",
+      "thumbnail_url": "https://vcdn1-giadinh.vnecdn.net/2026/10/10/1791279829453e4fb68b60cea52964-7022-7046-1791565496.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=F7Bh9L7cyFO6CUefM4hgAw",
+      "link": "https://vnexpress.net/lam-co-ga-con-dau-di-lay-chong-khac-5130458.html",
+      "published_at": "Sat, 10 Oct 2026 06:00:00 +0700",
+      "createAt": "2026-10-09T23:00:00.000Z",
+      "thumbnail_blurhash": "LGIzF~w04U4TVF#T~WDi^Qmm%gtR"
+    },
+    {
+      "id": "https://vnexpress.net/ong-trump-dat-thoa-thuan-hang-trieu-tan-dau-diesel-voi-nga-5130592.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Ông Trump đạt thỏa thuận hàng triệu tấn dầu diesel với Nga",
+      "description": "Tổng thống Trump tuyên bố đạt thỏa thuận với Tổng thống Putin, trong đó Nga sẽ cung cấp hàng triệu tấn dầu diesel cho Mỹ và toàn cầu.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/10/ap26279770498028-1791590319-1674-1791590363.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=X_TtMvaGwYw7YhqvCdK_-A",
+      "link": "https://vnexpress.net/ong-trump-dat-thoa-thuan-hang-trieu-tan-dau-diesel-voi-nga-5130592.html",
+      "published_at": "Sat, 10 Oct 2026 06:44:22 +0700",
+      "createAt": "2026-10-09T23:44:22.000Z",
+      "thumbnail_blurhash": "LND0o+00*0nh_4D%R*x]Rkj?R*of"
+    },
+    {
+      "id": "https://vnexpress.net/mang-xanh-tren-cac-cong-trinh-giao-thong-o-ha-noi-5130413.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Mảng xanh trên các công trình giao thông ở Hà Nội",
+      "description": "Hà Nội đang tăng cường trồng cây xanh tại công trình giao thông, không gian công cộng, hướng tới cải thiện cảnh quan đô thị, giảm nhiệt và nâng cao chất lượng môi trường.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/09/wm1-2_1791529836-1791531435-1791531818.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=gQPqaIa86Tbaz61zRKNVPg",
+      "link": "https://vnexpress.net/mang-xanh-tren-cac-cong-trinh-giao-thong-o-ha-noi-5130413.html",
+      "published_at": "Sat, 10 Oct 2026 07:00:00 +0700",
+      "createAt": "2026-10-10T00:00:00.000Z",
+      "thumbnail_blurhash": "L7CGuR00^n?E00~ExV55NZ-p9r-q"
+    },
+    {
+      "id": "https://vnexpress.net/thi-truong-dau-se-ra-sao-sau-thoa-thuan-diesel-giua-nga-va-my-5130590.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Thị trường dầu sẽ ra sao sau thỏa thuận diesel giữa Nga và Mỹ?",
+      "description": "Giới phân tích ngờ vực hiệu quả của thỏa thuận ông Trump đạt được với ông Putin, khi tổng nguồn cung diesel toàn cầu khó thay đổi.",
+      "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/10/screenshot-1791592277-7947-1791592297.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=S5OveRiOai3rKCSg7EQDPw",
+      "link": "https://vnexpress.net/thi-truong-dau-se-ra-sao-sau-thoa-thuan-diesel-giua-nga-va-my-5130590.html",
+      "published_at": "Sat, 10 Oct 2026 07:43:42 +0700",
+      "createAt": "2026-10-10T00:43:42.000Z",
+      "thumbnail_blurhash": "LUEoxx~W.9-:%#s.%Mt6.S-;?Hxv"
     }
   ]
 }
