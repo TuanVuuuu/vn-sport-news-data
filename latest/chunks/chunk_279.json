@@ -89,5 +89,57 @@
     "published_at": "Sun, 11 Oct 2026 00:04:00 +0700",
     "createAt": "2026-10-10T17:04:00.000Z",
     "thumbnail_blurhash": "LjL|Gv-pt,xv%2bHWBjZ*JR*a1jY"
+  },
+  {
+    "id": "https://vnexpress.net/nguoi-dan-duoc-tu-choi-thu-tuc-hanh-chinh-trai-quy-dinh-5130850.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Người dân được từ chối thủ tục hành chính trái quy định",
+    "description": "Chính phủ cho phép người làm thủ tục từ chối yêu cầu ngoài quy định hoặc chưa công khai; cơ quan phải nêu bằng văn bản lý do khi từ chối giải quyết hoặc yêu cầu bổ sung giấy tờ.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/10/a-1791649137-5283-1791649190.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=zmvvRt63hnLZUdiMcJQXkQ",
+    "link": "https://vnexpress.net/nguoi-dan-duoc-tu-choi-thu-tuc-hanh-chinh-trai-quy-dinh-5130850.html",
+    "published_at": "Sun, 11 Oct 2026 01:00:00 +0700",
+    "createAt": "2026-10-10T18:00:00.000Z",
+    "thumbnail_blurhash": "LPKw,@.T_3xugfVqR%%1.8n%NHRi"
+  },
+  {
+    "id": "https://vnexpress.net/cuoc-rut-lui-cua-linh-my-khoi-can-cu-bi-iran-danh-tan-hoang-5129869.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Cuộc rút lui của lính Mỹ khỏi căn cứ bị Iran 'đánh tan hoang'",
+    "description": "Lực lượng Mỹ đóng quân ở căn cứ Buehring phải vội vã rút đi trong đêm sau khi cơ sở chịu thiệt hại nặng do đòn tấn công của Iran.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/08/Buehring-1791446082-1956-1791446696.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=F5gZgcrxX_7N7Dq8aLjbGw",
+    "link": "https://vnexpress.net/cuoc-rut-lui-cua-linh-my-khoi-can-cu-bi-iran-danh-tan-hoang-5129869.html",
+    "published_at": "Sun, 11 Oct 2026 01:00:00 +0700",
+    "createAt": "2026-10-10T18:00:00.000Z",
+    "thumbnail_blurhash": "LHGR@#?GD*-pThbc%LR,XpR,WXWV"
+  },
+  {
+    "id": "https://vnexpress.net/henderson-toa-sang-trong-tran-dai-thang-cua-chelsea-5130858.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Henderson tỏa sáng trong trận đại thắng của Chelsea",
+    "description": "Tiền vệ 36 tuổi Jordan Henderson ghi hai và kiến tạo một bàn, giúp Chelsea thắng Bournemouth 5-1 ở vòng sáu Ngoại hạng Anh.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/10/11/a-nh-ma-n-hi-nh-lu-c-179165545-7218-6846-1791655655.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=LzRPdvvCboQ_kXYqpUMyVQ",
+    "link": "https://vnexpress.net/henderson-toa-sang-trong-tran-dai-thang-cua-chelsea-5130858.html",
+    "published_at": "Sun, 11 Oct 2026 01:07:35 +0700",
+    "createAt": "2026-10-10T18:07:35.000Z",
+    "thumbnail_blurhash": "LDCt9AM}E0T100n,$~xF?=NaWYoc"
+  },
+  {
+    "id": "https://vnexpress.net/man-utd-roi-chien-thang-truoc-tottenham-du-hon-nguoi-5130866.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Man Utd rơi chiến thắng trước Tottenham dù hơn người",
+    "description": "Chơi hơn người, Man Utd vẫn bị đội khách Tottenham gỡ hòa 1-1 ở phút bù vòng 6 Ngoại hạng Anh.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/10/11/man-utd-1791656598-7346-1791656616.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=sYXpKnXnknzI1gVD_PmQ-g",
+    "link": "https://vnexpress.net/man-utd-roi-chien-thang-truoc-tottenham-du-hon-nguoi-5130866.html",
+    "published_at": "Sun, 11 Oct 2026 01:26:24 +0700",
+    "createAt": "2026-10-10T18:26:24.000Z",
+    "thumbnail_blurhash": "L7Gs.B-UD,~906WYxra2t@tNt49u"
   }
 ]
