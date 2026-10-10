@@ -1155,5 +1155,18 @@
     "published_at": "Sat, 10 Oct 2026 18:00:00 +0700",
     "createAt": "2026-10-10T11:00:00.000Z",
     "thumbnail_blurhash": "LHE.t;01Io.9-@-=RNtTIxtSxoNM"
+  },
+  {
+    "id": "https://vnexpress.net/mo-hinh-anthropic-hoang-bao-ve-vu-giet-nguoi-o-thanh-pho-my-5130728.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Mô hình Anthropic hoang báo về vụ giết người ở thành phố Mỹ",
+    "description": "Anthropic cho biết một mô hình AI đã gửi tin báo giả mạo liên quan một vụ giết người lên website của cảnh sát thành phố Philadelphia.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/10/lq-1791619519-1763-1791619556.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Cw-rnACU5GrBLyeHOzn2FQ",
+    "link": "https://vnexpress.net/mo-hinh-anthropic-hoang-bao-ve-vu-giet-nguoi-o-thanh-pho-my-5130728.html",
+    "published_at": "Sat, 10 Oct 2026 19:00:00 +0700",
+    "createAt": "2026-10-10T12:00:00.000Z",
+    "thumbnail_blurhash": "LHHBoG4T0Ko2~V0ME2xV9vxuxCjY"
   }
 ]
