@@ -271,5 +271,31 @@
     "published_at": "Sun, 11 Oct 2026 07:00:00 +0700",
     "createAt": "2026-10-11T00:00:00.000Z",
     "thumbnail_blurhash": "LHDu;}kRMxiz~VW8V@aPp^x-I.M}"
+  },
+  {
+    "id": "https://vnexpress.net/harley-davidson-dung-dong-co-phan-luc-5130666.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Harley-Davidson dùng động cơ phản lực",
+    "description": "Thay thế toàn bộ hệ truyền động bằng hai tuabin phản lực, chiếc Harley-Davidson đạt 97 km/h thuần túy nhờ sức đẩy.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/10/HarleyDavidson-1791605063-8668-1791605095.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=FEB4ogE5TPzd6qZtsFuk8w",
+    "link": "https://vnexpress.net/harley-davidson-dung-dong-co-phan-luc-5130666.html",
+    "published_at": "Sun, 11 Oct 2026 11:08:56 +0700",
+    "createAt": "2026-10-11T04:08:56.000Z",
+    "thumbnail_blurhash": "LnFrC?wfk=WApfXTT0V?KRkXr^n$"
+  },
+  {
+    "id": "https://vnexpress.net/nhung-chiec-ban-tra-gia-hang-chuc-nghin-usd-tu-dong-co-sieu-xe-5129272.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Những chiếc bàn trà giá hàng chục nghìn USD từ động cơ siêu xe",
+    "description": "Những cỗ máy hàng trăm mã lực bị hỏng được hồi sinh dưới lớp kính cường lực, những tách trà và cà phê.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/10/Ferrari-1791530555-9102-1791594636.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=kxXJxRC_yHI7BSn_el6WJA",
+    "link": "https://vnexpress.net/nhung-chiec-ban-tra-gia-hang-chuc-nghin-usd-tu-dong-co-sieu-xe-5129272.html",
+    "published_at": "Sun, 11 Oct 2026 11:11:37 +0700",
+    "createAt": "2026-10-11T04:11:37.000Z",
+    "thumbnail_blurhash": "L56*K|Rj00oz-WR*M{xa00R*~C$*"
   }
 ]
