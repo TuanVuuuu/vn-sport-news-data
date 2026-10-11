@@ -232,5 +232,31 @@
     "published_at": "Sun, 11 Oct 2026 13:00:00 +0700",
     "createAt": "2026-10-11T06:00:00.000Z",
     "thumbnail_blurhash": "LeDw28snn,tRyGW;WBjbTMs;oejY"
+  },
+  {
+    "id": "https://vnexpress.net/loat-truong-tu-tuyen-lop-1-6-nam-2027-5130133.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Loạt trường tư tuyển lớp 1, 6 năm 2027",
+    "description": "Vừa vào năm học mới, nhiều trường tư thục đã tuyển sinh lớp 1, 6, 10 cho năm học 2027-2028, chủ yếu bằng xét học bạ hoặc hoạt động trải nghiệm.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/10/738759195-n-jpeg-1791641849-4742-1791641916.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=FbmXFU1yAWHq-k9ih_sbZw",
+    "link": "https://vnexpress.net/loat-truong-tu-tuyen-lop-1-6-nam-2027-5130133.html",
+    "published_at": "Sun, 11 Oct 2026 10:33:00 +0700",
+    "createAt": "2026-10-11T03:33:00.000Z",
+    "thumbnail_blurhash": "LIIr7{}.IC%M~WDOR#XTwR-:SuSR"
+  },
+  {
+    "id": "https://vnexpress.net/ong-trump-de-ngo-kha-nang-my-tham-gia-tan-cong-houthi-5130938.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Ông Trump để ngỏ khả năng Mỹ tham gia tấn công Houthi",
+    "description": "Tổng thống Trump nói vụ tấn công sân bay King Khalid là \"không thể chấp nhận được\" và Mỹ có thể tham gia tấn công Houthi cùng Arab Saudi.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/11/5563187178137269535d-179169581-6386-2103-1791695924.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=89L7d2785dIHPod_a6Og7g",
+    "link": "https://vnexpress.net/ong-trump-de-ngo-kha-nang-my-tham-gia-tan-cong-houthi-5130938.html",
+    "published_at": "Sun, 11 Oct 2026 13:14:06 +0700",
+    "createAt": "2026-10-11T06:14:06.000Z",
+    "thumbnail_blurhash": "LxMQYQt7%#wI~qt8ozRiRjbIRjj["
   }
 ]
