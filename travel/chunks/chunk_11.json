@@ -544,5 +544,31 @@
     "published_at": "Sun, 11 Oct 2026 00:00:00 +0700",
     "createAt": "2026-10-10T17:00:00.000Z",
     "thumbnail_blurhash": "LMJ$=:zo?I9a}@M_b^aKJVNGxZI="
+  },
+  {
+    "id": "https://vnexpress.net/ban-vung-cao-cam-danh-ca-tren-song-de-lam-du-lich-5130784.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Bản vùng cao cấm đánh cá trên sông để làm du lịch",
+    "description": "Người Thái ở bản Ngàm lập quy ước cấm đánh bắt cá trên đoạn sông Luồng dài 4 km, giúp nguồn cá tự nhiên phục hồi và tạo sức hút cho du lịch cộng đồng.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/10/10/2-jpeg-1791629178-8750-1791629348.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Uwjf5rxs639tKPENDWFtxg",
+    "link": "https://vnexpress.net/ban-vung-cao-cam-danh-ca-tren-song-de-lam-du-lich-5130784.html",
+    "published_at": "Sun, 11 Oct 2026 06:55:08 +0700",
+    "createAt": "2026-10-10T23:55:08.000Z",
+    "thumbnail_blurhash": "LCEMO4$,Io?H0dMyoeWB~Un,xuWB"
+  },
+  {
+    "id": "https://vnexpress.net/thien-duong-mua-thu-o-cao-bang-5129664.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Thiên đường mùa thu ở Cao Bằng",
+    "description": "Tháng 10, Cao Bằng vào thu tiết trời mát mẻ, lúa trên đồng chín vàng cùng những dòng sông xanh màu ngọc bích, tạo nên khung cảnh trong trẻo, yên bình.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/10/08/Doi-co-chay-Ha-Lang-Ba-Quang-hoang-hon-1791440570.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=K1PU2pPqkjktv79BbCr51A",
+    "link": "https://vnexpress.net/thien-duong-mua-thu-o-cao-bang-5129664.html",
+    "published_at": "Sun, 11 Oct 2026 07:00:00 +0700",
+    "createAt": "2026-10-11T00:00:00.000Z",
+    "thumbnail_blurhash": "L#F|}1xXNIR+}=xFR+WC=^oJWCjZ"
   }
 ]
