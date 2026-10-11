@@ -1194,5 +1194,31 @@
     "published_at": "Sun, 11 Oct 2026 05:00:00 +0700",
     "createAt": "2026-10-10T22:00:00.000Z",
     "thumbnail_blurhash": "LAHT,a9E_40e000}+v?Hxu?H0JM{"
+  },
+  {
+    "id": "https://vnexpress.net/ban-tay-robot-cam-kim-theu-lua-5130497.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Bàn tay robot cầm kim thêu lụa",
+    "description": "Bàn tay robot của công ty Agilink có thể se chỉ luồn kim và thêu lụa nhờ 21 bậc tự do và cảm biến thị giác - xúc giác ở đầu ngón, giúp phát hiện tiếp xúc qua biến dạng bề mặt.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/10/VNE-Hand-1791539444-7349-1791644499.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=DrID3-Gt6vl2CyCX8FFZbw",
+    "link": "https://vnexpress.net/ban-tay-robot-cam-kim-theu-lua-5130497.html",
+    "published_at": "Sun, 11 Oct 2026 07:56:06 +0700",
+    "createAt": "2026-10-11T00:56:06.000Z",
+    "thumbnail_blurhash": "LB7xB#oeDioz_Nt7MxkCx]oykCRj"
+  },
+  {
+    "id": "https://vnexpress.net/suc-hut-cua-ceo-anthropic-5130048.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Sức hút của CEO Anthropic",
+    "description": "Nhà đầu tư Matt Murphy cho rằng CEO Anthropic Dario Amodei giúp startup AI thành công vượt trội nhờ sự tận tâm và \"phong thái thiên tài\".",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/08/anthropicceodarioam11748057576-9572-2250-1791454568.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=FggmeccPX4FVO64btUVdKg",
+    "link": "https://vnexpress.net/suc-hut-cua-ceo-anthropic-5130048.html",
+    "published_at": "Sun, 11 Oct 2026 08:00:00 +0700",
+    "createAt": "2026-10-11T01:00:00.000Z",
+    "thumbnail_blurhash": "LiBgi?kaXY%2tWawWTjCIpocV@R."
   }
 ]
