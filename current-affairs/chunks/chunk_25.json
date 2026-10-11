@@ -232,5 +232,31 @@
     "published_at": "Sun, 11 Oct 2026 06:00:00 +0700",
     "createAt": "2026-10-10T23:00:00.000Z",
     "thumbnail_blurhash": "LAG7[6s;E$$*00VsxFJ7*0xuM{oK"
+  },
+  {
+    "id": "https://vnexpress.net/nguoi-nan-phoi-cho-hang-tram-tuong-da-non-nuoc-5130767.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Người nặn phôi cho hàng trăm tượng đá Non Nước",
+    "description": "Tốt nghiệp Khoa Điêu khắc, anh Nguyễn Văn Nho trở thành một trong số ít thợ tại làng Non Nước chuyên nặn mẫu đất sét chuẩn tỷ lệ giải phẫu cơ thể người.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/10/vne9046-jpg-1791623307-9880-1791623461.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=77MfZZkJRnr7FP3p8Chbrg",
+    "link": "https://vnexpress.net/nguoi-nan-phoi-cho-hang-tram-tuong-da-non-nuoc-5130767.html",
+    "published_at": "Sun, 11 Oct 2026 09:27:18 +0700",
+    "createAt": "2026-10-11T02:27:18.000Z",
+    "thumbnail_blurhash": "LAFrR?00.TMz8^?v9Fbd0hMw$+NG"
+  },
+  {
+    "id": "https://vnexpress.net/mien-bac-nang-hanh-mien-trung-giam-mua-5130907.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Miền Bắc nắng hanh, miền Trung giảm mưa",
+    "description": "Miền Bắc duy trì trạng thái nắng hanh, độ ẩm có lúc dưới 60% đến ngày 15/10; miền Trung giảm mưa, trong khi miền Nam tiếp tục mưa giông vào chiều tối.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/11/thu-hn-of-1791687080-9844-1791687172.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=mm116VDHbAPAU4guYUK_qg",
+    "link": "https://vnexpress.net/mien-bac-nang-hanh-mien-trung-giam-mua-5130907.html",
+    "published_at": "Sun, 11 Oct 2026 10:32:50 +0700",
+    "createAt": "2026-10-11T03:32:50.000Z",
+    "thumbnail_blurhash": "LiKnuG~qIoozD$oebcM_MxWUWBM{"
   }
 ]
