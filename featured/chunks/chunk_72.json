@@ -739,5 +739,57 @@
     "published_at": "Mon, 12 Oct 2026 00:03:43 +0700",
     "createAt": "2026-10-11T17:03:43.000Z",
     "thumbnail_blurhash": "L28DY3EM00N1wGIU0M={0wtQ~CD*"
+  },
+  {
+    "id": "https://vnexpress.net/dao-dien-khuong-ngoc-ha-cai-toi-de-den-gan-khan-gia-hon-5128389.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Đạo diễn Khương Ngọc: 'Hạ cái tôi để đến gần khán giả hơn'",
+    "description": "Đạo diễn Khương Ngọc nói chấp nhận hạ cái tôi, giảm bớt cá tính khi làm phim để giải quyết bài toán doanh thu cho dự án.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/10/09/dao-dien-khuong-ngoc-179154583-8983-3588-1791546963.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=XBdkIMMKFgvZj1WRIJhjcw",
+    "link": "https://vnexpress.net/dao-dien-khuong-ngoc-ha-cai-toi-de-den-gan-khan-gia-hon-5128389.html",
+    "published_at": "Mon, 12 Oct 2026 00:00:00 +0700",
+    "createAt": "2026-10-11T17:00:00.000Z",
+    "thumbnail_blurhash": "LWNc$pxZ?^R,IpWBxZs:S4j]jEn$"
+  },
+  {
+    "id": "https://vnexpress.net/man-city-de-bep-liverpool-duy-tri-mach-thang-5131049.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Man City đè bẹp Liverpool, duy trì mạch thắng",
+    "description": "Chơi hơn người, Man City ghi liên tiếp ba bàn để thắng Liverpool 3-0 ngay tại Anfield ở trận cầu đinh vòng 6 Ngoại hạng Anh.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/10/12/man-city-1791739190-6932-1791739195.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=dXAZY3j1zcU5QOAkEpIHhQ",
+    "link": "https://vnexpress.net/man-city-de-bep-liverpool-duy-tri-mach-thang-5131049.html",
+    "published_at": "Mon, 12 Oct 2026 00:20:14 +0700",
+    "createAt": "2026-10-11T17:20:14.000Z",
+    "thumbnail_blurhash": "LCCQontnDNT}HXn2R$MI4mxvyEni"
+  },
+  {
+    "id": "https://vnexpress.net/pho-thu-tuong-doanh-nghiep-manh-thi-nen-kinh-te-moi-manh-5131033.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Phó thủ tướng: Doanh nghiệp mạnh thì nền kinh tế mới mạnh",
+    "description": "Phó thủ tướng Phạm Gia Túc cho rằng doanh nghiệp giữ vai trò quyết định với mục tiêu tăng trưởng hai chữ số, yêu cầu các cơ quan giải quyết đến cùng vướng mắc trong kinh doanh.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/11/wm30-wm30-vnapotallekyniemngaydoanh-5816-9890-1791733566.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=mYU8zIUjOyof3fLgDMVBKA",
+    "link": "https://vnexpress.net/pho-thu-tuong-doanh-nghiep-manh-thi-nen-kinh-te-moi-manh-5131033.html",
+    "published_at": "Mon, 12 Oct 2026 00:43:09 +0700",
+    "createAt": "2026-10-11T17:43:09.000Z",
+    "thumbnail_blurhash": "LsG9]w%NT0ozY8NyR*t7xwxFajWA"
+  },
+  {
+    "id": "https://vnexpress.net/nha-sang-tao-vat-lon-chung-minh-tinh-nguoi-trong-thoi-ai-5128776.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Nhà sáng tạo vật lộn chứng minh 'tính người' trong thời AI",
+    "description": "AI đang tạo nên \"kỷ nguyên của sự ngờ vực\", khiến người làm nội dung phải tìm nhiều cách chứng minh như viết sai chính tả, ghi hình quá trình sáng tác, thuê luật sư.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/08/wm1-wm1-dsc00695-jpg-1791367896-5617-1791431824.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=4BUFXHS2EizhwKZqLdfD-g",
+    "link": "https://vnexpress.net/nha-sang-tao-vat-lon-chung-minh-tinh-nguoi-trong-thoi-ai-5128776.html",
+    "published_at": "Mon, 12 Oct 2026 05:00:00 +0700",
+    "createAt": "2026-10-11T22:00:00.000Z",
+    "thumbnail_blurhash": "LGBqJVc[MaWIAhx]$~n4IvngnMWY"
   }
 ]
