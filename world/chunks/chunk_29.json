@@ -1220,5 +1220,31 @@
     "published_at": "Sun, 11 Oct 2026 20:23:48 +0700",
     "createAt": "2026-10-11T13:23:48.000Z",
     "thumbnail_blurhash": "LqJi|Zt5jYsD~VocWVWE-obFWXaf"
+  },
+  {
+    "id": "https://vnexpress.net/giao-hoang-leo-xiv-sap-phai-phau-thuat-5131004.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Giáo hoàng Leo XIV sắp phải phẫu thuật",
+    "description": "Giáo hoàng Leo XIV sẽ trải qua ca phẫu thuật trong những ngày tới, sau khi bác sĩ phát hiện một nốt nhỏ ở phổi của ông.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/11/afp-d2gd2zw-v1-highres-vatican-4175-9655-1791725508.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=z1DUd4JVCC46EP976dJrBg",
+    "link": "https://vnexpress.net/giao-hoang-leo-xiv-sap-phai-phau-thuat-5131004.html",
+    "published_at": "Sun, 11 Oct 2026 21:12:41 +0700",
+    "createAt": "2026-10-11T14:12:41.000Z",
+    "thumbnail_blurhash": "LQQ9+d~q_Nxa~qj[t8tRITa{kCaz"
+  },
+  {
+    "id": "https://vnexpress.net/ong-zelensky-phan-bac-phat-bieu-ukraine-can-tong-thong-moi-cua-ong-trump-5131021.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Ông Zelensky phản bác phát biểu 'Ukraine cần tổng thống mới' của ông Trump",
+    "description": "Ông Zelensky tuyên bố quyết định lựa chọn lãnh đạo là của người dân Ukraine, cũng như nêu điều kiện để nước này tổ chức bầu cử.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/11/afp-d27n3cw-v1-highres-ukraine-8912-7283-1791730417.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Zi4gIlvQ6ajKQEGngi4naQ",
+    "link": "https://vnexpress.net/ong-zelensky-phan-bac-phat-bieu-ukraine-can-tong-thong-moi-cua-ong-trump-5131021.html",
+    "published_at": "Sun, 11 Oct 2026 22:07:22 +0700",
+    "createAt": "2026-10-11T15:07:22.000Z",
+    "thumbnail_blurhash": "LdKJJEVG~T5S}sa2JRE}RkWCNuX8"
   }
 ]
