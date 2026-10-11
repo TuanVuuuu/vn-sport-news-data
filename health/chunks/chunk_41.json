@@ -1220,5 +1220,44 @@
     "published_at": "Sun, 11 Oct 2026 10:01:00 +0700",
     "createAt": "2026-10-11T03:01:00.000Z",
     "thumbnail_blurhash": "LRHnmI~WxHxaNH%MxvWAEQofR%S3"
+  },
+  {
+    "id": "https://vnexpress.net/loi-ich-cua-dau-nanh-nhat-ban-voi-benh-ung-thu-5130764.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Lợi ích của đậu nành Nhật Bản với bệnh ung thư",
+    "description": "Đậu nành Nhật Bản cung cấp protein, chất xơ và isoflavone, có thể hỗ trợ sức khỏe trao đổi chất, tăng sức đề kháng, góp phần giảm nguy cơ ung thư.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/10/gemini-generated-image-1791623-5191-3742-1791623188.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=IXz4l3yt98BskHcEL0IlFg",
+    "link": "https://vnexpress.net/loi-ich-cua-dau-nanh-nhat-ban-voi-benh-ung-thu-5130764.html",
+    "published_at": "Sun, 11 Oct 2026 11:00:00 +0700",
+    "createAt": "2026-10-11T04:00:00.000Z",
+    "thumbnail_blurhash": "LPI#oa00-qM_~o%29FI:^lMeD%xu"
+  },
+  {
+    "id": "https://vnexpress.net/thu-thap-te-bao-goc-sau-sinh-the-nao-de-tranh-nhiem-khuan-5130743.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Thu thập tế bào gốc sau sinh thế nào để tránh nhiễm khuẩn?",
+    "description": "Khi thu thập tế bào gốc từ máu và mô dây rốn sau sinh, mẫu phải tiếp xúc với môi trường và nhân viên y tế, liệu có nguy cơ nhiễm khuẩn không? (Hải Anh, Đồng Nai)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/10/image001-1791618679-1423-1791618751.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=Q3nH_yVSvGLT2ltYpSRm9g",
+    "link": "https://vnexpress.net/thu-thap-te-bao-goc-sau-sinh-the-nao-de-tranh-nhiem-khuan-5130743.html",
+    "published_at": "Sun, 11 Oct 2026 11:00:00 +0700",
+    "createAt": "2026-10-11T04:00:00.000Z",
+    "thumbnail_blurhash": "LgKL%Q~Cs:pJ~Wg4kWrrn$RjV[oz"
+  },
+  {
+    "id": "https://vnexpress.net/sa-sut-tri-tue-co-chua-duoc-khong-5130718.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Sa sút trí tuệ có chữa được không?",
+    "description": "Ba tôi 58 tuổi nhưng có dấu hiệu mắc Alzheimer, thường xuyên hay quên. Bệnh sa sút trí tuệ có chữa được không? (Hoàng Long, Cà Mau)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/10/tk-1791615732-8651-1791615819.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=lg2v4mxTo3TcS9I2aZD3Sg",
+    "link": "https://vnexpress.net/sa-sut-tri-tue-co-chua-duoc-khong-5130718.html",
+    "published_at": "Sun, 11 Oct 2026 11:00:00 +0700",
+    "createAt": "2026-10-11T04:00:00.000Z",
+    "thumbnail_blurhash": "LGL}d7_NMv?wyDxus*t8RQk9xbkD"
   }
 ]
