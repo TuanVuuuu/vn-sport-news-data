@@ -245,5 +245,31 @@
     "published_at": "Sun, 11 Oct 2026 05:31:00 +0700",
     "createAt": "2026-10-10T22:31:00.000Z",
     "thumbnail_blurhash": "L5D]@,_N?pbv5fRg00f400-p-s%M"
+  },
+  {
+    "id": "https://vnexpress.net/oto-xe-may/v-car/doanh-so/10-oto-khach-viet-mua-it-nhat-thang-9-5130748.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "10 ôtô khách Việt mua ít nhất tháng 9",
+    "description": "Ford Mustang Much-E chỉ bàn giao 3 xe mới, Isuzu mu-X bán ít thứ hai với 4 xe, Hyundai Elantra xếp thứ ba với 16 xe.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/10/XebanItT9-1791620305-7411-1791620325.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=A85_4-zrIwNbrH38tyP45w",
+    "link": "https://vnexpress.net/oto-xe-may/v-car/doanh-so/10-oto-khach-viet-mua-it-nhat-thang-9-5130748.html",
+    "published_at": "Sun, 11 Oct 2026 06:00:00 +0700",
+    "createAt": "2026-10-10T23:00:00.000Z",
+    "thumbnail_blurhash": "LBHLJ9_M%2=d009tNZVs00.8%1R+"
+  },
+  {
+    "id": "https://vnexpress.net/honda-lam-ban-tai-tren-nen-tang-mitsubishi-triton-5130677.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Honda làm bán tải trên nền tảng Mitsubishi Triton",
+    "description": "Lần đầu tiên hợp tác, Honda sẽ ra mắt mẫu bán tải khung gầm rời dùng nền tảng của Mitsubishi Triton, sản xuất tại Thái Lan từ năm 2028.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/10/Honda1-1791641099-1278-1791641395.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=dJtaDduVjX01gigtC36nJw",
+    "link": "https://vnexpress.net/honda-lam-ban-tai-tren-nen-tang-mitsubishi-triton-5130677.html",
+    "published_at": "Sun, 11 Oct 2026 07:00:00 +0700",
+    "createAt": "2026-10-11T00:00:00.000Z",
+    "thumbnail_blurhash": "LHDu;}kRMxiz~VW8V@aPp^x-I.M}"
   }
 ]
