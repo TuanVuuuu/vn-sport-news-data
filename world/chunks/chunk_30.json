@@ -388,5 +388,31 @@
     "published_at": "Mon, 12 Oct 2026 21:00:00 +0700",
     "createAt": "2026-10-12T14:00:00.000Z",
     "thumbnail_blurhash": "LPFFKr_NGF~X_2xuRRtQsmIUM|WB"
+  },
+  {
+    "id": "https://vnexpress.net/nguoi-phu-nu-nhay-khoi-du-thuyen-troi-dat-tren-bien-20-gio-5131469.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Người phụ nữ nhảy khỏi du thuyền, trôi dạt trên biển 20 giờ",
+    "description": "Cảnh sát biển Hy Lạp giải cứu một phụ nữ sau khi cô nhảy xuống khỏi du thuyền ở Địa Trung Hải và trôi dạt 20 giờ trên biển.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/12/1862cb2e42c-1791817649-6697-1791817656.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=HHdSakqkVlY8S_EP7isyxg",
+    "link": "https://vnexpress.net/nguoi-phu-nu-nhay-khoi-du-thuyen-troi-dat-tren-bien-20-gio-5131469.html",
+    "published_at": "Mon, 12 Oct 2026 22:32:33 +0700",
+    "createAt": "2026-10-12T15:32:33.000Z",
+    "thumbnail_blurhash": "LVFP?GN#IVWB_4NIS5ofE2W;xut7"
+  },
+  {
+    "id": "https://vnexpress.net/ong-trump-thoa-thuan-diesel-voi-nga-la-vi-nguoi-dan-my-5131487.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Ông Trump: Thỏa thuận diesel với Nga là 'vì người dân Mỹ'",
+    "description": "Tổng thống Trump bảo vệ thỏa thuận nhập dầu diesel từ Nga bất chấp nhiều chỉ trích, cho rằng bản thân ông đã lựa chọn đúng đắn vì nước Mỹ.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/12/ap26275721923638-1791822131-2773-1791822444.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ueIUPfGRCixE3DItVKEsrw",
+    "link": "https://vnexpress.net/ong-trump-thoa-thuan-diesel-voi-nga-la-vi-nguoi-dan-my-5131487.html",
+    "published_at": "Mon, 12 Oct 2026 23:34:33 +0700",
+    "createAt": "2026-10-12T16:34:33.000Z",
+    "thumbnail_blurhash": "LwI5oRD%o}x]_4WAX9kD%gt8oMt7"
   }
 ]

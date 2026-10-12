@@ -908,5 +908,31 @@
     "published_at": "Mon, 12 Oct 2026 22:19:33 +0700",
     "createAt": "2026-10-12T15:19:33.000Z",
     "thumbnail_blurhash": "LFFrL._N0KMc008w%MyY%h%gw]M{"
+  },
+  {
+    "id": "https://vnexpress.net/ben-affleck-nguoi-don-dau-lan-song-ai-o-hollywood-5131078.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Ben Affleck, người đón đầu làn sóng AI ở Hollywood",
+    "description": "Tài tử Ben Affleck am hiểu thuật toán và kỹ xảo điện ảnh, đứng sau thương vụ bán startup công nghệ hàng trăm triệu USD cho Netflix.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/10/12/ap26275087355062-1791791027-7301-1791791414.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=1pF0Xchg6NcPdr4KIQSWvA",
+    "link": "https://vnexpress.net/ben-affleck-nguoi-don-dau-lan-song-ai-o-hollywood-5131078.html",
+    "published_at": "Tue, 13 Oct 2026 00:00:00 +0700",
+    "createAt": "2026-10-12T17:00:00.000Z",
+    "thumbnail_blurhash": "LHF5v=_N0LMJ={W=9uR501D%-o-;"
+  },
+  {
+    "id": "https://vnexpress.net/phat-dong-cuoc-thi-sang-tac-thanh-am-viet-nam-5131344.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Phát động cuộc thi sáng tác 'Thanh âm Việt Nam'",
+    "description": "Bộ Văn hóa, Thể thao và Du lịch phát động chương trình sáng tác \"Thanh âm Việt Nam\", khuyến khích mọi người ghi lại âm thanh đời sống, chia sẻ ký ức âm nhạc.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/10/12/nghe-si-xua-n-ba-c-1791793040-1481-1791793075.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=4zHjea35-o0DGJnM5qvhOQ",
+    "link": "https://vnexpress.net/phat-dong-cuoc-thi-sang-tac-thanh-am-viet-nam-5131344.html",
+    "published_at": "Tue, 13 Oct 2026 00:00:00 +0700",
+    "createAt": "2026-10-12T17:00:00.000Z",
+    "thumbnail_blurhash": "LEI|5+3;000000Vs_NyDOsIU%1-p"
   }
 ]
