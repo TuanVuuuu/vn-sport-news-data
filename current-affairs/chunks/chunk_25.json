@@ -596,5 +596,31 @@
     "published_at": "Mon, 12 Oct 2026 21:25:00 +0700",
     "createAt": "2026-10-12T14:25:00.000Z",
     "thumbnail_blurhash": "L6GlI:-2L}-@00bxXpWC0eOtpJkU"
+  },
+  {
+    "id": "https://vnexpress.net/quy-hoach-cong-vien-thu-le-theo-mo-hinh-vua-mo-vua-dong-5131480.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Quy hoạch Công viên Thủ Lệ theo mô hình 'vừa mở vừa đóng'",
+    "description": "Công viên Thủ Lệ được đề xuất dỡ rào, mở khoảng 70% diện tích cho người dân vui chơi, giữ 30% làm khu nuôi dưỡng, bảo tồn và trưng bày động vật có kiểm soát.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/12/hothule-1791821199-8216-1791821625.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=bzI0IsKWyFkMw6euzbnrAw",
+    "link": "https://vnexpress.net/quy-hoach-cong-vien-thu-le-theo-mo-hinh-vua-mo-vua-dong-5131480.html",
+    "published_at": "Tue, 13 Oct 2026 00:00:00 +0700",
+    "createAt": "2026-10-12T17:00:00.000Z",
+    "thumbnail_blurhash": "L-J8;Up0IUx]?wbJRjt7kERkaxay"
+  },
+  {
+    "id": "https://vnexpress.net/ruoi-tan-cong-khu-dan-cu-5131446.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Ruồi 'tấn công' khu dân cư",
+    "description": "Ruồi từ trang trại chăn nuôi bay vào nhà, bu kín thức ăn, khiến nhiều hộ ở thôn Quảng Trường, xã Tân Gianh phải đóng cửa suốt ngày, hàng quán ế ẩm, sinh hoạt đảo lộn.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/12/IMG1783-1791806305-2128-1791808256.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ksJ3GUkU9xtyhPZTv8MGcg",
+    "link": "https://vnexpress.net/ruoi-tan-cong-khu-dan-cu-5131446.html",
+    "published_at": "Tue, 13 Oct 2026 00:00:03 +0700",
+    "createAt": "2026-10-12T17:00:03.000Z",
+    "thumbnail_blurhash": "LPECOJ~VxuodD+Rjt6oMM{R+WXxZ"
   }
 ]
