@@ -258,5 +258,44 @@
     "published_at": "Mon, 12 Oct 2026 10:00:00 +0700",
     "createAt": "2026-10-12T03:00:00.000Z",
     "thumbnail_blurhash": "LRE}QJ.7.6tR}~oNn$WV$hs-kBs:"
+  },
+  {
+    "id": "https://vnexpress.net/nhung-thoi-quen-an-uong-co-the-lam-tang-huyet-ap-5131140.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Những thói quen ăn uống có thể làm tăng huyết áp",
+    "description": "Ăn mặn, tiêu thụ nhiều thực phẩm chế biến sẵn, đồ uống có đường, rượu bia hoặc thiếu rau xanh có thể làm tăng huyết áp.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/12/ru-o-i-ngo-c-pha-m-1791772876-7518-1791772943.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=w-NwEqb-tCyr2dYLQ3QSOQ",
+    "link": "https://vnexpress.net/nhung-thoi-quen-an-uong-co-the-lam-tang-huyet-ap-5131140.html",
+    "published_at": "Mon, 12 Oct 2026 11:00:00 +0700",
+    "createAt": "2026-10-12T04:00:00.000Z",
+    "thumbnail_blurhash": "L8DIE}nl6+xGXT}@%2R*0eo|E1NG"
+  },
+  {
+    "id": "https://vnexpress.net/cach-giam-kho-chiu-khi-thay-dom-den-truoc-mat-5131132.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Cách giảm khó chịu khi thấy đốm đen trước mắt",
+    "description": "Đốm đen trước mắt có thể giảm khó chịu khi điều chỉnh ánh sáng, cần khám sớm nếu xuất hiện đột ngột, kèm chớp sáng hoặc giảm thị lực.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/12/xem-dien-thoai4-1791772439-3043-1791772459.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=4M5cvMnWq0WLaDYgmPWb-g",
+    "link": "https://vnexpress.net/cach-giam-kho-chiu-khi-thay-dom-den-truoc-mat-5131132.html",
+    "published_at": "Mon, 12 Oct 2026 11:00:00 +0700",
+    "createAt": "2026-10-12T04:00:00.000Z",
+    "thumbnail_blurhash": "L78:nz0P-1sk~A0i}oI?}*0h^ka~"
+  },
+  {
+    "id": "https://vnexpress.net/tang-huyet-ap-go-cua-nhieu-nguoi-cao-tuoi-tp-hcm-5131119.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Tăng huyết áp 'gõ cửa' nhiều người cao tuổi TP HCM",
+    "description": "Trong số hơn 663.000 người từ 60 tuổi trở lên được phân tích từ dữ liệu khám sức khỏe toàn dân tại TP HCM, khoảng 51% trường hợp ghi nhận thông tin liên quan tăng huyết áp.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/12/wm1-wm1-233a4853-1791773927-5142-1791775583.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=T06RtvpbYNT4qH-QBfdWJg",
+    "link": "https://vnexpress.net/tang-huyet-ap-go-cua-nhieu-nguoi-cao-tuoi-tp-hcm-5131119.html",
+    "published_at": "Mon, 12 Oct 2026 11:02:06 +0700",
+    "createAt": "2026-10-12T04:02:06.000Z",
+    "thumbnail_blurhash": "L6FPEM0000~q-;xv-;V_.7sE9FWY"
   }
 ]
