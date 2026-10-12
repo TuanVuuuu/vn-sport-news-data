@@ -674,5 +674,31 @@
     "published_at": "Mon, 12 Oct 2026 08:00:00 +0700",
     "createAt": "2026-10-12T01:00:00.000Z",
     "thumbnail_blurhash": "LIH2K48^D%_3_4DiIU-=00S6aftR"
+  },
+  {
+    "id": "https://vnexpress.net/saigontimes-travel-ung-dung-ai-ket-noi-10-000-du-khach-viet-nhat-5129499.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "SaigonTimes Travel ứng dụng AI, kết nối 10.000 du khách Việt - Nhật",
+    "description": "Hợp tác cùng Kizuna giúp SaigonTimes Travel đẩy mạnh ứng dụng AI, nhằm cá nhân hóa trải nghiệm và kết nối 10.000 du khách Việt Nam - Nhật Bản năm 2027.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/10/12/ptan8526-1791358613-6930-1791772631.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=3QRKMRQBulXFOmWLAVrq1g",
+    "link": "https://vnexpress.net/saigontimes-travel-ung-dung-ai-ket-noi-10-000-du-khach-viet-nhat-5129499.html",
+    "published_at": "Mon, 12 Oct 2026 10:00:00 +0700",
+    "createAt": "2026-10-12T03:00:00.000Z",
+    "thumbnail_blurhash": "LcKU~6Xn.SD*_NWBIURjkCWBjFj["
+  },
+  {
+    "id": "https://vnexpress.net/chau-16-tuoi-dua-ong-noi-di-choi-2-000-km-kieu-tiet-kiem-5131048.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Cháu 16 tuổi đưa ông nội đi chơi 2.000 km kiểu tiết kiệm",
+    "description": "Không có nhiều tiền, cậu thanh niên Thái Lan vẫn đưa được ông nội đi 2.000 km tới Singapore du lịch bằng cách cân đối chi phí.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/10/12/01-thai-teen-grandpa-singapore-3901-3503-1791770332.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Y8vLVYiSzaF7-B1WtSIUZQ",
+    "link": "https://vnexpress.net/chau-16-tuoi-dua-ong-noi-di-choi-2-000-km-kieu-tiet-kiem-5131048.html",
+    "published_at": "Mon, 12 Oct 2026 10:22:04 +0700",
+    "createAt": "2026-10-12T03:22:04.000Z",
+    "thumbnail_blurhash": "LAHnHc?v4T00#7ix~BxtEzSNkXIU"
   }
 ]
