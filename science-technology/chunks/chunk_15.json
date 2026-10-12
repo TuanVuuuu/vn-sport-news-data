@@ -63,5 +63,31 @@
     "published_at": "Mon, 12 Oct 2026 15:38:33 +0700",
     "createAt": "2026-10-12T08:38:33.000Z",
     "thumbnail_blurhash": "LS84T6x|I{kZWIalRnM{flj]oeob"
+  },
+  {
+    "id": "https://vnexpress.net/ra-mat-nen-tang-ket-noi-cong-nghe-viet-nam-australia-5131338.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Ra mắt nền tảng kết nối công nghệ Việt Nam - Australia",
+    "description": "Nền tảng V-bridge được Cục Công nghệ số và Trí tuệ nhân tạo cùng FPT, Hội Trí thức và chuyên gia Việt Nam - Australia (VASEA) xây dựng, ra mắt sáng 12/10, tại Hà Nội.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/12/viet-uc-1791792922-4934-1791792964.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=up9h-tu5K8Zm2NtYgYe6Hg",
+    "link": "https://vnexpress.net/ra-mat-nen-tang-ket-noi-cong-nghe-viet-nam-australia-5131338.html",
+    "published_at": "Mon, 12 Oct 2026 16:59:28 +0700",
+    "createAt": "2026-10-12T09:59:28.000Z",
+    "thumbnail_blurhash": "LyEzQjY7%KWXk]N|NeWZs%xTxBf6"
+  },
+  {
+    "id": "https://vnexpress.net/o-rua-bien-tren-dao-phu-quy-no-57-con-5131332.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Ổ rùa biển trên đảo Phú Quý nở 57 con",
+    "description": "Ổ rùa biển phát hiện trên đảo Phú Quý nở 57 rùa con, được trạm kiểm ngư canh giữ nghiêm ngặt, thả về lại tự nhiên, ngày 12/10.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/12/Rua-con-1791793372-5428-1791794551.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=jhsFCBz9m4MH7DYLsOI_CA",
+    "link": "https://vnexpress.net/o-rua-bien-tren-dao-phu-quy-no-57-con-5131332.html",
+    "published_at": "Mon, 12 Oct 2026 17:07:46 +0700",
+    "createAt": "2026-10-12T10:07:46.000Z",
+    "thumbnail_blurhash": "LNHU^E9H~p%MRkM{RQae^+tRV@xu"
   }
 ]
