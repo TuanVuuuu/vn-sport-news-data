@@ -375,5 +375,31 @@
     "published_at": "Mon, 12 Oct 2026 06:42:00 +0700",
     "createAt": "2026-10-11T23:42:00.000Z",
     "thumbnail_blurhash": "LPC%8Jj[WBt700WBRjWB~qofj[j["
+  },
+  {
+    "id": "https://vnexpress.net/10-oto-ban-nhieu-nhat-lich-su-viet-nam-5131067.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "10 ôtô bán nhiều nhất lịch sử Việt Nam",
+    "description": "Với 24 năm có mặt, doanh số lũy kế của Toyota Vios lớn nhất, VF 3 và VF 5 mới bán vài năm nhưng cũng góp mặt trong top 10.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/12/xe-ban-nhieu-nhat-lich-su-VIET-NAM-VNEXPRESS-1791764718.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=HxX0KrAyMwk1IlyhMaraaQ",
+    "link": "https://vnexpress.net/10-oto-ban-nhieu-nhat-lich-su-viet-nam-5131067.html",
+    "published_at": "Mon, 12 Oct 2026 07:56:38 +0700",
+    "createAt": "2026-10-12T00:56:38.000Z",
+    "thumbnail_blurhash": "LLI#ox~p-o%N.9%Ls:Wq?w-oxuxZ"
+  },
+  {
+    "id": "https://vnexpress.net/hai-xe-may-lao-vao-nhau-o-nga-tu-5131069.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Hai xe máy lao vào nhau ở ngã tư",
+    "description": "Từ góc khuất của ôtô, hai người đi xe máy ở hướng vuông góc lao vào nhau và ngã lăn ra đường, hôm 11/10 tại Vũ Đức Thận.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/12/ezgif8be8c678a129bb77-17917654-1524-4376-1791765867.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=RrXNGgBxdNXX2Rwcif_qaQ&t=image",
+    "link": "https://vnexpress.net/hai-xe-may-lao-vao-nhau-o-nga-tu-5131069.html",
+    "published_at": "Mon, 12 Oct 2026 08:34:48 +0700",
+    "createAt": "2026-10-12T01:34:48.000Z",
+    "thumbnail_blurhash": "L38}MY~B4TH?00ER.9o#MJIT%gx]"
   }
 ]
