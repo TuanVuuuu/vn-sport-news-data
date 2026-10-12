@@ -843,5 +843,31 @@
     "published_at": "Mon, 12 Oct 2026 06:00:00 +0700",
     "createAt": "2026-10-11T23:00:00.000Z",
     "thumbnail_blurhash": "LvJQ+mX9NHnh~qsoV@R%yDslemWB"
+  },
+  {
+    "id": "https://vnexpress.net/gioi-chuyen-gia-du-bao-gia-vang-tang-5131013.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Giới chuyên gia dự báo giá vàng tăng",
+    "description": "Nhiều chuyên gia Wall Street đoán giá vàng tăng tuần này, nhờ lực mua quanh mốc 4.000 USD và kỳ vọng Fed không nâng lãi suất ngay trong tháng 10.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/11/dhvexiro4rov3ft3jgd4hhr3w4-jpe-2417-3173-1791723901.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=uHIA-s30OqIV18NSTDhJMA",
+    "link": "https://vnexpress.net/gioi-chuyen-gia-du-bao-gia-vang-tang-5131013.html",
+    "published_at": "Mon, 12 Oct 2026 04:18:28 +0700",
+    "createAt": "2026-10-11T21:18:28.000Z",
+    "thumbnail_blurhash": "LCBph9VB%%$w8w-?R3t85FxU%0R."
+  },
+  {
+    "id": "https://vnexpress.net/ukraine-to-nga-tap-kich-sau-khi-ong-trump-thong-bao-ngung-ban-nang-luong-5131058.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Ukraine tố Nga tập kích sau khi ông Trump thông báo 'ngừng bắn năng lượng'",
+    "description": "Tổng thống Zelensky cáo buộc Nga tập kích hạ tầng năng lượng Ukraine, vài giờ sau khi ông Trump tuyên bố Moskva - Kiev nhất trí ngừng bắn trong lĩnh vực này.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/12/screen-shot-at-1791760985-1879-1791761389.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=PZSxWTA6D_EeJDgKC6LD4A",
+    "link": "https://vnexpress.net/ukraine-to-nga-tap-kich-sau-khi-ong-trump-thong-bao-ngung-ban-nang-luong-5131058.html",
+    "published_at": "Mon, 12 Oct 2026 06:47:22 +0700",
+    "createAt": "2026-10-11T23:47:22.000Z",
+    "thumbnail_blurhash": "L7BLz?}?0N0gxXS3xG-U0NE3^i=_"
   }
 ]
