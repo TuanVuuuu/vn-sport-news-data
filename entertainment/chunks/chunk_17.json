@@ -856,5 +856,44 @@
     "published_at": "Mon, 12 Oct 2026 19:00:00 +0700",
     "createAt": "2026-10-12T12:00:00.000Z",
     "thumbnail_blurhash": "L6BCx#^j000L02NH~VkB56ax^+%2"
+  },
+  {
+    "id": "https://vnexpress.net/ha-noi-se-to-chuc-concert-60-000-khan-gia-mung-ngay-van-hoa-viet-nam-5131327.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Hà Nội sẽ tổ chức concert 60.000 khán giả mừng Ngày Văn hóa Việt Nam",
+    "description": "Phó thủ tướng Phạm Thị Thanh Trà giao TP Hà Nội tổ chức chương trình nghệ thuật và concert chào mừng Ngày Văn hóa Việt Nam, dự kiến thu hút 60.000 người.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/12/1b5a9507-1791793448-3937-1791793650.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=UGVanRmJZzxmRCCuMEhaOw",
+    "link": "https://vnexpress.net/ha-noi-se-to-chuc-concert-60-000-khan-gia-mung-ngay-van-hoa-viet-nam-5131327.html",
+    "published_at": "Mon, 12 Oct 2026 16:15:36 +0700",
+    "createAt": "2026-10-12T09:15:36.000Z",
+    "thumbnail_blurhash": "LKH1SNaO~0ni=XRjE4afE3X8t7f6"
+  },
+  {
+    "id": "https://vnexpress.net/dai-canh-hon-5-000-nguoi-trong-phim-trai-buon-nguoi-5131279.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Đại cảnh hơn 5.000 người trong phim 'Trại buôn người'",
+    "description": "Đạo diễn \"Trại buôn người\" mất hai năm chuẩn bị cho đại cảnh lễ hội đua bò, quy tụ hơn 5.000 người ở An Giang.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/10/12/steven-nguyen-dua-bo-179179494-2802-3212-1791795276.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=jgw5GE8_N4VPCpKZWUrSPg",
+    "link": "https://vnexpress.net/dai-canh-hon-5-000-nguoi-trong-phim-trai-buon-nguoi-5131279.html",
+    "published_at": "Mon, 12 Oct 2026 20:30:00 +0700",
+    "createAt": "2026-10-12T13:30:00.000Z",
+    "thumbnail_blurhash": "LHH,@H,p?Z0h~T-QNfM|x@Rj$*-S"
+  },
+  {
+    "id": "https://vnexpress.net/anh-vy-nang-tho-tai-the-face-vietnam-5131243.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Ánh Vy, 'nàng thơ' tại The Face Vietnam",
+    "description": "Trần Ánh Vy, 23 tuổi, học trò của H'Hen Niê, được giám khảo và nhãn hàng thời trang yêu thích ở The Face Vietnam 2026 nhờ gương mặt đẹp.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/10/12/503496796-18377368555123985-5259357902388370497-n-1-jpeg-1791779343.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ggNi8Y9tzs8koRxfzp3ONw",
+    "link": "https://vnexpress.net/anh-vy-nang-tho-tai-the-face-vietnam-5131243.html",
+    "published_at": "Mon, 12 Oct 2026 22:00:00 +0700",
+    "createAt": "2026-10-12T15:00:00.000Z",
+    "thumbnail_blurhash": "LADlsI-q00ba00Rk_4NH.9ogMdM_"
   }
 ]
