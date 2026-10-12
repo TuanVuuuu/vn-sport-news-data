@@ -323,5 +323,57 @@
     "published_at": "Mon, 12 Oct 2026 05:00:00 +0700",
     "createAt": "2026-10-11T22:00:00.000Z",
     "thumbnail_blurhash": "LMDTt:NCRgkE?wf-acWSt7WGogWB"
+  },
+  {
+    "id": "https://vnexpress.net/oto-xe-may/v-car/doanh-so/5-oto-hybrid-ban-giao-nhieu-nhat-thang-9-5130916.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "5 ôtô hybrid bàn giao nhiều nhất tháng 9",
+    "description": "Xe Toyota áp đảo bảng xếp hạng doanh số, trong đó Innova Cross HEV bán nhiều nhất 630 xe, Corolla Cross HEV xếp thứ hai 616 xe.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/11/XeHybridT9-1791691013-9571-1791691025.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=hjjUgzJ28ARbWs-Vxuqanw",
+    "link": "https://vnexpress.net/oto-xe-may/v-car/doanh-so/5-oto-hybrid-ban-giao-nhieu-nhat-thang-9-5130916.html",
+    "published_at": "Mon, 12 Oct 2026 05:29:00 +0700",
+    "createAt": "2026-10-11T22:29:00.000Z",
+    "thumbnail_blurhash": "LIH_-@^lx^t8~6=yRiIV={^*t6IV"
+  },
+  {
+    "id": "https://vnexpress.net/oto-xe-may/v-car/doanh-so/10-oto-khach-viet-mua-it-nhat-quy-iii-5130936.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "10 ôtô khách Việt mua ít nhất Quý III",
+    "description": "Ford Mustang Much-E chỉ bàn giao 12 xe dẫn đầu danh sách, Isuzu mu-X xếp thứ hai với 28 xe, Hyundai Elantra ở vị trí thứ ba với 44 xe.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/11/XeBanItQ3-1791696780-4274-1791696805.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=J6xxv51RGUOBMBbxRAEmng",
+    "link": "https://vnexpress.net/oto-xe-may/v-car/doanh-so/10-oto-khach-viet-mua-it-nhat-quy-iii-5130936.html",
+    "published_at": "Mon, 12 Oct 2026 06:07:50 +0700",
+    "createAt": "2026-10-11T23:07:50.000Z",
+    "thumbnail_blurhash": "L6DvvA%L.8_NO*~X%2IUIAD*RPjX"
+  },
+  {
+    "id": "https://vnexpress.net/oto-xe-may/v-car/doanh-so/10-oto-khach-viet-mua-nhieu-nhat-quy-iii-5130949.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "10 ôtô khách Việt mua nhiều nhất Qúy III",
+    "description": "Năm mẫu xe của VinFast dẫn đầu danh sách ôtô bán nhiều nhất, trong đó VF 3 bàn giao tới 18.491 xe.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/11/TopxeQ32026-1791702325-8631-1791702338.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=Ln4YN_hMrciQDuvDRx_2Mg",
+    "link": "https://vnexpress.net/oto-xe-may/v-car/doanh-so/10-oto-khach-viet-mua-nhieu-nhat-quy-iii-5130949.html",
+    "published_at": "Mon, 12 Oct 2026 06:15:00 +0700",
+    "createAt": "2026-10-11T23:15:00.000Z",
+    "thumbnail_blurhash": "LWN-1ctRo~xuxGV@xvog~qsobHkD"
+  },
+  {
+    "id": "https://vnexpress.net/sieu-moto-dien-brabus-urban-e-gioi-han-10-chiec-gia-50-000-usd-5130856.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Siêu môtô điện Brabus Urban E giới hạn 10 chiếc, giá 50.000 USD",
+    "description": "Xe lắp ráp thủ công, môtơ điện công suất 37 mã lực, phạm vi hoạt động 150 km, truyền động dây đai carbon, tốc độ tối đa 120 km/h.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/11/BrabusUrbanE0-1791653411-3578-1791653907.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=V7tzsmjyoiN1H-FP7W9_sQ",
+    "link": "https://vnexpress.net/sieu-moto-dien-brabus-urban-e-gioi-han-10-chiec-gia-50-000-usd-5130856.html",
+    "published_at": "Mon, 12 Oct 2026 06:42:00 +0700",
+    "createAt": "2026-10-11T23:42:00.000Z",
+    "thumbnail_blurhash": "LPC%8Jj[WBt700WBRjWB~qofj[j["
   }
 ]
