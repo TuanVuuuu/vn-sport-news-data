@@ -1,6 +1,19 @@
 {
   "featured": [
     {
+      "id": "https://vnexpress.net/ha-noi-se-to-chuc-concert-60-000-khan-gia-mung-ngay-van-hoa-viet-nam-5131327.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Hà Nội sẽ tổ chức concert 60.000 khán giả mừng Ngày Văn hóa Việt Nam",
+      "description": "Phó thủ tướng Phạm Thị Thanh Trà giao TP Hà Nội tổ chức chương trình nghệ thuật và concert chào mừng Ngày Văn hóa Việt Nam, dự kiến thu hút 60.000 người.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/12/1b5a9507-1791793448-3937-1791793650.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=UGVanRmJZzxmRCCuMEhaOw",
+      "link": "https://vnexpress.net/ha-noi-se-to-chuc-concert-60-000-khan-gia-mung-ngay-van-hoa-viet-nam-5131327.html",
+      "published_at": "Mon, 12 Oct 2026 16:15:36 +0700",
+      "createAt": "2026-10-12T09:15:36.000Z",
+      "thumbnail_blurhash": "LKH1SNaO~0ni=XRjE4afE3X8t7f6"
+    },
+    {
       "id": "https://vnexpress.net/ba-lan-pha-am-muu-am-sat-thu-tuong-5131425.html",
       "category_id": "featured",
       "category_name": "Tin nổi bật",
@@ -38,6 +51,19 @@
       "published_at": "Mon, 12 Oct 2026 19:41:23 +0700",
       "createAt": "2026-10-12T12:41:23.000Z",
       "thumbnail_blurhash": "LqGR-q-;bJoM~Vt7WBjF?Gt8fjfi"
+    },
+    {
+      "id": "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-doanh-nghiep-vung-manh-boi-dap-suc-manh-quoc-gia-5131453.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Tổng Bí thư, Chủ tịch nước: Doanh nghiệp vững mạnh bồi đắp sức mạnh quốc gia",
+      "description": "Doanh nghiệp lớn mạnh, làm chủ công nghệ và nâng sức cạnh tranh sẽ góp phần tăng tiềm lực, vị thế đất nước, theo Tổng Bí thư, Chủ tịch nước Tô Lâm.",
+      "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/12/wm30-wm30-vnapotaltongbithuchutichn-4310-9389-1791812350.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ZRyWH7q3Ep0fe3ndvSZCqQ",
+      "link": "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-doanh-nghiep-vung-manh-boi-dap-suc-manh-quoc-gia-5131453.html",
+      "published_at": "Mon, 12 Oct 2026 21:31:03 +0700",
+      "createAt": "2026-10-12T14:31:03.000Z",
+      "thumbnail_blurhash": "LtP3I.tQ|F$N^jnPI:jFx[oJShWX"
     }
   ]
 }
