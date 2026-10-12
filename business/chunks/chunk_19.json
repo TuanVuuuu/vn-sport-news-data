@@ -1077,5 +1077,31 @@
     "published_at": "Mon, 12 Oct 2026 10:00:00 +0700",
     "createAt": "2026-10-12T03:00:00.000Z",
     "thumbnail_blurhash": "L7F5%4%500~C=-E2BE^i^JNG?J-o"
+  },
+  {
+    "id": "https://vnexpress.net/gia-usd-the-gioi-van-quanh-dinh-18-thang-5131270.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Giá USD thế giới vẫn quanh đỉnh 18 tháng",
+    "description": "Xung đột Trung Đông và diễn biến giá dầu thô khiến giá đôla Mỹ duy trì ở mức cao so với các tiền tệ lớn khác.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/12/usdreuters-1791782706-2745-1791783151.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=jq5zgWcYKFd1UUY1qum9xA",
+    "link": "https://vnexpress.net/gia-usd-the-gioi-van-quanh-dinh-18-thang-5131270.html",
+    "published_at": "Mon, 12 Oct 2026 12:40:50 +0700",
+    "createAt": "2026-10-12T05:40:50.000Z",
+    "thumbnail_blurhash": "L8Ir1x_200W,~BM_9ZJ74Togo%RQ"
+  },
+  {
+    "id": "https://vnexpress.net/so-luong-sieu-thi-mini-du-bao-tang-gap-3-lan-5131159.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Số lượng siêu thị mini dự báo tăng gấp 3 lần",
+    "description": "Số lượng siêu thị mini ở Việt Nam dự báo đạt 30.000 cửa hàng vào 2030, gấp 3 lần hiện tại, theo chuyên gia.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/12/xuan-ngoc-nha-trang-cach-ly-xa-1885-1900-1791777872.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=zf9Cch2ywk5S2fQanzzlTA",
+    "link": "https://vnexpress.net/so-luong-sieu-thi-mini-du-bao-tang-gap-3-lan-5131159.html",
+    "published_at": "Mon, 12 Oct 2026 12:42:06 +0700",
+    "createAt": "2026-10-12T05:42:06.000Z",
+    "thumbnail_blurhash": "LIEeun9a?bxV~ARkM|obV@IUIqIV"
   }
 ]
