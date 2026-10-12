@@ -219,5 +219,44 @@
     "published_at": "Mon, 12 Oct 2026 14:57:49 +0700",
     "createAt": "2026-10-12T07:57:49.000Z",
     "thumbnail_blurhash": "LAI56w.7I.+@DN%M~qMy.TaI4Ux["
+  },
+  {
+    "id": "https://vnexpress.net/my-doa-ngung-cung-cap-vu-khi-tin-tinh-bao-cho-ukraine-5131300.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Mỹ 'dọa ngừng cung cấp vũ khí, tin tình báo' cho Ukraine",
+    "description": "Mỹ có thể ngừng bán vũ khí gián tiếp và đình chỉ chia sẻ tin tình báo nếu Ukraine vẫn tấn công hạ tầng năng lượng Nga, theo CNN.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/12/Patriot-1791792363-6280-1791792750.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=eP0bBUZkDK-q7pUEh5s_ww",
+    "link": "https://vnexpress.net/my-doa-ngung-cung-cap-vu-khi-tin-tinh-bao-cho-ukraine-5131300.html",
+    "published_at": "Mon, 12 Oct 2026 15:52:36 +0700",
+    "createAt": "2026-10-12T08:52:36.000Z",
+    "thumbnail_blurhash": "LWC6[V_4-;t7_N?cxva~?b-;t8j["
+  },
+  {
+    "id": "https://vnexpress.net/loat-nuoc-khuyen-cao-cong-dan-khong-den-arab-saudi-5131322.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Loạt nước khuyến cáo công dân không đến Arab Saudi",
+    "description": "Mỹ cùng ít nhất 6 nước đã khuyến cáo công dân hạn chế hoặc tránh đến Arab Saudi sau loạt vụ tấn công từ Houthi.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/12/aramco-jpg-1791794603-5077-1791795287.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=-bOs3SP7fyvj7oR5KztNbA",
+    "link": "https://vnexpress.net/loat-nuoc-khuyen-cao-cong-dan-khong-den-arab-saudi-5131322.html",
+    "published_at": "Mon, 12 Oct 2026 15:58:07 +0700",
+    "createAt": "2026-10-12T08:58:07.000Z",
+    "thumbnail_blurhash": "LlIY%zx]ozof?^ofWCkCM{WBayj["
+  },
+  {
+    "id": "https://vnexpress.net/ukraine-tap-kich-loat-trung-tam-du-lieu-google-cua-nga-5131347.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Ukraine tập kích loạt trung tâm dữ liệu 'Google của Nga'",
+    "description": "Ba trung tâm dữ liệu của Yandex, tập đoàn công nghệ được ví như \"Google của Nga\", liên tiếp bị UAV Ukraine tập kích trong 4 ngày qua.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/12/yandex-jpg-1791794928-4946-1791795124.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=27AwZYhS-RNws9mbaNkKow",
+    "link": "https://vnexpress.net/ukraine-tap-kich-loat-trung-tam-du-lieu-google-cua-nga-5131347.html",
+    "published_at": "Mon, 12 Oct 2026 16:20:46 +0700",
+    "createAt": "2026-10-12T09:20:46.000Z",
+    "thumbnail_blurhash": "LXFF8I01~WMy^+D%%MaKJUM{S#WB"
   }
 ]
