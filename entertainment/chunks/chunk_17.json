@@ -778,5 +778,44 @@
     "published_at": "Mon, 12 Oct 2026 13:13:24 +0700",
     "createAt": "2026-10-12T06:13:24.000Z",
     "thumbnail_blurhash": "LzKSqS%0I=s:~AxFo2oy%KWWWCkV"
+  },
+  {
+    "id": "https://vnexpress.net/ban-linh-ceo-5130516.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "'Bản lĩnh CEO'",
+    "description": "Doanh nhân Ben Horowitz đề cập khả năng kiểm soát tâm lý của người đứng đầu khi phải đối mặt những quyết định khó khăn, trong ''Bản lĩnh CEO''.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/10/12/banlinhceo-1791774237-8316-1791774632.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=PMc0nbo0UzFOaVLAu34IsA",
+    "link": "https://vnexpress.net/ban-linh-ceo-5130516.html",
+    "published_at": "Mon, 12 Oct 2026 13:52:56 +0700",
+    "createAt": "2026-10-12T06:52:56.000Z",
+    "thumbnail_blurhash": "L8H9|7.-003o^lDhlT%M.TDg^+-W"
+  },
+  {
+    "id": "https://vnexpress.net/cuoc-gap-go-thoi-trang-dieu-khac-trong-show-cuong-dam-5130473.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Cuộc gặp gỡ thời trang, điêu khắc trong show Cường Đàm",
+    "description": "Nhà thiết kế Cường Đàm thể hiện sức sáng tạo bằng cuộc trình diễn thời trang và điêu khắc trong triển lãm nghệ thuật \"Aether\".",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/10/09/cuongdamtrienlamthoitrangdieuk-1651-6197-1791539520.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=sVeEOAiwlyhTW3lxhY0Buw",
+    "link": "https://vnexpress.net/cuoc-gap-go-thoi-trang-dieu-khac-trong-show-cuong-dam-5130473.html",
+    "published_at": "Mon, 12 Oct 2026 14:39:25 +0700",
+    "createAt": "2026-10-12T07:39:25.000Z",
+    "thumbnail_blurhash": "LCM7$A~A00?w%ht7%MoIT1tRMdVr"
+  },
+  {
+    "id": "https://vnexpress.net/cuc-dien-anh-chan-chinh-viec-gui-phim-du-giai-quoc-te-5131293.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Cục Điện ảnh chấn chỉnh việc gửi phim dự giải quốc tế",
+    "description": "Cục Điện ảnh yêu cầu phim dự liên hoan, giải thưởng quốc tế phải có giấy phép phân loại hoặc quyết định phát sóng.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/10/12/phim-ro-m-1791788250-7105-1791788273.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=KvT5lRdCmOGY0wYcnK4zGQ",
+    "link": "https://vnexpress.net/cuc-dien-anh-chan-chinh-viec-gui-phim-du-giai-quoc-te-5131293.html",
+    "published_at": "Mon, 12 Oct 2026 15:22:22 +0700",
+    "createAt": "2026-10-12T08:22:22.000Z",
+    "thumbnail_blurhash": "LdJafq?vx[s._N%MRjRi%Mxuayfk"
   }
 ]
