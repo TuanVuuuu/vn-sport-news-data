@@ -206,5 +206,57 @@
     "published_at": "Mon, 12 Oct 2026 08:30:00 +0700",
     "createAt": "2026-10-12T01:30:00.000Z",
     "thumbnail_blurhash": "LVNT?;tSR4%M~pbJo~oH?bRkRjMx"
+  },
+  {
+    "id": "https://vnexpress.net/thu-pham-gay-tai-phat-viem-phoi-5131077.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Thủ phạm gây tái phát viêm phổi",
+    "description": "Viêm phổi tái phát có thể do sức đề kháng yếu, thời tiết thay đổi, rối loạn nuốt, suy giảm miễn dịch hoặc khối u gây tắc nghẽn phế quản.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/12/image001-1791765930-8341-1791765990.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=Ae8j3Gu6vpZALTpQdeQVaA",
+    "link": "https://vnexpress.net/thu-pham-gay-tai-phat-viem-phoi-5131077.html",
+    "published_at": "Mon, 12 Oct 2026 09:00:00 +0700",
+    "createAt": "2026-10-12T02:00:00.000Z",
+    "thumbnail_blurhash": "LPNAYc~W-#oZ%$-mbxWF$xbENKt8"
+  },
+  {
+    "id": "https://vnexpress.net/not-phoi-tang-gap-doi-sau-ba-thang-5131066.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Nốt phổi tăng gấp đôi sau ba tháng",
+    "description": "Ông Phạm, 56 tuổi, phát hiện nốt phổi sau ba tháng tăng kích thước từ 3 mm lên 8 mm dù không có triệu chứng bất thường, sinh thiết xác định ung thư.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/12/a-nh-ba-o-1791763409-7053-1791763567.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=n6t1trMNmEgFi_zgseyiKw",
+    "link": "https://vnexpress.net/not-phoi-tang-gap-doi-sau-ba-thang-5131066.html",
+    "published_at": "Mon, 12 Oct 2026 09:00:00 +0700",
+    "createAt": "2026-10-12T02:00:00.000Z",
+    "thumbnail_blurhash": "LTGvF=tUMwtT~JxrIVt2xUxYIVRl"
+  },
+  {
+    "id": "https://vnexpress.net/lam-gi-khi-tang-huyet-ap-thai-ky-5131085.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Làm gì khi tăng huyết áp thai kỳ?",
+    "description": "Tôi mang thai lần ba, đo huyết áp tại nhà lúc 10 tuần là 150/90 mmHg. Tình trạng này có nguy hiểm không, tôi nên lưu ý gì để giữ thai an toàn? (Mỹ, 36 tuổi)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/12/image001-1791767550-7498-1791767680.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=FdJ0N9BQSehW311QppIcvw",
+    "link": "https://vnexpress.net/lam-gi-khi-tang-huyet-ap-thai-ky-5131085.html",
+    "published_at": "Mon, 12 Oct 2026 10:00:00 +0700",
+    "createAt": "2026-10-12T03:00:00.000Z",
+    "thumbnail_blurhash": "LUNKL{IU00o$~q_3IAt7?axttRt4"
+  },
+  {
+    "id": "https://vnexpress.net/thay-van-tim-cu-ong-khong-can-phau-thuat-5131070.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Thay van tim cụ ông không cần phẫu thuật",
+    "description": "Ông Tiến, 86 tuổi, hẹp van động mạch chủ song không thể phẫu thuật do lớn tuổi, nhiều bệnh nền, được bác sĩ thay van tim qua ống thông không cần mổ.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/12/image001-1791765041-6003-1791765071.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ckW1kkqkFIRsZlpxpSX33Q",
+    "link": "https://vnexpress.net/thay-van-tim-cu-ong-khong-can-phau-thuat-5131070.html",
+    "published_at": "Mon, 12 Oct 2026 10:00:00 +0700",
+    "createAt": "2026-10-12T03:00:00.000Z",
+    "thumbnail_blurhash": "LRE}QJ.7.6tR}~oNn$WV$hs-kBs:"
   }
 ]
