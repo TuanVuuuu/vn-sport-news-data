@@ -1181,5 +1181,31 @@
     "published_at": "Tue, 13 Oct 2026 22:31:01 +0700",
     "createAt": "2026-10-13T15:31:01.000Z",
     "thumbnail_blurhash": "LOHvMH}Z8xm,mmv~-o$+tkofV@r?"
+  },
+  {
+    "id": "https://vnexpress.net/giai-tri/phim/thu-vien-phim/the-first-taste-of-loneliness-924",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Sự trở lại của Châu Tấn",
+    "description": "Châu Tấn có lối diễn như tan vào không gian qua \"The First Taste of Loneliness\", tác phẩm tranh giải chính thức Liên hoan phim quốc tế Busan.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/10/13/die-n-vie-n-cha-u-ta-n-o-lie-n-6892-6341-1791894188.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=9p8UmkjzLFCheqZducB_lw",
+    "link": "https://vnexpress.net/giai-tri/phim/thu-vien-phim/the-first-taste-of-loneliness-924",
+    "published_at": "Wed, 14 Oct 2026 00:00:00 +0700",
+    "createAt": "2026-10-13T17:00:00.000Z",
+    "thumbnail_blurhash": "LPO0iY-V{N+w+wX8snsAI:njt7kV"
+  },
+  {
+    "id": "https://vnexpress.net/gioi-tre-my-quay-lung-voi-phim-ai-5129303.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Giới trẻ Mỹ 'quay lưng với phim AI'",
+    "description": "Bất chấp Hollywood đầu tư hàng triệu USD vào trí tuệ nhân tạo, nhiều người trẻ ở Mỹ được cho tẩy chay phim AI để tìm về các tác phẩm do con người thực hiện.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/10/07/download-1791361400-7157-1791361448.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=NrjE2pYfpq0bAk5c9KKbsQ",
+    "link": "https://vnexpress.net/gioi-tre-my-quay-lung-voi-phim-ai-5129303.html",
+    "published_at": "Wed, 14 Oct 2026 00:00:00 +0700",
+    "createAt": "2026-10-13T17:00:00.000Z",
+    "thumbnail_blurhash": "LyKnJ8~qx]?vx]s:RjoJ-pozV@M|"
   }
 ]
