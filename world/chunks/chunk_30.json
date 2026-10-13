@@ -843,5 +843,31 @@
     "published_at": "Tue, 13 Oct 2026 21:22:04 +0700",
     "createAt": "2026-10-13T14:22:04.000Z",
     "thumbnail_blurhash": "LiFiS=ofRjof~qj[V[fjRjfkafay"
+  },
+  {
+    "id": "https://vnexpress.net/ong-trump-yeu-cau-dai-su-my-tai-hy-lap-tu-chuc-5131926.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Ông Trump yêu cầu Đại sứ Mỹ tại Hy Lạp từ chức",
+    "description": "Nhà Trắng cho biết chính quyền Tổng thống Trump đã yêu cầu Đại sứ Mỹ tại Hy Lạp từ chức giữa bê bối trục lợi tài chính.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/13/5563187178137269539a-179190333-2635-8153-1791903672.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=PXqoT6wdTtaMNU98fKLo9A",
+    "link": "https://vnexpress.net/ong-trump-yeu-cau-dai-su-my-tai-hy-lap-tu-chuc-5131926.html",
+    "published_at": "Tue, 13 Oct 2026 22:42:38 +0700",
+    "createAt": "2026-10-13T15:42:38.000Z",
+    "thumbnail_blurhash": "L47-D}~W0000RPW=%MxZ9FIo-;-:"
+  },
+  {
+    "id": "https://vnexpress.net/arab-saudi-tan-cong-co-so-dau-khi-gan-thu-do-cua-yemen-5131946.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Arab Saudi tấn công cơ sở dầu khí gần thủ đô của Yemen",
+    "description": "Arab Saudi không kích cơ sở dầu khí gần thủ đô Sanaa, Houthi cảnh báo sẽ nhắm vào sân bay và nhà máy lọc dầu ở nước láng giềng để trả đũa.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/13/5563187178137269540a-179190685-2527-7168-1791907063.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ADUiH37De6mmXm2eMlwRtg",
+    "link": "https://vnexpress.net/arab-saudi-tan-cong-co-so-dau-khi-gan-thu-do-cua-yemen-5131946.html",
+    "published_at": "Tue, 13 Oct 2026 23:26:57 +0700",
+    "createAt": "2026-10-13T16:26:57.000Z",
+    "thumbnail_blurhash": "LbH2vQ8wxtx]t:I9ROtSRnoyM_WB"
   }
 ]
