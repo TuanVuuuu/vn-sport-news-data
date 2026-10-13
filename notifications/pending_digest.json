@@ -1,3 +1,30 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/tranh-luan-gay-gat-ve-tinh-tiet-giam-nhe-cua-tai-xe-tong-nu-sinh-o-vinh-long-5131823.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Tranh luận gay gắt về 'tình tiết giảm nhẹ' của tài xế tông nữ sinh ở Vĩnh Long",
+      "description": "VKS cho rằng Nguyễn Văn Bảo Trung thành khẩn, có cứu giúp nạn nhân và khắc phục hậu quả; phía gia đình nữ sinh phản bác, đề nghị không xem đây là tình tiết giảm nhẹ.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/13/2aobor58nkvlrmnbnzq7qxgqr1upxc-6535-4007-1791886914.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=uaYDJApjj6j2XB2HDhPqyg",
+      "link": "https://vnexpress.net/tranh-luan-gay-gat-ve-tinh-tiet-giam-nhe-cua-tai-xe-tong-nu-sinh-o-vinh-long-5131823.html",
+      "published_at": "Tue, 13 Oct 2026 17:21:53 +0700",
+      "createAt": "2026-10-13T10:21:53.000Z",
+      "thumbnail_blurhash": "LaJRacA2~JjX.4RPIvRSs#ROIbWa"
+    },
+    {
+      "id": "https://vnexpress.net/metro-xe-buyt-tp-hcm-tang-chuyen-phuc-vu-le-an-tang-731-hai-cot-liet-si-5131871.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Metro, xe buýt TP HCM tăng chuyến phục vụ lễ an táng 731 hài cốt liệt sĩ",
+      "description": "Metro Bến Thành - Suối Tiên và tuyến buýt kết nối Nghĩa trang Liệt sĩ TP HCM sẽ tăng chuyến ngày 14/10, phục vụ người dân dự lễ truy điệu, an táng 731 hài cốt liệt sĩ.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/13/metro73551671594755-1791886329-8988-1791886382.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=_3MlDnKeWeng5VVca7eY2w",
+      "link": "https://vnexpress.net/metro-xe-buyt-tp-hcm-tang-chuyen-phuc-vu-le-an-tang-731-hai-cot-liet-si-5131871.html",
+      "published_at": "Tue, 13 Oct 2026 17:29:52 +0700",
+      "createAt": "2026-10-13T10:29:52.000Z",
+      "thumbnail_blurhash": "LXBza-xuf6f6_4t7axay?ct7j[WC"
+    }
+  ]
 }
