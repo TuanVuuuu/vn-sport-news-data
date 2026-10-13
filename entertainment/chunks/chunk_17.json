@@ -934,5 +934,44 @@
     "published_at": "Tue, 13 Oct 2026 00:00:00 +0700",
     "createAt": "2026-10-12T17:00:00.000Z",
     "thumbnail_blurhash": "LEI|5+3;000000Vs_NyDOsIU%1-p"
+  },
+  {
+    "id": "https://vnexpress.net/cuoc-thi-sang-tac-thanh-am-viet-nam-5131344.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Cuộc thi sáng tác 'Thanh âm Việt Nam'",
+    "description": "Bộ Văn hóa, Thể thao và Du lịch phát động chương trình sáng tác \"Thanh âm Việt Nam\", khuyến khích mọi người ghi lại âm thanh đời sống, chia sẻ ký ức âm nhạc.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/10/12/nghe-si-xua-n-ba-c-1791793040-1481-1791793075.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=4zHjea35-o0DGJnM5qvhOQ",
+    "link": "https://vnexpress.net/cuoc-thi-sang-tac-thanh-am-viet-nam-5131344.html",
+    "published_at": "Tue, 13 Oct 2026 00:00:00 +0700",
+    "createAt": "2026-10-12T17:00:00.000Z",
+    "thumbnail_blurhash": "LEI|5+3;000000Vs_NyDOsIU%1-p"
+  },
+  {
+    "id": "https://vnexpress.net/dien-vien-phim-breaking-bad-qua-doi-5131545.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Diễn viên phim 'Breaking Bad' qua đời",
+    "description": "RJ Mitte - diễn viên nổi tiếng với vai con trai của Walter White trong series \"Breaking Bad\" - qua đời ở tuổi 34.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/10/13/tcdbrba-ec119-1791854319-1769-1791854601.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=-SS6iuCJVpW1DkOLIP_TQg",
+    "link": "https://vnexpress.net/dien-vien-phim-breaking-bad-qua-doi-5131545.html",
+    "published_at": "Tue, 13 Oct 2026 08:36:28 +0700",
+    "createAt": "2026-10-13T01:36:28.000Z",
+    "thumbnail_blurhash": "LODu@:~n.6?a?G?a?ax]bwxuxat8"
+  },
+  {
+    "id": "https://vnexpress.net/hon-nhan-tuong-kinh-nhu-tan-cua-hoa-hau-dang-thu-thao-5131404.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Hôn nhân 'tương kính như tân' của hoa hậu Đặng Thu Thảo",
+    "description": "Hoa hậu Đặng Thu Thảo cho biết vợ chồng giữ sự lãng mạn trong hôn nhân bằng lời yêu thương, đồng hành trong công việc và chăm sóc ba con.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/10/13/to-am-cua-hoa-hau-dang-thu-thao-1791858532.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=zh7k_IFxRt7wZXR6avKiDQ",
+    "link": "https://vnexpress.net/hon-nhan-tuong-kinh-nhu-tan-cua-hoa-hau-dang-thu-thao-5131404.html",
+    "published_at": "Tue, 13 Oct 2026 09:28:58 +0700",
+    "createAt": "2026-10-13T02:28:58.000Z",
+    "thumbnail_blurhash": "LtMjs_a%?vxu~q%MkBtRkCR*RPoe"
   }
 ]
