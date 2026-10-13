@@ -544,5 +544,31 @@
     "published_at": "Tue, 13 Oct 2026 00:02:00 +0700",
     "createAt": "2026-10-12T17:02:00.000Z",
     "thumbnail_blurhash": "LMEy}A_MBQNZ_2afo}tRxuaeniRj"
+  },
+  {
+    "id": "https://vnexpress.net/tu-tho-duc-kim-loai-den-thu-khoa-dai-hoc-5131493.html",
+    "category_id": "education",
+    "category_name": "Giáo dục",
+    "source": "VnExpress",
+    "title": "Từ thợ đúc kim loại đến thủ khoa đại học",
+    "description": "Từng làm việc trong những xưởng đúc kim loại ở xứ người từ sáng tới đêm, Việt Anh quay lại giảng đường, làm lại từ con số 0 rồi tốt nghiệp thủ khoa khối ngành Ngôn ngữ.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/13/1791824761735-d942b0d80da7e1df-4508-5793-1791849563.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=MyXOK4LYUqDBSqLjTOKkIA",
+    "link": "https://vnexpress.net/tu-tho-duc-kim-loai-den-thu-khoa-dai-hoc-5131493.html",
+    "published_at": "Tue, 13 Oct 2026 06:59:49 +0700",
+    "createAt": "2026-10-12T23:59:49.000Z",
+    "thumbnail_blurhash": "LTL{;xjF-.%M^-V@WHt7gk$wninh"
+  },
+  {
+    "id": "https://vnexpress.net/ueh-ban-huong-phat-trien-nhan-tai-so-trong-giao-duc-dai-hoc-5131465.html",
+    "category_id": "education",
+    "category_name": "Giáo dục",
+    "source": "VnExpress",
+    "title": "UEH bàn hướng phát triển nhân tài số trong giáo dục đại học",
+    "description": "Đại học Kinh tế TP HCM (UEH) phối hợp SAP Việt Nam tổ chức hội nghị bàn về dạy và học trong thời kỳ AI, dữ liệu và các nền tảng số, thu hút hơn 200 đại biểu.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/12/1-1791818003-7153-1791818422.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=PDNiwoN9mPp_TpszQKnUJw",
+    "link": "https://vnexpress.net/ueh-ban-huong-phat-trien-nhan-tai-so-trong-giao-duc-dai-hoc-5131465.html",
+    "published_at": "Tue, 13 Oct 2026 08:00:00 +0700",
+    "createAt": "2026-10-13T01:00:00.000Z",
+    "thumbnail_blurhash": "LVJal;s:00axysfk9ZoLDOjY-;of"
   }
 ]
