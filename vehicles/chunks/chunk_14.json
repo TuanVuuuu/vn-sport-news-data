@@ -596,5 +596,31 @@
     "published_at": "Tue, 13 Oct 2026 06:28:00 +0700",
     "createAt": "2026-10-12T23:28:00.000Z",
     "thumbnail_blurhash": "LiF$9Yt7M{a#~Xt6Rjaz?Ixaa#fP"
+  },
+  {
+    "id": "https://vnexpress.net/doanh-so-thi-truong-oto-viet-tien-gan-moc-ky-luc-5131349.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Doanh số thị trường ôtô Việt tiến gần mốc kỷ lục",
+    "description": "Tính đến tháng 9, toàn ngành ôtô bán ra gần 500.000 xe, mở ra cơ hội vượt mốc 660.000 xe ở 2026, mức lớn nhất từ trước đến nay.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/12/thitruongotovietnamvnexpress1-2396-8423-1791803920.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=hCFusXFdeQMSauP9xSrU9Q",
+    "link": "https://vnexpress.net/doanh-so-thi-truong-oto-viet-tien-gan-moc-ky-luc-5131349.html",
+    "published_at": "Tue, 13 Oct 2026 05:00:00 +0700",
+    "createAt": "2026-10-12T22:00:00.000Z",
+    "thumbnail_blurhash": "LGHxc{?IiJ~qZj%2#9Rj}@j[n4RP"
+  },
+  {
+    "id": "https://vnexpress.net/gia-mitsubishi-destinator-tai-dai-ly-xuong-muc-700-trieu-dong-5131501.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Giá Mitsubishi Destinator tại đại lý xuống mức 700 triệu đồng",
+    "description": "Trong số các mẫu Mitsubishi khuyến mãi ở tháng 10, Destinator có mức lớn nhất, giá giao dịch khoảng 702-812 triệu đồng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/13/destinatorvnexpress-1791847313-5218-1791847661.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=cYq8Bh2dbduHl2afM44Vxg",
+    "link": "https://vnexpress.net/gia-mitsubishi-destinator-tai-dai-ly-xuong-muc-700-trieu-dong-5131501.html",
+    "published_at": "Tue, 13 Oct 2026 08:10:28 +0700",
+    "createAt": "2026-10-13T01:10:28.000Z",
+    "thumbnail_blurhash": "LXG983-p9ENF.AtRD%WB-.ogWEt7"
   }
 ]
