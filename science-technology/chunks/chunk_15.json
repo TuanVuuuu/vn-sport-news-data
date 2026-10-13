@@ -154,5 +154,31 @@
     "published_at": "Tue, 13 Oct 2026 08:02:38 +0700",
     "createAt": "2026-10-13T01:02:38.000Z",
     "thumbnail_blurhash": "LgD0:2x^E;R-yGjFs*j]R*WBxDof"
+  },
+  {
+    "id": "https://vnexpress.net/doanh-nghiep-ban-ve-he-thong-quan-tri-ai-trong-san-xuat-5131125.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Doanh nghiệp bàn về hệ thống quản trị AI trong sản xuất",
+    "description": "Tọa đàm trực tuyến \"The Next AI ERP: Tăng tốc vận hành cho ngành sản xuất\" quy tụ lãnh đạo doanh nghiệp và chuyên gia công nghệ, phát sóng ngày 14/10.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/13/sx-1791857914-8406-1791858104.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=pMF4JZkXcMVZGVKgC06nmQ",
+    "link": "https://vnexpress.net/doanh-nghiep-ban-ve-he-thong-quan-tri-ai-trong-san-xuat-5131125.html",
+    "published_at": "Tue, 13 Oct 2026 09:30:00 +0700",
+    "createAt": "2026-10-13T02:30:00.000Z",
+    "thumbnail_blurhash": "L85~YfD9-@Tgo%nyo{irD*-=Mvoq"
+  },
+  {
+    "id": "https://vnexpress.net/alexandr-wang-neu-ly-do-tao-bao-bai-dang-tren-mang-xa-hoi-5131351.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Alexandr Wang nêu lý do tạo 'bão bài đăng' trên mạng xã hội",
+    "description": "Giám đốc AI Meta Alexandr Wang cho biết việc đăng hàng loạt nội dung meme về trợ lý Muse là để giúp công ty \"trở nên thú vị trở lại\".",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/12/image-1791800367-2540-1791800566.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=lXKZ-jdksuBqw7Kw-ceuKw",
+    "link": "https://vnexpress.net/alexandr-wang-neu-ly-do-tao-bao-bai-dang-tren-mang-xa-hoi-5131351.html",
+    "published_at": "Tue, 13 Oct 2026 09:53:43 +0700",
+    "createAt": "2026-10-13T02:53:43.000Z",
+    "thumbnail_blurhash": "L9CGV?DhPqEMD%RjV?t70fS4^O%1"
   }
 ]
