@@ -284,5 +284,31 @@
     "published_at": "Tue, 13 Oct 2026 21:35:23 +0700",
     "createAt": "2026-10-13T14:35:23.000Z",
     "thumbnail_blurhash": "LyOWg8x]-;xtxaozofjs_NoLM{WC"
+  },
+  {
+    "id": "https://vnexpress.net/nha-sang-tao-vat-lon-chung-minh-tinh-nguoi-thoi-ai-5128776.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Nhà sáng tạo vật lộn chứng minh 'tính người' thời AI",
+    "description": "AI đang tạo nên \"kỷ nguyên của sự ngờ vực\", khiến người làm nội dung phải tìm nhiều cách chứng minh như viết sai chính tả, ghi hình quá trình sáng tác, thuê luật sư.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/08/wm1-wm1-dsc00695-jpg-1791367896-5617-1791431824.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=4BUFXHS2EizhwKZqLdfD-g",
+    "link": "https://vnexpress.net/nha-sang-tao-vat-lon-chung-minh-tinh-nguoi-thoi-ai-5128776.html",
+    "published_at": "Tue, 13 Oct 2026 00:00:00 +0700",
+    "createAt": "2026-10-12T17:00:00.000Z",
+    "thumbnail_blurhash": "LGBqJVc[MaWIAhx]$~n4IvngnMWY"
+  },
+  {
+    "id": "https://vnexpress.net/cau-truc-phang-khien-nhan-vien-nvidia-it-nghi-viec-5131435.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "'Cấu trúc phẳng' khiến nhân viên Nvidia ít nghỉ việc",
+    "description": "Dù chịu áp lực cao, nhân viên Nvidia ít nghỉ việc do nhận lương thưởng, đãi ngộ hấp dẫn, được làm việc linh hoạt và lắng nghe ý kiến.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/13/wm1-wm1-nvidia-vnexpress-179185407-8781-1417-1791854236.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Q2GGYunc9GBX2xSMtn01zw",
+    "link": "https://vnexpress.net/cau-truc-phang-khien-nhan-vien-nvidia-it-nghi-viec-5131435.html",
+    "published_at": "Wed, 14 Oct 2026 05:00:00 +0700",
+    "createAt": "2026-10-13T22:00:00.000Z",
+    "thumbnail_blurhash": "L6CH0[L$][Bu?v01OaD$@R^RSbyA"
   }
 ]

@@ -765,5 +765,31 @@
     "published_at": "Tue, 13 Oct 2026 17:00:00 +0700",
     "createAt": "2026-10-13T10:00:00.000Z",
     "thumbnail_blurhash": "LC8rBy.8M{MK?^t8IBWApIWXRPa1"
+  },
+  {
+    "id": "https://vnexpress.net/byd-dua-oto-dau-tien-dung-cong-nghe-sac-sieu-nhanh-den-chau-au-5131684.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "BYD đưa ôtô đầu tiên dùng công nghệ sạc siêu nhanh đến châu Âu",
+    "description": "BYD Atto 8 chào sân thị trường châu Âu với thiết kế 7 chỗ, tầm hoạt động 653 km và khả năng sạc 10%-97% trong 9 phút.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/13/BYDAtto82-1791868230-9908-1791868447.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=tMBLM3yCyfvUUGLPV1ogUw",
+    "link": "https://vnexpress.net/byd-dua-oto-dau-tien-dung-cong-nghe-sac-sieu-nhanh-den-chau-au-5131684.html",
+    "published_at": "Wed, 14 Oct 2026 05:00:00 +0700",
+    "createAt": "2026-10-13T22:00:00.000Z",
+    "thumbnail_blurhash": "LaHL3Z-WyCMzEHMyM_X9*GozwdRQ"
+  },
+  {
+    "id": "https://vnexpress.net/oto-xe-may/v-car/doanh-so/5-oto-gam-thap-ban-giao-nhieu-nhat-thang-9-5131621.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "5 ôtô gầm thấp bàn giao nhiều nhất tháng 9",
+    "description": "Toyota Vios giữ đỉnh bảng xếp hạng doanh số với 758 xe bán ra, Honda City xếp thứ hai 617 xe, Mazda2 đứng hạng ba với 464 xe.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/13/SedanT9-1791863052-8954-1791863260.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ebRjwuuEUdU-Kn1SlL_vAQ",
+    "link": "https://vnexpress.net/oto-xe-may/v-car/doanh-so/5-oto-gam-thap-ban-giao-nhieu-nhat-thang-9-5131621.html",
+    "published_at": "Wed, 14 Oct 2026 05:00:00 +0700",
+    "createAt": "2026-10-13T22:00:00.000Z",
+    "thumbnail_blurhash": "L5FPZ%S]Q+.700J#MxNF00tj?wj["
   }
 ]
