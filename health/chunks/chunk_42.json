@@ -674,5 +674,31 @@
     "published_at": "Tue, 13 Oct 2026 08:00:00 +0700",
     "createAt": "2026-10-13T01:00:00.000Z",
     "thumbnail_blurhash": "LYMG^z$yxV_N?uNG-;f5WAR+ogV?"
+  },
+  {
+    "id": "https://vnexpress.net/thit-ca-tru-dong-lanh-ca-thang-co-an-toan-5131113.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Thịt, cá trữ đông lạnh cả tháng có an toàn?",
+    "description": "Mỗi lần đi chợ hay về quê, tôi hay lấy đồ ăn, thịt, cá cho cả tháng, trữ trong tủ đông ăn dần, điều này có an toàn và có làm mất dinh dưỡng của thực phẩm? (Hòa, 40 tuổi, Hà Nội)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/12/foods3-mx0-1791771521-1293-1791771638.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=QlIpR8qVMKbnHfCEaGjwQQ",
+    "link": "https://vnexpress.net/thit-ca-tru-dong-lanh-ca-thang-co-an-toan-5131113.html",
+    "published_at": "Tue, 13 Oct 2026 08:25:00 +0700",
+    "createAt": "2026-10-13T01:25:00.000Z",
+    "thumbnail_blurhash": "LVLD#=eS?^%MRQahkXkXt7kCozRj"
+  },
+  {
+    "id": "https://vnexpress.net/be-34-thang-tuoi-tu-vong-sau-tiem-thuoc-o-benh-vien-5131584.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Bé 34 tháng tuổi tử vong sau tiêm thuốc ở bệnh viện",
+    "description": "Bé gái 34 tháng tuổi viêm tiểu phế quản cấp, sau tiêm thuốc khoảng 4 phút xuất hiện dấu hiệu bất thường, được cấp cứu nhưng không qua khỏi.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/13/233A5111-8828-1791859398.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=xF9NCaSZ-wgQ4eZPAGUFRg",
+    "link": "https://vnexpress.net/be-34-thang-tuoi-tu-vong-sau-tiem-thuoc-o-benh-vien-5131584.html",
+    "published_at": "Tue, 13 Oct 2026 09:43:18 +0700",
+    "createAt": "2026-10-13T02:43:18.000Z",
+    "thumbnail_blurhash": "L9HV6p.A%LIw~o_2?GD$xwo#NI-="
   }
 ]
