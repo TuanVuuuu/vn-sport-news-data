@@ -1,3 +1,30 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/doanh-so-thi-truong-oto-viet-tien-gan-moc-ky-luc-5131349.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Doanh số thị trường ôtô Việt tiến gần mốc kỷ lục",
+      "description": "Tính đến tháng 9, toàn ngành ôtô bán ra gần 500.000 xe, mở ra cơ hội vượt mốc 660.000 xe ở 2026, mức lớn nhất từ trước đến nay.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/12/thitruongotovietnamvnexpress1-2396-8423-1791803920.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=hCFusXFdeQMSauP9xSrU9Q",
+      "link": "https://vnexpress.net/doanh-so-thi-truong-oto-viet-tien-gan-moc-ky-luc-5131349.html",
+      "published_at": "Tue, 13 Oct 2026 05:00:00 +0700",
+      "createAt": "2026-10-12T22:00:00.000Z",
+      "thumbnail_blurhash": "LGHxc{?IiJ~qZj%2#9Rj}@j[n4RP"
+    },
+    {
+      "id": "https://vnexpress.net/houthi-canh-bao-dap-tra-dau-don-neu-my-tham-chien-o-yemen-5131498.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Houthi cảnh báo đáp trả 'đau đớn' nếu Mỹ tham chiến ở Yemen",
+      "description": "Quan chức cấp cao Houthi cảnh báo Washington sẽ đối mặt \"đòn đáp trả đau đớn\" nếu tham chiến tại Yemen, khi Arab Saudi được cho là đã nhờ Mỹ giúp đỡ.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/13/afp-c7vr3nq-v1-highres-yemenco-8594-5648-1791847969.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=aXJbSfN4ltQKxeTPfRvDCw",
+      "link": "https://vnexpress.net/houthi-canh-bao-dap-tra-dau-don-neu-my-tham-chien-o-yemen-5131498.html",
+      "published_at": "Tue, 13 Oct 2026 07:17:02 +0700",
+      "createAt": "2026-10-13T00:17:02.000Z",
+      "thumbnail_blurhash": "LPFYcFs8og?H_4D%j@xv%hIUxuxu"
+    }
+  ]
 }
