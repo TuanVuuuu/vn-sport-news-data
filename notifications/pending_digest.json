@@ -1,6 +1,19 @@
 {
   "featured": [
     {
+      "id": "https://vnexpress.net/sao-chon-nam-trong-mang-luoi-phat-trien-cong-nghiep-van-hoa-viet-nam-5131530.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "'Sao Chọn' nằm trong Mạng lưới Phát triển công nghiệp văn hóa Việt Nam",
+      "description": "Chương trình thực tế về văn hóa ẩm thực \"Sao Chọn\" là một trong 17 sáng kiến phát triển công nghiệp văn hóa Việt Nam năm 2026.",
+      "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/10/13/sao-cho-n-1791852387-5035-1791852405.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=LpCEpEUgzCwU7TGXU3GcWQ",
+      "link": "https://vnexpress.net/sao-chon-nam-trong-mang-luoi-phat-trien-cong-nghiep-van-hoa-viet-nam-5131530.html",
+      "published_at": "Tue, 13 Oct 2026 10:20:16 +0700",
+      "createAt": "2026-10-13T03:20:16.000Z",
+      "thumbnail_blurhash": "LEJacl|F00RP^jw]oz?bL10K%z~q"
+    },
+    {
       "id": "https://vnexpress.net/tan-phat-ngon-vien-tung-lam-viec-tai-trung-quoc-cua-ong-trump-5131319.html",
       "category_id": "featured",
       "category_name": "Tin nổi bật",
@@ -12,6 +25,19 @@
       "published_at": "Tue, 13 Oct 2026 11:29:34 +0700",
       "createAt": "2026-10-13T04:29:34.000Z",
       "thumbnail_blurhash": "L9F5dq,70403U}9c_M6A%|IwZf#%"
+    },
+    {
+      "id": "https://vnexpress.net/cuoc-chuyen-phiem-khien-ong-trump-doi-huy-cong-nghe-ty-do-tren-tau-san-bay-5131524.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Cuộc chuyện phiếm khiến ông Trump đòi hủy công nghệ tỷ đô trên tàu sân bay",
+      "description": "Ông Trump trò chuyện với một thủy thủ bí ẩn và quyết định hủy công nghệ phóng điện từ đắt đỏ trên tàu sân bay, quay lại với máy phóng hơi nước kiểu cũ.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/13/170302-n-ze240-1791866433-2095-1791866536.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=1XQwpSCGNJFeD8MYZNYwrg",
+      "link": "https://vnexpress.net/cuoc-chuyen-phiem-khien-ong-trump-doi-huy-cong-nghe-ty-do-tren-tau-san-bay-5131524.html",
+      "published_at": "Tue, 13 Oct 2026 11:44:04 +0700",
+      "createAt": "2026-10-13T04:44:04.000Z",
+      "thumbnail_blurhash": "LKCGVxM_R3_N?aM{R5krInWExHE2"
     },
     {
       "id": "https://vnexpress.net/tranh-cai-iphone-18-pro-mat-dan-suc-hut-5131460.html",
@@ -79,6 +105,19 @@
       "thumbnail_blurhash": "LGGR}2%z3YtQ~bW9znxDTKR+rqt7"
     },
     {
+      "id": "https://vnexpress.net/sat-hai-ban-gai-o-ky-tuc-xa-vi-ghen-5131710.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Sát hại bạn gái ở ký túc xá vì ghen",
+      "description": "Phạm Minh Phúc, 26 tuổi, đến công an đầu thú, thừa nhận dùng dao đâm bạn gái tử vong ở ký túc xá, vì nghi cô có tình cảm với người khác.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/13/Screenshot20261013at132745-179-4027-7734-1791873071.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=bbuo7SVtpnsvoECMLTe-Fw",
+      "link": "https://vnexpress.net/sat-hai-ban-gai-o-ky-tuc-xa-vi-ghen-5131710.html",
+      "published_at": "Tue, 13 Oct 2026 13:37:29 +0700",
+      "createAt": "2026-10-13T06:37:29.000Z",
+      "thumbnail_blurhash": "LQK1dqs:_Mx]^%WUbJf,IoR*v}V@"
+    },
+    {
       "id": "https://vnexpress.net/ba-vu-thuy-hong-ngoc-tiep-tuc-doi-bac-si-chiem-quoc-thai-chia-tai-san-5131713.html",
       "category_id": "featured",
       "category_name": "Tin nổi bật",
@@ -90,6 +129,45 @@
       "published_at": "Tue, 13 Oct 2026 13:41:48 +0700",
       "createAt": "2026-10-13T06:41:48.000Z",
       "thumbnail_blurhash": "LFF5N[$S57.900oas*MxlVENxH%M"
+    },
+    {
+      "id": "https://vnexpress.net/hac-ma-nganh-ban-dan-thach-thuc-the-doc-ton-cua-nvidia-5131419.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "'Hắc mã' ngành bán dẫn thách thức thế độc tôn của Nvidia",
+      "description": "Cerebras Systems đang được ví như \"cơn ác mộng của Nvidia\" với sản phẩm chủ lực là dòng chip lớn bằng chiếc đĩa có tốc độ xử lý siêu nhanh.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/12/VNEChip-1791799934-6053-1791800174.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=I4DyMYLkQC4YQ7iLry4uKg",
+      "link": "https://vnexpress.net/hac-ma-nganh-ban-dan-thach-thuc-the-doc-ton-cua-nvidia-5131419.html",
+      "published_at": "Tue, 13 Oct 2026 14:00:00 +0700",
+      "createAt": "2026-10-13T07:00:00.000Z",
+      "thumbnail_blurhash": "LZPPr,ofT#x]~Wj[ofaypKtRr:oJ"
+    },
+    {
+      "id": "https://vnexpress.net/khoan-thu-nhap-bi-mat-1-7-trieu-usd-cua-chu-tich-infantino-5131703.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Khoản thu nhập bí mật 1,7 triệu USD của Chủ tịch Infantino",
+      "description": "Chủ tịch FIFA Gianni Infantino nhận thêm 1,72 triệu USD từ đơn vị điều hành World Cup 2026, ngoài khoản lương và phúc lợi gần 4,9 triệu USD, làm dấy lên nghi vấn vi phạm quy định minh bạch tài chính của FIFA.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/10/13/fifa-1791870747-6122-1791870771.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=H6Tp50hVYhSwazunjM-F8A",
+      "link": "https://vnexpress.net/khoan-thu-nhap-bi-mat-1-7-trieu-usd-cua-chu-tich-infantino-5131703.html",
+      "published_at": "Tue, 13 Oct 2026 14:07:29 +0700",
+      "createAt": "2026-10-13T07:07:29.000Z",
+      "thumbnail_blurhash": "LvIEtxadyDoz~qofozt7ogozRjWB"
+    },
+    {
+      "id": "https://vnexpress.net/ly-hon-hon-chuc-nam-nhung-vneid-the-hien-la-vo-chong-cua-nguoi-cu-5131595.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Ly hôn hơn chục năm nhưng VNeID thể hiện là vợ, chồng của 'người cũ'",
+      "description": "Được tòa công nhận thuận tình ly hôn từ 20 năm trước, chị Mai bất ngờ khi kiểm tra VNeID, thấy tình trạng hôn nhân vẫn ghi \"đang kết hôn\" với chồng cũ.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/13/179187585870144746589836964620-4176-9045-1791877225.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=3Z9oNUySkeZY_yrG9F1J6g",
+      "link": "https://vnexpress.net/ly-hon-hon-chuc-nam-nhung-vneid-the-hien-la-vo-chong-cua-nguoi-cu-5131595.html",
+      "published_at": "Tue, 13 Oct 2026 14:16:01 +0700",
+      "createAt": "2026-10-13T07:16:01.000Z",
+      "thumbnail_blurhash": "LLJ7j._MGOt9O?t6%NaKImxtx0Rj"
     }
   ]
 }
