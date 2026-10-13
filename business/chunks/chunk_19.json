@@ -1259,5 +1259,44 @@
     "published_at": "Mon, 12 Oct 2026 21:31:03 +0700",
     "createAt": "2026-10-12T14:31:03.000Z",
     "thumbnail_blurhash": "LtP3I:tQ|F$N^jnPI;jFx[o0ShWW"
+  },
+  {
+    "id": "https://vnexpress.net/lai-suat-cang-tang-nha-dau-tu-cang-roi-bo-chung-khoan-5131247.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "'Lãi suất càng tăng, nhà đầu tư càng rời bỏ chứng khoán'",
+    "description": "Lãi suất huy động neo cao, thanh khoản chứng khoán xuống đáy hơn một năm, trong khi dư nợ margin lớn khiến thị trường đối mặt làn sóng bán giải chấp.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/12/td5-1791778261-8207-1791779512.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=UwTZNZahN4hvpErmCFOLaA",
+    "link": "https://vnexpress.net/lai-suat-cang-tang-nha-dau-tu-cang-roi-bo-chung-khoan-5131247.html",
+    "published_at": "Tue, 13 Oct 2026 05:57:00 +0700",
+    "createAt": "2026-10-12T22:57:00.000Z",
+    "thumbnail_blurhash": "LA9Z[tIAInR:02%gxuxD~pE1M{of"
+  },
+  {
+    "id": "https://vnexpress.net/thu-tuong-yeu-cau-ra-soat-cac-du-an-dien-cham-tien-do-khong-kha-thi-5131475.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Thủ tướng yêu cầu rà soát các dự án điện chậm tiến độ, không khả thi",
+    "description": "Thủ tướng yêu cầu làm rõ các dự án điện chậm tiến độ, không khả thi để đề xuất điều chỉnh, bổ sung hoặc thay thế, bảo đảm đủ điện phục vụ tăng trưởng hai chữ số.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/12/wm31-wm31-base641791806152088177618-5644-8525-1791818139.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=4eImznM73L-_3bG9RmPSBg",
+    "link": "https://vnexpress.net/thu-tuong-yeu-cau-ra-soat-cac-du-an-dien-cham-tien-do-khong-kha-thi-5131475.html",
+    "published_at": "Tue, 13 Oct 2026 06:17:13 +0700",
+    "createAt": "2026-10-12T23:17:13.000Z",
+    "thumbnail_blurhash": "LHM%N6+;+D.8#3I^Y8RkMH%L%MjF"
+  },
+  {
+    "id": "https://vnexpress.net/cong-ty-cua-ong-dang-thanh-tam-lai-dam-nhat-gan-4-nam-5131495.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Công ty của ông Đặng Thành Tâm lãi đậm nhất gần 4 năm",
+    "description": "Đô thị Kinh Bắc, công ty gắn liền với tên tuổi của doanh nhân Đặng Thành Tâm, lãi sau thuế hơn 937 tỷ đồng trong quý III, cao nhất từ quý I/2023.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/13/kcnquevoimg18034-1791829904-5346-1791830289.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=RLRUXklWXOFpMD9EvEoL7w",
+    "link": "https://vnexpress.net/cong-ty-cua-ong-dang-thanh-tam-lai-dam-nhat-gan-4-nam-5131495.html",
+    "published_at": "Tue, 13 Oct 2026 06:26:39 +0700",
+    "createAt": "2026-10-12T23:26:39.000Z",
+    "thumbnail_blurhash": "LoI=#}xuxut7%%s:WBofx^axRkof"
   }
 ]
