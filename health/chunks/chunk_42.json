@@ -622,5 +622,57 @@
     "published_at": "Tue, 13 Oct 2026 06:00:00 +0700",
     "createAt": "2026-10-12T23:00:00.000Z",
     "thumbnail_blurhash": "LAH.4u00IA9Z_2NHt6Rj?wIUe-RP"
+  },
+  {
+    "id": "https://vnexpress.net/nguyen-nhan-xi-mui-ra-mau-5131518.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Nguyên nhân xì mũi ra máu",
+    "description": "Xì mũi ra máu có thể do niêm mạc mũi khô, kích ứng thời tiết gây viêm, xì mũi quá mạnh.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/13/xi-mu-i-1791850309-7983-1791850394.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=cNaFZ1oc9eZSBxNjO8c3jg",
+    "link": "https://vnexpress.net/nguyen-nhan-xi-mui-ra-mau-5131518.html",
+    "published_at": "Tue, 13 Oct 2026 08:00:00 +0700",
+    "createAt": "2026-10-13T01:00:00.000Z",
+    "thumbnail_blurhash": "LXHn$+~p?vtR_2ay%ME2%2M{ofay"
+  },
+  {
+    "id": "https://vnexpress.net/huyet-khoi-gay-tac-tinh-mach-chan-nguoi-phu-nu-5131511.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Huyết khối gây tắc tĩnh mạch chân người phụ nữ",
+    "description": "Chị Hòa, 47 tuổi, sưng chân trái, bác sĩ chẩn đoán huyết khối gây tắc tĩnh mạch chi dưới do hội chứng mạch máu May-Thurner.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/13/image002-1791849439-9065-1791849512.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=4zwUWrxqGburjhIpsncnfQ",
+    "link": "https://vnexpress.net/huyet-khoi-gay-tac-tinh-mach-chan-nguoi-phu-nu-5131511.html",
+    "published_at": "Tue, 13 Oct 2026 08:00:00 +0700",
+    "createAt": "2026-10-13T01:00:00.000Z",
+    "thumbnail_blurhash": "LSGm4LF*H=?H=oV=R:xtxAtPjZMx"
+  },
+  {
+    "id": "https://vnexpress.net/men-gan-tang-cao-phat-hien-viem-co-hoai-tu-tu-mien-5131473.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Men gan tăng cao, phát hiện viêm cơ hoại tử tự miễn",
+    "description": "Chị Thu, 46 tuổi, tăng men gan mạn tính, gần đây yếu cơ, bác sĩ chẩn đoán mắc bệnh viêm cơ hoại tử tự miễn.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/12/inmn-1791817375-2993-1791817399.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=_rOlpBrCx--7rLHozCir-w",
+    "link": "https://vnexpress.net/men-gan-tang-cao-phat-hien-viem-co-hoai-tu-tu-mien-5131473.html",
+    "published_at": "Tue, 13 Oct 2026 08:00:00 +0700",
+    "createAt": "2026-10-13T01:00:00.000Z",
+    "thumbnail_blurhash": "LrN^9$~qM_X8?b%MozsoRjWBRjV@"
+  },
+  {
+    "id": "https://vnexpress.net/nhin-mo-bat-ngo-phat-hien-dot-quy-5131160.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Nhìn mờ, bất ngờ phát hiện đột quỵ",
+    "description": "Ông Định, 63 tuổi, đột ngột nhìn mờ, mi mắt trái sụp hơn bên phải, được chẩn đoán đột quỵ nhồi máu não.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/12/vne-anh-1791787209-5470-1791787334.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=gh6t4n490Nz4GNlkhtm2WA",
+    "link": "https://vnexpress.net/nhin-mo-bat-ngo-phat-hien-dot-quy-5131160.html",
+    "published_at": "Tue, 13 Oct 2026 08:00:00 +0700",
+    "createAt": "2026-10-13T01:00:00.000Z",
+    "thumbnail_blurhash": "LYMG^z$yxV_N?uNG-;f5WAR+ogV?"
   }
 ]

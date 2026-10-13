@@ -128,5 +128,31 @@
     "published_at": "Tue, 13 Oct 2026 06:07:01 +0700",
     "createAt": "2026-10-12T23:07:01.000Z",
     "thumbnail_blurhash": "LLJaW9%100WE~Bt7t8oL00oLt7WB"
+  },
+  {
+    "id": "https://vnexpress.net/nhung-kien-truc-su-phia-sau-chum-tia-xa-tri-ung-thu-5131437.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Những 'kiến trúc sư' phía sau chùm tia xạ trị ung thư",
+    "description": "7h30, ông Tuấn đeo mặt nạ nhựa dẻo, trải qua ca xạ trị 10 phút - trong \"bản đồ\" tia xạ mà các bác sĩ, kỹ sư vật lý y khoa mất đến 24 tiếng để thiết kế.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/12/1-1791815634-1737-1791816996.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=AGC26pBnOMYe4SFYRns1vQ",
+    "link": "https://vnexpress.net/nhung-kien-truc-su-phia-sau-chum-tia-xa-tri-ung-thu-5131437.html",
+    "published_at": "Tue, 13 Oct 2026 08:00:00 +0700",
+    "createAt": "2026-10-13T01:00:00.000Z",
+    "thumbnail_blurhash": "LcL#IbtT-.xo_NM{ofs;${ocRnWF"
+  },
+  {
+    "id": "https://vnexpress.net/viet-nam-co-ky-su-gioi-nhung-can-lam-manh-thuong-hieu-5131239.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "'Việt Nam có kỹ sư giỏi, nhưng cần làm mạnh thương hiệu'",
+    "description": "Việt Nam có đội ngũ kỹ sư trẻ, nhanh nhạy với công nghệ và tư duy toàn cầu, nhưng để đi xa hơn trong thời AI cần chú trọng dữ liệu, hệ sinh thái, thương hiệu, theo đại diện Meta.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/12/tc609306-1791778982-9587-1791778998.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=VBhPDEHlMKdg8R0nwlsy0A",
+    "link": "https://vnexpress.net/viet-nam-co-ky-su-gioi-nhung-can-lam-manh-thuong-hieu-5131239.html",
+    "published_at": "Tue, 13 Oct 2026 08:02:38 +0700",
+    "createAt": "2026-10-13T01:02:38.000Z",
+    "thumbnail_blurhash": "LgD0:2x^E;R-yGjFs*j]R*WBxDof"
   }
 ]
