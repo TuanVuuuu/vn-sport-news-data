@@ -830,5 +830,31 @@
     "published_at": "Wed, 14 Oct 2026 07:00:00 +0700",
     "createAt": "2026-10-14T00:00:00.000Z",
     "thumbnail_blurhash": "LkHC1Vx]R%e.?wofWAof%#jFoMoz"
+  },
+  {
+    "id": "https://vnexpress.net/mercedes-c-class-electric-sedan-voi-kich-thuoc-vuot-phan-khuc-5131717.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Mercedes C-class Electric - sedan với kích thước vượt phân khúc",
+    "description": "Mẫu sedan thuộc phân khúc hàng dưới của E-class nhưng chỉ ngắn hơn \"đàn anh\" về chiều dài tổng thể, trong khi chiều rộng và cao đều nhỉnh hơn.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/13/Mercedes-C-class-1-1791876168-6331-1791876580.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=_32E4lyk5YhJXBg9RZo6MA",
+    "link": "https://vnexpress.net/mercedes-c-class-electric-sedan-voi-kich-thuoc-vuot-phan-khuc-5131717.html",
+    "published_at": "Wed, 14 Oct 2026 08:35:23 +0700",
+    "createAt": "2026-10-14T01:35:23.000Z",
+    "thumbnail_blurhash": "LWF~~-S5%Mx]En%NM_WB.TxuofWE"
+  },
+  {
+    "id": "https://vnexpress.net/oto-xe-may/v-car/doanh-so/10-xe-gam-cao-khach-viet-mua-nhieu-nhat-thang-9-5131932.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "10 xe gầm cao khách Việt mua nhiều nhất tháng 9",
+    "description": "Hãng xe VinFast áp đảo bảng xếp hạng với ba mẫu xe dẫn đầu, VF 3 bàn giao nhiều nhất với 6.474 xe.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/14/VF8-1791941238-1765-1791941255.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Lsv9fIue6A91SSqbD1R8Sw",
+    "link": "https://vnexpress.net/oto-xe-may/v-car/doanh-so/10-xe-gam-cao-khach-viet-mua-nhieu-nhat-thang-9-5131932.html",
+    "published_at": "Wed, 14 Oct 2026 08:47:31 +0700",
+    "createAt": "2026-10-14T01:47:31.000Z",
+    "thumbnail_blurhash": "LTFh^s~V-:xu-:kCNGWV%fxuRjRj"
   }
 ]
