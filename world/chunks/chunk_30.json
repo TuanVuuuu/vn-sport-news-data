@@ -895,5 +895,31 @@
     "published_at": "Wed, 14 Oct 2026 05:00:00 +0700",
     "createAt": "2026-10-13T22:00:00.000Z",
     "thumbnail_blurhash": "LMATf|~T?Z^t?d-q%J%EE7IvRVRo"
+  },
+  {
+    "id": "https://vnexpress.net/loat-doi-thu-tiem-nang-cua-ong-zelensky-neu-ukraine-to-chuc-bau-cu-5131716.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Loạt đối thủ tiềm năng của ông Zelensky nếu Ukraine tổ chức bầu cử",
+    "description": "Sức ép ngày càng lớn từ Mỹ buộc Tổng thống Zelensky phải xem xét khả năng tổ chức bầu cử, nơi ông phải cạnh tranh với một số đối thủ tiềm năng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/13/AFP20260922C92T696v1HighResMee-6338-2633-1791878611.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=uNu4A_Juve7nDwm7Tv53Cw",
+    "link": "https://vnexpress.net/loat-doi-thu-tiem-nang-cua-ong-zelensky-neu-ukraine-to-chuc-bau-cu-5131716.html",
+    "published_at": "Wed, 14 Oct 2026 05:00:00 +0700",
+    "createAt": "2026-10-13T22:00:00.000Z",
+    "thumbnail_blurhash": "LMAJ{N_0?Z?Q?d-q%J%EE7IvRoRo"
+  },
+  {
+    "id": "https://vnexpress.net/giao-hoang-mac-ung-thu-phoi-5131971.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Giáo hoàng mắc ung thư phổi",
+    "description": "Vatican thông báo Giáo hoàng đang hồi phục tại bệnh viện sau ca phẫu thuật \"thành công\" nhằm cắt bỏ một phần phổi phải bị phát hiện có khối u ung thư.",
+    "thumbnail_url": null,
+    "link": "https://vnexpress.net/giao-hoang-mac-ung-thu-phoi-5131971.html",
+    "published_at": "Wed, 14 Oct 2026 06:41:44 +0700",
+    "createAt": "2026-10-13T23:41:44.000Z",
+    "thumbnail_blurhash": null
   }
 ]
