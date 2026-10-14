@@ -856,5 +856,31 @@
     "published_at": "Wed, 14 Oct 2026 08:47:31 +0700",
     "createAt": "2026-10-14T01:47:31.000Z",
     "thumbnail_blurhash": "LTFh^s~V-:xu-:kCNGWV%fxuRjRj"
+  },
+  {
+    "id": "https://vnexpress.net/ap-dung-toc-do-toi-thieu-80-km-h-o-lan-trai-cao-toc-phan-thiet-dau-giay-5132025.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Áp dụng tốc độ tối thiểu 80 km/h ở làn trái cao tốc Phan Thiết - Dầu Giây",
+    "description": "Làn trái cao tốc Phan Thiết - Dầu Giây sẽ cho phép xe chạy trong ngưỡng 80-120 km/h, trong khi xe tải lớn, xe khách chỉ được đi làn phải.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/14/z7164397756508d9a3acd1899e3a-1-1149-7380-1791941726.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=r8YCqZLXBHN7Klj1f0i7-Q",
+    "link": "https://vnexpress.net/ap-dung-toc-do-toi-thieu-80-km-h-o-lan-trai-cao-toc-phan-thiet-dau-giay-5132025.html",
+    "published_at": "Wed, 14 Oct 2026 09:21:48 +0700",
+    "createAt": "2026-10-14T02:21:48.000Z",
+    "thumbnail_blurhash": "LSF$@1og9YRl?vxvo4xs_4tRjcai"
+  },
+  {
+    "id": "https://vnexpress.net/cac-hang-xe-chau-au-keu-goi-ho-tro-truoc-suc-ep-tu-trung-quoc-5132005.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Các hãng xe châu Âu kêu gọi hỗ trợ trước sức ép từ Trung Quốc",
+    "description": "Các hãng xe châu Âu muốn EU nới quy định khí thải, giảm chi phí năng lượng, hỗ trợ sản xuất pin để tăng sức cạnh tranh với Trung Quốc.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/14/citroencv-paris-motor-show-179-7332-3682-1791940210.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=i0Lrr9L8QXgUve9otVbDKw",
+    "link": "https://vnexpress.net/cac-hang-xe-chau-au-keu-goi-ho-tro-truoc-suc-ep-tu-trung-quoc-5132005.html",
+    "published_at": "Wed, 14 Oct 2026 09:55:27 +0700",
+    "createAt": "2026-10-14T02:55:27.000Z",
+    "thumbnail_blurhash": "LQF3$7|tXS$Mz--A,?$k7Mso[;n%"
   }
 ]
