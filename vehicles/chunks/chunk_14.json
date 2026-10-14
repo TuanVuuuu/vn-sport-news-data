@@ -947,5 +947,31 @@
     "published_at": "Wed, 14 Oct 2026 14:27:33 +0700",
     "createAt": "2026-10-14T07:27:33.000Z",
     "thumbnail_blurhash": "LJI3qL^,Z%U_004-kW-:ui-W,@Nv"
+  },
+  {
+    "id": "https://vnexpress.net/tai-xe-viet-sap-khoi-tranh-dua-xe-dia-hinh-5131679.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Tài xế Việt sắp khởi tranh đua xe địa hình",
+    "description": "Giải đua VOC 2026 có 88 đội đua, 176 vận động viên, tranh tài 4 hạng đấu, liên tục trong ba ngày 30/10-1/11.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/13/wm1-wm1-voc-vne-jpg-1791883116-1685-1791883189.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=WYPk0I5f8z-KSguKk6HC6A",
+    "link": "https://vnexpress.net/tai-xe-viet-sap-khoi-tranh-dua-xe-dia-hinh-5131679.html",
+    "published_at": "Wed, 14 Oct 2026 15:38:11 +0700",
+    "createAt": "2026-10-14T08:38:11.000Z",
+    "thumbnail_blurhash": "LdL3+2RjaJn%UHM{M{R*t.NGIoae"
+  },
+  {
+    "id": "https://vnexpress.net/mai-xem-dien-thoai-co-gai-truot-nga-xe-may-5132117.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Mải xem điện thoại, cô gái trượt ngã xe máy",
+    "description": "Vừa điều khiển xe vừa sử dụng điện thoại một đoạn đường dài, cô gái trượt ngã khi gặp xe máy khác, tại Minh Khai hôm 12/10.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/14/ezgif343bece4475d4111-17919501-9812-4676-1791950183.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=Cb_2RTe-zr9UZ2rvntx3rg&t=image",
+    "link": "https://vnexpress.net/mai-xem-dien-thoai-co-gai-truot-nga-xe-may-5132117.html",
+    "published_at": "Wed, 14 Oct 2026 16:31:50 +0700",
+    "createAt": "2026-10-14T09:31:50.000Z",
+    "thumbnail_blurhash": "LGD0P.ys?I^8-p%3%gyDw0nStlu4"
   }
 ]
