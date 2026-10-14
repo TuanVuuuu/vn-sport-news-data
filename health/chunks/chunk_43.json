@@ -258,5 +258,31 @@
     "published_at": "Wed, 14 Oct 2026 15:30:00 +0700",
     "createAt": "2026-10-14T08:30:00.000Z",
     "thumbnail_blurhash": "LPQJ4Uxa%$$%_Nx^tRs:kWV@Vsf,"
+  },
+  {
+    "id": "https://vnexpress.net/nguyen-nhan-gay-kho-tho-khi-nam-ngu-5132154.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Nguyên nhân gây khó thở khi nằm ngủ",
+    "description": "Khó thở khi nằm có thể do tư thế, ăn quá no trước giờ đi ngủ hoặc các vấn đề sức khỏe như viêm phổi, hen suyễn.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/14/ngu-1791950606-4228-1791950667.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=UNnWbHwEOx0rjrzJAyslPw",
+    "link": "https://vnexpress.net/nguyen-nhan-gay-kho-tho-khi-nam-ngu-5132154.html",
+    "published_at": "Wed, 14 Oct 2026 16:00:00 +0700",
+    "createAt": "2026-10-14T09:00:00.000Z",
+    "thumbnail_blurhash": "LE9aK%%%yFx^x^T1tTx^xuNLtSxv"
+  },
+  {
+    "id": "https://vnexpress.net/6-cach-giup-ngu-ngon-5132031.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "6 cách giúp ngủ ngon",
+    "description": "Tăng cường thực phẩm giàu trytophan, tập thể dục đều đặn và ngủ đủ giấc có thể tăng nồng độ serotonin trong não, cải thiện chất lượng giấc ngủ.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/14/anh-chup-man-hinh-luc-17919444-2086-4376-1791944463.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=qsVhytoeydx7SlWvnmaDpA",
+    "link": "https://vnexpress.net/6-cach-giup-ngu-ngon-5132031.html",
+    "published_at": "Wed, 14 Oct 2026 17:00:00 +0700",
+    "createAt": "2026-10-14T10:00:00.000Z",
+    "thumbnail_blurhash": "LRKckKt6?HNf~qtStSbb_No#t7%L"
   }
 ]
