@@ -1220,5 +1220,83 @@
     "published_at": "Wed, 14 Oct 2026 11:40:20 +0700",
     "createAt": "2026-10-14T04:40:20.000Z",
     "thumbnail_blurhash": "LyJ*I.s,X8WA~qWCs.oJ%Mj]WVkD"
+  },
+  {
+    "id": "https://vnexpress.net/sut-me-tinh-cam-vi-o-nho-nha-ho-hang-5126777.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Sứt mẻ tình cảm vì ở nhờ nhà họ hàng",
+    "description": "Gửi con ở nhờ nhà họ hàng trên thành phố với hy vọng có người quản lý và tiết kiệm chi phí nhưng nhiều phụ huynh rơi vào cảnh sứt mẻ tình cảm khi mâu thuẫn bùng phát.",
+    "thumbnail_url": "https://vcdn1-giadinh.vnecdn.net/2026/09/30/a-nh-ma-n-hi-nh-lu-1790763279-5347-1790764019.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=XJ_yp13GNHzGnjuSIXY_oQ",
+    "link": "https://vnexpress.net/sut-me-tinh-cam-vi-o-nho-nha-ho-hang-5126777.html",
+    "published_at": "Wed, 14 Oct 2026 11:40:00 +0700",
+    "createAt": "2026-10-14T04:40:00.000Z",
+    "thumbnail_blurhash": "L7CGAHVX00%M~qs.R*NF4-NG_3%L"
+  },
+  {
+    "id": "https://vnexpress.net/loat-sach-giam-gia-cho-thieu-nhi-mua-halloween-5131669.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Loạt sách giảm giá cho thiếu nhi mùa Halloween",
+    "description": "Nhà sách Fahasa trên cả nước giảm giá sách, văn phòng phẩm dịp đón Halloween đang đến gần.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/10/13/fahasa-jpg-1791873332-9875-1791873381.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=AMvranQ__dtMtTB2eyA3bA",
+    "link": "https://vnexpress.net/loat-sach-giam-gia-cho-thieu-nhi-mua-halloween-5131669.html",
+    "published_at": "Wed, 14 Oct 2026 11:53:07 +0700",
+    "createAt": "2026-10-14T04:53:07.000Z",
+    "thumbnail_blurhash": "LRIO2{%N_NWC?H-qS3RjITxbs:Ri"
+  },
+  {
+    "id": "https://vnexpress.net/hon-dao-nao-co-dien-tich-hon-574-km-lon-nhat-viet-nam-5131233.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Hòn đảo nào có diện tích hơn 574 km², lớn nhất Việt Nam?",
+    "description": "Việt Nam có hàng nghìn hòn đảo lớn nhỏ, nhưng một hòn đảo nổi bật với diện tích rộng, bãi biển tuyệt đẹp và đặc sản nổi tiếng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/14/Document-1791953639-4828-1791953679.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=B2yqUeMLi9h0YrDhjSUWOw",
+    "link": "https://vnexpress.net/hon-dao-nao-co-dien-tich-hon-574-km-lon-nhat-viet-nam-5131233.html",
+    "published_at": "Wed, 14 Oct 2026 11:57:12 +0700",
+    "createAt": "2026-10-14T04:57:12.000Z",
+    "thumbnail_blurhash": "LLBrb{yZ+*.7nBXBKRRBNMw#tkIn"
+  },
+  {
+    "id": "https://vnexpress.net/my-nhan-ho-linh-trang-si-dong-phim-tet-2027-5132153.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Mỹ nhân 'Hộ linh tráng sĩ' đóng phim Tết 2027",
+    "description": "Trần Thiên Tú - vai An Nhiên trong \"Hộ linh tráng sĩ\" - lần đầu đóng phim Tết với tác phẩm hành động cổ trang \"Loạn thế\".",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/10/14/tran-thien-tu-loan-the-jpg-179-1958-5247-1791953071.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=qLAAtccA2NHiI72mygY2pA",
+    "link": "https://vnexpress.net/my-nhan-ho-linh-trang-si-dong-phim-tet-2027-5132153.html",
+    "published_at": "Wed, 14 Oct 2026 11:58:45 +0700",
+    "createAt": "2026-10-14T04:58:45.000Z",
+    "thumbnail_blurhash": "L384b:_1BCJC~D$+56IoENt7^jxa"
+  },
+  {
+    "id": "https://vnexpress.net/doanh-nghiep-gia-dinh-du-lich-khach-san-pha-san-va-cu-nga-ngua-cua-gia-dinh-toi-5132063.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Cả nhà tôi 'sống không bằng chết' vì công ty gia đình phá sản",
+    "description": "Chuyện bắt đầu khi chúng tôi dồn tiền đầu tư xây thêm hai khách sạn lớn.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/14/phasan-1791945352-7181-1791945361.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=2gpRiL_YcbPy2yzXIA9Z7A",
+    "link": "https://vnexpress.net/doanh-nghiep-gia-dinh-du-lich-khach-san-pha-san-va-cu-nga-ngua-cua-gia-dinh-toi-5132063.html",
+    "published_at": "Wed, 14 Oct 2026 12:00:00 +0700",
+    "createAt": "2026-10-14T05:00:00.000Z",
+    "thumbnail_blurhash": "LMGk%g0L~p^+%g%MtRkXAJnN%2Io"
+  },
+  {
+    "id": "https://vnexpress.net/nhan-vien-openai-bi-bat-vi-dat-ghi-am-trong-phong-hop-5132060.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Nhân viên OpenAI bị bắt vì đặt ghi âm trong phòng họp",
+    "description": "Một nhân viên OpenAI bị FBI bắt giữ sau khi gắn \"thiết bị ghi âm tinh vi\" bên trong phòng họp của ban điều hành công ty.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/14/108405226-picture2credit-17919-8824-8831-1791950849.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=llx63LbkGUJER9ydBB4dog",
+    "link": "https://vnexpress.net/nhan-vien-openai-bi-bat-vi-dat-ghi-am-trong-phong-hop-5132060.html",
+    "published_at": "Wed, 14 Oct 2026 12:00:00 +0700",
+    "createAt": "2026-10-14T05:00:00.000Z",
+    "thumbnail_blurhash": "L8DJCq00r=~q0K?aRkIU4.?GtR9G"
   }
 ]
