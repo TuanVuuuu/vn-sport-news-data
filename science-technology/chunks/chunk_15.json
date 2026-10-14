@@ -440,5 +440,31 @@
     "published_at": "Wed, 14 Oct 2026 20:32:06 +0700",
     "createAt": "2026-10-14T13:32:06.000Z",
     "thumbnail_blurhash": "LII:Ip}=04S6u%EmT{tnPDt2Inw0"
+  },
+  {
+    "id": "https://vnexpress.net/cuoc-dua-su-dung-ai-de-ung-pho-nhieu-dong-may-bay-5131874.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Cuộc đua sử dụng AI để ứng phó nhiễu động máy bay",
+    "description": "Các nhà nghiên cứu tìm cách ứng dụng trí tuệ nhân tạo (AI) để phát hiện sớm và triệt tiêu hiện tượng nhiễu động nguy hiểm đang gia tăng do biến đổi khí hậu.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/13/VNEAI-1791886872-6422-1791887046.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=zXMxqtWJuMC-3kXZIk-uuQ",
+    "link": "https://vnexpress.net/cuoc-dua-su-dung-ai-de-ung-pho-nhieu-dong-may-bay-5131874.html",
+    "published_at": "Thu, 15 Oct 2026 00:00:00 +0700",
+    "createAt": "2026-10-14T17:00:00.000Z",
+    "thumbnail_blurhash": "LOCsz4NH$}RP.TS%VrniXVXAMxjF"
+  },
+  {
+    "id": "https://vnexpress.net/viet-nam-can-uu-tien-xay-dung-tieu-chuan-linh-vuc-chien-luoc-5132428.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Việt Nam cần ưu tiên xây dựng tiêu chuẩn lĩnh vực chiến lược",
+    "description": "Thứ trưởng Lê Xuân Định cho rằng, Việt Nam cần ưu tiên xây dựng tiêu chuẩn cho các lĩnh vực có ý nghĩa chiến lược, như năng lượng sạch, lưu trữ năng lượng, lưới điện, hạ tầng sạc xe điện.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/15/wm1-wm1-tdc-1791997762-8806-1791997838.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=XS8xHm7-8ATw5hGFi6pauw",
+    "link": "https://vnexpress.net/viet-nam-can-uu-tien-xay-dung-tieu-chuan-linh-vuc-chien-luoc-5132428.html",
+    "published_at": "Thu, 15 Oct 2026 00:08:14 +0700",
+    "createAt": "2026-10-14T17:08:14.000Z",
+    "thumbnail_blurhash": "LzNdO8.9%fM|~qiwWYs,X8acoeob"
   }
 ]
