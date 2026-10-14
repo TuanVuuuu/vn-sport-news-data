@@ -375,5 +375,31 @@
     "published_at": "Thu, 15 Oct 2026 01:00:00 +0700",
     "createAt": "2026-10-14T18:00:00.000Z",
     "thumbnail_blurhash": "LGHVM6I98_4T~BIUt7ITH?Rjozs:"
+  },
+  {
+    "id": "https://vnexpress.net/an-hai-san-do-tanh-lam-benh-ung-thu-nang-hon-5131382.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Ăn hải sản, đồ tanh làm bệnh ung thư nặng hơn?",
+    "description": "Nhiều thông tin cho rằng bị ung thư thì tuyệt đối đừng ăn hải sản, vì đồ tanh sẽ làm cho bệnh nặng hơn, điều này có đúng? (Thanh, 50 tuổi, Thái Nguyên)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/13/1-rqrwo-gh61v-xtsvxy7e-a-jpeg-1691-6909-1791853916.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=sZFmzs-ni36d8J9E9DBy2A",
+    "link": "https://vnexpress.net/an-hai-san-do-tanh-lam-benh-ung-thu-nang-hon-5131382.html",
+    "published_at": "Thu, 15 Oct 2026 02:00:00 +0700",
+    "createAt": "2026-10-14T19:00:00.000Z",
+    "thumbnail_blurhash": "LdK9_U9]ELRk~qNwMxsm.S$iV?az"
+  },
+  {
+    "id": "https://vnexpress.net/yeu-sinh-ly-sau-cu-soc-that-tinh-5131880.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "'Yếu sinh lý' sau cú sốc thất tình",
+    "description": "Sau chia tay người cũ, một số nam giới gặp trục trặc khi gần gũi người mới, dù ham muốn vẫn còn, do stress, mất ngủ và áp lực tâm lý.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/13/gemini-generated-image-qvuntbq-8880-7444-1791889559.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=L4xm5ADHYxM9d2XgguJlIg",
+    "link": "https://vnexpress.net/yeu-sinh-ly-sau-cu-soc-that-tinh-5131880.html",
+    "published_at": "Thu, 15 Oct 2026 02:03:00 +0700",
+    "createAt": "2026-10-14T19:03:00.000Z",
+    "thumbnail_blurhash": "LH8qZ|$~x]Sj_4$ztRSj%gnhofkX"
   }
 ]
