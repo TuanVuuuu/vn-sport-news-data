@@ -1,3 +1,69 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/co-giao-tieng-anh-o-gia-lai-chet-nao-hien-tang-ghep-cuu-4-nguoi-5132633.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Cô giáo tiếng Anh ở Gia Lai chết não hiến tạng ghép cứu 4 người",
+      "description": "Một nữ giáo viên 22 tuổi, dạy tiếng Anh ở xã Đăk Pơ, Gia Lai, chết não hiến tim, gan và hai thận để ghép cứu 4 người bệnh.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/15/hien-tang-1792051363-6657-1792051376.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=_aPOR0bkSinZsg0gSMI0Lw",
+      "link": "https://vnexpress.net/co-giao-tieng-anh-o-gia-lai-chet-nao-hien-tang-ghep-cuu-4-nguoi-5132633.html",
+      "published_at": "Thu, 15 Oct 2026 13:09:21 +0700",
+      "createAt": "2026-10-15T06:09:21.000Z",
+      "thumbnail_blurhash": "L99k2A-=MuIT~UxuE7D$-Rs%o~W@"
+    },
+    {
+      "id": "https://vnexpress.net/chuyen-bay-ky-thuat-dau-tien-tai-cang-hang-khong-quang-tri-5132738.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Chuyến bay kỹ thuật đầu tiên tại cảng hàng không Quảng Trị",
+      "description": "Sáng 15/10, chiếc Cessna 208 thực hiện ba chuyến bay ở độ cao 300 m và 600 m trong thời gian 90 phút nhằm kiểm tra không phận và đánh giá điều kiện an toàn bay.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/15/Lark20261015154705-1792054044-1326-1792054093.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=eJaxMgrXSBGXsTg3y0r1jA&t=image",
+      "link": "https://vnexpress.net/chuyen-bay-ky-thuat-dau-tien-tai-cang-hang-khong-quang-tri-5132738.html",
+      "published_at": "Thu, 15 Oct 2026 15:57:05 +0700",
+      "createAt": "2026-10-15T08:57:05.000Z",
+      "thumbnail_blurhash": "LXIF3u%MWCt75UWVaxa}~qt7j[of"
+    },
+    {
+      "id": "https://vnexpress.net/deo-lo-dieu-ven-bien-gia-lai-thong-xe-5132715.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Đèo Lộ Diêu ven biển Gia Lai thông xe",
+      "description": "Cung đèo Lộ Diêu dài 4,5 km, vốn đầu tư 204 tỷ đồng, được đưa vào khai thác ngày 15/10 sau khi hoàn thiện hệ thống an toàn giao thông.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/15/djifly202608181031123191787047-4353-5672-1792056293.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=oUn3T6RB5wWQ7pI8Wu4otw",
+      "link": "https://vnexpress.net/deo-lo-dieu-ven-bien-gia-lai-thong-xe-5132715.html",
+      "published_at": "Thu, 15 Oct 2026 16:34:07 +0700",
+      "createAt": "2026-10-15T09:34:07.000Z",
+      "thumbnail_blurhash": "LPFsDB8wOt$xT}I9xvs8pewbIoR+"
+    },
+    {
+      "id": "https://vnexpress.net/viet-nam-bac-tin-tau-dau-bi-tan-cong-5132778.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Việt Nam bác tin 'tàu dầu bị tấn công'",
+      "description": "Thông tin \"tàu NV Sunshine bị tấn công\" là giả, Việt Nam đang phối hợp với Iran để đảm bảo an toàn cho các tàu của mình, theo người phát ngôn Bộ Ngoại giao.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/15/nv-sunshine-1792057130-6666-1792057382.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=xiIvVQsi4ngNCi_hxFgrvQ",
+      "link": "https://vnexpress.net/viet-nam-bac-tin-tau-dau-bi-tan-cong-5132778.html",
+      "published_at": "Thu, 15 Oct 2026 16:43:43 +0700",
+      "createAt": "2026-10-15T09:43:43.000Z",
+      "thumbnail_blurhash": "LwE|DJV?%NtS.AWCadt7XUbIROae"
+    },
+    {
+      "id": "https://vnexpress.net/xe-cho-20-khach-tong-lien-hoan-4-oto-o-tp-hcm-5132813.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Xe chở 20 khách tông liên hoàn 4 ôtô ở TP HCM",
+      "description": "Xe giường nằm chở 20 người tông ba xe tải và một ôtô 7 chỗ trên quốc lộ 1, đoạn qua chợ đầu mối Thủ Đức, khiến nhiều hành khách hoảng loạn, chiều 15/10.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/15/845949050-3782279715270212-261-6003-4464-1792058045.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=3LIpQEIGRk2vr3nmYTy3fg&t=image",
+      "link": "https://vnexpress.net/xe-cho-20-khach-tong-lien-hoan-4-oto-o-tp-hcm-5132813.html",
+      "published_at": "Thu, 15 Oct 2026 16:54:05 +0700",
+      "createAt": "2026-10-15T09:54:05.000Z",
+      "thumbnail_blurhash": "LMC$_?xuWVIU~qoft7IU-;xut7Rj"
+    }
+  ]
 }
