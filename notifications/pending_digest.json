@@ -1,3 +1,121 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/vinicius-phan-doi-mourinho-khi-bi-thay-ra-5132543.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Vinicius phản đối Mourinho khi bị thay ra",
+      "description": "Tiền đạo Vinicius tỏ thái độ khi bị HLV Jose Mourinho thay ra vì mắc lỗi dẫn đến bàn thua trong trận Real Madrid thắng Roma 4-3 ở Champions League.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/10/15/vinicius-1792031034-8884-1792031623.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Xp-q6E93-s-S8T1m99YYWA",
+      "link": "https://vnexpress.net/vinicius-phan-doi-mourinho-khi-bi-thay-ra-5132543.html",
+      "published_at": "Thu, 15 Oct 2026 09:42:45 +0700",
+      "createAt": "2026-10-15T02:42:45.000Z",
+      "thumbnail_blurhash": "LDF~+*~U0N9t?zxHxsSc9sIX-p%M"
+    },
+    {
+      "id": "https://vnexpress.net/kinh-ngu-khong-chan-dong-phim-trai-buon-nguoi-5132144.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Kình ngư không chân đóng phim 'Trại buôn người'",
+      "description": "Nguyễn Hồng Lợi - vận động viên bơi lội không chân - vừa đóng vai phụ vừa cố vấn kỹ thuật cho diễn viên trong cảnh sông nước phim \"Trại buôn người\" .",
+      "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/10/14/1791856538936f58f839f7f2ca1afb-3816-1507-1791966799.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=TvAts-tTd8t0D_Xw2CTo2A",
+      "link": "https://vnexpress.net/kinh-ngu-khong-chan-dong-phim-trai-buon-nguoi-5132144.html",
+      "published_at": "Thu, 15 Oct 2026 10:48:06 +0700",
+      "createAt": "2026-10-15T03:48:06.000Z",
+      "thumbnail_blurhash": "LBJQJ]00~BtjZ#5R0hNaTyIA~B,E"
+    },
+    {
+      "id": "https://vnexpress.net/elon-musk-ong-trump-quyet-dinh-vu-ukraine-bi-han-che-starlink-5132475.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Elon Musk: Ông Trump quyết định vụ Ukraine bị hạn chế Starlink",
+      "description": "Musk cho biết ông Trump và quân đội Mỹ chịu trách nhiệm điều hành Starshield, phiên bản quân sự của Starlink, sau khi Ukraine cáo buộc SpaceX áp hạn chế.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/15/starlink-1792035994-3430-1792036420.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=fknU5Lr__lGUl9d0ASQx2Q",
+      "link": "https://vnexpress.net/elon-musk-ong-trump-quyet-dinh-vu-ukraine-bi-han-che-starlink-5132475.html",
+      "published_at": "Thu, 15 Oct 2026 10:54:32 +0700",
+      "createAt": "2026-10-15T03:54:32.000Z",
+      "thumbnail_blurhash": "L89RH@?HcUoz~pbXI.ag%gf8nmxb"
+    },
+    {
+      "id": "https://vnexpress.net/hai-tau-hang-lien-tiep-bi-danh-chim-tai-hormuz-5132557.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Hai tàu hàng liên tiếp bị đánh chìm tại Hormuz",
+      "description": "Hai tàu hàng chìm ở Hormuz, dường như trúng thủy lôi và tên lửa Iran, khi các vụ tấn công tàu bè đi qua eo biển gia tăng.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/15/5563187178137269260a-179203269-7579-1504-1792033008.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=LgyT7HAya9Q3HGEU-jC4aw",
+      "link": "https://vnexpress.net/hai-tau-hang-lien-tiep-bi-danh-chim-tai-hormuz-5132557.html",
+      "published_at": "Thu, 15 Oct 2026 11:08:05 +0700",
+      "createAt": "2026-10-15T04:08:05.000Z",
+      "thumbnail_blurhash": "LhHB}BV?Myxu~pV@oIt6-;V@V@of"
+    },
+    {
+      "id": "https://vnexpress.net/ong-trump-canada-se-tro-thanh-bang-thu-51-cua-my-5132539.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Ông Trump: Canada sẽ trở thành bang thứ 51 của Mỹ",
+      "description": "Ông Trump bày tỏ loạt bất bình với nước láng giềng Canada, đồng thời khẳng định quốc gia này sẽ trở thành \"bang thứ 51\" của Mỹ.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/15/afp-d3bj9ch-v1-highres-uspolit-1461-1958-1792035393.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=TaiQFwpyNcs_-X9-5b_Nng",
+      "link": "https://vnexpress.net/ong-trump-canada-se-tro-thanh-bang-thu-51-cua-my-5132539.html",
+      "published_at": "Thu, 15 Oct 2026 11:11:16 +0700",
+      "createAt": "2026-10-15T04:11:16.000Z",
+      "thumbnail_blurhash": "LI9QjxbxOENH?dS5JAR*xvjZNcad"
+    },
+    {
+      "id": "https://vnexpress.net/ba-tuan-ong-trump-quay-lung-voi-ukraine-5132449.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Ba tuần ông Trump quay lưng với Ukraine",
+      "description": "Sau mâu thuẫn âm ỉ với ông Zelensky, ông Trump đạt thỏa thuận diesel với Nga, ép Ukraine ngừng tập kích năng lượng và siết Starlink, khiến Kiev rơi vào thế bế tắc chưa từng thấy.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/15/20260925T164944Z645326009RC2HO-5852-3649-1792037051.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ZxRydQpQ4Tad4u0TA8ADyw",
+      "link": "https://vnexpress.net/ba-tuan-ong-trump-quay-lung-voi-ukraine-5132449.html",
+      "published_at": "Thu, 15 Oct 2026 11:55:19 +0700",
+      "createAt": "2026-10-15T04:55:19.000Z",
+      "thumbnail_blurhash": "LR9%uTxux9$_-@xu${$|%Nogt7xa"
+    },
+    {
+      "id": "https://vnexpress.net/me-cua-nu-sinh-o-vinh-long-se-khang-cao-de-nghi-huy-an-so-tham-5132629.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Mẹ của nữ sinh ở Vĩnh Long: 'Sẽ kháng cáo, đề nghị hủy án sơ thẩm'",
+      "description": "Cho rằng mức án 30 tháng tù đối với Nguyễn Văn Bảo Trung chưa tương xứng và còn nhiều vấn đề cần làm rõ sau tai nạn, gia đình nữ sinh kháng cáo.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/15/chi-hien-1792040462-6436-1792041127.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=lqAme8kZU6GZQ2lerDQFqg",
+      "link": "https://vnexpress.net/me-cua-nu-sinh-o-vinh-long-se-khang-cao-de-nghi-huy-an-so-tham-5132629.html",
+      "published_at": "Thu, 15 Oct 2026 12:12:07 +0700",
+      "createAt": "2026-10-15T05:12:07.000Z",
+      "thumbnail_blurhash": "LNH1*%^*%2}@~4TIo~az^#bEWBVt"
+    },
+    {
+      "id": "https://vnexpress.net/dat-nuoc-dang-cho-nhung-loi-giai-tu-tri-tue-bach-khoa-ha-noi-5132594.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "'Đất nước đang chờ những lời giải từ trí tuệ Bách khoa Hà Nội'",
+      "description": "Bách khoa Hà Nội phải trở thành đại học nghiên cứu xuất sắc, đủ sức đảm nhận và tham gia giải những bài toán lớn của quốc gia, theo Tổng Bí thư, Chủ tịch nước.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/15/wm1-wm1-hust-1792040442-3627-1792040891.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=DU2zk8TXVuCfGAmrutj9-g",
+      "link": "https://vnexpress.net/dat-nuoc-dang-cho-nhung-loi-giai-tu-tri-tue-bach-khoa-ha-noi-5132594.html",
+      "published_at": "Thu, 15 Oct 2026 12:40:50 +0700",
+      "createAt": "2026-10-15T05:40:50.000Z",
+      "thumbnail_blurhash": "LHGY{5+bU^.7|sW=JVoIIoofxtV@"
+    },
+    {
+      "id": "https://vnexpress.net/tai-xe-keo-nan-nhan-khoi-gam-xe-roi-bo-chay-5132637.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Tài xế kéo nạn nhân khỏi gầm xe rồi bỏ chạy",
+      "description": "Sau va chạm khiến người phụ nữ tử vong, tài xế xe tải kéo nạn nhân khỏi gầm rồi lái đi, bất chấp người dân ngăn cản.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/15/1792042998532a95116386f341d083-2121-8057-1792043111.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=xYbiewgf8CLzpaf6A7rRZw",
+      "link": "https://vnexpress.net/tai-xe-keo-nan-nhan-khoi-gam-xe-roi-bo-chay-5132637.html",
+      "published_at": "Thu, 15 Oct 2026 12:41:32 +0700",
+      "createAt": "2026-10-15T05:41:32.000Z",
+      "thumbnail_blurhash": "LOE{hO_4NGoz_4-=NGRj.8%MjYM{"
+    }
+  ]
 }
