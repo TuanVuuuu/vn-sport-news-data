@@ -1129,5 +1129,31 @@
     "published_at": "Thu, 15 Oct 2026 17:00:00 +0700",
     "createAt": "2026-10-15T10:00:00.000Z",
     "thumbnail_blurhash": "L;FjQQt6ofof.AoMoLkB%gs.j[j["
+  },
+  {
+    "id": "https://vnexpress.net/vung-dat-khong-wifi-song-di-dong-o-my-5132587.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Vùng đất không wifi, sóng di động ở Mỹ",
+    "description": "Người dân ở Green Bank từ lâu đã quen cảnh không có sóng điện thoại, wifi hoặc phải đi rất xa nhà để sử dụng vì vùng đất này đang cất giữ một thiết bị đặc biệt.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/10/15/tai-xuongt111156-1792037504-9290-1792037730.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=sUru9nqL2rvtW5msu1mIoQ",
+    "link": "https://vnexpress.net/vung-dat-khong-wifi-song-di-dong-o-my-5132587.html",
+    "published_at": "Thu, 15 Oct 2026 19:00:00 +0700",
+    "createAt": "2026-10-15T12:00:00.000Z",
+    "thumbnail_blurhash": "LlE3#it6ogkD_Nozofax-:oej?j["
+  },
+  {
+    "id": "https://vnexpress.net/ngo-lan-huong-han-sara-hao-huc-kham-pha-am-thuc-xu-thanh-5131661.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Ngô Lan Hương, Han Sara háo hức khám phá ẩm thực xứ Thanh",
+    "description": "Ca sĩ Ngô Lan Hương, Han Sara sẽ thưởng thức nhiều món ngon, tìm hiểu văn hóa, lịch sử Thanh Hóa, trong tập 4 \"Sao Chọn\" phát sóng cuối tuần này.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/10/15/dbi02097-1792028017-8705-1792028538.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=GmQw2R2CrASaldkppYUD5A",
+    "link": "https://vnexpress.net/ngo-lan-huong-han-sara-hao-huc-kham-pha-am-thuc-xu-thanh-5131661.html",
+    "published_at": "Thu, 15 Oct 2026 19:00:00 +0700",
+    "createAt": "2026-10-15T12:00:00.000Z",
+    "thumbnail_blurhash": "LLI~0$-rOqD%~W?bkB9F_NxtWVIn"
   }
 ]
