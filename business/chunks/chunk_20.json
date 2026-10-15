@@ -700,5 +700,31 @@
     "published_at": "Thu, 15 Oct 2026 20:32:33 +0700",
     "createAt": "2026-10-15T13:32:33.000Z",
     "thumbnail_blurhash": "LPF5?X?wi_o2D%WV%MM{OYr?Rjoz"
+  },
+  {
+    "id": "https://vnexpress.net/nguoi-my-dan-quen-voi-lam-phat-cao-5132773.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Người Mỹ dần quen với lạm phát cao",
+    "description": "Người Mỹ đang trải qua một trong những giai đoạn lạm phát cao dài nhất thế kỷ, khiến không ít người bắt đầu coi đây là trạng thái bình thường mới.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/15/Screenshot20261015155448-17920-8704-8844-1792054715.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=DhPO5Psykdd9UyY3dPnopQ",
+    "link": "https://vnexpress.net/nguoi-my-dan-quen-voi-lam-phat-cao-5132773.html",
+    "published_at": "Fri, 16 Oct 2026 00:03:00 +0700",
+    "createAt": "2026-10-15T17:03:00.000Z",
+    "thumbnail_blurhash": "LCCYm+%MM|aJyYOFEMae}=ahahxa"
+  },
+  {
+    "id": "https://vnexpress.net/trong-lua-phat-thai-thap-nong-dan-lai-them-9-3-trieu-dong-mot-ha-5132672.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Trồng lúa phát thải thấp, nông dân lãi thêm 9,3 triệu đồng một ha",
+    "description": "Giảm giống, phân bón và thuốc bảo vệ thực vật, nông dân trồng lúa phát thải thấp ở miền Tây vẫn lãi thêm đến 9,3 triệu đồng mỗi ha mỗi vụ so với cách canh tác cũ.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/15/z6932078353420bc38cf8c7d2510a1-9982-2625-1792046982.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=4prIKvhZPyyP7sg-wen5xQ",
+    "link": "https://vnexpress.net/trong-lua-phat-thai-thap-nong-dan-lai-them-9-3-trieu-dong-mot-ha-5132672.html",
+    "published_at": "Fri, 16 Oct 2026 00:03:00 +0700",
+    "createAt": "2026-10-15T17:03:00.000Z",
+    "thumbnail_blurhash": "LmGcSgV@fQoy%jWAayj]p1aeayj]"
   }
 ]
