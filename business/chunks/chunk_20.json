@@ -531,5 +531,57 @@
     "published_at": "Thu, 15 Oct 2026 13:00:00 +0700",
     "createAt": "2026-10-15T06:00:00.000Z",
     "thumbnail_blurhash": "LgCjePg5jYs.T#S6aejEk[R-jZoe"
+  },
+  {
+    "id": "https://vnexpress.net/gia-xang-dau-moi-nhat-hom-nay-15-10-5132689.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Giá xăng E10 giảm về sát 27.000 đồng một lít",
+    "description": "Từ 15h hôm nay, giá xăng giảm 730-1.230 đồng, dầu diesel hạ 20 đồng một lít, theo đà biến động của thị trường năng lượng thế giới.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/15/wm1-wm1-xange103-1792047887-9576-1792047922.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=USozi_P03M5OmYgve-Lodw",
+    "link": "https://vnexpress.net/gia-xang-dau-moi-nhat-hom-nay-15-10-5132689.html",
+    "published_at": "Thu, 15 Oct 2026 14:52:11 +0700",
+    "createAt": "2026-10-15T07:52:11.000Z",
+    "thumbnail_blurhash": "LIG98RM^?W?[pL={$kt59t-;V_s8"
+  },
+  {
+    "id": "https://vnexpress.net/cu-hich-giup-mb-vuot-100-000-ty-dong-von-dieu-le-5132692.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Cú hích giúp MB vượt 100.000 tỷ đồng vốn điều lệ",
+    "description": "Đợt chào bán thu gần 8.055 tỷ đồng, trên nền tảng tích lũy lợi nhuận nhiều năm, đưa MB trở thành ngân hàng Việt đầu tiên có vốn điều lệ vượt 100.000 tỷ đồng.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/15/mbbbbb-1792048593-3266-1792049082.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=yWEsIjmPALIcYFGRMT2Daw",
+    "link": "https://vnexpress.net/cu-hich-giup-mb-vuot-100-000-ty-dong-von-dieu-le-5132692.html",
+    "published_at": "Thu, 15 Oct 2026 15:00:00 +0700",
+    "createAt": "2026-10-15T08:00:00.000Z",
+    "thumbnail_blurhash": "LcLEQen-9F%g_4s.xYxtt8xZRjfh"
+  },
+  {
+    "id": "https://vnexpress.net/nhat-ban-chi-gan-800-ty-dong-mua-hoa-cuc-viet-5132695.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Nhật Bản chi gần 800 tỷ đồng mua hoa cúc Việt",
+    "description": "Hoa cúc Việt Nam thu hơn 30 triệu USD từ Nhật trong 8 tháng, trở thành mặt hàng dẫn đầu về kim ngạch trong nhóm 20 sản phẩm bán sang thị trường này.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/15/da-lat-1792049691-4425-1792049829.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=1Smu6UfPU2OmwGul9wU5DA",
+    "link": "https://vnexpress.net/nhat-ban-chi-gan-800-ty-dong-mua-hoa-cuc-viet-5132695.html",
+    "published_at": "Thu, 15 Oct 2026 15:14:02 +0700",
+    "createAt": "2026-10-15T08:14:02.000Z",
+    "thumbnail_blurhash": "LUL|DE-ox?tQ?wbcWFjFWaW-VtjG"
+  },
+  {
+    "id": "https://vnexpress.net/chung-khoan-mat-moc-1-700-diem-5132751.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Chứng khoán mất mốc 1.700 điểm",
+    "description": "Áp lực xả hàng vào cuối phiên, nhất là cổ phiếu trụ và dầu khí, đã khiến chứng khoán điều chỉnh phiên thứ 7 liên tiếp, thủng mốc 1.700 điểm.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/15/td5-1792052423-4676-1792052470.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=XsrHG8R9YmbfsCGdo5xZIg",
+    "link": "https://vnexpress.net/chung-khoan-mat-moc-1-700-diem-5132751.html",
+    "published_at": "Thu, 15 Oct 2026 15:36:31 +0700",
+    "createAt": "2026-10-15T08:36:31.000Z",
+    "thumbnail_blurhash": "L98W]kIWyE%401xsI9NE~pM}%MtR"
   }
 ]
