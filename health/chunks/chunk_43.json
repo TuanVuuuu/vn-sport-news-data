@@ -401,5 +401,31 @@
     "published_at": "Thu, 15 Oct 2026 02:03:00 +0700",
     "createAt": "2026-10-14T19:03:00.000Z",
     "thumbnail_blurhash": "LH8qZ|$~x]Sj_4$ztRSj%gnhofkX"
+  },
+  {
+    "id": "https://vnexpress.net/nen-lam-gi-khi-bat-ngo-tinh-giac-giua-dem-5130994.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Nên làm gì khi bất ngờ tỉnh giấc giữa đêm?",
+    "description": "Không xem điện thoại, tránh nhìn đồng hồ, hít thở sâu thư giãn khi thức giấc giữa đêm. Nếu sau 20 phút chưa ngủ lại, hãy rời giường đọc sách dưới ánh sáng dịu.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/11/screenshot-at-1791718790-1474-1791728155.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=Eq26JJIwDZq4N6QdkF58vw",
+    "link": "https://vnexpress.net/nen-lam-gi-khi-bat-ngo-tinh-giac-giua-dem-5130994.html",
+    "published_at": "Thu, 15 Oct 2026 05:00:00 +0700",
+    "createAt": "2026-10-14T22:00:00.000Z",
+    "thumbnail_blurhash": "LGB;2$?wNdRjsmV@x]x]xaRPWB%N"
+  },
+  {
+    "id": "https://vnexpress.net/am-anh-mat-kiem-soat-sau-con-say-5132020.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Ám ảnh 'mất kiểm soát' sau cơn say",
+    "description": "Thức dậy với cảm giác cồn cào, tim đập nhanh và nỗi sợ hãi mơ hồ về những gì đã nói tối qua, nhiều người đang trải qua \"hangxiety\" - phản ứng hóa sinh của não bộ khi cồn cạn kiệt.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/14/office-anxiety-stock-gty-jef-h-7576-3853-1791945356.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Qcq5VdAohptmcs7lDLZIng",
+    "link": "https://vnexpress.net/am-anh-mat-kiem-soat-sau-con-say-5132020.html",
+    "published_at": "Thu, 15 Oct 2026 06:00:00 +0700",
+    "createAt": "2026-10-14T23:00:00.000Z",
+    "thumbnail_blurhash": "LOIX:EO[8^xE.TRjITWX_N-pWBxu"
   }
 ]
