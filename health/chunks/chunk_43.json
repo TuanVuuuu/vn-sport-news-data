@@ -791,5 +791,57 @@
     "published_at": "Thu, 15 Oct 2026 15:00:00 +0700",
     "createAt": "2026-10-15T08:00:00.000Z",
     "thumbnail_blurhash": "LlI#T0kXi^of.maeM{j]pJs:W;fk"
+  },
+  {
+    "id": "https://vnexpress.net/sun-khop-duoc-nuoi-duong-nhu-the-nao-5132744.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Sụn khớp được nuôi dưỡng như thế nào",
+    "description": "Sụn khớp không có mạch máu, chủ yếu nhận dưỡng chất nhờ quá trình khuếch tán từ dịch khớp và một phần từ hệ mạch của xương dưới sụn.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/15/screenshot-at-1792052398-4246-1792052431.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=yDfHWw9cvQQBeAbTKgXNxA",
+    "link": "https://vnexpress.net/sun-khop-duoc-nuoi-duong-nhu-the-nao-5132744.html",
+    "published_at": "Thu, 15 Oct 2026 16:00:00 +0700",
+    "createAt": "2026-10-15T09:00:00.000Z",
+    "thumbnail_blurhash": "LWHe9P|-ads,={f6WUWVIVwa$~sR"
+  },
+  {
+    "id": "https://vnexpress.net/ung-thu-dai-trang-di-can-gan-5132453.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Ung thư đại tràng di căn gan",
+    "description": "Bà Ngọc, 69 tuổi, tiêu chảy, đi ngoài có lẫn dịch màu hồng nhạt, bác sĩ chẩn đoán ung thư đại tràng đã di căn gan.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/15/ung-thu-dai-trang-di-can-gan-1-5316-9144-1792036627.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=893fUIKEOAxut74YCtQnSw",
+    "link": "https://vnexpress.net/ung-thu-dai-trang-di-can-gan-5132453.html",
+    "published_at": "Thu, 15 Oct 2026 16:00:00 +0700",
+    "createAt": "2026-10-15T09:00:00.000Z",
+    "thumbnail_blurhash": "LvH3wHS,n#xu~UR#j=t7${smRlfO"
+  },
+  {
+    "id": "https://vnexpress.net/vo-sinh-do-tac-hai-voi-trung-5132720.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Vô sinh do tắc hai vòi trứng",
+    "description": "Chị Lan, 28 tuổi, 3 năm hiếm muộn do tắc và ứ dịch hai vòi trứng, được phẫu thuật xử lý tổn thương, thụ tinh ống nghiệm thành công ngay lần đầu.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/15/anh-1792050653-5882-1792050760.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=slUq2oISsOJhsRdtVWJXEw",
+    "link": "https://vnexpress.net/vo-sinh-do-tac-hai-voi-trung-5132720.html",
+    "published_at": "Thu, 15 Oct 2026 17:00:00 +0700",
+    "createAt": "2026-10-15T10:00:00.000Z",
+    "thumbnail_blurhash": "LIOp40-X00~p4T9ZDORk1NInIWt6"
+  },
+  {
+    "id": "https://vnexpress.net/thuc-pham-nen-an-sau-17h-ho-tro-on-dinh-duong-huyet-5132501.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Thực phẩm nên ăn sau 17h hỗ trợ ổn định đường huyết",
+    "description": "Ăn các loại hạt, táo và trứng sau 17h giúp bổ sung protein, chất xơ và chất béo lành mạnh, góp phần ổn định đường huyết, no lâu hơn.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/15/z5337343387713-ef211f22479aa9c-5151-6715-1792028971.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=TbwGJoLSI1Uf20c4o9Y8Pg",
+    "link": "https://vnexpress.net/thuc-pham-nen-an-sau-17h-ho-tro-on-dinh-duong-huyet-5132501.html",
+    "published_at": "Thu, 15 Oct 2026 17:00:00 +0700",
+    "createAt": "2026-10-15T10:00:00.000Z",
+    "thumbnail_blurhash": "LfL:TJ-pu4tS?bR+RPn$*JR*r@ax"
   }
 ]
