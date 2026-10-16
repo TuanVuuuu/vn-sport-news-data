@@ -817,5 +817,31 @@
     "published_at": "Fri, 16 Oct 2026 15:00:00 +0700",
     "createAt": "2026-10-16T08:00:00.000Z",
     "thumbnail_blurhash": "LRLN.4t8~q-;xuRjofWB_NWBIUWB"
+  },
+  {
+    "id": "https://vnexpress.net/ky-su-viet-phat-trien-he-thong-quang-hoc-sieu-pho-do-suc-khoe-cay-trong-5132823.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Kỹ sư Việt phát triển hệ thống quang học siêu phổ đo sức khỏe cây trồng",
+    "description": "Hệ thống ảnh siêu phổ tích hợp xử lý dữ liệu do kỹ sư Châu Khắc Bảo Chương phát triển, giúp nông dân theo dõi trạng thái cây trồng ngay tại trang trại, giá chỉ bằng 30-35% so với các sản phẩm tính năng tương tự.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/15/wm1wm1gianhat17910832762864179-4238-9992-1792058394.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=Qx7i8-8WWG66GMv3fJ2e3A",
+    "link": "https://vnexpress.net/ky-su-viet-phat-trien-he-thong-quang-hoc-sieu-pho-do-suc-khoe-cay-trong-5132823.html",
+    "published_at": "Fri, 16 Oct 2026 16:15:00 +0700",
+    "createAt": "2026-10-16T09:15:00.000Z",
+    "thumbnail_blurhash": "L~IP|{ogaLo|?wbboyjvsoW.W;ja"
+  },
+  {
+    "id": "https://vnexpress.net/ten-mien-duoi-ap-vn-gia-10-000-dong-tai-viet-nam-5133224.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Tên miền đuôi '.ap.vn' giá 10.000 đồng tại Việt Nam",
+    "description": "Tên miền \".ap.vn\" dành cho nhà phát triển ứng dụng có giá 10.000 đồng, cùng tên miền \".ad.vn\", \".on.vn\" sẽ được bán ưu đãi để thúc đẩy doanh nghiệp lên không gian số.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/16/wm1-wm1-img-4357-jpg-1792138415-5834-1792138468.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=YEgQyQX4TTFPtPIlOUJX3g",
+    "link": "https://vnexpress.net/ten-mien-duoi-ap-vn-gia-10-000-dong-tai-viet-nam-5133224.html",
+    "published_at": "Fri, 16 Oct 2026 16:35:35 +0700",
+    "createAt": "2026-10-16T09:35:35.000Z",
+    "thumbnail_blurhash": "L8A,;C4$02D$x-Ivr.oe03^*~pxu"
   }
 ]
