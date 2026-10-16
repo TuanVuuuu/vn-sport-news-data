@@ -453,5 +453,31 @@
     "published_at": "Fri, 16 Oct 2026 12:29:36 +0700",
     "createAt": "2026-10-16T05:29:36.000Z",
     "thumbnail_blurhash": "LHF5aC~A57%g0MEj%MVXOaDjD%JU"
+  },
+  {
+    "id": "https://vnexpress.net/thang-co-phung-ngoc-vuot-noi-buon-hai-lan-do-vo-hon-nhan-5132310.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "'Thằng Cò' Phùng Ngọc vượt nỗi buồn hai lần đổ vỡ hôn nhân",
+    "description": "Phùng Ngọc - đóng Cò trong \"Đất phương Nam\" - nỗ lực làm việc, livestream bán hàng, giao đồ ăn để \"cơm ngày ba bữa\", vượt qua hai lần đổ vỡ hôn nhân.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/10/15/phungngocngayaybaygio-17920593-7291-9010-1792060087.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ANB45SDKmb7e9-0eNehGAg",
+    "link": "https://vnexpress.net/thang-co-phung-ngoc-vuot-noi-buon-hai-lan-do-vo-hon-nhan-5132310.html",
+    "published_at": "Fri, 16 Oct 2026 14:00:00 +0700",
+    "createAt": "2026-10-16T07:00:00.000Z",
+    "thumbnail_blurhash": "LRK,?E~qt7-ni]wGRjbc0$xubIV@"
+  },
+  {
+    "id": "https://vnexpress.net/thu-ky-chuc-mung-chau-tan-5133204.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Thư Kỳ chúc mừng Châu Tấn",
+    "description": "Minh tinh Thư Kỳ nói \"mỗi khung hình có Châu Tấn đều là cảnh đẹp\" khi chúc mừng bạn thân đoạt giải tại LHP quốc tế Busan.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/10/16/nguyenquangdung-1792135707-3918-1792135787.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=jvoSJHv3lzxCXkwiig4YeA",
+    "link": "https://vnexpress.net/thu-ky-chuc-mung-chau-tan-5133204.html",
+    "published_at": "Fri, 16 Oct 2026 14:41:56 +0700",
+    "createAt": "2026-10-16T07:41:56.000Z",
+    "thumbnail_blurhash": "LRLMn[*yMdDi~DDPM_%MozRPo}oz"
   }
 ]
