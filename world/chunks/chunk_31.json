@@ -765,5 +765,31 @@
     "published_at": "Fri, 16 Oct 2026 15:57:11 +0700",
     "createAt": "2026-10-16T08:57:11.000Z",
     "thumbnail_blurhash": "LzCRBIvzT2WZu6WCNdR+f*bwadjY"
+  },
+  {
+    "id": "https://vnexpress.net/ac-mong-cua-ukraine-khi-my-siet-starlink-5133039.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Ác mộng của Ukraine khi Mỹ siết Starlink",
+    "description": "Bị Mỹ ngắt Starshield giữa lúc Nga dội hỏa lực ồ ạt, Ukraine rơi vào thế nghìn cân treo sợi tóc khi không còn \"xương sống\" thông tin liên lạc và tác chiến.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/16/Artcover16x9-1792118906-3622-1792118946.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=T1Mi-8jwxpzTfK9dwxX6Vw",
+    "link": "https://vnexpress.net/ac-mong-cua-ukraine-khi-my-siet-starlink-5133039.html",
+    "published_at": "Fri, 16 Oct 2026 17:00:00 +0700",
+    "createAt": "2026-10-16T10:00:00.000Z",
+    "thumbnail_blurhash": "LrB$l]HqawV{.mS7R5jEoyoxRPaJ"
+  },
+  {
+    "id": "https://vnexpress.net/noi-bat-an-o-dai-hoc-my-sau-nghi-an-dau-doc-dong-nghiep-goc-viet-5133206.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Nỗi bất an ở đại học Mỹ sau nghi án đầu độc đồng nghiệp gốc Việt",
+    "description": "Vụ Vương Ái Lệ bị cáo buộc đầu độc nghiên cứu sinh K.T làm rúng động cộng đồng nghiên cứu tại Đại học Wyoming.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/16/aili-wang-1792142934-2654-1792143253.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=0GVIqS1c4aLCM9U3Nj6H4Q",
+    "link": "https://vnexpress.net/noi-bat-an-o-dai-hoc-my-sau-nghi-an-dau-doc-dong-nghiep-goc-viet-5133206.html",
+    "published_at": "Fri, 16 Oct 2026 17:18:09 +0700",
+    "createAt": "2026-10-16T10:18:09.000Z",
+    "thumbnail_blurhash": "LvH.HFxaX9oL_NkCR+WCx]Rjt6of"
   }
 ]
