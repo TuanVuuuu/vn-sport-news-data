@@ -544,5 +544,31 @@
     "published_at": "Fri, 16 Oct 2026 07:47:48 +0700",
     "createAt": "2026-10-16T00:47:48.000Z",
     "thumbnail_blurhash": "LNE3}8pc1m%0*0xtbbfiX9jurrbc"
+  },
+  {
+    "id": "https://vnexpress.net/tranh-luan-trong-noi-bo-iran-ve-tham-vong-vu-khi-hat-nhan-5124934.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Tranh luận trong nội bộ Iran về tham vọng vũ khí hạt nhân",
+    "description": "Việc chế tạo vũ khí hạt nhân để răn đe Mỹ - Israel từ chỗ chỉ được bàn trong bí mật nay đã trở thành chủ đề tranh luận công khai tại Iran.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/09/26/AP26261359701368-1790393257-3854-1790393699.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=WofXPbCjhuHYZLRUc8kmZg",
+    "link": "https://vnexpress.net/tranh-luan-trong-noi-bo-iran-ve-tham-vong-vu-khi-hat-nhan-5124934.html",
+    "published_at": "Fri, 16 Oct 2026 08:31:15 +0700",
+    "createAt": "2026-10-16T01:31:15.000Z",
+    "thumbnail_blurhash": "LlD,+fS6Myx].TRkRPofjcV@a{V@"
+  },
+  {
+    "id": "https://vnexpress.net/ten-lua-houthi-danh-trung-to-hop-dinh-tong-thong-yemen-5132943.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Tên lửa Houthi đánh trúng tổ hợp Dinh Tổng thống Yemen",
+    "description": "Houthi phóng tên lửa đạn đạo vào khu phức hợp Dinh Tổng thống Yemen ở Aden, dường như đánh trúng các trung tâm chỉ huy, khiến 5 người thiệt mạng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/16/SETTOP-1792110635-4059-1792111268.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=FXfiTf3yEGr6geFGDX3geQ",
+    "link": "https://vnexpress.net/ten-lua-houthi-danh-trung-to-hop-dinh-tong-thong-yemen-5132943.html",
+    "published_at": "Fri, 16 Oct 2026 08:37:45 +0700",
+    "createAt": "2026-10-16T01:37:45.000Z",
+    "thumbnail_blurhash": "LuHy2nkDogof_4WBjZj[f+axV@j]"
   }
 ]
