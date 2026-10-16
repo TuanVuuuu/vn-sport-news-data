@@ -843,5 +843,83 @@
     "published_at": "Fri, 16 Oct 2026 15:14:45 +0700",
     "createAt": "2026-10-16T08:14:45.000Z",
     "thumbnail_blurhash": "L8Fq]^01DN-4}50f16xu0e-o-qxF"
+  },
+  {
+    "id": "https://vnexpress.net/tp-hcm-giu-nguyen-ty-le-von-nha-nuoc-tai-11-doanh-nghiep-5133228.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "TP HCM giữ nguyên tỷ lệ vốn nhà nước tại 11 doanh nghiệp",
+    "description": "TP HCM giữ nguyên tỷ lệ vốn tại 11 doanh nghiệp, cơ cấu lại 60 doanh nghiệp qua các hình thức hợp nhất, giảm tỷ lệ, chuyển giao quyền đại diện chủ sở hữu vốn hoặc giải thể.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/16/233a7577-1792137412-4280-1792137486.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=H0ncI89a4REwDi7mkXVhGg",
+    "link": "https://vnexpress.net/tp-hcm-giu-nguyen-ty-le-von-nha-nuoc-tai-11-doanh-nghiep-5133228.html",
+    "published_at": "Fri, 16 Oct 2026 15:29:15 +0700",
+    "createAt": "2026-10-16T08:29:15.000Z",
+    "thumbnail_blurhash": "LCC@7zxSD+oM.AMznjbXP0N1%2R%"
+  },
+  {
+    "id": "https://vnexpress.net/chung-khoan-dao-chieu-tang-gan-8-diem-5133243.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Chứng khoán đảo chiều tăng gần 8 điểm",
+    "description": "Sau 7 phiên liên tiếp đi lùi, lực cầu trở lại ở nhóm ngân hàng và các cổ phiếu trụ đã giúp VN-Index lấy lại mốc 1.700 điểm.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/16/wm1-wm1-td5-1792138524-7583-1792138545.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=m7SGU4WFPB2BQU-icfxxVA",
+    "link": "https://vnexpress.net/chung-khoan-dao-chieu-tang-gan-8-diem-5133243.html",
+    "published_at": "Fri, 16 Oct 2026 15:58:04 +0700",
+    "createAt": "2026-10-16T08:58:04.000Z",
+    "thumbnail_blurhash": "LWF=t0D~$]Sl?dxU$wt9$%kDWAof"
+  },
+  {
+    "id": "https://vnexpress.net/chu-tich-fed-ai-la-cu-soc-tich-cuc-5133274.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Chủ tịch Fed: AI là 'cú sốc tích cực'",
+    "description": "Chủ tịch Fed cho rằng khác với chiến sự, AI là cú sốc theo hướng tích cực, có thể mang lại lợi ích kinh tế khổng lồ cho toàn cầu.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/16/warsh-1792142303-8698-1792142309.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=s6-j0WCSfJr-U6yHGuxizw",
+    "link": "https://vnexpress.net/chu-tich-fed-ai-la-cu-soc-tich-cuc-5133274.html",
+    "published_at": "Fri, 16 Oct 2026 16:15:00 +0700",
+    "createAt": "2026-10-16T09:15:00.000Z",
+    "thumbnail_blurhash": "LuAoj.oyT3x_KnbbkDNHohj?nMof"
+  },
+  {
+    "id": "https://vnexpress.net/moi-ngay-nguoi-dan-gui-them-7-000-ty-dong-vao-ngan-hang-5133230.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Mỗi ngày người dân gửi thêm 7.000 tỷ đồng vào ngân hàng",
+    "description": "Tiền gửi dân cư vào hệ thống ngân hàng tăng ròng 210.000 tỷ đồng trong tháng 8, tức bình quân gần 7.000 tỷ đồng mỗi ngày.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/16/wm1-wm1-huy-1792141650-7812-1792141704.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=tRsbGKg42bl5cFNYIJtYkg",
+    "link": "https://vnexpress.net/moi-ngay-nguoi-dan-gui-them-7-000-ty-dong-vao-ngan-hang-5133230.html",
+    "published_at": "Fri, 16 Oct 2026 16:25:10 +0700",
+    "createAt": "2026-10-16T09:25:10.000Z",
+    "thumbnail_blurhash": "LMJHBl?GGG9a.mt7$%Rj~qD%t8oM"
+  },
+  {
+    "id": "https://vnexpress.net/sun-phuquoc-airways-mo-duong-bay-thang-dau-tien-toi-an-do-5133300.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Sun PhuQuoc Airways mở đường bay thẳng đầu tiên tới Ấn Độ",
+    "description": "Sun PhuQuoc Airways dự kiến khai thác đường bay Phú Quốc - Ahmedabad từ ngày 2/12, tần suất 5 chuyến mỗi tuần, mở thêm lựa chọn đi lại giữa Việt Nam và Ấn Độ.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/16/sun-phuquoc-airways-34-1792142-3848-8145-1792142664.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=kMWbciSfvC51Li6Xr5EnAA",
+    "link": "https://vnexpress.net/sun-phuquoc-airways-mo-duong-bay-thang-dau-tien-toi-an-do-5133300.html",
+    "published_at": "Fri, 16 Oct 2026 16:30:00 +0700",
+    "createAt": "2026-10-16T09:30:00.000Z",
+    "thumbnail_blurhash": "LiFGRgogjFoz%%WXt6of%1W;t7oe"
+  },
+  {
+    "id": "https://vnexpress.net/vingroup-giam-nua-tien-thue-dat-mo-rong-nha-cung-cap-trong-nuoc-5133181.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Vingroup giảm nửa tiền thuê đất, mở rộng nhà cung cấp trong nước",
+    "description": "Vingroup giảm 50% tiền thuê đất trong ba năm đầu cho đối tác đặt nhà máy tại các khu công nghiệp của Vinhomes và VinFast, đồng thời hỗ trợ kỹ thuật và đầu ra.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/16/pctvingroup-1792134218-3864-1792134997.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=9Gph3RdRrV_2R8wRHe1P7w",
+    "link": "https://vnexpress.net/vingroup-giam-nua-tien-thue-dat-mo-rong-nha-cung-cap-trong-nuoc-5133181.html",
+    "published_at": "Fri, 16 Oct 2026 16:50:27 +0700",
+    "createAt": "2026-10-16T09:50:27.000Z",
+    "thumbnail_blurhash": "L:MGbK-n-oxZ~VR+kCbHX9a#WVWC"
   }
 ]
