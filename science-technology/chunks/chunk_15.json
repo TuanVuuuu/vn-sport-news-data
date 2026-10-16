@@ -843,5 +843,31 @@
     "published_at": "Fri, 16 Oct 2026 16:35:35 +0700",
     "createAt": "2026-10-16T09:35:35.000Z",
     "thumbnail_blurhash": "L8A,;C4$02D$x-Ivr.oe03^*~pxu"
+  },
+  {
+    "id": "https://vnexpress.net/tac-nhan-bat-hao-tan-cong-he-thong-mang-an-do-5133232.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Tác nhân 'bất hảo' tấn công hệ thống mạng Ấn Độ",
+    "description": "Các mô hình AI đang thử nghiệm được cho là đã xâm nhập hệ thống của các tổ chức Ấn Độ, truy cập hồ sơ mật mà không bị phát hiện.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/16/dsc00705-jpg-1792139523-4671-1792140265.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=_3BdDj7KIj5rVflB-ScnOg",
+    "link": "https://vnexpress.net/tac-nhan-bat-hao-tan-cong-he-thong-mang-an-do-5133232.html",
+    "published_at": "Fri, 16 Oct 2026 18:30:00 +0700",
+    "createAt": "2026-10-16T11:30:00.000Z",
+    "thumbnail_blurhash": "LDD^KB~p00JF058^=oRpF$bc,+$x"
+  },
+  {
+    "id": "https://vnexpress.net/iphone-duo-chay-hang-dot-dau-sau-5-phut-tai-viet-nam-5133296.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "iPhone Duo 'cháy hàng' đợt đầu sau 5 phút tại Việt Nam",
+    "description": "Sau 5 phút cho đặt trước, tất cả phiên bản của iPhone Duo không còn hàng để giao ngày đầu tiên 23/10 trên Apple Store Online.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/16/wm1-wm1-untitled-1792154205-7288-1792154229.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=VfEUYz409WGCw1Hzfb6Z6Q",
+    "link": "https://vnexpress.net/iphone-duo-chay-hang-dot-dau-sau-5-phut-tai-viet-nam-5133296.html",
+    "published_at": "Fri, 16 Oct 2026 19:41:52 +0700",
+    "createAt": "2026-10-16T12:41:52.000Z",
+    "thumbnail_blurhash": "LFJRBi4,D#~W~XMxRjbc00?H-;I:"
   }
 ]
