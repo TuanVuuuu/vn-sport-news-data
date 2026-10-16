@@ -323,5 +323,31 @@
     "published_at": "Fri, 16 Oct 2026 05:00:00 +0700",
     "createAt": "2026-10-15T22:00:00.000Z",
     "thumbnail_blurhash": "L35YHRDgV@.AM_WBjZkCDhx^ogMx"
+  },
+  {
+    "id": "https://vnexpress.net/4-gio-ha-thuy-nhip-cau-di-bo-3-400-tan-bac-qua-song-sai-gon-5132937.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "4 giờ hạ thủy nhịp cầu đi bộ 3.400 tấn bắc qua sông Sài Gòn",
+    "description": "Rạng sáng 16/10, dàn xe siêu trường đưa thành công nhịp cầu đi bộ hình lá dừa nước lên sà lan diện tích gấp đôi sân bóng đá mini, sẵn sàng vượt biển Vũng Tàu tới lắp đặt ở bến Bạch Đằng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/16/2aobor5nabrslnzgpbl1ah5jallyhqyqv9yikprs-1792107317.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=H2M3-OQnEvg3uSqD-RtH4w",
+    "link": "https://vnexpress.net/4-gio-ha-thuy-nhip-cau-di-bo-3-400-tan-bac-qua-song-sai-gon-5132937.html",
+    "published_at": "Fri, 16 Oct 2026 05:30:00 +0700",
+    "createAt": "2026-10-15T22:30:00.000Z",
+    "thumbnail_blurhash": "L6DvWOpG00In004p-Bn,5AX8~Tj="
+  },
+  {
+    "id": "https://vnexpress.net/nua-thang-10-ghi-nhan-59-ky-luc-nhiet-do-5132873.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Nửa tháng 10 ghi nhận 59 kỷ lục nhiệt độ",
+    "description": "Trong bối cảnh El Nino đang mạnh lên, nhiệt độ tháng 10 nhiều nơi đã vượt kỷ lục cũ, trong đó Yên Châu (Sơn La) nóng 38,3 độ, Hà Nội 37,1 độ C.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/16/wm1-wm1-9a-1792083972-1681-1792083984.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=1NqM7ji8hIzNkVMTYyvjuw",
+    "link": "https://vnexpress.net/nua-thang-10-ghi-nhan-59-ky-luc-nhiet-do-5132873.html",
+    "published_at": "Fri, 16 Oct 2026 06:00:00 +0700",
+    "createAt": "2026-10-15T23:00:00.000Z",
+    "thumbnail_blurhash": "LdF=?d%M9Zt7%%o#aJs;-?t7j?oz"
   }
 ]

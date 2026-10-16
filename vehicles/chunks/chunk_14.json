@@ -1181,5 +1181,44 @@
     "published_at": "Fri, 16 Oct 2026 05:00:00 +0700",
     "createAt": "2026-10-15T22:00:00.000Z",
     "thumbnail_blurhash": "LiH27rR*aKt7~qRPNGs:?bRjWVbI"
+  },
+  {
+    "id": "https://vnexpress.net/byd-ra-mat-sedan-dien-cao-cap-nhat-gia-35-200-usd-5132682.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "BYD ra mắt sedan điện cao cấp nhất giá 35.200 USD",
+    "description": "BYD Da Han sở hữu thiết kế khí động học, hệ thống treo khí nén, nội thất cao cấp cùng khả năng sạc 10-97% trong 9 phút.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/15/BYDDaHan7-1792050233-4941-1792050507.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=CcFoEMep94MG1QERm2U4rg",
+    "link": "https://vnexpress.net/byd-ra-mat-sedan-dien-cao-cap-nhat-gia-35-200-usd-5132682.html",
+    "published_at": "Fri, 16 Oct 2026 06:00:00 +0700",
+    "createAt": "2026-10-15T23:00:00.000Z",
+    "thumbnail_blurhash": "LaL;1@%1-ls,~A%LIUNG?FIVf,xu"
+  },
+  {
+    "id": "https://vnexpress.net/nissan-navara-pro-phev-ban-tai-hybrid-sac-ngoai-moi-5132762.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Nissan Navara Pro PHEV - bán tải hybrid sạc ngoài mới",
+    "description": "Navara Pro trang bị hệ truyền động plug-in hybrid 2.0, công suất 402 mã lực, ra mắt thế giới vào năm 2027.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/15/nissannavaraprophev1-179205566-9706-3781-1792056389.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Wa4tpTSbvIFp1SB9LWa65g",
+    "link": "https://vnexpress.net/nissan-navara-pro-phev-ban-tai-hybrid-sac-ngoai-moi-5132762.html",
+    "published_at": "Fri, 16 Oct 2026 06:30:00 +0700",
+    "createAt": "2026-10-15T23:30:00.000Z",
+    "thumbnail_blurhash": "LjG[sGx^xuad_4-;ofM{tTt8axM{"
+  },
+  {
+    "id": "https://vnexpress.net/cach-chau-au-tri-xe-dien-do-che-5132638.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Cách châu Âu 'trị' xe điện độ chế",
+    "description": "Cảnh sát dùng bàn thử di động phát hiện xe điện độ chế, tịch thu, xử phạt người lái và nghiền hủy phương tiện vượt giới hạn.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/15/telemmglpict000496272195-trans-6334-3833-1792040883.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Aop1RpmdTpa3i0KVzw4htA",
+    "link": "https://vnexpress.net/cach-chau-au-tri-xe-dien-do-che-5132638.html",
+    "published_at": "Fri, 16 Oct 2026 07:00:00 +0700",
+    "createAt": "2026-10-16T00:00:00.000Z",
+    "thumbnail_blurhash": "LBCsKp0o#iE5~VRPE3RjEV}j0$-P"
   }
 ]
