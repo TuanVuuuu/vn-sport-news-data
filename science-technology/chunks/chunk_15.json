@@ -765,5 +765,31 @@
     "published_at": "Fri, 16 Oct 2026 12:00:00 +0700",
     "createAt": "2026-10-16T05:00:00.000Z",
     "thumbnail_blurhash": "LBIE;K02t-FHysKQ9G;e$y-Cs+%d"
+  },
+  {
+    "id": "https://vnexpress.net/giai-phap-ai-cua-doanh-nghiep-viet-xu-ly-ho-so-giup-giam-hang-nghin-ngay-cong-5132575.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Giải pháp AI của doanh nghiệp Việt xử lý hồ sơ giúp giảm hàng nghìn ngày công",
+    "description": "Giải pháp GreenNode IDP của Việt Nam kết hợp nhận dạng ký tự với mô hình ngôn ngữ để đọc hiểu, đối chiếu và xử lý hồ sơ bao gồm cả chữ viết tay, giúp giảm hàng nghìn ngày công nhập liệu mỗi năm.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/15/ky-su-1792064521-9756-1792064619.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=HujN98KnzPNZsGIKs7e0MA",
+    "link": "https://vnexpress.net/giai-phap-ai-cua-doanh-nghiep-viet-xu-ly-ho-so-giup-giam-hang-nghin-ngay-cong-5132575.html",
+    "published_at": "Fri, 16 Oct 2026 14:00:00 +0700",
+    "createAt": "2026-10-16T07:00:00.000Z",
+    "thumbnail_blurhash": "LJDc%K?b008_tlt7WBWB00Mx_N%g"
+  },
+  {
+    "id": "https://vnexpress.net/gan-1-000-ho-so-dang-ky-tham-du-ai-thuc-chien-mua-2-5133141.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Gần 1.000 hồ sơ đăng ký tham dự AI Thực chiến mùa 2",
+    "description": "AI Thực chiến mùa 2 thu hút gần 1.000 hồ sơ từ các doanh nghiệp công nghệ, trường học và cộng đồng người Việt ở nước ngoài, với 100 đội được chọn vào vòng chung khảo.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/16/nth02397-1792127084-4609-1792127199.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=gGrXgAAAUro6VVdYZok2iw",
+    "link": "https://vnexpress.net/gan-1-000-ho-so-dang-ky-tham-du-ai-thuc-chien-mua-2-5133141.html",
+    "published_at": "Fri, 16 Oct 2026 14:00:00 +0700",
+    "createAt": "2026-10-16T07:00:00.000Z",
+    "thumbnail_blurhash": "Ll5st5f-bfbJb$a}jrj]R5jYaeay"
   }
 ]
