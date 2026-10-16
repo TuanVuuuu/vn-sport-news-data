@@ -986,5 +986,57 @@
     "published_at": "Fri, 16 Oct 2026 06:00:00 +0700",
     "createAt": "2026-10-15T23:00:00.000Z",
     "thumbnail_blurhash": "LWJRH#~X%g9FD~NGM_xt9YM|NGxa"
+  },
+  {
+    "id": "https://vnexpress.net/nhung-sai-lam-mang-com-di-lam-de-ruoc-benh-vao-nguoi-5132833.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Những sai lầm mang cơm đi làm dễ rước bệnh vào người",
+    "description": "Mang cơm đi làm, nhiều người vẫn mắc lỗi để thức ăn nhiều giờ ở nhiệt độ phòng, hâm nóng chưa kỹ hoặc chọn các món như gỏi, trứng lòng đào, làm tăng nguy cơ ngộ độc thực phẩm.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/15/thi-t-luo-c-1792059323-9352-1792059332.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=i0Vp1VEJYXQsqny7EAM6Zg",
+    "link": "https://vnexpress.net/nhung-sai-lam-mang-com-di-lam-de-ruoc-benh-vao-nguoi-5132833.html",
+    "published_at": "Fri, 16 Oct 2026 06:10:50 +0700",
+    "createAt": "2026-10-15T23:10:50.000Z",
+    "thumbnail_blurhash": "LDHnj8~o00R3VXxs-:sl9#My4oR."
+  },
+  {
+    "id": "https://vnexpress.net/dau-hieu-dau-tim-doi-lot-tuoi-gia-o-nam-gioi-5130998.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Dấu hiệu đau tim 'đội lốt' tuổi già ở nam giới",
+    "description": "Nam giới chớ chủ quan với khó thở, kiệt sức, buồn nôn hay lão hóa sớm, vì đó có thể là dấu hiệu đau tim âm thầm.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/11/screenshot-at-1791719532-9407-1791728139.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=3m5znTOjlcd-T9Snp3qUeQ",
+    "link": "https://vnexpress.net/dau-hieu-dau-tim-doi-lot-tuoi-gia-o-nam-gioi-5130998.html",
+    "published_at": "Fri, 16 Oct 2026 07:03:00 +0700",
+    "createAt": "2026-10-16T00:03:00.000Z",
+    "thumbnail_blurhash": "L5C#+7-@0dz,T3xbInEL9tj;-7EM"
+  },
+  {
+    "id": "https://vnexpress.net/thoat-vi-dia-dem-gay-hep-ong-song-5132822.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Thoát vị đĩa đệm gây hẹp ống sống",
+    "description": "Bà Tính, 64 tuổi, thoát vị đĩa đệm gây hẹp ống sống, cứ đi 30-50 m phải dừng lại nghỉ vì quá đau.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/15/bs-thang-1792057673-2018-1792057706.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=3fd35Geeuxw9tI6H1C42lQ",
+    "link": "https://vnexpress.net/thoat-vi-dia-dem-gay-hep-ong-song-5132822.html",
+    "published_at": "Fri, 16 Oct 2026 08:00:00 +0700",
+    "createAt": "2026-10-16T01:00:00.000Z",
+    "thumbnail_blurhash": "LPFjQo$~NsIV~1oIxtad$_tSo#jH"
+  },
+  {
+    "id": "https://vnexpress.net/tan-soi-bao-ton-qua-than-duy-nhat-cho-nguoi-dan-ong-5132819.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Tán sỏi, bảo tồn quả thận duy nhất cho người đàn ông",
+    "description": "Ông Xuân, 59 tuổi, thận phải teo nhỏ, nay thận trái có sỏi được bác sĩ nội soi tán sỏi bảo tồn thận.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/16/hinh-pr-1792112117-6839-1792112316.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ZWpqgUNtRGkVMdUvaKocaQ",
+    "link": "https://vnexpress.net/tan-soi-bao-ton-qua-than-duy-nhat-cho-nguoi-dan-ong-5132819.html",
+    "published_at": "Fri, 16 Oct 2026 08:00:00 +0700",
+    "createAt": "2026-10-16T01:00:00.000Z",
+    "thumbnail_blurhash": "LiJupC?Ht7M{~Rt7oIof${j[s,j?"
   }
 ]
