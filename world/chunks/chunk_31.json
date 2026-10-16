@@ -700,5 +700,31 @@
     "published_at": "Fri, 16 Oct 2026 12:06:22 +0700",
     "createAt": "2026-10-16T05:06:22.000Z",
     "thumbnail_blurhash": "LhG0U_%MWBt8.TofaykCE1WCjsay"
+  },
+  {
+    "id": "https://vnexpress.net/bi-an-ve-nguoi-ra-lenh-ap-han-che-starlink-o-ukraine-5132942.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Bí ẩn về người ra lệnh áp hạn chế Starlink ở Ukraine",
+    "description": "Nhà Trắng dường như đã ra lệnh hạn chế hoạt động của hệ thống Starlink được quân đội Ukraine sử dụng, nhưng không rõ cá nhân nào quyết định.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/16/5563187178137268253a-ukraine-1-4659-1583-1792110145.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=A4dXiQECwsE9BPIJFD-MuQ",
+    "link": "https://vnexpress.net/bi-an-ve-nguoi-ra-lenh-ap-han-che-starlink-o-ukraine-5132942.html",
+    "published_at": "Fri, 16 Oct 2026 07:22:25 +0700",
+    "createAt": "2026-10-16T00:22:25.000Z",
+    "thumbnail_blurhash": "L06a#I~q0000Ja0100~W-N4o?c~q"
+  },
+  {
+    "id": "https://vnexpress.net/dan-lai-xuong-gom-hang-tu-tau-container-chim-o-hormuz-5133166.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Dân lái xuồng, gom hàng từ tàu container chìm ở Hormuz",
+    "description": "Video cho thấy người dân sống ven eo biển Hormuz lái xuồng ra khu vực tàu container bị đánh chìm để vớt các loại hàng hóa trôi nổi trên biển.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/16/hormuz-1792133312-7516-1792133417.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=qUYVahXS6eQUO-lTQa7hqA",
+    "link": "https://vnexpress.net/dan-lai-xuong-gom-hang-tu-tau-container-chim-o-hormuz-5133166.html",
+    "published_at": "Fri, 16 Oct 2026 14:15:32 +0700",
+    "createAt": "2026-10-16T07:15:32.000Z",
+    "thumbnail_blurhash": "LfFsS[oht7t7%%s:R%bIOaWXs,WB"
   }
 ]
