@@ -921,5 +921,44 @@
     "published_at": "Sat, 17 Oct 2026 05:00:00 +0700",
     "createAt": "2026-10-16T22:00:00.000Z",
     "thumbnail_blurhash": "L02FMlo~0KDi0KM{?H%M56jZ-Vt7"
+  },
+  {
+    "id": "https://vnexpress.net/tan-thu-ky-bao-chi-nha-trang-mat-chuc-sau-chua-day-mot-tuan-5133443.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Tân thư ký báo chí Nhà Trắng mất chức sau chưa đầy một tuần",
+    "description": "Thư ký báo chí Nhà Trắng Katie Zacharia rời vị trí sau 5 ngày giữ chức, do chuỗi sai lầm liên tiếp gây thêm rắc rối cho Tổng thống Trump.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/17/AFP20261013D34W7DDv1HighResUsP-5589-7148-1792192149.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=wZgwPWwO4QcwJDmhd7e5lA",
+    "link": "https://vnexpress.net/tan-thu-ky-bao-chi-nha-trang-mat-chuc-sau-chua-day-mot-tuan-5133443.html",
+    "published_at": "Sat, 17 Oct 2026 06:33:02 +0700",
+    "createAt": "2026-10-16T23:33:02.000Z",
+    "thumbnail_blurhash": "LOD0}=Ob5F[l*0W.NLnho~t7niR."
+  },
+  {
+    "id": "https://vnexpress.net/ong-trump-khong-biet-ai-da-ra-lenh-han-che-starlink-o-ukraine-5133444.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Ông Trump không biết ai đã ra lệnh hạn chế Starlink ở Ukraine",
+    "description": "Tổng thổng Trump không rõ ai ra lệnh hạn chế Starlink ở Ukraine, khẳng định dịch vụ \"vẫn như trước\".",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/17/afp-d37v4qr-v1-highres-uspolit-1564-7302-1792193166.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=tLP25-hz8AMpm7C505mZnQ",
+    "link": "https://vnexpress.net/ong-trump-khong-biet-ai-da-ra-lenh-han-che-starlink-o-ukraine-5133444.html",
+    "published_at": "Sat, 17 Oct 2026 06:42:21 +0700",
+    "createAt": "2026-10-16T23:42:21.000Z",
+    "thumbnail_blurhash": "LRGkB|9uNes:~B57WY%19tI:I:%1"
+  },
+  {
+    "id": "https://vnexpress.net/giao-hoang-dien-dam-voi-tong-thong-putin-tu-benh-vien-5133445.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Giáo hoàng điện đàm với Tổng thống Putin từ bệnh viện",
+    "description": "Giáo hoàng Leo XIV điện đàm với Tổng thống Putin sau ca phẫu thuật ung thư phổi, kêu gọi ngừng bắn tại một thành phố ở tỉnh Kherson.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/17/anh1-1792193893-4506-1792194232.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=NDRp9hb8zhq7wzaotZmLQA",
+    "link": "https://vnexpress.net/giao-hoang-dien-dam-voi-tong-thong-putin-tu-benh-vien-5133445.html",
+    "published_at": "Sat, 17 Oct 2026 07:13:40 +0700",
+    "createAt": "2026-10-17T00:13:40.000Z",
+    "thumbnail_blurhash": "LbKnYd%M?b%M~qRjNGWV%3f6NFfP"
   }
 ]
