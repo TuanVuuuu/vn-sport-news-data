@@ -1,3 +1,121 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/nhieu-nguoi-ban-nha-de-thoat-ganh-nang-lai-vay-5132650.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Nhiều người bán nhà để thoát gánh nặng lãi vay",
+      "description": "Hết thời gian hỗ trợ lãi suất, nhiều người vay mua nhà phải bán tài sản, chuyển sang căn nhỏ hơn hoặc xa trung tâm để giảm áp lực khi lãi suất thả nổi tăng cao.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/17/nha197be318ea76-b509c76c7c539-2974-4036-1792213670.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=MSS62_L3zu12j3bQP8mT8Q",
+      "link": "https://vnexpress.net/nhieu-nguoi-ban-nha-de-thoat-ganh-nang-lai-vay-5132650.html",
+      "published_at": "Sat, 17 Oct 2026 05:00:00 +0700",
+      "createAt": "2026-10-16T22:00:00.000Z",
+      "thumbnail_blurhash": "LOFF~iD%Intm_NIqnixun,ogWCay"
+    },
+    {
+      "id": "https://vnexpress.net/den-kyoto-mua-thu-ngam-la-do-ben-nhung-con-duong-co-5132177.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Đến Kyoto mùa thu, ngắm lá đỏ bên những con đường cổ",
+      "description": "Cố đô Kyoto là một trong những nơi có mùa thu đẹp nhất Nhật Bản, với những rừng lá vàng và đỏ rực rỡ, cùng nhiều trải nghiệm văn hóa và ẩm thực truyền thống.",
+      "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/10/15/819921364290135585215750004534-6512-9972-1792055289.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=I29-ukDQ3svlIyltC_C18w",
+      "link": "https://vnexpress.net/den-kyoto-mua-thu-ngam-la-do-ben-nhung-con-duong-co-5132177.html",
+      "published_at": "Sat, 17 Oct 2026 09:00:00 +0700",
+      "createAt": "2026-10-17T02:00:00.000Z",
+      "thumbnail_blurhash": "LWINNUNHI;xY}ks,I@s,xaofoJW;"
+    },
+    {
+      "id": "https://vnexpress.net/tu-muu-sinh-den-vong-lao-ly-vi-dung-dien-danh-bat-thuy-san-5133248.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Từ mưu sinh đến vòng lao lý vì dùng điện đánh bắt thủy sản",
+      "description": "Việc \"giăng lưới điện\" để đánh bắt cá, tôm trên sông không chỉ khiến người dân đối mặt mức phạt hàng chục triệu đồng mà còn có nguy cơ bị khởi tố với mức án cao nhất tới 10 năm tù.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/17/3-1792201969-2703-1792201985.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=MEL64spulCsighxp3enoFg",
+      "link": "https://vnexpress.net/tu-muu-sinh-den-vong-lao-ly-vi-dung-dien-danh-bat-thuy-san-5133248.html",
+      "published_at": "Sat, 17 Oct 2026 09:07:30 +0700",
+      "createAt": "2026-10-17T02:07:30.000Z",
+      "thumbnail_blurhash": "LkHLo7oet7t6_Nj[WBfkxuaeRkfk"
+    },
+    {
+      "id": "https://vnexpress.net/chay-lon-tai-co-so-massage-cu-o-tp-hcm-5133507.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Cháy lớn tại cơ sở massage cũ ở TP HCM",
+      "description": "Đám cháy bùng phát tại căn nhà ba tầng đang sửa chữa ở phường Tân Hưng, thiêu rụi nhiều đồ đạc bên trong, sáng 17/10.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/17/847997516303258702709825037155-1666-5097-1792210471.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=WWe25QSP_F20JnWdpzZB8Q",
+      "link": "https://vnexpress.net/chay-lon-tai-co-so-massage-cu-o-tp-hcm-5133507.html",
+      "published_at": "Sat, 17 Oct 2026 10:30:05 +0700",
+      "createAt": "2026-10-17T03:30:05.000Z",
+      "thumbnail_blurhash": "LDDJku_2-:%M9a-px[s._4xvxubI"
+    },
+    {
+      "id": "https://vnexpress.net/de-nghi-cong-khai-trach-nhiem-de-thieu-sach-giao-khoa-5133495.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Đề nghị công khai trách nhiệm để thiếu sách giáo khoa",
+      "description": "Ủy ban Thường vụ Quốc hội đề nghị Bộ Giáo dục và Đào tạo xác định rõ trách nhiệm tổ chức, cá nhân để xảy ra tình trạng thiếu sách giáo khoa năm học 2026-2027 và công khai kết quả xử lý.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/17/855e4f41fb537b0d2242-179220726-8467-3287-1792207291.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=EwjXqf95JiptuwS_rCQ5hQ",
+      "link": "https://vnexpress.net/de-nghi-cong-khai-trach-nhiem-de-thieu-sach-giao-khoa-5133495.html",
+      "published_at": "Sat, 17 Oct 2026 11:34:03 +0700",
+      "createAt": "2026-10-17T04:34:03.000Z",
+      "thumbnail_blurhash": "LME_$y~S-M$}^$xYIpR-W=j[WBay"
+    },
+    {
+      "id": "https://vnexpress.net/hon-100-nam-thang-tram-cua-hoa-sua-ha-noi-5132618.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Hơn 100 năm thăng trầm của hoa sữa Hà Nội",
+      "description": "Hoa sữa gắn với quá trình hình thành cảnh quan đô thị Hà Nội từ thời Pháp thuộc, dần quen thuộc với người dân song cũng gây bức xúc khi mật độ quá dày.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/17/wm1-wm1-1792213952-5991-1792213959.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=1Gbr9TzfTQH1I4OrI8uTdw",
+      "link": "https://vnexpress.net/hon-100-nam-thang-tram-cua-hoa-sua-ha-noi-5132618.html",
+      "published_at": "Sat, 17 Oct 2026 12:04:04 +0700",
+      "createAt": "2026-10-17T05:04:04.000Z",
+      "thumbnail_blurhash": "LGDv$2%LD%--~pxvD*oORY%LadRp"
+    },
+    {
+      "id": "https://vnexpress.net/chot-phuong-an-sap-nhap-cao-dang-trung-cap-dai-hoc-truc-thuoc-bo-giao-duc-va-dao-tao-nam-2026-5133533.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Sáp nhập loạt trường thuộc Bộ Giáo dục và Đào tạo",
+      "description": "Bộ Giáo dục và Đào tạo sẽ không còn quản lý trường cao đẳng, trung cấp nào từ năm 2027, còn 41 trường đại học sẽ được sắp xếp, sáp nhập trước ngày 1/4 năm sau.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/17/wm1-wm1-da-i-ho-c-su-pha-m-1792212-8938-6489-1792212784.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=lrbVTAVjZpPmLHBZg2XBrA",
+      "link": "https://vnexpress.net/chot-phuong-an-sap-nhap-cao-dang-trung-cap-dai-hoc-truc-thuoc-bo-giao-duc-va-dao-tao-nam-2026-5133533.html",
+      "published_at": "Sat, 17 Oct 2026 12:10:52 +0700",
+      "createAt": "2026-10-17T05:10:52.000Z",
+      "thumbnail_blurhash": "LKE{k5bt4nxv~WogtRf+?bbIxbt7"
+    },
+    {
+      "id": "https://vnexpress.net/sieu-xe-biet-bay-cung-co-kha-nang-tesla-spacex-sap-nhap-5133478.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Siêu xe biết bay củng cố khả năng Tesla - SpaceX sáp nhập",
+      "description": "Việc Tesla ra mắt xe có động cơ lấy cảm hứng từ tên lửa càng làm dấy lên đồn đoán về khả năng sáp nhập với SpaceX.",
+      "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/17/screenshot20261017092252-17922-9841-1275-1792204183.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=nRovyaNww2aPI3L9gvt56A",
+      "link": "https://vnexpress.net/sieu-xe-biet-bay-cung-co-kha-nang-tesla-spacex-sap-nhap-5133478.html",
+      "published_at": "Sat, 17 Oct 2026 12:16:43 +0700",
+      "createAt": "2026-10-17T05:16:43.000Z",
+      "thumbnail_blurhash": "LD9j=ofl00t800kD~qWA=uaeI=oL"
+    },
+    {
+      "id": "https://vnexpress.net/hau-truong-vu-sa-thai-phat-ngon-vien-chop-nhoang-cua-ong-trump-5133497.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Hậu trường vụ sa thải phát ngôn viên chớp nhoáng của ông Trump",
+      "description": "Được ông Trump lựa chọn để đối phó truyền thông trước bầu cử giữa kỳ, Katie Zacharia lại nhanh chóng mất chức vì màn ra mắt \"thảm họa\" và quy trình thẩm tra lý lịch gần như bị bỏ qua.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/17/ap26286587819181-1792205538-3852-1792205970.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=I4X-Dk7jN7BAmbfWweR7gA",
+      "link": "https://vnexpress.net/hau-truong-vu-sa-thai-phat-ngon-vien-chop-nhoang-cua-ong-trump-5133497.html",
+      "published_at": "Sat, 17 Oct 2026 12:16:58 +0700",
+      "createAt": "2026-10-17T05:16:58.000Z",
+      "thumbnail_blurhash": "LJBzFJr:_4-U_3ITt7t6o}IUazt7"
+    }
+  ]
 }
