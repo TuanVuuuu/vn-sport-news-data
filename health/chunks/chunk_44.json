@@ -544,5 +544,31 @@
     "published_at": "Sat, 17 Oct 2026 17:00:00 +0700",
     "createAt": "2026-10-17T10:00:00.000Z",
     "thumbnail_blurhash": "LLH2N8_4~q_4V@%2M{IU?bxvMxRj"
+  },
+  {
+    "id": "https://vnexpress.net/vi-sao-ung-thu-gan-tai-viet-nam-co-ty-le-tu-vong-cao-5133631.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Vì sao ung thư gan tại Việt Nam có tỷ lệ tử vong cao?",
+    "description": "Phần lớn bệnh nhân ung thư gan Việt Nam được phát hiện khi bệnh đã tiến triển, trên nền gan tổn thương do viêm mạn tính hoặc xơ, khiến lựa chọn điều trị bị hạn chế và tiên lượng kém hơn.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/17/anh-xa-tri-tai-trung-tam-ung-b-3240-2823-1792229678.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=6rOtjMNgCr-zcdMo3spw_A",
+    "link": "https://vnexpress.net/vi-sao-ung-thu-gan-tai-viet-nam-co-ty-le-tu-vong-cao-5133631.html",
+    "published_at": "Sat, 17 Oct 2026 18:55:31 +0700",
+    "createAt": "2026-10-17T11:55:31.000Z",
+    "thumbnail_blurhash": "LQJc5|XS$L%h*0%Nbxi_M^t5xvRj"
+  },
+  {
+    "id": "https://vnexpress.net/mac-sui-mao-ga-o-mi-mat-5133654.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Mắc sùi mào gà ở mí mắt",
+    "description": "Thúy, 21 tuổi, sinh viên năm thứ tư ở Hà Nội nhầm nốt mụn ở mí mắt thành nốt lẹo nên tự chích và đắp lá, sau đó gặp biến chứng.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/17/sui-mao-ga-o-mi-mat-1792234819-1689-1792235036.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=_H8z-PJzoqThcSTSFjm8nQ",
+    "link": "https://vnexpress.net/mac-sui-mao-ga-o-mi-mat-5133654.html",
+    "published_at": "Sat, 17 Oct 2026 19:00:00 +0700",
+    "createAt": "2026-10-17T12:00:00.000Z",
+    "thumbnail_blurhash": "LAJ%|Es:00~Bgi_34oZ~yDRiRPkC"
   }
 ]
