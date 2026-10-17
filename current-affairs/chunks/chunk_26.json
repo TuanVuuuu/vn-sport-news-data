@@ -713,5 +713,57 @@
     "published_at": "Sat, 17 Oct 2026 07:19:46 +0700",
     "createAt": "2026-10-17T00:19:46.000Z",
     "thumbnail_blurhash": null
+  },
+  {
+    "id": "https://vnexpress.net/khai-mac-ky-hop-quoc-hoi-cuoi-nam-5133395.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Khai mạc kỳ họp Quốc hội cuối năm",
+    "description": "Sáng 17/10, Quốc hội khóa 16 khai mạc kỳ họp thứ hai, nghe Thủ tướng báo cáo kinh tế - xã hội và bắt đầu xem xét, cho ý kiến các dự án luật.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/17/171020260808-g5347417357753378-9835-1596-1792203196.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=7vCMu5dohYhfttQc165UXQ",
+    "link": "https://vnexpress.net/khai-mac-ky-hop-quoc-hoi-cuoi-nam-5133395.html",
+    "published_at": "Sat, 17 Oct 2026 01:00:00 +0700",
+    "createAt": "2026-10-16T18:00:00.000Z",
+    "thumbnail_blurhash": "LLIXKjo|j=%1.mVtozof$2ozbcoJ"
+  },
+  {
+    "id": "https://vnexpress.net/de-nghi-lap-bien-bao-de-xu-phat-loi-khoang-cach-tren-16-cao-toc-5133397.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Đề nghị lắp biển báo để xử phạt lỗi khoảng cách trên 16 cao tốc",
+    "description": "Cục Cảnh sát giao thông đề nghị lắp biển báo, kẻ vạch tại 77 vị trí trên 16 cao tốc để xử phạt tài xế vi phạm quy định về khoảng cách an toàn.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/16/12-jpg-1792156964-7164-1792157406.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=3QgT1_evLygANLVMXzKHHg",
+    "link": "https://vnexpress.net/de-nghi-lap-bien-bao-de-xu-phat-loi-khoang-cach-tren-16-cao-toc-5133397.html",
+    "published_at": "Sat, 17 Oct 2026 06:00:00 +0700",
+    "createAt": "2026-10-16T23:00:00.000Z",
+    "thumbnail_blurhash": "L:Lg|eo#WBt7?wxaWVof-=WVj@ju"
+  },
+  {
+    "id": "https://vnexpress.net/vu-be-trai-nga-tu-vong-o-san-truong-khong-co-dau-hieu-toi-pham-5133447.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Vụ bé trai ngã tử vong ở sân trường 'không có dấu hiệu tội phạm'",
+    "description": "Qua khám nghiệm hiện trường, giám định pháp y, Công an Hải Phòng bước đầu xác định vụ học sinh lớp 1 ngã ở sân Trường Tiểu học An Dương không có dấu hiệu tội phạm.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/16/1792109308590-1993428671226091-2894-8354-1792109614.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=VN7kACCvRNzNIThxS4KqEA",
+    "link": "https://vnexpress.net/vu-be-trai-nga-tu-vong-o-san-truong-khong-co-dau-hieu-toi-pham-5133447.html",
+    "published_at": "Sat, 17 Oct 2026 07:19:46 +0700",
+    "createAt": "2026-10-17T00:19:46.000Z",
+    "thumbnail_blurhash": "LSEx|pMc%#WC~WVrT0ayx]f5oMja"
+  },
+  {
+    "id": "https://vnexpress.net/thu-tuong-phan-dau-hoan-thanh-176-000-can-nha-o-xa-hoi-cho-thue-nam-2027-5133467.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Thủ tướng: Phấn đấu hoàn thành 176.000 căn nhà ở xã hội, cho thuê năm 2027",
+    "description": "Thủ tướng Lê Minh Hưng cho biết sẽ đẩy nhanh phát triển nhà ở xã hội, nhà ở cho thuê, phấn đấu hoàn thành 176.000 căn hộ trong năm 2027.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/17/thu-tu-o-ng-1792204247-1574-1792204265.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=p9Wpz7ZfevvJcl0RgIoB1Q",
+    "link": "https://vnexpress.net/thu-tuong-phan-dau-hoan-thanh-176-000-can-nha-o-xa-hoi-cho-thue-nam-2027-5133467.html",
+    "published_at": "Sat, 17 Oct 2026 09:31:05 +0700",
+    "createAt": "2026-10-17T02:31:05.000Z",
+    "thumbnail_blurhash": "LUIgJb~A$w$w~7-TNdWBIqR*s:j]"
   }
 ]

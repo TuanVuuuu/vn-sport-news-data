@@ -284,5 +284,31 @@
     "published_at": "Sat, 17 Oct 2026 08:00:00 +0700",
     "createAt": "2026-10-17T01:00:00.000Z",
     "thumbnail_blurhash": "LFL}NtD~.8E2?wXUo#MwnMWI%NIT"
+  },
+  {
+    "id": "https://vnexpress.net/7-thuc-pham-an-sang-giau-kali-tot-cho-huyet-ap-5133451.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "7 thực phẩm ăn sáng giàu kali tốt cho huyết áp",
+    "description": "Chuối, khoai lang và quả bơ cung cấp kali, có thể giúp cân bằng tác động của natri, góp phần duy trì huyết áp ổn định và hỗ trợ sức khỏe tim mạch.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/17/cha-o-da-u-1792195679-6223-1792195847.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=ZyzyERcMtTHkNVHS3gwiuw",
+    "link": "https://vnexpress.net/7-thuc-pham-an-sang-giau-kali-tot-cho-huyet-ap-5133451.html",
+    "published_at": "Sat, 17 Oct 2026 09:00:00 +0700",
+    "createAt": "2026-10-17T02:00:00.000Z",
+    "thumbnail_blurhash": "LND9YHotof%K~n%Lxtxst2x[tQxu"
+  },
+  {
+    "id": "https://vnexpress.net/thu-pham-gay-hat-xi-lien-tuc-vao-buoi-sang-5133231.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Thủ phạm gây hắt xì liên tục vào buổi sáng",
+    "description": "Hắt xì liên tục khi thức dậy có thể liên quan đến dị ứng phấn hoa và mạt bụi hoặc do viêm xoang, trào ngược dạ dày.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/16/434222442-n-1792137703-7663-1792143517.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=toOfzRHnbmPLWCVH8Tpa5g",
+    "link": "https://vnexpress.net/thu-pham-gay-hat-xi-lien-tuc-vao-buoi-sang-5133231.html",
+    "published_at": "Sat, 17 Oct 2026 09:00:00 +0700",
+    "createAt": "2026-10-17T02:00:00.000Z",
+    "thumbnail_blurhash": "L17UPEy=2z~g.mPCTfl801$_~WTK"
   }
 ]
