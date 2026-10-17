@@ -1246,5 +1246,31 @@
     "published_at": "Sat, 17 Oct 2026 23:37:24 +0700",
     "createAt": "2026-10-17T16:37:24.000Z",
     "thumbnail_blurhash": "L4BMJmY8005O_Lob[CtS00it~qtn"
+  },
+  {
+    "id": "https://vnexpress.net/nhung-nguoi-cong-hoa-tach-minh-khoi-ong-trump-truoc-bau-cu-giua-ky-5132479.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Những người Cộng hòa 'tách mình khỏi ông Trump' trước bầu cử giữa kỳ",
+    "description": "Trước nguy cơ thất thế trong bầu cử giữa kỳ, nhiều ứng viên Cộng hòa bắt đầu tách mình khỏi các chính sách gây tranh cãi của Tổng thống Trump để giữ cơ hội chiến thắng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/15/ap26287067338152-1792039312-3463-1792040345.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=mZuiI9zbuiubnBY6fAv3Qw",
+    "link": "https://vnexpress.net/nhung-nguoi-cong-hoa-tach-minh-khoi-ong-trump-truoc-bau-cu-giua-ky-5132479.html",
+    "published_at": "Sun, 18 Oct 2026 00:00:00 +0700",
+    "createAt": "2026-10-17T17:00:00.000Z",
+    "thumbnail_blurhash": "LCBfhWMx-Btl}[-UtQnOn3%1IpRP"
+  },
+  {
+    "id": "https://vnexpress.net/loat-don-vi-tien-tuyen-ukraine-doi-mat-song-chet-vi-han-che-starlink-5133475.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Loạt đơn vị tiền tuyến Ukraine đối mặt sống chết vì hạn chế Starlink",
+    "description": "Hạn chế Starlink lập tức gây ảnh hưởng đến nhiều đơn vị tiền tuyến Ukraine, khiến họ khó liên lạc với sở chỉ huy hay đối phó UAV Nga.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/17/5563187178137269543a-179220587-4934-2062-1792206123.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=IgdrJUhfX0vHEh4JI5xbiw",
+    "link": "https://vnexpress.net/loat-don-vi-tien-tuyen-ukraine-doi-mat-song-chet-vi-han-che-starlink-5133475.html",
+    "published_at": "Sun, 18 Oct 2026 01:00:00 +0700",
+    "createAt": "2026-10-17T18:00:00.000Z",
+    "thumbnail_blurhash": "LAEBmb=cxF]k}=V@J6NZSeofS$I:"
   }
 ]
