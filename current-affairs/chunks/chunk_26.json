@@ -687,5 +687,31 @@
     "published_at": "Sat, 17 Oct 2026 06:00:00 +0700",
     "createAt": "2026-10-16T23:00:00.000Z",
     "thumbnail_blurhash": "L:Lg|eo#WBt7?wxaWVof-=WVj@ju"
+  },
+  {
+    "id": "https://vnexpress.net/dong-nai-van-hanh-250-camera-ai-de-phat-nguoi-5133386.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Đồng Nai vận hành 250 camera AI để phạt nguội",
+    "description": "Công an Đồng Nai đưa vào hệ thống 762 camera trên các tuyến đường, địa bàn trọng điểm để ghi nhận vi phạm giao thông.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/16/2aOboR5w10gTT6mahQuPLNHYtPEn86-3423-8598-1792153665.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ea0mxjDJjS2gUX8-jA3cpA",
+    "link": "https://vnexpress.net/dong-nai-van-hanh-250-camera-ai-de-phat-nguoi-5133386.html",
+    "published_at": "Sat, 17 Oct 2026 07:00:00 +0700",
+    "createAt": "2026-10-17T00:00:00.000Z",
+    "thumbnail_blurhash": "LGLEA;X:02Di_N%0M}NH.8-p-.R*"
+  },
+  {
+    "id": "https://vnexpress.net/be-trai-nga-tu-vong-o-san-truong-khong-co-dau-hieu-toi-pham-5133447.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Bé trai ngã tử vong ở sân trường 'không có dấu hiệu tội phạm'",
+    "description": "Công an Hải Phòng bước đầu xác định học sinh lớp 1 ngã tử vong ở sân Trường Tiểu học An Dương không có dấu hiệu tội phạm.",
+    "thumbnail_url": null,
+    "link": "https://vnexpress.net/be-trai-nga-tu-vong-o-san-truong-khong-co-dau-hieu-toi-pham-5133447.html",
+    "published_at": "Sat, 17 Oct 2026 07:19:46 +0700",
+    "createAt": "2026-10-17T00:19:46.000Z",
+    "thumbnail_blurhash": null
   }
 ]
