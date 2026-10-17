@@ -1090,5 +1090,31 @@
     "published_at": "Sat, 17 Oct 2026 10:34:36 +0700",
     "createAt": "2026-10-17T03:34:36.000Z",
     "thumbnail_blurhash": "LbL2@W~9-4$$}=xZNHWCoIR+I[WX"
+  },
+  {
+    "id": "https://vnexpress.net/my-tham-hut-ngan-sach-gan-2-000-ty-usd-5133506.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Mỹ thâm hụt ngân sách gần 2.000 tỷ USD",
+    "description": "Mỹ khép lại tài khóa 2026 với mức thâm hụt ngân sách cao nhất 5 năm và cao thứ 3 lịch sử nước này.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/17/usdreuters-1792209229-8777-1792209263.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=P0pStAHaICV7Zqs-IUziJA",
+    "link": "https://vnexpress.net/my-tham-hut-ngan-sach-gan-2-000-ty-usd-5133506.html",
+    "published_at": "Sat, 17 Oct 2026 11:47:09 +0700",
+    "createAt": "2026-10-17T04:47:09.000Z",
+    "thumbnail_blurhash": "L8Ir1x_200W,~BM_9ZJ74Togo%RQ"
+  },
+  {
+    "id": "https://vnexpress.net/sieu-xe-biet-bay-cung-co-kha-nang-tesla-spacex-sap-nhap-5133478.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Siêu xe biết bay củng cố khả năng Tesla - SpaceX sáp nhập",
+    "description": "Việc Tesla ra mắt xe có động cơ lấy cảm hứng từ tên lửa càng làm dấy lên đồn đoán về khả năng sáp nhập với SpaceX.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/17/screenshot20261017092252-17922-9841-1275-1792204183.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=nRovyaNww2aPI3L9gvt56A",
+    "link": "https://vnexpress.net/sieu-xe-biet-bay-cung-co-kha-nang-tesla-spacex-sap-nhap-5133478.html",
+    "published_at": "Sat, 17 Oct 2026 12:16:43 +0700",
+    "createAt": "2026-10-17T05:16:43.000Z",
+    "thumbnail_blurhash": "LD9j=ofl00t800kD~qWA=uaeI=oL"
   }
 ]

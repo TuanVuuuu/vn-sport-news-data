@@ -323,5 +323,31 @@
     "published_at": "Sat, 17 Oct 2026 08:00:00 +0700",
     "createAt": "2026-10-17T01:00:00.000Z",
     "thumbnail_blurhash": "LBFrCP000f~V%fs9Rnxu00~U%2NH"
+  },
+  {
+    "id": "https://vnexpress.net/nhieu-nguoi-ban-nha-de-thoat-ganh-nang-lai-vay-5132650.html",
+    "category_id": "real-estate",
+    "category_name": "Bất động sản",
+    "source": "VnExpress",
+    "title": "Nhiều người bán nhà để thoát gánh nặng lãi vay",
+    "description": "Hết thời gian hỗ trợ lãi suất, nhiều người vay mua nhà phải bán tài sản, chuyển sang căn nhỏ hơn hoặc xa trung tâm để giảm áp lực khi lãi suất thả nổi tăng cao.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/17/nha197be318ea76-b509c76c7c539-2974-4036-1792213670.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=MSS62_L3zu12j3bQP8mT8Q",
+    "link": "https://vnexpress.net/nhieu-nguoi-ban-nha-de-thoat-ganh-nang-lai-vay-5132650.html",
+    "published_at": "Sat, 17 Oct 2026 05:00:00 +0700",
+    "createAt": "2026-10-16T22:00:00.000Z",
+    "thumbnail_blurhash": "LOFF~iD%Intm_NIqnixun,ogWCay"
+  },
+  {
+    "id": "https://vnexpress.net/he-sinh-thai-tien-ich-cua-bcons-aria-5133535.html",
+    "category_id": "real-estate",
+    "category_name": "Bất động sản",
+    "source": "VnExpress",
+    "title": "Hệ sinh thái tiện ích của Bcons Aria",
+    "description": "Bcons Aria nằm gần khu Đại học Quốc gia TP HCM, các cơ sở y tế, giáo dục và khu công nghệ, đồng thời được quy hoạch hệ thống tiện ích nội khu phục vụ nhu cầu sinh hoạt của cư dân.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/17/poqs-1792211253-2583-1792211335.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=_ozd9SOoXENrqKsQKvVgAw",
+    "link": "https://vnexpress.net/he-sinh-thai-tien-ich-cua-bcons-aria-5133535.html",
+    "published_at": "Sat, 17 Oct 2026 12:00:00 +0700",
+    "createAt": "2026-10-17T05:00:00.000Z",
+    "thumbnail_blurhash": "LoIZ3XkCDhof?wt6W9kC#RWBR*jY"
   }
 ]
