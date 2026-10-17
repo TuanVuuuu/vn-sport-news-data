@@ -921,5 +921,31 @@
     "published_at": "Sat, 17 Oct 2026 09:00:00 +0700",
     "createAt": "2026-10-17T02:00:00.000Z",
     "thumbnail_blurhash": "LFD]l6rW4-D*_4adVq=|8wXnMx-p"
+  },
+  {
+    "id": "https://vnexpress.net/the-gioi-se-thay-giay-nhuan-bang-gio-nhuan-5133305.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Thế giới sẽ thay 'giây nhuận' bằng 'giờ nhuận'",
+    "description": "Chính phủ các nước đã bỏ phiếu bỏ dùng giây nhuận và thay thế bằng giờ nhuận khi cần đồng bộ thời gian.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/16/VNETime-1792142653-1636-1792142743.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=UBuKUNrk2X3rSuYUI7qBKA",
+    "link": "https://vnexpress.net/the-gioi-se-thay-giay-nhuan-bang-gio-nhuan-5133305.html",
+    "published_at": "Sat, 17 Oct 2026 10:00:00 +0700",
+    "createAt": "2026-10-17T03:00:00.000Z",
+    "thumbnail_blurhash": "LYGRk,~VMdq@WAWBbIbbMcROtSx^"
+  },
+  {
+    "id": "https://vnexpress.net/may-tinh-apple-1-duoc-dau-gia-1-15-trieu-usd-5132892.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Máy tính Apple-1 được đấu giá 1,15 triệu USD",
+    "description": "Một máy tính Apple-1 nguyên bản năm 1976 đi kèm chữ ký của Steve Wozniak và thư tay của Steve Jobs được đấu giá thành công với mức kỷ lục 1.148.200 USD.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/15/apple-bonhams-1792070256-3036-1792070262.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=w6UwCI5HGLuZRzSlaM1CVA",
+    "link": "https://vnexpress.net/may-tinh-apple-1-duoc-dau-gia-1-15-trieu-usd-5132892.html",
+    "published_at": "Sat, 17 Oct 2026 10:00:00 +0700",
+    "createAt": "2026-10-17T03:00:00.000Z",
+    "thumbnail_blurhash": "LhPjDSoz%M%M?cRjofxu~qRjIUoL"
   }
 ]
