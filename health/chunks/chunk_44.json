@@ -505,5 +505,44 @@
     "published_at": "Sat, 17 Oct 2026 16:00:00 +0700",
     "createAt": "2026-10-17T09:00:00.000Z",
     "thumbnail_blurhash": "LHK1zeod00I8yYNH9Fxt_N?aj]o#"
+  },
+  {
+    "id": "https://vnexpress.net/dau-hieu-canh-bao-thoai-hoa-diem-vang-tuoi-gia-5133482.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Dấu hiệu cảnh báo thoái hóa điểm vàng tuổi già",
+    "description": "Hình ảnh ở giữa tầm nhìn bị mờ, đường thẳng thành cong hoặc xuất hiện điểm tối trước mắt có thể là dấu hiệu thoái điểm vàng tuổi già thể ướt.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/17/nhin-mo11-1792204471-2436-1792204488.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=v0mEu-fx_tzVE55Z9usoug",
+    "link": "https://vnexpress.net/dau-hieu-canh-bao-thoai-hoa-diem-vang-tuoi-gia-5133482.html",
+    "published_at": "Sat, 17 Oct 2026 17:00:00 +0700",
+    "createAt": "2026-10-17T10:00:00.000Z",
+    "thumbnail_blurhash": "LEDI%i,U0f?HSi$%~B-nI;xt$%WB"
+  },
+  {
+    "id": "https://vnexpress.net/dau-hieu-loet-da-day-5133316.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Dấu hiệu loét dạ dày",
+    "description": "Loét dạ dày là vết loét hở hoặc tổn thương ở niêm mạc dạ dày, thường gây buồn nôn, đau bụng, chán ăn, nếu không được điều trị có thể gây biến chứng.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/16/434211517-n-1792143204-5501-1792143332.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=FYyuwbRZpw0tPu04VEMm6w",
+    "link": "https://vnexpress.net/dau-hieu-loet-da-day-5133316.html",
+    "published_at": "Sat, 17 Oct 2026 17:00:00 +0700",
+    "createAt": "2026-10-17T10:00:00.000Z",
+    "thumbnail_blurhash": "LgEyD5%2~pxtxZxZt7oJNyofozf+"
+  },
+  {
+    "id": "https://vnexpress.net/cach-an-hat-chia-giup-bo-sung-protein-cho-co-the-5132971.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Cách ăn hạt chia giúp bổ sung protein cho cơ thể",
+    "description": "Hạt chia ngâm nở có thể trộn vào sữa chua, yến mạch hoặc ăn kèm hạnh nhân, hạt óc chó, hạt bí để bổ sung protein thực vật và chất xơ.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/16/ha-t-chia-jpeg-1792113540-7809-1792113550.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=057RBkyARi9OiD7Udiq_rg",
+    "link": "https://vnexpress.net/cach-an-hat-chia-giup-bo-sung-protein-cho-co-the-5132971.html",
+    "published_at": "Sat, 17 Oct 2026 17:00:00 +0700",
+    "createAt": "2026-10-17T10:00:00.000Z",
+    "thumbnail_blurhash": "LLH2N8_4~q_4V@%2M{IU?bxvMxRj"
   }
 ]
