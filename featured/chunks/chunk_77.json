@@ -102,5 +102,70 @@
     "published_at": "Sun, 18 Oct 2026 16:11:58 +0700",
     "createAt": "2026-10-18T09:11:58.000Z",
     "thumbnail_blurhash": "L~JR%L%MRjbH_Nt7aekCx]bEkCoz"
+  },
+  {
+    "id": "https://vnexpress.net/bac-si-canh-bao-dau-hieu-nao-mo-cau-de-bi-bo-sot-5133744.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Bác sĩ cảnh báo dấu hiệu não mô cầu dễ bị bỏ sót",
+    "description": "Bệnh não mô cầu có thể khởi phát với triệu chứng giống cúm nhưng người bệnh sốt cao, lừ đừ, bơ phờ ngay từ những giờ đầu là dấu hiệu cần đặc biệt lưu ý.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/18/na-o-mo-ca-u-tre-1792293583-3246-1792293724.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=QkcI0ExBJjXO1cHjVQ7OdA",
+    "link": "https://vnexpress.net/bac-si-canh-bao-dau-hieu-nao-mo-cau-de-bi-bo-sot-5133744.html",
+    "published_at": "Sun, 18 Oct 2026 12:00:00 +0700",
+    "createAt": "2026-10-18T05:00:00.000Z",
+    "thumbnail_blurhash": "LEIqor-N57%#%j4nxU%NEnIn-nxu"
+  },
+  {
+    "id": "https://vnexpress.net/truyen-thong-the-gioi-nga-mu-truoc-tuyet-pham-cua-yamal-5133849.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Truyền thông thế giới 'ngả mũ' trước tuyệt phẩm của Yamal",
+    "description": "Lamine Yamal được báo chí Tây Ban Nha và quốc tế ca ngợi sau cú cứa lòng mở tỷ số trong trận Barca thắng Betis 5-2 ở vòng 9 La Liga.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/10/18/Yamal-1792314250-4106-1792314260.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=OHlwjLZ8euC0hluw-02ulQ&t=image",
+    "link": "https://vnexpress.net/truyen-thong-the-gioi-nga-mu-truoc-tuyet-pham-cua-yamal-5133849.html",
+    "published_at": "Sun, 18 Oct 2026 16:14:59 +0700",
+    "createAt": "2026-10-18T09:14:59.000Z",
+    "thumbnail_blurhash": "LHFGmithnO-oz+V]nixH#HjJozWX"
+  },
+  {
+    "id": "https://vnexpress.net/luong-tang-2-trieu-dong-nhung-chi-phi-thiet-yeu-tang-3-trieu-5133845.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "'Lương tăng 2 triệu đồng nhưng chi phí thiết yếu tăng 3 triệu'",
+    "description": "Đại biểu Châu Quỳnh Dao cho rằng nhiều gia đình phản ánh tăng thu nhập 1,5-2 triệu đồng nhờ điều chỉnh lương, nhưng chi phí ăn ở, giáo dục, y tế tăng 2-3 triệu đồng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/18/202608061624094282-z8123003301-9994-8817-1792316424.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=GIn3KHhCyo_3nXVmcgCZog",
+    "link": "https://vnexpress.net/luong-tang-2-trieu-dong-nhung-chi-phi-thiet-yeu-tang-3-trieu-5133845.html",
+    "published_at": "Sun, 18 Oct 2026 17:03:13 +0700",
+    "createAt": "2026-10-18T10:03:13.000Z",
+    "thumbnail_blurhash": "LBL{SM5aHX0z_}xu?vi^x^JAE1WA"
+  },
+  {
+    "id": "https://vnexpress.net/ngan-hang-nha-nuoc-yeu-cau-giam-it-nhat-0-5-lai-suat-tiet-kiem-5133861.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Ngân hàng Nhà nước yêu cầu giảm ít nhất 0,5% lãi suất tiết kiệm",
+    "description": "Ngân hàng Nhà nước yêu cầu các nhà băng phải giảm ít nhất 0,5% lãi suất tiền gửi kỳ hạn từ 6 tháng, nếu không sẽ bị siết chỉ tiêu tăng trưởng tín dụng.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/18/huy-1792317368-7807-1792317616.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ZHSsP34pllUQ5FCpfIXhRw",
+    "link": "https://vnexpress.net/ngan-hang-nha-nuoc-yeu-cau-giam-it-nhat-0-5-lai-suat-tiet-kiem-5133861.html",
+    "published_at": "Sun, 18 Oct 2026 17:33:09 +0700",
+    "createAt": "2026-10-18T10:33:09.000Z",
+    "thumbnail_blurhash": "L$JI9DbbE1xu_NofM{t7x]a~aej?"
+  },
+  {
+    "id": "https://vnexpress.net/dao-dien-trai-buon-nguoi-doanh-thu-450-ty-dong-vuot-tuong-tuong-5133878.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Đạo diễn 'Trại buôn người': Doanh thu 450 tỷ đồng vượt tưởng tượng",
+    "description": "Đạo diễn Bảo Anh nói khi làm \"Trại buôn người\" chỉ mong huề vốn, không nghĩ đến ngày phim vượt 450 tỷ đồng, có hơn 5,3 triệu lượt xem.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/10/18/dao-dien-trai-buon-nguoi-17923-5700-6018-1792319421.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=mxNL5E6GAyN9X38393nlHw",
+    "link": "https://vnexpress.net/dao-dien-trai-buon-nguoi-doanh-thu-450-ty-dong-vuot-tuong-tuong-5133878.html",
+    "published_at": "Sun, 18 Oct 2026 17:35:11 +0700",
+    "createAt": "2026-10-18T10:35:11.000Z",
+    "thumbnail_blurhash": "LWI;w^-;~pkBadE1RjxuNZoeMxax"
   }
 ]
