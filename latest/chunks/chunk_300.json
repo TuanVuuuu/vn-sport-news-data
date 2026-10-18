@@ -518,5 +518,31 @@
     "published_at": "Mon, 19 Oct 2026 00:21:49 +0700",
     "createAt": "2026-10-18T17:21:49.000Z",
     "thumbnail_blurhash": "LDGup].T9ExS^Fe7-;.9IoxUrro#"
+  },
+  {
+    "id": "https://vnexpress.net/suc-khoe/cam-nang/benh-do-nao-mo-cau-458",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Bệnh do não mô cầu",
+    "description": "Bệnh do não mô cầu là bệnh nhiễm vi khuẩn cấp tính, tiến triển nặng nhanh chóng dẫn đến nhiễm trùng máu và viêm màng não.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/18/2-4575-1792293016.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=VlNKw7NMxHzOYPb9_oLijA",
+    "link": "https://vnexpress.net/suc-khoe/cam-nang/benh-do-nao-mo-cau-458",
+    "published_at": "Mon, 19 Oct 2026 01:00:00 +0700",
+    "createAt": "2026-10-18T18:00:00.000Z",
+    "thumbnail_blurhash": "LLHowsEl_M4p~q-._1D*?b?axaog"
+  },
+  {
+    "id": "https://vnexpress.net/nhung-dieu-can-biet-ve-benh-than-5128201.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Những điều cần biết về bệnh thận",
+    "description": "Bệnh thận thường tiến triển âm thầm, ảnh hưởng đến khả năng lọc chất thải, xét nghiệm máu, nước tiểu giúp xác định tổn thương, điều trị tùy vào nguyên nhân.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/04/huye-t-a-p-quy-nh-tra-n-179108-1579-6959-1791088752.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=iB3wmd5vDyKOxLeXlWoymQ",
+    "link": "https://vnexpress.net/nhung-dieu-can-biet-ve-benh-than-5128201.html",
+    "published_at": "Mon, 19 Oct 2026 01:00:00 +0700",
+    "createAt": "2026-10-18T18:00:00.000Z",
+    "thumbnail_blurhash": "LLJHzJcHx_?b_3WYIURj~X_2t6IV"
   }
 ]
