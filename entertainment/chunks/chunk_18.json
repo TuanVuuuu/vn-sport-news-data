@@ -843,5 +843,31 @@
     "published_at": "Sun, 18 Oct 2026 11:11:17 +0700",
     "createAt": "2026-10-18T04:11:17.000Z",
     "thumbnail_blurhash": "L7MPkIyv00yo0M9FkpXR0Mr__Nwi"
+  },
+  {
+    "id": "https://vnexpress.net/concert-1-bung-no-cua-anh-trai-vuot-ngan-chong-gai-5133725.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Concert 1 bùng nổ của 'Anh trai vượt ngàn chông gai'",
+    "description": "33 nghệ sĩ diễn sung sức với các màn nhào lộn, đu dây trước 50.000 khán giả concert 1 \"Anh trai vượt ngàn chông gai 2026\", tối 17/10.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/10/18/0gn-1792287124.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=oY5bwDi4ZQ0mDpJPoTm7cQ",
+    "link": "https://vnexpress.net/concert-1-bung-no-cua-anh-trai-vuot-ngan-chong-gai-5133725.html",
+    "published_at": "Sun, 18 Oct 2026 09:29:38 +0700",
+    "createAt": "2026-10-18T02:29:38.000Z",
+    "thumbnail_blurhash": "L9Bxv5I=03}rNES3E+$g0hoe}=EN"
+  },
+  {
+    "id": "https://vnexpress.net/5-guong-mat-vao-chung-ket-model-kid-vietnam-5133239.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "5 gương mặt vào chung kết Model Kid Vietnam",
+    "description": "Vũ Bảo Nam, Trần Bảo Nam, Lâm Nhi, Hiểu Lam và Tuệ Lam - ứng viên quán quân Model Kid Vietnam 2026 -  được cha mẹ và giám khảo cổ vũ trước chung kết.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/10/16/2-Vu-Bao-Nam-Jacob-tro-tai-ao-thuat-tai-vong-thi-Be-tai-nang-cua-casting-Model-Kid-Vietnam-2026-1792138747.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=OWMIPf4Gi3GC6b-AEPWqVw",
+    "link": "https://vnexpress.net/5-guong-mat-vao-chung-ket-model-kid-vietnam-5133239.html",
+    "published_at": "Sun, 18 Oct 2026 12:00:00 +0700",
+    "createAt": "2026-10-18T05:00:00.000Z",
+    "thumbnail_blurhash": "LTLzZ~%x?tJ5?@nSOWwOD+of$*NZ"
   }
 ]

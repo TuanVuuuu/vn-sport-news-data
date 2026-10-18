@@ -232,5 +232,31 @@
     "published_at": "Sun, 18 Oct 2026 11:00:00 +0700",
     "createAt": "2026-10-18T04:00:00.000Z",
     "thumbnail_blurhash": "LAC?+D~p%gozNGRk-:%2IURj%Lxu"
+  },
+  {
+    "id": "https://vnexpress.net/dua-nhip-cau-di-bo-3-400-tan-ve-trung-tam-tp-hcm-5133694.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Đưa nhịp cầu đi bộ 3.400 tấn về trung tâm TP HCM",
+    "description": "Kết cấu vòm thép cầu đi bộ qua sông Sài Gòn cùng khung đỡ nặng 3.400 tấn bắt đầu hành trình 124 km từ Vũng Tàu về trung tâm TP HCM, chuẩn bị hợp long ngày 21/10.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/17/179223790756858885862136654478-4221-4638-1792249368.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=z_rHzggkGbVSmSPEO6EgyA",
+    "link": "https://vnexpress.net/dua-nhip-cau-di-bo-3-400-tan-ve-trung-tam-tp-hcm-5133694.html",
+    "published_at": "Sun, 18 Oct 2026 00:00:00 +0700",
+    "createAt": "2026-10-17T17:00:00.000Z",
+    "thumbnail_blurhash": "L3Av|D%200X83Wx]4oxu$+Ip~Cae"
+  },
+  {
+    "id": "https://vnexpress.net/duong-vao-dai-hoc-cua-nam-sinh-mac-ung-thu-mat-tay-phai-5133056.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Đường vào đại học của nam sinh mắc ung thư, mất tay phải",
+    "description": "Lên bàn mổ cắt tay vào ngày khai giảng để chống chọi với ung thư xương, Vì Hùng Cường \"sống lại lần nữa\" khi đỗ trường Sư phạm với gần 26/30 điểm khối A00.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/17/img-1792142067-8322-1792224097.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=9MbLRrrJ3V4RiYVjHQWpRw",
+    "link": "https://vnexpress.net/duong-vao-dai-hoc-cua-nam-sinh-mac-ung-thu-mat-tay-phai-5133056.html",
+    "published_at": "Sun, 18 Oct 2026 00:02:00 +0700",
+    "createAt": "2026-10-17T17:02:00.000Z",
+    "thumbnail_blurhash": "LSFOruRk%Mxu~VV@ofofIps:WBae"
   }
 ]
