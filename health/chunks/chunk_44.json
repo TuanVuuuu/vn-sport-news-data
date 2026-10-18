@@ -817,5 +817,44 @@
     "published_at": "Sun, 18 Oct 2026 09:00:00 +0700",
     "createAt": "2026-10-18T02:00:00.000Z",
     "thumbnail_blurhash": "LDE_]9RP04N1^di$SPVt03W=};sl"
+  },
+  {
+    "id": "https://vnexpress.net/7-nguoi-tu-vong-do-nao-mo-cau-trong-hon-10-thang-5133684.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "7 người tử vong do não mô cầu trong hơn 10 tháng",
+    "description": "Miền Nam ghi nhận 42 ca não mô cầu từ đầu năm đến hết ngày 17/10, trong đó 7 người tử vong, khoảng 94% trường hợp nhiễm chủng nhóm B.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/17/wm1-wm1-233a7503-1792248297-3352-1792248567.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=zg3pyCMpKcpMrSrvB5KA9A",
+    "link": "https://vnexpress.net/7-nguoi-tu-vong-do-nao-mo-cau-trong-hon-10-thang-5133684.html",
+    "published_at": "Sun, 18 Oct 2026 10:00:00 +0700",
+    "createAt": "2026-10-18T03:00:00.000Z",
+    "thumbnail_blurhash": "LlKnYu~pxs%3-;xu%MRiV@RkayM{"
+  },
+  {
+    "id": "https://vnexpress.net/da-kho-co-de-sam-nam-5133701.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Da khô có dễ sạm nám?",
+    "description": "Da tôi khô, thường căng, bong nhẹ và dễ châm chích khi dùng mỹ phẩm. Gần đây, hai bên má xuất hiện những mảng nâu nhạt.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/17/co-che-hinh-thanh-nam-da-do-ti-2179-5261-1792251907.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=e_UtuMOJatgxUg9Z_cg3Tw",
+    "link": "https://vnexpress.net/da-kho-co-de-sam-nam-5133701.html",
+    "published_at": "Sun, 18 Oct 2026 10:00:00 +0700",
+    "createAt": "2026-10-18T03:00:00.000Z",
+    "thumbnail_blurhash": "LkQ[J]%2t:s=.8bFRPWFtTkBR5WC"
+  },
+  {
+    "id": "https://vnexpress.net/vi-sao-nguoi-lon-tuoi-de-kho-mat-5133683.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Vì sao người lớn tuổi dễ khô mắt?",
+    "description": "Lão hóa làm giảm lượng nước mắt, đồng thời một số bệnh lý, thuốc điều trị có thể khiến khô mắt ở người lớn tuổi nặng hơn.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/17/screenshot-1792245263-7880-1792245372.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=FRwX2WDKL5vgfGm70busQQ",
+    "link": "https://vnexpress.net/vi-sao-nguoi-lon-tuoi-de-kho-mat-5133683.html",
+    "published_at": "Sun, 18 Oct 2026 10:00:00 +0700",
+    "createAt": "2026-10-18T03:00:00.000Z",
+    "thumbnail_blurhash": "LQL}W=_MkW-;-.D%bYtR?Z01k8xt"
   }
 ]
