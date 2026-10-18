@@ -921,5 +921,57 @@
     "published_at": "Sun, 18 Oct 2026 12:00:00 +0700",
     "createAt": "2026-10-18T05:00:00.000Z",
     "thumbnail_blurhash": "LTI;^r%0%Mxt~ps.ad-p%MV@%2x["
+  },
+  {
+    "id": "https://vnexpress.net/ngung-uong-bia-ruou-co-het-gan-nhiem-mo-5133585.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Ngừng uống bia rượu có hết gan nhiễm mỡ?",
+    "description": "Gan nhiễm mỡ do rượu bia có thể hồi phục nếu phát hiện sớm và ngừng uống, nhưng tổn thương tiến triển thành xơ gan có thể không đảo ngược hoàn toàn.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/17/uo-ng-bia1-1792221733-9013-1792221839.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=bgtTKq-96ccbK9KXd3X2mg",
+    "link": "https://vnexpress.net/ngung-uong-bia-ruou-co-het-gan-nhiem-mo-5133585.html",
+    "published_at": "Sun, 18 Oct 2026 13:05:00 +0700",
+    "createAt": "2026-10-18T06:05:00.000Z",
+    "thumbnail_blurhash": "LEGk8s}pXB$f?H57E3xY0357acxa"
+  },
+  {
+    "id": "https://vnexpress.net/mach-mau-anh-huong-the-nao-den-sinh-ly-nam-5133704.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Mạch máu ảnh hưởng thế nào đến sinh lý nam",
+    "description": "Khi dòng máu lưu thông không tốt, chức năng sinh lý nam có thể bị ảnh hưởng, gây rối loạn cương.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/17/bac-si-benh-vien-da-khoa-tam-a-6794-3558-1792252548.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=Ipn3Uns-G6UAFjUiuM-Q9A",
+    "link": "https://vnexpress.net/mach-mau-anh-huong-the-nao-den-sinh-ly-nam-5133704.html",
+    "published_at": "Sun, 18 Oct 2026 14:00:00 +0700",
+    "createAt": "2026-10-18T07:00:00.000Z",
+    "thumbnail_blurhash": "LKMQec?cE0~o$]?uIV%MV=emR.oh"
+  },
+  {
+    "id": "https://vnexpress.net/khi-nao-nen-mo-tinh-hoan-an-cho-tre-5133636.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Khi nào nên mổ tinh hoàn ẩn cho trẻ?",
+    "description": "Con tôi 8 tháng tuổi, phát hiện tinh hoàn ẩn một bên. Trẻ ở tuổi này đã có thể phẫu thuật điều trị được chưa? (Thanh Hương, TP HCM)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/17/image001-1792242833-3662-1792243663.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=BYyncE55A_37T0VYsGz5Lw",
+    "link": "https://vnexpress.net/khi-nao-nen-mo-tinh-hoan-an-cho-tre-5133636.html",
+    "published_at": "Sun, 18 Oct 2026 14:00:00 +0700",
+    "createAt": "2026-10-18T07:00:00.000Z",
+    "thumbnail_blurhash": "LbH{Q#SgkV-:~lWAt8xuxUWCt7WZ"
+  },
+  {
+    "id": "https://vnexpress.net/4-cach-an-uong-giup-giam-hoi-mieng-5133608.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "4 cách ăn uống giúp giảm hôi miệng",
+    "description": "Ăn trái cây tươi, rau xanh, bổ sung thực phẩm giàu lợi khuẩn, duy trì bữa ăn đều đặn và hạn chế hành, tỏi có thể giúp giảm mùi hơi thở khó chịu.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/17/rau-cu-a-qua-1792224963-8900-1792229131.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=_TEsofQ7b9RRFxLpuA8SNw",
+    "link": "https://vnexpress.net/4-cach-an-uong-giup-giam-hoi-mieng-5133608.html",
+    "published_at": "Sun, 18 Oct 2026 14:00:00 +0700",
+    "createAt": "2026-10-18T07:00:00.000Z",
+    "thumbnail_blurhash": "LAG7#54q07?W$y4s%0~R05K5%G-T"
   }
 ]
