@@ -1064,5 +1064,31 @@
     "published_at": "Sun, 18 Oct 2026 10:00:48 +0700",
     "createAt": "2026-10-18T03:00:48.000Z",
     "thumbnail_blurhash": "LBDcs.00w~?a.KIUM#-;9F~p4n-q"
+  },
+  {
+    "id": "https://vnexpress.net/dung-thu-phi-hai-tram-bot-ben-thuy-trong-30-ngay-5133797.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Dừng thu phí hai trạm BOT Bến Thủy trong 30 ngày",
+    "description": "Cục Đường bộ Việt Nam yêu cầu dừng thu phí tại hai trạm BOT Bến Thủy từ 20/10, kéo dài 30 ngày, do nhiều đoạn đường hư hỏng chưa được khắc phục.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/18/tram-thu-phi-bot-ben-thuy-jpg-3992-6724-1792298405.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=YPhBM9xluqiwA4gGr5nM4g",
+    "link": "https://vnexpress.net/dung-thu-phi-hai-tram-bot-ben-thuy-trong-30-ngay-5133797.html",
+    "published_at": "Sun, 18 Oct 2026 12:04:29 +0700",
+    "createAt": "2026-10-18T05:04:29.000Z",
+    "thumbnail_blurhash": "LbIE|j-;ITWBE-tSM_WB_4t8s+s:"
+  },
+  {
+    "id": "https://vnexpress.net/noi-an-nghi-cua-vi-chua-nguyen-dau-tien-5133645.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Nơi an nghỉ của vị chúa Nguyễn đầu tiên",
+    "description": "Lăng Trường Cơ, nơi an nghỉ của chúa Nguyễn Hoàng, người đặt nền móng cho công cuộc mở cõi phương Nam, nằm ở thượng nguồn sông Hương, gần nơi hợp lưu hai nhánh Tả Trạch và Hữu Trạch.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/17/wm1-11_1792229647-1792229900-1792230100.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=SAEKt_1PBNeQ49e9pbas8A",
+    "link": "https://vnexpress.net/noi-an-nghi-cua-vi-chua-nguyen-dau-tien-5133645.html",
+    "published_at": "Sun, 18 Oct 2026 12:18:46 +0700",
+    "createAt": "2026-10-18T05:18:46.000Z",
+    "thumbnail_blurhash": "LCC@KDbp9:I.~pMzSbW.x[X3tPtQ"
   }
 ]
