@@ -232,5 +232,31 @@
     "published_at": "Mon, 19 Oct 2026 05:00:00 +0700",
     "createAt": "2026-10-18T22:00:00.000Z",
     "thumbnail_blurhash": "LiEy=CSks+t6PEt8jsog%jxVRkW="
+  },
+  {
+    "id": "https://vnexpress.net/chau-au-thanh-phep-thu-kha-nang-ton-tai-cua-hang-xe-trung-quoc-5133844.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Châu Âu thành phép thử khả năng tồn tại của hãng xe Trung Quốc",
+    "description": "Thị trường nội địa giảm tốc, hơn 100 hãng cạnh tranh khiến các nhà sản xuất Trung Quốc xem châu Âu là phép thử khả năng tồn tại.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/18/xpeng-g9l-paris-2026-messestan-2750-1201-1792313699.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ZyIHUnmak96DIxOelVZEBg",
+    "link": "https://vnexpress.net/chau-au-thanh-phep-thu-kha-nang-ton-tai-cua-hang-xe-trung-quoc-5133844.html",
+    "published_at": "Mon, 19 Oct 2026 06:00:00 +0700",
+    "createAt": "2026-10-18T23:00:00.000Z",
+    "thumbnail_blurhash": "L79tA+-@rp-?.8%2RNNE00RhIm9X"
+  },
+  {
+    "id": "https://vnexpress.net/xe-may-lao-nhu-tia-chop-vao-quay-ban-nuoc-5133860.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Xe máy lao như tia chớp vào quầy bán nước",
+    "description": "Xe máy lao lên vỉa hè rồi tông vào quầy bán nước, khiến người điều khiển cùng phương tiện ngã xuống đường.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/18/ezgif46cee8379b54df52-17923158-5922-9597-1792316084.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=OZDsrCQxoFEsd-tUbklIAQ&t=image",
+    "link": "https://vnexpress.net/xe-may-lao-nhu-tia-chop-vao-quay-ban-nuoc-5133860.html",
+    "published_at": "Mon, 19 Oct 2026 06:30:00 +0700",
+    "createAt": "2026-10-18T23:30:00.000Z",
+    "thumbnail_blurhash": "LFF$t+$wMv?v~VtmNLDi9aDjaiIU"
   }
 ]
