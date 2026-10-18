@@ -440,5 +440,31 @@
     "published_at": "Sun, 18 Oct 2026 09:00:00 +0700",
     "createAt": "2026-10-18T02:00:00.000Z",
     "thumbnail_blurhash": "LAEyGA_NH?idI9jY%hx]0LD*s,kq"
+  },
+  {
+    "id": "https://vnexpress.net/30-nam-ciputra-tu-vuon-trong-dao-den-cong-dong-da-quoc-tich-5133426.html",
+    "category_id": "real-estate",
+    "category_name": "Bất động sản",
+    "source": "VnExpress",
+    "title": "30 năm Ciputra: Từ vườn trồng đào đến cộng đồng đa quốc tịch",
+    "description": "Không chỉ chuyển đổi hàng trăm ha đất ven đô thành khu nhà ở, Ciputra còn phát triển cùng hệ thống trường học quốc tế, không gian xanh và hạ tầng kết nối, mở giai đoạn mới trong quy hoạch đô thị Hà Nội.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/17/v02-ci-masterplan-highres-1792-7368-7776-1792227212.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=TlPXucXZ6tRM2ioxTpLJgg",
+    "link": "https://vnexpress.net/30-nam-ciputra-tu-vuon-trong-dao-den-cong-dong-da-quoc-tich-5133426.html",
+    "published_at": "Sun, 18 Oct 2026 10:00:00 +0700",
+    "createAt": "2026-10-18T03:00:00.000Z",
+    "thumbnail_blurhash": "L48XXu?aD*R:*JIUM_xu0LMxs9t5"
+  },
+  {
+    "id": "https://vnexpress.net/chi-30-biet-thu-lien-ke-so-cap-co-nguoi-mua-5133703.html",
+    "category_id": "real-estate",
+    "category_name": "Bất động sản",
+    "source": "VnExpress",
+    "title": "Chỉ 30% biệt thự liền kề sơ cấp có người mua",
+    "description": "Nguồn cung biệt thự, liền kề sơ cấp tại Hà Nội tăng mạnh trong quý III, nhưng chỉ khoảng 30% số căn được thị trường hấp thụ do giá neo cao, theo CBRE.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/17/biet-thu-vung-ven-hn-jpeg-1792-5657-8454-1792254406.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=DWD_kC2RwxgLM61k9rUhkw",
+    "link": "https://vnexpress.net/chi-30-biet-thu-lien-ke-so-cap-co-nguoi-mua-5133703.html",
+    "published_at": "Sun, 18 Oct 2026 10:11:23 +0700",
+    "createAt": "2026-10-18T03:11:23.000Z",
+    "thumbnail_blurhash": "LHEf$tbEt6%M%$ofRjR*?wtRt7t8"
   }
 ]
