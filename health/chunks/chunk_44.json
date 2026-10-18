@@ -687,5 +687,70 @@
     "published_at": "Sun, 18 Oct 2026 07:00:00 +0700",
     "createAt": "2026-10-18T00:00:00.000Z",
     "thumbnail_blurhash": "L7HdZ|-o00:*P;vzquY6EnR6iu%g"
+  },
+  {
+    "id": "https://vnexpress.net/who-khan-cap-phong-dich-ebola-tren-3-chau-luc-5133723.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "WHO khẩn cấp phòng dịch Ebola trên 3 châu lục",
+    "description": "Tổ chức Y tế Thế giới (WHO) tăng mức độ sẵn sàng ứng phó bệnh Ebola tại 22 quốc gia và vùng lãnh thổ thuộc 3 châu lục trước nguy cơ lây lan dịch từ Cộng hòa Dân chủ Congo (DRC).",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/18/00-1792269521-6008-1792269746.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=c2iAkRax2RJtN7IW8mlAUw",
+    "link": "https://vnexpress.net/who-khan-cap-phong-dich-ebola-tren-3-chau-luc-5133723.html",
+    "published_at": "Sun, 18 Oct 2026 07:59:13 +0700",
+    "createAt": "2026-10-18T00:59:13.000Z",
+    "thumbnail_blurhash": "LIF$FfwHNFxvYkJUxaf6IU%1ShRj"
+  },
+  {
+    "id": "https://vnexpress.net/doi-mat-phat-trien-den-nam-bao-nhieu-tuoi-5133685.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Đôi mắt phát triển đến năm bao nhiêu tuổi?",
+    "description": "Nhãn cầu phát triển nhanh trong những năm đầu đời, tiếp tục tăng kích thước đến đầu tuổi 20, nhưng thị lực vẫn có thể thay đổi sau đó.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/17/mat-1792247045-8376-1792247090.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=8-uVZESLKbsT0RbJHOr8fA",
+    "link": "https://vnexpress.net/doi-mat-phat-trien-den-nam-bao-nhieu-tuoi-5133685.html",
+    "published_at": "Sun, 18 Oct 2026 08:00:00 +0700",
+    "createAt": "2026-10-18T01:00:00.000Z",
+    "thumbnail_blurhash": "LII:zW=_~VnN^*R+-pt7XR^*IpW="
+  },
+  {
+    "id": "https://vnexpress.net/chay-bo-co-gay-suy-gian-tinh-mach-5133616.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Chạy bộ có gây suy giãn tĩnh mạch?",
+    "description": "Tôi thường xuyên chạy bộ, tham gia các giải chạy phong trào. Chạy nhiều có làm tăng nguy cơ suy giãn tĩnh mạch chân không? (Nguyễn Lan Anh, 37 tuổi, Hà Nội)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/17/image001-1792225560-5324-1792225669.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=SHJO0IcIHJ-w5LSW80TH0w",
+    "link": "https://vnexpress.net/chay-bo-co-gay-suy-gian-tinh-mach-5133616.html",
+    "published_at": "Sun, 18 Oct 2026 08:00:00 +0700",
+    "createAt": "2026-10-18T01:00:00.000Z",
+    "thumbnail_blurhash": "LREWd$.8S$tS_Nx[tRtRoct7xuog"
+  },
+  {
+    "id": "https://vnexpress.net/meo-ho-tro-kiem-soat-duong-huyet-buoi-sang-5133592.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Mẹo hỗ trợ kiểm soát đường huyết buổi sáng",
+    "description": "Tập thể dục đều đặn, điều chỉnh khẩu phần tinh bột buổi tối và ưu tiên chất béo lành mạnh có thể giúp duy trì đường huyết ở mức phù hợp vào buổi sáng.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/17/445768075-n-1792222224-7573-1792222238.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=2jbHfxVCG6pudQ40KzfC1w",
+    "link": "https://vnexpress.net/meo-ho-tro-kiem-soat-duong-huyet-buoi-sang-5133592.html",
+    "published_at": "Sun, 18 Oct 2026 08:00:00 +0700",
+    "createAt": "2026-10-18T01:00:00.000Z",
+    "thumbnail_blurhash": "LAK18e:|0A9$Y89FR.=^00Oa_1I9"
+  },
+  {
+    "id": "https://vnexpress.net/chuyen-gia-tim-mach-hang-dau-the-gioi-qua-doi-khi-dang-du-hoi-nghi-5133721.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Chuyên gia tim mạch hàng đầu thế giới qua đời khi đang dự hội nghị",
+    "description": "Giáo sư Li Renke, nhà khoa học đầu tiên trên thế giới được FDA phê duyệt phương pháp ghép tế bào gốc điều trị suy tim, qua đời khi đang tham dự hội nghị khoa học.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/18/giao-su-1792263400-9327-1792264420.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=NBcjz4kWxJnGeAdSIdxueA",
+    "link": "https://vnexpress.net/chuyen-gia-tim-mach-hang-dau-the-gioi-qua-doi-khi-dang-du-hoi-nghi-5133721.html",
+    "published_at": "Sun, 18 Oct 2026 08:07:07 +0700",
+    "createAt": "2026-10-18T01:07:07.000Z",
+    "thumbnail_blurhash": "LgHd]dQ-x[IB~WR5tQRjjYW;NFkC"
   }
 ]
