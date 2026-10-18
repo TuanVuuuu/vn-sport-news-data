@@ -246,6 +246,32 @@
       "published_at": "Sun, 18 Oct 2026 23:34:09 +0700",
       "createAt": "2026-10-18T16:34:09.000Z",
       "thumbnail_blurhash": "LAATDwt9kQ$gyY%2RiNZ~CsoNFni"
+    },
+    {
+      "id": "https://vnexpress.net/vom-thep-cau-di-bo-3-400-tan-tiep-tuc-hanh-trinh-ve-trung-tam-tp-hcm-5133902.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Vòm thép cầu đi bộ 3.400 tấn tiếp tục hành trình về trung tâm TP HCM",
+      "description": "Sau một đêm neo nghỉ ở phao SR-05 trên luồng Soài Rạp, sà lan chở nhịp cầu đi bộ và khung đỡ nặng 3.400 tấn tiếp tục theo sông Sài Gòn về bến Bạch Đằng, sáng 19/10.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/18/179229782779629905439835188674-1279-3445-1792326753.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=r20ecmn2Hbkbe8LXdC0xsw",
+      "link": "https://vnexpress.net/vom-thep-cau-di-bo-3-400-tan-tiep-tuc-hanh-trinh-ve-trung-tam-tp-hcm-5133902.html",
+      "published_at": "Mon, 19 Oct 2026 00:00:00 +0700",
+      "createAt": "2026-10-18T17:00:00.000Z",
+      "thumbnail_blurhash": "LhDvi-a}j?oM~qa}f5j]?bj[jZfk"
+    },
+    {
+      "id": "https://vnexpress.net/tour-nga-co-the-tro-lai-dinh-sau-khi-khach-viet-duoc-mien-visa-5132664.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Tour Nga có thể trở lại đỉnh sau khi khách Việt được miễn visa",
+      "description": "Doanh nghiệp kỳ vọng số lượng đoàn khách Việt đi Nga trong năm 2027 tăng 50% so với năm nay nhờ lợi thế miễn visa.",
+      "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/10/15/01-tai-xuongt135015-1792047084-8095-1792047362.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ttXlL2f9CGkxbt-pLpMpPg",
+      "link": "https://vnexpress.net/tour-nga-co-the-tro-lai-dinh-sau-khi-khach-viet-duoc-mien-visa-5132664.html",
+      "published_at": "Mon, 19 Oct 2026 00:15:00 +0700",
+      "createAt": "2026-10-18T17:15:00.000Z",
+      "thumbnail_blurhash": "LnKx3hRj%g%M_2M_t7%M~qj[azoz"
     }
   ]
 }
