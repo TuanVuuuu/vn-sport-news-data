@@ -1,5 +1,5 @@
 {
-  "total_articles": 1499,
+  "total_articles": 1501,
   "files": [
     "chunk_1.json",
     "chunk_2.json",
@@ -15,7 +15,8 @@
     "chunk_12.json",
     "chunk_13.json",
     "chunk_14.json",
-    "chunk_15.json"
+    "chunk_15.json",
+    "chunk_16.json"
   ],
   "channel": {
     "title": "Khoa học công nghệ - VnExpress RSS",
@@ -24,7 +25,7 @@
     "copyright": "",
     "logo_url": "https://s.vnecdn.net/vnexpress/i/v20/logos/vne_logo_rss.png",
     "link": "https://vnexpress.net/rss/khoa-hoc-cong-nghe.rss",
-    "last_updated": "Mon, 19 Oct 2026 16:10:57 +0700"
+    "last_updated": "Mon, 19 Oct 2026 17:06:10 +0700"
   },
-  "last_updated": "2026-10-19T10:01:27.096Z"
+  "last_updated": "2026-10-19T10:10:58.187Z"
 }
