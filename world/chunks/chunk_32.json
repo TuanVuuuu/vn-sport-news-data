@@ -245,5 +245,57 @@
     "published_at": "Mon, 19 Oct 2026 05:00:00 +0700",
     "createAt": "2026-10-18T22:00:00.000Z",
     "thumbnail_blurhash": "LCB:dBI7xtxa?wroEMWY?HE1sla#"
+  },
+  {
+    "id": "https://vnexpress.net/ong-zelensky-my-da-noi-lai-chia-se-tinh-bao-cho-ukraine-5133960.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Ông Zelensky: Mỹ đã nối lại chia sẻ tình báo cho Ukraine",
+    "description": "Tổng thống Zelensky cho biết Mỹ đã tiếp tục chia sẻ thông tin tình báo, giúp Ukraine chuẩn bị đối phó tên lửa đạn đạo Nga.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/19/ap26277551455896-1792365574-6681-1792365635.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=pdBI8PeZoFYM3JoC6UARxg",
+    "link": "https://vnexpress.net/ong-zelensky-my-da-noi-lai-chia-se-tinh-bao-cho-ukraine-5133960.html",
+    "published_at": "Mon, 19 Oct 2026 06:44:23 +0700",
+    "createAt": "2026-10-18T23:44:23.000Z",
+    "thumbnail_blurhash": "L8C~VSieDi=r~20.9[-gp2%39bV="
+  },
+  {
+    "id": "https://vnexpress.net/ong-trump-cong-kich-tong-thong-ukraine-bao-ve-quyet-dinh-mien-trung-phat-nga-5133956.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Ông Trump công kích Tổng thống Ukraine, bảo vệ quyết định miễn trừng phạt Nga",
+    "description": "Tổng thống Trump cáo buộc người đồng cấp Zelensky không muốn chấm dứt chiến sự, đồng thời bảo vệ quyết định miễn loạt lệnh trừng phạt với Nga.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/19/afp-v1-highres-presidenttrumph-2324-7117-1792366356.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=3xe5-fug4Dy7gjFU1LCC9g",
+    "link": "https://vnexpress.net/ong-trump-cong-kich-tong-thong-ukraine-bao-ve-quyet-dinh-mien-trung-phat-nga-5133956.html",
+    "published_at": "Mon, 19 Oct 2026 06:53:02 +0700",
+    "createAt": "2026-10-18T23:53:02.000Z",
+    "thumbnail_blurhash": "L47-E8My00.T*wtRB?Q,NFV@-Xo$"
+  },
+  {
+    "id": "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-len-duong-tham-dan-mach-eu-va-bi-5133965.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Tổng Bí thư, Chủ tịch nước lên đường thăm Đan Mạch, EU và Bỉ",
+    "description": "Tổng Bí thư, Chủ tịch nước và phu nhân rời Hà Nội, lên đường thăm cấp nhà nước đến Đan Mạch, thăm chính thức Liên minh châu Âu và Bỉ.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/19/wm30-wm30-vna-potal-tong-bi-thu-chu-5006-2696-1792368489.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=MSec9Zgh5gRUGSTv4Vj8mw",
+    "link": "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-len-duong-tham-dan-mach-eu-va-bi-5133965.html",
+    "published_at": "Mon, 19 Oct 2026 07:27:22 +0700",
+    "createAt": "2026-10-19T00:27:22.000Z",
+    "thumbnail_blurhash": "L67UxW4TyWTNL#-o9Fi[Q*%%Iqk7"
+  },
+  {
+    "id": "https://vnexpress.net/tong-thong-macron-gian-du-ho-then-vi-lan-song-bao-luc-o-phap-5133971.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Tổng thống Macron 'giận dữ, hổ thẹn' vì làn sóng bạo lực ở Pháp",
+    "description": "Tổng thống Pháp lên án tình trạng bạo lực trong đợt biểu tình về chi phí sinh hoạt, khẳng định sẽ xử lý những nghi phạm kích động bạo lực.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/19/macron-1792369696-9960-1792369895.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=0VgsXszMLdgWEuXQzn5fzQ",
+    "link": "https://vnexpress.net/tong-thong-macron-gian-du-ho-then-vi-lan-song-bao-luc-o-phap-5133971.html",
+    "published_at": "Mon, 19 Oct 2026 07:47:40 +0700",
+    "createAt": "2026-10-19T00:47:40.000Z",
+    "thumbnail_blurhash": "LHIgu?4T_NI8]{-p9a-.0L%MnO%2"
   }
 ]
