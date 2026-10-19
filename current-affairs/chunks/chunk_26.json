@@ -1272,5 +1272,31 @@
     "published_at": "Mon, 19 Oct 2026 08:00:00 +0700",
     "createAt": "2026-10-19T01:00:00.000Z",
     "thumbnail_blurhash": "L9H1xg%yxZs;*0wKRlWC+ZtRE1xW"
+  },
+  {
+    "id": "https://vnexpress.net/vom-thep-cau-di-bo-3-400-tan-sap-toi-cau-phu-my-5133902.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Vòm thép cầu đi bộ 3.400 tấn sắp tới cầu Phú Mỹ",
+    "description": "Sau một đêm neo nghỉ ở luồng Soài Rạp, sà lan chở nhịp cầu theo sông Sài Gòn về bến Bạch Đằng, sắp qua cầu Phú Mỹ, cách trung tâm thành phố gần 10 km, sáng 19/10.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/19/179236897370752459934760952820-4019-1445-1792370618.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=zfY9mN80EneEb1zvPJ1-pg",
+    "link": "https://vnexpress.net/vom-thep-cau-di-bo-3-400-tan-sap-toi-cau-phu-my-5133902.html",
+    "published_at": "Mon, 19 Oct 2026 00:00:00 +0700",
+    "createAt": "2026-10-18T17:00:00.000Z",
+    "thumbnail_blurhash": "LcEf~VkBfRog.TofaxkCyEkCofof"
+  },
+  {
+    "id": "https://vnexpress.net/nu-sinh-16-tuoi-chong-choi-ung-thu-dai-trang-5133949.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Nữ sinh 16 tuổi chống chọi ung thư đại tràng",
+    "description": "Trải qua hai lần phẫu thuật và nhiều đợt hóa trị ung thư đại tràng, Nguyễn Thảo Ngọc, 16 tuổi, vẫn khao khát khỏe lại để tiếp tục đến lớp.",
+    "thumbnail_url": "https://vcdn1-giadinh.vnecdn.net/2026/10/19/ngo-c-1792347332-3458-1792347373.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=XZFcUCRc1y2s_Yk5dGtSSA",
+    "link": "https://vnexpress.net/nu-sinh-16-tuoi-chong-choi-ung-thu-dai-trang-5133949.html",
+    "published_at": "Mon, 19 Oct 2026 08:40:13 +0700",
+    "createAt": "2026-10-19T01:40:13.000Z",
+    "thumbnail_blurhash": "LAI5xt9_00yUHX4nsE.TibTg-iZh"
   }
 ]
