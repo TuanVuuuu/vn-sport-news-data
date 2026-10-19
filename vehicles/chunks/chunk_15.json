@@ -284,5 +284,31 @@
     "published_at": "Mon, 19 Oct 2026 08:50:22 +0700",
     "createAt": "2026-10-19T01:50:22.000Z",
     "thumbnail_blurhash": "LoG0wojvayoz?wozofofWBoejZoe"
+  },
+  {
+    "id": "https://vnexpress.net/cau-be-chay-theo-nguoi-lon-qua-duong-ngay-truoc-dau-oto-5133977.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Cậu bé chạy theo người lớn qua đường ngay trước đầu ôtô",
+    "description": "Em bé chậm chững chạy theo người phụ nữ băng ngang đường, ngay khi ôtô đi tới, hôm 15/10 tại Tân Đông Hiệp, Binh Dương.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/19/ezgif4361243097aa4d00-17923697-8901-5747-1792369976.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=6H9S_cj3o2Jy4yNYBJxGAA&t=image",
+    "link": "https://vnexpress.net/cau-be-chay-theo-nguoi-lon-qua-duong-ngay-truoc-dau-oto-5133977.html",
+    "published_at": "Mon, 19 Oct 2026 09:03:12 +0700",
+    "createAt": "2026-10-19T02:03:12.000Z",
+    "thumbnail_blurhash": "L3Eo_Y004m_M978w4.Ad00DikW%f"
+  },
+  {
+    "id": "https://vnexpress.net/pha-trinh-dien-cong-nghe-di-vao-doi-song-cua-xe-byd-5133980.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Pha trình diễn 'công nghệ đi vào đời sống' của xe BYD",
+    "description": "Chiếc BYD bị khóa một bánh trước nhưng vẫn di chuyển bình thường với ba bánh còn lại.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/19/ezgif7ee64c91dd6dfcb0-17923738-7289-9949-1792375076.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=yq48fSLc3ALJz1DJtldQNA&t=image",
+    "link": "https://vnexpress.net/pha-trinh-dien-cong-nghe-di-vao-doi-song-cua-xe-byd-5133980.html",
+    "published_at": "Mon, 19 Oct 2026 09:58:04 +0700",
+    "createAt": "2026-10-19T02:58:04.000Z",
+    "thumbnail_blurhash": "L8EVyqZ%8w~W00Di^+Mx~V%MRPog"
   }
 ]
