@@ -1246,5 +1246,31 @@
     "published_at": "Mon, 19 Oct 2026 06:00:00 +0700",
     "createAt": "2026-10-18T23:00:00.000Z",
     "thumbnail_blurhash": "LDAwS7aL%3I-~Xnnn-NG-rj[W-NG"
+  },
+  {
+    "id": "https://vnexpress.net/dong-dat-4-2-do-o-son-la-5133986.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Động đất 4,2 độ ở Sơn La",
+    "description": "Hai trận động đất mạnh 2,6 và 4,2 độ xảy ra sáng 19/10 tại xã Tà Hộc, tỉnh Sơn La, khiến một số tảng đá trên núi rơi trúng nhà dân.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/19/1212-1792371243-7253-1792371296.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=_muwGBVs-AhTibmyfMrgaQ&t=image",
+    "link": "https://vnexpress.net/dong-dat-4-2-do-o-son-la-5133986.html",
+    "published_at": "Mon, 19 Oct 2026 07:58:30 +0700",
+    "createAt": "2026-10-19T00:58:30.000Z",
+    "thumbnail_blurhash": "LpHo2pofIoWX_4ozRPof%hWBWBkB"
+  },
+  {
+    "id": "https://vnexpress.net/nhung-chinh-sach-lon-cho-quoc-hoi-quyet-dinh-5131305.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Những chính sách lớn chờ Quốc hội quyết định",
+    "description": "Quốc hội khóa 16 dự kiến thông qua các chính sách liên quan đến nhà ở, kinh doanh bất động sản, xử lý hình sự, vi phạm hành chính và bảo hiểm xã hội, tại kỳ họp thứ 2.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/19/1792205096182-g911173244928083-5765-9265-1792371777.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=DsfbIqHGf-RaRp7q9Bbleg",
+    "link": "https://vnexpress.net/nhung-chinh-sach-lon-cho-quoc-hoi-quyet-dinh-5131305.html",
+    "published_at": "Mon, 19 Oct 2026 08:00:00 +0700",
+    "createAt": "2026-10-19T01:00:00.000Z",
+    "thumbnail_blurhash": "L9H1xg%yxZs;*0wKRlWC+ZtRE1xW"
   }
 ]
