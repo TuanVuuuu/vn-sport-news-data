@@ -401,5 +401,57 @@
     "published_at": "Mon, 19 Oct 2026 11:23:55 +0700",
     "createAt": "2026-10-19T04:23:55.000Z",
     "thumbnail_blurhash": "LtFiZFxun$IV_4t7oJM|-;t6s.M|"
+  },
+  {
+    "id": "https://vnexpress.net/khoanh-khac-houthi-ha-truc-thang-gan-10-trieu-usd-cua-arab-saudi-5133830.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Khoảnh khắc Houthi hạ trực thăng gần 10 triệu USD của Arab Saudi",
+    "description": "Houthi công bố video bắn hạ trực thăng trinh sát AH-6i Arab Saudi, trong khi Riyadh thông báo phi cơ rơi do \"trục trặc kỹ thuật\".",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/18/ah61-1792317081-7846-1792320047.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=kHzM0PGKwgLv6Czg2NvRQQ&t=image",
+    "link": "https://vnexpress.net/khoanh-khac-houthi-ha-truc-thang-gan-10-trieu-usd-cua-arab-saudi-5133830.html",
+    "published_at": "Sun, 18 Oct 2026 17:42:15 +0700",
+    "createAt": "2026-10-18T10:42:15.000Z",
+    "thumbnail_blurhash": "L8E:VZRiWHR%00RQI.ay?]kC-Dof"
+  },
+  {
+    "id": "https://vnexpress.net/bao-my-ong-putin-muon-hop-thuong-dinh-voi-my-trung-ban-ve-ukraine-5134032.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Báo Mỹ: Ông Putin muốn họp thượng đỉnh với Mỹ, Trung bàn về Ukraine",
+    "description": "Ông Putin khi điện đàm với ông Trump đã đề xuất họp thượng đỉnh Nga - Mỹ - Trung tháng tới để đàm phán chấm dứt chiến sự Ukraine, theo WSJ.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/19/im28068513-1792376035-7149-1792376588.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Fk-Yzhn67Wx_1g-X407k9A",
+    "link": "https://vnexpress.net/bao-my-ong-putin-muon-hop-thuong-dinh-voi-my-trung-ban-ve-ukraine-5134032.html",
+    "published_at": "Mon, 19 Oct 2026 11:42:01 +0700",
+    "createAt": "2026-10-19T04:42:01.000Z",
+    "thumbnail_blurhash": "L#99Q{oZJ?Skt:beR%aiXNj?sjjX"
+  },
+  {
+    "id": "https://vnexpress.net/ai-cap-san-sang-dieu-quan-giup-arab-saudi-doi-pho-houthi-5134109.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Ai Cập sẵn sàng điều quân giúp Arab Saudi đối phó Houthi",
+    "description": "Ai Cập tuyên bố sẵn sàng hỗ trợ, bảo vệ an ninh và ổn định của Arab Saudi trước các cuộc tấn công của lực lượng Houthi tại Yemen.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/19/tie-m-ki-ch-1792381069-4034-1792381162.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=TWz0n8NdBdCAYIdCIgSjDg",
+    "link": "https://vnexpress.net/ai-cap-san-sang-dieu-quan-giup-arab-saudi-doi-pho-houthi-5134109.html",
+    "published_at": "Mon, 19 Oct 2026 11:42:48 +0700",
+    "createAt": "2026-10-19T04:42:48.000Z",
+    "thumbnail_blurhash": "LqJInjxuxvkCyZa#Rjoft7ayWAj]"
+  },
+  {
+    "id": "https://vnexpress.net/mot-tuan-ong-zelensky-doi-dau-ong-trump-5133978.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Một tuần ông Zelensky đối đầu ông Trump",
+    "description": "Bị dồn vào thế tiến thoái lưỡng nan, Tổng thống Ukraine quyết định công khai đối đầu ông Trump dù biết có thể mất đi những hỗ trợ sống còn từ Mỹ.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/19/ap26289598893365-1792380918-3648-1792381555.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=QuPUIJPAM9fvmsi9AAFy4g",
+    "link": "https://vnexpress.net/mot-tuan-ong-zelensky-doi-dau-ong-trump-5133978.html",
+    "published_at": "Mon, 19 Oct 2026 12:12:30 +0700",
+    "createAt": "2026-10-19T05:12:30.000Z",
+    "thumbnail_blurhash": "L35#9irS1U0J]@^v0N9=x,IdxmRW"
   }
 ]
