@@ -323,5 +323,31 @@
     "published_at": "Mon, 19 Oct 2026 20:00:00 +0700",
     "createAt": "2026-10-19T13:00:00.000Z",
     "thumbnail_blurhash": "LQLp{z;f%M9axCR5WVyD~WIpo}?b"
+  },
+  {
+    "id": "https://vnexpress.net/nuoc-tieu-vang-dam-mui-nong-vao-buoi-sang-co-bat-thuong-5133077.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Nước tiểu vàng đậm, mùi nồng vào buổi sáng có bất thường?",
+    "description": "Sáng ngủ dậy tôi thường thấy nước tiểu vàng đậm, mùi nồng hơn bình thường, đây có phải dấu hiệu thận có vấn đề hay chỉ do cơ thể thiếu nước? (Hoàng, 36 tuổi, Hà Nội)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/16/2595-1792122310-7727-1792122317.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=R63tA_0qQqtjy2q7q8XVJQ",
+    "link": "https://vnexpress.net/nuoc-tieu-vang-dam-mui-nong-vao-buoi-sang-co-bat-thuong-5133077.html",
+    "published_at": "Tue, 20 Oct 2026 00:02:00 +0700",
+    "createAt": "2026-10-19T17:02:00.000Z",
+    "thumbnail_blurhash": "LeKd[0VsIU~q.8X9NHkCVsoJWAV@"
+  },
+  {
+    "id": "https://vnexpress.net/ba-loi-ich-cua-trung-voi-nguoi-tieu-duong-5134300.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Ba lợi ích của trứng với người tiểu đường",
+    "description": "Trứng ít carbohydrate, giàu protein giúp người tiểu đường bổ sung dinh dưỡng, tăng cảm giác no lâu mà không làm đường huyết tăng đáng kể.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/19/trung-yen-mach-1792400643-7366-1792400652.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Ab7WnJuiCVh6KGzZYf_mPQ",
+    "link": "https://vnexpress.net/ba-loi-ich-cua-trung-voi-nguoi-tieu-duong-5134300.html",
+    "published_at": "Tue, 20 Oct 2026 00:04:00 +0700",
+    "createAt": "2026-10-19T17:04:00.000Z",
+    "thumbnail_blurhash": "LMKKTc?wt-$f%MtRWXxbyExaMwR*"
   }
 ]
