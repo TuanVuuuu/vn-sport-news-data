@@ -804,5 +804,31 @@
     "published_at": "Tue, 20 Oct 2026 09:11:57 +0700",
     "createAt": "2026-10-20T02:11:57.000Z",
     "thumbnail_blurhash": "LCIW$T7g1O}?*0xasmX81j,:=wNd"
+  },
+  {
+    "id": "https://vnexpress.net/ong-trump-hoan-trung-phat-nga-de-danh-gia-tac-dong-toan-cau-5133770.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Ông Trump hoãn trừng phạt Nga để 'đánh giá tác động toàn cầu'",
+    "description": "Ngoại trưởng Mỹ cho biết ông Trump hoãn các biện pháp trừng phạt Nga trong 60 ngày để \"phân tích tác động với nền kinh tế toàn cầu\".",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/18/ap26290678564513-1792296670-2355-1792296742.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=nB_ixIznZEYrBDIqMFMncA",
+    "link": "https://vnexpress.net/ong-trump-hoan-trung-phat-nga-de-danh-gia-tac-dong-toan-cau-5133770.html",
+    "published_at": "Sun, 18 Oct 2026 11:13:08 +0700",
+    "createAt": "2026-10-18T04:13:08.000Z",
+    "thumbnail_blurhash": "L99%#dIU00E0:gITh2TKJBoy#+nO"
+  },
+  {
+    "id": "https://vnexpress.net/ong-zelensky-san-sang-tranh-cu-tong-thong-trong-thoi-chien-5134443.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Ông Zelensky sẵn sàng tranh cử tổng thống trong thời chiến",
+    "description": "Ông Zelensky tuyên bố sẵn sàng tái tranh cử tổng thống nếu Ukraine tổ chức bỏ phiếu trước khi xung đột với Nga kết thúc.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/20/afp-oikonomou-notitle261016-np-8764-5523-1792461265.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=NI5HBmOjI6D_BldCX3nlfA",
+    "link": "https://vnexpress.net/ong-zelensky-san-sang-tranh-cu-tong-thong-trong-thoi-chien-5134443.html",
+    "published_at": "Tue, 20 Oct 2026 09:49:50 +0700",
+    "createAt": "2026-10-20T02:49:50.000Z",
+    "thumbnail_blurhash": "LY7-,yt5EqOexyohNbS6R$awsloH"
   }
 ]
