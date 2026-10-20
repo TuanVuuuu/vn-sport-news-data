@@ -648,5 +648,31 @@
     "published_at": "Tue, 20 Oct 2026 19:02:58 +0700",
     "createAt": "2026-10-20T12:02:58.000Z",
     "thumbnail_blurhash": "LKC=_AxZNaWr~CM_WBNGxbslt7Na"
+  },
+  {
+    "id": "https://vnexpress.net/thu-tuong-phat-trien-nguon-dien-thi-gia-van-phai-hop-ly-voi-nguoi-dan-5134773.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Thủ tướng: Phát triển nguồn điện thì giá vẫn phải 'hợp lý với người dân'",
+    "description": "Với nhu cầu điện ngày một cao, cần thu hút nguồn vốn lớn để phát triển nguồn điện, nhưng Thủ tướng lưu ý phải tính toán sao cho giá điện \"hợp lý với người dân\".",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/20/thu-tuong-jpg-1792497099-6888-1792497405.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Mr4MDNrmqS71B3f4w3vwSQ",
+    "link": "https://vnexpress.net/thu-tuong-phat-trien-nguon-dien-thi-gia-van-phai-hop-ly-voi-nguoi-dan-5134773.html",
+    "published_at": "Tue, 20 Oct 2026 19:47:43 +0700",
+    "createAt": "2026-10-20T12:47:43.000Z",
+    "thumbnail_blurhash": "LfJj}8.mE0I9n3xt-;x]ofWVofxu"
+  },
+  {
+    "id": "https://vnexpress.net/gia-dau-brent-len-cao-nhat-5-thang-5134807.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Giá dầu Brent lên cao nhất 5 tháng",
+    "description": "Dầu Brent hiện có giá 111 USD một thùng, trong khi dầu WTI cũng tăng vọt hơn 5% lên 110 USD.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/20/image1775812764721-1792500098-3151-1792500121.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Z1GZylQkixOJwkP3Cc9Xww",
+    "link": "https://vnexpress.net/gia-dau-brent-len-cao-nhat-5-thang-5134807.html",
+    "published_at": "Tue, 20 Oct 2026 19:52:11 +0700",
+    "createAt": "2026-10-20T12:52:11.000Z",
+    "thumbnail_blurhash": "LI8}f9XSI;ni_4X9NGr?tSR*nixZ"
   }
 ]
