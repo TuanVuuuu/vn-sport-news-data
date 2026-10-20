@@ -492,5 +492,31 @@
     "published_at": "Tue, 20 Oct 2026 09:59:22 +0700",
     "createAt": "2026-10-20T02:59:22.000Z",
     "thumbnail_blurhash": "L49P{5LL000000E1_2~C0d#ma~-q"
+  },
+  {
+    "id": "https://vnexpress.net/bi-phat-vi-bam-coi-thuc-giuc-xe-khac-nhuong-duong-5134548.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Bị phạt vì bấm còi thúc giục xe khác nhường đường",
+    "description": "Tài xế bị phạt 2,4 triệu đồng, trừ 2 điểm bằng lái sau khi liên tục bấm còi, chớp đèn thúc ôtô phía trước trên cao tốc.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/20/thumb-1792469292-3919-1792469305.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=XP4-GBFumV2tdlkDI8tuug",
+    "link": "https://vnexpress.net/bi-phat-vi-bam-coi-thuc-giuc-xe-khac-nhuong-duong-5134548.html",
+    "published_at": "Tue, 20 Oct 2026 11:28:35 +0700",
+    "createAt": "2026-10-20T04:28:35.000Z",
+    "thumbnail_blurhash": "LxIhsroJM{of~qs.WBj[xvxat7of"
+  },
+  {
+    "id": "https://vnexpress.net/taxi-dam-truc-dien-oto-di-nguoc-chieu-ai-den-5134457.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Taxi đâm trực diện ôtô đi ngược chiều, ai đền?",
+    "description": "Chiếc taxi phóng tốc độ cao đâm trực diện vào một ôtô đang đi ngược chiều, hôm 17/10 tại Cửa khẩu Bắc Luân 2.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/20/ezgif70f3846a080ff02f-17924596-3515-9703-1792459947.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=MqmUUUoVjNkGSHUOYXNz_w&t=image",
+    "link": "https://vnexpress.net/taxi-dam-truc-dien-oto-di-nguoc-chieu-ai-den-5134457.html",
+    "published_at": "Tue, 20 Oct 2026 11:42:14 +0700",
+    "createAt": "2026-10-20T04:42:14.000Z",
+    "thumbnail_blurhash": "L?Kn*q%Moeof_4xajrj?WYj?ocj?"
   }
 ]
