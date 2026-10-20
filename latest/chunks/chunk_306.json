@@ -414,5 +414,31 @@
     "published_at": "Wed, 21 Oct 2026 01:00:00 +0700",
     "createAt": "2026-10-20T18:00:00.000Z",
     "thumbnail_blurhash": "L6G[vJtkGdRB}yo|00IWr+?F03~W"
+  },
+  {
+    "id": "https://vnexpress.net/zona-than-kinh-can-benh-gay-dau-nhu-dien-giat-5134732.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Zona thần kinh - căn bệnh gây đau 'như điện giật'",
+    "description": "Zona thần kinh gây tổn thương da, mắt, viêm màng não và đau dây thần kinh dai dẳng, bác sĩ khuyến cáo người từ 50 tuổi, có bệnh nền hoặc suy giảm miễn dịch cần chủ động phòng bệnh.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/20/2-1792489239-3868-1792489248.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=OF60CwW_HP_fyEW4-gngfA",
+    "link": "https://vnexpress.net/zona-than-kinh-can-benh-gay-dau-nhu-dien-giat-5134732.html",
+    "published_at": "Wed, 21 Oct 2026 02:00:00 +0700",
+    "createAt": "2026-10-20T19:00:00.000Z",
+    "thumbnail_blurhash": "LGI=78xZIm9t*0X9s*H=x]_3tQIT"
+  },
+  {
+    "id": "https://vnexpress.net/tien-si-my-rai-2-300-ho-so-van-that-nghiep-5134729.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Tiến sĩ Mỹ rải 2.300 hồ sơ vẫn thất nghiệp",
+    "description": "Jack Weis tự nhận mình là người thất nghiệp đang ăn bám cha mẹ, dù đã lấy bằng tiến sĩ Đại học Princeton và rải hàng loạt hồ sơ xin việc.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/20/im99154815-1792488890-3687-1792489143.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Mek-zjznJqu9dyXDK1AD5A",
+    "link": "https://vnexpress.net/tien-si-my-rai-2-300-ho-so-van-that-nghiep-5134729.html",
+    "published_at": "Wed, 21 Oct 2026 02:00:00 +0700",
+    "createAt": "2026-10-20T19:00:00.000Z",
+    "thumbnail_blurhash": "L7Cj9Anf00yY00%N~qDixvRjIpM|"
   }
 ]
