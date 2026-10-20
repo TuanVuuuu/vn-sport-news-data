@@ -167,5 +167,31 @@
     "published_at": "Tue, 20 Oct 2026 13:32:39 +0700",
     "createAt": "2026-10-20T06:32:39.000Z",
     "thumbnail_blurhash": "LYGl|*?^*0Nh?vRoxuaJ-oIqjFov"
+  },
+  {
+    "id": "https://vnexpress.net/rang-dong-ung-dung-ai-iot-vao-he-sinh-thai-cong-trinh-thong-minh-5134583.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Rạng Đông ứng dụng AI, IoT vào hệ sinh thái công trình thông minh",
+    "description": "Doanh nghiệp làm chủ 8 năng lực thiết kế lõi, ứng dụng AI và hệ thống vạn vật kết nối (IoT) để phát triển giải pháp đồng bộ cho các công trình xanh.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/20/1-1792475384-1212-1792475431.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=i3dryUqpTGQBk6LFT2sXpQ",
+    "link": "https://vnexpress.net/rang-dong-ung-dung-ai-iot-vao-he-sinh-thai-cong-trinh-thong-minh-5134583.html",
+    "published_at": "Tue, 20 Oct 2026 14:00:00 +0700",
+    "createAt": "2026-10-20T07:00:00.000Z",
+    "thumbnail_blurhash": "LUKBq3v|9FIp~qS%Rjt8I.kqRkV@"
+  },
+  {
+    "id": "https://vnexpress.net/dung-ai-do-giao-dien-smart-tv-5134574.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Dùng AI 'độ' giao diện Smart TV",
+    "description": "Không hài lòng với giao diện mặc định, một số người thử dùng AI để tự thay đổi giao diện Smart TV theo nhu cầu cá nhân.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/20/TV2-1792473219-4243-1792473340.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=VejwYdhVK5n_do-RLsgNzw",
+    "link": "https://vnexpress.net/dung-ai-do-giao-dien-smart-tv-5134574.html",
+    "published_at": "Tue, 20 Oct 2026 14:30:00 +0700",
+    "createAt": "2026-10-20T07:30:00.000Z",
+    "thumbnail_blurhash": "LPF#j[w^O?M{%Lrrs:S#?^RPn%t7"
   }
 ]
