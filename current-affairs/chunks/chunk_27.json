@@ -492,5 +492,44 @@
     "published_at": "Tue, 20 Oct 2026 19:14:04 +0700",
     "createAt": "2026-10-20T12:14:04.000Z",
     "thumbnail_blurhash": "LOCGrc-;_L?H?u-q?aRVtRj0spIW"
+  },
+  {
+    "id": "https://vnexpress.net/khanh-hoa-dinh-huong-dat-trung-tam-hanh-chinh-o-cam-lam-5134801.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Khánh Hòa định hướng đặt trung tâm hành chính ở Cam Lâm",
+    "description": "Đến năm 2050, trung tâm hành chính tỉnh dự kiến hình thành tại xã Cam Lâm, quy mô khoảng 115 ha, tập trung trụ sở các cơ quan Đảng, HĐND, UBND và các sở, ngành.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/20/nhatrang-1792505274-3383-1792505373.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=A7LmOBNvfq1QqJroJpFMng",
+    "link": "https://vnexpress.net/khanh-hoa-dinh-huong-dat-trung-tam-hanh-chinh-o-cam-lam-5134801.html",
+    "published_at": "Wed, 21 Oct 2026 00:00:00 +0700",
+    "createAt": "2026-10-20T17:00:00.000Z",
+    "thumbnail_blurhash": "LlFi.8t8M{ogyZWqWBa#.9j]oMj]"
+  },
+  {
+    "id": "https://vnexpress.net/tp-hcm-de-xuat-chi-hon-600-ty-dong-ho-tro-can-bo-khong-chuyen-trach-5134798.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "TP HCM đề xuất chi hơn 600 tỷ đồng hỗ trợ cán bộ không chuyên trách",
+    "description": "TP HCM đề xuất chi 616 tỷ đồng hỗ trợ một lần cho 11.773 người hoạt động không chuyên trách nghỉ việc do sắp xếp khu phố, ấp, thôn, bình quân 50-60 triệu đồng mỗi người.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/20/to-truong-dan-pho-1792497131-7918-1792497175.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=jMJ2qSCOt-f98P2DgUQjkA",
+    "link": "https://vnexpress.net/tp-hcm-de-xuat-chi-hon-600-ty-dong-ho-tro-can-bo-khong-chuyen-trach-5134798.html",
+    "published_at": "Wed, 21 Oct 2026 00:00:00 +0700",
+    "createAt": "2026-10-20T17:00:00.000Z",
+    "thumbnail_blurhash": "LDF=?b00^k%O?w4mkCnl%MM^V@In"
+  },
+  {
+    "id": "https://vnexpress.net/bat-an-khi-song-canh-nghia-trang-5132478.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Bất an khi sống cạnh nghĩa trang",
+    "description": "Nghĩa trang nằm xen giữa khu dân cư hoặc trước bệnh viện khiến nhiều người e ngại, nhất là khi việc mai táng, đốt vàng mã vẫn diễn ra thường xuyên.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/19/nghia-trang-o-duong-ho-ba-kien-8744-3750-1792395924.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=8bMgqWl5lZuKXdHNkbs2Mw",
+    "link": "https://vnexpress.net/bat-an-khi-song-canh-nghia-trang-5132478.html",
+    "published_at": "Wed, 21 Oct 2026 00:00:00 +0700",
+    "createAt": "2026-10-20T17:00:00.000Z",
+    "thumbnail_blurhash": "LNEp7ps.Nc-:_Nt7%2NG_4R*Rjs:"
   }
 ]
