@@ -1,6 +1,19 @@
 {
   "featured": [
     {
+      "id": "https://vnexpress.net/lan-song-tra-mat-bang-van-phong-tai-tp-hcm-cua-nhom-cong-nghe-5134365.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Làn sóng trả mặt bằng văn phòng tại TP HCM của nhóm công nghệ",
+      "description": "Sau 6 năm, thị trường văn phòng TP HCM ghi nhận trở lại nhiều giao dịch trả mặt bằng từ ngành công nghệ do trí tuệ nhân tạo (AI) thay đổi kế hoạch tuyển dụng.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/19/vanphong-1792408933-2860-1792408961.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=NNszGW7HzmdvkYEd6kdeXw",
+      "link": "https://vnexpress.net/lan-song-tra-mat-bang-van-phong-tai-tp-hcm-cua-nhom-cong-nghe-5134365.html",
+      "published_at": "Tue, 20 Oct 2026 03:09:27 +0700",
+      "createAt": "2026-10-19T20:09:27.000Z",
+      "thumbnail_blurhash": "LDHp3C9EE1tR~VaJNwoe00R5kXRj"
+    },
+    {
       "id": "https://vnexpress.net/nga-xay-radar-vuot-duong-chan-troi-tam-3-000-km-giua-long-nato-5134668.html",
       "category_id": "featured",
       "category_name": "Tin nổi bật",
@@ -51,6 +64,45 @@
       "published_at": "Tue, 20 Oct 2026 19:14:04 +0700",
       "createAt": "2026-10-20T12:14:04.000Z",
       "thumbnail_blurhash": "LkLz~u-:-:xt_NWBRjay_2t5juWB"
+    },
+    {
+      "id": "https://vnexpress.net/ong-trump-buc-boi-vi-cao-buoc-gay-ton-hai-cho-ukraine-5134785.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Ông Trump 'bực bội' vì cáo buộc gây tổn hại cho Ukraine",
+      "description": "Tổng thống Trump \"bực bội\" trước những cáo buộc cho rằng ông cố tình gây tổn hại cho Ukraine, trong đó có ra lệnh ngừng chia sẻ tình báo với Kiev.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/20/afp-d3qw8qn-v1-highres-uspolit-8652-7422-1792496131.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=vuzUQ6dWRF4qVTAQMreTvA",
+      "link": "https://vnexpress.net/ong-trump-buc-boi-vi-cao-buoc-gay-ton-hai-cho-ukraine-5134785.html",
+      "published_at": "Tue, 20 Oct 2026 19:17:37 +0700",
+      "createAt": "2026-10-20T12:17:37.000Z",
+      "thumbnail_blurhash": "L25;w7?I0e~B-OM_EOfm0eIV=xE2"
+    },
+    {
+      "id": "https://vnexpress.net/thu-tuong-phat-trien-nguon-dien-thi-gia-van-phai-hop-ly-voi-nguoi-dan-5134773.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Thủ tướng: Phát triển nguồn điện thì giá vẫn phải 'hợp lý với người dân'",
+      "description": "Với nhu cầu điện ngày một cao, cần thu hút nguồn vốn lớn để phát triển nguồn điện, nhưng Thủ tướng lưu ý phải tính toán sao cho giá điện \"hợp lý với người dân\".",
+      "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/20/thu-tuong-jpg-1792497099-6888-1792497405.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Mr4MDNrmqS71B3f4w3vwSQ",
+      "link": "https://vnexpress.net/thu-tuong-phat-trien-nguon-dien-thi-gia-van-phai-hop-ly-voi-nguoi-dan-5134773.html",
+      "published_at": "Tue, 20 Oct 2026 19:47:43 +0700",
+      "createAt": "2026-10-20T12:47:43.000Z",
+      "thumbnail_blurhash": "LfJj}8.mE0I9n3xt-;x]ofWVofxu"
+    },
+    {
+      "id": "https://vnexpress.net/hoc-sinh-lop-5-9-12-thi-cuoi-ky-bang-de-chung-cua-so-giao-duc-va-dao-tao-5134803.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Học sinh lớp 5, 9, 12 thi cuối kỳ bằng đề chung của Sở Giáo dục và Đào tạo",
+      "description": "Tất cả học sinh cuối cấp ở các địa phương sẽ làm bài kiểm tra cuối kỳ I và II theo đề chung của Sở Giáo dục và Đào tạo, thay vì theo từng trường như hiện nay.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/20/thpt-tru-ng-vu-o-ng-1792499549-2413-1792499801.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=333g-Ug8TZp8J8zMBH1uFA",
+      "link": "https://vnexpress.net/hoc-sinh-lop-5-9-12-thi-cuoi-ky-bang-de-chung-cua-so-giao-duc-va-dao-tao-5134803.html",
+      "published_at": "Tue, 20 Oct 2026 20:23:25 +0700",
+      "createAt": "2026-10-20T13:23:25.000Z",
+      "thumbnail_blurhash": "LWHV3foaIVxu_NR*fRRj%gM{ofxu"
     }
   ]
 }
