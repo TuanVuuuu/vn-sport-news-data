@@ -1259,5 +1259,44 @@
     "published_at": "Mon, 19 Oct 2026 22:41:19 +0700",
     "createAt": "2026-10-19T15:41:19.000Z",
     "thumbnail_blurhash": "LIDvQf%OIv%14rD*EMn*~T%OX5aI"
+  },
+  {
+    "id": "https://vnexpress.net/tottenham-thang-tran-dau-o-ngoai-hang-anh-5134414.html",
+    "category_id": "sports",
+    "category_name": "Thể thao",
+    "source": "VnExpress",
+    "title": "Tottenham thắng trận đầu ở Ngoại hạng Anh",
+    "description": "James Maddison ghi bàn trong lần đầu đá chính sau 536 ngày, giúp Tottenham thắng Coventry 3-1 ở vòng 7 Ngoại hạng Anh và thoát khỏi nhóm ba đội cuối bảng.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/10/20/a-nh-ma-n-hi-nh-lu-c-179244854-5601-8188-1792448657.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=AkCVJ8aIEio_ETgdgEtfVQ",
+    "link": "https://vnexpress.net/tottenham-thang-tran-dau-o-ngoai-hang-anh-5134414.html",
+    "published_at": "Tue, 20 Oct 2026 05:24:16 +0700",
+    "createAt": "2026-10-19T22:24:16.000Z",
+    "thumbnail_blurhash": "L7EVZ$_M00DO00D%-;.80LM{_2xt"
+  },
+  {
+    "id": "https://vnexpress.net/ldbd-bo-dao-nha-phat-ronaldo-286-usd-dinh-chi-thi-dau-30-ngay-5134411.html",
+    "category_id": "sports",
+    "category_name": "Thể thao",
+    "source": "VnExpress",
+    "title": "LĐBĐ Bồ Đào Nha phạt Ronaldo 286 USD, đình chỉ thi đấu 30 ngày",
+    "description": "Cristiano Ronaldo bị LĐBĐ Bồ Đào Nha (FPF) phạt 255 euro (khoảng 286 USD) và cấm thi đấu 30 ngày, do tự ý rời đợt tập trung của ĐTQG trong đợt FIFA Days vừa qua.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/10/20/Screenshot20261020032637-17924-4749-2707-1792441894.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=LtmKSvi-KtrY7PJ16Hbn_g",
+    "link": "https://vnexpress.net/ldbd-bo-dao-nha-phat-ronaldo-286-usd-dinh-chi-thi-dau-30-ngay-5134411.html",
+    "published_at": "Tue, 20 Oct 2026 05:46:09 +0700",
+    "createAt": "2026-10-19T22:46:09.000Z",
+    "thumbnail_blurhash": "LEEf+f%4yp.QSpV=RjSw.mo~IBVt"
+  },
+  {
+    "id": "https://vnexpress.net/bao-anh-man-city-se-chi-phai-xuong-mot-hang-5134406.html",
+    "category_id": "sports",
+    "category_name": "Thể thao",
+    "source": "VnExpress",
+    "title": "Báo Anh: Man City sẽ chỉ phải xuống một hạng",
+    "description": "Theo Sport Mail, các nguồn tin thân cận với quá trình xử lý Man City cho rằng đội bóng này nhiều khả năng bị trừ điểm đủ để xuống hạng Nhất Anh, kèm khoản phạt tiền lớn, sau 115 cáo buộc tài chính.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/10/20/man-city-1792429226-3762-1792429302.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=7ELIxUES0OMLO2ZBh6m-KQ",
+    "link": "https://vnexpress.net/bao-anh-man-city-se-chi-phai-xuong-mot-hang-5134406.html",
+    "published_at": "Tue, 20 Oct 2026 05:51:55 +0700",
+    "createAt": "2026-10-19T22:51:55.000Z",
+    "thumbnail_blurhash": "LbAKg,XVbEI^%jxuRNR-OHn#ngjY"
   }
 ]
