@@ -1,3 +1,69 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/luat-su-hai-cong-an-nhan-6-4-ty-dong-tu-van-dan-xep-cho-mr-pips-khi-bi-to-giac-5134363.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Luật sư, hai công an nhận 6,4 tỷ đồng 'tư vấn, dàn xếp' cho Mr Pips khi bị tố giác",
+      "description": "VKS xác định Mr Pips chi 6,4 tỷ đồng cho nhóm cố vấn công an, luật sư để dàn xếp, hướng dẫn cách đối phó, \"làm chìm\" các vụ việc khi nạn nhân tố giác lừa đảo sàn Forex.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/19/1-1792409904-2722-1792410546.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=ksi2xitkx-Zsy-36NObe7Q",
+      "link": "https://vnexpress.net/luat-su-hai-cong-an-nhan-6-4-ty-dong-tu-van-dan-xep-cho-mr-pips-khi-bi-to-giac-5134363.html",
+      "published_at": "Tue, 20 Oct 2026 00:00:00 +0700",
+      "createAt": "2026-10-19T17:00:00.000Z",
+      "thumbnail_blurhash": "LIEx*DAFMIKjIp~CcF$LMw-p?bR*"
+    },
+    {
+      "id": "https://vnexpress.net/xe-tang-t1-thiet-giap-xtc-03-se-duoc-trung-bay-tai-trien-lam-quoc-phong-2026-5134510.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Xe tăng T1, thiết giáp XTC-03 sẽ được trưng bày tại triển lãm Quốc phòng 2026",
+      "description": "Các vũ khí, trang bị mới do Việt Nam nghiên cứu sản xuất như xe tăng T1, thiết giáp XTC-03 dự kiến xuất hiện tại triển lãm Quốc phòng quốc tế tháng 12.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/20/wm1-wm1-screenshot20261020at100413-3266-1412-1792469293.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=XEwi2ynadaFILvZyHOD-gg",
+      "link": "https://vnexpress.net/xe-tang-t1-thiet-giap-xtc-03-se-duoc-trung-bay-tai-trien-lam-quoc-phong-2026-5134510.html",
+      "published_at": "Tue, 20 Oct 2026 11:08:48 +0700",
+      "createAt": "2026-10-20T04:08:48.000Z",
+      "thumbnail_blurhash": "L$L;jYWUWBof_4j[ayay^+ofayof"
+    },
+    {
+      "id": "https://vnexpress.net/bai-toan-kho-giai-cua-phap-sau-song-bieu-tinh-bao-loan-5134431.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Bài toán khó giải của Pháp sau sóng biểu tình, bạo loạn",
+      "description": "Bế tắc chính trị, kinh tế ảm đạm và gánh nặng nợ công trở thành thách thức mà nước Pháp khó giải quyết sau làn sóng biểu tình bạo lực cuối tuần qua.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/20/anh1-1792465040-7980-1792465509.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=HdW3pKRgq7Xh8iZS6aIf_A",
+      "link": "https://vnexpress.net/bai-toan-kho-giai-cua-phap-sau-song-bieu-tinh-bao-loan-5134431.html",
+      "published_at": "Tue, 20 Oct 2026 11:25:14 +0700",
+      "createAt": "2026-10-20T04:25:14.000Z",
+      "thumbnail_blurhash": "LDCYwG}twK%M^P,@nPRktOIoNGM|"
+    },
+    {
+      "id": "https://vnexpress.net/bi-phat-vi-bam-coi-thuc-giuc-xe-khac-nhuong-duong-5134548.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Bị phạt vì bấm còi thúc giục xe khác nhường đường",
+      "description": "Tài xế bị phạt 2,4 triệu đồng, trừ 2 điểm bằng lái sau khi liên tục bấm còi, chớp đèn thúc ôtô phía trước trên cao tốc.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/20/thumb-1792469292-3919-1792469305.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=XP4-GBFumV2tdlkDI8tuug",
+      "link": "https://vnexpress.net/bi-phat-vi-bam-coi-thuc-giuc-xe-khac-nhuong-duong-5134548.html",
+      "published_at": "Tue, 20 Oct 2026 11:28:35 +0700",
+      "createAt": "2026-10-20T04:28:35.000Z",
+      "thumbnail_blurhash": "LxIhsroJM{of~qs.WBj[xvxat7of"
+    },
+    {
+      "id": "https://vnexpress.net/ha-noi-cho-thu-tien-bo-tro-cao-nhat-15-000-dong-mot-tiet-5134513.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Hà Nội cho thu tiền bổ trợ cao nhất 15.000 đồng một tiết",
+      "description": "Mức trần tiền học bổ trợ ở trường công lập chất lượng cao của Hà Nội là 15.000 đồng/tiết, thay vì 45.000-55.000 như dự kiến.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/20/cva-of-1792467610-5312-1792467731.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=zp8sUowDHy5K4AhKE-RxFg",
+      "link": "https://vnexpress.net/ha-noi-cho-thu-tien-bo-tro-cao-nhat-15-000-dong-mot-tiet-5134513.html",
+      "published_at": "Tue, 20 Oct 2026 11:45:56 +0700",
+      "createAt": "2026-10-20T04:45:56.000Z",
+      "thumbnail_blurhash": "LDG+UV.AVqbw}flC%N-m00I9%Ln}"
+    }
+  ]
 }
