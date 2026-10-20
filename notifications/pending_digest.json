@@ -1,3 +1,43 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/mbappe-duoc-vinh-danh-truoc-qua-bong-vang-2026-5134412.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Mbappe được vinh danh trước Quả Bóng Vàng 2026",
+      "description": "Tiền đạo Kylian Mbappe vừa đoạt Onze d'Or 2026, nhưng 5 trong 8 người chiến thắng gần nhất ở giải này sau đó không thể đoạt Quả Bóng Vàng cùng năm.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/10/20/a-nh-ma-n-hi-nh-lu-c-179244422-9716-2661-1792444290.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=XzlPQyX7p9_1kkhMKZVHmA",
+      "link": "https://vnexpress.net/mbappe-duoc-vinh-danh-truoc-qua-bong-vang-2026-5134412.html",
+      "published_at": "Tue, 20 Oct 2026 05:56:15 +0700",
+      "createAt": "2026-10-19T22:56:15.000Z",
+      "thumbnail_blurhash": "LGE.%[wI0p~A4V^h}?r=V?-n?FIp"
+    },
+    {
+      "id": "https://vnexpress.net/lai-suat-tiet-kiem-giam-dong-loat-5134403.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Lãi suất tiết kiệm giảm đồng loạt",
+      "description": "15 ngân hàng tư nhân cùng lúc giảm 0,5-0,7 điểm phần trăm lãi suất tiền gửi niêm yết từ 6 tháng trong ngày 19/10, ngay sau chỉ đạo của Ngân hàng Nhà nước.",
+      "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/19/wm1-wm1-huy-1792427861-6719-1792427947.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=DKitn-07bRgjmsokyrKg3Q",
+      "link": "https://vnexpress.net/lai-suat-tiet-kiem-giam-dong-loat-5134403.html",
+      "published_at": "Tue, 20 Oct 2026 06:32:24 +0700",
+      "createAt": "2026-10-19T23:32:24.000Z",
+      "thumbnail_blurhash": "LCGuOAT{L1].VWkr4.IU?]Md,[O="
+    },
+    {
+      "id": "https://vnexpress.net/ong-trump-phap-nen-dong-cua-bien-gioi-5134415.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Ông Trump: 'Pháp nên đóng cửa biên giới'",
+      "description": "Tổng thống Trump cho rằng làn sóng biểu tình và bạo lực ở Pháp là hệ quả từ chính sách nhập cư, kêu gọi nước này và châu Âu siết biên giới.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/20/afp-d3qz4gc-v1-highres-uspolit-5593-5797-1792452225.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=i5iAtot28njJyHGFOTpdWA",
+      "link": "https://vnexpress.net/ong-trump-phap-nen-dong-cua-bien-gioi-5134415.html",
+      "published_at": "Tue, 20 Oct 2026 06:42:21 +0700",
+      "createAt": "2026-10-19T23:42:21.000Z",
+      "thumbnail_blurhash": "LMD93bxtNF%2~VWBIpoyt6jZs,t7"
+    }
+  ]
 }
