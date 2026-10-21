@@ -934,5 +934,31 @@
     "published_at": "Wed, 21 Oct 2026 15:00:00 +0700",
     "createAt": "2026-10-21T08:00:00.000Z",
     "thumbnail_blurhash": "LVHLuS4o~pt2o}D%IUM_?aodIUR+"
+  },
+  {
+    "id": "https://vnexpress.net/vn-index-tang-gan-47-diem-5135178.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "VN-Index tăng gần 47 điểm",
+    "description": "Nhà đầu tư trong lẫn ngoài nước đồng loạt \"bắt đáy\" giúp VN-Index tăng xấp xỉ 47 điểm, đánh dấu phiên giao dịch khởi sắc nhất trong nửa năm qua.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/21/233A8061-4839-1792570953.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=i5nmurCwaCuVfDxmrzAnCQ",
+    "link": "https://vnexpress.net/vn-index-tang-gan-47-diem-5135178.html",
+    "published_at": "Wed, 21 Oct 2026 16:03:02 +0700",
+    "createAt": "2026-10-21T09:03:02.000Z",
+    "thumbnail_blurhash": "LODJr6N3bvoy01%LR$t7_4IUM^j;"
+  },
+  {
+    "id": "https://vnexpress.net/ngan-hang-nha-nuoc-giuc-giam-lai-suat-tiet-kiem-tren-tat-ca-kenh-5135186.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Ngân hàng Nhà nước giục giảm lãi suất tiết kiệm trên tất cả kênh",
+    "description": "Nhà điều hành vừa tiếp tục ra yêu cầu các nhà băng giảm lãi suất trên tất cả kênh bán hàng một cách thực chất.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/21/wm1-wm1-huy-1792574762-4694-1792574771.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=E-jzZzcd7qkiC0YjraGDNg",
+    "link": "https://vnexpress.net/ngan-hang-nha-nuoc-giuc-giam-lai-suat-tiet-kiem-tren-tat-ca-kenh-5135186.html",
+    "published_at": "Wed, 21 Oct 2026 16:11:56 +0700",
+    "createAt": "2026-10-21T09:11:56.000Z",
+    "thumbnail_blurhash": "LRJuGn=z%3pI^,?bs.tR_NxaR%V@"
   }
 ]
