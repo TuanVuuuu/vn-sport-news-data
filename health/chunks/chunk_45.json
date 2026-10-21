@@ -986,5 +986,83 @@
     "published_at": "Wed, 21 Oct 2026 08:15:10 +0700",
     "createAt": "2026-10-21T01:15:10.000Z",
     "thumbnail_blurhash": "LECPhZ%200EN00jF?aNG~qbcMxxa"
+  },
+  {
+    "id": "https://vnexpress.net/u-tai-do-ung-thu-vom-hong-di-can-5134906.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Ù tai do ung thư vòm họng di căn",
+    "description": "Ông Thành, 58 tuổi, ù tai kèm tê bì nửa mặt, từ Nga về Việt Nam khám được bác sĩ phát hiện ung thư vòm họng di căn.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/21/utai-1792545993-7285-1792546111.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=2ZF6Dims9jf04eblIJLYnQ",
+    "link": "https://vnexpress.net/u-tai-do-ung-thu-vom-hong-di-can-5134906.html",
+    "published_at": "Wed, 21 Oct 2026 09:00:00 +0700",
+    "createAt": "2026-10-21T02:00:00.000Z",
+    "thumbnail_blurhash": "LLMtdZ~W4:%M~VW99FbJIobIWCoJ"
+  },
+  {
+    "id": "https://vnexpress.net/ai-can-tiem-vaccine-ngua-nao-mo-cau-5134890.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Ai cần tiêm vaccine ngừa não mô cầu?",
+    "description": "Trẻ nhỏ, thanh thiếu niên, người suy giảm miễn dịch và sống trong môi trường tập thể dễ nhiễm vi khuẩn não mô cầu nên cần tiêm vaccine phòng ngừa.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/21/vnvc-ai-can-tiem-vac-xin-nao-m-6098-5090-1792543504.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=MT65R8f3RF-jvHEajlERiA",
+    "link": "https://vnexpress.net/ai-can-tiem-vaccine-ngua-nao-mo-cau-5134890.html",
+    "published_at": "Wed, 21 Oct 2026 09:00:00 +0700",
+    "createAt": "2026-10-21T02:00:00.000Z",
+    "thumbnail_blurhash": "LdKxuH?bpco|_NIVbWtRV[WUaeV@"
+  },
+  {
+    "id": "https://vnexpress.net/men-gan-binh-thuong-la-dau-hieu-gan-khoe-5134879.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Men gan bình thường là dấu hiệu gan khỏe?",
+    "description": "Kết quả khám sức khỏe định kỳ của tôi cho thấy các chỉ số men gan đều bình thường. Đây có phải dấu hiệu gan khỏe mạnh, không mắc bệnh? (Như Mỹ, TP HCM)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/21/mo-hi-nh-gan-bi-nh-thu-o-ng-va-6753-9148-1792541790.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=yPiC7QCYoUW27guO3sQ_Gg",
+    "link": "https://vnexpress.net/men-gan-binh-thuong-la-dau-hieu-gan-khoe-5134879.html",
+    "published_at": "Wed, 21 Oct 2026 09:00:00 +0700",
+    "createAt": "2026-10-21T02:00:00.000Z",
+    "thumbnail_blurhash": "LQPP1PbKXm-.bmRjahm-?wx]s,%#"
+  },
+  {
+    "id": "https://vnexpress.net/hai-giai-doan-benh-vong-mac-dai-thao-duong-5134936.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Hai giai đoạn bệnh võng mạc đái tháo đường",
+    "description": "Bệnh võng mạc đái tháo đường gồm hai giai đoạn tăng sinh và không tăng sinh, có thể gây mờ mắt, thậm chí mù lòa.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/21/bacsihuyenkiemtrathiluc-179254-8470-7526-1792549482.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=KmWMpgKRCG75HE5EGeyBNg",
+    "link": "https://vnexpress.net/hai-giai-doan-benh-vong-mac-dai-thao-duong-5134936.html",
+    "published_at": "Wed, 21 Oct 2026 10:00:00 +0700",
+    "createAt": "2026-10-21T03:00:00.000Z",
+    "thumbnail_blurhash": "LBGIl,0D?a~V^u4ntRtT~V0LtSo$"
+  },
+  {
+    "id": "https://vnexpress.net/ba-thoi-quen-sinh-hoat-co-the-lam-tang-nguy-co-suy-gian-tinh-mach-5134914.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Ba thói quen sinh hoạt có thể làm tăng nguy cơ suy giãn tĩnh mạch",
+    "description": "Ngồi quá nhiều, đi giày cao gót, ít tập thể dục là những thói quen dễ làm tăng nguy cơ suy giãn tĩnh mạch.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/21/image001-1792546695-2969-1792546810.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=z4wYOrK7PvrPuRcRJOutJg",
+    "link": "https://vnexpress.net/ba-thoi-quen-sinh-hoat-co-the-lam-tang-nguy-co-suy-gian-tinh-mach-5134914.html",
+    "published_at": "Wed, 21 Oct 2026 10:00:00 +0700",
+    "createAt": "2026-10-21T03:00:00.000Z",
+    "thumbnail_blurhash": "LQLXf6oN_N?b~qjYbcxuRjxufSM{"
+  },
+  {
+    "id": "https://vnexpress.net/4-thoi-quen-buoi-sang-giup-giam-hoi-chung-chuyen-hoa-5134853.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "4 thói quen buổi sáng giúp giảm hội chứng chuyển hóa",
+    "description": "Bắt đầu buổi sáng bằng cách đi bộ nhẹ nhàng, thư giãn, góp phần ổn định lượng đường trong máu, giảm nguy cơ mắc hội chứng chuyển hóa.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/21/819132327-n-1792535495-9748-1792540910.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=22rMGhXE_c5-XkA5YSPe5Q",
+    "link": "https://vnexpress.net/4-thoi-quen-buoi-sang-giup-giam-hoi-chung-chuyen-hoa-5134853.html",
+    "published_at": "Wed, 21 Oct 2026 10:00:00 +0700",
+    "createAt": "2026-10-21T03:00:00.000Z",
+    "thumbnail_blurhash": "LXJarcxuxuk9~Boeo#s:yBadozkW"
   }
 ]
