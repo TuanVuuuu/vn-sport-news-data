@@ -427,5 +427,31 @@
     "published_at": "Thu, 22 Oct 2026 00:00:00 +0700",
     "createAt": "2026-10-21T17:00:00.000Z",
     "thumbnail_blurhash": "L47^PyGZ004m00n4~q~Cpb$*IBEL"
+  },
+  {
+    "id": "https://vnexpress.net/khi-ai-khien-nguoi-dung-tu-bo-dich-vu-5134567.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Khi AI khiến người dùng từ bỏ dịch vụ",
+    "description": "Vào website một thương hiệu quen để mua giày, Thu Hà nhíu mày khi video giới thiệu được tạo từ AI chứ không phải tự quay như trước.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/21/lq-1792544056-9764-1792544861.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=DkFvo_aktznW1As70_m9Ww",
+    "link": "https://vnexpress.net/khi-ai-khien-nguoi-dung-tu-bo-dich-vu-5134567.html",
+    "published_at": "Thu, 22 Oct 2026 05:00:00 +0700",
+    "createAt": "2026-10-21T22:00:00.000Z",
+    "thumbnail_blurhash": "LyJHN@~VxWxut7xat7ozo0t7tRR*"
+  },
+  {
+    "id": "https://vnexpress.net/dieu-gi-xay-ra-neu-tac-nhan-ai-noi-ngon-ngu-rieng-5134247.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Điều gì xảy ra nếu tác nhân AI 'nói' ngôn ngữ riêng?",
+    "description": "Nếu tác nhân AI tự hình thành ngôn ngữ riêng, chúng có thể trao đổi thông tin hiệu quả hơn, nhưng gây khó cho khả năng giám sát của con người.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/19/robotu-pokalbis-neoniniame-duo-6740-4080-1792409107.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=TmSEYkJqGum9qlwtjuWozA",
+    "link": "https://vnexpress.net/dieu-gi-xay-ra-neu-tac-nhan-ai-noi-ngon-ngu-rieng-5134247.html",
+    "published_at": "Thu, 22 Oct 2026 05:00:00 +0700",
+    "createAt": "2026-10-21T22:00:00.000Z",
+    "thumbnail_blurhash": "L769O=oaRcO~S*ajSmX2Maa$ouVr"
   }
 ]
