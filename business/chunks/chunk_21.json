@@ -908,5 +908,31 @@
     "published_at": "Wed, 21 Oct 2026 13:46:31 +0700",
     "createAt": "2026-10-21T06:46:31.000Z",
     "thumbnail_blurhash": "LYGb*+?w5^XpN6s;%KkCR%WVxFs-"
+  },
+  {
+    "id": "https://vnexpress.net/300-000-tai-xe-green-sm-duoc-dao-tao-so-cap-cuu-5135114.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "300.000 tài xế Green SM được đào tạo sơ cấp cứu",
+    "description": "Green SM phối hợp hệ thống y tế Vinmec, đại học VinUni đào tạo kiến thức, kỹ năng sơ cấp cứu cho hàng trăm nghìn tài xế trên toàn quốc, từ 21/10.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/21/1-1792566933-2419-1792567033.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=DkmYaLVp4PNKwnGX9C4-Yw",
+    "link": "https://vnexpress.net/300-000-tai-xe-green-sm-duoc-dao-tao-so-cap-cuu-5135114.html",
+    "published_at": "Wed, 21 Oct 2026 15:00:00 +0700",
+    "createAt": "2026-10-21T08:00:00.000Z",
+    "thumbnail_blurhash": "LlJ9G9xuNaoz~pbZWUozWqRjMxV@"
+  },
+  {
+    "id": "https://vnexpress.net/shb-lan-dau-cong-bo-khung-tai-chinh-ben-vung-5135111.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "SHB lần đầu công bố khung tài chính bền vững",
+    "description": "SHB xây dựng khung tài chính bền vững theo các nguyên tắc quốc tế về tài chính xanh và xã hội, làm cơ sở lựa chọn dự án, quản lý nguồn vốn và phát triển sản phẩm.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/21/Khung-TCBV-1792569531-9735-1792569652.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=q1EiGSis-D3QgZl6yT_IfQ",
+    "link": "https://vnexpress.net/shb-lan-dau-cong-bo-khung-tai-chinh-ben-vung-5135111.html",
+    "published_at": "Wed, 21 Oct 2026 15:00:00 +0700",
+    "createAt": "2026-10-21T08:00:00.000Z",
+    "thumbnail_blurhash": "LVHLuS4o~pt2o}D%IUM_?aodIUR+"
   }
 ]
