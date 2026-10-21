@@ -492,5 +492,31 @@
     "published_at": "Wed, 21 Oct 2026 14:13:46 +0700",
     "createAt": "2026-10-21T07:13:46.000Z",
     "thumbnail_blurhash": "LVDuA1w^S2oz}t$%bHNb=dxFayR+"
+  },
+  {
+    "id": "https://vnexpress.net/quan-an-noi-tieng-cho-ben-thanh-dong-cua-sau-40-nam-5135154.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Quán ăn nổi tiếng chợ Bến Thành đóng cửa sau 40 năm",
+    "description": "Quán Thanh Bình trên đường Lê Thánh Tôn, gần chợ Bến Thành ngừng kinh doanh sau hơn 40 năm hoạt động vì chủ quán \"muốn được nghỉ ngơi\".",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/10/21/2aobor73b22cdbwgsuogbkvpddn1rq-3806-6162-1792574271.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=GZ2r2IeQNn2_fTgJ-AEveg",
+    "link": "https://vnexpress.net/quan-an-noi-tieng-cho-ben-thanh-dong-cua-sau-40-nam-5135154.html",
+    "published_at": "Wed, 21 Oct 2026 17:24:48 +0700",
+    "createAt": "2026-10-21T10:24:48.000Z",
+    "thumbnail_blurhash": "LBE{LSr.Ax?^9YwgO?E101X.-OMK"
+  },
+  {
+    "id": "https://vnexpress.net/su-tu-trang-quy-hiem-cuoi-cung-o-thao-cam-vien-chet-5135261.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Sư tử trắng quý hiểm cuối cùng ở Thảo Cầm Viên chết",
+    "description": "Sư tử trắng tên MiMi 18 tuổi chết chiều 21/10 sau thời gian được điều trị tích cực vì mắc nhiều bệnh.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/10/21/857193902-n-png-jpeg-179257844-2490-3769-1792578590.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=dCNo-Vd6zBrnR1p2of5lxQ",
+    "link": "https://vnexpress.net/su-tu-trang-quy-hiem-cuoi-cung-o-thao-cam-vien-chet-5135261.html",
+    "published_at": "Wed, 21 Oct 2026 17:37:52 +0700",
+    "createAt": "2026-10-21T10:37:52.000Z",
+    "thumbnail_blurhash": "L5G+dd000La33G00m+x^0R8_-4.S"
   }
 ]
