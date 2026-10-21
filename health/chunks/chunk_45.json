@@ -895,5 +895,31 @@
     "published_at": "Wed, 21 Oct 2026 05:00:00 +0700",
     "createAt": "2026-10-20T22:00:00.000Z",
     "thumbnail_blurhash": "LGK1wOnhDh-oR6Ipxut6?wtRNGxv"
+  },
+  {
+    "id": "https://vnexpress.net/nu-bac-si-nhoi-tim-cuu-hanh-khach-australia-bat-tinh-tren-may-bay-5134817.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Nữ bác sĩ nhồi tim cứu hành khách Australia bất tỉnh trên máy bay",
+    "description": "Trên chuyến bay từ Hà Nội về TP HCM nghe tiếp viên phát loa tìm kiếm hỗ trợ y tế cho một hành khách đang ngưng thở, bác sĩ Phạm Thị Vân Thanh lập tức chạy đến cứu người.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/20/ma-y-bay-jpeg-1792510228-5026-1792510353.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Px0Y8hqhQP8yJJ_6AEMWPA",
+    "link": "https://vnexpress.net/nu-bac-si-nhoi-tim-cuu-hanh-khach-australia-bat-tinh-tren-may-bay-5134817.html",
+    "published_at": "Wed, 21 Oct 2026 00:09:12 +0700",
+    "createAt": "2026-10-20T17:09:12.000Z",
+    "thumbnail_blurhash": "L|NT,lxboft7_4j[fPofxsWBR*ay"
+  },
+  {
+    "id": "https://vnexpress.net/sai-lam-khi-do-loi-tang-can-beo-phi-do-an-nhieu-com-5134578.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Sai lầm khi đổ lỗi tăng cân, béo phì do ăn nhiều cơm",
+    "description": "Nhiều người nhịn cơm vì sợ béo nhưng lại ăn bù thịt và hoa quả ngọt, khiến cơ thể nạp thừa năng lượng và tăng cân mất kiểm soát.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/20/anh-chup-man-hinh-luc-17924744-7251-5453-1792474454.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=33cMiVAB62XI_p43e3bfjg",
+    "link": "https://vnexpress.net/sai-lam-khi-do-loi-tang-can-beo-phi-do-an-nhieu-com-5134578.html",
+    "published_at": "Wed, 21 Oct 2026 06:00:00 +0700",
+    "createAt": "2026-10-20T23:00:00.000Z",
+    "thumbnail_blurhash": "L9E:0i~q00xa_3-pMxNG00D%_MWB"
   }
 ]
