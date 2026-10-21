@@ -258,5 +258,31 @@
     "published_at": "Wed, 21 Oct 2026 19:20:31 +0700",
     "createAt": "2026-10-21T12:20:31.000Z",
     "thumbnail_blurhash": "L%H_[Rxvxu%N_Nj]a}kC-;aeaeWV"
+  },
+  {
+    "id": "https://vnexpress.net/tong-thong-ukraine-ung-ho-dam-phan-ba-ben-voi-nga-my-5135303.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Tổng thống Ukraine ủng hộ đàm phán ba bên với Nga, Mỹ",
+    "description": "Tổng thống Zelensky nhấn mạnh tầm quan trọng của việc ngừng bắn, đồng thời ủng hộ đàm phán ba bên giữa các lãnh đạo Ukraine, Mỹ và Nga.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/21/afp-d27n3cw-v1-highres-ukraine-4703-2569-1792587069.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=bS77thnAnevlWQt1pdtZGQ",
+    "link": "https://vnexpress.net/tong-thong-ukraine-ung-ho-dam-phan-ba-ben-voi-nga-my-5135303.html",
+    "published_at": "Wed, 21 Oct 2026 20:22:54 +0700",
+    "createAt": "2026-10-21T13:22:54.000Z",
+    "thumbnail_blurhash": "LdK9ueVG~T5S}sa2JRE#RkWCNbX8"
+  },
+  {
+    "id": "https://vnexpress.net/ong-macron-chi-trich-nhung-binh-luan-ngo-ngan-ve-bao-loan-5135320.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Ông Macron chỉ trích những 'bình luận ngớ ngẩn' về bạo loạn",
+    "description": "Tổng thống Macron chỉ trích các lãnh đạo nước ngoài bình luận \"ngớ ngẩn\" dựa trên video do AI tạo về bạo loạn ở Pháp, dường như ám chỉ ông Trump.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/21/afp-d3xd787-v1-highres-qatarfr-5956-5951-1792592072.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=DH17Kl_tWZIeGApvbLroFA",
+    "link": "https://vnexpress.net/ong-macron-chi-trich-nhung-binh-luan-ngo-ngan-ve-bao-loan-5135320.html",
+    "published_at": "Wed, 21 Oct 2026 21:44:04 +0700",
+    "createAt": "2026-10-21T14:44:04.000Z",
+    "thumbnail_blurhash": "LQKAi^oL~Vxs^ixZD*WBjERjIpof"
   }
 ]
