@@ -817,5 +817,31 @@
     "published_at": "Wed, 21 Oct 2026 10:00:00 +0700",
     "createAt": "2026-10-21T03:00:00.000Z",
     "thumbnail_blurhash": "LXMHV??I9F.8?boLt7of_NtRbHRP"
+  },
+  {
+    "id": "https://vnexpress.net/msb-giam-lai-suat-cho-khach-hang-ca-nhan-va-doanh-nghiep-5134976.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "MSB giảm lãi suất cho khách hàng cá nhân và doanh nghiệp",
+    "description": "MSB giảm tối thiểu 2% lãi suất cho vay đối với khách hàng doanh nghiệp, đồng thời hạ 0,5% lãi suất huy động kỳ hạn từ 6 tháng đối với khách hàng cá nhân.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/21/msb-1792551927-2140-1792551971.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=WL5zAfSX6ja4rDLUWrMtSA",
+    "link": "https://vnexpress.net/msb-giam-lai-suat-cho-khach-hang-ca-nhan-va-doanh-nghiep-5134976.html",
+    "published_at": "Wed, 21 Oct 2026 10:30:00 +0700",
+    "createAt": "2026-10-21T03:30:00.000Z",
+    "thumbnail_blurhash": "LeK^a5}l#.-5%Mxvi_kDs:o#IUj]"
+  },
+  {
+    "id": "https://vnexpress.net/pnj-neu-phuong-an-tai-thiet-tai-dai-hoi-co-dong-bat-thuong-5135018.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "PNJ nêu phương án tái thiết tại đại hội cổ đông bất thường",
+    "description": "Doanh nghiệp dự kiến trích lập 7.071 tỷ đồng dự phòng tổn thất, đồng thời đề xuất huy động vốn, tinh gọn vận hành nhằm tạo nền tảng phục hồi kinh doanh.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/21/screenshot-1792555430-8880-1792555449.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=98Ub0C4qf9H49LyeM_fGTA",
+    "link": "https://vnexpress.net/pnj-neu-phuong-an-tai-thiet-tai-dai-hoi-co-dong-bat-thuong-5135018.html",
+    "published_at": "Wed, 21 Oct 2026 11:20:00 +0700",
+    "createAt": "2026-10-21T04:20:00.000Z",
+    "thumbnail_blurhash": "LDF5,o9#ELtUzB=^D#VX~U9utQ%L"
   }
 ]
