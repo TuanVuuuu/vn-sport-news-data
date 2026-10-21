@@ -921,5 +921,70 @@
     "published_at": "Wed, 21 Oct 2026 06:00:00 +0700",
     "createAt": "2026-10-20T23:00:00.000Z",
     "thumbnail_blurhash": "L9E:0i~q00xa_3-pMxNG00D%_MWB"
+  },
+  {
+    "id": "https://vnexpress.net/8-nan-nhan-ngo-doc-khi-clo-bi-ton-thuong-phoi-5134827.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "8 nạn nhân ngộ độc khí clo bị tổn thương phổi",
+    "description": "8 nạn nhân bị tổn thương phổi do ngộ độc khí clo sau sự cố xì bình hóa chất phế liệu, trong đó một người điều trị tại Xanh Pôn, 7 người ở Bạch Mai.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/20/2-1792510608-9579-1792510657.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=7Q5rMY4zGqbxDeN4QXYjfA",
+    "link": "https://vnexpress.net/8-nan-nhan-ngo-doc-khi-clo-bi-ton-thuong-phoi-5134827.html",
+    "published_at": "Wed, 21 Oct 2026 05:00:00 +0700",
+    "createAt": "2026-10-20T22:00:00.000Z",
+    "thumbnail_blurhash": "LGK1wOnhDh-oR6Ipxut6?wtRNGxv"
+  },
+  {
+    "id": "https://vnexpress.net/thai-phu-benh-cum-con-suy-ho-hap-sau-sinh-5134896.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Thai phụ bệnh cúm, con suy hô hấp sau sinh",
+    "description": "Chị Ngân, 32 tuổi, mang thai 39 tuần thì mắc bệnh cúm, thai suy phải mổ khẩn, bé chào đời suy hô hấp được can thiệp kịp thời.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/21/image001-1792543565-1311-1792543637.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=8DIFn77aeaFFnjEz9m-pHg",
+    "link": "https://vnexpress.net/thai-phu-benh-cum-con-suy-ho-hap-sau-sinh-5134896.html",
+    "published_at": "Wed, 21 Oct 2026 08:00:00 +0700",
+    "createAt": "2026-10-21T01:00:00.000Z",
+    "thumbnail_blurhash": "LKHCQO_400xw-$xV%KskW8o#XARi"
+  },
+  {
+    "id": "https://vnexpress.net/u-mang-phoi-o-tuoi-doi-muoi-5134878.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "U màng phổi ở tuổi đôi mươi",
+    "description": "Anh Tấn, 27 tuổi, mệt mỏi, đau ngực, bác sĩ phát hiện u màng phổi gần 3 cm và phẫu thuật nội soi qua đường quầng vú.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/21/2-1792541446-7007-1792541595.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=inGxEw2sYBJztiBx-x3VQA",
+    "link": "https://vnexpress.net/u-mang-phoi-o-tuoi-doi-muoi-5134878.html",
+    "published_at": "Wed, 21 Oct 2026 08:00:00 +0700",
+    "createAt": "2026-10-21T01:00:00.000Z",
+    "thumbnail_blurhash": "LaJ*}7%jogah-g-nWCs:t8t6jDWB"
+  },
+  {
+    "id": "https://vnexpress.net/nguoi-phu-nu-giam-11-kg-can-nang-giam-ap-luc-dau-khop-goi-5134874.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Người phụ nữ giảm 11 kg cân nặng giảm áp lực đau khớp gối",
+    "description": "Chị Hồng, 30 tuổi, tăng 27 kg sau sinh khó giảm cân, hai khớp đầu gối cứng đau nhức, nay điều trị béo phì giảm 11 kg.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/21/vne-1792541257-8863-1792541321.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=peMGu-rQ6-tTct8mYioLfg",
+    "link": "https://vnexpress.net/nguoi-phu-nu-giam-11-kg-can-nang-giam-ap-luc-dau-khop-goi-5134874.html",
+    "published_at": "Wed, 21 Oct 2026 08:00:00 +0700",
+    "createAt": "2026-10-21T01:00:00.000Z",
+    "thumbnail_blurhash": "LOK-kFTM~O=U?CX9p0%NMwRnbdIU"
+  },
+  {
+    "id": "https://vnexpress.net/cach-nam-than-truong-tri-lam-giu-dang-o-tuoi-55-sau-2-lan-mo-soi-mat-5134838.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Cách nam thần Trương Trí Lâm giữ dáng ở tuổi 55 sau 2 lần mổ sỏi mật",
+    "description": "Tài tử Trương Trí Lâm kiểm soát thực đơn thanh đạm, tự rèn cơ bắp cùng bóng đá và duy trì lịch khám sức khỏe định kỳ sau biến cố viêm túi mật cấp.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/20/screenshot-at-1792515124-2633-1792515175.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=hPPDi1oZlIduom4TXaNXAQ",
+    "link": "https://vnexpress.net/cach-nam-than-truong-tri-lam-giu-dang-o-tuoi-55-sau-2-lan-mo-soi-mat-5134838.html",
+    "published_at": "Wed, 21 Oct 2026 08:15:10 +0700",
+    "createAt": "2026-10-21T01:15:10.000Z",
+    "thumbnail_blurhash": "LECPhZ%200EN00jF?aNG~qbcMxxa"
   }
 ]
