@@ -765,5 +765,31 @@
     "published_at": "Wed, 21 Oct 2026 05:00:00 +0700",
     "createAt": "2026-10-20T22:00:00.000Z",
     "thumbnail_blurhash": "LFFP1:r;D$x^~W-;4nx]?vkr9F%2"
+  },
+  {
+    "id": "https://vnexpress.net/cac-thi-truong-dong-loat-tang-mua-ot-viet-5134230.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Các thị trường đồng loạt tăng mua ớt Việt",
+    "description": "Xuất khẩu ớt Việt Nam tăng 115% về lượng trong 9 tháng đầu năm, trong đó một số thị trường tăng mua gần 16 lần.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/20/ot-thiha-1792470271-6439-1792470514.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=d23TvDVfePXhpFsNVUQmnA",
+    "link": "https://vnexpress.net/cac-thi-truong-dong-loat-tang-mua-ot-viet-5134230.html",
+    "published_at": "Wed, 21 Oct 2026 07:10:00 +0700",
+    "createAt": "2026-10-21T00:10:00.000Z",
+    "thumbnail_blurhash": "LGEoYr3sT#{rNEnfRjwJk=V#%1K3"
+  },
+  {
+    "id": "https://vnexpress.net/spacex-tesla-dang-nghien-cuu-kha-nang-sap-nhap-5134868.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "SpaceX, Tesla đang nghiên cứu khả năng sáp nhập",
+    "description": "Tỷ phú Elon Musk cho biết Tesla và SpaceX đã lập các hội đồng đặc biệt để thảo luận khả năng sáp nhập, theo đề nghị của cổ đông.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/21/Screenshot20261017092252-17925-7117-6349-1792540936.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=75Yr1HSCqKSxCGVkTPSRpA",
+    "link": "https://vnexpress.net/spacex-tesla-dang-nghien-cuu-kha-nang-sap-nhap-5134868.html",
+    "published_at": "Wed, 21 Oct 2026 07:15:07 +0700",
+    "createAt": "2026-10-21T00:15:07.000Z",
+    "thumbnail_blurhash": "LC97q$Rj00x]00t7~qM{=vWBI=oL"
   }
 ]
