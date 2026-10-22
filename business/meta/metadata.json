@@ -1,5 +1,5 @@
 {
-  "total_articles": 2097,
+  "total_articles": 2103,
   "files": [
     "chunk_1.json",
     "chunk_2.json",
@@ -21,7 +21,8 @@
     "chunk_18.json",
     "chunk_19.json",
     "chunk_20.json",
-    "chunk_21.json"
+    "chunk_21.json",
+    "chunk_22.json"
   ],
   "channel": {
     "title": "Kinh doanh - VnExpress RSS",
@@ -30,7 +31,7 @@
     "copyright": "",
     "logo_url": "https://s.vnecdn.net/vnexpress/i/v20/logos/vne_logo_rss.png",
     "link": "https://vnexpress.net/rss/kinh-doanh.rss",
-    "last_updated": "Thu, 22 Oct 2026 12:10:55 +0700"
+    "last_updated": "Thu, 22 Oct 2026 16:11:06 +0700"
   },
-  "last_updated": "2026-10-22T09:11:06.723Z"
+  "last_updated": "2026-10-22T09:21:08.617Z"
 }
