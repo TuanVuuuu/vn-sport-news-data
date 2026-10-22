@@ -557,5 +557,31 @@
     "published_at": "Thu, 22 Oct 2026 16:00:00 +0700",
     "createAt": "2026-10-22T09:00:00.000Z",
     "thumbnail_blurhash": "LGJIFN-p00yC~qkCM{t7-WkCIoi_"
+  },
+  {
+    "id": "https://vnexpress.net/meta-bi-phat-25-ty-usd-5135615.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Meta bị phạt 25 tỷ USD",
+    "description": "Meta đối diện khoản phạt cao nhất lịch sử công ty, khi thẩm phán bang New Mexico ra phán quyết họ phải trả 25 tỷ USD do vi phạm quyền riêng tư.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/22/ap24031601332088-1792657200-2419-1792657870.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=q2Bs9LDcKoZ4-OjAYuaQdQ",
+    "link": "https://vnexpress.net/meta-bi-phat-25-ty-usd-5135615.html",
+    "published_at": "Thu, 22 Oct 2026 16:32:29 +0700",
+    "createAt": "2026-10-22T09:32:29.000Z",
+    "thumbnail_blurhash": "L996{:^*56jZ~B^*xuWB-;-p-o%L"
+  },
+  {
+    "id": "https://vnexpress.net/xac-thuc-sinh-trac-hoc-o-nhieu-ngan-hang-van-bi-vuot-qua-5135657.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "'Xác thực sinh trắc học ở nhiều ngân hàng vẫn bị vượt qua'",
+    "description": "Theo Phó Cục trưởng A05, dòng tiền trong nhiều vụ tấn công được luân chuyển rất nhanh, khi xác thực sinh trắc học tại nhiều ngân hàng bị vượt qua bởi ảnh và video deepfake.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/22/lq-1792664645-5894-1792664982.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=aA2rcH3tWeOH09Eu1i-I7w",
+    "link": "https://vnexpress.net/xac-thuc-sinh-trac-hoc-o-nhieu-ngan-hang-van-bi-vuot-qua-5135657.html",
+    "published_at": "Thu, 22 Oct 2026 18:25:28 +0700",
+    "createAt": "2026-10-22T11:25:28.000Z",
+    "thumbnail_blurhash": "L8GkwX0000Na%}VtVZx]~pQ-9|bv"
   }
 ]
