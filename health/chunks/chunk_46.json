@@ -167,5 +167,44 @@
     "published_at": "Thu, 22 Oct 2026 07:48:18 +0700",
     "createAt": "2026-10-22T00:48:18.000Z",
     "thumbnail_blurhash": "LPIYCE.AS5_4nLV=D%-;yCRkRjDi"
+  },
+  {
+    "id": "https://vnexpress.net/vi-sao-tre-de-tai-nhiem-virus-rhino-5135387.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Vì sao trẻ dễ tái nhiễm virus Rhino?",
+    "description": "Virus Rhino có hơn 160 chủng, miễn dịch sau một lần mắc bệnh không bảo vệ trước các chủng còn lại khiến trẻ dễ tái nhiễm.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/22/image001-1792628631-3913-1792628679.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=E_aM1YkWkDW4UEQNfgtaEA",
+    "link": "https://vnexpress.net/vi-sao-tre-de-tai-nhiem-virus-rhino-5135387.html",
+    "published_at": "Thu, 22 Oct 2026 08:00:00 +0700",
+    "createAt": "2026-10-22T01:00:00.000Z",
+    "thumbnail_blurhash": "LJMHDR_2~oE4~p.8?bWAR4IAo~M_"
+  },
+  {
+    "id": "https://vnexpress.net/mo-bac-ba-cau-mach-vanh-khi-tim-van-dap-5135379.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Mổ bắc ba cầu mạch vành khi tim vẫn đập",
+    "description": "Ông Tài, 60 tuổi, đau thắt ngực do tắc hẹp mạch máu nuôi tim, được bác sĩ phẫu thuật bắc cầu mạch vành khi tim vẫn đập.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/22/image001-1792627412-3493-1792627525.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=U3HziF8fI9KoMtxuL1292A",
+    "link": "https://vnexpress.net/mo-bac-ba-cau-mach-vanh-khi-tim-van-dap-5135379.html",
+    "published_at": "Thu, 22 Oct 2026 08:00:00 +0700",
+    "createAt": "2026-10-22T01:00:00.000Z",
+    "thumbnail_blurhash": "LGED-]bcEK%O~KS0-;xvxkax%1R-"
+  },
+  {
+    "id": "https://vnexpress.net/hiem-muon-do-hoi-chung-sieu-nu-5130829.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Hiếm muộn do hội chứng 'siêu nữ'",
+    "description": "Chị Thu, 33 tuổi, mắc hội chứng \"siêu nữ\" thừa nhiễm sắc thể X gây suy giảm dự trữ buồng trứng, được thụ tinh ống nghiệm kết hợp sàng lọc phôi giúp có con.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/10/dang-thuc-hien-rua-phoi-bao-sa-9410-1648-1791644093.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=S7Iu4fjc1lww6_CfnWr1GA",
+    "link": "https://vnexpress.net/hiem-muon-do-hoi-chung-sieu-nu-5130829.html",
+    "published_at": "Thu, 22 Oct 2026 08:00:00 +0700",
+    "createAt": "2026-10-22T01:00:00.000Z",
+    "thumbnail_blurhash": "LSI59_00NcaK~p4nxu-;xuRPNG%2"
   }
 ]

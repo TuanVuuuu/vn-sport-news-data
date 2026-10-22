@@ -557,5 +557,31 @@
     "published_at": "Thu, 22 Oct 2026 00:00:00 +0700",
     "createAt": "2026-10-21T17:00:00.000Z",
     "thumbnail_blurhash": "LTDc~{^-%ci~-%ohxb$~?c-=tRxv"
+  },
+  {
+    "id": "https://vnexpress.net/mon-banh-tien-vua-co-lich-su-600-nam-o-xu-thanh-5135041.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Món bánh tiến vua có lịch sử 600 năm ở xứ Thanh",
+    "description": "Từ lá gai, gạo nếp và mật mía, người dân làng Mía làm nên món bánh tiến vua có lịch sử hơn 600 năm, nổi bật với lớp vỏ đen dẻo, dậy hương thơm của lá chuối khô.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/10/21/banh-gai-tu-tru-1792555618-9636-1792557115.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=8_oId8A71oWDThISi9iIew",
+    "link": "https://vnexpress.net/mon-banh-tien-vua-co-lich-su-600-nam-o-xu-thanh-5135041.html",
+    "published_at": "Thu, 22 Oct 2026 07:35:34 +0700",
+    "createAt": "2026-10-22T00:35:34.000Z",
+    "thumbnail_blurhash": "L9F#%XHq0*^*00^*~WDicZrA-UtS"
+  },
+  {
+    "id": "https://vnexpress.net/le-duong-bao-lam-ru-puka-cheng-thuong-thuc-mon-ngon-tp-hcm-5134488.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Lê Dương Bảo Lâm rủ Puka, Cheng thưởng thức món ngon TP HCM",
+    "description": "Diễn viên Puka, ca sĩ Cheng và Lê Dương Bảo Lâm thưởng thức nhiều món ngon, khám phá văn hóa TP HCM, trong tập 5 \"Sao Chọn\" lên sóng cuối tuần này.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/10/21/oan0699-1792567118-7410-1792567439.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=4Xt6snbQyviaMhOrFuXm6w",
+    "link": "https://vnexpress.net/le-duong-bao-lam-ru-puka-cheng-thuong-thuc-mon-ngon-tp-hcm-5134488.html",
+    "published_at": "Thu, 22 Oct 2026 09:00:00 +0700",
+    "createAt": "2026-10-22T02:00:00.000Z",
+    "thumbnail_blurhash": "LRL4,2RPEh?b_N%gs:n~EM-:RPkW"
   }
 ]

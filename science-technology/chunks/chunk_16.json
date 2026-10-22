@@ -453,5 +453,70 @@
     "published_at": "Thu, 22 Oct 2026 05:00:00 +0700",
     "createAt": "2026-10-21T22:00:00.000Z",
     "thumbnail_blurhash": "L769O=oaRcO~S*ajSmX2Maa$ouVr"
+  },
+  {
+    "id": "https://vnexpress.net/xe-bay-tesla-man-trinh-dien-hay-cong-nghe-tuong-lai-5135267.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Xe bay Tesla - màn trình diễn hay công nghệ tương lai?",
+    "description": "Màn nhào lộn trên không của xe Tesla Roadster trong buổi ra mắt dấy lên câu hỏi lớn về tính khả thi khi đưa vào sản xuất.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/21/VNETesla-1792576954-4183-1792577116.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=-8oZ7ER9mZ-BTLboqDeu5g",
+    "link": "https://vnexpress.net/xe-bay-tesla-man-trinh-dien-hay-cong-nghe-tuong-lai-5135267.html",
+    "published_at": "Thu, 22 Oct 2026 00:00:00 +0700",
+    "createAt": "2026-10-21T17:00:00.000Z",
+    "thumbnail_blurhash": "L47^PyGZ004m00n4~q~Cpb$*IBEL"
+  },
+  {
+    "id": "https://vnexpress.net/cam-bien-cmos-tu-thi-nghiem-nasa-den-linh-kien-tren-hang-ty-camera-5134978.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Cảm biến CMOS - từ thí nghiệm NASA đến linh kiện trên hàng tỷ camera",
+    "description": "Từ nghiên cứu để khám phá không gian, cảm biến ảnh CMOS thành linh kiện phổ biến trong điện thoại và là câu chuyện thương mại hóa sáng chế thành công nhất của NASA.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/21/wm1-wm1-img-jpg-1792574149-1694-1792574437.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=yJHODIf60Oi1TO9BBWWNZQ",
+    "link": "https://vnexpress.net/cam-bien-cmos-tu-thi-nghiem-nasa-den-linh-kien-tren-hang-ty-camera-5134978.html",
+    "published_at": "Thu, 22 Oct 2026 08:40:36 +0700",
+    "createAt": "2026-10-22T01:40:36.000Z",
+    "thumbnail_blurhash": "L7C$=bD7-V?W~Vwdof$g00%Z8_Dm"
+  },
+  {
+    "id": "https://vnexpress.net/robot-ai-dau-tien-sap-bay-toi-mat-trang-5135113.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Robot AI đầu tiên sắp bay tới Mặt Trăng",
+    "description": "Công ty Astrolab sẽ phóng robot tự hành, tích hợp máy tính chạy mô hình ngôn ngữ lớn, để hỗ trợ hoạt động tìm kiếm băng nước ở cực nam Mặt Trăng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/21/VNEAstro-1792566867-8009-1792567038.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=aSZmWv70-oS84oOpoey4Qw",
+    "link": "https://vnexpress.net/robot-ai-dau-tien-sap-bay-toi-mat-trang-5135113.html",
+    "published_at": "Thu, 22 Oct 2026 08:44:20 +0700",
+    "createAt": "2026-10-22T01:44:20.000Z",
+    "thumbnail_blurhash": "L27KrE00I9%h00x]RjtR00E2~q8^"
+  },
+  {
+    "id": "https://vnexpress.net/ngoi-sao-hacker-trung-quoc-gia-nhap-z-ai-5135022.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "'Ngôi sao' hacker Trung Quốc gia nhập Z.AI",
+    "description": "Yuki Chen, được gọi là \"ngôi sao hacker \" Trung Quốc, gia nhập startup trí tuệ nhân tạo Z.AI với mục tiêu đảm bảo an toàn an ninh mạng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/21/gqardlewqaakqs3-jpeg-179255882-1452-3148-1792558955.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=OffwQ4m3Xxdw_a77mmS5wA",
+    "link": "https://vnexpress.net/ngoi-sao-hacker-trung-quoc-gia-nhap-z-ai-5135022.html",
+    "published_at": "Thu, 22 Oct 2026 08:45:06 +0700",
+    "createAt": "2026-10-22T01:45:06.000Z",
+    "thumbnail_blurhash": "LEI3zNM~2*0y~mI:+$wN%KNGrs$k"
+  },
+  {
+    "id": "https://vnexpress.net/tong-giam-doc-fpt-smart-cloud-can-chap-nhan-rui-ro-khi-ung-dung-ai-5134630.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Tổng giám đốc FPT Smart Cloud: 'Cần chấp nhận rủi ro khi ứng dụng AI'",
+    "description": "Trong bối cảnh AI còn mới, doanh nghiệp cần chủ động thử nghiệm, chấp nhận rủi ro và đánh giá hiệu quả từ thực tế thay vì chờ đủ cơ sở mới bắt đầu, theo ông Lê Hồng Việt, Tổng giám đốc FPT Smart Cloud, Tập đoàn FPT.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/21/FCIPVAnhLeHongVietbannersettop-9661-9550-1792596791.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=uIg-Wy5JQMqok3sgMbRYUA",
+    "link": "https://vnexpress.net/tong-giam-doc-fpt-smart-cloud-can-chap-nhan-rui-ro-khi-ung-dung-ai-5134630.html",
+    "published_at": "Thu, 22 Oct 2026 09:00:00 +0700",
+    "createAt": "2026-10-22T02:00:00.000Z",
+    "thumbnail_blurhash": "LYJ*F*-;%MRj~VE1NGae?Hogbcxu"
   }
 ]
