@@ -661,5 +661,57 @@
     "published_at": "Thu, 22 Oct 2026 17:15:01 +0700",
     "createAt": "2026-10-22T10:15:01.000Z",
     "thumbnail_blurhash": "L3AJ[]~q.7R-00D%RPoc00M|xut7"
+  },
+  {
+    "id": "https://vnexpress.net/ly-do-ong-zelensky-nin-nhin-ong-trump-5135398.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Lý do ông Zelensky 'nín nhịn' ông Trump",
+    "description": "Dù bị Tổng thống Trump chỉ trích, đòi thay thế, Tổng thống Zelensky hiểu rằng phản bác và đấu khẩu không phải là chiến thuật ứng phó với ông chủ Nhà Trắng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/22/trump-no-i-doa-1792645375-2272-1792645715.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=VmYPkxSNL3Zq9DBPFlDPTQ",
+    "link": "https://vnexpress.net/ly-do-ong-zelensky-nin-nhin-ong-trump-5135398.html",
+    "published_at": "Thu, 22 Oct 2026 19:00:00 +0700",
+    "createAt": "2026-10-22T12:00:00.000Z",
+    "thumbnail_blurhash": "LUF}$m_2Kjx^~W-:-;xutRRjn%t7"
+  },
+  {
+    "id": "https://vnexpress.net/nga-ukraine-trao-doi-gan-300-thi-the-quan-nhan-5135741.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Nga - Ukraine trao đổi gần 300 thi thể quân nhân",
+    "description": "Ukraine tiếp nhận 252 thi thể binh sĩ, Nga nhận về 25 tử sĩ trong cuộc trao đổi diễn ra tại biên giới Belarus.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/22/5563187178137269548a-179266838-6055-7796-1792668479.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=SxPukkuxds4jbxsrXZSiwA",
+    "link": "https://vnexpress.net/nga-ukraine-trao-doi-gan-300-thi-the-quan-nhan-5135741.html",
+    "published_at": "Thu, 22 Oct 2026 19:02:59 +0700",
+    "createAt": "2026-10-22T12:02:59.000Z",
+    "thumbnail_blurhash": "LfLXb}~q_3oex]t8t7RjRjozt7RP"
+  },
+  {
+    "id": "https://vnexpress.net/ly-do-nhieu-nguoi-my-ky-hop-dong-tien-hon-nhan-5135448.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Lý do nhiều người Mỹ ký hợp đồng tiền hôn nhân",
+    "description": "Hợp đồng tiền hôn nhân từng là công cụ bảo vệ tài sản cho người giàu, nhưng ngày càng nhiều người trẻ ở Mỹ coi đây là hình thức tự chăm sóc bản thân.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/22/lawkprenumpkirbycarlos-1792639-5015-8166-1792640244.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=nmxQgWQ8JuXDakxzpHeD6g",
+    "link": "https://vnexpress.net/ly-do-nhieu-nguoi-my-ky-hop-dong-tien-hon-nhan-5135448.html",
+    "published_at": "Thu, 22 Oct 2026 20:00:00 +0700",
+    "createAt": "2026-10-22T13:00:00.000Z",
+    "thumbnail_blurhash": "LHHxj7?H9s~V9E^*x]E2M^xa-oRQ"
+  },
+  {
+    "id": "https://vnexpress.net/ong-macron-trieu-tap-hoi-dong-quoc-phong-siet-kiem-soat-bieu-tinh-5135751.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Ông Macron triệu tập hội đồng quốc phòng, siết kiểm soát biểu tình",
+    "description": "Tổng thống Macron tuyên bố sẽ áp đặt những biện pháp an ninh mới, trong đó có cấm \"những tổ chức không có tính chính danh\" tổ chức biểu tình.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/22/5563187178137269549a-179267429-8653-6964-1792674297.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=PIB4eIT5h5ZalIug2p5vxA",
+    "link": "https://vnexpress.net/ong-macron-trieu-tap-hoi-dong-quoc-phong-siet-kiem-soat-bieu-tinh-5135751.html",
+    "published_at": "Thu, 22 Oct 2026 20:01:33 +0700",
+    "createAt": "2026-10-22T13:01:33.000Z",
+    "thumbnail_blurhash": "LeJHwI01XpER~WV@IokXNGaeoLkC"
   }
 ]
