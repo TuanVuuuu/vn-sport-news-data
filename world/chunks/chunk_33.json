@@ -635,5 +635,31 @@
     "published_at": "Thu, 22 Oct 2026 17:00:00 +0700",
     "createAt": "2026-10-22T10:00:00.000Z",
     "thumbnail_blurhash": "LrB$l]HqawV{.mS7R5jEoyoxRPaJ"
+  },
+  {
+    "id": "https://vnexpress.net/ong-zelensky-nga-khong-thay-doi-sau-cac-cuoc-dam-phan-voi-my-5135662.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Ông Zelensky: Nga 'không thay đổi' sau các cuộc đàm phán với Mỹ",
+    "description": "Tổng thống Ukraine nói các vụ tấn công tên lửa của Nga cho thấy Điện Kremlin \"không hề thay đổi\" sau các cuộc đàm phán với Mỹ.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/22/ap26289448543263-1792660628-6072-1792660717.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=vyACM46xkboMstxgsWjigQ",
+    "link": "https://vnexpress.net/ong-zelensky-nga-khong-thay-doi-sau-cac-cuoc-dam-phan-voi-my-5135662.html",
+    "published_at": "Thu, 22 Oct 2026 17:02:37 +0700",
+    "createAt": "2026-10-22T10:02:37.000Z",
+    "thumbnail_blurhash": "LX7U}vi@S+s5gSRNRiRoWGt7s*kE"
+  },
+  {
+    "id": "https://vnexpress.net/thanh-pho-lon-thu-ba-nuoc-phap-ban-lenh-cam-bieu-tinh-5135682.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Thành phố lớn thứ ba nước Pháp ban lệnh cấm biểu tình",
+    "description": "Giới chức Lyon ban hành lệnh cấm \"mọi cuộc biểu tình\" vào thứ 7 tuần này khi làn sóng bạo lực gia tăng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/22/afp-d3ma8ev-v1-highres-frances-5415-7462-1792663305.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=r3UMsSIS9A5fBtKdK_MI1w",
+    "link": "https://vnexpress.net/thanh-pho-lon-thu-ba-nuoc-phap-ban-lenh-cam-bieu-tinh-5135682.html",
+    "published_at": "Thu, 22 Oct 2026 17:15:01 +0700",
+    "createAt": "2026-10-22T10:15:01.000Z",
+    "thumbnail_blurhash": "L3AJ[]~q.7R-00D%RPoc00M|xut7"
   }
 ]
