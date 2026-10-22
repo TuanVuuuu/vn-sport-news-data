@@ -349,5 +349,44 @@
     "published_at": "Thu, 22 Oct 2026 05:00:00 +0700",
     "createAt": "2026-10-21T22:00:00.000Z",
     "thumbnail_blurhash": "L6AAN{~qozS#4-E3?at6K5M|0KM_"
+  },
+  {
+    "id": "https://vnexpress.net/ong-trump-hoa-binh-dang-gan-ukraine-hon-bao-gio-het-5135365.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Ông Trump: Hòa bình đang gần Ukraine hơn bao giờ hết",
+    "description": "Ông Trump tin thời điểm kết thúc cuộc chiến ở Ukraine đang gần hơn bao giờ hết, trong khi ông Zelensky muốn đàm phán ba bên \"càng sớm càng tốt\".",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/22/ap26294730447144-1792625139-1870-1792625361.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=eD7-iUT2ZyENY293oKXChQ",
+    "link": "https://vnexpress.net/ong-trump-hoa-binh-dang-gan-ukraine-hon-bao-gio-het-5135365.html",
+    "published_at": "Thu, 22 Oct 2026 06:45:22 +0700",
+    "createAt": "2026-10-21T23:45:22.000Z",
+    "thumbnail_blurhash": "LUFFTqs;o[--~VoHs,a%xvM|oMbc"
+  },
+  {
+    "id": "https://vnexpress.net/my-rut-bot-nhan-vien-tai-dai-su-quan-o-arab-saudi-5135371.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Mỹ rút bớt nhân viên tại đại sứ quán ở Arab Saudi",
+    "description": "Mỹ yêu cầu nhân viên không thiết yếu tại sứ quán ở Arab Saudi cùng thân nhân của họ rời khỏi nước này, khi Riyadh gia tăng xung đột với Houthi.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/22/afp20261011d2wn29fv1highressau-4950-2241-1792627110.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=FkuMlGES2z5tsOC38LfEZA",
+    "link": "https://vnexpress.net/my-rut-bot-nhan-vien-tai-dai-su-quan-o-arab-saudi-5135371.html",
+    "published_at": "Thu, 22 Oct 2026 07:08:13 +0700",
+    "createAt": "2026-10-22T00:08:13.000Z",
+    "thumbnail_blurhash": "LhE:MWt8M_Ri.Axtoda{o$WBt7xu"
+  },
+  {
+    "id": "https://vnexpress.net/elon-musk-doa-dap-tra-truoc-nguy-co-bi-dieu-tra-5135372.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Elon Musk dọa đáp trả trước nguy cơ bị điều tra",
+    "description": "Tỷ phú Musk cảnh báo sẽ nhắm vào những nghị sĩ đảng Dân chủ muốn điều tra các nghi vấn sai phạm và vai trò của ông trong chính phủ Mỹ.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/22/ap25150648925119-1792627693-5687-1792627936.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=P21mreXY71w7uwmvxTpYKg",
+    "link": "https://vnexpress.net/elon-musk-doa-dap-tra-truoc-nguy-co-bi-dieu-tra-5135372.html",
+    "published_at": "Thu, 22 Oct 2026 07:32:46 +0700",
+    "createAt": "2026-10-22T00:32:46.000Z",
+    "thumbnail_blurhash": "LzJkT7.m?v%L%gxuNwV?kCkCjsR+"
   }
 ]

@@ -531,5 +531,44 @@
     "published_at": "Thu, 22 Oct 2026 04:02:02 +0700",
     "createAt": "2026-10-21T21:02:02.000Z",
     "thumbnail_blurhash": "LIBMl%zo}tvzNXX.IrkXADN?9]S$"
+  },
+  {
+    "id": "https://vnexpress.net/real-thang-dam-truoc-el-clasico-5135361.html",
+    "category_id": "sports",
+    "category_name": "Thể thao",
+    "source": "VnExpress",
+    "title": "Real thắng đậm trước El Clasico",
+    "description": "Đè bẹp RB Leipzig 4-1 ở vòng phân hạng Champions League, Real Madrid có trận thứ ba liên tiếp ghi bốn bàn khi hướng tới đại chiến Barca.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/10/22/ap262947495149101-1792621966-8233-1792622210.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=NPWJOcGo47aVQ1zAEQ3Eeg",
+    "link": "https://vnexpress.net/real-thang-dam-truoc-el-clasico-5135361.html",
+    "published_at": "Thu, 22 Oct 2026 05:44:54 +0700",
+    "createAt": "2026-10-21T22:44:54.000Z",
+    "thumbnail_blurhash": "L7Bp]{9=v,_M4g$lI-r?5g-qIpDi"
+  },
+  {
+    "id": "https://vnexpress.net/bayern-va-arsenal-bat-phan-thang-bai-o-champions-league-5135363.html",
+    "category_id": "sports",
+    "category_name": "Thể thao",
+    "source": "VnExpress",
+    "title": "Bayern và Arsenal bất phân thắng bại ở Champions League",
+    "description": "Tiền vệ Declan Rice ghi bàn cuối trận, giúp Arsenal hòa Bayern 2-2 trên sân Allianz ở lượt ba vòng phân hạng Champions League ngày 21/10.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/10/22/ap26294746999563-1792623070-3284-1792623095.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=v1tfNKLATs-Tb4_4DKa6oQ",
+    "link": "https://vnexpress.net/bayern-va-arsenal-bat-phan-thang-bai-o-champions-league-5135363.html",
+    "published_at": "Thu, 22 Oct 2026 05:51:35 +0700",
+    "createAt": "2026-10-21T22:51:35.000Z",
+    "thumbnail_blurhash": "L8DnBHR%UL-pHoH_Q_c60Bc5MkQ]"
+  },
+  {
+    "id": "https://vnexpress.net/ten-hag-ronaldo-kim-ham-doi-tuyen-bo-dao-nha-5135360.html",
+    "category_id": "sports",
+    "category_name": "Thể thao",
+    "source": "VnExpress",
+    "title": "Ten Hag: 'Ronaldo kìm hãm đội tuyển Bồ Đào Nha'",
+    "description": "Cựu HLV Man Utd Erik ten Hag cho rằng Cristiano Ronaldo đặt thương hiệu cá nhân lên trên lợi ích tập thể, và Bồ Đào Nha thi đấu tốt hơn khi không có tiền đạo 41 tuổi.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/10/22/ten-hag-ronaldo-1792613143-7728-1792613231.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=KbTmRrLiRZiWqDZmW6Krpg",
+    "link": "https://vnexpress.net/ten-hag-ronaldo-kim-ham-doi-tuyen-bo-dao-nha-5135360.html",
+    "published_at": "Thu, 22 Oct 2026 06:57:01 +0700",
+    "createAt": "2026-10-21T23:57:01.000Z",
+    "thumbnail_blurhash": "LGF=dg00J7^+4T~q-=RPKQM{jE%M"
   }
 ]
