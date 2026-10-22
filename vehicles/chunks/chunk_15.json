@@ -830,5 +830,31 @@
     "published_at": "Thu, 22 Oct 2026 10:00:00 +0700",
     "createAt": "2026-10-22T03:00:00.000Z",
     "thumbnail_blurhash": "LmM6D9TOrzsr,2JFIqxZw6krNajX"
+  },
+  {
+    "id": "https://vnexpress.net/ford-co-the-lan-dau-tien-ban-nhieu-xe-cu-hon-toyota-5135053.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Ford có thể lần đầu tiên bán nhiều xe cũ hơn Toyota",
+    "description": "Doanh số xe mới sụt giảm khiến Ford đẩy mạnh mảng xe đã qua sử dụng, kỳ vọng vượt Toyota trong quý III và hướng tới kỷ lục mới.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/21/FordF1501-1792566213-6808-1792566549.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=SOP_KqmkCNF7C7lYcNC2Eg",
+    "link": "https://vnexpress.net/ford-co-the-lan-dau-tien-ban-nhieu-xe-cu-hon-toyota-5135053.html",
+    "published_at": "Thu, 22 Oct 2026 10:11:00 +0700",
+    "createAt": "2026-10-22T03:11:00.000Z",
+    "thumbnail_blurhash": "LJF$t+%M_2of0NM|4nof~qofV@WA"
+  },
+  {
+    "id": "https://vnexpress.net/bo-doi-honda-hr-v-br-v-giam-gia-hang-chuc-trieu-dong-5135364.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Bộ đôi Honda HR-V, BR-V giảm giá hàng chục triệu đồng",
+    "description": "Trong tháng 10, mẫu MPV cỡ nhỏ BR-V khuyến mãi 63-84 triệu đồng, trong khi dòng CUV cỡ B là HR-V giảm giá 42-59 triệu đồng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/22/hondahrvvnexpress-1792625326-1397-1792625500.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=qiYDTsEMK4RyRCWEiLnegA",
+    "link": "https://vnexpress.net/bo-doi-honda-hr-v-br-v-giam-gia-hang-chuc-trieu-dong-5135364.html",
+    "published_at": "Thu, 22 Oct 2026 10:52:20 +0700",
+    "createAt": "2026-10-22T03:52:20.000Z",
+    "thumbnail_blurhash": "LNH.KG_4_2?ae.jbR.xu-oM{%MjZ"
   }
 ]
