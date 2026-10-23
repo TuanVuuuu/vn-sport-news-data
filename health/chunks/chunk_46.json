@@ -596,5 +596,31 @@
     "published_at": "Fri, 23 Oct 2026 02:00:00 +0700",
     "createAt": "2026-10-22T19:00:00.000Z",
     "thumbnail_blurhash": "L31pJIp0RhkstpkYWWo$n#kZktj]"
+  },
+  {
+    "id": "https://vnexpress.net/benh-ho-hap-tang-manh-o-tp-hcm-nhieu-tre-cap-cuu-5135654.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Bệnh hô hấp tăng mạnh ở TP HCM, nhiều trẻ cấp cứu",
+    "description": "Bé trai 3 tháng tuổi nhập viện cấp cứu sau hai ngày ho, thở nhanh do viêm phổi, phải hỗ trợ hô hấp trong bối cảnh bệnh hô hấp tăng tại TP HCM.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/22/wm1-wm1-nhi-1792674357-9038-1792674559.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=QNKqy3udGOw0a7y0L34ZxQ",
+    "link": "https://vnexpress.net/benh-ho-hap-tang-manh-o-tp-hcm-nhieu-tre-cap-cuu-5135654.html",
+    "published_at": "Fri, 23 Oct 2026 05:00:00 +0700",
+    "createAt": "2026-10-22T22:00:00.000Z",
+    "thumbnail_blurhash": "LDFrx0_4D*IU0nIURkRix]-;xut7"
+  },
+  {
+    "id": "https://vnexpress.net/so-do-thanh-cong-tren-mang-xa-hoi-nguoi-tre-tram-cam-5134019.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "So đo thành công trên mạng xã hội, người trẻ trầm cảm",
+    "description": "Những ngôi nhà, chiếc xe và lời tung hô trên mạng xã hội \"trở thành thước đo\" khiến nhiều người trẻ tự thấy mình thất bại, rồi lún dần vào lo âu, trầm cảm, thậm chí tự làm đau bản thân.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/19/a-nh-ma-n-hi-nh-lu-1792382588-4331-1792384435.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=JvYGqBeyi7mpHoNhq9Zv_Q",
+    "link": "https://vnexpress.net/so-do-thanh-cong-tren-mang-xa-hoi-nguoi-tre-tram-cam-5134019.html",
+    "published_at": "Fri, 23 Oct 2026 06:00:00 +0700",
+    "createAt": "2026-10-22T23:00:00.000Z",
+    "thumbnail_blurhash": "LICF-e~Wt8-p-;xvXAN{IpIqI;Ip"
   }
 ]
