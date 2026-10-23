@@ -921,5 +921,70 @@
     "published_at": "Fri, 23 Oct 2026 14:09:57 +0700",
     "createAt": "2026-10-23T07:09:57.000Z",
     "thumbnail_blurhash": "LN8psK-rNFM^-t%4WANEs?s=ayR*"
+  },
+  {
+    "id": "https://vnexpress.net/ca-mac-ebola-dau-tien-tai-nigeria-sau-mot-thap-ky-5135879.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Ca mắc Ebola đầu tiên tại Nigeria sau một thập kỷ",
+    "description": "Cơ quan y tế Nigeria kích hoạt hệ thống giám sát khẩn cấp cùng lệnh cấm bay 46 người sau khi phát hiện ca nhiễm virus Ebola chủng Bundibugyo trở về từ Uganda.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/23/dich-benh-1792721098-1748-1792721417.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=UJ8KVC-R1f8stj9yPtzx9g",
+    "link": "https://vnexpress.net/ca-mac-ebola-dau-tien-tai-nigeria-sau-mot-thap-ky-5135879.html",
+    "published_at": "Fri, 23 Oct 2026 10:07:16 +0700",
+    "createAt": "2026-10-23T03:07:16.000Z",
+    "thumbnail_blurhash": "LOJa.i~X8{e,xaIB-pxH%NRjxttR"
+  },
+  {
+    "id": "https://vnexpress.net/lam-gi-khi-mat-cay-rat-kho-chiu-5135933.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Làm gì khi mắt cay rát, khó chịu?",
+    "description": "Chườm mát, sử dụng nước mắt nhân tạo và tránh tác nhân kích ứng có thể giúp giảm cay rát mắt do khô hoặc kích ứng nhẹ.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/23/chuom-mat-1792728060-7443-1792728188.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=8kA_yXqT7nbHFo6uSNKTKw",
+    "link": "https://vnexpress.net/lam-gi-khi-mat-cay-rat-kho-chiu-5135933.html",
+    "published_at": "Fri, 23 Oct 2026 14:30:00 +0700",
+    "createAt": "2026-10-23T07:30:00.000Z",
+    "thumbnail_blurhash": "LEKw;50000t6Di8_?w%h00x]?cR5"
+  },
+  {
+    "id": "https://vnexpress.net/du-bao-so-ca-ung-thu-o-phu-nu-viet-tang-50-vao-nam-2050-5135967.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Dự báo số ca ung thư ở phụ nữ Việt tăng 50% vào năm 2050",
+    "description": "Số ca ung thư mới ở phụ nữ Việt Nam được dự báo tăng 50% và số ca tử vong tăng 60% vào năm 2050 nếu xu hướng mắc bệnh tiếp tục duy trì như hiện nay.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/23/wm1-wm1-233a9827-1792734722-4382-1792735083.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=9rJ496MMufrt_apMPdeMXQ",
+    "link": "https://vnexpress.net/du-bao-so-ca-ung-thu-o-phu-nu-viet-tang-50-vao-nam-2050-5135967.html",
+    "published_at": "Fri, 23 Oct 2026 14:37:10 +0700",
+    "createAt": "2026-10-23T07:37:10.000Z",
+    "thumbnail_blurhash": "LDF~XJ034?~VEJVpIVjZ9Z-o%1WT"
+  },
+  {
+    "id": "https://vnexpress.net/nguoi-dan-ong-gan-100-kg-no-luc-giam-can-de-co-con-5136038.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Người đàn ông gần 100 kg nỗ lực giảm cân để có con",
+    "description": "Anh Thành, 38 tuổi, nặng gần 100 kg, nỗ lực giảm cân suốt gần một năm giúp chất lượng tinh trùng cải thiện và có con.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/23/anh-1792740538-9074-1792740929.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=BA6_wkk6GyTgQO1KufZmVQ",
+    "link": "https://vnexpress.net/nguoi-dan-ong-gan-100-kg-no-luc-giam-can-de-co-con-5136038.html",
+    "published_at": "Fri, 23 Oct 2026 15:00:00 +0700",
+    "createAt": "2026-10-23T08:00:00.000Z",
+    "thumbnail_blurhash": "LbMaFg~qWBIT_NtRR*RjRixZs.M|"
+  },
+  {
+    "id": "https://vnexpress.net/yeu-to-nao-thuc-day-phat-trien-te-bao-tien-ung-thu-5135886.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Yếu tố nào thúc đẩy phát triển tế bào tiền ung thư?",
+    "description": "Hút thuốc lá, hít khói thuốc thụ động và nhiễm dai dẳng một số vi khuẩn, virus có thể làm tăng nguy cơ hình thành tổn thương tiền ung thư.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/23/434229302399360399480827643776-3949-1623-1792722247.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=2cYZWn6YdrVsa0ULvkH9JQ",
+    "link": "https://vnexpress.net/yeu-to-nao-thuc-day-phat-trien-te-bao-tien-ung-thu-5135886.html",
+    "published_at": "Fri, 23 Oct 2026 16:00:00 +0700",
+    "createAt": "2026-10-23T09:00:00.000Z",
+    "thumbnail_blurhash": "L45}%EMz58%g*0WBV@t7R*o|ozRP"
   }
 ]
