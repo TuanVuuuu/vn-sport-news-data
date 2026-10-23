@@ -687,5 +687,31 @@
     "published_at": "Fri, 23 Oct 2026 12:00:00 +0700",
     "createAt": "2026-10-23T05:00:00.000Z",
     "thumbnail_blurhash": "LxMtU8Rj~q-;_3xaa#bI%MaeIUkC"
+  },
+  {
+    "id": "https://vnexpress.net/tac-nhan-openai-noi-doi-tu-tat-he-thong-giam-sat-5135673.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Tác nhân OpenAI nói dối, tự tắt hệ thống giám sát",
+    "description": "OpenAI hé lộ, tác nhân AI của công ty vô hiệu hóa hoặc làm suy yếu hệ thống giám sát trong lúc thực hiện nhiệm vụ và sau đó phủ nhận hành vi.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/22/dsc00717jpg-1792660374-8226-1792660477.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=mhL7l7uW1KztV70I3cMA8g",
+    "link": "https://vnexpress.net/tac-nhan-openai-noi-doi-tu-tat-he-thong-giam-sat-5135673.html",
+    "published_at": "Fri, 23 Oct 2026 14:00:00 +0700",
+    "createAt": "2026-10-23T07:00:00.000Z",
+    "thumbnail_blurhash": "L5Bz:}4-00r@0r-T@qNt00nh~Vob"
+  },
+  {
+    "id": "https://vnexpress.net/spacex-muon-tiep-can-80-000-tram-thu-phat-song-di-dong-o-my-5135847.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "SpaceX muốn tiếp cận 80.000 trạm thu phát sóng di động ở Mỹ",
+    "description": "SpaceX đang đàm phán với các công ty hạ tầng để bảo đảm quyền tiếp cận hơn 80.000 trạm thu phát sóng di động trên khắp nước Mỹ.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/23/bts-1792718780-7069-1792718840.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=O0Let99o9W2Wm19PQbmZQg",
+    "link": "https://vnexpress.net/spacex-muon-tiep-can-80-000-tram-thu-phat-song-di-dong-o-my-5135847.html",
+    "published_at": "Fri, 23 Oct 2026 15:00:00 +0700",
+    "createAt": "2026-10-23T08:00:00.000Z",
+    "thumbnail_blurhash": "LZIP0%-NM}?w-;a#t7flM|R*t6Io"
   }
 ]
