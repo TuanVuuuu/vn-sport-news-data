@@ -1012,5 +1012,70 @@
     "published_at": "Fri, 23 Oct 2026 14:34:32 +0700",
     "createAt": "2026-10-23T07:34:32.000Z",
     "thumbnail_blurhash": "LO8zc[XVI+$b%Qs=Wss,XAoLs;Si"
+  },
+  {
+    "id": "https://vnexpress.net/phut-ngo-ngang-cua-tu-nhan-my-khi-duoc-nga-phong-thich-5135959.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Phút ngỡ ngàng của tù nhân Mỹ khi được Nga phóng thích",
+    "description": "Stephen Hubbard, công dân Mỹ được Nga phóng thích sau hơn 4 năm giam giữ, chỉ nhận ra mình được tự do khi bước lên máy bay và nhìn thấy lá cờ quê hương.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/23/ap2629435297286964731792580318-1766-4617-1792730371.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=yGyczfK5r-YMBNHLTH_VZA",
+    "link": "https://vnexpress.net/phut-ngo-ngang-cua-tu-nhan-my-khi-duoc-nga-phong-thich-5135959.html",
+    "published_at": "Fri, 23 Oct 2026 14:46:54 +0700",
+    "createAt": "2026-10-23T07:46:54.000Z",
+    "thumbnail_blurhash": "L8CF^fMJD5_MHtNZyC$kjr%2x[Vt"
+  },
+  {
+    "id": "https://vnexpress.net/ro-ri-bon-hoa-chat-tai-my-hang-chuc-nguoi-nhap-vien-5135986.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Rò rỉ bồn hóa chất tại Mỹ, hàng chục người nhập viện",
+    "description": "Bồn chứa hóa chất công nghiệp tại thành phố Toledo gặp sự cố rò rỉ, khiến gần 1.000 người sơ tán và hàng chục người nhập viện.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/23/ro-ri-ho-a-cha-t-1792738771-6704-1792739136.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=cfalaW7yxLIRWgsgABCpKQ",
+    "link": "https://vnexpress.net/ro-ri-bon-hoa-chat-tai-my-hang-chuc-nguoi-nhap-vien-5135986.html",
+    "published_at": "Fri, 23 Oct 2026 14:53:39 +0700",
+    "createAt": "2026-10-23T07:53:39.000Z",
+    "thumbnail_blurhash": "LbJ[SFs*IUWY?wD%M{kB9FIUxuof"
+  },
+  {
+    "id": "https://vnexpress.net/ukraine-tuyen-bo-mo-chien-dich-luon-ong-tap-hau-luc-luong-nga-5135922.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Ukraine tuyên bố mở chiến dịch luồn ống, tập hậu lực lượng Nga",
+    "description": "Ukraine dùng đường ống ngầm để tấn công lực lượng Nga tại Kupyansk, tuyên bố đây là chiến dịch phản công đầu tiên trên thế giới theo phương thức này.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/23/Settop-1792731809-5102-1792732437.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=vUCBT5b2ZM5HI132LuzEOg",
+    "link": "https://vnexpress.net/ukraine-tuyen-bo-mo-chien-dich-luon-ong-tap-hau-luc-luong-nga-5135922.html",
+    "published_at": "Fri, 23 Oct 2026 14:59:02 +0700",
+    "createAt": "2026-10-23T07:59:02.000Z",
+    "thumbnail_blurhash": "LG9%03=_EN0#~9%1I;9vsmR+WXkB"
+  },
+  {
+    "id": "https://vnexpress.net/ten-lua-dang-so-hon-uav-phan-luc-cua-nga-khien-ukraine-lo-ngai-5136026.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Tên lửa 'đáng sợ hơn UAV phản lực' của Nga khiến Ukraine lo ngại",
+    "description": "Nga bắt đầu triển khai tên lửa Filin có giá rẻ và đặc tính tốt hơn UAV phản lực Geran vốn đang gây khó cho phòng không Ukraine.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/23/Filin2-1792742303-3250-1792742794.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=jGqmsDzjuWlAm9wTyVehfQ",
+    "link": "https://vnexpress.net/ten-lua-dang-so-hon-uav-phan-luc-cua-nga-khien-ukraine-lo-ngai-5136026.html",
+    "published_at": "Fri, 23 Oct 2026 15:57:34 +0700",
+    "createAt": "2026-10-23T08:57:34.000Z",
+    "thumbnail_blurhash": "LOIqld~UMcjF^*IpIUs.RPM|o#of"
+  },
+  {
+    "id": "https://vnexpress.net/xe-cho-giam-doc-nhat-bi-nghi-gay-chay-520-000-ha-khu-bao-ton-mong-co-5136045.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Xe chở giám đốc Nhật bị nghi gây cháy 520.000 ha khu bảo tồn Mông Cổ",
+    "description": "Nhóm lãnh đạo người Nhật của nhà mạng Mobicom tại Mông Cổ đi xe vào khu bảo tồn Numrug và có thể đã gây đám cháy thiêu rụi hơn 520.000 ha.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/23/chay-khu-bao-ton-1792743161-9862-1792743922.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=M2vexdqctUuN0UPFwUnmVQ",
+    "link": "https://vnexpress.net/xe-cho-giam-doc-nhat-bi-nghi-gay-chay-520-000-ha-khu-bao-ton-mong-co-5136045.html",
+    "published_at": "Fri, 23 Oct 2026 15:59:43 +0700",
+    "createAt": "2026-10-23T08:59:43.000Z",
+    "thumbnail_blurhash": "LMCr.j~BELIpo#Ip9uRkE4M}$%xZ"
   }
 ]
