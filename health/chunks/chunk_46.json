@@ -804,5 +804,57 @@
     "published_at": "Fri, 23 Oct 2026 11:10:18 +0700",
     "createAt": "2026-10-23T04:10:18.000Z",
     "thumbnail_blurhash": "LFFrhf.8?G?u.9xItSnl_4.7xa%M"
+  },
+  {
+    "id": "https://vnexpress.net/bac-si-canh-bao-2-thoi-quen-an-pho-tuong-vo-hai-lai-ruoc-hoa-5135530.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Bác sĩ cảnh báo 2 thói quen ăn phở tưởng vô hại lại 'rước họa'",
+    "description": "Thói quen ăn phở uống cạn nước dùng hoặc kèm quẩy chiên thường xuyên khiến cơ thể nạp nhiều muối, chất béo và năng lượng hơn mức cần thiết, ảnh hưởng đến sức khỏe về lâu dài.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/22/684f40a311ad9df3c4bc-179265988-9877-4841-1792660094.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=uphfn86p8zwt-xyWkMPs3Q",
+    "link": "https://vnexpress.net/bac-si-canh-bao-2-thoi-quen-an-pho-tuong-vo-hai-lai-ruoc-hoa-5135530.html",
+    "published_at": "Fri, 23 Oct 2026 12:00:00 +0700",
+    "createAt": "2026-10-23T05:00:00.000Z",
+    "thumbnail_blurhash": "LAGl67Lf-@^m9]+r4nRNS6-oo#bc"
+  },
+  {
+    "id": "https://vnexpress.net/uong-sua-co-khien-ho-dom-nang-hon-5135946.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Uống sữa có khiến ho đờm nặng hơn?",
+    "description": "Bé 5 tuổi, đang ho, nhiều người khuyên không nên cho con uống sữa vì tạo nhiều đờm. Uống sữa có khiến ho đờm nặng hơn? (Thanh Loan, 27 tuổi)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/23/434195093-n-1792727925-4638-1792727981.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=_HKGKGBJVqBkIbntbJATlA",
+    "link": "https://vnexpress.net/uong-sua-co-khien-ho-dom-nang-hon-5135946.html",
+    "published_at": "Fri, 23 Oct 2026 12:00:00 +0700",
+    "createAt": "2026-10-23T05:00:00.000Z",
+    "thumbnail_blurhash": "LMCHHBYRkrXST2pxozSi9bN|x]Si"
+  },
+  {
+    "id": "https://vnexpress.net/u-buong-trung-bam-dinh-phuc-tap-5135842.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "U buồng trứng bám dính phức tạp",
+    "description": "Chị Oanh, 28 tuổi, rong kinh kèm đau bụng dữ dội, bác sĩ phát hiện u buồng trứng 14 cm dính nhiều cơ quan vùng chậu.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/23/image001-1792726633-5498-1792727025.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=bu0l0n1SyPXErCo46gCxUg",
+    "link": "https://vnexpress.net/u-buong-trung-bam-dinh-phuc-tap-5135842.html",
+    "published_at": "Fri, 23 Oct 2026 12:00:00 +0700",
+    "createAt": "2026-10-23T05:00:00.000Z",
+    "thumbnail_blurhash": "LrJSq=xux@o#~ToLj]ay==WXR.WU"
+  },
+  {
+    "id": "https://vnexpress.net/huyet-khoi-bit-tac-tinh-mach-chan-nguoi-phu-nu-5135835.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Huyết khối bít tắc tĩnh mạch chân người phụ nữ",
+    "description": "Bà Phương, 51 tuổi, sưng phù, đau nhức chân trái, bác sĩ phát hiện cục máu đông chi chít trong lòng tĩnh mạch chi dưới cản trở lưu thông máu.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/23/image001-1792714993-3729-1792715045.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=BFrO3y_FPqu0g7HXazUFSQ",
+    "link": "https://vnexpress.net/huyet-khoi-bit-tac-tinh-mach-chan-nguoi-phu-nu-5135835.html",
+    "published_at": "Fri, 23 Oct 2026 12:00:00 +0700",
+    "createAt": "2026-10-23T05:00:00.000Z",
+    "thumbnail_blurhash": "LRH2+*.AIAt8^#?GM|og%NngaeS6"
   }
 ]

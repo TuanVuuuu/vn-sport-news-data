@@ -583,5 +583,31 @@
     "published_at": "Fri, 23 Oct 2026 10:39:09 +0700",
     "createAt": "2026-10-23T03:39:09.000Z",
     "thumbnail_blurhash": "LtLgbI~q_3xZWBoft7flNFofaekC"
+  },
+  {
+    "id": "https://vnexpress.net/sac-voc-kim-tae-hee-5135973.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Sắc vóc Kim Tae Hee",
+    "description": "Diễn viên Hàn Kim Tae Hee diện mốt váy quây, trang điểm tông nude thu hút ống kính khi có lần hiếm hoi dự sự kiện ở Seoul ngày 22/10.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/10/23/kimtaehee-1792731536-7117-1792731546.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=4XwOY-BSy-ToL7tqTT4xSw",
+    "link": "https://vnexpress.net/sac-voc-kim-tae-hee-5135973.html",
+    "published_at": "Fri, 23 Oct 2026 11:52:17 +0700",
+    "createAt": "2026-10-23T04:52:17.000Z",
+    "thumbnail_blurhash": "LHNmZp8w*0xuNfMwxutR%Mo}RkxG"
+  },
+  {
+    "id": "https://vnexpress.net/dao-dien-vinh-son-nguoi-thoi-hon-cho-dat-phuong-nam-5135770.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Đạo diễn Vinh Sơn - người thổi hồn cho 'Đất phương Nam'",
+    "description": "Nguyễn Vinh Sơn được nhớ đến là đạo diễn gốc Huế thổi hồn cho \"đất phương Nam\", phim truyền hình kinh điển đi vào lòng nhiều thế hệ khán giả.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/10/22/nguyen-vinh-son-1792685965-7750-1792687131.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=VmUh5dSgfUgPZcICH0bjnQ",
+    "link": "https://vnexpress.net/dao-dien-vinh-son-nguoi-thoi-hon-cho-dat-phuong-nam-5135770.html",
+    "published_at": "Fri, 23 Oct 2026 12:34:36 +0700",
+    "createAt": "2026-10-23T05:34:36.000Z",
+    "thumbnail_blurhash": "LEFFvx00*0Hr-3%fITIoTHocr;cF"
   }
 ]
