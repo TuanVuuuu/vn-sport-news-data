@@ -466,5 +466,44 @@
     "published_at": "Fri, 23 Oct 2026 20:07:07 +0700",
     "createAt": "2026-10-23T13:07:07.000Z",
     "thumbnail_blurhash": "LTHxKNR,NHof.TxZjaj[SiR-j[j["
+  },
+  {
+    "id": "https://vnexpress.net/anh-chat-vat-voi-83-000-tu-lanh-hong-chat-dong-5135932.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Anh chật vật với 83.000 tủ lạnh hỏng chất đống",
+    "description": "Khoảng 83.000 tủ lạnh phế thải đang chất đống khắp nước Anh do hoạt động tái chế ngưng trệ, còn cơ sở lưu trữ quá tải.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/23/swns-fridge-pilex2048-17927250-1883-7440-1792726420.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=Dm5215jjdfD8kHDmkEjjDg",
+    "link": "https://vnexpress.net/anh-chat-vat-voi-83-000-tu-lanh-hong-chat-dong-5135932.html",
+    "published_at": "Sat, 24 Oct 2026 00:00:00 +0700",
+    "createAt": "2026-10-23T17:00:00.000Z",
+    "thumbnail_blurhash": "LDEVyq~q4T%M0MR.WrRjyFR+r;jY"
+  },
+  {
+    "id": "https://vnexpress.net/ham-chon-chat-thai-hat-nhan-dau-tien-tren-the-gioi-duoc-cap-phep-hoat-dong-5136186.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Hầm chôn chất thải hạt nhân đầu tiên trên thế giới được cấp phép hoạt động",
+    "description": "Hầm chôn chất thải hạt nhân trong 100.000 năm được Phần Lan cấp phép hoạt động, sau 22 năm xây dựng và thử nghiệm.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/23/ham-hat-nhan-1792754706-5888-1792754815.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=J3WNdmgCE0WQ-K7PeaDeWw",
+    "link": "https://vnexpress.net/ham-chon-chat-thai-hat-nhan-dau-tien-tren-the-gioi-duoc-cap-phep-hoat-dong-5136186.html",
+    "published_at": "Sat, 24 Oct 2026 00:03:00 +0700",
+    "createAt": "2026-10-23T17:03:00.000Z",
+    "thumbnail_blurhash": "L5AAm*~q00%xD$xt%gtQ9II9--oj"
+  },
+  {
+    "id": "https://vnexpress.net/cac-du-an-trong-diem-vung-dong-nam-bo-can-vay-757-000-ty-dong-5136194.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Các dự án trọng điểm vùng Đông Nam Bộ cần vay 757.000 tỷ đồng",
+    "description": "15 dự án trọng điểm ở khu vực Đông Nam Bộ có nhu cầu vốn vay 757.000 tỷ đồng và đã được các ngân hàng giải ngân hơn 39.000 tỷ.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/23/dji-1792758735-8539-1792758817.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=rcmjHgS0hB_8nTLLrM1orA",
+    "link": "https://vnexpress.net/cac-du-an-trong-diem-vung-dong-nam-bo-can-vay-757-000-ty-dong-5136194.html",
+    "published_at": "Sat, 24 Oct 2026 00:10:00 +0700",
+    "createAt": "2026-10-23T17:10:00.000Z",
+    "thumbnail_blurhash": "LCCs,6bdxZbpThxuInxvpKtRxbof"
   }
 ]
