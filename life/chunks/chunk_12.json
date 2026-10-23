@@ -466,5 +466,31 @@
     "published_at": "Thu, 22 Oct 2026 15:56:00 +0700",
     "createAt": "2026-10-22T08:56:00.000Z",
     "thumbnail_blurhash": "LGIDgi4nPVD%AnAC9Fjup{Mxxv-U"
+  },
+  {
+    "id": "https://vnexpress.net/gioi-sieu-giau-tim-cho-cat-vang-5135808.html",
+    "category_id": "life",
+    "category_name": "Đời sống",
+    "source": "VnExpress",
+    "title": "Giới siêu giàu tìm chỗ cất vàng",
+    "description": "Trước biến động kinh tế và địa chính trị, giới siêu giàu thế giới chi hàng triệu USD thuê hầm tư nhân ở nước ngoài để cất giữ vàng vật chất.",
+    "thumbnail_url": "https://vcdn1-giadinh.vnecdn.net/2026/10/23/screenshot-at-1792689084-7003-1792689099.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=uC93EQftCqadySctfB-JKw",
+    "link": "https://vnexpress.net/gioi-sieu-giau-tim-cho-cat-vang-5135808.html",
+    "published_at": "Fri, 23 Oct 2026 06:00:00 +0700",
+    "createAt": "2026-10-22T23:00:00.000Z",
+    "thumbnail_blurhash": "L37-NLaeD%xt_MSOe.NGE2og%2-p"
+  },
+  {
+    "id": "https://vnexpress.net/noi-so-bi-reo-ten-giao-viec-khi-nghi-phep-5135279.html",
+    "category_id": "life",
+    "category_name": "Đời sống",
+    "source": "VnExpress",
+    "title": "Nỗi sợ 'bị réo tên giao việc' khi nghỉ phép",
+    "description": "Dù đang trong kỳ nghỉ phép, nhiều nhân viên vẫn phải mang theo máy tính, bật điện thoại xử lý việc gấp để tránh bị cấp trên đánh giá \"không trách nhiệm với công việc\".",
+    "thumbnail_url": "https://vcdn1-giadinh.vnecdn.net/2026/10/21/img-1792579809-1469-1792580276.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=oQlCNr-deJ-Yi0emYC2S6g",
+    "link": "https://vnexpress.net/noi-so-bi-reo-ten-giao-viec-khi-nghi-phep-5135279.html",
+    "published_at": "Fri, 23 Oct 2026 06:29:00 +0700",
+    "createAt": "2026-10-22T23:29:00.000Z",
+    "thumbnail_blurhash": "LBE.%{0002K+*04o=^_19E-;I;%2"
   }
 ]
