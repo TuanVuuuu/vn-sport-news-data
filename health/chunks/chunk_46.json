@@ -1116,5 +1116,31 @@
     "published_at": "Sat, 24 Oct 2026 00:04:00 +0700",
     "createAt": "2026-10-23T17:04:00.000Z",
     "thumbnail_blurhash": "LSDl.txuRjs,~pR*WAjY%gR,t6a}"
+  },
+  {
+    "id": "https://vnexpress.net/nhung-benh-co-the-tien-trien-am-tham-du-co-the-khoe-manh-5135605.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Những bệnh có thể tiến triển âm thầm dù cơ thể khỏe mạnh",
+    "description": "Tăng huyết áp, tiểu đường, cholesterol cao và gan nhiễm mỡ thường ít có triệu chứng rõ ràng ở giai đoạn đầu, khiến người mắc khó nhận biết nếu không khám sức khỏe.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/22/do-huyet-ap-cao-1792654255-3540-1792654300.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=2xny-_6I7TLRqR21FGO45w",
+    "link": "https://vnexpress.net/nhung-benh-co-the-tien-trien-am-tham-du-co-the-khoe-manh-5135605.html",
+    "published_at": "Sat, 24 Oct 2026 01:00:00 +0700",
+    "createAt": "2026-10-23T18:00:00.000Z",
+    "thumbnail_blurhash": "LRMH42~p^+j].7xZs9Sh%2M_S3a#"
+  },
+  {
+    "id": "https://vnexpress.net/vi-sao-toc-kho-va-rung-nhieu-5136069.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Vì sao tóc khô và rụng nhiều?",
+    "description": "Tóc khô xơ, dễ gãy và rụng nhiều có thể liên quan đến cách chăm sóc, thiếu hụt dinh dưỡng, thay đổi nội tiết hoặc một số bệnh lý.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/23/rung-toc1-1792743402-3244-1792743420.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=2MNJe5iOskRP_gJVXepAZA",
+    "link": "https://vnexpress.net/vi-sao-toc-kho-va-rung-nhieu-5136069.html",
+    "published_at": "Sat, 24 Oct 2026 02:00:00 +0700",
+    "createAt": "2026-10-23T19:00:00.000Z",
+    "thumbnail_blurhash": "LPLzdR;{%f9awbR5WCyD~WELo}?v"
   }
 ]
