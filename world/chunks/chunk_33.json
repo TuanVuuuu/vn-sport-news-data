@@ -895,5 +895,31 @@
     "published_at": "Fri, 23 Oct 2026 09:47:54 +0700",
     "createAt": "2026-10-23T02:47:54.000Z",
     "thumbnail_blurhash": "LeKA[|~W?usn~qtSW?NHRjRjWBj["
+  },
+  {
+    "id": "https://vnexpress.net/ong-trump-goi-y-doi-ten-dai-tay-duong-thanh-dai-duong-trump-5135710.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Ông Trump gợi ý đổi tên Đại Tây Dương thành 'Đại dương Trump'",
+    "description": "Tổng thống Mỹ tiết lộ từng đề nghị Google đổi hiển thị Đại Tây Dương trên bản đồ sang tên ông, nhưng CEO Sundar Pichai từ chối.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/23/ap26293208004061-1792721759-3794-1792722673.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=aVNxucNRt6Ltog1N22KgSQ",
+    "link": "https://vnexpress.net/ong-trump-goi-y-doi-ten-dai-tay-duong-thanh-dai-duong-trump-5135710.html",
+    "published_at": "Fri, 23 Oct 2026 10:06:14 +0700",
+    "createAt": "2026-10-23T03:06:14.000Z",
+    "thumbnail_blurhash": "LuD0p8yGR+nOI8Mwa~t7VrRijYk9"
+  },
+  {
+    "id": "https://vnexpress.net/dai-loan-huy-hang-tram-chuyen-bay-vi-bao-champi-5135877.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Đài Loan hủy hàng trăm chuyến bay vì bão Champi",
+    "description": "Chính quyền Đài Loan đình chỉ gần như toàn bộ hoạt động trên hòn đảo, hủy hàng trăm chuyến bay để ứng phó bão Champi.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/23/20261022T111817Z1094728826RC29-1189-4118-1792722816.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=nVxNYblT4Lb2McSMU5oxng",
+    "link": "https://vnexpress.net/dai-loan-huy-hang-tram-chuyen-bay-vi-bao-champi-5135877.html",
+    "published_at": "Fri, 23 Oct 2026 10:31:41 +0700",
+    "createAt": "2026-10-23T03:31:41.000Z",
+    "thumbnail_blurhash": "LDD]9:_4?v=yI:%2o#NG%MIoo#xH"
   }
 ]
