@@ -752,5 +752,31 @@
     "published_at": "Fri, 23 Oct 2026 19:00:00 +0700",
     "createAt": "2026-10-23T12:00:00.000Z",
     "thumbnail_blurhash": "LbJYkOEN^P-U}Z9]r]-AjGNGnisT"
+  },
+  {
+    "id": "https://vnexpress.net/robot-ho-ve-co-the-nang-bong-oto-tuoc-vu-khi-ke-tan-cong-5135726.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Robot hộ vệ có thể nâng bổng ôtô, tước vũ khí kẻ tấn công",
+    "description": "Robot hình người H2-X do Unitree Robotics phát triển thể hiện khả năng tước vũ khí của tội phạm và nhấc bổng xe để cứu người trong video giới thiệu hôm 21/10.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/22/VNERobot-1792665532-8726-1792665539.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=rVmXMkv3jsS3wKhzA7RSog",
+    "link": "https://vnexpress.net/robot-ho-ve-co-the-nang-bong-oto-tuoc-vu-khi-ke-tan-cong-5135726.html",
+    "published_at": "Fri, 23 Oct 2026 20:29:18 +0700",
+    "createAt": "2026-10-23T13:29:18.000Z",
+    "thumbnail_blurhash": "L2E2,;-n00~V00?a.94:00%0$~El"
+  },
+  {
+    "id": "https://vnexpress.net/tp-hcm-van-hanh-khu-dong-goi-ban-dan-dung-chung-5136052.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "TP HCM vận hành khu đóng gói bán dẫn dùng chung",
+    "description": "SHTP ATP Lab đặt tại khu Công nghệ cao TP HCM, các trường đại học, cao đẳng, viện nghiên cứu, doanh nghiệp có thể cùng khai thác hạ tầng để thực hành.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/23/dsc01318-jpg-1792744084-5346-1792744385.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=nGKXaLz7yQOg7ZQSMiFWwA",
+    "link": "https://vnexpress.net/tp-hcm-van-hanh-khu-dong-goi-ban-dan-dung-chung-5136052.html",
+    "published_at": "Fri, 23 Oct 2026 20:59:51 +0700",
+    "createAt": "2026-10-23T13:59:51.000Z",
+    "thumbnail_blurhash": "LGI=xz~WNG?u.T-=oIR*_3t7V]NG"
   }
 ]
