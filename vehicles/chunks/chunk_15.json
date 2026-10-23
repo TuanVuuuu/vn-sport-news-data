@@ -1051,5 +1051,31 @@
     "published_at": "Fri, 23 Oct 2026 13:41:57 +0700",
     "createAt": "2026-10-23T06:41:57.000Z",
     "thumbnail_blurhash": "LDC%ZxcGWrX3?^ObS6%LKSXCoht6"
+  },
+  {
+    "id": "https://vnexpress.net/oto-lan-lan-dam-hai-xe-may-o-huong-nguoc-chieu-5136014.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Ôtô lấn làn đâm hai xe máy ở hướng ngược chiều",
+    "description": "Nhao hẳn sang làn đường ngược chiều, ôtô đâm liền hai xe máy hôm 23/10 tại Bình Kiều, Khoái Châu.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/23/29c7ab66c0a2407da491980cc6f69e-5521-9459-1792740575.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=9nwQYbGcy6BJlfr_AU66Ew&t=image",
+    "link": "https://vnexpress.net/oto-lan-lan-dam-hai-xe-may-o-huong-nguoc-chieu-5136014.html",
+    "published_at": "Fri, 23 Oct 2026 14:22:29 +0700",
+    "createAt": "2026-10-23T07:22:29.000Z",
+    "thumbnail_blurhash": "LLIF0q8_00~q.9^+xYIo4o_3?aIV"
+  },
+  {
+    "id": "https://vnexpress.net/tuong-lai-xe-dien-khong-chi-nam-o-cong-nghe-5135806.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "'Tương lai xe điện không chỉ nằm ở công nghệ'",
+    "description": "Công nghệ cần chuyển thành giá trị sử dụng thực tế, giúp xe điện đến gần hơn với cuộc sống của nhiều người, theo lãnh đạo Wuling tại Việt Nam.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/23/2-1792740375-8181-1792740455.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=vh0FN9Ztts5uxBccUeONbg",
+    "link": "https://vnexpress.net/tuong-lai-xe-dien-khong-chi-nam-o-cong-nghe-5135806.html",
+    "published_at": "Fri, 23 Oct 2026 15:00:00 +0700",
+    "createAt": "2026-10-23T08:00:00.000Z",
+    "thumbnail_blurhash": "LiJ[euWB.9t9?bR*ozjY~pkCs*t7"
   }
 ]
