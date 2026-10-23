@@ -622,5 +622,31 @@
     "published_at": "Fri, 23 Oct 2026 14:11:20 +0700",
     "createAt": "2026-10-23T07:11:20.000Z",
     "thumbnail_blurhash": "LPDSIL-@Ipt3%OkYWBs.9uNakDoL"
+  },
+  {
+    "id": "https://vnexpress.net/thanh-cong-bang-su-tu-te-5136065.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Thành công bằng sự tử tế",
+    "description": "Cuốn sách của Inamori Kazuo gợi suy ngẫm: Mỗi ngày đều là một cơ hội để bạn chọn trở thành người như thế nào.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/10/23/con-duong-di-den-thanh-cong-ba-2532-1400-1792743145.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=WVsPt8Y5vH6JNrjHPlnOug",
+    "link": "https://vnexpress.net/thanh-cong-bang-su-tu-te-5136065.html",
+    "published_at": "Fri, 23 Oct 2026 17:33:28 +0700",
+    "createAt": "2026-10-23T10:33:28.000Z",
+    "thumbnail_blurhash": "LIRC[6-;~q?bD%j[-;ax%Mt7t7WB"
+  },
+  {
+    "id": "https://vnexpress.net/bigbang-len-duong-toi-viet-nam-5136171.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "BigBang lên đường tới Việt Nam",
+    "description": "Thủ lĩnh BigBang G-Dragon diện đồ kín mít, cùng hai thành viên ra sân bay chiều nay để đến Hà Nội biểu diễn vào tối 24 và 25/10.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/10/23/gdragon-1792751954-8149-1792752013.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=xGrVineuSBw2EljUW2lheg",
+    "link": "https://vnexpress.net/bigbang-len-duong-toi-viet-nam-5136171.html",
+    "published_at": "Fri, 23 Oct 2026 17:52:46 +0700",
+    "createAt": "2026-10-23T10:52:46.000Z",
+    "thumbnail_blurhash": "LHA^B*%200D*~Vt79ZIos+V[WYRk"
   }
 ]
