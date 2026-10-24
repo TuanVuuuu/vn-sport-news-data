@@ -1,3 +1,95 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/vu-bia-so-lieu-tham-do-gay-chan-dong-mua-bau-cu-giua-ky-my-5135871.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Vụ bịa số liệu thăm dò gây chấn động mùa bầu cử giữa kỳ Mỹ",
+      "description": "Số liệu khảo sát bịa đặt của Wedgewood Polls lọt qua các khâu thẩm định, làm dấy lên lo ngại về độ tin cậy của dữ liệu thăm dò trước bầu cử giữa kỳ Mỹ.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/23/afp-aa-v1-highres-earlyvotingb-2249-1820-1792729069.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=PtUAg-pf8mKTOzQeC-rTJg",
+      "link": "https://vnexpress.net/vu-bia-so-lieu-tham-do-gay-chan-dong-mua-bau-cu-giua-ky-my-5135871.html",
+      "published_at": "Sat, 24 Oct 2026 00:00:00 +0700",
+      "createAt": "2026-10-23T17:00:00.000Z",
+      "thumbnail_blurhash": "LBBfz}~q4-IT^+xtafM{4-D$s:xv"
+    },
+    {
+      "id": "https://vnexpress.net/vi-sao-tien-nam-im-se-mat-gia-5136218.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Vì sao tiền ‘nằm im’ sẽ mất giá?",
+      "description": "Tiền cất trong tủ tưởng như an toàn nhất, nhưng lại là khoản đầu tư \"lỗ\" chắc chắn nhất theo thời gian.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/23/Thumbngangshort2-1792765699-4801-1792766216.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=36O5VrXrCOdAQBslwdgBJg",
+      "link": "https://vnexpress.net/vi-sao-tien-nam-im-se-mat-gia-5136218.html",
+      "published_at": "Sat, 24 Oct 2026 06:00:00 +0700",
+      "createAt": "2026-10-23T23:00:00.000Z",
+      "thumbnail_blurhash": "LnOpGexvxboJuPWUkCofvgV@WBkC"
+    },
+    {
+      "id": "https://vnexpress.net/hanh-trinh-tim-lai-dien-mao-cua-chang-trai-mat-mat-vi-nuoc-soi-5134279.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Hành trình tìm lại diện mạo của chàng trai mất mặt vì nước sôi",
+      "description": "Sau tai nạn ngã vào nồi nước sôi khiến cơ thể biến dạng, Nguyễn Văn Thắng vẫn kiên cường vượt hàng chục cây số mỗi ngày bán hàng rong tích góp tiền phẫu thuật.",
+      "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/24/thang1-1792804031-8334-1792804041.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=JMxd_GB3u1AF-0fW3wRxpQ",
+      "link": "https://vnexpress.net/hanh-trinh-tim-lai-dien-mao-cua-chang-trai-mat-mat-vi-nuoc-soi-5134279.html",
+      "published_at": "Sat, 24 Oct 2026 06:00:00 +0700",
+      "createAt": "2026-10-23T23:00:00.000Z",
+      "thumbnail_blurhash": "LHHV0UT302x^_M+tv|oH$dMct6IV"
+    },
+    {
+      "id": "https://vnexpress.net/tu-duy-cua-harry-kane-trong-pha-phat-bong-tu-san-nha-o-bayern-5136091.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Tư duy của Harry Kane trong pha phát bóng từ sân nhà ở Bayern",
+      "description": "Tình huống Harry Kane thực hiện quả phát bóng nhập cuộc (goal-kick) từ vùng 5m50 trong trận Bayern Munich – Arsenal không chỉ cho thấy phẩm chất kỹ thuật, mà còn mang dụng ý chiến thuật của Bayern Munich.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/10/23/Kane1-1792743912-7732-1792744451.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=TUlOAIs_-mVC61cfDq5ccw",
+      "link": "https://vnexpress.net/tu-duy-cua-harry-kane-trong-pha-phat-bong-tu-san-nha-o-bayern-5136091.html",
+      "published_at": "Sat, 24 Oct 2026 06:52:52 +0700",
+      "createAt": "2026-10-23T23:52:52.000Z",
+      "thumbnail_blurhash": "L3Bz8k~oK5-:06IXxFM}009YwJRO"
+    },
+    {
+      "id": "https://vnexpress.net/48-tieng-khong-ngu-cua-gioi-an-ninh-mang-5136169.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "48 tiếng không ngủ của giới an ninh mạng",
+      "description": "Các chuyên gia bảo mật đang chạy đua với thời gian để cập nhật bản vá lỗ hổng ẩn trong ngôn ngữ lập trình PHP trước khi tin tặc gây ra những cuộc tấn công diện rộng.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/23/DSC00480-JPG-7763-1792752110.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=AkXUJuwLysRPkYtgJDGrGw",
+      "link": "https://vnexpress.net/48-tieng-khong-ngu-cua-gioi-an-ninh-mang-5136169.html",
+      "published_at": "Sat, 24 Oct 2026 08:00:00 +0700",
+      "createAt": "2026-10-24T01:00:00.000Z",
+      "thumbnail_blurhash": "L54CPH?a-=_4TMM{M{Rj9FE1M|9F"
+    },
+    {
+      "id": "https://vnexpress.net/mot-pham-nhan-tron-trai-o-khanh-hoa-bi-bat-5136288.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Một phạm nhân trốn trại ở Khánh Hòa bị bắt",
+      "description": "Lê Văn Cường, 32 tuổi, bị bắt trên xe khách khi đang đi qua quốc lộ 27C, cách Trại giam A2 hơn 25 km, sau hơn hai ngày lẩn trốn.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/24/a-nh-ma-n-hi-nh-lu-c-179280468-8938-6525-1792804745.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=lUhziDcXP8R8Op-hiVgOdg",
+      "link": "https://vnexpress.net/mot-pham-nhan-tron-trai-o-khanh-hoa-bi-bat-5136288.html",
+      "published_at": "Sat, 24 Oct 2026 08:07:32 +0700",
+      "createAt": "2026-10-24T01:07:32.000Z",
+      "thumbnail_blurhash": "LCKwh200.a5m53%O~UU~NC}^E{E0"
+    },
+    {
+      "id": "https://vnexpress.net/gia-vang-the-gioi-tiep-tuc-giam-xuong-thap-nhat-3-thang-5136287.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Giá vàng thế giới tiếp tục giảm, xuống thấp nhất 3 tháng",
+      "description": "Mỗi ounce vàng mất mốc 4.000 USD lần đầu tiên kể từ tháng 7, do giá dầu thô tăng cao.",
+      "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/24/silvergold-1792803055-7689-1792803064.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=_krmOu4WpauIy9DWbDXIgA",
+      "link": "https://vnexpress.net/gia-vang-the-gioi-tiep-tuc-giam-xuong-thap-nhat-3-thang-5136287.html",
+      "published_at": "Sat, 24 Oct 2026 08:23:40 +0700",
+      "createAt": "2026-10-24T01:23:40.000Z",
+      "thumbnail_blurhash": "L9Fra|Y802Mbks-n%1x]Ouw[Rit3"
+    }
+  ]
 }
