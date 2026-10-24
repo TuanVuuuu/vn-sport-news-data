@@ -1,6 +1,19 @@
 {
   "featured": [
     {
+      "id": "https://vnexpress.net/el-clasico-co-con-la-tran-dau-lon-nhat-the-gioi-5136294.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "El Clasico có còn là trận đấu lớn nhất thế giới?",
+      "description": "Sau thời Lionel Messi và Cristiano Ronaldo, sức hút của trận Kinh điển bị đặt dấu hỏi trước sự thống trị của Ngoại hạng Anh, dù cuộc đối đầu Lamine Yamal - Kylian Mbappe đang mở ra hy vọng về một kỷ nguyên mới.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/10/24/afpl823-v6-midres-topshotfbles-8326-5226-1792804606.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=2e6MFf8WZW7DpxY-ldq0jg",
+      "link": "https://vnexpress.net/el-clasico-co-con-la-tran-dau-lon-nhat-the-gioi-5136294.html",
+      "published_at": "Sat, 24 Oct 2026 08:27:53 +0700",
+      "createAt": "2026-10-24T01:27:53.000Z",
+      "thumbnail_blurhash": "LEBfqs4n01~q00-=?II9%$IUi^x]"
+    },
+    {
       "id": "https://vnexpress.net/gia-san-xuat-dien-2025-cua-evn-thap-hon-muc-ban-ra-hon-5-5136347.html",
       "category_id": "featured",
       "category_name": "Tin nổi bật",
@@ -105,6 +118,19 @@
       "thumbnail_blurhash": "LQI4LwWC0zsq?[R.Djj?C8s8MxX5"
     },
     {
+      "id": "https://vnexpress.net/nha-tham-hiem-du-day-xuong-ho-sut-sau-120-m-o-phong-nha-ke-bang-5136477.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Nhà thám hiểm đu dây xuống hố sụt sâu 120 m ở Phong Nha - Kẻ Bàng",
+      "description": "Các nhà thám hiểm Jungle Boss và thành viên Hiệp hội Hang động Mỹ đu dây xuống vách đá sâu 120 m để tiếp cận hố sụt rộng 2,1 ha vừa được phát hiện tại Phong Nha - Kẻ Bàng.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/24/Lark20261024191221-1792843969-5733-1792844093.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=CHghN1aEcU2NJY-cVc2RjA&t=image",
+      "link": "https://vnexpress.net/nha-tham-hiem-du-day-xuong-ho-sut-sau-120-m-o-phong-nha-ke-bang-5136477.html",
+      "published_at": "Sat, 24 Oct 2026 19:19:32 +0700",
+      "createAt": "2026-10-24T12:19:32.000Z",
+      "thumbnail_blurhash": "LHEMzHDQaea~?[RkRjD%kRRjIVMy"
+    },
+    {
       "id": "https://vnexpress.net/trau-huc-6-nguoi-bi-thuong-o-lam-dong-5136481.html",
       "category_id": "featured",
       "category_name": "Tin nổi bật",
@@ -129,6 +155,32 @@
       "published_at": "Sat, 24 Oct 2026 19:34:23 +0700",
       "createAt": "2026-10-24T12:34:23.000Z",
       "thumbnail_blurhash": "LrJ7%bnmt6WD?^Shoys:x^ozofjY"
+    },
+    {
+      "id": "https://vnexpress.net/viet-nam-bi-huong-toi-nang-cap-quan-he-len-doi-tac-chien-luoc-5136488.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Việt Nam - Bỉ hướng tới nâng cấp quan hệ lên Đối tác Chiến lược",
+      "description": "Việt Nam - Bỉ ra tuyên bố chung, nhất trí thúc đẩy hợp tác cảng biển, năng lượng sạch, bán dẫn và nông nghiệp công nghệ cao, nâng cấp quan hệ vào thời điểm thích hợp.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/24/wm30-wm30-tbt-jpeg-1792845626-2519-1792846087.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=xLQFuOXcSndOPDCAxabG5w",
+      "link": "https://vnexpress.net/viet-nam-bi-huong-toi-nang-cap-quan-he-len-doi-tac-chien-luoc-5136488.html",
+      "published_at": "Sat, 24 Oct 2026 20:00:22 +0700",
+      "createAt": "2026-10-24T13:00:22.000Z",
+      "thumbnail_blurhash": "LLGbCa9h~ow@^j%KRiM|-pxZIqR-"
+    },
+    {
+      "id": "https://vnexpress.net/nam-thanh-nien-song-sot-sau-khi-lan-xuong-vuc-sau-100-m-o-lung-cu-5136480.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Nam thanh niên sống sót sau khi lăn xuống vực sâu 100 m ở Lũng Cú",
+      "description": "Đang ngồi trên lan can bên đường chờ du khách chụp ảnh tại Lũng Cú, nam tài xế 23 tuổi bất ngờ ngất, lăn xuống vực sâu hơn 100 m và may mắn chỉ bị thương nhẹ.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/24/864689606-n-1792843397-6475-1792843455.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=V0Gs0623qgYIrKSh3A5TGA",
+      "link": "https://vnexpress.net/nam-thanh-nien-song-sot-sau-khi-lan-xuong-vuc-sau-100-m-o-lung-cu-5136480.html",
+      "published_at": "Sat, 24 Oct 2026 20:22:09 +0700",
+      "createAt": "2026-10-24T13:22:09.000Z",
+      "thumbnail_blurhash": "LKFs6yV:?a8}_4xSNdXM.7t1Rjxt"
     }
   ]
 }
