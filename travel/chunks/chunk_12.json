@@ -830,5 +830,31 @@
     "published_at": "Sat, 24 Oct 2026 12:25:30 +0700",
     "createAt": "2026-10-24T05:25:30.000Z",
     "thumbnail_blurhash": "LNB{u@9ZIV%M~VIVNGt6%2WVWBe."
+  },
+  {
+    "id": "https://vnexpress.net/vietnam-airlines-mo-duong-bay-thang-da-nang-singapore-5136203.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Vietnam Airlines mở đường bay thẳng Đà Nẵng - Singapore",
+    "description": "Hãng Hàng không Quốc gia khai thác đường bay thẳng kết nối Đà Nẵng và Singapore với tần suất mỗi ngày một chuyến, sử dụng tàu bay Airbus A321, từ ngày 17/11.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/10/24/du-o-ng-bay-da-na-ng-singapore-3701-7682-1792820467.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=UnOu3tdkZ73wEuwff2ZCQA",
+    "link": "https://vnexpress.net/vietnam-airlines-mo-duong-bay-thang-da-nang-singapore-5136203.html",
+    "published_at": "Sat, 24 Oct 2026 14:00:00 +0700",
+    "createAt": "2026-10-24T07:00:00.000Z",
+    "thumbnail_blurhash": "L_KoY|ofs;ofx|t6oeWE%0j[WBbF"
+  },
+  {
+    "id": "https://vnexpress.net/bigbang-o-khach-san-tung-don-nhieu-nguyen-thu-quoc-gia-5136153.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "BigBang ở khách sạn từng đón nhiều nguyên thủ quốc gia",
+    "description": "Đến Hà Nội biểu diễn trong hai đêm 24 và 25/10, nhóm nhạc Hàn Quốc BigBang lưu trú ở khách sạn JW Marriott Hotel Hanoi, nơi từng đón nhiều nguyên thủ quốc gia.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/10/24/jwm1-jpeg-1792817938-8939-1792822227.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=v5vKuKlCOwlQI-0HGTMeig",
+    "link": "https://vnexpress.net/bigbang-o-khach-san-tung-don-nhieu-nguyen-thu-quoc-gia-5136153.html",
+    "published_at": "Sat, 24 Oct 2026 15:12:50 +0700",
+    "createAt": "2026-10-24T08:12:50.000Z",
+    "thumbnail_blurhash": "LbG8v3%MogkC~pxuoff+t7oMofof"
   }
 ]

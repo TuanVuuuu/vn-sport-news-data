@@ -843,5 +843,44 @@
     "published_at": "Sat, 24 Oct 2026 10:00:00 +0700",
     "createAt": "2026-10-24T03:00:00.000Z",
     "thumbnail_blurhash": "LPEe$1x_~qxa9tRRE2a$E1xvIqXU"
+  },
+  {
+    "id": "https://vnexpress.net/hon-50-000-nguoi-o-chau-au-tu-vong-vi-nang-nong-ky-luc-nam-nay-5135997.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Hơn 50.000 người ở châu Âu tử vong vì nắng nóng kỷ lục năm nay",
+    "description": "Mùa hè nóng chưa từng thấy khiến số lượng người tử vong do nhiệt độ cao ở các nước châu Âu tăng vọt trong năm nay.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/23/VNEHeat-1792731893-5148-1792731941.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=t1-ZInunMPyrfVErm60V3Q",
+    "link": "https://vnexpress.net/hon-50-000-nguoi-o-chau-au-tu-vong-vi-nang-nong-ky-luc-nam-nay-5135997.html",
+    "published_at": "Sat, 24 Oct 2026 13:00:00 +0700",
+    "createAt": "2026-10-24T06:00:00.000Z",
+    "thumbnail_blurhash": "LKC6+B?wtRt6yZksR-M|%iOZIpWB"
+  },
+  {
+    "id": "https://vnexpress.net/tinh-canh-giam-doc-kiem-nhan-vien-tai-to-chuc-php-5136317.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Tình cảnh 'giám đốc kiêm nhân viên' tại tổ chức PHP",
+    "description": "Tổ chức phi lợi nhuận hỗ trợ ngôn ngữ PHP, nền tảng của khoảng 70% website toàn cầu, đang trong tình trạng thiếu nhân lực trầm trọng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/24/php-1792811399-7456-1792811422.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=gdZZd-Lh0Ucq2KtSKZK-xQ",
+    "link": "https://vnexpress.net/tinh-canh-giam-doc-kiem-nhan-vien-tai-to-chuc-php-5136317.html",
+    "published_at": "Sat, 24 Oct 2026 14:00:00 +0700",
+    "createAt": "2026-10-24T07:00:00.000Z",
+    "thumbnail_blurhash": "LHFZ8I9F-M?Z~oM|WCoeM|fia#oL"
+  },
+  {
+    "id": "https://vnexpress.net/sam-altman-gioi-toan-hoc-chuyen-tu-tuyet-vong-sang-chap-nhan-ai-5136180.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Sam Altman: Giới toán học chuyển từ tuyệt vọng sang chấp nhận AI",
+    "description": "Sam Altman, CEO OpenAI, tin rằng các nhà toán học đang đón nhận AI với thái độ tích cực hơn dù công nghệ này gây nhiều tranh cãi.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/23/ap26050290105275-1792753651-5010-1792753738.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=BNxowM4EH0vLUN_loAfK_g",
+    "link": "https://vnexpress.net/sam-altman-gioi-toan-hoc-chuyen-tu-tuyet-vong-sang-chap-nhan-ai-5136180.html",
+    "published_at": "Sat, 24 Oct 2026 15:00:00 +0700",
+    "createAt": "2026-10-24T08:00:00.000Z",
+    "thumbnail_blurhash": "LECie4ImSUtpxNxtV?OFT0RjovtR"
   }
 ]
