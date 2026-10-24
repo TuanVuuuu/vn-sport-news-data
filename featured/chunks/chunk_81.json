@@ -453,5 +453,31 @@
     "published_at": "Sat, 24 Oct 2026 22:58:11 +0700",
     "createAt": "2026-10-24T15:58:11.000Z",
     "thumbnail_blurhash": "LRE{OhDiD*?a?wIUIUxuo~adM_WE"
+  },
+  {
+    "id": "https://vnexpress.net/ha-noi-khong-dong-loat-thay-the-cay-chua-phu-hop-5136501.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Hà Nội không đồng loạt thay thế cây chưa phù hợp",
+    "description": "Giai đoạn 2026-2030, thành phố sẽ rà soát, di dời, thay thế cây cấm trồng trên đường phố, cây có nguy cơ mất an toàn giao thông, chiếm dụng vỉa hè.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/24/saoen-1792852642-2603-1792853248.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=pWUix9prHX7nKZlbrLPcIA",
+    "link": "https://vnexpress.net/ha-noi-khong-dong-loat-thay-the-cay-chua-phu-hop-5136501.html",
+    "published_at": "Sun, 25 Oct 2026 00:00:00 +0700",
+    "createAt": "2026-10-24T17:00:00.000Z",
+    "thumbnail_blurhash": "L4AdAe_N00i_0J--%5xu^,xv^,xv"
+  },
+  {
+    "id": "https://vnexpress.net/bat-dong-san-hang-tram-ty-dong-cua-ba-thanh-vien-bigbang-5136483.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Bất động sản hàng trăm tỷ đồng của ba thành viên BigBang",
+    "description": "G-Dragon, Taeyang và Daesung đầu tư vào nhiều căn hộ cao cấp, biệt thự và tòa nhà thương mại tại Seoul, với giá trị từ hàng chục đến hàng trăm tỷ đồng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/24/avavava-1792845763-1452-1792848285.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=QXaX3bm23ZJnnYvQ9Rzw9g",
+    "link": "https://vnexpress.net/bat-dong-san-hang-tram-ty-dong-cua-ba-thanh-vien-bigbang-5136483.html",
+    "published_at": "Sun, 25 Oct 2026 00:00:00 +0700",
+    "createAt": "2026-10-24T17:00:00.000Z",
+    "thumbnail_blurhash": "LYF5~yxAj]Io~qxoRij^?bxsWAWD"
   }
 ]
