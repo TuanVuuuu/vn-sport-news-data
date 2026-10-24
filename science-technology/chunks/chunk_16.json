@@ -908,5 +908,18 @@
     "published_at": "Sat, 24 Oct 2026 19:00:00 +0700",
     "createAt": "2026-10-24T12:00:00.000Z",
     "thumbnail_blurhash": "LQG9aQs.IW%1yGkDa#t74oM}s.WV"
+  },
+  {
+    "id": "https://vnexpress.net/smartphone-gia-re-dang-chet-5134841.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Smartphone giá rẻ đang 'chết'",
+    "description": "Những chiếc smartphone rẻ nhất thế giới dần biến mất do bị trung tâm dữ liệu AI \"hút\" chip nhớ, đẩy giá linh kiện lên cao.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/21/dsc002517895673724476178956764-1341-4415-1792521563.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=3us6pK3dPJhvXfcOgekvpg",
+    "link": "https://vnexpress.net/smartphone-gia-re-dang-chet-5134841.html",
+    "published_at": "Sun, 25 Oct 2026 05:00:00 +0700",
+    "createAt": "2026-10-24T22:00:00.000Z",
+    "thumbnail_blurhash": "L98}x=%%qse7o~nLngTMZ2eRcbks"
   }
 ]
