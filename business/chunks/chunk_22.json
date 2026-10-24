@@ -518,5 +518,31 @@
     "published_at": "Sat, 24 Oct 2026 06:00:00 +0700",
     "createAt": "2026-10-23T23:00:00.000Z",
     "thumbnail_blurhash": "LKH.1m$$NFx]_NxuoznilAS#xZju"
+  },
+  {
+    "id": "https://vnexpress.net/agribank-giam-lai-suat-cho-vay-ho-tro-phat-trien-san-xuat-kinh-doanh-5136224.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Agribank giảm lãi suất cho vay hỗ trợ phát triển sản xuất kinh doanh",
+    "description": "Agribank giảm lãi suất cho vay đến 2,5% mỗi năm đối với dư nợ hiện hữu, đồng thời điều chỉnh lãi suất các khoản vay mới nhằm hỗ trợ khách hàng sản xuất kinh doanh.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/23/z2498633600051b2bd45db5a3d7d60-5720-3668-1792768222.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=RDev2MSW8c_3mLNlHk2gBQ",
+    "link": "https://vnexpress.net/agribank-giam-lai-suat-cho-vay-ho-tro-phat-trien-san-xuat-kinh-doanh-5136224.html",
+    "published_at": "Sat, 24 Oct 2026 08:00:00 +0700",
+    "createAt": "2026-10-24T01:00:00.000Z",
+    "thumbnail_blurhash": "LXKKQc?wY6v~-:I9MwS#pI9F$%bc"
+  },
+  {
+    "id": "https://vnexpress.net/gia-vang-the-gioi-tiep-tuc-giam-xuong-thap-nhat-3-thang-5136287.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Giá vàng thế giới tiếp tục giảm, xuống thấp nhất 3 tháng",
+    "description": "Mỗi ounce vàng mất mốc 4.000 USD lần đầu tiên kể từ tháng 7, do giá dầu thô tăng cao.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/24/silvergold-1792803055-7689-1792803064.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=_krmOu4WpauIy9DWbDXIgA",
+    "link": "https://vnexpress.net/gia-vang-the-gioi-tiep-tuc-giam-xuong-thap-nhat-3-thang-5136287.html",
+    "published_at": "Sat, 24 Oct 2026 08:23:40 +0700",
+    "createAt": "2026-10-24T01:23:40.000Z",
+    "thumbnail_blurhash": "L9Fra|Y802Mbks-n%1x]Ouw[Rit3"
   }
 ]
