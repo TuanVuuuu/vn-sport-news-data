@@ -232,5 +232,31 @@
     "published_at": "Sat, 24 Oct 2026 19:00:00 +0700",
     "createAt": "2026-10-24T12:00:00.000Z",
     "thumbnail_blurhash": "LWHo,OxbkkS]?Kj[t7jcRqf*t9aM"
+  },
+  {
+    "id": "https://vnexpress.net/vi-sao-benh-than-giai-doan-dau-kho-nhan-biet-5136064.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Vì sao bệnh thận giai đoạn đầu khó nhận biết?",
+    "description": "Bệnh thận mạn có thể âm thầm tiến triển trong nhiều năm do triệu chứng ban đầu dễ bị bỏ qua và thận còn khả năng bù trừ chức năng.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/23/suy-than1-1792742771-5055-1792742899.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=0sumF8qn4a43WNL9-lgKMg",
+    "link": "https://vnexpress.net/vi-sao-benh-than-giai-doan-dau-kho-nhan-biet-5136064.html",
+    "published_at": "Sun, 25 Oct 2026 00:05:00 +0700",
+    "createAt": "2026-10-24T17:05:00.000Z",
+    "thumbnail_blurhash": "LfP=.sv._4%d-nj]kWocyYkVR+jc"
+  },
+  {
+    "id": "https://vnexpress.net/vi-sao-cang-co-ngu-ban-cang-tinh-tao-5136396.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Vì sao càng cố ngủ bạn càng tỉnh táo?",
+    "description": "Tâm lý lo lắng vì chưa ngủ được, liên tục xem đồng hồ hoặc ép bản thân phải ngủ ngay khiến đầu óc càng tỉnh táo, khó đi vào giấc ngủ.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/24/thuc-giac-1792824877-4475-1792824936.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=VVo0KmpD2qHRfmzsbdhSwA",
+    "link": "https://vnexpress.net/vi-sao-cang-co-ngu-ban-cang-tinh-tao-5136396.html",
+    "published_at": "Sun, 25 Oct 2026 01:00:00 +0700",
+    "createAt": "2026-10-24T18:00:00.000Z",
+    "thumbnail_blurhash": "L47KI}5X0%}:-oxu9voeD%%1I=ER"
   }
 ]

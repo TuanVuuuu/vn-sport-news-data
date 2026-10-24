@@ -921,5 +921,31 @@
     "published_at": "Sat, 24 Oct 2026 22:58:11 +0700",
     "createAt": "2026-10-24T15:58:11.000Z",
     "thumbnail_blurhash": "LRE{OhDiD*?a?wIUIUxuo~adM_WE"
+  },
+  {
+    "id": "https://vnexpress.net/concert-bigbang-o-ha-noi-nhung-giai-dieu-thanh-xuan-5136536.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Concert BigBang ở Hà Nội: Những giai điệu thanh xuân",
+    "description": "BigBang thể hiện những bản hit trong 20 năm như ''Haru Haru'', ''Fantastic Baby'', khiến hàng chục nghìn khán giả ở sân vận động Mỹ Đình như vỡ òa.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/10/24/bigbang-1792858840-2387-1792859175.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=creaSRBc21WQHQiA1bdM2Q",
+    "link": "https://vnexpress.net/concert-bigbang-o-ha-noi-nhung-giai-dieu-thanh-xuan-5136536.html",
+    "published_at": "Sun, 25 Oct 2026 00:13:02 +0700",
+    "createAt": "2026-10-24T17:13:02.000Z",
+    "thumbnail_blurhash": "L5D07Ovu0D_40Kbk%Bot024sxZox"
+  },
+  {
+    "id": "https://vnexpress.net/bigbang-quy-goi-cam-on-khan-gia-5136545.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "BigBang quỳ gối cảm ơn khán giả",
+    "description": "Ba thành viên BigBang quỳ gối cảm ơn khán giả, gọi show ở sân vận động Mỹ Đình là \"concert tuyệt vời nhất\", tối 24/10.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/10/25/g-dragon-1792864227-1417-1792864311.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=lB6KenEU4Udg16w_ghnYIQ",
+    "link": "https://vnexpress.net/bigbang-quy-goi-cam-on-khan-gia-5136545.html",
+    "published_at": "Sun, 25 Oct 2026 01:03:49 +0700",
+    "createAt": "2026-10-24T18:03:49.000Z",
+    "thumbnail_blurhash": "LMHU3A~VOZ9[G1Sl4=V[TLSj9aRP"
   }
 ]
