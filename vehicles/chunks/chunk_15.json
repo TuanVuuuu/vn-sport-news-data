@@ -1194,5 +1194,31 @@
     "published_at": "Sat, 24 Oct 2026 13:21:54 +0700",
     "createAt": "2026-10-24T06:21:54.000Z",
     "thumbnail_blurhash": "LQEC|J?wtmx]?vRPITM_S%%M%NM|"
+  },
+  {
+    "id": "https://vnexpress.net/xe-may-dien-doi-pin-giai-phap-cho-cu-dan-chung-cu-5136439.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Xe máy điện đổi pin - giải pháp cho cư dân chung cư",
+    "description": "Các dòng xe máy điện VinFast đổi pin giúp người ở chung cư không phụ thuộc chỗ sạc, thao tác nhanh chóng, được hãng hỗ trợ đổi pin miễn phí đến giữa năm 2028.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/24/1-1792833180-8663-1792833253.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Jr37bk_sdXtCp2SH3zQYbw",
+    "link": "https://vnexpress.net/xe-may-dien-doi-pin-giai-phap-cho-cu-dan-chung-cu-5136439.html",
+    "published_at": "Sat, 24 Oct 2026 17:00:00 +0700",
+    "createAt": "2026-10-24T10:00:00.000Z",
+    "thumbnail_blurhash": "LBCGlZPE?cNDpLI_4oITM}smR5xV"
+  },
+  {
+    "id": "https://vnexpress.net/phuong-trang-sap-khai-thac-tuyen-lien-tinh-bang-oto-dien-5136457.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Phương Trang sắp khai thác tuyến liên tỉnh bằng ôtô điện",
+    "description": "Phương Trang nhận bàn giao lô 100 ôtô giường nằm thuần điện từ Kim Long Motor Huế, đưa vào khai thác trên các tuyến liên tỉnh, ngày 23/10.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/24/3-1792837102-1494-1792837168.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=XRQBlk8CXXl8YTDndM91Cw",
+    "link": "https://vnexpress.net/phuong-trang-sap-khai-thac-tuyen-lien-tinh-bang-oto-dien-5136457.html",
+    "published_at": "Sat, 24 Oct 2026 17:30:00 +0700",
+    "createAt": "2026-10-24T10:30:00.000Z",
+    "thumbnail_blurhash": "L9DJtYxmsWtN?.D$Nf%Lf{-;xvV@"
   }
 ]
