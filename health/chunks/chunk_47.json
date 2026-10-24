@@ -180,5 +180,31 @@
     "published_at": "Sat, 24 Oct 2026 15:00:00 +0700",
     "createAt": "2026-10-24T08:00:00.000Z",
     "thumbnail_blurhash": "LLKw^E0000?b~oWGbHemV?W?-pxt"
+  },
+  {
+    "id": "https://vnexpress.net/dau-hieu-thoai-hoa-khop-goi-som-5136388.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Dấu hiệu thoái hóa khớp gối sớm",
+    "description": "Đau, cứng khớp khi ngủ dậy, lạo xạo và hạn chế vận động gối có thể cảnh báo thoái hóa khớp sớm ở người dưới 50 tuổi.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/24/goi-1792823039-1409-1792823165.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=w6UOz1Oux4M9pDErYv-9Gg",
+    "link": "https://vnexpress.net/dau-hieu-thoai-hoa-khop-goi-som-5136388.html",
+    "published_at": "Sat, 24 Oct 2026 16:00:00 +0700",
+    "createAt": "2026-10-24T09:00:00.000Z",
+    "thumbnail_blurhash": "LFNwA.?F00~ptmISD%-:xuD%RPn$"
+  },
+  {
+    "id": "https://vnexpress.net/vi-sao-ban-kho-giam-can-5136281.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Vì sao bạn khó giảm cân?",
+    "description": "Chế độ ăn lành mạnh như khẩu phần nhiều, thói quen ăn nhanh, sử dụng đồ uống có đường có thể gây dư thừa calo, khó giảm cân.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/24/448761077-n-1792801534-9924-1792801621.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=eZIyBZ90V-qy1D1xxsZ9kg",
+    "link": "https://vnexpress.net/vi-sao-ban-kho-giam-can-5136281.html",
+    "published_at": "Sat, 24 Oct 2026 16:00:00 +0700",
+    "createAt": "2026-10-24T09:00:00.000Z",
+    "thumbnail_blurhash": "LFHe8s9bn5=|}]-B^N,@t8V?-OIr"
   }
 ]
