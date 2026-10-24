@@ -791,5 +791,44 @@
     "published_at": "Sat, 24 Oct 2026 12:00:00 +0700",
     "createAt": "2026-10-24T05:00:00.000Z",
     "thumbnail_blurhash": "L6Dl{D~C00-@0E%N-.tTS}OG%1x]"
+  },
+  {
+    "id": "https://vnexpress.net/truc-nhan-ap-luc-khi-lam-concert-dau-tay-5135938.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Trúc Nhân áp lực khi làm concert đầu tay",
+    "description": "Trúc Nhân nói gặp thử thách khi phải hoàn thiện album, vừa tập luyện, dàn dựng sân khấu cho concert đầu tiên sau 14 năm ca hát.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/10/23/PosterShowcaseAlbumcaTrcNhn-17-8235-9297-1792741745.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=SUf3cQTiOm77i19a8ioTgw",
+    "link": "https://vnexpress.net/truc-nhan-ap-luc-khi-lam-concert-dau-tay-5135938.html",
+    "published_at": "Sat, 24 Oct 2026 13:30:00 +0700",
+    "createAt": "2026-10-24T06:30:00.000Z",
+    "thumbnail_blurhash": "LaJ@m+V?%Es;~noJ-.Io-;bINGs."
+  },
+  {
+    "id": "https://vnexpress.net/nha-van-ryu-murakami-qua-doi-5136395.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Nhà văn Ryu Murakami qua đời",
+    "description": "Nhà văn Ryu Murakami - một trong hai trụ cột của văn học Nhật Bản đương đại, cùng Haruki Murakami - qua đời ở tuổi 74.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/10/24/ryu-murakami-1792826815-6197-1792826821.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=AXgaQEo7a_lC6CqTzie6HA",
+    "link": "https://vnexpress.net/nha-van-ryu-murakami-qua-doi-5136395.html",
+    "published_at": "Sat, 24 Oct 2026 14:25:45 +0700",
+    "createAt": "2026-10-24T07:25:45.000Z",
+    "thumbnail_blurhash": "LiLWw;.S_MozD%IUn#ofIojEsmWB"
+  },
+  {
+    "id": "https://vnexpress.net/cong-chua-monaco-mac-dong-dieu-voi-me-5130606.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Công chúa Monaco mặc đồng điệu với mẹ",
+    "description": "Vương phi Charlene và Công chúa Gabriella của Monaco thường được khen ngợi với phong cách thanh lịch, ăn ý trong kiểu dáng, màu sắc.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/10/24/cong-chua-vuong-phi-monaco-1792810019.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=xrMJ3Iwa7t1hB4faHa96qw",
+    "link": "https://vnexpress.net/cong-chua-monaco-mac-dong-dieu-voi-me-5130606.html",
+    "published_at": "Sat, 24 Oct 2026 14:30:00 +0700",
+    "createAt": "2026-10-24T07:30:00.000Z",
+    "thumbnail_blurhash": "LDGHucxq00^S00IU_4pHE1-q-p9F"
   }
 ]
