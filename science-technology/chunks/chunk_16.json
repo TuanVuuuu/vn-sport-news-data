@@ -817,5 +817,31 @@
     "published_at": "Sat, 24 Oct 2026 08:00:00 +0700",
     "createAt": "2026-10-24T01:00:00.000Z",
     "thumbnail_blurhash": "L54VUe^+-=_NOvM{M{NG9ED*M|9F"
+  },
+  {
+    "id": "https://vnexpress.net/de-xuat-bo-18-thu-tuc-ve-so-huu-tri-tue-5136315.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Đề xuất bỏ 18 thủ tục về sở hữu trí tuệ",
+    "description": "Chính phủ đề xuất luật hóa việc bãi bỏ 18 thủ tục hành chính, cắt giảm 5 điều kiện kinh doanh, nhằm đơn giản hóa việc chuyển nhượng quyền sở hữu công nghiệp và bảo hộ giống cây trồng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/24/202610240845157135-g7574298250-9867-3484-1792809310.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Txw_KQ_m-_BPSonaYghKIw",
+    "link": "https://vnexpress.net/de-xuat-bo-18-thu-tuc-ve-so-huu-tri-tue-5136315.html",
+    "published_at": "Sat, 24 Oct 2026 09:57:28 +0700",
+    "createAt": "2026-10-24T02:57:28.000Z",
+    "thumbnail_blurhash": "L9I4FF05z,R*|q599w%0~L$~ETt6"
+  },
+  {
+    "id": "https://vnexpress.net/khoang-trong-face-id-tren-iphone-duo-5136129.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Khoảng trống Face ID trên iPhone Duo",
+    "description": "iPhone Duo đem đến nhiều trải nghiệm mới mẻ nhưng thiếu vắng nhận dạng khuôn mặt Face ID, ảnh hưởng đến thói quen của người dùng iPhone lâu năm.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/23/DSCF0873-1792746989.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=piZZssnQ-ZuqmTlbsZFPdQ",
+    "link": "https://vnexpress.net/khoang-trong-face-id-tren-iphone-duo-5136129.html",
+    "published_at": "Sat, 24 Oct 2026 10:00:00 +0700",
+    "createAt": "2026-10-24T03:00:00.000Z",
+    "thumbnail_blurhash": "LPEe$1x_~qxa9tRRE2a$E1xvIqXU"
   }
 ]
