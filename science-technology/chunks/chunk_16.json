@@ -921,5 +921,31 @@
     "published_at": "Sun, 25 Oct 2026 05:00:00 +0700",
     "createAt": "2026-10-24T22:00:00.000Z",
     "thumbnail_blurhash": "L98}x=%%qse7o~nLngTMZ2eRcbks"
+  },
+  {
+    "id": "https://vnexpress.net/bao-dam-an-ninh-mang-cho-ha-tang-nang-luong-5136187.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Bảo đảm an ninh mạng cho hạ tầng năng lượng",
+    "description": "Hệ thống điều khiển công nghiệp, dữ liệu vận hành và các kênh truy cập từ xa là những điểm cần được bảo vệ để tránh gián đoạn hoạt động của hạ tầng năng lượng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/24/thu-o-ng-ta-trie-u-ma-nh-tu-ng-4401-6871-1792814835.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=1aL3iThaczd8sals5sCfJQ",
+    "link": "https://vnexpress.net/bao-dam-an-ninh-mang-cho-ha-tang-nang-luong-5136187.html",
+    "published_at": "Sat, 24 Oct 2026 11:00:00 +0700",
+    "createAt": "2026-10-24T04:00:00.000Z",
+    "thumbnail_blurhash": "LPHWND.6B@yFcIyW-Qs=00i^%1kW"
+  },
+  {
+    "id": "https://vnexpress.net/chi-phi-phu-song-di-dong-mien-nui-cao-gap-doi-dong-bang-5136465.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "'Chi phí phủ sóng di động miền núi cao gấp đôi đồng bằng'",
+    "description": "Theo Giám đốc Viettel Sơn La Nguyễn Chí Công, chi phí đầu tư hạ tầng cao là nguyên nhân nhiều tỉnh miền núi vẫn tồn tại vùng lõm sóng di động.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/24/viettel-son-la-1792840391-9386-1792840469.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=JcQTfxgfFLVbaE9c6FW8vA",
+    "link": "https://vnexpress.net/chi-phi-phu-song-di-dong-mien-nui-cao-gap-doi-dong-bang-5136465.html",
+    "published_at": "Sun, 25 Oct 2026 06:30:19 +0700",
+    "createAt": "2026-10-24T23:30:19.000Z",
+    "thumbnail_blurhash": "L4E2~}~VTl^v~AkSXObu$[RioQo$"
   }
 ]
