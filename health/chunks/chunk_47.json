@@ -544,5 +544,31 @@
     "published_at": "Sun, 25 Oct 2026 11:11:32 +0700",
     "createAt": "2026-10-25T04:11:32.000Z",
     "thumbnail_blurhash": "L9KKvND$009G~V9FIVWX00t800xv"
+  },
+  {
+    "id": "https://vnexpress.net/dieu-gi-xay-ra-khi-nguoi-tieu-duong-an-cac-loai-hat-5136350.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Điều gì xảy ra khi người tiểu đường ăn các loại hạt?",
+    "description": "Nhờ chỉ số đường huyết thấp và giàu chất béo lành mạnh, hạnh nhân, hạt óc chó hay dẻ cười có thể hỗ trợ cải thiện độ nhạy insulin, kiểm soát đường huyết.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/24/462536954-n-1792813094-7450-1792824311.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=KNlEPemZaRoY-3FOlzJamQ",
+    "link": "https://vnexpress.net/dieu-gi-xay-ra-khi-nguoi-tieu-duong-an-cac-loai-hat-5136350.html",
+    "published_at": "Sun, 25 Oct 2026 12:00:00 +0700",
+    "createAt": "2026-10-25T05:00:00.000Z",
+    "thumbnail_blurhash": "L8EyMG_4D%VC?GM{M{Mx-;Vsoft7"
+  },
+  {
+    "id": "https://vnexpress.net/4-loai-do-uong-gay-mat-ngu-nen-han-che-sau-16h-5136391.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "4 loại đồ uống gây mất ngủ nên hạn chế sau 16h",
+    "description": "Cà phê, trà xanh chứa caffeine, còn nước trái cây có tính axit có thể kích thích bàng quang, làm tăng nhu cầu đi tiểu ban đêm và ảnh hưởng giấc ngủ.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/24/472791534-n-1792824224.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=P1snN_vTimHj8KMM2uL4QA",
+    "link": "https://vnexpress.net/4-loai-do-uong-gay-mat-ngu-nen-han-che-sau-16h-5136391.html",
+    "published_at": "Sun, 25 Oct 2026 14:00:00 +0700",
+    "createAt": "2026-10-25T07:00:00.000Z",
+    "thumbnail_blurhash": "LLINN$_N%g-V.R-;xuNe.7xusnxC"
   }
 ]
