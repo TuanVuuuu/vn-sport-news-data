@@ -973,5 +973,44 @@
     "published_at": "Sun, 25 Oct 2026 09:12:54 +0700",
     "createAt": "2026-10-25T02:12:54.000Z",
     "thumbnail_blurhash": null
+  },
+  {
+    "id": "https://vnexpress.net/dan-sao-xem-concert-bigbang-5136510.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Dàn sao xem concert BigBang",
+    "description": "Ca sĩ Tùng Dương, Á hậu Quỳnh Châu, người đẹp Đàm Thu Trang hòa cùng người mộ điệu xem BigBang biểu diễn tại sân Mỹ Đình, tối 24/10.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/10/25/29d9b46cf6ad7-b765-d025ce-1792-3430-4977-1792897047.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=w1EE6F9DON2nA5Ub9xsT6w",
+    "link": "https://vnexpress.net/dan-sao-xem-concert-bigbang-5136510.html",
+    "published_at": "Sun, 25 Oct 2026 10:10:20 +0700",
+    "createAt": "2026-10-25T03:10:20.000Z",
+    "thumbnail_blurhash": "LJFOW0s;OYE}~pX8Rk^i%ykCxZs:"
+  },
+  {
+    "id": "https://vnexpress.net/lisa-dien-do-ton-eo-5136579.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Lisa diện đồ tôn eo",
+    "description": "Ca sĩ Lisa (Blackpink) diện crop top, tôn vòng eo 51 cm trong hậu trường chụp ảnh thời trang.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/10/25/lisa-vogue-4-1792900346-8102-1792900352.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=PZ6cYxSl7TF0WWuvf-C-1w",
+    "link": "https://vnexpress.net/lisa-dien-do-ton-eo-5136579.html",
+    "published_at": "Sun, 25 Oct 2026 10:53:19 +0700",
+    "createAt": "2026-10-25T03:53:19.000Z",
+    "thumbnail_blurhash": "L3FX;e000N?u00~A%1D*00%#E1#R"
+  },
+  {
+    "id": "https://vnexpress.net/daesung-hat-tieng-viet-choc-cuoi-fan-trong-concert-bigbang-5136592.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Daesung hát tiếng Việt, chọc cười fan trong concert BigBang",
+    "description": "Daesung - \"cây hài\" của nhóm BigBang - liên tục chọc cười fan với các màn hát tiếng Việt, giả giọng opera, trong concert đầu tiên của nhóm ở Hà Nội.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/10/25/daesung-1792900524-3554-1792900544.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=UmjskZivqN_aljCjy4nB_Q",
+    "link": "https://vnexpress.net/daesung-hat-tieng-viet-choc-cuoi-fan-trong-concert-bigbang-5136592.html",
+    "published_at": "Sun, 25 Oct 2026 11:13:14 +0700",
+    "createAt": "2026-10-25T04:13:14.000Z",
+    "thumbnail_blurhash": "L89?:{}r000~AxInR3S%9^of}s-U"
   }
 ]
