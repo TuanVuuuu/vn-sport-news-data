@@ -258,5 +258,31 @@
     "published_at": "Sun, 25 Oct 2026 08:00:00 +0700",
     "createAt": "2026-10-25T01:00:00.000Z",
     "thumbnail_blurhash": "LiGSAbbc%fRP^UozV[bXmeafR8f#"
+  },
+  {
+    "id": "https://vnexpress.net/thanh-pho-my-hoang-vang-sau-chien-dich-truy-quet-nhap-cu-5136318.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Thành phố Mỹ hoang vắng sau chiến dịch truy quét nhập cư",
+    "description": "Thành phố Springfield ở Ohio từng rất nhộn nhịp, nhưng giờ trở nên hoang vắng khi phần lớn người nhập cư đã rời đi hoặc không dám ra ngoài.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/24/imrs-1792818684-1321-1792819341.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=4VIIwNFWftV1EeK9P_xIqQ",
+    "link": "https://vnexpress.net/thanh-pho-my-hoang-vang-sau-chien-dich-truy-quet-nhap-cu-5136318.html",
+    "published_at": "Sun, 25 Oct 2026 09:07:53 +0700",
+    "createAt": "2026-10-25T02:07:53.000Z",
+    "thumbnail_blurhash": "LTD+;]?H_2?b_4NG%g%M_3RPxut7"
+  },
+  {
+    "id": "https://vnexpress.net/khoi-lua-bao-trum-nuoc-phap-khi-bieu-tinh-bien-thanh-bao-luc-5136563.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Khói lửa bao trùm nước Pháp khi biểu tình biến thành bạo lực",
+    "description": "Đụng độ tiếp tục xảy ra tại nhiều thành phố ở Pháp, khi hàng trăm nghìn người biểu tình phản đối vật giá leo thang.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/25/AFP-20261024-D4BD8Z8-v2-HighRes-TopshotFranceSocialDemo-1792895149.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=6sOA4NtXvknQ5G7qbmu5wA",
+    "link": "https://vnexpress.net/khoi-lua-bao-trum-nuoc-phap-khi-bieu-tinh-bien-thanh-bao-luc-5136563.html",
+    "published_at": "Sun, 25 Oct 2026 09:46:24 +0700",
+    "createAt": "2026-10-25T02:46:24.000Z",
+    "thumbnail_blurhash": "LAC=*r~X0jxu?cK6I:=_0#E1,.ax"
   }
 ]
