@@ -674,5 +674,57 @@
     "published_at": "Sun, 25 Oct 2026 20:11:49 +0700",
     "createAt": "2026-10-25T13:11:49.000Z",
     "thumbnail_blurhash": "LDHxmMDh00_4yE.SRjI9?a?b_2D%"
+  },
+  {
+    "id": "https://vnexpress.net/nguoi-dan-ong-uong-35-000-vien-thuoc-ung-thu-suot-hon-2-thap-ky-5136261.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Người đàn ông uống 35.000 viên thuốc ung thư suốt hơn 2 thập kỷ",
+    "description": "Sau 24 năm điều trị bệnh bạch cầu mạn dòng tủy, ông Lục Dũng, nguyên mẫu phim \"Dying to Survive\", giảm một nửa liều thuốc và hướng tới ngừng thuốc vào tháng 1 năm sau.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/24/15-1792781299-8982-1792781509.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=MesrVjorzraj-0b2jy7gNQ",
+    "link": "https://vnexpress.net/nguoi-dan-ong-uong-35-000-vien-thuoc-ung-thu-suot-hon-2-thap-ky-5136261.html",
+    "published_at": "Mon, 26 Oct 2026 00:03:00 +0700",
+    "createAt": "2026-10-25T17:03:00.000Z",
+    "thumbnail_blurhash": "LdIYX$%19utQ*0xB?HtRt-t6xut7"
+  },
+  {
+    "id": "https://vnexpress.net/vi-sao-ban-met-moi-du-ngu-du-8-tieng-5132420.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Vì sao bạn mệt mỏi dù ngủ đủ 8 tiếng?",
+    "description": "Người ngủ đủ 8 tiếng nhưng vẫn mệt mỏi có thể do chất lượng giấc ngủ kém, căng thẳng kéo dài, thiếu chất dinh dưỡng hoặc một số vấn đề sức khỏe tiềm ẩn.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/23/ngu-1792737793-9007-1792737811.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=gVF1yC2SaGd62ZFjgThbSw",
+    "link": "https://vnexpress.net/vi-sao-ban-met-moi-du-ngu-du-8-tieng-5132420.html",
+    "published_at": "Mon, 26 Oct 2026 00:05:00 +0700",
+    "createAt": "2026-10-25T17:05:00.000Z",
+    "thumbnail_blurhash": "LGHx$$IADiIA~BRix]RjD$WBtRxu"
+  },
+  {
+    "id": "https://vnexpress.net/7-viec-nen-lam-moi-tuan-giup-giam-nguy-co-cao-huyet-ap-5136525.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "7 việc nên làm mỗi tuần giúp giảm nguy cơ cao huyết áp",
+    "description": "Duy trì vận động, ăn ít muối, ngủ đủ giấc và theo dõi huyết áp định kỳ giúp kiểm soát những yếu tố nguy cơ, từ đó giảm khả năng mắc tăng huyết áp.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/24/di-bo-1792856135-5785-1792856144.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=y1YnpdjEGB83gdugMoZu3g",
+    "link": "https://vnexpress.net/7-viec-nen-lam-moi-tuan-giup-giam-nguy-co-cao-huyet-ap-5136525.html",
+    "published_at": "Mon, 26 Oct 2026 01:00:00 +0700",
+    "createAt": "2026-10-25T18:00:00.000Z",
+    "thumbnail_blurhash": "LmJk_yWCX8t7~qbIWBof%2ofjGay"
+  },
+  {
+    "id": "https://vnexpress.net/loai-trai-cay-quen-thuoc-nao-giup-tre-hoa-lan-da-5136226.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Loại trái cây quen thuộc nào giúp trẻ hóa làn da?",
+    "description": "Nghiên cứu của Đại học California tại Davis ghi nhận phụ nữ sau mãn kinh ăn 85 gram xoài bốn lần mỗi tuần, kéo dài trong 16 tuần, giảm rõ rệt độ sâu của nếp nhăn; song nếu ăn tới 250 gram mỗi ngày lại khiến nếp nhăn xuất hiện nhiều hơn.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/23/9-1792770320-1540-1792770375.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=frPWyw8CMUOr1PS6lJJZyw",
+    "link": "https://vnexpress.net/loai-trai-cay-quen-thuoc-nao-giup-tre-hoa-lan-da-5136226.html",
+    "published_at": "Mon, 26 Oct 2026 02:00:00 +0700",
+    "createAt": "2026-10-25T19:00:00.000Z",
+    "thumbnail_blurhash": "LXJG.n_3xvK6-pgMtQXRYR%gxuxt"
   }
 ]
