@@ -1090,5 +1090,31 @@
     "published_at": "Mon, 26 Oct 2026 15:30:00 +0700",
     "createAt": "2026-10-26T08:30:00.000Z",
     "thumbnail_blurhash": "LLM@WM00009Z~pW?RkMdj;IpRks:"
+  },
+  {
+    "id": "https://vnexpress.net/nguoi-benh-cho-hon-90-phut-vi-so-kham-bi-bo-quen-trong-hoc-ban-5137045.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Người bệnh chờ hơn 90 phút vì sổ khám bị bỏ quên trong hộc bàn",
+    "description": "Một người bệnh tại TP HCM chờ hơn 90 phút để khám lại sau xét nghiệm do sổ khám bị bỏ quên trong hộc bàn, theo ghi nhận của Sở Y tế.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/26/wm1-wm1-233a1821-1793001996-6258-1793002009.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=5ggDl6vm4xlJUZzRx2qLmw",
+    "link": "https://vnexpress.net/nguoi-benh-cho-hon-90-phut-vi-so-kham-bi-bo-quen-trong-hoc-ban-5137045.html",
+    "published_at": "Mon, 26 Oct 2026 15:47:53 +0700",
+    "createAt": "2026-10-26T08:47:53.000Z",
+    "thumbnail_blurhash": "LDD+}I%J00?axptSxZxu00R5_4s9"
+  },
+  {
+    "id": "https://vnexpress.net/cang-co-khac-rach-co-the-nao-5137038.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Căng cơ khác rách cơ thế nào",
+    "description": "Căng cơ là tình trạng thường gặp ở cổ vai, lưng do cơ bắp bị kéo giãn quá mức, trong khi rách cơ gây đau dữ dội hơn do đứt sợi cơ.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/26/1-1793000993-4210-1793001250.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=k7R3cqYRPHWcfpqfucVAuA",
+    "link": "https://vnexpress.net/cang-co-khac-rach-co-the-nao-5137038.html",
+    "published_at": "Mon, 26 Oct 2026 16:00:00 +0700",
+    "createAt": "2026-10-26T09:00:00.000Z",
+    "thumbnail_blurhash": "LWLNon~TNF%NtQ-=xYj[RPoIxuR."
   }
 ]

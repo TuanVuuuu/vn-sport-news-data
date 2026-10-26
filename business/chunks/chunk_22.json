@@ -895,5 +895,44 @@
     "published_at": "Mon, 26 Oct 2026 14:00:00 +0700",
     "createAt": "2026-10-26T07:00:00.000Z",
     "thumbnail_blurhash": "LFFr-2%}4:~UyX$$Vro#0MROMeoN"
+  },
+  {
+    "id": "https://vnexpress.net/kienlongbank-giam-lai-do-uu-dai-tin-dung-5136942.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "KienlongBank giảm lãi do 'ưu đãi tín dụng'",
+    "description": "KienlongBank giải thích lợi nhuận quý III giảm hai chữ số do 'thực hiện các chương trình tín dụng ưu đãi nhằm chia sẻ khó khăn với nền kinh tế'.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/26/kienlong-1792990302-2417-1792990415.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=-tZF7N5M-fqBcWTkOU1rLw",
+    "link": "https://vnexpress.net/kienlongbank-giam-lai-do-uu-dai-tin-dung-5136942.html",
+    "published_at": "Mon, 26 Oct 2026 14:49:47 +0700",
+    "createAt": "2026-10-26T07:49:47.000Z",
+    "thumbnail_blurhash": "LTKne_-:R%nPtSD*o#t6~qM{IVR%"
+  },
+  {
+    "id": "https://vnexpress.net/bitcoin-thung-moc-80-000-usd-5137013.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Bitcoin thủng mốc 80.000 USD",
+    "description": "Áp lực tâm lý trước cuộc họp của Fed tuần này và đà bán tháo cổ phiếu AI châu Á khiến nhà đầu tư thận trọng, rút tiền khỏi Bitcoin.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/26/107351663170361820920231024t10-9857-5368-1792999496.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=-KBHbtv9n8hqyVhvtCROMQ",
+    "link": "https://vnexpress.net/bitcoin-thung-moc-80-000-usd-5137013.html",
+    "published_at": "Mon, 26 Oct 2026 14:50:02 +0700",
+    "createAt": "2026-10-26T07:50:02.000Z",
+    "thumbnail_blurhash": "LWDRWL};oLR+W;bat5xYR+jZoLS4"
+  },
+  {
+    "id": "https://vnexpress.net/khoi-ngoai-ban-rong-hon-900-ty-dong-5137058.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Khối ngoại bán ròng hơn 900 tỷ đồng",
+    "description": "Nhà đầu tư nước ngoài bán ròng hơn 900 tỷ đồng, nhiều nhất trong nửa tháng qua, tạo thêm áp lực khiến phiên chứng khoán giảm gần 11 điểm.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/26/233a7512-1793002843-3066-1793002891.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=U1ikBce9sgnMcWIVWJmNKQ",
+    "link": "https://vnexpress.net/khoi-ngoai-ban-rong-hon-900-ty-dong-5137058.html",
+    "published_at": "Mon, 26 Oct 2026 15:31:45 +0700",
+    "createAt": "2026-10-26T08:31:45.000Z",
+    "thumbnail_blurhash": "LIATHA?wx]M{IAD%M{bbNYjEa_og"
   }
 ]
