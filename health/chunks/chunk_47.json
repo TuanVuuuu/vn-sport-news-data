@@ -908,5 +908,44 @@
     "published_at": "Mon, 26 Oct 2026 10:00:00 +0700",
     "createAt": "2026-10-26T03:00:00.000Z",
     "thumbnail_blurhash": "LHM*mx.7-*%#?wt7%NM}-;M|Ipw{"
+  },
+  {
+    "id": "https://vnexpress.net/an-gi-tot-cho-khop-nguoi-cao-tuoi-5136854.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Ăn gì tốt cho khớp người cao tuổi?",
+    "description": "Cá béo giàu omega 3, dâu tây, việt quất chứa chống oxy hóa có thể giúp giảm viêm, làm chậm quá trình tổn thương sụn cho người lớn tuổi thoái hóa khớp.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/26/ca-ho-i-jpeg-1792984348-4953-1792984652.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=tva_BjzTZrfYUKVrZUnM1A",
+    "link": "https://vnexpress.net/an-gi-tot-cho-khop-nguoi-cao-tuoi-5136854.html",
+    "published_at": "Mon, 26 Oct 2026 11:00:00 +0700",
+    "createAt": "2026-10-26T04:00:00.000Z",
+    "thumbnail_blurhash": "LRJtLy0x%i[t}rI:S~#mXBrqOqtP"
+  },
+  {
+    "id": "https://vnexpress.net/ung-thu-da-day-di-can-gan-co-mo-noi-soi-duoc-khong-5136760.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Ung thư dạ dày di căn gan có mổ nội soi được không?",
+    "description": "Bố tôi lớn tuổi, mới phát hiện u gan do di căn từ dạ dày. Gia đình muốn chọn phẫu thuật nội soi để giảm biến chứng thì có được không? (Thế Bảo, 41 tuổi)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/26/da-day-1792974713-2770-1792974872.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=f34hZh2hCmk5ivLQvnVGHg",
+    "link": "https://vnexpress.net/ung-thu-da-day-di-can-gan-co-mo-noi-soi-duoc-khong-5136760.html",
+    "published_at": "Mon, 26 Oct 2026 11:00:00 +0700",
+    "createAt": "2026-10-26T04:00:00.000Z",
+    "thumbnail_blurhash": "LoJ+ipI9D%e,~oRoV@R-s+axkDWY"
+  },
+  {
+    "id": "https://vnexpress.net/nguoi-phu-nu-bi-long-truc-trang-5136762.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Người phụ nữ bị lồng trực tràng",
+    "description": "Bà Hương, 66 tuổi, đi tiêu khó khăn sau phẫu thuật trĩ 20 năm, nay bác sĩ phát hiện lồng trực tràng.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/26/bs-hau-1792975233-7245-1792975242.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=48RmylUzT9i_au8DdQ0YDw",
+    "link": "https://vnexpress.net/nguoi-phu-nu-bi-long-truc-trang-5136762.html",
+    "published_at": "Mon, 26 Oct 2026 12:00:00 +0700",
+    "createAt": "2026-10-26T05:00:00.000Z",
+    "thumbnail_blurhash": "LQH38zECEL%2~kN2WER-s}RNRnbw"
   }
 ]
