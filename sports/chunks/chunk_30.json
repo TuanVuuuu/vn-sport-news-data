@@ -219,5 +219,31 @@
     "published_at": "Mon, 26 Oct 2026 08:22:04 +0700",
     "createAt": "2026-10-26T01:22:04.000Z",
     "thumbnail_blurhash": "L2711TW=00sA~TxZ4;EL-Us.Ipa|"
+  },
+  {
+    "id": "https://vnexpress.net/8-diem-nhan-vong-8-ngoai-hang-anh-5136737.html",
+    "category_id": "sports",
+    "category_name": "Thể thao",
+    "source": "VnExpress",
+    "title": "8 điểm nhấn vòng 8 Ngoại hạng Anh",
+    "description": "Man Utd rục rịch thay Michael Carrick, Arsenal tìm về với \"bóng chết\" hay Man City đứt mạch toàn thắng... là những điểm đáng chú ý tại Ngoại hạng Anh tuần qua.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/10/26/A-nh-ma-n-hi-nh-2026-10-26-lu-c-04-1792963817.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=NPMF486dqA7KBv3EqxM6iw",
+    "link": "https://vnexpress.net/8-diem-nhan-vong-8-ngoai-hang-anh-5136737.html",
+    "published_at": "Mon, 26 Oct 2026 10:43:42 +0700",
+    "createAt": "2026-10-26T03:43:42.000Z",
+    "thumbnail_blurhash": "L7Bx.tyC^+^k$$}Y5RWBnhI:X45j"
+  },
+  {
+    "id": "https://vnexpress.net/mbappe-cham-moc-100-ban-cho-real-madrid-5136879.html",
+    "category_id": "sports",
+    "category_name": "Thể thao",
+    "source": "VnExpress",
+    "title": "Mbappe chạm mốc 100 bàn cho Real Madrid",
+    "description": "Với cú đúp hạ Barca 2-1 ở El Clasico ngày 25/10, tiền đạo Kylian Mbappe có tròn 100 bàn cho Real sau 116 trận trên mọi đấu trường, qua đó gia nhập nhóm cầu thủ đạt mốc này nhanh nhất lịch sử bóng đá hiện đại.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/10/26/ap26298743027368-1792986159-3080-1792986167.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=XI_Av1an8X3CSSU057DegQ",
+    "link": "https://vnexpress.net/mbappe-cham-moc-100-ban-cho-real-madrid-5136879.html",
+    "published_at": "Mon, 26 Oct 2026 10:44:00 +0700",
+    "createAt": "2026-10-26T03:44:00.000Z",
+    "thumbnail_blurhash": "LMEp1f?HnmWB00IoNFay_Nj[ofoL"
   }
 ]
