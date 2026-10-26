@@ -1,3 +1,82 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/hlv-kewell-nhan-the-do-tro-ly-goi-trong-tai-v-league-la-mafia-5136693.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "HLV Kewell nhận thẻ đỏ, trợ lý gọi trọng tài V-League là mafia",
+      "description": "Các thành viên Hà Nội FC phản ứng mạnh với tổ trọng tài sau khi thua Đà Nẵng 0-1 ở vòng 5 V-League 2026-2027, tối 25/10.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/10/25/179292822888542841593761539255-3495-7933-1792943331.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=mDRfPpJwg8lVcAdULiqOGQ",
+      "link": "https://vnexpress.net/hlv-kewell-nhan-the-do-tro-ly-goi-trong-tai-v-league-la-mafia-5136693.html",
+      "published_at": "Mon, 26 Oct 2026 00:00:00 +0700",
+      "createAt": "2026-10-25T17:00:00.000Z",
+      "thumbnail_blurhash": "L6CGPUL104qG01Ht?ryq02#m~7L0"
+    },
+    {
+      "id": "https://vnexpress.net/nhom-nghien-cuu-viet-che-tao-xuong-kim-loai-tu-titan-5133699.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Nhóm nghiên cứu Việt chế tạo xương kim loại từ titan",
+      "description": "Khởi nguồn từ ca bệnh cần ghép xương thành ngực, nhóm nghiên cứu tại VinUni phát triển bộ phận cấy ghép bằng titan in 3D thay thế.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/17/image1156-1792250726-7780-1792250881.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=F9SwBDeJ1AMYj7jXYDFw7Q",
+      "link": "https://vnexpress.net/nhom-nghien-cuu-viet-che-tao-xuong-kim-loai-tu-titan-5133699.html",
+      "published_at": "Mon, 26 Oct 2026 00:00:00 +0700",
+      "createAt": "2026-10-25T17:00:00.000Z",
+      "thumbnail_blurhash": "L46jXn-B0g5l0}Nu}s$j0~Na^4-B"
+    },
+    {
+      "id": "https://vnexpress.net/bua-tiec-am-nhac-cua-bigbang-cung-hang-chuc-nghin-fan-o-my-dinh-5136689.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Bữa tiệc âm nhạc của BigBang cùng hàng chục nghìn fan ở Mỹ Đình",
+      "description": "BigBang đưa khoảng 90.000 khán giả qua nhiều cung bậc, từ những bản ballad giàu cảm xúc đến các tiết mục sôi động, trong hai đêm concert ở Mỹ Đình.",
+      "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/10/25/bigbang-1792946842.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=SkzN83VskP2Qolf58QuVBQ",
+      "link": "https://vnexpress.net/bua-tiec-am-nhac-cua-bigbang-cung-hang-chuc-nghin-fan-o-my-dinh-5136689.html",
+      "published_at": "Mon, 26 Oct 2026 00:32:31 +0700",
+      "createAt": "2026-10-25T17:32:31.000Z",
+      "thumbnail_blurhash": "L7B{Qn1.019GD+M]xvtS00V?~qx@"
+    },
+    {
+      "id": "https://vnexpress.net/bigbang-dang-anh-ky-niem-sau-concert-tai-ha-noi-5136734.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "BigBang đăng ảnh kỷ niệm sau concert tại Hà Nội",
+      "description": "Taeyang, Daesung đăng ảnh hậu trường, thể hiện tình cảm với fan Việt sau hai đêm concert tại sân vận động Mỹ Đình.",
+      "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/10/26/thanhvienbigbang-1792951412-1482-1792951444.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=yfKBRmNmr90CckavhP56_Q",
+      "link": "https://vnexpress.net/bigbang-dang-anh-ky-niem-sau-concert-tai-ha-noi-5136734.html",
+      "published_at": "Mon, 26 Oct 2026 01:27:03 +0700",
+      "createAt": "2026-10-25T18:27:03.000Z",
+      "thumbnail_blurhash": "L9D+MK8wtRcF00~qjF9Z0go#Rj-:"
+    },
+    {
+      "id": "https://vnexpress.net/mbappe-lap-cu-dup-giup-real-quat-nga-barca-5136738.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Mbappe lập cú đúp, giúp Real quật ngã Barca",
+      "description": "Tiền đạo Kylian Mbappe ghi hai bàn, giúp Real Madrid thắng Barca 2-1 ngay tại Camp Nou ở vòng 10 La Liga.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/10/26/mbappe-1792966474-5814-1792966536.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=tNsxvYYb6MPqTiD8eFIbZQ",
+      "link": "https://vnexpress.net/mbappe-lap-cu-dup-giup-real-quat-nga-barca-5136738.html",
+      "published_at": "Mon, 26 Oct 2026 05:01:09 +0700",
+      "createAt": "2026-10-25T22:01:09.000Z",
+      "thumbnail_blurhash": "LCC?TH%M4oMz~DSO?vsEbcR*%2xa"
+    },
+    {
+      "id": "https://vnexpress.net/thi-chung-de-lieu-thuoc-tri-lam-phat-diem-hoc-ba-ao-5136368.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Thi chung đề - 'liều thuốc' trị lạm phát điểm, học bạ ảo",
+      "description": "Để học sinh mỗi tỉnh, thành thi chung đề cuối kỳ sẽ hạn chế chênh lệch điểm, trả lại giá trị cho học bạ; kèm đó là nỗi lo về áp lực tổ chức và vai trò của giáo viên bị thu hẹp.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/24/233a2112-1792817401-3610-1792817615.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=bh6vNH16vjvufsO9qS6BfQ",
+      "link": "https://vnexpress.net/thi-chung-de-lieu-thuoc-tri-lam-phat-diem-hoc-ba-ao-5136368.html",
+      "published_at": "Mon, 26 Oct 2026 05:59:52 +0700",
+      "createAt": "2026-10-25T22:59:52.000Z",
+      "thumbnail_blurhash": "L3Fr#F00xw8w1r~WJB0020#~R%~X"
+    }
+  ]
 }
