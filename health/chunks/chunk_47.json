@@ -947,5 +947,31 @@
     "published_at": "Mon, 26 Oct 2026 12:00:00 +0700",
     "createAt": "2026-10-26T05:00:00.000Z",
     "thumbnail_blurhash": "LQH38zECEL%2~kN2WER-s}RNRnbw"
+  },
+  {
+    "id": "https://vnexpress.net/nhung-thay-doi-o-mat-co-the-canh-bao-benh-5136883.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Những thay đổi ở mắt có thể cảnh báo bệnh",
+    "description": "Nhìn mờ, hình ảnh méo mó hoặc thay đổi mạch máu võng mạc có thể cảnh báo bệnh đái tháo đường, tăng huyết áp và các vấn đề sức khỏe khác.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/26/doc-sach-1792986624-5284-1792986748.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=zO0D1Ub_gEzlV6Ui6RNqDA",
+    "link": "https://vnexpress.net/nhung-thay-doi-o-mat-co-the-canh-bao-benh-5136883.html",
+    "published_at": "Mon, 26 Oct 2026 12:00:00 +0700",
+    "createAt": "2026-10-26T05:00:00.000Z",
+    "thumbnail_blurhash": "LBF=mxtT00Mw~qM|E19F4.R*o}j;"
+  },
+  {
+    "id": "https://vnexpress.net/cum-dang-tang-tiem-vaccine-cho-tre-co-con-kip-5135897.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Cúm đang tăng, tiêm vaccine cho trẻ có còn kịp?",
+    "description": "Khi cúm gia tăng, trẻ chưa tiêm vaccine vẫn có thể được bảo vệ nếu tiêm lúc này, song cần khoảng hai tuần để cơ thể hình thành miễn dịch.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/23/233a7760-1792723990-4277-1792724160.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=sIJakRxFYmIvFuHM-xDsvQ",
+    "link": "https://vnexpress.net/cum-dang-tang-tiem-vaccine-cho-tre-co-con-kip-5135897.html",
+    "published_at": "Mon, 26 Oct 2026 12:45:28 +0700",
+    "createAt": "2026-10-26T05:45:28.000Z",
+    "thumbnail_blurhash": "LIF5]coh00~V0LNGD%R%xWD%t8x^"
   }
 ]
