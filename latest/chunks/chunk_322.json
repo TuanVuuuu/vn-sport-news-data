@@ -479,5 +479,31 @@
     "published_at": "Mon, 26 Oct 2026 19:00:00 +0700",
     "createAt": "2026-10-26T12:00:00.000Z",
     "thumbnail_blurhash": "LFJ[YN004n?u~W-;t8R*9FIot7so"
+  },
+  {
+    "id": "https://vnexpress.net/voi-rong-xuat-hien-tren-canh-dong-o-nghe-an-5137095.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Vòi rồng xuất hiện trên cánh đồng ở Nghệ An",
+    "description": "Vòi rồng cao hàng chục mét xuất hiện trên cánh đồng ở xã Hợp Minh, kéo dài khoảng 10 phút rồi tan, trưa 26/10.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/26/voirongonghean-1793006202-7272-1793006297.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=cNO6_ftZBJ0Texkvb1-oHQ&t=image",
+    "link": "https://vnexpress.net/voi-rong-xuat-hien-tren-canh-dong-o-nghe-an-5137095.html",
+    "published_at": "Mon, 26 Oct 2026 16:24:58 +0700",
+    "createAt": "2026-10-26T09:24:58.000Z",
+    "thumbnail_blurhash": "LSKxYjRjWAt7?wj[oeWBITj[tRWB"
+  },
+  {
+    "id": "https://vnexpress.net/nguyen-pho-thu-tuong-duc-lam-pho-chu-tich-cong-ty-chung-khoan-5137107.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Nguyên Phó thủ tướng Đức làm phó chủ tịch công ty chứng khoán",
+    "description": "Nguyên Phó thủ tướng Đức Philipp Rösler được bổ nhiệm làm Phó chủ tịch Chứng khoán HD từ ngày 23/10.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/26/395121125-1793006908-1519-1793006946.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=zkK-Zil9vz4kzwTo7jHs_Q",
+    "link": "https://vnexpress.net/nguyen-pho-thu-tuong-duc-lam-pho-chu-tich-cong-ty-chung-khoan-5137107.html",
+    "published_at": "Mon, 26 Oct 2026 16:46:02 +0700",
+    "createAt": "2026-10-26T09:46:02.000Z",
+    "thumbnail_blurhash": "LeH2Zjs,tQt7~qxuf+t7xuWCoMxa"
   }
 ]
