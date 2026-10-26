@@ -674,5 +674,44 @@
     "published_at": "Mon, 26 Oct 2026 01:00:00 +0700",
     "createAt": "2026-10-25T18:00:00.000Z",
     "thumbnail_blurhash": "LGJ@qKHX4T-A8^oL_4V@Xnj[r=ae"
+  },
+  {
+    "id": "https://vnexpress.net/mien-bac-nang-nong-hiem-gap-5136799.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Miền Bắc nắng nóng hiếm gặp",
+    "description": "Kể từ năm 1991 tới nay, miền Bắc mới nắng nóng diện rộng trong tháng 10, một số nơi như Yên Châu (Sơn La), Mường Tè (Lai Châu) lên 38 độ C, vượt kỷ lục cũ 0,8 độ.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/26/thu-hn-of-1792980472-7974-1792980514.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=tHSJllbdVMlko5KbGu21bQ",
+    "link": "https://vnexpress.net/mien-bac-nang-nong-hiem-gap-5136799.html",
+    "published_at": "Mon, 26 Oct 2026 10:06:37 +0700",
+    "createAt": "2026-10-26T03:06:37.000Z",
+    "thumbnail_blurhash": "L69Z=bs;01IVo|WCxZRj00M{~Vt7"
+  },
+  {
+    "id": "https://vnexpress.net/trinh-quoc-hoi-tang-50-muc-phat-hanh-chinh-toi-da-5136781.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Trình Quốc hội tăng 50% mức phạt hành chính tối đa",
+    "description": "Chính phủ đề xuất nâng mức phạt hành chính tối đa từ một tỷ lên 1,5 tỷ đồng với cá nhân và từ 2 tỷ lên 3 tỷ đồng với tổ chức, tăng 50% so với hiện hành.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/26/202610260835256900-g7574298250-9186-6890-1792979501.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=tihmbjLWjagfXt7lujr1iA",
+    "link": "https://vnexpress.net/trinh-quoc-hoi-tang-50-muc-phat-hanh-chinh-toi-da-5136781.html",
+    "published_at": "Mon, 26 Oct 2026 10:08:07 +0700",
+    "createAt": "2026-10-26T03:08:07.000Z",
+    "thumbnail_blurhash": "LiJ6p2}=$dxZ$fxZNcWVxVWWWrax"
+  },
+  {
+    "id": "https://vnexpress.net/chay-nha-o-gia-lai-hai-cha-con-tu-vong-5136818.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Cháy nhà ở Gia Lai, hai cha con tử vong",
+    "description": "Đám cháy bùng phát tại căn nhà ở xã Vĩnh Thịnh, khiến hai cha con tử vong, hai người bị thương, rạng sáng 26/10.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/26/862067158111071218134124750906-8610-3463-1792984604.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=NOkZHt9jZZN7ZWXnvanzcg",
+    "link": "https://vnexpress.net/chay-nha-o-gia-lai-hai-cha-con-tu-vong-5136818.html",
+    "published_at": "Mon, 26 Oct 2026 10:20:46 +0700",
+    "createAt": "2026-10-26T03:20:46.000Z",
+    "thumbnail_blurhash": "LFD9@y4o%LV]_4n$S2s:-;InxuNG"
   }
 ]
