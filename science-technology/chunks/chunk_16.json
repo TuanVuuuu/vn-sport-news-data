@@ -1103,5 +1103,44 @@
     "published_at": "Mon, 26 Oct 2026 10:24:08 +0700",
     "createAt": "2026-10-26T03:24:08.000Z",
     "thumbnail_blurhash": "LYHLxaE04m%N~qn%R.Mx~WRkWqM{"
+  },
+  {
+    "id": "https://vnexpress.net/singapore-chia-se-kinh-nghiem-voi-viet-nam-ve-lanh-dao-quan-tri-so-5136865.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Singapore chia sẻ kinh nghiệm với Việt Nam về lãnh đạo, quản trị số",
+    "description": "34 giám đốc Sở Khoa học và Công nghệ tham gia khóa bồi dưỡng với các giảng viên Singapore về kinh nghiệm quản trị số, đổi mới sáng tạo và chuyển đổi số.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/26/so-khcn-bt-1792986344-6029-1792986462.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=qmkTgyELBMJI3iJP176dWA",
+    "link": "https://vnexpress.net/singapore-chia-se-kinh-nghiem-voi-viet-nam-ve-lanh-dao-quan-tri-so-5136865.html",
+    "published_at": "Mon, 26 Oct 2026 11:00:34 +0700",
+    "createAt": "2026-10-26T04:00:34.000Z",
+    "thumbnail_blurhash": "LqLg-BD%D%t7_NoLaJt6tSofRiR*"
+  },
+  {
+    "id": "https://vnexpress.net/bo-truong-vu-hai-quan-sua-luat-do-luong-de-bao-ve-quyen-loi-nguoi-tieu-dung-5136830.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Bộ trưởng Vũ Hải Quân: Sửa luật đo lường để bảo vệ quyền lợi người tiêu dùng",
+    "description": "Bộ trưởng Khoa học và Công nghệ Vũ Hải Quân khẳng định việc sửa Luật Đo lường phải bảo vệ quyền lợi người tiêu dùng, nhất là trong các giao dịch điện, nước, xăng dầu hàng ngày.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/26/2hgb6fiyedxyrslnqdybepd43oxrlc-8780-7737-1792987405.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=1FHOrls3UXKYzThXflNzLA",
+    "link": "https://vnexpress.net/bo-truong-vu-hai-quan-sua-luat-do-luong-de-bao-ve-quyen-loi-nguoi-tieu-dung-5136830.html",
+    "published_at": "Mon, 26 Oct 2026 11:03:59 +0700",
+    "createAt": "2026-10-26T04:03:59.000Z",
+    "thumbnail_blurhash": "LFFgqRoz8^IU}kbF9wRkM{S3xas."
+  },
+  {
+    "id": "https://vnexpress.net/ai-giup-hacker-khai-thac-lo-hong-duoi-mot-ngay-5136791.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "'AI giúp hacker khai thác lỗ hổng dưới một ngày'",
+    "description": "AI đang rút ngắn thời gian biến lỗ hổng bảo mật thành công cụ tấn công trong vòng 24 giờ, còn nhiều doanh nghiệp mất 1-2 tháng để khắc phục, theo đại diện Microsoft.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/26/wm1-wm1-img-jpg-1792985026-2170-1792985275.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=obXNZR5PUM1lqKPh4MFIQQ",
+    "link": "https://vnexpress.net/ai-giup-hacker-khai-thac-lo-hong-duoi-mot-ngay-5136791.html",
+    "published_at": "Mon, 26 Oct 2026 12:00:00 +0700",
+    "createAt": "2026-10-26T05:00:00.000Z",
+    "thumbnail_blurhash": "LDFOZE_N%c-p}P%1S#WB58r=WEoL"
   }
 ]
