@@ -154,5 +154,44 @@
     "published_at": "Mon, 26 Oct 2026 13:00:00 +0700",
     "createAt": "2026-10-26T06:00:00.000Z",
     "thumbnail_blurhash": "L17wZ@0K0JHq-7PB0yv}01~q00?c"
+  },
+  {
+    "id": "https://vnexpress.net/y-tuong-xe-may-dien-bien-hinh-cho-do-thi-viet-nam-5136960.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Ý tưởng xe máy điện 'biến hình' cho đô thị Việt Nam",
+    "description": "Thiết kế mẫu DuoCarry đề xuất có thể ghép linh hoạt xe điện hai bánh với module chở hàng 500 kg phía sau, phục vụ nhu cầu của tiểu thương, shipper đô thị.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/26/1-1792993583-5472-1792993680.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=AD06SSDS12CZt_dZe17jQQ",
+    "link": "https://vnexpress.net/y-tuong-xe-may-dien-bien-hinh-cho-do-thi-viet-nam-5136960.html",
+    "published_at": "Mon, 26 Oct 2026 13:00:00 +0700",
+    "createAt": "2026-10-26T06:00:00.000Z",
+    "thumbnail_blurhash": "L17wZ@0K0JHq-7PB0yv}01~q00?c"
+  },
+  {
+    "id": "https://vnexpress.net/wuling-bingo-2026-hatchback-dien-gia-duoi-500-trieu-dong-5136599.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Wuling Bingo 2026 - hatchback điện giá dưới 500 triệu đồng",
+    "description": "Mẫu xe gầm thấp cỡ nhỏ tinh chỉnh thiết kế, lắp pin LFP 31,9-38 kWh cho phạm vi hoạt động 333-410 km, giá 399-499 triệu đồng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/26/wm1-wuling-bingo-vne-1792988006-1792994234.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Y5_zYwu2Mx4KvSq_wnnlCQ",
+    "link": "https://vnexpress.net/wuling-bingo-2026-hatchback-dien-gia-duoi-500-trieu-dong-5136599.html",
+    "published_at": "Mon, 26 Oct 2026 14:41:36 +0700",
+    "createAt": "2026-10-26T07:41:36.000Z",
+    "thumbnail_blurhash": "LGJbBU00~U?a9E4.s.IW00D*x^%M"
+  },
+  {
+    "id": "https://vnexpress.net/xe-ban-dong-nat-phai-lam-thu-tuc-thu-hoi-bien-so-5136977.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Xe bán 'đồng nát' phải làm thủ tục thu hồi biển số",
+    "description": "Bán xe phế liệu nhưng không thu hồi biển số có thể khiến chủ xe bị phạt, phải phối hợp xác minh nếu biển số bị sử dụng trái phép.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/26/quynh-tran-xe-vo-chu08-1792996-7355-6779-1792996485.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=qSwPqc6o13ROsKZ0_ViuPw",
+    "link": "https://vnexpress.net/xe-ban-dong-nat-phai-lam-thu-tuc-thu-hoi-bien-so-5136977.html",
+    "published_at": "Mon, 26 Oct 2026 15:57:54 +0700",
+    "createAt": "2026-10-26T08:57:54.000Z",
+    "thumbnail_blurhash": "L3A,XxrC0~DO00tTmlx]~p-WtRIp"
   }
 ]
