@@ -76,5 +76,31 @@
     "published_at": "Tue, 27 Oct 2026 13:54:45 +0700",
     "createAt": "2026-10-27T06:54:45.000Z",
     "thumbnail_blurhash": "LWJap0jeDNMz.mogQ-V@Ioof%2Rj"
+  },
+  {
+    "id": "https://vnexpress.net/xe-may-cai-tien-lap-ky-luc-chay-tren-mat-nuoc-5137396.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Xe máy cải tiến lập kỷ lục chạy trên mặt nước",
+    "description": "Một doanh nhân người Trung Quốc cải tiến chiếc xe máy chạy hơn 40 km trên mặt sông Thần chảy qua tỉnh Hồ Nam, phá vỡ kỷ lục thế giới trước đó là 31,8 km.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/27/VNEMotor-1793076790-4135-1793076871.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Hndx1FCBx-vNMSaq1upPBw",
+    "link": "https://vnexpress.net/xe-may-cai-tien-lap-ky-luc-chay-tren-mat-nuoc-5137396.html",
+    "published_at": "Tue, 27 Oct 2026 15:00:00 +0700",
+    "createAt": "2026-10-27T08:00:00.000Z",
+    "thumbnail_blurhash": "LLFY#]_N?HtQVY9ZMxf6IUIUM{WB"
+  },
+  {
+    "id": "https://vnexpress.net/oppo-nang-cap-ai-tao-sinh-tren-he-dieu-hanh-coloros-17-5137437.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Oppo nâng cấp AI tạo sinh trên hệ điều hành ColorOS 17",
+    "description": "Oppo cải tiến hệ điều hành, tích hợp AI trong sắp xếp dữ liệu, hỗ trợ sáng tạo, nghiên cứu, thực hiện tác vụ phức tạp.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/27/2hgb6fhqrgnw6visdubbmlzjd1drte-9779-5294-1793086925.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=zs7cT_J3r0frxzP-CQPfiQ",
+    "link": "https://vnexpress.net/oppo-nang-cap-ai-tao-sinh-tren-he-dieu-hanh-coloros-17-5137437.html",
+    "published_at": "Tue, 27 Oct 2026 15:00:00 +0700",
+    "createAt": "2026-10-27T08:00:00.000Z",
+    "thumbnail_blurhash": "LJDJO~~CGgIo6^9@Rner9=oM=OxF"
   }
 ]
