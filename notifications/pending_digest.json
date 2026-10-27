@@ -1,3 +1,69 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/co-may-kiem-tien-phia-sau-concert-bigbang-o-my-dinh-5137091.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Cỗ máy kiếm tiền phía sau concert BigBang ở Mỹ Đình",
+      "description": "Concert BigBang tại Hà Nội cho thấy cách thương hiệu âm nhạc chuyển hóa thành cỗ máy kiếm tiền, đặt ra câu hỏi về những giá trị ngành công nghiệp văn hóa Việt Nam có thể phát huy.",
+      "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/10/27/866357927961158463316171599447-2174-3252-1793035494.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=j01BuR6bH5H-atTg4h5O5A",
+      "link": "https://vnexpress.net/co-may-kiem-tien-phia-sau-concert-bigbang-o-my-dinh-5137091.html",
+      "published_at": "Tue, 27 Oct 2026 00:13:41 +0700",
+      "createAt": "2026-10-26T17:13:41.000Z",
+      "thumbnail_blurhash": "LAA0m}R$00xuSMbckCr?00s.~qM|"
+    },
+    {
+      "id": "https://vnexpress.net/france-football-gay-xon-xao-vi-cong-bo-ba-nguoi-doat-qua-bong-vang-2026-5137232.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "France Football gây xôn xao vì công bố ba người đoạt Quả Bóng Vàng 2026",
+      "description": "Trang web của tạp chí France Football bất ngờ đăng ba bài viết công bố Lamine Yamal, Kylian Mbappe và Harry Kane giành Quả Bóng Vàng 2026, chỉ vài giờ trước lễ trao giải.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/10/27/6adf98051159e-1793059417-6381-1793059532.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=2z35pYZ5J_hciToE2W9jIQ",
+      "link": "https://vnexpress.net/france-football-gay-xon-xao-vi-cong-bo-ba-nguoi-doat-qua-bong-vang-2026-5137232.html",
+      "published_at": "Tue, 27 Oct 2026 07:10:46 +0700",
+      "createAt": "2026-10-27T00:10:46.000Z",
+      "thumbnail_blurhash": "L9A05qNa-6I:1dRPI@iw~Went6R*"
+    },
+    {
+      "id": "https://vnexpress.net/vi-sao-tp-hcm-can-thu-hut-dong-von-the-he-moi-5137106.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Vì sao TP HCM cần thu hút dòng vốn thế hệ mới?",
+      "description": "TP HCM cần dòng vốn thế hệ mới gắn với công nghệ, R&amp;D để giảm phụ thuộc gia công, tăng giá trị nội địa, đạt tăng trưởng hai con số.",
+      "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/27/trungtamtphcm-jpg-1793063815-1391-1793063833.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ShWPgz-d0SWRTG6omp3ZsA",
+      "link": "https://vnexpress.net/vi-sao-tp-hcm-can-thu-hut-dong-von-the-he-moi-5137106.html",
+      "published_at": "Tue, 27 Oct 2026 07:32:00 +0700",
+      "createAt": "2026-10-27T00:32:00.000Z",
+      "thumbnail_blurhash": "LMEfA~?GRQW=?wt8I:Io%NSPnixG"
+    },
+    {
+      "id": "https://vnexpress.net/yamal-lap-hat-trick-giai-kopa-5137247.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Yamal lập hat-trick giải Kopa",
+      "description": "Tiền đạo Lamine Yamal lần thứ ba liên tiếp đoạt giải Kopa dành cho cầu thủ U21 hay nhất thế giới, nhưng cho rằng đồng đội Pau Cubarsi mới là người xứng đáng được vinh danh.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/10/27/a-nh-ma-n-hi-nh-lu-c-179306216-6379-9711-1793062233.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=Gtcyul1LDqD27pClj3K-8A",
+      "link": "https://vnexpress.net/yamal-lap-hat-trick-giai-kopa-5137247.html",
+      "published_at": "Tue, 27 Oct 2026 07:55:20 +0700",
+      "createAt": "2026-10-27T00:55:20.000Z",
+      "thumbnail_blurhash": "LRHLYrxu%N?wIWa%f5oatQngRmD%"
+    },
+    {
+      "id": "https://vnexpress.net/nhung-hat-san-o-gala-qua-bong-vang-2026-5137237.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Những 'hạt sạn' ở Gala Quả Bóng Vàng 2026",
+      "description": "Lễ trao Quả Bóng Vàng 2026 tại London tối 26/10 bị chỉ trích vì tổ chức thiếu chuyên nghiệp, kéo dài lê thê, liên tục ngắt quãng quảng cáo và khiến khán giả la ó.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/10/27/a-nh-ma-n-hi-nh-lu-c-179306078-9795-1792-1793060938.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=J8uoUCVweYocx_F22R_V7A",
+      "link": "https://vnexpress.net/nhung-hat-san-o-gala-qua-bong-vang-2026-5137237.html",
+      "published_at": "Tue, 27 Oct 2026 07:59:57 +0700",
+      "createAt": "2026-10-27T00:59:57.000Z",
+      "thumbnail_blurhash": "L24UmIb_Eg^i%N%M%1oe9^-o={J8"
+    }
+  ]
 }
