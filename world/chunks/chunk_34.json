@@ -1155,5 +1155,44 @@
     "published_at": "Tue, 27 Oct 2026 17:00:00 +0700",
     "createAt": "2026-10-27T10:00:00.000Z",
     "thumbnail_blurhash": "LrB$l]HqawV{.mS7R5jEoyoxRPaJ"
+  },
+  {
+    "id": "https://vnexpress.net/nguoi-han-den-bien-gioi-uong-ca-phe-ngam-phao-tu-hanh-trieu-tien-5137552.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Người Hàn đến biên giới uống cà phê, ngắm pháo tự hành Triều Tiên",
+    "description": "Từ đài quan sát Aegibong ở Gimpo, người Hàn Quốc có thể vừa uống cà phê vừa ngắm khẩu pháo tự hành Triều Tiên chĩa nòng về phía họ.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/27/gimpo-1793094295-6607-1793094847.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=QlfS0XiuCP-YgtLwl2PAjw",
+    "link": "https://vnexpress.net/nguoi-han-den-bien-gioi-uong-ca-phe-ngam-phao-tu-hanh-trieu-tien-5137552.html",
+    "published_at": "Tue, 27 Oct 2026 18:30:00 +0700",
+    "createAt": "2026-10-27T11:30:00.000Z",
+    "thumbnail_blurhash": "LVEMa$xvNHs:.AV@oea}tnofjZbI"
+  },
+  {
+    "id": "https://vnexpress.net/houthi-ai-cap-da-tuyen-chien-voi-chung-toi-5137595.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Houthi: Ai Cập đã tuyên chiến với chúng tôi",
+    "description": "Giới chức Houthi đánh giá quyết định hỗ trợ quân sự của Ai Cập cho Arab Saudi là \"tuyên bố chiến tranh\".",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/27/afp-c7vr3nq-v1-highres-yemenco-5033-5507-1793100478.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=39SzseVqjQ6hi7SqJdBQCA",
+    "link": "https://vnexpress.net/houthi-ai-cap-da-tuyen-chien-voi-chung-toi-5137595.html",
+    "published_at": "Tue, 27 Oct 2026 18:56:17 +0700",
+    "createAt": "2026-10-27T11:56:17.000Z",
+    "thumbnail_blurhash": "LPFYcFs8og?H_4D%j@xv%hIUxuxu"
+  },
+  {
+    "id": "https://vnexpress.net/no-luc-ngoai-giao-phut-chot-ngan-chien-su-iran-tai-bung-phat-5137259.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Nỗ lực ngoại giao phút chót ngăn chiến sự Iran tái bùng phát",
+    "description": "Lo ngại Mỹ, Israel nối lại không kích Iran, nhiều nước Trung Đông đẩy mạnh nỗ lực ngoại giao ngăn chiến sự tái diễn, song triển vọng thỏa thuận vẫn mong manh.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/27/ap26299523243016-1793076897-3872-1793077347.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=gCCt5FhTVz3PMkZ-li_VUg",
+    "link": "https://vnexpress.net/no-luc-ngoai-giao-phut-chot-ngan-chien-su-iran-tai-bung-phat-5137259.html",
+    "published_at": "Tue, 27 Oct 2026 19:00:00 +0700",
+    "createAt": "2026-10-27T12:00:00.000Z",
+    "thumbnail_blurhash": "LLFrhc-WRjNc~W%gxusq-:TJE1My"
   }
 ]
