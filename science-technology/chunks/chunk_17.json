@@ -167,5 +167,31 @@
     "published_at": "Tue, 27 Oct 2026 19:06:34 +0700",
     "createAt": "2026-10-27T12:06:34.000Z",
     "thumbnail_blurhash": "L9BgVtD$.9IT_49E%hITofIS%OD%"
+  },
+  {
+    "id": "https://vnexpress.net/thiet-ke-giup-ten-lua-sieu-vuot-am-chiu-nhiet-cuc-han-5136967.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Thiết kế giúp tên lửa siêu vượt âm chịu nhiệt cực hạn",
+    "description": "Để bay nhanh gấp 5 lần vận tốc âm thanh, tên lửa siêu vượt âm cần một hệ thống tích hợp gồm vật liệu, lớp phủ, công nghệ làm mát, kết cấu và kế hoạch bay hiệu quả.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/26/VNEMissile-1792994935-9475-1792995012.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ODLIfCyzGYOP2ywfz9lwxQ",
+    "link": "https://vnexpress.net/thiet-ke-giup-ten-lua-sieu-vuot-am-chiu-nhiet-cuc-han-5136967.html",
+    "published_at": "Tue, 27 Oct 2026 00:00:00 +0700",
+    "createAt": "2026-10-26T17:00:00.000Z",
+    "thumbnail_blurhash": "L7E|JV0000X=00]^?C4?00_K%JMb"
+  },
+  {
+    "id": "https://vnexpress.net/chinh-sua-gene-bo-h-mong-xay-dung-thuong-hieu-cao-cap-cua-viet-nam-5137453.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Chỉnh sửa gene bò H'Mông xây dựng thương hiệu cao cấp của Việt Nam",
+    "description": "Học viện Nông nghiệp Việt Nam tạo thành công 5 bê H'Mông bằng công nghệ chỉnh sửa gene MSTN, hướng tới xây dựng thương hiệu bò thịt cao cấp của Việt Nam.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/27/1786546139473-g756129244168233-8680-3529-1793085855.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=VrHWisTe_4eqnHa-YAWBgQ",
+    "link": "https://vnexpress.net/chinh-sua-gene-bo-h-mong-xay-dung-thuong-hieu-cao-cap-cua-viet-nam-5137453.html",
+    "published_at": "Tue, 27 Oct 2026 20:19:45 +0700",
+    "createAt": "2026-10-27T13:19:45.000Z",
+    "thumbnail_blurhash": "LADvQE~pu5O?~o?br?n#pGxb,o-T"
   }
 ]

@@ -1194,5 +1194,31 @@
     "published_at": "Tue, 27 Oct 2026 19:00:00 +0700",
     "createAt": "2026-10-27T12:00:00.000Z",
     "thumbnail_blurhash": "LLFrhc-WRjNc~W%gxusq-:TJE1My"
+  },
+  {
+    "id": "https://vnexpress.net/monaco-dieu-tra-vu-thanh-vien-hoang-toc-tu-vong-trong-cong-vien-5137600.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Monaco điều tra vụ thành viên hoàng tộc tử vong trong công viên",
+    "description": "Antoine de Massy, cháu của Thân vương Albert II, được phát hiện tử vong tại một công viên ở Monaco.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/27/massy-1793102619-8753-1793102845.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=2zrjaYQKnlU-uzKy3W5lkA",
+    "link": "https://vnexpress.net/monaco-dieu-tra-vu-thanh-vien-hoang-toc-tu-vong-trong-cong-vien-5137600.html",
+    "published_at": "Tue, 27 Oct 2026 19:30:13 +0700",
+    "createAt": "2026-10-27T12:30:13.000Z",
+    "thumbnail_blurhash": "LzG0O$xZK8T1pyS5XUkXR,bcr=jE"
+  },
+  {
+    "id": "https://vnexpress.net/lan-song-nguoi-israel-ve-nuoc-de-dinh-doat-tuong-lai-ong-netanyahu-5137510.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Làn sóng người Israel về nước để định đoạt tương lai ông Netanyahu",
+    "description": "Hơn 60.000 người Israel hải ngoại mua vé máy bay về nước bỏ phiếu, trong cuộc bầu cử quyết định tương lai chính trị của Thủ tướng Netanyahu.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/27/ba-u-cu-israel-1793094002-4812-1793094008.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=3L9g1x2qMKy-NToUC8pugg",
+    "link": "https://vnexpress.net/lan-song-nguoi-israel-ve-nuoc-de-dinh-doat-tuong-lai-ong-netanyahu-5137510.html",
+    "published_at": "Tue, 27 Oct 2026 20:00:00 +0700",
+    "createAt": "2026-10-27T13:00:00.000Z",
+    "thumbnail_blurhash": "L8CGDN.S$kXkb{tRnhE0~pocjYt8"
   }
 ]
