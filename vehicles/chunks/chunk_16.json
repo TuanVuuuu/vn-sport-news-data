@@ -375,5 +375,31 @@
     "published_at": "Wed, 28 Oct 2026 04:00:00 +0700",
     "createAt": "2026-10-27T21:00:00.000Z",
     "thumbnail_blurhash": "L16b44bd0I?v~TT2AL?EDkIXoZ-i"
+  },
+  {
+    "id": "https://vnexpress.net/4-xe-vespa-edizione-ottantesimo-ve-viet-nam-gia-372-trieu-dong-5137433.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "4 xe Vespa Edizione Ottantesimo về Việt Nam, giá 372 triệu đồng",
+    "description": "Bản đặc biệt kỷ niệm 80 năm thành lập, giới hạn 1.946 xe toàn thế giới, trong đó bốn xe bán ở Việt Nam đánh số 396, 696, 796, 799.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/27/vespagtsroma8010-1793087041-7767-1793087369.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=MViLrsbiVrsF07zRbulmLQ",
+    "link": "https://vnexpress.net/4-xe-vespa-edizione-ottantesimo-ve-viet-nam-gia-372-trieu-dong-5137433.html",
+    "published_at": "Wed, 28 Oct 2026 05:00:00 +0700",
+    "createAt": "2026-10-27T22:00:00.000Z",
+    "thumbnail_blurhash": "LXH1[2xuM{jZ~VbIRjayxaWBNHWB"
+  },
+  {
+    "id": "https://vnexpress.net/so-sanh-4-mau-crossover-co-c-phev-tai-viet-nam-5137438.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "So sánh 4 mẫu crossover cỡ C PHEV tại Việt Nam",
+    "description": "BYD Sealion 5, Sealion 6, Geely EX5 EM-i và Jaecoo J7 PHEV cùng phân khúc cỡ C, cạnh tranh bằng khả năng vận hành, công nghệ và tiện nghi.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/27/so-sanh-xe-1793084997.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=V3lGYmW_W9UeNNw9aQmQKg",
+    "link": "https://vnexpress.net/so-sanh-4-mau-crossover-co-c-phev-tai-viet-nam-5137438.html",
+    "published_at": "Wed, 28 Oct 2026 06:00:00 +0700",
+    "createAt": "2026-10-27T23:00:00.000Z",
+    "thumbnail_blurhash": "LfMj]xxu-;xu%M9FWBt7~qRjIUf7"
   }
 ]
