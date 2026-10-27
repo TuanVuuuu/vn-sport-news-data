@@ -1103,5 +1103,44 @@
     "published_at": "Tue, 27 Oct 2026 10:11:27 +0700",
     "createAt": "2026-10-27T03:11:27.000Z",
     "thumbnail_blurhash": "LOEV~PMd4-Dj.ARiM_M_ITRQssk8"
+  },
+  {
+    "id": "https://vnexpress.net/microsoft-de-xuat-60-000-nhan-vien-tu-nguyen-nghi-viec-5137242.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Microsoft đề xuất 60.000 nhân viên tự nguyện nghỉ việc",
+    "description": "Khoảng 25% nhân lực có thể nghỉ việc kèm trợ cấp của Microsoft, trong bối cảnh công ty muốn giảm chi phí và dồn đầu tư cho AI.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/27/logo-hang-cong-nghe-1793066690-3846-1793066700.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=IVLg8RglXzIxcrxyDdphaA",
+    "link": "https://vnexpress.net/microsoft-de-xuat-60-000-nhan-vien-tu-nguyen-nghi-viec-5137242.html",
+    "published_at": "Tue, 27 Oct 2026 10:30:00 +0700",
+    "createAt": "2026-10-27T03:30:00.000Z",
+    "thumbnail_blurhash": "L8Aw9h~n4p05-z~nr^4q00Mc^$?G"
+  },
+  {
+    "id": "https://vnexpress.net/chuyen-gia-mua-sam-cong-nen-uu-tien-vat-lieu-tai-che-5137231.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Chuyên gia: Mua sắm công nên ưu tiên vật liệu tái chế",
+    "description": "Ưu tiên sản phẩm dùng vật liệu tái chế trong mua sắm công để tạo đầu ra ổn định, giảm rủi ro đầu tư và thúc đẩy doanh nghiệp phát triển kinh tế tuần hoàn, theo chuyên gia.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/27/1784967055110-f0d636fefa46b2b1-9215-9428-1793073222.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=DKuT8bK-qsgaRwob-EgSvg",
+    "link": "https://vnexpress.net/chuyen-gia-mua-sam-cong-nen-uu-tien-vat-lieu-tai-che-5137231.html",
+    "published_at": "Tue, 27 Oct 2026 10:53:42 +0700",
+    "createAt": "2026-10-27T03:53:42.000Z",
+    "thumbnail_blurhash": "LJGIT0~Vk=Iox[RjtltS%gozaKWA"
+  },
+  {
+    "id": "https://vnexpress.net/se-co-quy-che-tiep-nhan-quy-dau-tu-vao-trung-tam-tai-chinh-thang-sau-5137357.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Sẽ có quy chế tiếp nhận quỹ đầu tư vào trung tâm tài chính tháng sau",
+    "description": "Trung tâm Tài chính quốc tế tại TP HCM (VIFC-HCMC) dự kiến ban hành quy chế tiếp nhận các quỹ đầu tư trong tháng 11.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/27/1793067131989-g547099500750515-1358-1861-1793075952.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=vWVcFFtMsr-brRTP5Ws-ng",
+    "link": "https://vnexpress.net/se-co-quy-che-tiep-nhan-quy-dau-tu-vao-trung-tam-tai-chinh-thang-sau-5137357.html",
+    "published_at": "Tue, 27 Oct 2026 11:39:12 +0700",
+    "createAt": "2026-10-27T04:39:12.000Z",
+    "thumbnail_blurhash": "LEA0hr%Q0rr:D_9cNH?Xxn-nxbD+"
   }
 ]

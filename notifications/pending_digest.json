@@ -1,3 +1,56 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/microsoft-de-xuat-60-000-nhan-vien-tu-nguyen-nghi-viec-5137242.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Microsoft đề xuất 60.000 nhân viên tự nguyện nghỉ việc",
+      "description": "Khoảng 25% nhân lực có thể nghỉ việc kèm trợ cấp của Microsoft, trong bối cảnh công ty muốn giảm chi phí và dồn đầu tư cho AI.",
+      "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/27/logo-hang-cong-nghe-1793066690-3846-1793066700.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=IVLg8RglXzIxcrxyDdphaA",
+      "link": "https://vnexpress.net/microsoft-de-xuat-60-000-nhan-vien-tu-nguyen-nghi-viec-5137242.html",
+      "published_at": "Tue, 27 Oct 2026 10:30:00 +0700",
+      "createAt": "2026-10-27T03:30:00.000Z",
+      "thumbnail_blurhash": "L8Aw9h~n4p05-z~nr^4q00Mc^$?G"
+    },
+    {
+      "id": "https://vnexpress.net/nut-giao-co-linh-o-ha-noi-un-tac-trien-mien-5137093.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Nút giao Cổ Linh ở Hà Nội ùn tắc triền miên",
+      "description": "Một năm qua, nút giao Cổ Linh - đường dẫn cầu Vĩnh Tuy - đường Đàm Quang Trung, phường Long Biên, trở thành nỗi ám ảnh với hàng nghìn người dân.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/26/cc6cd2c12ff4afaaf6e5-179300608-5173-6217-1793006659.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Dwaxr3RdTnd--mUcf0IJGA",
+      "link": "https://vnexpress.net/nut-giao-co-linh-o-ha-noi-un-tac-trien-mien-5137093.html",
+      "published_at": "Tue, 27 Oct 2026 10:49:18 +0700",
+      "createAt": "2026-10-27T03:49:18.000Z",
+      "thumbnail_blurhash": "LZFiPyR*DiE0~qoJD*Rj?bs.IoWB"
+    },
+    {
+      "id": "https://vnexpress.net/harry-kane-tu-nguoi-khong-danh-hieu-den-qua-bong-vang-5137372.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Harry Kane - từ người không danh hiệu đến Quả Bóng Vàng",
+      "description": "Từng bị Arsenal loại khỏi học viện, trải qua bốn lần cho mượn và hơn một thập niên không danh hiệu, Harry Kane cuối cùng chạm đến đỉnh cao bóng đá thế giới khi đoạt Quả Bóng Vàng 2026 ở tuổi 33.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/10/27/kane-1793074012-8035-1793074025.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=xFZ_2cZ7R-dXnj803ETxLA",
+      "link": "https://vnexpress.net/harry-kane-tu-nguoi-khong-danh-hieu-den-qua-bong-vang-5137372.html",
+      "published_at": "Tue, 27 Oct 2026 11:07:43 +0700",
+      "createAt": "2026-10-27T04:07:43.000Z",
+      "thumbnail_blurhash": "LSB}kID4x]Ov.ARlavNGRobbacjD"
+    },
+    {
+      "id": "https://vnexpress.net/tong-bien-tap-france-football-mbappe-da-co-luc-dan-dau-cuoc-dua-5137369.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Tổng biên tập France Football: 'Mbappe đã có lúc dẫn đầu cuộc đua'",
+      "description": "Trả lời kênh L'Équipe TV sau lễ trao giải Quả Bóng Vàng 2026 tối 26/10, Tổng biên tập France Football Vincent Garcia hé lộ đôi điều về cuộc đua sít sao giữa Harry Kane và Kylian Mbappe.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/10/27/screenshot-1793075204-9899-1793075211.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=N4N8z1vsRiuzZ1r5bpU78Q",
+      "link": "https://vnexpress.net/tong-bien-tap-france-football-mbappe-da-co-luc-dan-dau-cuoc-dua-5137369.html",
+      "published_at": "Tue, 27 Oct 2026 11:26:51 +0700",
+      "createAt": "2026-10-27T04:26:51.000Z",
+      "thumbnail_blurhash": "L4Byy|-=~902ak]#9bX-T09togIU"
+    }
+  ]
 }
