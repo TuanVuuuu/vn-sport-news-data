@@ -128,5 +128,44 @@
     "published_at": "Tue, 27 Oct 2026 17:00:00 +0700",
     "createAt": "2026-10-27T10:00:00.000Z",
     "thumbnail_blurhash": "LGHUd[0M-;~pwH$*EMNFH@-pE2IU"
+  },
+  {
+    "id": "https://vnexpress.net/viet-nam-can-chuan-bi-ngay-cho-nguy-co-bao-mat-luong-tu-5137489.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Việt Nam 'cần chuẩn bị ngay' cho nguy cơ bảo mật lượng tử",
+    "description": "Các chuyên gia đánh giá nguy cơ dữ liệu \"thu thập ngay, giải mã sau\" bằng máy tính lượng tử đang gia tăng, đòi hỏi Việt Nam sớm chuẩn bị phương án ứng phó.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/27/1793086859453-g851938707362421-6331-6993-1793091227.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=_ixgRinCUaxBSXT80XPBzw",
+    "link": "https://vnexpress.net/viet-nam-can-chuan-bi-ngay-cho-nguy-co-bao-mat-luong-tu-5137489.html",
+    "published_at": "Tue, 27 Oct 2026 18:00:00 +0700",
+    "createAt": "2026-10-27T11:00:00.000Z",
+    "thumbnail_blurhash": "LSHCsOxuX:aK?^bcx]ofxwV@Mwt8"
+  },
+  {
+    "id": "https://vnexpress.net/viet-nam-lao-nghien-cuu-cong-nhan-cheo-chu-ky-so-5137596.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Việt Nam - Lào nghiên cứu công nhận chéo chữ ký số",
+    "description": "Việt Nam và Lào nghiên cứu phương án thí điểm công nhận lẫn nhau về chữ ký số, trước mắt trong lĩnh vực hải quan và xuất nhập khẩu hàng hóa.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/27/chu-ky-so-1793100878-4619-1793100939.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=okAeILSHjDkF7ZzCsklNQw",
+    "link": "https://vnexpress.net/viet-nam-lao-nghien-cuu-cong-nhan-cheo-chu-ky-so-5137596.html",
+    "published_at": "Tue, 27 Oct 2026 19:01:16 +0700",
+    "createAt": "2026-10-27T12:01:16.000Z",
+    "thumbnail_blurhash": "LKQ9[.-qxt%N~TVrV@oz%$xAe.bb"
+  },
+  {
+    "id": "https://vnexpress.net/can-bo-an-ninh-mang-dien-tap-phong-thu-dieu-tra-tan-cong-mang-5137580.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Cán bộ an ninh mạng diễn tập phòng thủ, điều tra tấn công mạng",
+    "description": "90 cán bộ, chiến sĩ và chuyên viên từ các đơn vị trên cả nước tham gia diễn tập an ninh mạng quốc gia năm 2026, với kịch bản tấn công hệ thống của một tổ chức tài chính.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/27/nth09914-1793098507-9874-1793101769.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=u1IvM42A4X7JUMsHjZ2qcA",
+    "link": "https://vnexpress.net/can-bo-an-ninh-mang-dien-tap-phong-thu-dieu-tra-tan-cong-mang-5137580.html",
+    "published_at": "Tue, 27 Oct 2026 19:06:34 +0700",
+    "createAt": "2026-10-27T12:06:34.000Z",
+    "thumbnail_blurhash": "L9BgVtD$.9IT_49E%hITofIS%OD%"
   }
 ]
