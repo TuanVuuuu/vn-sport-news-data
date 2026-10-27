@@ -1077,5 +1077,31 @@
     "published_at": "Tue, 27 Oct 2026 07:00:00 +0700",
     "createAt": "2026-10-27T00:00:00.000Z",
     "thumbnail_blurhash": "LgIOIct8xu-;?wozNZX8tSaKsmWB"
+  },
+  {
+    "id": "https://vnexpress.net/nguoi-ban-ca-thay-minh-song-nhu-trieu-phu-khi-roi-anh-den-cyrup-5137202.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Người bán cá thấy mình 'sống như triệu phú' khi rời Anh đến Cyrup",
+    "description": "Sau nhiều năm làm việc tới 17 tiếng mỗi ngày tại London, Orestis Kyprianou chuyển đến đảo Cyprus, để có thêm thời gian bên gia đình và tận hưởng cuộc sống.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/10/26/471051543-n-1793029300-3597-1793029394.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=3hy2tDgZthxbN0tRsCGZDQ",
+    "link": "https://vnexpress.net/nguoi-ban-ca-thay-minh-song-nhu-trieu-phu-khi-roi-anh-den-cyrup-5137202.html",
+    "published_at": "Tue, 27 Oct 2026 09:24:48 +0700",
+    "createAt": "2026-10-27T02:24:48.000Z",
+    "thumbnail_blurhash": "L9C~uAtT.Ro}}?NZI@kq9tMxv|IU"
+  },
+  {
+    "id": "https://vnexpress.net/mua-vang-o-vung-bien-luc-hon-5136623.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Mùa vàng ở vùng biên Lục Hồn",
+    "description": "Cuối tháng 10, các sườn đồi ở xã Lục Hồn phủ màu vàng của lúa chín, thu hút du khách đến trải nghiệm văn hóa và cảnh quan.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/25/9-1792911422.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=vEgQZ57c6VT555ZcrLez3g",
+    "link": "https://vnexpress.net/mua-vang-o-vung-bien-luc-hon-5136623.html",
+    "published_at": "Tue, 27 Oct 2026 10:30:00 +0700",
+    "createAt": "2026-10-27T03:30:00.000Z",
+    "thumbnail_blurhash": "LCF=mFxubI%KRvt7R,t6%4bcxsxY"
   }
 ]
