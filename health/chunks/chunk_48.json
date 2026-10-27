@@ -440,5 +440,31 @@
     "published_at": "Wed, 28 Oct 2026 01:00:00 +0700",
     "createAt": "2026-10-27T18:00:00.000Z",
     "thumbnail_blurhash": "L47Kb$]~OF~C=q-=#Q$f^koe9tjY"
+  },
+  {
+    "id": "https://vnexpress.net/lam-tuong-thuong-gap-ve-benh-gan-5128209.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Lầm tưởng thường gặp về bệnh gan",
+    "description": "Quan niệm chỉ người béo mới mắc gan nhiễm mỡ, thực phẩm giàu chất béo đều hại gan hoặc gan không có triệu chứng là khỏe có thể khiến bệnh bị bỏ sót.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/06/tra-su-a-a-nh-va-n-anh-jpeg-17-9992-4213-1791275251.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=HQH22ekVItGKbI7nZqhFxg",
+    "link": "https://vnexpress.net/lam-tuong-thuong-gap-ve-benh-gan-5128209.html",
+    "published_at": "Wed, 28 Oct 2026 02:00:00 +0700",
+    "createAt": "2026-10-27T19:00:00.000Z",
+    "thumbnail_blurhash": "L5FE.M}+U]K*0Ct.000exbaKvy}n"
+  },
+  {
+    "id": "https://vnexpress.net/be-trai-9-tuoi-thoat-canh-bo-bang-tay-vi-di-chung-bong-5137505.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Bé trai 9 tuổi thoát cảnh bò bằng tay vì di chứng bỏng",
+    "description": "Bị sẹo bỏng co rút khiến chân trái không thể duỗi, bé trai 9 tuổi phải bò bằng tay hoặc nhảy lò cò suốt hơn hai năm trước khi được phẫu thuật giải phóng khớp gối.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/27/se-o-bo-ng-1793090650-9937-1793090860.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=NlRqvhlWgcFKliaSrLC6Tw",
+    "link": "https://vnexpress.net/be-trai-9-tuoi-thoat-canh-bo-bang-tay-vi-di-chung-bong-5137505.html",
+    "published_at": "Wed, 28 Oct 2026 03:00:00 +0700",
+    "createAt": "2026-10-27T20:00:00.000Z",
+    "thumbnail_blurhash": "LVKU+b57T0NZ~XxGxbt7?HxtR%kV"
   }
 ]
