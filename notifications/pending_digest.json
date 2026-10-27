@@ -1,6 +1,19 @@
 {
   "featured": [
     {
+      "id": "https://vnexpress.net/phut-hoang-loan-o-thao-truong-yemen-khi-ten-lua-houthi-lao-xuong-5137199.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Phút hoảng loạn ở thao trường Yemen khi tên lửa Houthi lao xuống",
+      "description": "Tên lửa đạn đạo Houthi lao xuống thao trường Ahmed al-Sulaimani mà không có cảnh báo, đúng lúc 4 tiểu đoàn tân binh đang tập trung ở khu vực.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/27/houthi-1793071625-1234-1793071730.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=N4jHY5a49I9iE5mERv-cog",
+      "link": "https://vnexpress.net/phut-hoang-loan-o-thao-truong-yemen-khi-ten-lua-houthi-lao-xuong-5137199.html",
+      "published_at": "Tue, 27 Oct 2026 10:28:49 +0700",
+      "createAt": "2026-10-27T03:28:49.000Z",
+      "thumbnail_blurhash": "LPNAPE%Maz-p%%V[axkC%$jbj[R*"
+    },
+    {
       "id": "https://vnexpress.net/microsoft-de-xuat-60-000-nhan-vien-tu-nguyen-nghi-viec-5137242.html",
       "category_id": "featured",
       "category_name": "Tin nổi bật",
@@ -64,6 +77,19 @@
       "published_at": "Tue, 27 Oct 2026 11:37:38 +0700",
       "createAt": "2026-10-27T04:37:38.000Z",
       "thumbnail_blurhash": "L84x+4MayGVV%iaGtUV=W9tSV?j]"
+    },
+    {
+      "id": "https://vnexpress.net/du-an-nuoi-bo-hon-4-500-ty-dong-duoc-dem-dau-gia-gan-284-ty-5137359.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Dự án nuôi bò hơn 4.500 tỷ đồng được đem đấu giá gần 284 tỷ",
+      "description": "Sau nhiều năm bỏ hoang, dự án chăn nuôi bò Bình Hà được đưa ra đấu giá tài sản thế chấp, trong bối cảnh hoạt động chăn nuôi chưa thể khôi phục.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/27/du-an-nuoi-bo-ha-tinh-17930731-4857-2356-1793073487.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=kJREzcyqmgP7_doQJbyeiQ",
+      "link": "https://vnexpress.net/du-an-nuoi-bo-hon-4-500-ty-dong-duoc-dem-dau-gia-gan-284-ty-5137359.html",
+      "published_at": "Tue, 27 Oct 2026 11:48:34 +0700",
+      "createAt": "2026-10-27T04:48:34.000Z",
+      "thumbnail_blurhash": "LeF~v}WBadt7.AM{o0kC?vWBayj]"
     }
   ]
 }
