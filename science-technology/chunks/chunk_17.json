@@ -232,5 +232,18 @@
     "published_at": "Wed, 28 Oct 2026 02:00:00 +0700",
     "createAt": "2026-10-27T19:00:00.000Z",
     "thumbnail_blurhash": "LNF6Ry?F9ERk%%MwWAxv%NoKkDWY"
+  },
+  {
+    "id": "https://vnexpress.net/openai-cong-bo-loat-phat-kien-khoa-hoc-nho-ai-5137619.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "OpenAI công bố loạt phát kiến khoa học nhờ AI",
+    "description": "Sử dụng mô hình nội bộ, OpenAI cho biết đã tạo ra ba kết quả nghiên cứu đột phá trong toán học, khoa học máy tính và vật lý.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/27/dsc00717-jpg-1793111046-6689-1793111175.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=BHra24EUrCguSUjCHBMxaw",
+    "link": "https://vnexpress.net/openai-cong-bo-loat-phat-kien-khoa-hoc-nho-ai-5137619.html",
+    "published_at": "Wed, 28 Oct 2026 06:04:48 +0700",
+    "createAt": "2026-10-27T23:04:48.000Z",
+    "thumbnail_blurhash": "L5Bz:}9E00r@0s-T@qNt00ni~Vob"
   }
 ]
