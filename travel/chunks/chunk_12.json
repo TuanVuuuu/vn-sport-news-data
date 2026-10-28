@@ -1246,5 +1246,31 @@
     "published_at": "Wed, 28 Oct 2026 19:03:42 +0700",
     "createAt": "2026-10-28T12:03:42.000Z",
     "thumbnail_blurhash": "L8FE_m6V?v_MAL4o-OozS~IAM|tS"
+  },
+  {
+    "id": "https://vnexpress.net/tra-lai-vi-cho-khach-my-de-quen-tren-xe-buyt-ha-noi-5137990.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Trả lại ví cho khách Mỹ để quên trên xe buýt Hà Nội",
+    "description": "Vài giờ sau khi báo mất ví, khách Mỹ được chính quyền thành phố hỗ trợ tìm lại đồ.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/10/28/9b21d02bd69-b635c3d7fd9c046-17-9339-6544-1793191464.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=YH9jM4G4F5eKmqftpkAUjQ",
+    "link": "https://vnexpress.net/tra-lai-vi-cho-khach-my-de-quen-tren-xe-buyt-ha-noi-5137990.html",
+    "published_at": "Thu, 29 Oct 2026 00:05:16 +0700",
+    "createAt": "2026-10-28T17:05:16.000Z",
+    "thumbnail_blurhash": "LXG]Hx~pR4IVoyRiRjtR%MM{RjtR"
+  },
+  {
+    "id": "https://vnexpress.net/ve-ma-mi-tren-cung-leo-dinh-samu-5135995.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Vẻ ma mị trên cung leo đỉnh Samu",
+    "description": "Cung leo đỉnh Samu với thảm rêu xanh, cây cối hình dạng kỳ lạ, thêm phần ma mị vào những ngày trời mưa, sương mù.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/10/23/825340490-28526607883646649-8159499830085908678-n-1792731082.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Ak1cKeMCSxTpTuXMTKmYkQ",
+    "link": "https://vnexpress.net/ve-ma-mi-tren-cung-leo-dinh-samu-5135995.html",
+    "published_at": "Thu, 29 Oct 2026 00:10:00 +0700",
+    "createAt": "2026-10-28T17:10:00.000Z",
+    "thumbnail_blurhash": "LH9*DFof9GIU~pt8IUD*jYxuWBIU"
   }
 ]
