@@ -1,3 +1,43 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/de-nghi-bao-ve-nguoi-mua-nha-tai-du-an-vi-pham-5137991.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Đề nghị bảo vệ người mua nhà tại dự án vi phạm",
+      "description": "Từ những dự án liên quan Mường Thanh, đại biểu Trịnh Xuân An đề nghị bổ sung cơ chế bảo vệ người mua nhà, không để họ gánh chi phí khắc phục vi phạm của chủ đầu tư.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/28/2aobor8eeil5ggix6ytvyeezf8ogn2-4330-7288-1793183802.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=HlQFw0n0pNJXOE1Az21r8A",
+      "link": "https://vnexpress.net/de-nghi-bao-ve-nguoi-mua-nha-tai-du-an-vi-pham-5137991.html",
+      "published_at": "Wed, 28 Oct 2026 17:36:42 +0700",
+      "createAt": "2026-10-28T10:36:42.000Z",
+      "thumbnail_blurhash": "LGNd5T4TJ{0100%e_Nxa00InRR%f"
+    },
+    {
+      "id": "https://vnexpress.net/mr-pips-khai-bien-tat-ca-nha-dau-tu-thanh-con-bac-tren-san-ngoai-hoi-ao-5137930.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Mr Pips khai 'biến tất cả nhà đầu tư thành con bạc' trên sàn ngoại hối ảo",
+      "description": "Mr Pips khai chỉ đạo hàng nghìn nhân viên dưới quyền đánh vào tâm lý tham tiền, thiếu hiểu biết để dụ dỗ và \"biến tất cả nhà đầu tư chứng khoán, ngoại hối thành con bạc\".",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/28/wm1-wm1-1793174991-2580-1793175208.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=TgFIS3f3x_GxwHnyF9kL2Q",
+      "link": "https://vnexpress.net/mr-pips-khai-bien-tat-ca-nha-dau-tu-thanh-con-bac-tren-san-ngoai-hoi-ao-5137930.html",
+      "published_at": "Wed, 28 Oct 2026 17:40:09 +0700",
+      "createAt": "2026-10-28T10:40:09.000Z",
+      "thumbnail_blurhash": "LuH_[Cs*%e%f~oWEo#tQxuofs;of"
+    },
+    {
+      "id": "https://vnexpress.net/hai-tau-cao-toc-dam-nhau-o-tay-ban-nha-30-nguoi-chet-5138012.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Hai tàu cao tốc đâm nhau ở Tây Ban Nha, 30 người chết",
+      "description": "Ít nhất 30 người thiệt mạng khi hai tàu cao tốc va chạm trên tuyến đường sắt phía nam thủ đô Madrid của Tây Ban Nha.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/28/ap26301360905635-1793184401-2372-1793184421.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=3QJCy6tOlviUaUUKDeR3BQ",
+      "link": "https://vnexpress.net/hai-tau-cao-toc-dam-nhau-o-tay-ban-nha-30-nguoi-chet-5138012.html",
+      "published_at": "Wed, 28 Oct 2026 17:45:17 +0700",
+      "createAt": "2026-10-28T10:45:17.000Z",
+      "thumbnail_blurhash": "L%EDSNWCWAae.TWBayfP?cayoMkC"
+    }
+  ]
 }
