@@ -50,5 +50,31 @@
     "published_at": "Wed, 28 Oct 2026 06:00:00 +0700",
     "createAt": "2026-10-27T23:00:00.000Z",
     "thumbnail_blurhash": "LfMj]xxu-;xu%M9FWBt7~qRjIUf7"
+  },
+  {
+    "id": "https://vnexpress.net/openai-cong-bo-loat-phat-kien-khoa-hoc-nho-ai-5137619.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "OpenAI công bố loạt phát kiến khoa học nhờ AI",
+    "description": "Sử dụng mô hình nội bộ, OpenAI cho biết đã tạo ra ba kết quả nghiên cứu đột phá trong toán học, khoa học máy tính và vật lý.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/27/dsc00717-jpg-1793111046-6689-1793111175.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=BHra24EUrCguSUjCHBMxaw",
+    "link": "https://vnexpress.net/openai-cong-bo-loat-phat-kien-khoa-hoc-nho-ai-5137619.html",
+    "published_at": "Wed, 28 Oct 2026 06:04:48 +0700",
+    "createAt": "2026-10-27T23:04:48.000Z",
+    "thumbnail_blurhash": "L5Bz:}9E00r@0s-T@qNt00ni~Vob"
+  },
+  {
+    "id": "https://vnexpress.net/diem-tin-6h-xem-xet-giam-gia-dien-tu-1-11-ha-noi-du-kien-chi-22-230-ty-dong-tai-thiet-khu-vuc-ho-guom-5137647.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Điểm tin 6h: Xem xét giảm giá điện từ 1/11 | Hà Nội dự kiến chi 22.230 tỷ đồng tái thiết khu vực Hồ Gươm",
+    "description": "Dỡ bỏ sân khấu Sen Hồng làm ga đường sắt Bến Thành - Cần Giờ; SCB giảm lãi suất tiết kiệm xuống gần 0%;...",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/28/Screenshot20261028at055331-179-1549-4286-1793141912.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=asT76OkBOBxTlmtUcQfsRQ",
+    "link": "https://vnexpress.net/diem-tin-6h-xem-xet-giam-gia-dien-tu-1-11-ha-noi-du-kien-chi-22-230-ty-dong-tai-thiet-khu-vuc-ho-guom-5137647.html",
+    "published_at": "Wed, 28 Oct 2026 06:05:58 +0700",
+    "createAt": "2026-10-27T23:05:58.000Z",
+    "thumbnail_blurhash": "LJF5Hhxa2v%e~AsX58S|P8t8rZov"
   }
 ]
