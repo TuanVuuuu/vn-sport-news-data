@@ -258,5 +258,31 @@
     "published_at": "Wed, 28 Oct 2026 16:35:57 +0700",
     "createAt": "2026-10-28T09:35:57.000Z",
     "thumbnail_blurhash": "L#G]m}-;xtfiyGt7t6j[E1RjRjog"
+  },
+  {
+    "id": "https://vnexpress.net/gia-ca-phe-lao-doc-5137860.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Giá cà phê lao dốc",
+    "description": "Sau khi lên 104.000 đồng một kg hồi tháng 8, giá cà phê mất hơn 15.000 đồng, lùi về vùng thấp nhất kể từ đầu năm.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/28/screen-shot-at-pm-1793168753-2841-1793168869.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=vd9V4f4ZVBBIXEp_bqYjyQ",
+    "link": "https://vnexpress.net/gia-ca-phe-lao-doc-5137860.html",
+    "published_at": "Wed, 28 Oct 2026 16:50:02 +0700",
+    "createAt": "2026-10-28T09:50:02.000Z",
+    "thumbnail_blurhash": "L9B|ZYDlpC.ioO%_rGZ**Gt6M|OD"
+  },
+  {
+    "id": "https://vnexpress.net/vinenergo-van-hanh-dien-mat-troi-ket-hop-pin-luu-tru-tai-ha-tinh-5137975.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "VinEnergo vận hành điện mặt trời kết hợp pin lưu trữ tại Hà Tĩnh",
+    "description": "Hệ thống điện mặt trời mái nhà kết hợp pin lưu trữ năng lượng (BESS) giúp các doanh nghiệp tự chủ năng lượng, tiết kiệm gần 3,5 tỷ đồng mỗi năm và giảm hơn 25.000 tấn khí thải CO2.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/28/a1-1793179321-5692-1793181364.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=2SAiOYR6MVMlQ5pRwtOYKA",
+    "link": "https://vnexpress.net/vinenergo-van-hanh-dien-mat-troi-ket-hop-pin-luu-tru-tai-ha-tinh-5137975.html",
+    "published_at": "Wed, 28 Oct 2026 17:00:00 +0700",
+    "createAt": "2026-10-28T10:00:00.000Z",
+    "thumbnail_blurhash": "LUJHCFVr%0s;17WUMyWB}PtRRQs:"
   }
 ]
