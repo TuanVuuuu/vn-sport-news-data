@@ -869,5 +869,44 @@
     "published_at": "Wed, 28 Oct 2026 18:00:00 +0700",
     "createAt": "2026-10-28T11:00:00.000Z",
     "thumbnail_blurhash": "LfMrGEXTVt?G~Bs:xZR*C7nhnNX8"
+  },
+  {
+    "id": "https://vnexpress.net/manh-tre-dai-10-cm-nam-3-thang-trong-co-nguoi-dan-ong-5138002.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Mảnh tre dài 10 cm nằm 3 tháng trong cổ người đàn ông",
+    "description": "Người đàn ông 66 tuổi ngã vào bụi tre bị mảnh cây dài 10 cm đâm vào cổ, ba tháng sau mới phẫu thuật lấy ra.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/28/858501809122210499944844035150-4655-3366-1793181934.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=T_ZEQg7_8Py3h14N6SPMZw",
+    "link": "https://vnexpress.net/manh-tre-dai-10-cm-nam-3-thang-trong-co-nguoi-dan-ong-5138002.html",
+    "published_at": "Wed, 28 Oct 2026 18:37:35 +0700",
+    "createAt": "2026-10-28T11:37:35.000Z",
+    "thumbnail_blurhash": "LDFakTEV0I.A0Zn}_0M}0G%HwFW@"
+  },
+  {
+    "id": "https://vnexpress.net/tuong-viem-hong-hoa-benh-lau-5138006.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Tưởng viêm họng hóa bệnh lậu",
+    "description": "Chị Hương, 32 tuổi, đau rát họng uống thuốc không khỏi, xét nghiệm phát hiện vi khuẩn lậu.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/28/bao-1793182169-6198-1793182180.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=_83KeKpNCVquP0-DpYeaTg",
+    "link": "https://vnexpress.net/tuong-viem-hong-hoa-benh-lau-5138006.html",
+    "published_at": "Wed, 28 Oct 2026 19:00:00 +0700",
+    "createAt": "2026-10-28T12:00:00.000Z",
+    "thumbnail_blurhash": "LZK-qRxC?G?b_NniX8WA#PJCaxs:"
+  },
+  {
+    "id": "https://vnexpress.net/vi-sao-nguoi-gia-khong-sot-van-co-the-mac-cum-nang-5137910.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Vì sao người già không sốt vẫn có thể mắc cúm nặng?",
+    "description": "Người cao tuổi mắc cúm có thể không sốt, song vẫn có thể bị tổn thương phổi, suy hô hấp hoặc bệnh nền trở nặng do ảnh hưởng của virus cúm.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/28/bv-benh-ndtu-1793173354-3408-1793173504.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ideacB07EWnSqhlWBF8Aug",
+    "link": "https://vnexpress.net/vi-sao-nguoi-gia-khong-sot-van-co-the-mac-cum-nang-5137910.html",
+    "published_at": "Wed, 28 Oct 2026 19:00:00 +0700",
+    "createAt": "2026-10-28T12:00:00.000Z",
+    "thumbnail_blurhash": "LEIh+}kl4:?w_4?I^Ps,Rit8kXNF"
   }
 ]
