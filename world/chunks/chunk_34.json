@@ -1272,5 +1272,31 @@
     "published_at": "Wed, 28 Oct 2026 05:00:00 +0700",
     "createAt": "2026-10-27T22:00:00.000Z",
     "thumbnail_blurhash": "LI8EraR.Max[t:xvRNRiW@WCocV?"
+  },
+  {
+    "id": "https://vnexpress.net/ung-vien-tong-thong-brazil-bi-mat-sang-my-sau-that-bai-bau-cu-5137646.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Ứng viên tổng thống Brazil bí mật sang Mỹ sau thất bại bầu cử",
+    "description": "Thượng nghị sĩ Flavio Bolsonaro rời Brazil sang Mỹ sau thất bại trong bầu cử tổng thống và Washington thông báo sẽ cấp thị thực cho cả gia đình ông.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/28/ap26297036263624-1793142551-9111-1793143219.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=OLLsdwMRvecPcEiiU3ywpA",
+    "link": "https://vnexpress.net/ung-vien-tong-thong-brazil-bi-mat-sang-my-sau-that-bai-bau-cu-5137646.html",
+    "published_at": "Wed, 28 Oct 2026 06:34:20 +0700",
+    "createAt": "2026-10-27T23:34:20.000Z",
+    "thumbnail_blurhash": "LnGA39N1t:g5.9flRhoeS2fijYjr"
+  },
+  {
+    "id": "https://vnexpress.net/bau-cu-israel-roi-vao-the-bat-phan-thang-bai-5137652.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Bầu cử Israel rơi vào thế bất phân thắng bại",
+    "description": "Kết quả sơ bộ cho thấy cả phe đối lập do Gadi Eisenkot dẫn dắt và liên minh của Thủ tướng Netanyahu đều chưa đạt thế đa số.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/28/benjamin-1793146354-5978-1793146399.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Zua6KV4X40cCwRqT3inGzA",
+    "link": "https://vnexpress.net/bau-cu-israel-roi-vao-the-bat-phan-thang-bai-5137652.html",
+    "published_at": "Wed, 28 Oct 2026 07:13:37 +0700",
+    "createAt": "2026-10-28T00:13:37.000Z",
+    "thumbnail_blurhash": "LOIOnN4Tu3-:~pW9IUs:IoInRP%M"
   }
 ]
