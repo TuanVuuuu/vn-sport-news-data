@@ -401,5 +401,31 @@
     "published_at": "Thu, 29 Oct 2026 01:00:00 +0700",
     "createAt": "2026-10-28T18:00:00.000Z",
     "thumbnail_blurhash": "LAEfZ,?cM{%MKUMyWDWB5FxtxtWC"
+  },
+  {
+    "id": "https://vnexpress.net/duong-ranh-gioi-vach-bang-but-chi-thanh-ngoi-no-cang-thang-han-trieu-5137676.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Đường ranh giới vạch bằng bút chì thành ngòi nổ căng thẳng Hàn - Triều",
+    "description": "Một đường ranh giới mơ hồ vẽ năm 1953 lâu nay vẫn là ngòi nổ tranh cãi giữa Hàn Quốc và Triều Tiên khi hai nước tự xác định nó theo cách riêng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/28/2026-10-27T045120Z-1617436941-4993-2652-1793159938.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=KE7g6upPyIFsSIyKAdwKsQ",
+    "link": "https://vnexpress.net/duong-ranh-gioi-vach-bang-but-chi-thanh-ngoi-no-cang-thang-han-trieu-5137676.html",
+    "published_at": "Thu, 29 Oct 2026 05:00:00 +0700",
+    "createAt": "2026-10-28T22:00:00.000Z",
+    "thumbnail_blurhash": "L8D]l2.ANy%gK99v%1Rn00-QxCoI"
+  },
+  {
+    "id": "https://vnexpress.net/hanh-trinh-song-sot-cua-linh-ukraine-tu-cat-chan-giua-chien-dia-5137252.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Hành trình sống sót của lính Ukraine tự cắt chân giữa chiến địa",
+    "description": "Vlasenko được giải cứu bằng UAV hạng nặng sau nhiều tháng mắc kẹt giữa \"vùng chết\", nơi anh phải tự cắt bàn chân sau đòn tập kích bằng UAV.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/27/2026t075514z-rc2f6oaiirfa-rtrm-9415-1115-1793089738.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=je_C1YFiE537bpC7il3LLw",
+    "link": "https://vnexpress.net/hanh-trinh-song-sot-cua-linh-ukraine-tu-cat-chan-giua-chien-dia-5137252.html",
+    "published_at": "Thu, 29 Oct 2026 05:00:00 +0700",
+    "createAt": "2026-10-28T22:00:00.000Z",
+    "thumbnail_blurhash": "LXFO[kS~J7rX~qo}jFsltlozs9o0"
   }
 ]
