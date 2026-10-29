@@ -661,5 +661,31 @@
     "published_at": "Thu, 29 Oct 2026 16:39:33 +0700",
     "createAt": "2026-10-29T09:39:33.000Z",
     "thumbnail_blurhash": "LRIr1+IUnz~q%0ozt6oyIUogjFxu"
+  },
+  {
+    "id": "https://vnexpress.net/nhung-canh-bao-bi-bo-lo-trong-tham-kich-tau-cao-toc-tay-ban-nha-5138344.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Những cảnh báo bị bỏ lỡ trong thảm kịch tàu cao tốc Tây Ban Nha",
+    "description": "Dù lái tàu Iryo đã cảnh báo rằng tàu không chạy tiếp được, điều phối viên vẫn cho phép tàu AVE ở phía sau tăng tốc \"như bình thường\", gây va chạm.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/29/Artcover16x9-1793257340-6292-1793257363.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=jsMXmdNmBA3RhC3wWIpK2A",
+    "link": "https://vnexpress.net/nhung-canh-bao-bi-bo-lo-trong-tham-kich-tau-cao-toc-tay-ban-nha-5138344.html",
+    "published_at": "Thu, 29 Oct 2026 17:00:00 +0700",
+    "createAt": "2026-10-29T10:00:00.000Z",
+    "thumbnail_blurhash": "LrB$l]HqawV{.mS7R5jEoyoxRPaJ"
+  },
+  {
+    "id": "https://vnexpress.net/nhan-chung-vu-dam-tau-tat-ca-chi-con-la-khoi-sat-khong-lo-dam-mau-5138312.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Nhân chứng vụ đâm tàu: 'Tất cả chỉ còn là khối sắt khổng lồ đẫm máu'",
+    "description": "Antonio García cho hay cảnh hai đoàn tàu cao tốc đâm nhau như \"địa ngục\", với nhiều nạn nhân thương vong trong các toa tàu vỡ nát.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/29/jlxtpkhnevjsbhcaeywbbhg5ie-179-3097-2294-1793259636.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=MJ9vxqlXNGz6gOjbJ49rMw",
+    "link": "https://vnexpress.net/nhan-chung-vu-dam-tau-tat-ca-chi-con-la-khoi-sat-khong-lo-dam-mau-5138312.html",
+    "published_at": "Thu, 29 Oct 2026 17:10:21 +0700",
+    "createAt": "2026-10-29T10:10:21.000Z",
+    "thumbnail_blurhash": "L58Ntk-=4o_3~q%MRkWB00Mw-p9F"
   }
 ]
