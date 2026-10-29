@@ -440,5 +440,44 @@
     "published_at": "Thu, 29 Oct 2026 10:00:00 +0700",
     "createAt": "2026-10-29T03:00:00.000Z",
     "thumbnail_blurhash": "LeHLrEWEIoRP_Na~RPRPt7o#sooI"
+  },
+  {
+    "id": "https://vnexpress.net/de-xuat-giam-toi-70-phat-cham-nop-to-khai-thue-cho-doanh-nghiep-ngung-hoat-dong-5138089.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Đề xuất giảm tới 70% phạt chậm nộp tờ khai thuế cho doanh nghiệp ngưng hoạt động",
+    "description": "Bộ Tài chính đề xuất giảm 30-70% tiền phạt chậm nộp hồ sơ khai thuế cho doanh nghiệp đã ngừng hoạt động nhưng chưa đóng mã số thuế.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/29/HUY6982-1793210004-2759-1793210193.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=bi_Lmd5wRc4iySpQ3gz9Jg",
+    "link": "https://vnexpress.net/de-xuat-giam-toi-70-phat-cham-nop-to-khai-thue-cho-doanh-nghiep-ngung-hoat-dong-5138089.html",
+    "published_at": "Thu, 29 Oct 2026 10:00:00 +0700",
+    "createAt": "2026-10-29T03:00:00.000Z",
+    "thumbnail_blurhash": "LIJaN8Rjpa9[{0-p%}I::Pn*Ef%M"
+  },
+  {
+    "id": "https://vnexpress.net/dai-bieu-quoc-hoi-can-ra-soat-he-so-dieu-chinh-gia-dat-hang-nam-5138144.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Đại biểu Quốc hội: Cần rà soát hệ số điều chỉnh giá đất hàng năm",
+    "description": "Đại biểu Lê Văn Thế đề nghị rà soát hệ số điều chỉnh giá đất (hệ số K) ít nhất mỗi năm một lần dựa trên biến động giá, thực tế từng địa phương.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/29/wm28-wm28-wm28-g75742-1793243225-6742-1793244938.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ywk0F5i9pWWEfDyOpIR7Pg",
+    "link": "https://vnexpress.net/dai-bieu-quoc-hoi-can-ra-soat-he-so-dieu-chinh-gia-dat-hang-nam-5138144.html",
+    "published_at": "Thu, 29 Oct 2026 10:42:03 +0700",
+    "createAt": "2026-10-29T03:42:03.000Z",
+    "thumbnail_blurhash": "LBDbsY_44TMwDNI9I]ENR%t7%N%M"
+  },
+  {
+    "id": "https://vnexpress.net/home-credit-tro-luc-cho-nguoi-lao-dong-5137881.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Home Credit 'trợ lực' cho người lao động",
+    "description": "Home Credit cung cấp giải pháp vay tiền mặt giúp người lao động bổ sung nguồn tài chính, trang trải chi phí sinh hoạt và chủ động chăm lo gia đình trong những giai đoạn thu nhập biến động.",
+    "thumbnail_url": "https://vcdn1-giadinh.vnecdn.net/2026/10/29/hu-y-1793244607-7989-1793244981.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=UTE3DVrHZ59vIpckUmOiHg",
+    "link": "https://vnexpress.net/home-credit-tro-luc-cho-nguoi-lao-dong-5137881.html",
+    "published_at": "Thu, 29 Oct 2026 10:45:00 +0700",
+    "createAt": "2026-10-29T03:45:00.000Z",
+    "thumbnail_blurhash": "L09QQ:H;00Q74BjYu-cX3a%gl?;L"
   }
 ]

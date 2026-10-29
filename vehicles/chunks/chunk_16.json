@@ -596,5 +596,31 @@
     "published_at": "Thu, 29 Oct 2026 09:45:43 +0700",
     "createAt": "2026-10-29T02:45:43.000Z",
     "thumbnail_blurhash": "LDF~s+9F$__NInM{4Ta#4mt7_4V["
+  },
+  {
+    "id": "https://vnexpress.net/cao-toc-my-bi-phong-toa-de-tranh-khoi-doc-tu-xe-dien-chay-5137936.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Cao tốc Mỹ bị phong tỏa để tránh khói độc từ xe điện cháy",
+    "description": "Sự cố cháy pin lithium trên xe đầu kéo Tesla khiến tuyến cao tốc I-880 ở bang California bị phong tỏa nhiều giờ do nguy cơ khói độc hại.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/28/Teslasemi1-1793175906-5023-1793176820.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=8z-uzs2sfNJMj_Itg51UpA",
+    "link": "https://vnexpress.net/cao-toc-my-bi-phong-toa-de-tranh-khoi-doc-tu-xe-dien-chay-5137936.html",
+    "published_at": "Thu, 29 Oct 2026 06:00:00 +0700",
+    "createAt": "2026-10-28T23:00:00.000Z",
+    "thumbnail_blurhash": "LDBpw=%200S%?K-;NWDiWBagxv%M"
+  },
+  {
+    "id": "https://vnexpress.net/tesla-va-mieng-banh-thi-phan-kho-nhan-o-viet-nam-5138136.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Tesla và miếng bánh thị phần khó nhằn ở Việt Nam",
+    "description": "Hãng xe điện Mỹ sẽ phải đối mặt với \"ông lớn\" đang thống lĩnh thị trường nội địa là VinFast với những lợi thế vượt trội.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/29/Tesla3-1793241179-3691-1793241321.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=RKStdtISnt7WqNpjNjSFiA",
+    "link": "https://vnexpress.net/tesla-va-mieng-banh-thi-phan-kho-nhan-o-viet-nam-5138136.html",
+    "published_at": "Thu, 29 Oct 2026 10:38:33 +0700",
+    "createAt": "2026-10-29T03:38:33.000Z",
+    "thumbnail_blurhash": "LGJkr}IA4n~q4n9Fozxu4m?b?b9F"
   }
 ]
