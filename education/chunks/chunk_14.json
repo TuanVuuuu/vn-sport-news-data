@@ -1129,5 +1129,31 @@
     "published_at": "Thu, 29 Oct 2026 06:36:14 +0700",
     "createAt": "2026-10-28T23:36:14.000Z",
     "thumbnail_blurhash": "L5FP85RpK6-;00W=S$Iq-+?wT0Sh"
+  },
+  {
+    "id": "https://vnexpress.net/nhieu-hoc-sinh-than-bi-bach-vi-dong-phuc-5130300.html",
+    "category_id": "education",
+    "category_name": "Giáo dục",
+    "source": "VnExpress",
+    "title": "Nhiều học sinh than 'bí bách' vì đồng phục",
+    "description": "Trước yêu cầu mặc áo dài nhiều buổi trong tuần hoặc chỉ được thay đồng phục thể dục khi đến tiết học, nhiều học sinh, phụ huynh thấy bất tiện, phản ứng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/09/798724606214428741646496916052-4923-1368-1791517623.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=VDuN2CSpbV-YU8TzNb7sOw",
+    "link": "https://vnexpress.net/nhieu-hoc-sinh-than-bi-bach-vi-dong-phuc-5130300.html",
+    "published_at": "Thu, 29 Oct 2026 06:36:14 +0700",
+    "createAt": "2026-10-28T23:36:14.000Z",
+    "thumbnail_blurhash": "L4FP85NNK7?b00X8S$E3.3_NOZNw"
+  },
+  {
+    "id": "https://vnexpress.net/nguoi-lao-dong-khuyet-tat-truoc-thach-thuc-tu-ai-5132260.html",
+    "category_id": "education",
+    "category_name": "Giáo dục",
+    "source": "VnExpress",
+    "title": "Người lao động khuyết tật trước thách thức từ AI",
+    "description": "Sự phát triển của AI làm gia tăng nguy cơ người khuyết tật bị bỏ lại do hạn chế về kỹ năng số, khả năng tiếp cận công nghệ và những rào cản trong tuyển dụng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/28/hn4-1793184600-1358-1793184638.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=1MZAx0vdlK-ZeAeFO5-PNw",
+    "link": "https://vnexpress.net/nguoi-lao-dong-khuyet-tat-truoc-thach-thuc-tu-ai-5132260.html",
+    "published_at": "Thu, 29 Oct 2026 08:00:00 +0700",
+    "createAt": "2026-10-29T01:00:00.000Z",
+    "thumbnail_blurhash": "LbJavCD%.8xE~q-pWCtSwISONHxZ"
   }
 ]
