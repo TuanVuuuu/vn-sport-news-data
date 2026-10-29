@@ -414,5 +414,31 @@
     "published_at": "Thu, 29 Oct 2026 09:00:00 +0700",
     "createAt": "2026-10-29T02:00:00.000Z",
     "thumbnail_blurhash": "LFIzq[-P9Z050g-P9cni0NNHxa~9"
+  },
+  {
+    "id": "https://vnexpress.net/de-xuat-giam-toi-70-tien-phat-cham-nop-thue-cho-doanh-nghiep-ngung-hoat-dong-5138089.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Đề xuất giảm tới 70% tiền phạt chậm nộp thuế cho doanh nghiệp ngưng hoạt động",
+    "description": "Bộ Tài chính đề xuất giảm 30-70% tiền phạt chậm nộp hồ sơ khai thuế cho doanh nghiệp đã ngừng hoạt động nhưng chưa đóng mã số thuế.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/29/HUY6982-1793210004-2759-1793210193.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=bi_Lmd5wRc4iySpQ3gz9Jg",
+    "link": "https://vnexpress.net/de-xuat-giam-toi-70-tien-phat-cham-nop-thue-cho-doanh-nghiep-ngung-hoat-dong-5138089.html",
+    "published_at": "Thu, 29 Oct 2026 10:00:00 +0700",
+    "createAt": "2026-10-29T03:00:00.000Z",
+    "thumbnail_blurhash": "LIJaN8Rjpa9[{0-p%}I::Pn*Ef%M"
+  },
+  {
+    "id": "https://vnexpress.net/gelex-vuot-ke-hoach-loi-nhuan-ca-nam-sau-9-thang-5138157.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Gelex vượt kế hoạch lợi nhuận cả năm sau 9 tháng",
+    "description": "Tập đoàn Gelex báo lãi trước thuế 3.931 tỷ đồng, vượt gần 9% kế hoạch cả năm nhờ đà tăng trưởng mạnh từ mảng thiết bị điện và khu công nghiệp.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/29/9562-1793239071-3320-1793239157.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=e9Kn6t8d-uOw0PLaUBuMRg",
+    "link": "https://vnexpress.net/gelex-vuot-ke-hoach-loi-nhuan-ca-nam-sau-9-thang-5138157.html",
+    "published_at": "Thu, 29 Oct 2026 10:00:00 +0700",
+    "createAt": "2026-10-29T03:00:00.000Z",
+    "thumbnail_blurhash": "LeHLrEWEIoRP_Na~RPRPt7o#sooI"
   }
 ]
