@@ -544,5 +544,31 @@
     "published_at": "Thu, 29 Oct 2026 05:00:00 +0700",
     "createAt": "2026-10-28T22:00:00.000Z",
     "thumbnail_blurhash": "L6D9-g$y00?v~qZ~00pI00IA?dx^"
+  },
+  {
+    "id": "https://vnexpress.net/cao-toc-bi-phong-toa-de-tranh-khoi-doc-tu-xe-dien-chay-5137936.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Cao tốc bị phong tỏa để tránh khói độc từ xe điện cháy",
+    "description": "Sự cố cháy pin lithium trên xe đầu kéo Tesla khiến tuyến cao tốc I-880 ở bang California bị phong tỏa nhiều giờ do nguy cơ khói độc hại.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/28/Teslasemi1-1793175906-5023-1793176820.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=8z-uzs2sfNJMj_Itg51UpA",
+    "link": "https://vnexpress.net/cao-toc-bi-phong-toa-de-tranh-khoi-doc-tu-xe-dien-chay-5137936.html",
+    "published_at": "Thu, 29 Oct 2026 06:00:00 +0700",
+    "createAt": "2026-10-28T23:00:00.000Z",
+    "thumbnail_blurhash": "LDBpw=%200S%?K-;NWDiWBagxv%M"
+  },
+  {
+    "id": "https://vnexpress.net/cuoc-dua-giam-gia-bao-mon-loi-nhuan-cua-oto-trung-quoc-5138066.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Cuộc đua giảm giá bào mòn lợi nhuận của ôtô Trung Quốc",
+    "description": "Biên lợi nhuận ngành ôtô Trung Quốc xuống 1,4% trong tháng 9, khi mỗi xe bán ra chỉ mang về khoảng 1.650 USD lợi nhuận trong chín tháng qua.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/28/byds-new-energy-vehicles-manuf-2971-8055-1793199054.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=PNbc7c8BskgKHt00WeLYjA",
+    "link": "https://vnexpress.net/cuoc-dua-giam-gia-bao-mon-loi-nhuan-cua-oto-trung-quoc-5138066.html",
+    "published_at": "Thu, 29 Oct 2026 06:00:00 +0700",
+    "createAt": "2026-10-28T23:00:00.000Z",
+    "thumbnail_blurhash": "LRFPKOx]tQt6~pkWW=oKxtbIRjoe"
   }
 ]
