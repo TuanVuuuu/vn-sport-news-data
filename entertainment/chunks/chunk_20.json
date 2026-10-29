@@ -739,5 +739,31 @@
     "published_at": "Thu, 29 Oct 2026 20:09:35 +0700",
     "createAt": "2026-10-29T13:09:35.000Z",
     "thumbnail_blurhash": "LJI46202ADAaTd4p~U$$I;IV-pIp"
+  },
+  {
+    "id": "https://vnexpress.net/anok-yai-tu-nhan-vien-don-ve-sinh-den-nguoi-mau-noi-tieng-5135839.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Anok Yai, từ nhân viên dọn vệ sinh đến người mẫu nổi tiếng",
+    "description": "Từng dọn vệ sinh để trang trải việc học, Anok Yai đổi đời nhờ bức ảnh vô tình và vươn lên thành \"ngọc trai đen\" đắt giá của làng mốt thế giới.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/10/29/anokyaingoctraiden-1793263403-5534-1793263815.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=OMeyMilJ1PWbVnRm0hOsEg",
+    "link": "https://vnexpress.net/anok-yai-tu-nhan-vien-don-ve-sinh-den-nguoi-mau-noi-tieng-5135839.html",
+    "published_at": "Fri, 30 Oct 2026 00:00:00 +0700",
+    "createAt": "2026-10-29T17:00:00.000Z",
+    "thumbnail_blurhash": "L5D@d|17{m]=00}Q5*EeAGr=R%OS"
+  },
+  {
+    "id": "https://vnexpress.net/xiec-tre-lang-toi-buc-tranh-mien-que-viet-5138303.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Xiếc tre 'Làng tôi': Bức tranh miền quê Việt",
+    "description": "Nhịp sống của người nông dân Việt Nam được kể qua những màn diễn xiếc tre, kết hợp giai điệu từ các nhạc cụ truyền thống, trong vở ''Làng tôi''.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/10/29/lang-toi-1793258267-9042-1793258930.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=34DtGL7acjuGIFQcnDBeWA",
+    "link": "https://vnexpress.net/xiec-tre-lang-toi-buc-tranh-mien-que-viet-5138303.html",
+    "published_at": "Fri, 30 Oct 2026 00:05:00 +0700",
+    "createAt": "2026-10-29T17:05:00.000Z",
+    "thumbnail_blurhash": "L054BQ=c0h$%145mJ6=J}r-AJlSh"
   }
 ]
