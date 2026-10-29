@@ -440,5 +440,31 @@
     "published_at": "Thu, 29 Oct 2026 06:40:14 +0700",
     "createAt": "2026-10-28T23:40:14.000Z",
     "thumbnail_blurhash": "L24xVw?c0000%LxuR.IV00IU~W_3"
+  },
+  {
+    "id": "https://vnexpress.net/cong-ty-trung-quoc-cxmt-sap-san-xuat-chip-nho-ai-tien-tien-5138021.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Công ty Trung Quốc CXMT sắp sản xuất chip nhớ AI tiên tiến",
+    "description": "\"Ngôi sao bán dẫn Trung Quốc\" CXMT được cho là sớm sản xuất HBM3E, chip nhớ băng thông cao tiên tiến dùng trong bộ xử lý AI, bất chấp tỷ lệ thành phẩm thấp.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/28/cxmt17843689611256178436904685-8693-4953-1793185549.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ByOL8xH5GOm3h3TBGAi7QA",
+    "link": "https://vnexpress.net/cong-ty-trung-quoc-cxmt-sap-san-xuat-chip-nho-ai-tien-tien-5138021.html",
+    "published_at": "Thu, 29 Oct 2026 08:00:00 +0700",
+    "createAt": "2026-10-29T01:00:00.000Z",
+    "thumbnail_blurhash": "L27B1K~U01ESxangITIp%N-p${xr"
+  },
+  {
+    "id": "https://vnexpress.net/nga-dong-vinh-vien-khu-vuc-bi-ro-khi-tren-tram-iss-5137996.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Nga đóng vĩnh viễn khu vực bị rò khí trên trạm ISS",
+    "description": "Cơ quan vũ trụ Roscosmos sẽ đóng cửa đường hầm nối với module của Nga trên trạm ISS sau nhiều năm cố gắng sửa chữa lỗi rò khí không thành công.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/28/VNEAir-1793181255-3680-1793181340.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=opeZcoQX2tR2vqPuukVorQ",
+    "link": "https://vnexpress.net/nga-dong-vinh-vien-khu-vuc-bi-ro-khi-tren-tram-iss-5137996.html",
+    "published_at": "Thu, 29 Oct 2026 08:19:59 +0700",
+    "createAt": "2026-10-29T01:19:59.000Z",
+    "thumbnail_blurhash": "LA9Qmn?a00E1~p?bM{Di-:-pt7Rj"
   }
 ]
