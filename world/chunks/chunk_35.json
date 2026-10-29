@@ -505,5 +505,57 @@
     "published_at": "Thu, 29 Oct 2026 09:41:16 +0700",
     "createAt": "2026-10-29T02:41:16.000Z",
     "thumbnail_blurhash": "LWGt$^.8bwai}@%1JUi^r=VtoMi_"
+  },
+  {
+    "id": "https://vnexpress.net/chay-tai-co-so-hat-nhan-my-phat-canh-bao-phat-tan-phong-xa-5138165.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Cháy tại cơ sở hạt nhân, Mỹ phát cảnh báo 'phát tán phóng xạ'",
+    "description": "Đám cháy bùng phát tại tổ hợp hạt nhân Savannah River ở bang Nam Carolina, khiến giới chức Mỹ phát cảnh báo và thực hiện loạt biện pháp đề phòng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/29/SavannahRiver-1793240319-3685-1793241072.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=dn7gUfA4j1Y_Tu2C-bYllg",
+    "link": "https://vnexpress.net/chay-tai-co-so-hat-nhan-my-phat-canh-bao-phat-tan-phong-xa-5138165.html",
+    "published_at": "Thu, 29 Oct 2026 09:52:00 +0700",
+    "createAt": "2026-10-29T02:52:00.000Z",
+    "thumbnail_blurhash": "LqG]O5WAt8tR?wadt7t8-=ofWAt7"
+  },
+  {
+    "id": "https://vnexpress.net/canh-bao-bi-bo-lo-trong-vu-hai-tau-cao-toc-dam-nhau-khien-68-nguoi-chet-5138148.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Cảnh báo bị bỏ lỡ trong vụ hai tàu cao tốc đâm nhau khiến 68 người chết",
+    "description": "Dù lái tàu Iryo đã cảnh báo rằng tàu không chạy tiếp được, điều phối viên vẫn cho phép tàu AVE ở phía sau tăng tốc \"như bình thường\", gây va chạm.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/29/20261028t184308z1019256191mt1z-8650-6665-1793241142.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=D3OSXeitTKGESYrBO-dajA",
+    "link": "https://vnexpress.net/canh-bao-bi-bo-lo-trong-vu-hai-tau-cao-toc-dam-nhau-khien-68-nguoi-chet-5138148.html",
+    "published_at": "Thu, 29 Oct 2026 10:21:37 +0700",
+    "createAt": "2026-10-29T03:21:37.000Z",
+    "thumbnail_blurhash": "L78|;X~qxVafR.R.M|M{009GM|tQ"
+  },
+  {
+    "id": "https://vnexpress.net/tinh-bao-my-trung-quoc-se-som-dua-vu-khi-diet-ve-tinh-len-quy-dao-5138175.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Tình báo Mỹ: Trung Quốc sẽ sớm đưa vũ khí diệt vệ tinh lên quỹ đạo",
+    "description": "Tình báo Mỹ nhận định Trung Quốc có thể triển khai vũ khí năng lượng định hướng chuyên vô hiệu hóa vệ tinh đối phương trong vài năm tới.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/29/5563187178137269283b-179324102-6369-6981-1793241233.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Wk5sINQwDTGBLVz--vfiYg",
+    "link": "https://vnexpress.net/tinh-bao-my-trung-quoc-se-som-dua-vu-khi-diet-ve-tinh-len-quy-dao-5138175.html",
+    "published_at": "Thu, 29 Oct 2026 10:38:41 +0700",
+    "createAt": "2026-10-29T03:38:41.000Z",
+    "thumbnail_blurhash": "L98y;:VW0xo~GdZ}=EkX1*n}]gf,"
+  },
+  {
+    "id": "https://vnexpress.net/dong-minh-ong-trump-tu-nhan-la-lanh-dao-brazil-sau-khi-sang-my-5138215.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Đồng minh ông Trump tự nhận là 'lãnh đạo Brazil' sau khi sang Mỹ",
+    "description": "Sau khi cùng gia đình đến Mỹ, thượng nghị sĩ Flavio Bolsonaro tuyên bố mình là \"lãnh đạo Brazil\", dù đã thất bại trong cuộc bầu cử tổng thống.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/29/flavio-bolsonaro-1793243545-5541-1793243629.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=4VtqYb_L651eZqiGNHaq9w",
+    "link": "https://vnexpress.net/dong-minh-ong-trump-tu-nhan-la-lanh-dao-brazil-sau-khi-sang-my-5138215.html",
+    "published_at": "Thu, 29 Oct 2026 10:48:45 +0700",
+    "createAt": "2026-10-29T03:48:45.000Z",
+    "thumbnail_blurhash": "LdE{^Z%g-=sR?b%Mad%M_N%Me-j["
   }
 ]
