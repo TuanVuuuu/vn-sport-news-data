@@ -687,5 +687,31 @@
     "published_at": "Thu, 29 Oct 2026 17:10:21 +0700",
     "createAt": "2026-10-29T10:10:21.000Z",
     "thumbnail_blurhash": "L58Ntk-=4o_3~q%MRkWB00Mw-p9F"
+  },
+  {
+    "id": "https://vnexpress.net/co-van-cua-ba-melania-tiet-lo-buc-thu-tu-tong-thong-putin-5138420.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Cố vấn của bà Melania tiết lộ bức thư từ Tổng thống Putin",
+    "description": "Cố vấn Beckman cho biết Tổng thống Putin đã gửi thư bày tỏ \"rất mong muốn\" Đệ nhất phu nhân Mỹ đứng ra làm trung gian cho lệnh ngừng bắn Nga - Ukraine tại Oleshky.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/29/ap26297741822407-1793266942-9678-1793267074.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=F080HFRq9J9ntd5qNDIsrA",
+    "link": "https://vnexpress.net/co-van-cua-ba-melania-tiet-lo-buc-thu-tu-tong-thong-putin-5138420.html",
+    "published_at": "Thu, 29 Oct 2026 17:40:21 +0700",
+    "createAt": "2026-10-29T10:40:21.000Z",
+    "thumbnail_blurhash": "LAI;R~%PLg?H]x4mx@O?.TK6tk4o"
+  },
+  {
+    "id": "https://vnexpress.net/trung-quoc-xac-nhan-da-khai-tru-dang-33-quan-chuc-cap-cao-5138489.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Trung Quốc xác nhận đã khai trừ đảng 33 quan chức cấp cao",
+    "description": "Đảng Cộng sản Trung Quốc công bố danh sách quan chức bị khai trừ, trong đó có cựu ủy viên Bộ Chính trị và cựu phó chủ tịch Quân ủy Trung ương.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/29/khai-tru-dang-1793271074-3394-1793272210.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=9cRUCA33BkYI0H1_1-6JPA",
+    "link": "https://vnexpress.net/trung-quoc-xac-nhan-da-khai-tru-dang-33-quan-chuc-cap-cao-5138489.html",
+    "published_at": "Thu, 29 Oct 2026 18:41:52 +0700",
+    "createAt": "2026-10-29T11:41:52.000Z",
+    "thumbnail_blurhash": "LID8Uts:Q-Rj8_WBkrxa~WoLM_Rj"
   }
 ]
