@@ -700,5 +700,31 @@
     "published_at": "Fri, 30 Oct 2026 18:35:22 +0700",
     "createAt": "2026-10-30T11:35:22.000Z",
     "thumbnail_blurhash": "LhI5_HS$NIxu~XoM%Mof-;WAaeWA"
+  },
+  {
+    "id": "https://vnexpress.net/vi-sao-di-bo-deu-ma-can-van-khong-giam-5138924.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Vì sao đi bộ đều mà cân vẫn không giảm?",
+    "description": "Đi bộ hàng ngày giúp tăng tiêu hao năng lượng, song cân nặng có thể không thay đổi nếu cường độ vận động thấp, lượng ăn tăng hoặc tổng năng lượng tiêu hao chưa đủ.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/30/medium-vecteezy-fat-asian-woma-1479-7591-1793358965.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=QRPkLBqCVGDTsweoSgom7g",
+    "link": "https://vnexpress.net/vi-sao-di-bo-deu-ma-can-van-khong-giam-5138924.html",
+    "published_at": "Fri, 30 Oct 2026 20:00:00 +0700",
+    "createAt": "2026-10-30T13:00:00.000Z",
+    "thumbnail_blurhash": "LfLEM^-q4-tP~kRjIpayIpW.WAaL"
+  },
+  {
+    "id": "https://vnexpress.net/duong-toc-dung-cach-giup-giam-kho-xo-5138890.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Dưỡng tóc đúng cách giúp giảm khô xơ",
+    "description": "Điều chỉnh tần suất gội đầu, chọn sản phẩm dưỡng phù hợp và tập trung dầu xả ở thân, ngọn giúp giảm khô xơ mà vẫn giữ độ bồng bềnh cho tóc.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/30/image005-1793353824-7789-1793353887.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ybc-77R1yVcQf-BbpdHhFg",
+    "link": "https://vnexpress.net/duong-toc-dung-cach-giup-giam-kho-xo-5138890.html",
+    "published_at": "Fri, 30 Oct 2026 20:00:00 +0700",
+    "createAt": "2026-10-30T13:00:00.000Z",
+    "thumbnail_blurhash": "LVHVhIIU-o-:_MX7R*xusDxtaxM|"
   }
 ]
