@@ -401,5 +401,70 @@
     "published_at": "Fri, 30 Oct 2026 09:00:00 +0700",
     "createAt": "2026-10-30T02:00:00.000Z",
     "thumbnail_blurhash": "LJIr{oICE4Ng~1.4rqM{IWxZaJ%1"
+  },
+  {
+    "id": "https://vnexpress.net/cham-soc-da-tay-dung-cach-khi-thoi-tiet-kho-hanh-5138627.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Chăm sóc da tay đúng cách khi thời tiết khô hanh",
+    "description": "Dưỡng ẩm sau khi rửa tay, hạn chế tiếp xúc với chất tẩy rửa và lựa chọn kem dưỡng phù hợp giúp duy trì độ mềm mại của da tay khi thời tiết hanh khô.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/30/image001-1793325346-2996-1793325408.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Qzf_gywS7HIEY4gdhXR8Rg",
+    "link": "https://vnexpress.net/cham-soc-da-tay-dung-cach-khi-thoi-tiet-kho-hanh-5138627.html",
+    "published_at": "Fri, 30 Oct 2026 10:00:00 +0700",
+    "createAt": "2026-10-30T03:00:00.000Z",
+    "thumbnail_blurhash": "L8CjX:00@pMw^t11*}_3$ovy6K-:"
+  },
+  {
+    "id": "https://vnexpress.net/xong-la-uong-nuoc-gung-chanh-mat-ong-co-het-cum-5138618.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Xông lá, uống nước gừng, chanh mật ong có hết cúm?",
+    "description": "Tôi bị cúm, xông lá, uống nước gừng hoặc chanh mật ong nóng có nhanh khỏi bệnh không, nên lưu ý gì? (Hoài Nam, TP HCM)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/30/image001-1793324427-1312-1793324476.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Xd04UB27Q5tN0OYvFbCfVA",
+    "link": "https://vnexpress.net/xong-la-uong-nuoc-gung-chanh-mat-ong-co-het-cum-5138618.html",
+    "published_at": "Fri, 30 Oct 2026 10:00:00 +0700",
+    "createAt": "2026-10-30T03:00:00.000Z",
+    "thumbnail_blurhash": "LJPZM$^k%Lsm?W_Nt7Dht8%0R-JC"
+  },
+  {
+    "id": "https://vnexpress.net/lao-phoi-ton-thuong-nhieu-dot-song-5138586.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Lao phổi, tổn thương nhiều đốt sống",
+    "description": "Ông Tama, 73 tuổi, đau bụng, khó thở, đau ngực và cột sống, bác sĩ chẩn đoán hủy xương thân sống và đĩa đệm, màng phổi do lao.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/30/image001-1793319394-6683-1793319486.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=pkxijnTK8epDXsJU4nccVA",
+    "link": "https://vnexpress.net/lao-phoi-ton-thuong-nhieu-dot-song-5138586.html",
+    "published_at": "Fri, 30 Oct 2026 10:00:00 +0700",
+    "createAt": "2026-10-30T03:00:00.000Z",
+    "thumbnail_blurhash": "LLNm~IIAS$%h~pITIAS2s8X8NKel"
+  },
+  {
+    "id": "https://vnexpress.net/tu-my-ve-viet-nam-phau-thuat-viem-mui-hong-5138570.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Từ Mỹ về Việt Nam phẫu thuật viêm mũi họng",
+    "description": "Chị Sang, 32 tuổi, viêm mũi họng mạn tính, nay từ Mỹ về nước phẫu thuật \"3 trong 1\" chỉnh hình vách ngăn, phì đại cuốn mũi, cắt amidan.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/30/ba-o-1793322654-5130-1793322999.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=tQ79CYYNS7taF84bHsS88w",
+    "link": "https://vnexpress.net/tu-my-ve-viet-nam-phau-thuat-viem-mui-hong-5138570.html",
+    "published_at": "Fri, 30 Oct 2026 10:00:00 +0700",
+    "createAt": "2026-10-30T03:00:00.000Z",
+    "thumbnail_blurhash": "LdMa#N?Y?Fxt~TRnbKNL$^R-R:ob"
+  },
+  {
+    "id": "https://vnexpress.net/vi-sao-can-kiem-tra-lich-tiem-chung-dinh-ky-5137491.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Vì sao cần kiểm tra lịch tiêm chủng định kỳ?",
+    "description": "Rà soát tiền sử tiêm chủng định kỳ giúp phát hiện những mũi còn thiếu, cần bổ sung hoặc nhắc lại theo tuổi và tình trạng sức khỏe.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/30/anh-toan-canh-final-1793324635-7443-1793324722.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=7C_onfVkQh2CH3Gotg46RA",
+    "link": "https://vnexpress.net/vi-sao-can-kiem-tra-lich-tiem-chung-dinh-ky-5137491.html",
+    "published_at": "Fri, 30 Oct 2026 10:00:00 +0700",
+    "createAt": "2026-10-30T03:00:00.000Z",
+    "thumbnail_blurhash": "LVMXl@}BD$sq~Ws,M{jcGXOErrn%"
   }
 ]
