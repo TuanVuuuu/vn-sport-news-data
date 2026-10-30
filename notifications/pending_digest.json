@@ -1,3 +1,30 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/hon-264-ty-dong-chay-ve-tui-chu-tich-cay-xanh-cong-minh-the-nao-5138320.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Hơn 264 tỷ đồng 'chảy' về túi Chủ tịch Cây xanh Công Minh thế nào",
+      "description": "Nguyễn Công Minh bị cáo buộc hưởng lợi hơn 264 tỷ đồng từ cơ chế chia 10-15% giá trị hợp đồng sau khi trúng thầu, rồi dùng tiền cho ngoại giao, mua bất động sản và đầu tư chứng khoán.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/29/dong-tien-1793268254-9770-1793268726.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=cc-jTkAOXh4vDUkIwHaQjA",
+      "link": "https://vnexpress.net/hon-264-ty-dong-chay-ve-tui-chu-tich-cay-xanh-cong-minh-the-nao-5138320.html",
+      "published_at": "Fri, 30 Oct 2026 06:00:00 +0700",
+      "createAt": "2026-10-29T23:00:00.000Z",
+      "thumbnail_blurhash": "LHQ,UP_3%M-;~qM{xut7%Mt7ofay"
+    },
+    {
+      "id": "https://vnexpress.net/giam-doc-bayern-toi-nam-luon-o-nha-kompany-de-bat-cau-ay-ky-hop-dong-5138549.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Giám đốc Bayern: 'Tôi nằm luôn ở nhà Kompany để bắt cậu ấy ký hợp đồng'",
+      "description": "Trong cuộc phỏng vấn với tạp chí \"51\" số ra mới nhất của Bayern Munich, Giám đốc Điều hành Thể thao Max Eberl chia sẻ về Harry Kane, Michael Olise, cũng như cơ duyên đưa Vincent Kompany đến Munich.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/10/29/f5baa23c8a94440695baabaf9180ce-2814-1617-1793290625.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=igvtvUs7wwjy6_0bzmpBFQ",
+      "link": "https://vnexpress.net/giam-doc-bayern-toi-nam-luon-o-nha-kompany-de-bat-cau-ay-ky-hop-dong-5138549.html",
+      "published_at": "Fri, 30 Oct 2026 06:39:49 +0700",
+      "createAt": "2026-10-29T23:39:49.000Z",
+      "thumbnail_blurhash": "LDDIRurDPqogQ=.70|t6NL9ZbqjF"
+    }
+  ]
 }
