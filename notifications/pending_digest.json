@@ -1,6 +1,19 @@
 {
   "featured": [
     {
+      "id": "https://vnexpress.net/cuu-cong-an-khai-ca-ne-nen-nhan-2-57-ty-dong-chay-giam-dinh-tam-than-cho-mr-pips-5138536.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Cựu công an khai cả nể nên nhận 2,57 tỷ đồng 'chạy' giám định tâm thần cho Mr Pips",
+      "description": "Cựu công an Nguyễn Đăng Quang khai vì cả nể nên nhận 2,57 tỷ đồng để nhờ một người khác chạy giám định tâm thần cho Mr Pips, song chưa giúp được gì đã bị bắt.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/29/1-jpeg-1793285370-9535-1793285405.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=P3zYauKas6ug5f-DK6z54Q",
+      "link": "https://vnexpress.net/cuu-cong-an-khai-ca-ne-nen-nhan-2-57-ty-dong-chay-giam-dinh-tam-than-cho-mr-pips-5138536.html",
+      "published_at": "Fri, 30 Oct 2026 05:18:00 +0700",
+      "createAt": "2026-10-29T22:18:00.000Z",
+      "thumbnail_blurhash": "L5A^B[-o004oUuXAOaM^_NDikD.8"
+    },
+    {
       "id": "https://vnexpress.net/hon-264-ty-dong-chay-ve-tui-chu-tich-cay-xanh-cong-minh-the-nao-5138320.html",
       "category_id": "featured",
       "category_name": "Tin nổi bật",
@@ -25,6 +38,32 @@
       "published_at": "Fri, 30 Oct 2026 06:39:49 +0700",
       "createAt": "2026-10-29T23:39:49.000Z",
       "thumbnail_blurhash": "LDDIRurDPqogQ=.70|t6NL9ZbqjF"
+    },
+    {
+      "id": "https://vnexpress.net/meo-mat-vi-nhan-ban-giao-chung-cu-som-5138423.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Méo mặt vì nhận bàn giao chung cư sớm",
+      "description": "Bất ngờ nhận thông báo bàn giao nhà sớm hơn 4 tháng, anh Toàn hạ giá rao bán hai căn chung cư, chấp nhận lỗ để thoát áp lực trả gần 50% giá trị còn lại.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/30/chungcu-1793321985-4240-1793322559.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=vSKbWhNxXcdbxhktDnqm3g",
+      "link": "https://vnexpress.net/meo-mat-vi-nhan-ban-giao-chung-cu-som-5138423.html",
+      "published_at": "Fri, 30 Oct 2026 08:26:07 +0700",
+      "createAt": "2026-10-30T01:26:07.000Z",
+      "thumbnail_blurhash": "LyE{^Wxuayt7.Aogayog%gWVayWV"
+    },
+    {
+      "id": "https://vnexpress.net/binance-bi-hack-chuyen-di-khoan-tien-so-tri-gia-5-7-ty-usd-5138609.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Binance bị hack, chuyển đi khoản tiền số trị giá 5,7 tỷ USD",
+      "description": "Binance đang điều tra sự cố an ninh sau khi các ví liên quan chuyển đi lượng tài sản trị giá 5,7 tỷ USD, có thể trở thành vụ tấn công lớn nhất lịch sử tiền số.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/30/wm1-wm1-dong-xu-bieu-tuong-bitcoin-2916-8238-1793324990.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=nqK8U3CdN4F2i0DYdkDb8g",
+      "link": "https://vnexpress.net/binance-bi-hack-chuyen-di-khoan-tien-so-tri-gia-5-7-ty-usd-5138609.html",
+      "published_at": "Fri, 30 Oct 2026 08:38:43 +0700",
+      "createAt": "2026-10-30T01:38:43.000Z",
+      "thumbnail_blurhash": "L8A9DmxY09WEs.s.jtR,0kWW}pkA"
     }
   ]
 }
