@@ -1,5 +1,5 @@
 {
-  "total_articles": 2273,
+  "total_articles": 2275,
   "files": [
     "chunk_1.json",
     "chunk_2.json",
@@ -32,7 +32,7 @@
     "copyright": "",
     "logo_url": "https://s.vnecdn.net/vnexpress/i/v20/logos/vne_logo_rss.png",
     "link": "https://vnexpress.net/rss/kinh-doanh.rss",
-    "last_updated": "Fri, 30 Oct 2026 13:31:29 +0700"
+    "last_updated": "Fri, 30 Oct 2026 15:31:33 +0700"
   },
-  "last_updated": "2026-10-30T08:31:33.217Z"
+  "last_updated": "2026-10-30T08:41:12.806Z"
 }
