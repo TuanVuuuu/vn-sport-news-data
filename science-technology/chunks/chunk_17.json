@@ -700,5 +700,44 @@
     "published_at": "Fri, 30 Oct 2026 08:00:00 +0700",
     "createAt": "2026-10-30T01:00:00.000Z",
     "thumbnail_blurhash": "LFDc@0tR00.A?XIT%gx@xwNMobRi"
+  },
+  {
+    "id": "https://vnexpress.net/startup-my-dung-tac-nhan-ai-xam-nhap-he-thong-anthropic-5138480.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Startup Mỹ dùng tác nhân AI xâm nhập hệ thống Anthropic",
+    "description": "Startup Cathedral tìm được đường truy cập dữ liệu của Anthropic trong chưa đầy 12 tiếng, làm dấy lên lo ngại về an ninh tại các công ty AI.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/29/dsc03639jpg-1793269353-7982-1793269701.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=pizEz23Q7QFQocZGrTJEJw",
+    "link": "https://vnexpress.net/startup-my-dung-tac-nhan-ai-xam-nhap-he-thong-anthropic-5138480.html",
+    "published_at": "Fri, 30 Oct 2026 08:24:06 +0700",
+    "createAt": "2026-10-30T01:24:06.000Z",
+    "thumbnail_blurhash": "LgK15p#Q0LNbPqD*rWtRTKR,iwoz"
+  },
+  {
+    "id": "https://vnexpress.net/rassvet-mang-luoi-ve-tinh-nga-thach-thuc-starlink-5138450.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Rassvet - mạng lưới vệ tinh Nga thách thức Starlink",
+    "description": "Nga đang đẩy nhanh tốc độ xây dựng mạng lưới vệ tinh Internet Rassvet tốc độ 1 gigabit/giây cho cả mục đích dân sự và quân sự.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/29/VNESat1-1793265931-2727-1793266073.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=QnWY9_1-lNEXbbhQUPMHIg",
+    "link": "https://vnexpress.net/rassvet-mang-luoi-ve-tinh-nga-thach-thuc-starlink-5138450.html",
+    "published_at": "Fri, 30 Oct 2026 08:34:47 +0700",
+    "createAt": "2026-10-30T01:34:47.000Z",
+    "thumbnail_blurhash": "LD7CBa=|=_.myGs.skxWM+R%R$R4"
+  },
+  {
+    "id": "https://vnexpress.net/binance-bi-hack-chuyen-di-khoan-tien-so-tri-gia-5-7-ty-usd-5138609.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Binance bị hack, chuyển đi khoản tiền số trị giá 5,7 tỷ USD",
+    "description": "Binance đang điều tra sự cố an ninh sau khi các ví liên quan chuyển đi lượng tài sản trị giá 5,7 tỷ USD, có thể trở thành vụ tấn công lớn nhất lịch sử tiền số.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/30/wm1-wm1-dong-xu-bieu-tuong-bitcoin-2916-8238-1793324990.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=nqK8U3CdN4F2i0DYdkDb8g",
+    "link": "https://vnexpress.net/binance-bi-hack-chuyen-di-khoan-tien-so-tri-gia-5-7-ty-usd-5138609.html",
+    "published_at": "Fri, 30 Oct 2026 08:38:43 +0700",
+    "createAt": "2026-10-30T01:38:43.000Z",
+    "thumbnail_blurhash": "L8A9DmxY09WEs.s.jtR,0kWW}pkA"
   }
 ]
