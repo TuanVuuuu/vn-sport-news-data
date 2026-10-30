@@ -752,5 +752,44 @@
     "published_at": "Fri, 30 Oct 2026 10:02:45 +0700",
     "createAt": "2026-10-30T03:02:45.000Z",
     "thumbnail_blurhash": "LeK370B6PVRN?dxuxaR+oJxYoJX9"
+  },
+  {
+    "id": "https://vnexpress.net/binance-bi-hack-chuyen-di-khoan-tien-so-tri-gia-khoang-6-ty-usd-5138609.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Binance bị hack, chuyển đi khoản tiền số trị giá khoảng 6 tỷ USD",
+    "description": "Binance đang điều tra sự cố an ninh sau khi các ví liên quan chuyển đi lượng tài sản ước tính ban đầu khoảng 5,78 tỷ USD, có thể trở thành vụ tấn công lớn nhất lịch sử tiền số.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/30/wm1-wm1-dong-xu-bieu-tuong-bitcoin-2916-8238-1793324990.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=nqK8U3CdN4F2i0DYdkDb8g",
+    "link": "https://vnexpress.net/binance-bi-hack-chuyen-di-khoan-tien-so-tri-gia-khoang-6-ty-usd-5138609.html",
+    "published_at": "Fri, 30 Oct 2026 08:38:43 +0700",
+    "createAt": "2026-10-30T01:38:43.000Z",
+    "thumbnail_blurhash": "L8A9DmxY09WEs.s.jtR,0kWW}pkA"
+  },
+  {
+    "id": "https://vnexpress.net/vu-hack-ty-usd-cua-binance-co-the-do-laptop-ky-su-bi-xam-nhap-5138683.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Vụ hack tỷ USD của Binance có thể do laptop kỹ sư bị xâm nhập",
+    "description": "Binance xác nhận vụ tấn công gây ảnh hưởng đến 6,3 tỷ USD của sàn, có thể xuất phát từ laptop của một kỹ sư DevOps bị xâm nhập.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/30/wm1-wm1-img-jpg-1793332350-4028-1793332409.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=9sLbNINIaBc_A9D0Hw4HgA",
+    "link": "https://vnexpress.net/vu-hack-ty-usd-cua-binance-co-the-do-laptop-ky-su-bi-xam-nhap-5138683.html",
+    "published_at": "Fri, 30 Oct 2026 10:54:40 +0700",
+    "createAt": "2026-10-30T03:54:40.000Z",
+    "thumbnail_blurhash": "LKGbV=rB00xx0:%j^m9tA3pKsiM^"
+  },
+  {
+    "id": "https://vnexpress.net/mo-hinh-ai-trung-quoc-co-the-thuc-hien-tan-cong-mang-phuc-tap-5138529.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Mô hình AI Trung Quốc có thể thực hiện tấn công mạng phức tạp",
+    "description": "Mô hình AI hàng đầu của công ty Z.AI thực hiện thành công cuộc tấn công mạng phức tạp trong môi trường giả lập và nhiều lần phớt lờ chỉ dẫn an toàn ở bài kiểm tra riêng biệt.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/29/dsc04678-jpg-1793282921-4841-1793282927.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=kUun8BdIZ3y0yec6BUuYXg",
+    "link": "https://vnexpress.net/mo-hinh-ai-trung-quoc-co-the-thuc-hien-tan-cong-mang-phuc-tap-5138529.html",
+    "published_at": "Fri, 30 Oct 2026 12:00:00 +0700",
+    "createAt": "2026-10-30T05:00:00.000Z",
+    "thumbnail_blurhash": "LXIFf7~V000KyEi_xvt7VqR:o#nM"
   }
 ]
