@@ -271,5 +271,44 @@
     "published_at": "Fri, 30 Oct 2026 06:00:00 +0700",
     "createAt": "2026-10-29T23:00:00.000Z",
     "thumbnail_blurhash": "LEDu^~AD00$~Sufj$SRk00xZ~CNI"
+  },
+  {
+    "id": "https://vnexpress.net/quy-tac-2-gio-tu-than-khi-bao-quan-thuc-an-thua-5138106.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Quy tắc 2 giờ 'tử thần' khi bảo quản thức ăn thừa",
+    "description": "Thức ăn thừa có thể hâm lại nhiều lần nếu chưa để ngoài nhiệt độ phòng quá 2 giờ cộng dồn, bảo quản mát dưới 3 ngày và đun nóng lại tối thiểu 74 độ C.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/29/screenshot-at-1793230756-6125-1793231320.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=qDYCzpLWns42ce-pAH3p7g",
+    "link": "https://vnexpress.net/quy-tac-2-gio-tu-than-khi-bao-quan-thuc-an-thua-5138106.html",
+    "published_at": "Fri, 30 Oct 2026 05:00:00 +0700",
+    "createAt": "2026-10-29T22:00:00.000Z",
+    "thumbnail_blurhash": "LLJH%O00IuMb?bIVNcEMyZRi-Oxa"
+  },
+  {
+    "id": "https://vnexpress.net/an-sua-chua-luc-nao-la-tot-nhat-cho-duong-ruot-5138122.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Ăn sữa chua lúc nào là tốt nhất cho đường ruột?",
+    "description": "Ăn sữa chua bất kỳ lúc nào cũng tốt cho đường ruột, quan trọng nhất là dùng đều đặn mỗi ngày và kết hợp thực phẩm giàu chất xơ prebiotic.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/29/screenshot-at-1793234384-8480-1793234583.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=QPrL91JHphkInpRWF7XJSg",
+    "link": "https://vnexpress.net/an-sua-chua-luc-nao-la-tot-nhat-cho-duong-ruot-5138122.html",
+    "published_at": "Fri, 30 Oct 2026 07:32:10 +0700",
+    "createAt": "2026-10-30T00:32:10.000Z",
+    "thumbnail_blurhash": "LFEolF0100s;~pIVs8IV00-;?aIU"
+  },
+  {
+    "id": "https://vnexpress.net/chang-trai-mac-chung-roi-loan-hoang-so-5138573.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Chàng trai mắc chứng rối loạn hoảng sợ",
+    "description": "Hoàng, 20 tuổi, xuất hiện cơn run toàn thân kèm thở dốc, buồn nôn, bác sĩ chẩn đoán mắc chứng rối loạn hoảng sợ.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/30/pr-ko-logo-1793314900-4035-1793317843.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=yqGs6bi5qSnneWiesfXR3g",
+    "link": "https://vnexpress.net/chang-trai-mac-chung-roi-loan-hoang-so-5138573.html",
+    "published_at": "Fri, 30 Oct 2026 08:00:00 +0700",
+    "createAt": "2026-10-30T01:00:00.000Z",
+    "thumbnail_blurhash": "LtL|=c~qIUx]?vtRV@%MWBnhRjtR"
   }
 ]
