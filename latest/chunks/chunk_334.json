@@ -1246,5 +1246,57 @@
     "published_at": "Sat, 31 Oct 2026 04:00:00 +0700",
     "createAt": "2026-10-30T21:00:00.000Z",
     "thumbnail_blurhash": "LeGA]WpZYgrr*0eoa6WU}^nmn7ax"
+  },
+  {
+    "id": "https://vnexpress.net/hieu-pho-dai-hoc-danh-tieng-my-tu-chuc-sau-be-boi-dung-ai-5138944.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Hiệu phó đại học danh tiếng Mỹ từ chức sau bê bối dùng AI",
+    "description": "Santiago Schnell, hiệu phó phụ trách học thuật của Đại học Dartmouth, từ chức sau khi bị \"khui\" dùng AI gần như 100% để viết các bài nghiên cứu, bình luận.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/30/schnell-1793362248-2350-1793363638.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=1ffy8v5NzUhArMPXGi2exw",
+    "link": "https://vnexpress.net/hieu-pho-dai-hoc-danh-tieng-my-tu-chuc-sau-be-boi-dung-ai-5138944.html",
+    "published_at": "Sat, 31 Oct 2026 00:02:00 +0700",
+    "createAt": "2026-10-30T17:02:00.000Z",
+    "thumbnail_blurhash": "LQH.HA_N56xaNF.8?baes9D*M{oe"
+  },
+  {
+    "id": "https://vnexpress.net/bon-nam-xay-dung-dinh-doc-lap-qua-anh-tu-lieu-5138776.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Bốn năm xây dựng Dinh Độc Lập qua ảnh tư liệu",
+    "description": "Khoảng 100 bản vẽ thiết kế, hình ảnh quá trình hơn 4 năm thiết kế, xây dựng Dinh Độc Lập được trưng bày nhân dịp kỷ niệm 60 năm công trình khánh thành (31/10/1966 - 31/10/2026).",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/30/bcv-1793354880.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=19oXpx0kxxVeDaSIUO_8kw",
+    "link": "https://vnexpress.net/bon-nam-xay-dung-dinh-doc-lap-qua-anh-tu-lieu-5138776.html",
+    "published_at": "Sat, 31 Oct 2026 05:00:00 +0700",
+    "createAt": "2026-10-30T22:00:00.000Z",
+    "thumbnail_blurhash": "LPDvf%WAofj[-;oMofof~qj[a|of"
+  },
+  {
+    "id": "https://vnexpress.net/ben-trong-chien-dich-lap-la-chan-hormuz-cua-hai-quan-my-5138764.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Bên trong chiến dịch lập lá chắn Hormuz của hải quân Mỹ",
+    "description": "Hải quân Mỹ đang phải gồng mình vượt qua khó khăn để duy trì lá chắn bảo vệ dòng dầu qua Hormuz trước sức ép không ngừng từ Iran.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/30/anh7-1793350969-2838-1793352818.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=HGST6g8HvAP5eH61HAFvEg",
+    "link": "https://vnexpress.net/ben-trong-chien-dich-lap-la-chan-hormuz-cua-hai-quan-my-5138764.html",
+    "published_at": "Sat, 31 Oct 2026 05:00:00 +0700",
+    "createAt": "2026-10-30T22:00:00.000Z",
+    "thumbnail_blurhash": "LG9%r0%Mj[%M~q%Mxuxu?vxaoLxu"
+  },
+  {
+    "id": "https://vnexpress.net/github-phai-bo-sung-bon-trieu-nhan-cpu-vi-bao-code-ai-5138530.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "GitHub phải bổ sung bốn triệu nhân CPU vì 'bão code AI'",
+    "description": "GitHub, nền tảng lưu trữ mã nguồn lớn nhất thế giới, cho biết phải bổ sung bốn triệu nhân CPU và 160 PB lưu trữ chỉ trong một năm vì lượng mã do AI tạo ra tăng vọt.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/29/ai-codex-1793283030-9427-1793283069.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=DOY6AdiJzZAyeCY_QdqmBQ",
+    "link": "https://vnexpress.net/github-phai-bo-sung-bon-trieu-nhan-cpu-vi-bao-code-ai-5138530.html",
+    "published_at": "Sat, 31 Oct 2026 05:00:00 +0700",
+    "createAt": "2026-10-30T22:00:00.000Z",
+    "thumbnail_blurhash": "LFAm6*9t9Y~D%2jFRkt6I;xFt7Rk"
   }
 ]
