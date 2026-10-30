@@ -1,5 +1,5 @@
 {
-  "total_articles": 3001,
+  "total_articles": 3002,
   "files": [
     "chunk_1.json",
     "chunk_2.json",
@@ -40,7 +40,7 @@
     "copyright": "",
     "logo_url": "https://s.vnecdn.net/vnexpress/i/v20/logos/vne_logo_rss.png",
     "link": "https://vnexpress.net/rss/the-thao.rss",
-    "last_updated": "Fri, 30 Oct 2026 13:40:47 +0700"
+    "last_updated": "Fri, 30 Oct 2026 16:10:52 +0700"
   },
-  "last_updated": "2026-10-30T09:10:52.015Z"
+  "last_updated": "2026-10-30T09:20:54.271Z"
 }
