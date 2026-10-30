@@ -791,5 +791,44 @@
     "published_at": "Fri, 30 Oct 2026 12:00:00 +0700",
     "createAt": "2026-10-30T05:00:00.000Z",
     "thumbnail_blurhash": "LXIFf7~V000KyEi_xvt7VqR:o#nM"
+  },
+  {
+    "id": "https://vnexpress.net/viet-nam-nhat-ban-ban-cach-giam-sat-ai-5138750.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Việt Nam, Nhật Bản bàn cách giám sát AI",
+    "description": "Việt Nam và Nhật Bản cùng nhấn mạnh việc đánh giá rủi ro, kiểm thử an toàn và giám sát AI trong quá trình vận hành, thay vì chỉ dựa vào các nguyên tắc quản trị.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/30/wm1-wm1-0cb08219cebee9746-jpeg-179-3316-3776-1793344900.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=A8_Wmfj10Bz_BH-sxY6fLQ",
+    "link": "https://vnexpress.net/viet-nam-nhat-ban-ban-cach-giam-sat-ai-5138750.html",
+    "published_at": "Fri, 30 Oct 2026 14:22:18 +0700",
+    "createAt": "2026-10-30T07:22:18.000Z",
+    "thumbnail_blurhash": "L@C^GExWpInOYkOZRQkWa_jYn$bv"
+  },
+  {
+    "id": "https://vnexpress.net/meta-ra-tu-quan-ao-ao-giup-nguoi-dung-phoi-do-5138729.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Meta ra 'tủ quần áo ảo' giúp người dùng phối đồ",
+    "description": "Style Sketch, ứng dụng AI của Meta, giúp người dùng phối đồ, thử nghiệm phong cách thời trang và gợi ý trang phục phù hợp cho từng hoạt động.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/30/metastylesketch-1793334478-8477-1793334672.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=ABo1G7pXLmV4yk8hfX2J5g",
+    "link": "https://vnexpress.net/meta-ra-tu-quan-ao-ao-giup-nguoi-dung-phoi-do-5138729.html",
+    "published_at": "Fri, 30 Oct 2026 14:31:22 +0700",
+    "createAt": "2026-10-30T07:31:22.000Z",
+    "thumbnail_blurhash": "LJLqb0~q00xt-;jZRjbH00IU4oIU"
+  },
+  {
+    "id": "https://vnexpress.net/dong-cong-binh-chon-quat-tran-cong-nghe-noi-bat-duoc-yeu-thich-5138550.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Đóng cổng bình chọn quạt trần công nghệ nổi bật được yêu thích",
+    "description": "Số bình chọn thứ năm của Sản phẩm tôi yêu 2026, với chủ đề quạt trần công nghệ nổi bật được yêu thích, sẽ đóng vào 23h59 ngày 30/10.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/30/ad8ffc5ac2c2d-a787a3c963e3d3-j-7646-8411-1793294813.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=wOykrafOSRB_eztw99n37A",
+    "link": "https://vnexpress.net/dong-cong-binh-chon-quat-tran-cong-nghe-noi-bat-duoc-yeu-thich-5138550.html",
+    "published_at": "Fri, 30 Oct 2026 15:00:00 +0700",
+    "createAt": "2026-10-30T08:00:00.000Z",
+    "thumbnail_blurhash": "LWKBRL~S4p04tTX9a$s;M}a#oJs,"
   }
 ]
