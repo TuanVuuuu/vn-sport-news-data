@@ -921,5 +921,44 @@
     "published_at": "Sat, 31 Oct 2026 10:00:00 +0700",
     "createAt": "2026-10-31T03:00:00.000Z",
     "thumbnail_blurhash": "LAGuKx]p4}lh_NcE$wvh03XRxnMf"
+  },
+  {
+    "id": "https://vnexpress.net/4-dieu-nen-tranh-khi-mat-do-ngua-5139036.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "4 điều nên tránh khi mắt đỏ, ngứa",
+    "description": "Người bị đỏ, ngứa mắt tránh dụi mắt, không tự mua thuốc nhỏ và dùng chung khăn để tránh tình trạng nặng hơn.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/31/vne-1793412540-9336-1793412631.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=vQluEkOAAsyKFV4eUVJayQ",
+    "link": "https://vnexpress.net/4-dieu-nen-tranh-khi-mat-do-ngua-5139036.html",
+    "published_at": "Sat, 31 Oct 2026 11:00:00 +0700",
+    "createAt": "2026-10-31T04:00:00.000Z",
+    "thumbnail_blurhash": "LAHLMK00};?bX.0$ELELEKN}9G-U"
+  },
+  {
+    "id": "https://vnexpress.net/vi-sao-viem-hong-nhieu-tuan-khong-khoi-5139024.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Vì sao viêm họng nhiều tuần không khỏi?",
+    "description": "Tôi viêm họng hơn ba tuần, đã uống thuốc, thường xuyên súc họng và rửa mũi nhưng chưa hết. Nguyên nhân, điều trị thế nào? (Thu Hằng, 45 tuổi, TP HCM)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/31/2-1793411651-7910-1793412076.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=M4SThCHiO3QXrF5MMs83ZQ",
+    "link": "https://vnexpress.net/vi-sao-viem-hong-nhieu-tuan-khong-khoi-5139024.html",
+    "published_at": "Sat, 31 Oct 2026 11:00:00 +0700",
+    "createAt": "2026-10-31T04:00:00.000Z",
+    "thumbnail_blurhash": "LeMtp.?HtStR~ps,9FkDo#MwRPjF"
+  },
+  {
+    "id": "https://vnexpress.net/ca-tay-chan-mieng-tang-tp-hcm-bao-dong-nguy-co-dich-lan-trong-truong-hoc-5139075.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Ca tay chân miệng tăng, TP HCM báo động nguy cơ dịch lan trong trường học",
+    "description": "TP HCM ghi nhận hơn 44.000 ca tay chân miệng từ đầu năm, tăng hơn 65% so với cùng kỳ năm ngoái, trong bối cảnh virus EV71 lưu hành và dịch có nguy cơ lan tại trường học, nhóm trẻ.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/31/tay-cha-n-mie-ng-1793415691-5857-1793415707.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=aLngyg14br6rBpKSNdcC6Q",
+    "link": "https://vnexpress.net/ca-tay-chan-mieng-tang-tp-hcm-bao-dong-nguy-co-dich-lan-trong-truong-hoc-5139075.html",
+    "published_at": "Sat, 31 Oct 2026 11:04:18 +0700",
+    "createAt": "2026-10-31T04:04:18.000Z",
+    "thumbnail_blurhash": "LKGlL@X7NG~qxtaKRPIn%gRjD%Io"
   }
 ]
