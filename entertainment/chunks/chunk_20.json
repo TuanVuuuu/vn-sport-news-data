@@ -947,5 +947,31 @@
     "published_at": "Sat, 31 Oct 2026 00:00:00 +0700",
     "createAt": "2026-10-30T17:00:00.000Z",
     "thumbnail_blurhash": "LXJk4a~C%N.7pdyE%Mi_R:ningbb"
+  },
+  {
+    "id": "https://vnexpress.net/hom-nay-dong-cong-nhan-bai-thi-song-ruc-ro-5135715.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Hôm nay đóng cổng nhận bài thi 'Sống rực rỡ'",
+    "description": "Cuộc thi Sáng tạo nội dung số \"Sống rực rỡ\" nhận tác phẩm ở ba hạng mục video, ảnh và bài viết đến 12h ngày 31/10, trước khi bước vào vòng sơ loại và chung kết.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/10/31/kho-ng-co-tie-u-de-sds23-17933-6151-8089-1793383120.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=SxkypcAyfE4gzM0W3A1zyg",
+    "link": "https://vnexpress.net/hom-nay-dong-cong-nhan-bai-thi-song-ruc-ro-5135715.html",
+    "published_at": "Sat, 31 Oct 2026 08:05:49 +0700",
+    "createAt": "2026-10-31T01:05:49.000Z",
+    "thumbnail_blurhash": "L3J8Im4T4s~T00?GZg-q008_?w00"
+  },
+  {
+    "id": "https://vnexpress.net/ve-dep-hoa-khoi-truong-bao-thi-hoa-hau-viet-nam-5138727.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Vẻ đẹp hoa khôi trường Báo thi Hoa hậu Việt Nam",
+    "description": "Nguyễn Thục Uyên Nhi, hoa khôi Học viện Báo chí và Tuyên truyền, cao 1,75 m, gương mặt ngọt ngào.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/10/30/nguyen-thuc-uyen-nhi-1793353744.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=NrFgB0lCcO3v4rsG5T8mMw",
+    "link": "https://vnexpress.net/ve-dep-hoa-khoi-truong-bao-thi-hoa-hau-viet-nam-5138727.html",
+    "published_at": "Sat, 31 Oct 2026 08:36:08 +0700",
+    "createAt": "2026-10-31T01:36:08.000Z",
+    "thumbnail_blurhash": "LzJuyME9pfx^tnfljYWBjwRnRkRl"
   }
 ]
