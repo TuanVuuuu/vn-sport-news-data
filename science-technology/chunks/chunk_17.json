@@ -1025,5 +1025,31 @@
     "published_at": "Sat, 31 Oct 2026 15:30:00 +0700",
     "createAt": "2026-10-31T08:30:00.000Z",
     "thumbnail_blurhash": "LlL}Kfw^~qXl%zo~j]xCw}nhV@WF"
+  },
+  {
+    "id": "https://vnexpress.net/nhan-vien-openai-anthropic-giau-danh-tinh-vi-lo-sap-bay-5138555.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Nhân viên OpenAI, Anthropic giấu danh tính vì lo 'sập bẫy'",
+    "description": "Nhân viên OpenAI, Anthropic được hướng dẫn giấu danh tính nơi công cộng, đề phòng thủ đoạn moi thông tin như nghe lén hay lợi dụng tình cảm.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/30/DSC00362JPG-1793298865-6992-1793299809.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=QdAMAjSntgQUEO2a8-jCFw",
+    "link": "https://vnexpress.net/nhan-vien-openai-anthropic-giau-danh-tinh-vi-lo-sap-bay-5138555.html",
+    "published_at": "Sat, 31 Oct 2026 16:30:00 +0700",
+    "createAt": "2026-10-31T09:30:00.000Z",
+    "thumbnail_blurhash": "LSI}V9Di02%1uPRPxGt69~WAw^%2"
+  },
+  {
+    "id": "https://vnexpress.net/zte-muon-hop-tac-voi-viet-nam-ve-5g-kinh-te-tam-thap-5139175.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "ZTE muốn hợp tác với Việt Nam về 5G, kinh tế tầm thấp",
+    "description": "ZTE mong muốn hợp tác với Việt Nam trong ứng dụng 5G, phát triển kinh tế tầm thấp, đào tạo nhân lực và chuyển giao kinh nghiệm kỹ thuật.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/31/zte1-1793438246-5156-1793438257.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=mWDiDMTw2GuS9KLKo_jhLQ",
+    "link": "https://vnexpress.net/zte-muon-hop-tac-voi-viet-nam-ve-5g-kinh-te-tam-thap-5139175.html",
+    "published_at": "Sat, 31 Oct 2026 16:40:01 +0700",
+    "createAt": "2026-10-31T09:40:01.000Z",
+    "thumbnail_blurhash": "LwCa1MbInfs*NlbIoHf6Nioea%WZ"
   }
 ]
