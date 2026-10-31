@@ -1,6 +1,32 @@
 {
   "featured": [
     {
+      "id": "https://vnexpress.net/mr-pips-khong-ai-tu-nhan-minh-di-lua-dao-truoc-cong-an-5138847.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Mr Pips: Không ai tự nhận mình đi lừa đảo trước công an",
+      "description": "Trước cáo buộc chi 6,4 tỷ đồng cho hai công an, một luật sư để duy trì tổ tư vấn, Mr Pips nói chỉ là giữ quan hệ, họ không biết anh ta điều hành đế chế làm ăn phi pháp, vì \"không ai tự nhận mình đi lừa đảo trước công an rồi lại nhờ giúp\".",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/30/1-jpeg-1793351034-6132-1793351453.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=RYb0IcSUKLSDHuajyvRHKA",
+      "link": "https://vnexpress.net/mr-pips-khong-ai-tu-nhan-minh-di-lua-dao-truoc-cong-an-5138847.html",
+      "published_at": "Sat, 31 Oct 2026 00:00:00 +0700",
+      "createAt": "2026-10-30T17:00:00.000Z",
+      "thumbnail_blurhash": "L9D]6w~CE1Rj|;xDWBxb-;%Mn~ax"
+    },
+    {
+      "id": "https://vnexpress.net/hanh-trinh-chinh-phuc-cong-vao-tam-trai-dat-5138934.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Hành trình chinh phục 'cổng vào tâm Trái Đất'",
+      "description": "Đoàn thám hiểm 11 người đã trải qua 8 ngày chìm trong bóng tối vĩnh cửu, chịu đựng nhiệt độ 3 độ C và độ ẩm bão hòa để chinh phục đáy hang Krubera sâu nhất thế giới.",
+      "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/10/30/nguonthetravel-1793360782-3256-1793361218.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=UVgOtiG1O3RAB7Khp0wu8Q",
+      "link": "https://vnexpress.net/hanh-trinh-chinh-phuc-cong-vao-tam-trai-dat-5138934.html",
+      "published_at": "Sat, 31 Oct 2026 00:00:00 +0700",
+      "createAt": "2026-10-30T17:00:00.000Z",
+      "thumbnail_blurhash": "L18:|+R$0K?c~XM|?HxvV@%M0KV?"
+    },
+    {
       "id": "https://vnexpress.net/hieu-pho-dai-hoc-danh-tieng-my-tu-chuc-sau-be-boi-dung-ai-5138944.html",
       "category_id": "featured",
       "category_name": "Tin nổi bật",
@@ -38,6 +64,45 @@
       "published_at": "Sat, 31 Oct 2026 06:38:01 +0700",
       "createAt": "2026-10-30T23:38:01.000Z",
       "thumbnail_blurhash": "L89G%PKk0#}X}[M{JB-A-Wt8M{sl"
+    },
+    {
+      "id": "https://vnexpress.net/rac-tu-long-tom-hum-bua-vay-bo-bien-cam-ranh-5138277.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Rác từ lồng tôm hùm bủa vây bờ biển Cam Ranh",
+      "description": "Rác thải từ lồng nuôi tôm hùm tích tụ dọc bờ biển Cam Ranh, nhiều thời điểm bốc mùi hôi, ảnh hưởng môi trường, du lịch địa phương.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/29/longbe-1793270788-5772-1793271141.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=qmaGmHqLqr-qJggqFK620g",
+      "link": "https://vnexpress.net/rac-tu-long-tom-hum-bua-vay-bo-bien-cam-ranh-5138277.html",
+      "published_at": "Sat, 31 Oct 2026 08:00:00 +0700",
+      "createAt": "2026-10-31T01:00:00.000Z",
+      "thumbnail_blurhash": "LxE;7VWBr=of?dV[kCkC%4ozoyf7"
+    },
+    {
+      "id": "https://vnexpress.net/co-phieu-intel-giam-manh-nhat-50-nam-5139027.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Cổ phiếu Intel giảm mạnh nhất 50 năm",
+      "description": "Giá cổ phiếu hãng chip Mỹ giảm gần 30% một phiên, sau khi dự báo kết quả kinh doanh quý này thấp hơn dự kiến.",
+      "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/31/newsroom-robert-noyce-bldg-jpg-4747-8033-1793409029.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=LtLH_ZOkJzsyl_s3BvuGMw",
+      "link": "https://vnexpress.net/co-phieu-intel-giam-manh-nhat-50-nam-5139027.html",
+      "published_at": "Sat, 31 Oct 2026 08:17:08 +0700",
+      "createAt": "2026-10-31T01:17:08.000Z",
+      "thumbnail_blurhash": "Lf8Oomk]abV=tSbdjZWAIUV[j]oz"
+    },
+    {
+      "id": "https://vnexpress.net/vo-mr-hunter-khai-ve-hon-nhan-tien-ai-nay-giu-xin-duoc-tra-lai-18-ty-dong-5138958.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Vợ Mr Hunter khai về hôn nhân 'tiền ai nấy giữ', xin được trả lại 18 tỷ đồng",
+      "description": "Trong hơn 142 kg vàng cùng 80 tỷ đồng tiền mặt bị thu giữ, vợ Mr Hunter nói có cả phần của mình do từ khi cưới đã tài chính độc lập, tiền ai nấy giữ, nay xin lại để nuôi 4 con.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/31/2aobor895werlqvdvshz3vbwct2yy6-8498-3771-1793381611.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=gWXOKvmzzQ-YxQAU5oR0dA",
+      "link": "https://vnexpress.net/vo-mr-hunter-khai-ve-hon-nhan-tien-ai-nay-giu-xin-duoc-tra-lai-18-ty-dong-5138958.html",
+      "published_at": "Sat, 31 Oct 2026 09:00:00 +0700",
+      "createAt": "2026-10-31T02:00:00.000Z",
+      "thumbnail_blurhash": "LOA^Lci^xmo#~Wn#s.WB$ZoLkFWB"
     }
   ]
 }
