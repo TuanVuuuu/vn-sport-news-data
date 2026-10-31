@@ -1,3 +1,43 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/ukraine-noi-lai-tap-kich-nha-may-loc-dau-nga-sau-nua-thang-tam-dung-5139035.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Ukraine nối lại tập kích nhà máy lọc dầu Nga sau nửa tháng tạm dừng",
+      "description": "Ukraine nối lại chiến dịch tấn công nhằm vào nhà máy lọc dầu ở Nga, sau khi tạm dừng hai tuần do áp lực được cho là từ ông Trump.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/31/Settop-1793412859-9762-1793413729.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=WltOk9S4jSpj73gQC3oyIQ",
+      "link": "https://vnexpress.net/ukraine-noi-lai-tap-kich-nha-may-loc-dau-nga-sau-nua-thang-tam-dung-5139035.html",
+      "published_at": "Sat, 31 Oct 2026 10:06:20 +0700",
+      "createAt": "2026-10-31T03:06:20.000Z",
+      "thumbnail_blurhash": "LQC%U9.AyFtm9*tmtmo$aJR:WCj]"
+    },
+    {
+      "id": "https://vnexpress.net/ba-tranh-cai-lon-o-qua-bong-vang-2026-5138619.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Ba tranh cãi lớn ở Quả Bóng Vàng 2026",
+      "description": "Anh – Arsenal không có cầu thủ trong top 10 dù vô địch Ngoại hạng Anh, nhiều ngôi sao được cho là hưởng lợi từ World Cup và David Raya thất bại trước Unai Simon ở giải thủ môn hay nhất khiến kết quả Quả Bóng Vàng 2026 gây tranh cãi.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/10/31/ap26144688895185-1793419174-6201-1793419752.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=UIIUGIxJKz95bGQoTipJnw",
+      "link": "https://vnexpress.net/ba-tranh-cai-lon-o-qua-bong-vang-2026-5138619.html",
+      "published_at": "Sat, 31 Oct 2026 11:09:55 +0700",
+      "createAt": "2026-10-31T04:09:55.000Z",
+      "thumbnail_blurhash": "L9GHYy}00c1H00%w#FD$0cEQxWMe"
+    },
+    {
+      "id": "https://vnexpress.net/tp-hcm-dinh-hinh-mang-luoi-trung-tam-logistics-tai-10-dau-moi-lon-5139061.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "TP HCM định hình mạng lưới trung tâm logistics tại 10 đầu mối lớn",
+      "description": "TP HCM định hướng phát triển mạng lưới trung tâm logistics hạt nhân tại 10 khu vực từ Cát Lái, Long Bình, Linh Trung đến Hiệp Phước, Củ Chi, Hóc Môn và sân bay Tân Sơn Nhất.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/31/hcmlogisticsmap-1793419799-6227-1793419874.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=N99Vhozoz1-r5RT-K7efww",
+      "link": "https://vnexpress.net/tp-hcm-dinh-hinh-mang-luoi-trung-tam-logistics-tai-10-dau-moi-lon-5139061.html",
+      "published_at": "Sat, 31 Oct 2026 11:11:14 +0700",
+      "createAt": "2026-10-31T04:11:14.000Z",
+      "thumbnail_blurhash": "LOPZ[dE_oc%3~px[t3xA9uE1M_V?"
+    }
+  ]
 }
