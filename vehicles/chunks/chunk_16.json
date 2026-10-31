@@ -830,5 +830,31 @@
     "published_at": "Sat, 31 Oct 2026 06:00:00 +0700",
     "createAt": "2026-10-30T23:00:00.000Z",
     "thumbnail_blurhash": "LBIEkOwH8wkryZMzI8IqLfWAnyD%"
+  },
+  {
+    "id": "https://vnexpress.net/vietnam-star-gianh-giai-nhat-cuoc-thi-xuong-dich-vu-mercedes-benz-5138612.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Vietnam Star giành giải nhất cuộc thi xưởng dịch vụ Mercedes-Benz",
+    "description": "Vietnam Star nhận giải nhất, nhì tập thể và hai giải cá nhân tại cuộc thi kỹ năng sửa chữa thân vỏ, sơn do Mercedes-Benz Việt Nam tổ chức.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/30/1-1793376217-1604-1793376265.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=g_ihCF9i7ssCpuJ6wkCx-Q",
+    "link": "https://vnexpress.net/vietnam-star-gianh-giai-nhat-cuoc-thi-xuong-dich-vu-mercedes-benz-5138612.html",
+    "published_at": "Sat, 31 Oct 2026 08:00:00 +0700",
+    "createAt": "2026-10-31T01:00:00.000Z",
+    "thumbnail_blurhash": "LJC6i,MaNixuAOndIqxv-LW[xAbJ"
+  },
+  {
+    "id": "https://vnexpress.net/xe-may-dien-move-lua-chon-di-chuyen-moi-cho-nguoi-viet-5137350.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Xe máy điện Move - lựa chọn di chuyển mới cho người Việt",
+    "description": "Bộ sưu tập xe máy điện Smart Move được hãng phát triển hướng đến tầm di chuyển xa, tối ưu hiệu suất vận hành, gồm 5 mẫu: Boss, Mission, Thiking, Target và Target S.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/30/3-1793350843-7891-1793350930.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=JTvhaO3M3NlmiUXxdBTeHw",
+    "link": "https://vnexpress.net/xe-may-dien-move-lua-chon-di-chuyen-moi-cho-nguoi-viet-5137350.html",
+    "published_at": "Sat, 31 Oct 2026 08:00:00 +0700",
+    "createAt": "2026-10-31T01:00:00.000Z",
+    "thumbnail_blurhash": "L6DlKK_4mk0{00[XEi-V4m8_v#?H"
   }
 ]
