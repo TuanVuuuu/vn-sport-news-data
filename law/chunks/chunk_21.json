@@ -648,5 +648,31 @@
     "published_at": "Sat, 31 Oct 2026 16:56:23 +0700",
     "createAt": "2026-10-31T09:56:23.000Z",
     "thumbnail_blurhash": "LSOgA^xu%g.8-oax~qx]tSozD%WB"
+  },
+  {
+    "id": "https://vnexpress.net/mr-pips-quan-43-van-phong-lua-dao-theo-chieu-thuc-phao-dai-bat-kha-xam-pham-5139108.html",
+    "category_id": "law",
+    "category_name": "Pháp luật",
+    "source": "VnExpress",
+    "title": "Mr Pips quản 43 văn phòng lừa đảo theo chiêu thức 'pháo đài bất khả xâm phạm'",
+    "description": "43 văn phòng không biển hiệu, luôn khóa cửa; kiểm soát khách hàng, đe dọa nhân viên nghỉ việc và tổ bảo vệ được Mr Pips giao nhiệm vụ vượt xa công việc \"gác cổng\" thông thường.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/31/mr-pipsh-1793424297-1711-1793434173.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=MSO8XQlkYnHUfwShddj0Yw",
+    "link": "https://vnexpress.net/mr-pips-quan-43-van-phong-lua-dao-theo-chieu-thuc-phao-dai-bat-kha-xam-pham-5139108.html",
+    "published_at": "Sun, 01 Nov 2026 00:00:00 +0700",
+    "createAt": "2026-10-31T17:00:00.000Z",
+    "thumbnail_blurhash": "LE9tybWZVnR;~KWER=j;=,oaWFof"
+  },
+  {
+    "id": "https://vnexpress.net/bo-vay-tien-lam-an-thua-lo-me-con-toi-co-phai-cung-tra-no-5138930.html",
+    "category_id": "law",
+    "category_name": "Pháp luật",
+    "source": "VnExpress",
+    "title": "Bố vay tiền làm ăn thua lỗ, mẹ con tôi có phải cùng trả nợ?",
+    "description": "Họ đến nhà nói bố đã vay tiền nhưng không còn khả năng trả, nếu gia đình không thanh toán thì nhà sẽ bị siết nợ.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/30/vaytinbitvn-1793358777-5112-1793359379.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=KnlogYo7lqFjrcvpD5BRaQ",
+    "link": "https://vnexpress.net/bo-vay-tien-lam-an-thua-lo-me-con-toi-co-phai-cung-tra-no-5138930.html",
+    "published_at": "Sun, 01 Nov 2026 00:00:00 +0700",
+    "createAt": "2026-10-31T17:00:00.000Z",
+    "thumbnail_blurhash": "LODl[[_NkWxu?Z%LtQt6-;x]t7of"
   }
 ]
