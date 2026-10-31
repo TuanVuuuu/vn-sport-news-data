@@ -869,5 +869,44 @@
     "published_at": "Sat, 31 Oct 2026 00:03:00 +0700",
     "createAt": "2026-10-30T17:03:00.000Z",
     "thumbnail_blurhash": "LUA0?.ozRjof?wogR%j]tnogf5fl"
+  },
+  {
+    "id": "https://vnexpress.net/vars-canh-bao-he-so-k-co-the-khien-chi-phi-dat-tang-2-6-lan-5138839.html",
+    "category_id": "real-estate",
+    "category_name": "Bất động sản",
+    "source": "VnExpress",
+    "title": "VARS cảnh báo hệ số K có thể khiến chi phí đất tăng 2,6 lần",
+    "description": "VARS cho rằng áp dụng bảng giá đất nhân hệ số K có thể làm tăng 2-2,6 lần tiền sử dụng đất tại một số dự án, gây áp lực lên chi phí đầu tư và nguồn cung bất động sản.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/30/dji-1793350522-6407-1793350558.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=oFAYArAamG__hV2h3xr3SQ",
+    "link": "https://vnexpress.net/vars-canh-bao-he-so-k-co-the-khien-chi-phi-dat-tang-2-6-lan-5138839.html",
+    "published_at": "Sat, 31 Oct 2026 08:00:00 +0700",
+    "createAt": "2026-10-31T01:00:00.000Z",
+    "thumbnail_blurhash": "LUEMp^%2oct7?ws:oMbGp0RjR*R*"
+  },
+  {
+    "id": "https://vnexpress.net/qtopia-don-nhu-cau-nghi-duong-va-giai-tri-cuoi-tuan-tai-phia-nam-5138875.html",
+    "category_id": "real-estate",
+    "category_name": "Bất động sản",
+    "source": "VnExpress",
+    "title": "Qtopia đón nhu cầu nghỉ dưỡng và giải trí cuối tuần tại phía Nam",
+    "description": "Qtopia kết hợp căn hộ du lịch với tổ hợp vui chơi, giải trí, ẩm thực ngày đêm, hướng đến nhu cầu nghỉ dưỡng của cư dân TP HCM và các tỉnh phía Nam.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/30/2-1793352996-3558-1793353110.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Sm6QRD290JMCZ8_t4qOFQA",
+    "link": "https://vnexpress.net/qtopia-don-nhu-cau-nghi-duong-va-giai-tri-cuoi-tuan-tai-phia-nam-5138875.html",
+    "published_at": "Sat, 31 Oct 2026 08:00:00 +0700",
+    "createAt": "2026-10-31T01:00:00.000Z",
+    "thumbnail_blurhash": "LDD]GHvw00%jrFbxpIxZVrWsOtt2"
+  },
+  {
+    "id": "https://vnexpress.net/chien-luoc-bat-dong-san-gia-tri-thuc-cua-skyworld-5134330.html",
+    "category_id": "real-estate",
+    "category_name": "Bất động sản",
+    "source": "VnExpress",
+    "title": "Chiến lược bất động sản giá trị thực của SkyWorld",
+    "description": "Thị trường bất động sản thanh lọc là thời điểm doanh nghiệp xây dựng niềm tin bằng chất lượng có thể đo lường, theo ông Trần Mai Văn Thảo, Giám đốc Khối Kinh doanh thị trường Việt Nam, SkyWorld Development.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/30/4-1793354168-6887-1793354254.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=8TgD0D68pfXV7kOJnqGh_w",
+    "link": "https://vnexpress.net/chien-luoc-bat-dong-san-gia-tri-thuc-cua-skyworld-5134330.html",
+    "published_at": "Sat, 31 Oct 2026 08:00:00 +0700",
+    "createAt": "2026-10-31T01:00:00.000Z",
+    "thumbnail_blurhash": "LGHB-,EKNF^j^I_NxtR4~VE0Rj%L"
   }
 ]
