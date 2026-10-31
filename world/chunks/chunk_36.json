@@ -167,5 +167,31 @@
     "published_at": "Sat, 31 Oct 2026 23:01:05 +0700",
     "createAt": "2026-10-31T16:01:05.000Z",
     "thumbnail_blurhash": "LN9tP[oI9ZWB~qoeD%WX^+t7D%f,"
+  },
+  {
+    "id": "https://vnexpress.net/nga-chan-am-muu-khung-bo-tai-moskva-sau-tin-bao-cua-my-5139245.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Nga chặn 'âm mưu khủng bố tại Moskva' sau tin báo của Mỹ",
+    "description": "An ninh Nga nhận được thông tin từ phía Mỹ về âm mưu tấn công khủng bố nhắm vào Moskva và đã triển khai các biện pháp phù hợp.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/31/bc77c0105ff08f1ffc513e4f766304-5603-9935-1793464763.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=L_JDndiczQV4NXpa1ZySeQ",
+    "link": "https://vnexpress.net/nga-chan-am-muu-khung-bo-tai-moskva-sau-tin-bao-cua-my-5139245.html",
+    "published_at": "Sun, 01 Nov 2026 00:00:30 +0700",
+    "createAt": "2026-10-31T17:00:30.000Z",
+    "thumbnail_blurhash": "L-G9XCRjRjt6.AV@Rjt6o~a}WBt7"
+  },
+  {
+    "id": "https://vnexpress.net/mau-uav-tang-hinh-bi-an-tai-trien-lam-trieu-tien-5139118.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Mẫu UAV tàng hình bí ẩn tại triển lãm Triều Tiên",
+    "description": "UAV dạng cánh bay Triều Tiên mới công bố được đánh giá là có khả năng tàng hình, nhưng chưa rõ mức độ hoàn thiện và tiến độ dự án.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/31/5563187178137269561a-179342303-3637-9010-1793423732.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=GPbs2kNWxBbEMjjvzmd23A",
+    "link": "https://vnexpress.net/mau-uav-tang-hinh-bi-an-tai-trien-lam-trieu-tien-5139118.html",
+    "published_at": "Sun, 01 Nov 2026 01:00:00 +0700",
+    "createAt": "2026-10-31T18:00:00.000Z",
+    "thumbnail_blurhash": "LGD9^{-p={.9~q$*s8yD-N%Mf5t5"
   }
 ]
