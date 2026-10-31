@@ -1064,5 +1064,31 @@
     "published_at": "Sat, 31 Oct 2026 17:03:17 +0700",
     "createAt": "2026-10-31T10:03:17.000Z",
     "thumbnail_blurhash": "LSGb9hi]$^xs~8$~o~aJxasjs;I]"
+  },
+  {
+    "id": "https://vnexpress.net/sam-altman-that-te-khi-ram-nam-trong-may-nguoi-dung-5139149.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Sam Altman: 'Thật tệ khi RAM nằm trong máy người dùng'",
+    "description": "CEO OpenAI Sam Altman bày tỏ lo ngại về những người muốn AI suy luận cục bộ trên thiết bị, cho rằng RAM nên dành cho trung tâm dữ liệu.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/31/2026t154942z-rc2rvlal6ubk-rtrm-5618-5613-1793435588.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=273r1vbyFAE0iw3L588l1Q",
+    "link": "https://vnexpress.net/sam-altman-that-te-khi-ram-nam-trong-may-nguoi-dung-5139149.html",
+    "published_at": "Sat, 31 Oct 2026 19:00:00 +0700",
+    "createAt": "2026-10-31T12:00:00.000Z",
+    "thumbnail_blurhash": "L59t4R^k000KvJspcHD$5RIT~B~W"
+  },
+  {
+    "id": "https://vnexpress.net/tranh-cai-tinh-nang-cam-ung-tren-macbook-pro-oled-5139124.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Tranh cãi tính năng cảm ứng trên MacBook Pro OLED",
+    "description": "Tính năng cảm ứng trên MacBook Pro OLED gây tranh cãi vì cố CEO Apple Steve Jobs từng cho rằng đây là điều \"rất tệ\" trên laptop.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/31/a1-1793430727-1979-1793430947.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=MfK3q16dmuK2LWZgJvgPig",
+    "link": "https://vnexpress.net/tranh-cai-tinh-nang-cam-ung-tren-macbook-pro-oled-5139124.html",
+    "published_at": "Sat, 31 Oct 2026 19:00:00 +0700",
+    "createAt": "2026-10-31T12:00:00.000Z",
+    "thumbnail_blurhash": "L568EbD$00-;_NM_D%xu4.xu-qM{"
   }
 ]

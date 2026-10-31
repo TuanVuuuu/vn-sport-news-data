@@ -258,5 +258,31 @@
     "published_at": "Sat, 31 Oct 2026 14:00:00 +0700",
     "createAt": "2026-10-31T07:00:00.000Z",
     "thumbnail_blurhash": "LVF={$t7ofxu~qRjRjWB?boffPfQ"
+  },
+  {
+    "id": "https://vnexpress.net/bai-soi-sim-vinh-ha-long-mo-cua-tro-lai-sau-6-nam-5139185.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Bãi Soi Sim vịnh Hạ Long mở cửa trở lại sau 6 năm",
+    "description": "Bãi tắm Soi Sim, đại diện duy nhất của Việt Nam trong danh sách 100 bãi biển đáng trải nghiệm nhất thế giới năm 2026, dự kiến đón khách trở lại từ đầu tháng 11, sau 6 năm ngừng hoạt động.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/10/31/2aoboqcuyxni4wmeiep7etyr3ddqj0-3229-8425-1793441679.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=TizyRMkC44GV5numUnpHrQ",
+    "link": "https://vnexpress.net/bai-soi-sim-vinh-ha-long-mo-cua-tro-lai-sau-6-nam-5139185.html",
+    "published_at": "Sat, 31 Oct 2026 18:08:38 +0700",
+    "createAt": "2026-10-31T11:08:38.000Z",
+    "thumbnail_blurhash": "L7FiY~VE8_~p00?a?GD*0057OZi^"
+  },
+  {
+    "id": "https://vnexpress.net/bua-toi-kieu-my-trong-nha-hang-choc-troi-o-tp-hcm-5133347.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Bữa tối kiểu Mỹ trong nhà hàng chọc trời ở TP HCM",
+    "description": "Tại tầng 50 tòa Bitexco, thực khách có thể ngắm trung tâm TP HCM về đêm, thưởng thức bữa tối kiểu Mỹ như bò bít tết ủ khô, súp tôm hùm nui phô mai, giá từ vài trăm nghìn đến vài triệu đồng mỗi món.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/10/30/kha-ch-my-1793372683.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=qz6btJ7o-Fy9X8woMtPUyw",
+    "link": "https://vnexpress.net/bua-toi-kieu-my-trong-nha-hang-choc-troi-o-tp-hcm-5133347.html",
+    "published_at": "Sat, 31 Oct 2026 19:00:00 +0700",
+    "createAt": "2026-10-31T12:00:00.000Z",
+    "thumbnail_blurhash": "LDD]Vd~8004;199F=@.75At6-obJ"
   }
 ]
