@@ -76,5 +76,31 @@
     "published_at": "Sat, 31 Oct 2026 06:38:53 +0700",
     "createAt": "2026-10-30T23:38:53.000Z",
     "thumbnail_blurhash": "LlFix@IVWY%N?wIVa#ofWYbIWARi"
+  },
+  {
+    "id": "https://vnexpress.net/my-duyet-ban-500-ten-lua-patriot-hien-dai-nhat-cho-ukraine-5139005.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Mỹ duyệt bán 500 tên lửa Patriot hiện đại nhất cho Ukraine",
+    "description": "Bộ Ngoại giao Mỹ phê duyệt thương vụ bán 500 tên lửa PAC-3 MSE có trị giá khoảng 2,1 tỷ USD cho Ukraine.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/31/patriot-1793402957-9505-1793402978.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=6q-Gfve0FFBQig6vH5oOZw",
+    "link": "https://vnexpress.net/my-duyet-ban-500-ten-lua-patriot-hien-dai-nhat-cho-ukraine-5139005.html",
+    "published_at": "Sat, 31 Oct 2026 06:38:53 +0700",
+    "createAt": "2026-10-30T23:38:53.000Z",
+    "thumbnail_blurhash": "LlFix@IVWY%N?wIVa#ofWYbIWARi"
+  },
+  {
+    "id": "https://vnexpress.net/ong-zelensky-ukraine-se-phai-cho-nhieu-nam-de-nhan-500-ten-lua-patriot-5139146.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Ông Zelensky: Ukraine sẽ phải chờ nhiều năm để nhận 500 tên lửa Patriot",
+    "description": "Tổng thống Ukraine hoan nghênh Mỹ duyệt bán 500 tên lửa Patriot, nhưng bày tỏ lo ngại sẽ mất nhiều năm để nước này nhận những quả đạn đầu tiên.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/31/ap26295629448407-1793431761-3726-1793432346.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=n4ELiaypY3bvYDh_KwvsxQ",
+    "link": "https://vnexpress.net/ong-zelensky-ukraine-se-phai-cho-nhieu-nam-de-nhan-500-ten-lua-patriot-5139146.html",
+    "published_at": "Sat, 31 Oct 2026 15:06:38 +0700",
+    "createAt": "2026-10-31T08:06:38.000Z",
+    "thumbnail_blurhash": "LNE.;JRp-.?D_4M~M_nyRkozM{W9"
   }
 ]
