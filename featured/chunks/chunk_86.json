@@ -505,5 +505,44 @@
     "published_at": "Sun, 01 Nov 2026 09:00:00 +0700",
     "createAt": "2026-11-01T02:00:00.000Z",
     "thumbnail_blurhash": "LA9Q5Lt700Ri~BNaE1xZ8_RP.8-p"
+  },
+  {
+    "id": "https://vnexpress.net/ong-trump-my-van-phai-xu-ly-vai-muc-tieu-tai-iran-5139286.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Ông Trump: Mỹ vẫn phải 'xử lý' vài mục tiêu tại Iran",
+    "description": "Tổng thống Trump tuyên bố Mỹ đã triệt tiêu phần lớn sức mạnh quân sự của Iran, song vẫn phải giải quyết thêm một hoặc hai mục tiêu nữa.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/01/AP26305016379427-1793500804-2625-1793501176.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=zDTKDBG5lZUQWc3LklSLQQ",
+    "link": "https://vnexpress.net/ong-trump-my-van-phai-xu-ly-vai-muc-tieu-tai-iran-5139286.html",
+    "published_at": "Sun, 01 Nov 2026 11:13:04 +0700",
+    "createAt": "2026-11-01T04:13:04.000Z",
+    "thumbnail_blurhash": "LAB{+Okh5l^j~TE#r]xa00ESNFE2"
+  },
+  {
+    "id": "https://vnexpress.net/un-tac-vi-13-000-khach-do-den-vuon-quoc-gia-ba-vi-5139338.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Ùn tắc vì 13.000 khách đổ đến Vườn quốc gia Ba Vì",
+    "description": "Khoảng 13.000 lượt khách đến Vườn quốc gia Ba Vì ngày 1/11 khiến khu vực cổng vào ùn tắc, nhiều người phải chờ 1-2 tiếng mới mua được vé.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/11/01/873550074-n-1793515074-1744-1793517997.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=hUykKpnfgsDVKHnf-gRIWA",
+    "link": "https://vnexpress.net/un-tac-vi-13-000-khach-do-den-vuon-quoc-gia-ba-vi-5139338.html",
+    "published_at": "Sun, 01 Nov 2026 14:40:47 +0700",
+    "createAt": "2026-11-01T07:40:47.000Z",
+    "thumbnail_blurhash": "LWAnJ{toROV=lCtne,V=T2byofob"
+  },
+  {
+    "id": "https://vnexpress.net/bac-si-giam-sat-lan-dau-len-tieng-ve-vu-hanh-quyet-bat-thanh-nu-tu-tu-my-5139348.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Bác sĩ giám sát lần đầu lên tiếng về vụ hành quyết bất thành nữ tử tù Mỹ",
+    "description": "Bác sĩ Mark Fowler lần đầu kể về quá trình phát hiện tử tù Christa Pike không chết sau khi bị hành quyết bằng thuốc độc, thừa nhận sai sót đã xảy ra.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/01/anh1-1793519456-2587-1793519756.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=LAlK-y0QK2lQ5i3oG5GtuQ",
+    "link": "https://vnexpress.net/bac-si-giam-sat-lan-dau-len-tieng-ve-vu-hanh-quyet-bat-thanh-nu-tu-tu-my-5139348.html",
+    "published_at": "Sun, 01 Nov 2026 15:25:41 +0700",
+    "createAt": "2026-11-01T08:25:41.000Z",
+    "thumbnail_blurhash": "LTFYla_2E1IU~p%MM{R*-;ozV@oe"
   }
 ]
