@@ -115,5 +115,57 @@
     "published_at": "Sun, 01 Nov 2026 10:00:00 +0700",
     "createAt": "2026-11-01T03:00:00.000Z",
     "thumbnail_blurhash": "LTO|CD-;SN%1_No~xaRkROxuX9RP"
+  },
+  {
+    "id": "https://vnexpress.net/thu-truong-y-te-phat-trien-kinh-te-bac-thich-ung-gia-hoa-dan-so-5139298.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Thứ trưởng Y tế: Phát triển 'kinh tế bạc' thích ứng già hóa dân số",
+    "description": "Thứ trưởng Y tế Đỗ Xuân Tuyên cho rằng mở rộng dịch vụ chăm sóc người cao tuổi vừa đáp ứng nhu cầu an sinh, vừa thúc đẩy \"kinh tế bạc\" khi Việt Nam đang bước nhanh vào thời kỳ dân số già.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/01/ndq-1793504378-6630-1793504540.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=MsH_4qs5nCxaxqRj-hRS4w",
+    "link": "https://vnexpress.net/thu-truong-y-te-phat-trien-kinh-te-bac-thich-ung-gia-hoa-dan-so-5139298.html",
+    "published_at": "Sun, 01 Nov 2026 10:49:32 +0700",
+    "createAt": "2026-11-01T03:49:32.000Z",
+    "thumbnail_blurhash": "LI8}ows900NbD4kDyZW9cZawn4nj"
+  },
+  {
+    "id": "https://vnexpress.net/phap-thu-hoi-15-dong-san-pham-bao-cao-su-nguy-co-buc-rach-5139259.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Pháp thu hồi 15 dòng sản phẩm bao cao su nguy cơ bục rách",
+    "description": "15 dòng sản phẩm bao cao su của các hãng ON, You &amp; Me, Amor bị Pháp thu hồi do gặp lỗi sản xuất có thể gây bục hoặc rách thủng.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/01/bao-1793471241-1991-1793471864.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=WWZhemcjrbESy8KBaQJazg",
+    "link": "https://vnexpress.net/phap-thu-hoi-15-dong-san-pham-bao-cao-su-nguy-co-buc-rach-5139259.html",
+    "published_at": "Sun, 01 Nov 2026 11:00:00 +0700",
+    "createAt": "2026-11-01T04:00:00.000Z",
+    "thumbnail_blurhash": "LON9eN2ysA]n;5%~xB%1.mMdRP.R"
+  },
+  {
+    "id": "https://vnexpress.net/voi-trung-u-dich-co-khien-phoi-kho-lam-to-5139247.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Vòi trứng ứ dịch có khiến phôi khó làm tổ?",
+    "description": "Tôi bị ứ tắc dịch hai vòi trứng, chuẩn bị thụ tinh ống nghiệm. Tình trạng ứ dịch có khiến phôi khó làm tổ và cần xử lý trước khi chuyển phôi? (Hạnh, 35 tuổi, TP HCM)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/31/anh-1793462351-2049-1793462611.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=glI19nZoCqVBZLApAf3f2Q",
+    "link": "https://vnexpress.net/voi-trung-u-dich-co-khien-phoi-kho-lam-to-5139247.html",
+    "published_at": "Sun, 01 Nov 2026 11:00:00 +0700",
+    "createAt": "2026-11-01T04:00:00.000Z",
+    "thumbnail_blurhash": "LFM7ijIADN_M~P004;x[9soyx]N2"
+  },
+  {
+    "id": "https://vnexpress.net/vi-sao-tang-can-it-van-mac-dai-thao-duong-thai-ky-5139223.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Vì sao tăng cân ít vẫn mắc đái tháo đường thai kỳ?",
+    "description": "Tôi nặng 45 kg, cao 1,6 m, ăn uống lành mạnh, đến tuần thai thứ 26 chỉ tăng 4 kg và phát hiện đái tháo đường thai kỳ. Nguyên nhân, có cần điều trị không? (Hà Anh, 33 tuổi, Hà Nội)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/31/img-edited-1793455800-6325-1793455830.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=qmsdEdcnFOdPxUd1TelhJA",
+    "link": "https://vnexpress.net/vi-sao-tang-can-it-van-mac-dai-thao-duong-thai-ky-5139223.html",
+    "published_at": "Sun, 01 Nov 2026 11:00:00 +0700",
+    "createAt": "2026-11-01T04:00:00.000Z",
+    "thumbnail_blurhash": "LgJkQ1~pIoxvRioct6Rjo}M{smoz"
   }
 ]
