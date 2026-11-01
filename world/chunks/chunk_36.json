@@ -206,5 +206,31 @@
     "published_at": "Sun, 01 Nov 2026 05:00:00 +0700",
     "createAt": "2026-10-31T22:00:00.000Z",
     "thumbnail_blurhash": "LVD^7uxu.As.ANR:9bkC-.ofxUR."
+  },
+  {
+    "id": "https://vnexpress.net/tong-thong-ba-lan-cao-buoc-thu-tuong-thau-tom-toa-hien-phap-5139216.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Tổng thống Ba Lan cáo buộc Thủ tướng thâu tóm Tòa Hiến pháp",
+    "description": "Tổng thống Nawrocki cáo buộc chính quyền Thủ tướng Tusk dàn dựng cuộc chiếm quyền Tòa Hiến pháp sau khi đình chỉ Chánh án.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/31/2026t001404z-r-1793457932-2025-1793458284.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=NvDVIpteRijmPSpi7-PS8g",
+    "link": "https://vnexpress.net/tong-thong-ba-lan-cao-buoc-thu-tuong-thau-tom-toa-hien-phap-5139216.html",
+    "published_at": "Sat, 31 Oct 2026 21:52:51 +0700",
+    "createAt": "2026-10-31T14:52:51.000Z",
+    "thumbnail_blurhash": "LL5z|=bEWIRkxgbCWAawoPjqa$jX"
+  },
+  {
+    "id": "https://vnexpress.net/khoi-lua-bao-trum-bieu-tinh-cuoi-tuan-tai-phap-5139266.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Khói lửa bao trùm biểu tình cuối tuần tại Pháp",
+    "description": "Đụng độ nổ ra tại Paris và nhiều thành phố khác của Pháp khi hàng trăm nghìn người đổ xuống đường để phản đối tình trạng chi phí sinh hoạt tăng vọt.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/01/AP26304624571010-1793490348-6909-1793490823.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=d5npYjTPqAFZVuUIGg8o_g",
+    "link": "https://vnexpress.net/khoi-lua-bao-trum-bieu-tinh-cuoi-tuan-tai-phap-5139266.html",
+    "published_at": "Sun, 01 Nov 2026 07:14:02 +0700",
+    "createAt": "2026-11-01T00:14:02.000Z",
+    "thumbnail_blurhash": "LTEx69~B9u4:xYoeNbI=8{D*o}-;"
   }
 ]

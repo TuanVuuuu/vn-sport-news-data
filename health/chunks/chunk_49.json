@@ -1181,5 +1181,57 @@
     "published_at": "Sun, 01 Nov 2026 00:04:00 +0700",
     "createAt": "2026-10-31T17:04:00.000Z",
     "thumbnail_blurhash": "LcF5T^~A-oae?HoJNaIobvIpNdWB"
+  },
+  {
+    "id": "https://vnexpress.net/vet-bot-sac-to-khong-lo-bao-phu-30-co-the-co-be-12-tuoi-5139182.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Vết bớt sắc tố khổng lồ bao phủ 30% cơ thể cô bé 12 tuổi",
+    "description": "Sinh ra với vết bớt sắc tố hiếm gặp chiếm 30% cơ thể, cô bé Charlotte Lim, 12 tuổi, vẫn giữ tinh thần lạc quan cùng bản lĩnh kiên cường trước nguy cơ biến chứng ung thư da nghiêm trọng.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/31/bot-1793440990-8785-1793441004.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=eOWI8XtS4WAJHmLa48--AQ",
+    "link": "https://vnexpress.net/vet-bot-sac-to-khong-lo-bao-phu-30-co-the-co-be-12-tuoi-5139182.html",
+    "published_at": "Sun, 01 Nov 2026 06:00:00 +0700",
+    "createAt": "2026-10-31T23:00:00.000Z",
+    "thumbnail_blurhash": "LpO{4_~A%1I;^%WVR+jat6kCR*af"
+  },
+  {
+    "id": "https://vnexpress.net/bac-si-chi-ra-thu-pham-bien-co-the-khoe-manh-thanh-o-benh-man-tinh-5131371.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Bác sĩ chỉ ra thủ phạm biến cơ thể khỏe mạnh thành 'ổ bệnh' mạn tính",
+    "description": "Lối sống sai lầm kích hoạt phản ứng viêm âm ỉ kéo dài, làm sụp đổ hệ miễn dịch và chuyển hóa, biến người khỏe mạnh thành đối tượng mang cùng lúc 3-4 căn bệnh mạn tính nguy hiểm khi về già.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/13/233a2794-1791880787-8665-1791881122.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=wZT122e52taerC2NmSnQdA",
+    "link": "https://vnexpress.net/bac-si-chi-ra-thu-pham-bien-co-the-khoe-manh-thanh-o-benh-man-tinh-5131371.html",
+    "published_at": "Sun, 01 Nov 2026 06:00:00 +0700",
+    "createAt": "2026-10-31T23:00:00.000Z",
+    "thumbnail_blurhash": "LEFr;a9t4:E1~A00ofWVITD+Rj%1"
+  },
+  {
+    "id": "https://vnexpress.net/dieu-gi-xay-ra-khi-ky-sinh-trung-tan-cong-gan-5139225.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Điều gì xảy ra khi ký sinh trùng tấn công gan?",
+    "description": "Ký sinh trùng tấn công gây tổn thương gan, nếu không được phát hiện và điều trị có thể dẫn đến áp xe, tắc nghẽn đường mật, xơ hóa gan.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/31/bs-mai-da-chi-nh-1793455941-5555-1793456096.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=4Otgf2XchmZLj_5eLCFzwQ",
+    "link": "https://vnexpress.net/dieu-gi-xay-ra-khi-ky-sinh-trung-tan-cong-gan-5139225.html",
+    "published_at": "Sun, 01 Nov 2026 07:00:00 +0700",
+    "createAt": "2026-11-01T00:00:00.000Z",
+    "thumbnail_blurhash": "LHM%+a~qu5%fxW.7?ws;jY-pWBR."
+  },
+  {
+    "id": "https://vnexpress.net/4-benh-mat-co-the-gay-tich-tu-dich-giam-thi-luc-5139156.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "4 bệnh mắt có thể gây tích tụ dịch, giảm thị lực",
+    "description": "Phù hoàng điểm, bệnh hắc võng mạc trung tâm thanh dịch, thoái hóa hoàng điểm có thể gây tích tụ dịch, đôi khi kèm nhìn mờ, méo hình, giảm thị lực.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/31/kinh-mat1-1793433576-7180-1793433628.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=NgB9vURq7tDn4nHYQJfUmg",
+    "link": "https://vnexpress.net/4-benh-mat-co-the-gay-tich-tu-dich-giam-thi-luc-5139156.html",
+    "published_at": "Sun, 01 Nov 2026 07:00:00 +0700",
+    "createAt": "2026-11-01T00:00:00.000Z",
+    "thumbnail_blurhash": "LCHeF2t7ZM?H~q-;-;E1PBW=9^xt"
   }
 ]
