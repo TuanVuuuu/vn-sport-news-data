@@ -1259,5 +1259,31 @@
     "published_at": "Sun, 01 Nov 2026 08:00:00 +0700",
     "createAt": "2026-11-01T01:00:00.000Z",
     "thumbnail_blurhash": "LoEDi8tSRNs-tpaytRozS8oIjDWA"
+  },
+  {
+    "id": "https://vnexpress.net/chuyen-gia-san-phang-nui-o-quy-nhon-se-mat-mang-xanh-canh-quan-5139277.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Chuyên gia: San phẳng núi ở Quy Nhơn sẽ mất mảng xanh, cảnh quan",
+    "description": "GS.TS Đỗ Minh Đức cho rằng san núi Một để xây khu dân cư có thể gây sạt lở, bụi, tiếng ồn, rung chấn kéo dài 3-5 năm và làm mất vĩnh viễn cảnh quan tự nhiên.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/01/wm1-wm1-dji-fly-1793504292-8169-1793504320.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=oow0myMWK0G7QYno91B1sA",
+    "link": "https://vnexpress.net/chuyen-gia-san-phang-nui-o-quy-nhon-se-mat-mang-xanh-canh-quan-5139277.html",
+    "published_at": "Sun, 01 Nov 2026 10:35:35 +0700",
+    "createAt": "2026-11-01T03:35:35.000Z",
+    "thumbnail_blurhash": "LWI=Y~sk%Mxu_4o#R-NFtTNGM{s:"
+  },
+  {
+    "id": "https://vnexpress.net/ha-noi-se-do-luong-chi-so-hanh-phuc-cua-nguoi-dan-5139292.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Hà Nội sẽ đo lường chỉ số hạnh phúc của người dân",
+    "description": "Thành phố sẽ khảo sát trực tiếp để đo lường chỉ số hạnh phúc của người dân và dự kiến công bố kết quả vào dịp Ngày Quốc tế Hạnh phúc (20/3 hằng năm).",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/01/td-1793504241-9701-1793504375.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=nrFFRZYi4gTmSGBUlabWQw",
+    "link": "https://vnexpress.net/ha-noi-se-do-luong-chi-so-hanh-phuc-cua-nguoi-dan-5139292.html",
+    "published_at": "Sun, 01 Nov 2026 11:03:59 +0700",
+    "createAt": "2026-11-01T04:03:59.000Z",
+    "thumbnail_blurhash": "L9Dv7rDOBOOq~mR5R*Ns.l9s?Iru"
   }
 ]
