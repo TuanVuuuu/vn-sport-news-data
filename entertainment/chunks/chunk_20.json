@@ -1272,5 +1272,31 @@
     "published_at": "Sun, 01 Nov 2026 23:35:47 +0700",
     "createAt": "2026-11-01T16:35:47.000Z",
     "thumbnail_blurhash": "LBI.5c~S0J+b4,H_vZI@%M%c-~xV"
+  },
+  {
+    "id": "https://vnexpress.net/giai-tri/phim/thu-vien-phim/sister-sister-3-928",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Phim 'Chị chị em em 3': Tình yêu độc hại",
+    "description": "\"Chị chị em em 3\" - phim 18+ Lan Ngọc, Kỳ Duyên đóng - khai thác bi kịch tình ái, nhưng kịch bản hời hợt, cảnh \"nóng\" thừa thãi.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/10/30/lan-ngoc-ccee-1793359846-2720-1793360282.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=JblBv_jYE0yUCm5rWQ-5bA",
+    "link": "https://vnexpress.net/giai-tri/phim/thu-vien-phim/sister-sister-3-928",
+    "published_at": "Mon, 02 Nov 2026 00:00:00 +0700",
+    "createAt": "2026-11-01T17:00:00.000Z",
+    "thumbnail_blurhash": "L7He5v4T01~q00_N~B$200-:%14."
+  },
+  {
+    "id": "https://vnexpress.net/sach-kinh-dien-chay-hang-5139317.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Sách kinh điển 'cháy hàng'",
+    "description": "Làn sóng phim Hollywood chuyển thể khiến tác phẩm \"Phía đông vườn địa đàng\", \"Đồi gió hú\" hay \"The Odyssey\" bán chạy trở lại.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/11/01/mv5bzddjndy2yjgtnzexmi00mtqylw-5486-6880-1793520773.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=N-wxyj4QZ8QDct4_1K7GKg",
+    "link": "https://vnexpress.net/sach-kinh-dien-chay-hang-5139317.html",
+    "published_at": "Mon, 02 Nov 2026 00:00:00 +0700",
+    "createAt": "2026-11-01T17:00:00.000Z",
+    "thumbnail_blurhash": "L371o:I;9a~o~ooxD+xt9a?Z%29a"
   }
 ]
