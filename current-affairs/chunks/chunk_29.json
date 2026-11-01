@@ -1233,5 +1233,31 @@
     "published_at": "Sun, 01 Nov 2026 06:30:56 +0700",
     "createAt": "2026-10-31T23:30:56.000Z",
     "thumbnail_blurhash": "LLI}eRVro#s.02M}IU-o~WMwayxZ"
+  },
+  {
+    "id": "https://vnexpress.net/cau-can-tho-2-duoc-thiet-ke-cho-ca-duong-bo-va-duong-sat-5139218.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Cầu Cần Thơ 2 được thiết kế cho cả đường bộ và đường sắt",
+    "description": "Cầu Cần Thơ 2 được thiết kế dạng dây văng hai tầng, với 6 làn cao tốc phía trên và đường sắt phía dưới, tổng vốn đầu tư dự kiến hơn 27.000 tỷ đồng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/31/phoi-canh-cau-ct-doi-jpg-17934-8389-7382-1793454613.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=MCm-wPHYxiiRU5JzQwYYyw",
+    "link": "https://vnexpress.net/cau-can-tho-2-duoc-thiet-ke-cho-ca-duong-bo-va-duong-sat-5139218.html",
+    "published_at": "Sun, 01 Nov 2026 07:30:00 +0700",
+    "createAt": "2026-11-01T00:30:00.000Z",
+    "thumbnail_blurhash": "LmE}4otRoztSOxRjj?WV4oWBa}WC"
+  },
+  {
+    "id": "https://vnexpress.net/hau-dai-duong-ben-duyen-tren-cua-song-gianh-5139173.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Hàu đại dương bén duyên trên cửa sông Gianh",
+    "description": "Từ mô hình nuôi thử nghiệm, hàu đại dương đã mang lại cho người dân phường Bắc Gianh sản lượng khoảng 900 tấn mỗi năm, doanh thu 25 tỷ đồng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/31/wm1-anh-3-1793436861-1793437196.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=PyxDcjumXF7ZGebdZsfNpg",
+    "link": "https://vnexpress.net/hau-dai-duong-ben-duyen-tren-cua-song-gianh-5139173.html",
+    "published_at": "Sun, 01 Nov 2026 08:00:00 +0700",
+    "createAt": "2026-11-01T01:00:00.000Z",
+    "thumbnail_blurhash": "LoEDi8tSRNs-tpaytRozS8oIjDWA"
   }
 ]
