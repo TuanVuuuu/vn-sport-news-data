@@ -1142,5 +1142,18 @@
     "published_at": "Sun, 01 Nov 2026 09:00:00 +0700",
     "createAt": "2026-11-01T02:00:00.000Z",
     "thumbnail_blurhash": "LA9Q5Lt700Ri~BNaE1xZ8_RP.8-p"
+  },
+  {
+    "id": "https://vnexpress.net/ve-tinh-ai-cua-google-gui-phan-hoi-dau-tien-tu-khong-gian-5139248.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Vệ tinh AI của Google gửi phản hồi đầu tiên từ không gian",
+    "description": "Vệ tinh đầu tiên trang bị bộ xử lý Tensor (TPU) của Google đang hoạt động tốt trên quỹ đạo Trái Đất, gửi về thơ và dữ liệu kỹ thuật.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/01/dsc029817909308502563179093118-3020-2946-1793469854.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=QQ-Vc7tqpOzymY_QvOHeVQ",
+    "link": "https://vnexpress.net/ve-tinh-ai-cua-google-gui-phan-hoi-dau-tien-tu-khong-gian-5139248.html",
+    "published_at": "Sun, 01 Nov 2026 11:00:00 +0700",
+    "createAt": "2026-11-01T04:00:00.000Z",
+    "thumbnail_blurhash": "LdIX~t9Gxu?a~pRkof%M%Lf8RkoJ"
   }
 ]
