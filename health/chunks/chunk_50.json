@@ -89,5 +89,31 @@
     "published_at": "Sun, 01 Nov 2026 09:00:00 +0700",
     "createAt": "2026-11-01T02:00:00.000Z",
     "thumbnail_blurhash": "LDIqGwHD4:{c[X%}DhIp9v$L%19a"
+  },
+  {
+    "id": "https://vnexpress.net/5-dau-hieu-xuat-hien-thoang-qua-canh-bao-dot-quy-5138829.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "5 dấu hiệu xuất hiện thoáng qua cảnh báo đột quỵ",
+    "description": "Chóng mặt, nhìn mờ, méo miệng, yếu tay chân hoặc nói khó đột ngột dù chỉ kéo dài vài phút có thể cảnh báo nguy cơ đột quỵ.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/10/30/nhin-mo11-1793349517-4668-1793349547.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=ob3mLF0r7637Zc_TP16aqQ",
+    "link": "https://vnexpress.net/5-dau-hieu-xuat-hien-thoang-qua-canh-bao-dot-quy-5138829.html",
+    "published_at": "Sun, 01 Nov 2026 10:00:00 +0700",
+    "createAt": "2026-11-01T03:00:00.000Z",
+    "thumbnail_blurhash": "LEDIza,n0f?HSP%1~B-UIpxt$%R*"
+  },
+  {
+    "id": "https://vnexpress.net/ai-nen-xet-nghiem-tam-soat-ung-thu-tuyen-tien-liet-5139238.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Ai nên xét nghiệm tầm soát ung thư tuyến tiền liệt?",
+    "description": "Tôi bị phì đại tuyến tiền liệt, điều trị 5 năm nay. Có nên đo chỉ số kháng nguyên đặc hiệu tuyến tiền liệt (PSA) và tầm soát ung thư tuyến tiền liệt không? (Hoàng, 62 tuổi, Lâm Đồng)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/01/hinh-pr-1793486103-8784-1793487032.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=PRl-XkTGnhY1hIOm1tydJw",
+    "link": "https://vnexpress.net/ai-nen-xet-nghiem-tam-soat-ung-thu-tuyen-tien-liet-5139238.html",
+    "published_at": "Sun, 01 Nov 2026 10:00:00 +0700",
+    "createAt": "2026-11-01T03:00:00.000Z",
+    "thumbnail_blurhash": "LTO|CD-;SN%1_No~xaRkROxuX9RP"
   }
 ]
