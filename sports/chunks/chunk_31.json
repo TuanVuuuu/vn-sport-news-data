@@ -869,5 +869,44 @@
     "published_at": "Mon, 02 Nov 2026 11:10:58 +0700",
     "createAt": "2026-11-02T04:10:58.000Z",
     "thumbnail_blurhash": "LGE2,?~Xohj_-;tQtQj?RjM{W9ac"
+  },
+  {
+    "id": "https://vnexpress.net/8-diem-nhan-vong-9-ngoai-hang-anh-5139434.html",
+    "category_id": "sports",
+    "category_name": "Thể thao",
+    "source": "VnExpress",
+    "title": "8 điểm nhấn vòng 9 Ngoại hạng Anh",
+    "description": "Loạt trận cuối tuần qua ở Ngoại hạng Anh chứng kiến Arsenal thắng tại Anfield sau 14 năm, Man City kết thúc kỳ trăng mật dưới thời Enzo Maresca hay Man Utd tiếp tục khủng hoảng cùng Michael Carrick.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/11/01/A-nh-ma-n-hi-nh-2026-11-01-lu-c-21-1793544257.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=CsVcYyLEWUfWA7I8iKyRSg",
+    "link": "https://vnexpress.net/8-diem-nhan-vong-9-ngoai-hang-anh-5139434.html",
+    "published_at": "Mon, 02 Nov 2026 11:38:17 +0700",
+    "createAt": "2026-11-02T04:38:17.000Z",
+    "thumbnail_blurhash": "LLI|h4M+Gvjc~VNFt7jE5~t6m+$%"
+  },
+  {
+    "id": "https://vnexpress.net/dau-hoi-quanh-tuong-lai-cua-hlv-kim-sang-sik-o-viet-nam-5139682.html",
+    "category_id": "sports",
+    "category_name": "Thể thao",
+    "source": "VnExpress",
+    "title": "Dấu hỏi quanh tương lai của HLV Kim Sang-sik ở Việt Nam",
+    "description": "Hợp đồng sẽ hết hạn vào tháng 2/2027, nhưng tương lai của HLV Kim Sang-sik chưa rõ ràng khi LĐBĐ Việt Nam có thể thay đổi bộ máy lãnh đạo, còn Asian Cup đối mặt nguy cơ bị hoãn.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/11/02/dong2211-jpg-1793593897-9031-1793594005.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=iUjbNnoCmfnzO6PoK-lLhg",
+    "link": "https://vnexpress.net/dau-hoi-quanh-tuong-lai-cua-hlv-kim-sang-sik-o-viet-nam-5139682.html",
+    "published_at": "Mon, 02 Nov 2026 12:23:09 +0700",
+    "createAt": "2026-11-02T05:23:09.000Z",
+    "thumbnail_blurhash": "LJC7B2p9j9RY00VgIct0_GtlxvIS"
+  },
+  {
+    "id": "https://vnexpress.net/man-utd-tin-tuong-carrick-se-lat-nguoc-tinh-the-5139678.html",
+    "category_id": "sports",
+    "category_name": "Thể thao",
+    "source": "VnExpress",
+    "title": "Man Utd tin tưởng Carrick sẽ lật ngược tình thế",
+    "description": "Man Utd chưa tìm người thay Michael Carrick dù đội bóng sa sút nghiêm trọng, bởi ban lãnh đạo vẫn tin HLV người Anh có thể xoay chuyển tình thế trong thời gian tới.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/11/02/carrick-chelsea-1793593516-5509-1793593655.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ygfTveOvDpVTEvMqRkVVSg",
+    "link": "https://vnexpress.net/man-utd-tin-tuong-carrick-se-lat-nguoc-tinh-the-5139678.html",
+    "published_at": "Mon, 02 Nov 2026 12:25:51 +0700",
+    "createAt": "2026-11-02T05:25:51.000Z",
+    "thumbnail_blurhash": "LRCPk;9vMwt8.AV^aJNakXR+t6ng"
   }
 ]
