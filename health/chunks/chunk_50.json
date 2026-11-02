@@ -505,5 +505,31 @@
     "published_at": "Mon, 02 Nov 2026 13:30:00 +0700",
     "createAt": "2026-11-02T06:30:00.000Z",
     "thumbnail_blurhash": "LaN^Yl-:Rit7_NRPt7xuxuRPofaf"
+  },
+  {
+    "id": "https://vnexpress.net/5-thuc-pham-trong-che-do-an-dia-trung-hai-giup-giam-viem-5139589.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "5 thực phẩm trong chế độ ăn Địa Trung Hải giúp giảm viêm",
+    "description": "Dầu ô liu, rau lá xanh, cá béo, quả mọng giàu chất chống oxy hóa và chất béo tốt, góp phần giảm phản ứng viêm, phòng bệnh mạn tính.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/02/rau-ca-i-1793592073-7289-1793592166.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=I-E71uXtyZdmgW1NxgJP8g",
+    "link": "https://vnexpress.net/5-thuc-pham-trong-che-do-an-dia-trung-hai-giup-giam-viem-5139589.html",
+    "published_at": "Mon, 02 Nov 2026 14:00:00 +0700",
+    "createAt": "2026-11-02T07:00:00.000Z",
+    "thumbnail_blurhash": "LIC7Jt9GH{t6??M|RRoeDk%LM|of"
+  },
+  {
+    "id": "https://vnexpress.net/hai-u-chua-ba-lit-dich-o-buong-trung-co-gai-tre-5139543.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Hai u chứa ba lít dịch ở buồng trứng cô gái trẻ",
+    "description": "Thủy, 20 tuổi, bụng to bất thường, bí tiểu, bác sĩ phát hiện hai u buồng trứng kích thước lớn và phẫu thuật hút ba lít dịch.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/02/image002-1793586238-8439-1793586293.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Pe780ZlAV3qlxAWoHrNLyQ",
+    "link": "https://vnexpress.net/hai-u-chua-ba-lit-dich-o-buong-trung-co-gai-tre-5139543.html",
+    "published_at": "Mon, 02 Nov 2026 14:00:00 +0700",
+    "createAt": "2026-11-02T07:00:00.000Z",
+    "thumbnail_blurhash": "LZHf[0.AM_x_^}%1M{xt-NaxWFV@"
   }
 ]
