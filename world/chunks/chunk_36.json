@@ -622,5 +622,31 @@
     "published_at": "Mon, 02 Nov 2026 17:53:38 +0700",
     "createAt": "2026-11-02T10:53:38.000Z",
     "thumbnail_blurhash": "LIH1iFC80O^+?^OGM|-p00M{-S,V"
+  },
+  {
+    "id": "https://vnexpress.net/ap-luc-luong-huu-ngay-cang-de-nang-nuoc-phap-5139499.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Áp lực lương hưu ngày càng đè nặng nước Pháp",
+    "description": "Người Pháp đóng góp phần lớn thu nhập để được nhận lương hưu cao khi về già, nhưng mô hình này có nguy cơ đổ vỡ do nợ công tăng và dân số già hóa.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/02/afp-aa-v1-highres-retireesprot-2679-8875-1793592251.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=weTgwKcBm08auUJB6cD_BQ",
+    "link": "https://vnexpress.net/ap-luc-luong-huu-ngay-cang-de-nang-nuoc-phap-5139499.html",
+    "published_at": "Mon, 02 Nov 2026 19:00:00 +0700",
+    "createAt": "2026-11-02T12:00:00.000Z",
+    "thumbnail_blurhash": "LHDlsJ,BxtEM_4E2tRxa?bMyxuoe"
+  },
+  {
+    "id": "https://vnexpress.net/ong-trump-dua-ve-viec-sa-thai-ngoai-truong-rubio-5139904.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Ông Trump đùa về việc 'sa thải' Ngoại trưởng Rubio",
+    "description": "Tổng thống Trump nói đùa rằng Ngoại trưởng Mỹ đang hoàn thành rất tốt nhiệm vụ nhưng lại \"quá nổi tiếng\", nên ông ấy sẽ bị \"sa thải\".",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/02/20261102t035444z1865643899rc2f-4049-4515-1793625318.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=QPZs5ffZyxNVvONHG2BDCA",
+    "link": "https://vnexpress.net/ong-trump-dua-ve-viec-sa-thai-ngoai-truong-rubio-5139904.html",
+    "published_at": "Mon, 02 Nov 2026 20:29:49 +0700",
+    "createAt": "2026-11-02T13:29:49.000Z",
+    "thumbnail_blurhash": "L9B3Ngxv9G~W~CV@4.t8%#NIR.%g"
   }
 ]
