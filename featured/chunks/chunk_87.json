@@ -154,5 +154,44 @@
     "published_at": "Mon, 02 Nov 2026 16:50:23 +0700",
     "createAt": "2026-11-02T09:50:23.000Z",
     "thumbnail_blurhash": "L$Ja~3%1R+af~qaej?WC?bozoeoz"
+  },
+  {
+    "id": "https://vnexpress.net/vi-sao-vet-sang-nghi-sao-bang-bay-ngang-va-cham-5139745.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Vì sao vệt sáng nghi sao băng bay ngang và chậm?",
+    "description": "Từ mặt đất, người quan sát thường thấy vệt sáng nghi sao băng di chuyển gần như thẳng và chậm, thực tế quỹ đạo bay của nó rất rộng, có thể đạt vận tốc 10-70 km/s.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/02/Unknown-1793602571-7261-1793603030.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=PVY1kVP4QtP9lE6DOaqbzQ&t=image",
+    "link": "https://vnexpress.net/vi-sao-vet-sang-nghi-sao-bang-bay-ngang-va-cham-5139745.html",
+    "published_at": "Mon, 02 Nov 2026 17:11:29 +0700",
+    "createAt": "2026-11-02T10:11:29.000Z",
+    "thumbnail_blurhash": "L00S=rVsMJyDe.f+fkf6H?o|yDMe"
+  },
+  {
+    "id": "https://vnexpress.net/hlv-park-hang-seo-noi-gian-khi-cdv-doi-thu-miet-thi-5139857.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "HLV Park Hang-seo nổi giận khi CĐV đối thủ miệt thị",
+    "description": "HLV Park nổi nóng khi một nhóm CĐV nước ngoài miệt thị ban huấn luyện Hàn Quốc và cầu thủ trong trận làm khách trước Pattaya United ở vòng 9 Thai League 2, tối 1/11.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/02/Sequence03ezgifcomoptimize-179-9453-6976-1793612406.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=lV3MjuQO75CbJlnfeuUaTg&t=image",
+    "link": "https://vnexpress.net/hlv-park-hang-seo-noi-gian-khi-cdv-doi-thu-miet-thi-5139857.html",
+    "published_at": "Mon, 02 Nov 2026 17:12:26 +0700",
+    "createAt": "2026-11-02T10:12:26.000Z",
+    "thumbnail_blurhash": "L1AJ.Z1o01~WBI-r;BJy0K=z$+G7"
+  },
+  {
+    "id": "https://vnexpress.net/ca-nuoc-trai-qua-thang-10-nong-nhat-trong-lich-su-quan-trac-5139875.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Cả nước trải qua tháng 10 nóng nhất trong lịch sử quan trắc",
+    "description": "Nhiệt độ trung bình cả nước tháng 10 đạt 26,3 độ, cao hơn trung bình nhiều năm 1,74 độ C, mức cao nhất trong chuỗi quan trắc từ năm 1961.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/02/du-kha-ch-tre-n-ho-gu-o-m-nga-2917-4171-1793614421.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=WL7CebzDO3Q-e1JWHhdKDw",
+    "link": "https://vnexpress.net/ca-nuoc-trai-qua-thang-10-nong-nhat-trong-lich-su-quan-trac-5139875.html",
+    "published_at": "Mon, 02 Nov 2026 17:27:47 +0700",
+    "createAt": "2026-11-02T10:27:47.000Z",
+    "thumbnail_blurhash": "LKF#~?~pORxS9qxm--x?ORxU-no}"
   }
 ]
