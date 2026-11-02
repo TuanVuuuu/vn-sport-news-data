@@ -466,5 +466,44 @@
     "published_at": "Mon, 02 Nov 2026 12:18:54 +0700",
     "createAt": "2026-11-02T05:18:54.000Z",
     "thumbnail_blurhash": "LACZFh~Ws:xu_3-qxbxux]E1xvxv"
+  },
+  {
+    "id": "https://vnexpress.net/5-nguyen-nhan-gay-dau-sau-trong-hoc-mat-5139529.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "5 nguyên nhân gây đau sâu trong hốc mắt",
+    "description": "Cảm giác đau âm ỉ, căng tức phía sau mắt có thể liên quan đến viêm dây thần kinh thị giác, viêm xoang, đau nửa đầu hoặc các bệnh lý bên trong nhãn cầu.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/02/thi-luc-1793585627-3066-1793585642.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=sP6BGKlnoeDh-P4fWOdSDQ",
+    "link": "https://vnexpress.net/5-nguyen-nhan-gay-dau-sau-trong-hoc-mat-5139529.html",
+    "published_at": "Mon, 02 Nov 2026 13:00:00 +0700",
+    "createAt": "2026-11-02T06:00:00.000Z",
+    "thumbnail_blurhash": "LiJ*I:-:_NNGtltQsmM|kWR*n$n%"
+  },
+  {
+    "id": "https://vnexpress.net/an-khoai-lang-thoi-diem-nao-giup-giam-can-5139501.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Ăn khoai lang thời điểm nào giúp giảm cân?",
+    "description": "Khoai lang giàu chất xơ và kali nhưng chứa tinh bột, ăn quá nhiều trong bữa chính có thể gây dư thừa năng lượng.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/02/buoc233551645172245-1793582342-6384-1793582388.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Q3rpMApytm_w6qxW2EgFew",
+    "link": "https://vnexpress.net/an-khoai-lang-thoi-diem-nao-giup-giam-can-5139501.html",
+    "published_at": "Mon, 02 Nov 2026 13:00:00 +0700",
+    "createAt": "2026-11-02T06:00:00.000Z",
+    "thumbnail_blurhash": "L3H-%]000Exn05?A%d~e06?W.3xt"
+  },
+  {
+    "id": "https://vnexpress.net/tam-anh-quan-7-dat-diem-chat-luong-phong-kham-cao-nhat-tp-hcm-5139707.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Tâm Anh Quận 7 đạt điểm chất lượng phòng khám cao nhất TP HCM",
+    "description": "Phòng khám Đa khoa Tâm Anh quận 7 đạt 4,78 điểm, theo thang điểm 5, là mức cao nhất trong danh sách 247 phòng khám đa khoa vừa được Sở Y tế TP HCM chấm điểm.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/02/h3-1793599474-2574-1793599500.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=oRdbNZglj5u7EP16qByPIA",
+    "link": "https://vnexpress.net/tam-anh-quan-7-dat-diem-chat-luong-phong-kham-cao-nhat-tp-hcm-5139707.html",
+    "published_at": "Mon, 02 Nov 2026 13:30:00 +0700",
+    "createAt": "2026-11-02T06:30:00.000Z",
+    "thumbnail_blurhash": "LaN^Yl-:Rit7_NRPt7xuxuRPofaf"
   }
 ]
