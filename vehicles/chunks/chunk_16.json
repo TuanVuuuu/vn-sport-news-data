@@ -999,5 +999,31 @@
     "published_at": "Mon, 02 Nov 2026 05:00:00 +0700",
     "createAt": "2026-11-01T22:00:00.000Z",
     "thumbnail_blurhash": "Lh42_|kGaladf?b0a+jrWAafbgkD"
+  },
+  {
+    "id": "https://vnexpress.net/hon-2-600-xe-toyota-hilux-loi-den-cho-dan-duong-5139355.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Hơn 2.600 xe Toyota Hilux lỗi đèn chờ dẫn đường",
+    "description": "Nhiều mẫu Hilux gặp lỗi phần mềm điều khiển đèn chờ dẫn đường, cần triệu hồi để sửa chữa từ cuối tháng 10.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/01/1178340698995091783407053-1793-7823-6628-1793521260.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=6tdHys58qS5xQheU2C6y3g",
+    "link": "https://vnexpress.net/hon-2-600-xe-toyota-hilux-loi-den-cho-dan-duong-5139355.html",
+    "published_at": "Mon, 02 Nov 2026 06:00:00 +0700",
+    "createAt": "2026-11-01T23:00:00.000Z",
+    "thumbnail_blurhash": "L8BpqYD%00_3KPRj9Gxu00xu~XIU"
+  },
+  {
+    "id": "https://vnexpress.net/oto-lao-nhanh-qua-nga-tu-huc-nga-xe-may-5139398.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Ôtô lao nhanh qua ngã tư húc ngã xe máy",
+    "description": "Ôtô chạy nhanh qua ngã tư, cắt ngang đầu xe máy đang rẽ trái, tông trúng bánh trước khiến hai người trên xe ngã xuống đường, chiều 1/11.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/01/Unknown3-1793532510-7752-1793532529.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=qevw43O9q1artEZJX7sSyg&t=image",
+    "link": "https://vnexpress.net/oto-lao-nhanh-qua-nga-tu-huc-nga-xe-may-5139398.html",
+    "published_at": "Mon, 02 Nov 2026 06:31:00 +0700",
+    "createAt": "2026-11-01T23:31:00.000Z",
+    "thumbnail_blurhash": "LpIX~%M{R%xa~XNGfjjs-;j]t7R%"
   }
 ]
