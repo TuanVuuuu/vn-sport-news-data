@@ -37,5 +37,31 @@
     "published_at": "Mon, 02 Nov 2026 11:00:15 +0700",
     "createAt": "2026-11-02T04:00:15.000Z",
     "thumbnail_blurhash": "LGKB8hxu_N?bIA%2%MWX01WB%MV@"
+  },
+  {
+    "id": "https://vnexpress.net/man-ruoc-duoc-tao-diem-nhan-concert-tu-hao-la-nguoi-viet-nam-5139432.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Màn rước đuốc tạo điểm nhấn concert 'Tự hào là người Việt Nam'",
+    "description": "Cựu chiến binh trao ngọn đuốc cho người trẻ trên sân khấu tạo điểm nhấn cảm xúc ở concert \"Tự hào là người Việt Nam\".",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/11/02/tuhaolanguoivietnam-1793591514-8869-1793591821.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=hST1rD2ryay9DiW5yBXTQQ",
+    "link": "https://vnexpress.net/man-ruoc-duoc-tao-diem-nhan-concert-tu-hao-la-nguoi-viet-nam-5139432.html",
+    "published_at": "Mon, 02 Nov 2026 11:57:21 +0700",
+    "createAt": "2026-11-02T04:57:21.000Z",
+    "thumbnail_blurhash": "LqDSCAM{NHkA^-NGR*oe-?NHRkoe"
+  },
+  {
+    "id": "https://vnexpress.net/co-gai-15-tuoi-duoc-vi-la-tieu-truong-ba-chi-5138763.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Cô gái 15 tuổi được ví là 'tiểu Trương Bá Chi'",
+    "description": "Triệu Ngọc Kỳ, nữ sinh Trung Quốc 15 tuổi, gia nhập làng phim sau khi nổi tiếng với loạt hình gợi liên tưởng Trương Bá Chi.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/10/30/top-ba-chi-8-1793342355.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=2yaBB7_shf9ZTgOyfy0lNg",
+    "link": "https://vnexpress.net/co-gai-15-tuoi-duoc-vi-la-tieu-truong-ba-chi-5138763.html",
+    "published_at": "Mon, 02 Nov 2026 12:30:00 +0700",
+    "createAt": "2026-11-02T05:30:00.000Z",
+    "thumbnail_blurhash": "LGGks{%^C~y9_1Dk?ZE2J~IV%KMz"
   }
 ]
