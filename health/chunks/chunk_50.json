@@ -401,5 +401,44 @@
     "published_at": "Mon, 02 Nov 2026 10:00:00 +0700",
     "createAt": "2026-11-02T03:00:00.000Z",
     "thumbnail_blurhash": "LMN^xa~E?@-:yW-qtTtR?aROR4-;"
+  },
+  {
+    "id": "https://vnexpress.net/kich-thuoc-soi-mat-bao-nhieu-nguy-hiem-5139613.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Kích thước sỏi mật bao nhiêu nguy hiểm?",
+    "description": "Bác sĩ siêu âm phát hiện tôi có sỏi túi mật kích thước 18 mm. Sỏi kích thước này nguy hiểm không, khi nào cần phẫu thuật? (Ngọc Đức, 42 tuổi, Bắc Ninh)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/02/bac-si-sieu-am-tui-mat-1793590-2700-5520-1793590018.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=ucHIvoyXEnXm1Mbw535umw",
+    "link": "https://vnexpress.net/kich-thuoc-soi-mat-bao-nhieu-nguy-hiem-5139613.html",
+    "published_at": "Mon, 02 Nov 2026 00:00:00 +0700",
+    "createAt": "2026-11-01T17:00:00.000Z",
+    "thumbnail_blurhash": "LYLz%4~VxBD$_2i^V?M_f5ngxtWX"
+  },
+  {
+    "id": "https://vnexpress.net/soi-ket-nieu-quan-gay-than-u-nuoc-nhiem-khuan-5139531.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Sỏi kẹt niệu quản gây thận ứ nước nhiễm khuẩn",
+    "description": "Ông Minh, 50 tuổi, có sỏi lớn kẹt ở niệu quản khiến thận ứ nước nhiễm khuẩn, được bác sĩ dẫn lưu thận và điều trị bằng thuốc kháng sinh trước khi tán sỏi.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/02/hinh-pr-1793585492-5898-1793585513.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=wiVLMKDWRql_pY8XRuVtZg",
+    "link": "https://vnexpress.net/soi-ket-nieu-quan-gay-than-u-nuoc-nhiem-khuan-5139531.html",
+    "published_at": "Mon, 02 Nov 2026 11:00:00 +0700",
+    "createAt": "2026-11-02T04:00:00.000Z",
+    "thumbnail_blurhash": "LRIi@B?Y%KtS~Ka%%M%1xTtSIrM}"
+  },
+  {
+    "id": "https://vnexpress.net/huyet-khoi-lam-tac-dong-mach-nao-nguoi-phu-nu-gay-dot-quy-5139530.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Huyết khối làm tắc động mạch não người phụ nữ gây đột quỵ",
+    "description": "Bà Chi, 49 tuổi, đột ngột liệt nửa người, chóng mặt, đau đầu, bác sĩ phát hiện huyết khối làm tắc động mạch não.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/02/vne-1793585230-8944-1793585236.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=uPj7xCqELZAyDtFZH6KiDQ",
+    "link": "https://vnexpress.net/huyet-khoi-lam-tac-dong-mach-nao-nguoi-phu-nu-gay-dot-quy-5139530.html",
+    "published_at": "Mon, 02 Nov 2026 11:00:00 +0700",
+    "createAt": "2026-11-02T04:00:00.000Z",
+    "thumbnail_blurhash": "LfHV@{.ADh%f^b${R-jYt8aeocbJ"
   }
 ]
