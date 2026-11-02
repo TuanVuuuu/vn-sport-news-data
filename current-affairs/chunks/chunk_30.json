@@ -154,5 +154,31 @@
     "published_at": "Mon, 02 Nov 2026 09:52:36 +0700",
     "createAt": "2026-11-02T02:52:36.000Z",
     "thumbnail_blurhash": "L24Lg|8_4:~qMxx]j[IU00-;?G4o"
+  },
+  {
+    "id": "https://vnexpress.net/mien-bac-sap-don-khong-khi-lanh-manh-5139544.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Miền Bắc sắp đón không khí lạnh mạnh",
+    "description": "Miền Bắc mưa rải rác trong những ngày đầu tuần, sau đó đón không khí lạnh mạnh từ khoảng ngày 6/11, khiến nhiệt độ giảm, vùng núi có nơi dưới 18 độ C.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/02/thu-hn-of-1793586317-1868-1793586324.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=5zBoBSBsQC1CgJ4fCD3udw",
+    "link": "https://vnexpress.net/mien-bac-sap-don-khong-khi-lanh-manh-5139544.html",
+    "published_at": "Mon, 02 Nov 2026 10:07:40 +0700",
+    "createAt": "2026-11-02T03:07:40.000Z",
+    "thumbnail_blurhash": "LZI=StofNGjE~Vt7M{RP?G%MafM_"
+  },
+  {
+    "id": "https://vnexpress.net/con-sot-thu-mua-oc-buou-vang-o-mien-tay-5139151.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Cơn sốt thu mua ốc bươu vàng ở miền Tây",
+    "description": "Tranh thủ lũ về đồng, người dân bắt ốc bươu vàng sinh sôi tự nhiên, bán cho thương lái sơ chế làm thức ăn cho trang trại nuôi tôm, cá ở miền Trung và miền Tây.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/02/11-thu-mua-obv-1793589530-7890-1793589812.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=5SD005ZyxrKlq9ykU-PFuw",
+    "link": "https://vnexpress.net/con-sot-thu-mua-oc-buou-vang-o-mien-tay-5139151.html",
+    "published_at": "Mon, 02 Nov 2026 10:23:31 +0700",
+    "createAt": "2026-11-02T03:23:31.000Z",
+    "thumbnail_blurhash": "LeL4EDxU?^sp-;oNs-JTTKxun%ax"
   }
 ]
