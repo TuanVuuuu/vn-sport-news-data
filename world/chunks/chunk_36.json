@@ -427,5 +427,31 @@
     "published_at": "Mon, 02 Nov 2026 07:12:32 +0700",
     "createAt": "2026-11-02T00:12:32.000Z",
     "thumbnail_blurhash": "LhKTS@bb-;-q~DWBNHWBRjn#Inn#"
+  },
+  {
+    "id": "https://vnexpress.net/he-thong-canh-bao-cua-ukraine-bi-xam-nhap-phat-bao-dong-gia-ve-hat-nhan-5139467.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Hệ thống cảnh báo của Ukraine bị xâm nhập, phát báo động giả về hạt nhân",
+    "description": "Người dân Ukraine nhận được cảnh báo giả về mối đe dọa hạt nhân và hóa học, do hệ thống báo động không kích bị xâm nhập.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/02/canh-bao-gia-1793578802-9660-1793579250.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=e5BuVaYr54DkREyZOIbavw",
+    "link": "https://vnexpress.net/he-thong-canh-bao-cua-ukraine-bi-xam-nhap-phat-bao-dong-gia-ve-hat-nhan-5139467.html",
+    "published_at": "Mon, 02 Nov 2026 07:43:13 +0700",
+    "createAt": "2026-11-02T00:43:13.000Z",
+    "thumbnail_blurhash": "L47KVaWB00t7={ayELof01j[~pWB"
+  },
+  {
+    "id": "https://vnexpress.net/chuoi-don-danh-giup-iran-choc-mu-phong-khong-pha-huy-can-cu-my-5139389.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Chuỗi đòn đánh giúp Iran chọc mù phòng không, phá huỷ căn cứ Mỹ",
+    "description": "Ảnh vệ tinh mới công bố cho thấy Iran bắt đầu trả đũa bằng cách tập kích lưới cảnh báo sớm của Mỹ, mở đường cho những đợt tấn công nối tiếp.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/01/5563187178137269562d-Copy-1793536798.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=hSJaGK8y54qGzfPE-Y69NQ",
+    "link": "https://vnexpress.net/chuoi-don-danh-giup-iran-choc-mu-phong-khong-pha-huy-can-cu-my-5139389.html",
+    "published_at": "Mon, 02 Nov 2026 08:00:00 +0700",
+    "createAt": "2026-11-02T01:00:00.000Z",
+    "thumbnail_blurhash": "LCO.]g^%?F?F~BR*xZt6=_bHWBs:"
   }
 ]
