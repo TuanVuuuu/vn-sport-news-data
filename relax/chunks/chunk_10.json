@@ -349,5 +349,31 @@
     "published_at": "Mon, 02 Nov 2026 00:02:00 +0700",
     "createAt": "2026-11-01T17:02:00.000Z",
     "thumbnail_blurhash": "LmL3xkRnNajc~pjaRkt6yDbFoJWE"
+  },
+  {
+    "id": "https://vnexpress.net/cun-con-lao-den-bao-ve-co-chu-khoi-con-ngong-hung-du-5138782.html",
+    "category_id": "relax",
+    "category_name": "Thư giãn",
+    "source": "VnExpress",
+    "title": "Cún con lao đến bảo vệ cô chủ khỏi con ngỗng hung dữ",
+    "description": "Video ghi lại khoảnh khắc ấm lòng, nơi một con ngỗng đuổi theo bé gái, và chú chó con của gia đình đã dũng cảm lao tới chặn đường.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/30/tixung-1793344594-3919-1793345199.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=me28z5zz1iDSQq-eabnj-Q&t=image",
+    "link": "https://vnexpress.net/cun-con-lao-den-bao-ve-co-chu-khoi-con-ngong-hung-du-5138782.html",
+    "published_at": "Mon, 02 Nov 2026 08:00:00 +0700",
+    "createAt": "2026-11-02T01:00:00.000Z",
+    "thumbnail_blurhash": "L8FiMn0000.7b$-hNvR:T2NF_39G"
+  },
+  {
+    "id": "https://vnexpress.net/tu-tieng-viet-nao-co-100-chu-c-5135934.html",
+    "category_id": "relax",
+    "category_name": "Thư giãn",
+    "source": "VnExpress",
+    "title": "Từ tiếng Việt nào có 100 chữ 'C'?",
+    "description": "Một từ tiếng Việt ngắn gọn nhưng được cho là chứa tới 100 chữ “C”. Đừng vội đếm từng ký tự, bởi đáp án ẩn chứa một mẹo bất ngờ!",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/23/gemini-generated-image-gosm1kg-2220-1288-1792726533.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=6ZQlsGQ2wN2m7K-WEHSSBQ",
+    "link": "https://vnexpress.net/tu-tieng-viet-nao-co-100-chu-c-5135934.html",
+    "published_at": "Mon, 02 Nov 2026 09:23:29 +0700",
+    "createAt": "2026-11-02T02:23:29.000Z",
+    "thumbnail_blurhash": "LGP6~%-;?a-;~WayRjRjozaeRjNG"
   }
 ]
