@@ -193,5 +193,31 @@
     "published_at": "Tue, 03 Nov 2026 11:00:00 +0700",
     "createAt": "2026-11-03T04:00:00.000Z",
     "thumbnail_blurhash": "LIEeMq~CM_4.01Iot8%3EME2Ris:"
+  },
+  {
+    "id": "https://vnexpress.net/ly-do-hacker-co-the-tan-cong-tang-nhiet-do-tu-lanh-sieu-thi-5140045.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Lý do hacker có thể tấn công tăng nhiệt độ tủ lạnh siêu thị",
+    "description": "Nhiều siêu thị tại châu Âu bị tăng nhiệt hàng loạt tủ lạnh ngay cả khi tủ không có tính năng kết nối Internet, do hacker tấn công hệ thống điều khiển trung tâm.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/03/image-1793678466-6963-1793678747.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=JvkjwfNLV1daKOea-XEZ_Q",
+    "link": "https://vnexpress.net/ly-do-hacker-co-the-tan-cong-tang-nhiet-do-tu-lanh-sieu-thi-5140045.html",
+    "published_at": "Tue, 03 Nov 2026 11:59:18 +0700",
+    "createAt": "2026-11-03T04:59:18.000Z",
+    "thumbnail_blurhash": "LBCsQ?E+-:xa~pIrV?WA?H9vV@WA"
+  },
+  {
+    "id": "https://vnexpress.net/fpt-van-hanh-thu-nghiem-nha-may-chip-tai-bac-ninh-5140108.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "FPT vận hành thử nghiệm nhà máy chip tại Bắc Ninh",
+    "description": "FPT bắt đầu vận hành thử nghiệm nhà máy kiểm thử và đóng gói chip tại Bắc Ninh với 6 dây chuyền, công suất thiết kế tối đa 300 triệu chip mỗi năm.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/03/ndm00962-1793681713-7322-1793682094.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=363bIJSVnE0JqOWRUcaeLg",
+    "link": "https://vnexpress.net/fpt-van-hanh-thu-nghiem-nha-may-chip-tai-bac-ninh-5140108.html",
+    "published_at": "Tue, 03 Nov 2026 12:09:47 +0700",
+    "createAt": "2026-11-03T05:09:47.000Z",
+    "thumbnail_blurhash": "L9Ef=[$,0000?wxuIUIA00X8xu%h"
   }
 ]
