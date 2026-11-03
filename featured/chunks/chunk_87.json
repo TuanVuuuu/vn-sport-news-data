@@ -999,5 +999,83 @@
     "published_at": "Tue, 03 Nov 2026 13:24:10 +0700",
     "createAt": "2026-11-03T06:24:10.000Z",
     "thumbnail_blurhash": "LGAmup$tIkxg^WnqNOoDIBMwoGR*"
+  },
+  {
+    "id": "https://vnexpress.net/thiet-ke-khien-may-bay-my-lao-cam-dau-nhu-ten-lua-5140013.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Thiết kế khiến máy bay Mỹ lao cắm đầu như tên lửa",
+    "description": "Thiết kế tối ưu hóa khí động học của Learjet 60 được coi là nguyên nhân khiến máy bay lao gần như thẳng đứng khi mất kiểm soát ở độ cao quá lớn.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/03/khoanhkhacmaybayroi-1793677174-3349-1793677404.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=uFtlElUL9nDoR4VnIDVQ8A",
+    "link": "https://vnexpress.net/thiet-ke-khien-may-bay-my-lao-cam-dau-nhu-ten-lua-5140013.html",
+    "published_at": "Tue, 03 Nov 2026 14:00:04 +0700",
+    "createAt": "2026-11-03T07:00:04.000Z",
+    "thumbnail_blurhash": "LXIOhG~qogoz?b%Mxut70KIUWBoe"
+  },
+  {
+    "id": "https://vnexpress.net/asian-cup-2027-bi-hoan-gan-mot-nam-5140191.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Asian Cup 2027 bị hoãn gần một năm",
+    "description": "LĐBĐ châu Á (AFC) quyết định hoãn Asian Cup đến cuối tháng 12/2027 vì tình hình bất ổn tại Arab Saudi, khiến kế hoạch của các đội tuyển bị đảo lộn, trong đó có Việt Nam.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/11/03/dong2018-jpg-1793689233-5555-1793689454.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=69eMK_w06mcoBxfQ6al0tQ",
+    "link": "https://vnexpress.net/asian-cup-2027-bi-hoan-gan-mot-nam-5140191.html",
+    "published_at": "Tue, 03 Nov 2026 14:07:43 +0700",
+    "createAt": "2026-11-03T07:07:43.000Z",
+    "thumbnail_blurhash": "LCJQA?y=1bz=8wQSIbj2-mx=J%Vt"
+  },
+  {
+    "id": "https://vnexpress.net/vi-sao-bo-tai-chinh-de-xuat-dieu-chinh-bang-gia-dat-3-nam-mot-lan-5140066.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Vì sao Bộ Tài chính đề xuất điều chỉnh bảng giá đất 3 năm một lần?",
+    "description": "Theo Bộ Tài chính, bảng giá đất 3 năm sẽ bảo đảm cân bằng, ổn định chính sách và cập nhật kịp thời biến động thị trường địa ốc.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/03/dji-1793684433-2848-1793684455.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Mby9xDDrDxoFfWGdNF23Fw",
+    "link": "https://vnexpress.net/vi-sao-bo-tai-chinh-de-xuat-dieu-chinh-bang-gia-dat-3-nam-mot-lan-5140066.html",
+    "published_at": "Tue, 03 Nov 2026 14:12:45 +0700",
+    "createAt": "2026-11-03T07:12:45.000Z",
+    "thumbnail_blurhash": "LJEfsQbwInWo%%slt8f+cHxabHt7"
+  },
+  {
+    "id": "https://vnexpress.net/chuoi-benh-vien-tu-nhan-lon-phia-bac-lo-hon-tram-ty-dong-5140077.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Chuỗi bệnh viện tư nhân lớn phía Bắc lỗ hơn trăm tỷ đồng",
+    "description": "Tập đoàn Bệnh viện TNH lỗ sau thuế gần 117 tỷ đồng trong 9 tháng đầu năm khi lãi vay và chi phí vận hành tăng ở các cơ sở mới.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/03/615403717122621230966308910603-9945-6944-1793677467.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=k0LJT-4b8Z5N85c4XUVEpQ",
+    "link": "https://vnexpress.net/chuoi-benh-vien-tu-nhan-lon-phia-bac-lo-hon-tram-ty-dong-5140077.html",
+    "published_at": "Tue, 03 Nov 2026 14:16:03 +0700",
+    "createAt": "2026-11-03T07:16:03.000Z",
+    "thumbnail_blurhash": "LcIF}2?cxax@?KWAawWBxwxtaMM|"
+  },
+  {
+    "id": "https://vnexpress.net/luong-toi-thieu-vung-tang-310-000-390-000-dong-tu-nam-2027-5140183.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Lương tối thiểu vùng tăng 310.000-390.000 đồng từ năm 2027",
+    "description": "Từ ngày 1/1/2027, lương tối thiểu vùng tăng 310.000-390.000 đồng mỗi tháng, lên mức 4,04-5,7 triệu đồng, áp dụng với người lao động làm việc theo hợp đồng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/03/233a2588-1793689643-5599-1793689807.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=WvBUbgYw6qL5TQv5YIBMqQ",
+    "link": "https://vnexpress.net/luong-toi-thieu-vung-tang-310-000-390-000-dong-tu-nam-2027-5140183.html",
+    "published_at": "Tue, 03 Nov 2026 14:18:08 +0700",
+    "createAt": "2026-11-03T07:18:08.000Z",
+    "thumbnail_blurhash": "LIF=p*%%AI=CyYnh$%I[M#f3kWR="
+  },
+  {
+    "id": "https://vnexpress.net/12-doanh-nghiep-dang-ky-tuyen-cong-nhan-ecco-viet-nam-5140178.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "12 doanh nghiệp đăng ký tuyển công nhân ECCO Việt Nam",
+    "description": "Ít nhất 12 doanh nghiệp có hơn 5.600 vị trí tuyển dụng, mở cơ hội việc làm cho hơn 1.600 lao động sau khi nhà máy ECCO Việt Nam ở TP HCM ngừng sản xuất.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/03/1793689750183-1793690804-9328-1793690822.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=_egdKfPH2kjNWvUcH0q8Kg",
+    "link": "https://vnexpress.net/12-doanh-nghiep-dang-ky-tuyen-cong-nhan-ecco-viet-nam-5140178.html",
+    "published_at": "Tue, 03 Nov 2026 14:24:51 +0700",
+    "createAt": "2026-11-03T07:24:51.000Z",
+    "thumbnail_blurhash": "L~H.vnf8WXof?wofWVoMxvbcWCoJ"
   }
 ]
