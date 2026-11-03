@@ -310,5 +310,31 @@
     "published_at": "Tue, 03 Nov 2026 10:35:42 +0700",
     "createAt": "2026-11-03T03:35:42.000Z",
     "thumbnail_blurhash": "LQHeIC_N~q?a?b?btRWAI:s+njIo"
+  },
+  {
+    "id": "https://vnexpress.net/du-hoc-sinh-van-dong-lap-voi-xit-ve-sinh-o-canada-5140075.html",
+    "category_id": "life",
+    "category_name": "Đời sống",
+    "source": "VnExpress",
+    "title": "Du học sinh vận động lắp vòi xịt vệ sinh ở Canada",
+    "description": "Sốc vì nhà vệ sinh không vòi xịt, một du học sinh UAE tại Canada khởi xướng chiến dịch vận động nhà trường lắp đặt thiết bị này và được nhiều sinh viên hưởng ứng.",
+    "thumbnail_url": "https://vcdn1-giadinh.vnecdn.net/2026/11/03/tai-xuong-1793689987-4873-1793690050.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=thKQMkh5qiSlCEm6eo0MfQ",
+    "link": "https://vnexpress.net/du-hoc-sinh-van-dong-lap-voi-xit-ve-sinh-o-canada-5140075.html",
+    "published_at": "Tue, 03 Nov 2026 14:17:45 +0700",
+    "createAt": "2026-11-03T07:17:45.000Z",
+    "thumbnail_blurhash": "LDBMe~NH5R~U%fIVRP%2o}V@slt7"
+  },
+  {
+    "id": "https://vnexpress.net/linh-cuu-hoa-bangkok-bat-ran-nhieu-hon-dap-lua-5139616.html",
+    "category_id": "life",
+    "category_name": "Đời sống",
+    "source": "VnExpress",
+    "title": "Lính cứu hỏa Bangkok bắt rắn nhiều hơn dập lửa",
+    "description": "Đội trưởng Pinyo Pukpinyo dẫn dắt lực lượng cứu hỏa Bangkok bắt hơn 30.000 con rắn mỗi năm, đồng thời huấn luyện kỹ năng ứng phó an toàn cho đồng đội và người dân.",
+    "thumbnail_url": "https://vcdn1-giadinh.vnecdn.net/2026/11/02/a-nh-ma-n-hi-nh-lu-c-179359049-8107-1975-1793590760.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=UL5MDITtYD6z2cnv_dPx-A",
+    "link": "https://vnexpress.net/linh-cuu-hoa-bangkok-bat-ran-nhieu-hon-dap-lua-5139616.html",
+    "published_at": "Tue, 03 Nov 2026 14:56:34 +0700",
+    "createAt": "2026-11-03T07:56:34.000Z",
+    "thumbnail_blurhash": "LaEye~~XD$00RlRjM{ofM|a^oft8"
   }
 ]
