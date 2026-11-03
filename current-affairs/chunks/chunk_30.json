@@ -518,5 +518,44 @@
     "published_at": "Tue, 03 Nov 2026 11:01:25 +0700",
     "createAt": "2026-11-03T04:01:25.000Z",
     "thumbnail_blurhash": "LOHxNb~qD%9E00M{W=NHV?D%%2?b"
+  },
+  {
+    "id": "https://vnexpress.net/khong-de-nguoi-benh-phai-mua-thuoc-dat-vi-doc-quyen-keo-dai-5140060.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "'Không để người bệnh phải mua thuốc đắt vì độc quyền kéo dài'",
+    "description": "Đại biểu Nguyễn Lân Hiếu đề nghị siết điều kiện bảo hộ sáng chế thuốc, tránh kéo dài độc quyền khiến người bệnh khó tiếp cận thuốc với giá hợp lý.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/03/IMG20261103114700-1793681306-3594-1793681310.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=bLh5fadP3J5yLVh01Bpgcg",
+    "link": "https://vnexpress.net/khong-de-nguoi-benh-phai-mua-thuoc-dat-vi-doc-quyen-keo-dai-5140060.html",
+    "published_at": "Tue, 03 Nov 2026 11:17:35 +0700",
+    "createAt": "2026-11-03T04:17:35.000Z",
+    "thumbnail_blurhash": "LCM%r~q?}}D=@;OFA3DO00tAI9%K"
+  },
+  {
+    "id": "https://vnexpress.net/bai-coc-thoi-dong-son-va-vuon-nghin-rong-thanh-di-tich-quoc-gia-5140113.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Bãi cọc thời Đông Sơn và vườn nghìn rồng thành di tích quốc gia",
+    "description": "Sở hữu di tích đa lớp từ thời Đông Sơn đến triều Trần, khu di tích khảo cổ Thiên Long Uyển và bãi cọc Yên Đức vừa được công nhận di tích quốc gia.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/03/coc-1793680048-8512-1793680063.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=XVgBXprYBLT3qRDdoMDoyg",
+    "link": "https://vnexpress.net/bai-coc-thoi-dong-son-va-vuon-nghin-rong-thanh-di-tich-quoc-gia-5140113.html",
+    "published_at": "Tue, 03 Nov 2026 12:06:55 +0700",
+    "createAt": "2026-11-03T05:06:55.000Z",
+    "thumbnail_blurhash": "LCH_Vw~pIoxa_1adoejYtI$~R-n%"
+  },
+  {
+    "id": "https://vnexpress.net/ben-bach-dang-sap-co-them-hai-cau-di-bo-5140110.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Bến Bạch Đằng sắp có thêm hai cầu đi bộ",
+    "description": "Hai cầu đi bộ qua đường Tôn Đức Thắng cùng hạng mục chỉnh trang cầu bến ven sông dự kiến có vốn hơn 88 tỷ đồng, do doanh nghiệp tài trợ.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/03/179262443215262691164154593038-6227-2150-1793679755.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=_3e_OKfQiBmyFGdaj8QtQA",
+    "link": "https://vnexpress.net/ben-bach-dang-sap-co-them-hai-cau-di-bo-5140110.html",
+    "published_at": "Tue, 03 Nov 2026 12:12:57 +0700",
+    "createAt": "2026-11-03T05:12:57.000Z",
+    "thumbnail_blurhash": "LhFFvw^%xZt7_N%Ks.oftmoeoffk"
   }
 ]
