@@ -817,5 +817,44 @@
     "published_at": "Tue, 03 Nov 2026 21:36:49 +0700",
     "createAt": "2026-11-03T14:36:49.000Z",
     "thumbnail_blurhash": "LJD04c~q?bozXpM}kYRn4?4.VtWB"
+  },
+  {
+    "id": "https://vnexpress.net/sieu-thi-chau-au-bo-loat-thuc-pham-sau-vu-hacker-tan-cong-tu-lanh-5140387.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Siêu thị châu Âu bỏ loạt thực phẩm sau vụ hacker tấn công tủ lạnh",
+    "description": "Hơn 115 cửa hàng tại châu Âu bị ảnh hưởng bởi cuộc tấn công vào hệ thống làm lạnh, khiến lượng lớn thực phẩm hư hỏng, phải tiêu hủy.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/03/20261103214013-1793716832-3965-1793716902.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=q3S0os6dFczjpuzn6rDkdA",
+    "link": "https://vnexpress.net/sieu-thi-chau-au-bo-loat-thuc-pham-sau-vu-hacker-tan-cong-tu-lanh-5140387.html",
+    "published_at": "Tue, 03 Nov 2026 21:41:42 +0700",
+    "createAt": "2026-11-03T14:41:42.000Z",
+    "thumbnail_blurhash": "LJEyJP_2-Oxt~q-Q$|kXx_IAn3j^"
+  },
+  {
+    "id": "https://vnexpress.net/cahn-lan-dau-co-diem-truoc-clb-nhat-ban-o-champions-league-chau-a-5140420.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "CAHN lần đầu có điểm trước CLB Nhật Bản ở Champions League châu Á",
+    "description": "Hòa Kyoto Sanga 0-0 tối 3/11, Công an Hà Nội lần đầu có điểm trước các đại diện Nhật Bản tại vòng phân hạng AFC Champions League Elite 2026-2027.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/11/03/1793710757086f8dfc4a864398eca2-7826-7228-1793717240.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=osPiwhDtKX0aY1P2a3Bkbg",
+    "link": "https://vnexpress.net/cahn-lan-dau-co-diem-truoc-clb-nhat-ban-o-champions-league-chau-a-5140420.html",
+    "published_at": "Tue, 03 Nov 2026 21:49:46 +0700",
+    "createAt": "2026-11-03T14:49:46.000Z",
+    "thumbnail_blurhash": "L8JG~1^-2RK@8zI^MfZ+pzE7]-,-"
+  },
+  {
+    "id": "https://vnexpress.net/nguoi-mau-kim-ja-yeon-cuoi-doanh-nhan-70-tuoi-5140421.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Người mẫu Kim Ja Yeon cưới doanh nhân 70 tuổi",
+    "description": "Cựu siêu mẫu Hàn Quốc Kim Ja Yeon, 45 tuổi, cùng doanh nhân Son Young Kwon, 70 tuổi, làm lễ cưới ở Thụy Sĩ.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/11/03/kim-ja-yeon-1793717005-1246-1793717259.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=JJBFZ9y0vBInFDuXYQ_deA",
+    "link": "https://vnexpress.net/nguoi-mau-kim-ja-yeon-cuoi-doanh-nhan-70-tuoi-5140421.html",
+    "published_at": "Tue, 03 Nov 2026 22:20:05 +0700",
+    "createAt": "2026-11-03T15:20:05.000Z",
+    "thumbnail_blurhash": "LFHezh000J~U4TxdN1NM4-XAs9of"
   }
 ]
