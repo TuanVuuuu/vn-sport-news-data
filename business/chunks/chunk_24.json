@@ -674,5 +674,57 @@
     "published_at": "Tue, 03 Nov 2026 22:54:34 +0700",
     "createAt": "2026-11-03T15:54:34.000Z",
     "thumbnail_blurhash": "LI5~-SyGawXUaHR:WZoKDlM{oHkE"
+  },
+  {
+    "id": "https://vnexpress.net/khong-ai-mua-lo-vang-tang-vat-hon-150-trieu-dong-o-nghe-an-5140427.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Không ai mua lô vàng tang vật hơn 150 triệu đồng ở Nghệ An",
+    "description": "15 người đăng ký mua lô trang sức vàng là tang vật vi phạm trị giá hơn 150 triệu đồng ở Nghệ An, song cả 7 người đến dự bốc thăm đều rút lui.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/03/vang-1793719444-6056-1793719736.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Zysj0nBNqSKMWHFojE4c4Q",
+    "link": "https://vnexpress.net/khong-ai-mua-lo-vang-tang-vat-hon-150-trieu-dong-o-nghe-an-5140427.html",
+    "published_at": "Tue, 03 Nov 2026 23:36:50 +0700",
+    "createAt": "2026-11-03T16:36:50.000Z",
+    "thumbnail_blurhash": "LLG*dAs;o#xurpf5kDj@.Aofj[j]"
+  },
+  {
+    "id": "https://vnexpress.net/von-vao-startup-khi-hau-o-viet-nam-giam-mot-nua-5140313.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Vốn vào startup khí hậu ở Việt Nam giảm một nửa",
+    "description": "Tổng vốn đầu tư vào các startup công nghệ khí hậu tại Việt Nam năm 2025 đã giảm 52% so với 2024, theo báo cáo.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/03/vonxanh-1793697811-6716-1793697827.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ouXDrVLAdb14kkCny-f6Eg",
+    "link": "https://vnexpress.net/von-vao-startup-khi-hau-o-viet-nam-giam-mot-nua-5140313.html",
+    "published_at": "Wed, 04 Nov 2026 00:02:16 +0700",
+    "createAt": "2026-11-03T17:02:16.000Z",
+    "thumbnail_blurhash": "LIBz5l%eS1t60_%KxttQ~CtPx@tQ"
+  },
+  {
+    "id": "https://vnexpress.net/coteccons-lan-san-mang-truyen-thong-5140425.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Coteccons lấn sân mảng truyền thông",
+    "description": "Coteccons nâng tỷ lệ sở hữu lên 64% tại AnPR, công ty do Phó tổng giám đốc sáng lập và từng cung cấp dịch vụ truyền thông nhiều năm trước.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/03/c-trang-1793718362-2175-1793718450.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=Wlj3llBu4gsq2yNnZIyDRw",
+    "link": "https://vnexpress.net/coteccons-lan-san-mang-truyen-thong-5140425.html",
+    "published_at": "Wed, 04 Nov 2026 00:03:00 +0700",
+    "createAt": "2026-11-03T17:03:00.000Z",
+    "thumbnail_blurhash": "LtJkgIt7xyxv-@s:M{RjNJWCRhog"
+  },
+  {
+    "id": "https://vnexpress.net/viet-nam-can-1-000-may-bay-trong-20-nam-toi-5140378.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Việt Nam cần 1.000 máy bay trong 20 năm tới",
+    "description": "Airbus dự báo tốc độ tăng trưởng hành khách của Việt Nam gấp đôi mức trung bình toàn cầu, tương ứng cần thêm 1.000 chiếc trong 20 năm tới.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/03/may-bay-1793703299-5062-1793703670.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=AGuCWmNlRXrEVQNHpbkSgA",
+    "link": "https://vnexpress.net/viet-nam-can-1-000-may-bay-trong-20-nam-toi-5140378.html",
+    "published_at": "Wed, 04 Nov 2026 00:07:00 +0700",
+    "createAt": "2026-11-03T17:07:00.000Z",
+    "thumbnail_blurhash": "LeHy:pWXaxt8.TR*j[a}_2t7RjjZ"
   }
 ]

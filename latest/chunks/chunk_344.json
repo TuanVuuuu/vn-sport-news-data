@@ -1155,5 +1155,57 @@
     "published_at": "Wed, 04 Nov 2026 00:07:00 +0700",
     "createAt": "2026-11-03T17:07:00.000Z",
     "thumbnail_blurhash": "LeHy:pWXaxt8.TR*j[a}_2t7RjjZ"
+  },
+  {
+    "id": "https://vnexpress.net/vi-sao-tien-dao-de-miguel-van-tu-vong-du-hoi-suc-thanh-cong-5140407.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Vì sao tiền đạo De Miguel vẫn tử vong dù hồi sức thành công?",
+    "description": "Tiền đạo Jesus de Miguel được khôi phục mạch sau khoảng 20 phút ngừng tuần hoàn, thậm chí có thể tự thở, nhưng vẫn chết sau sự cố va chạm ở giải hạng nhì Tây Ban Nha.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/11/03/jesus-de-miguel-1793712638-8306-1793713386.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=oE_QFXha3q56x8RzvIVp8A",
+    "link": "https://vnexpress.net/vi-sao-tien-dao-de-miguel-van-tu-vong-du-hoi-suc-thanh-cong-5140407.html",
+    "published_at": "Wed, 04 Nov 2026 00:00:00 +0700",
+    "createAt": "2026-11-03T17:00:00.000Z",
+    "thumbnail_blurhash": "LjRC=1xu~p%M?bayRjt7s+ofR.M|"
+  },
+  {
+    "id": "https://vnexpress.net/ho-van-cuong-toi-khong-tu-man-khi-mua-nha-o-tuoi-22-5139749.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Hồ Văn Cường: 'Tôi không tự mãn khi mua nhà ở tuổi 22'",
+    "description": "Hồ Văn Cường nói hạnh phúc khi giúp gia đình an cư tại TP HCM, song vẫn áp lực kinh tế vì là trụ cột nuôi bố mẹ và các cháu.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/11/02/hovancuong2-1793605556-8975-1793606459.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=6f_UGjp7MMFTCCClqPeLxQ",
+    "link": "https://vnexpress.net/ho-van-cuong-toi-khong-tu-man-khi-mua-nha-o-tuoi-22-5139749.html",
+    "published_at": "Wed, 04 Nov 2026 00:00:00 +0700",
+    "createAt": "2026-11-03T17:00:00.000Z",
+    "thumbnail_blurhash": "LAF=y[~U01yV00oe_2Swl8bu={$%"
+  },
+  {
+    "id": "https://vnexpress.net/apple-bat-dau-cho-dung-thu-siri-ai-voi-tieng-viet-5140437.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Apple bắt đầu cho dùng thử Siri AI với tiếng Việt",
+    "description": "Apple cho tải về iOS 27.3 beta trên các mẫu iPhone tương thích, cho phép người dùng tương tác với trợ lý ảo Siri tích hợp AI bằng tiếng Việt.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/04/wm1-wm1-top-1784145446-1793726387-4559-1793726615.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=EP7uh2SJEbkDNLZjW1d2YQ",
+    "link": "https://vnexpress.net/apple-bat-dau-cho-dung-thu-siri-ai-voi-tieng-viet-5140437.html",
+    "published_at": "Wed, 04 Nov 2026 01:00:00 +0700",
+    "createAt": "2026-11-03T18:00:00.000Z",
+    "thumbnail_blurhash": "LtLNroyD~W?b_3ITWXt6x]xZNHRj"
+  },
+  {
+    "id": "https://vnexpress.net/nghich-ly-drone-cuu-mang-khien-linh-ukraine-doi-mat-cai-chet-5139752.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Nghịch lý 'drone cứu mạng' khiến lính Ukraine đối mặt cái chết",
+    "description": "Ukraine triển khai drone mặt đất để thực hiện nhiệm vụ nguy hiểm thay con người, nhưng binh sĩ đôi khi phải mạo hiểm tính mạng để vận hành chúng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/03/nap-dan-1793613209-6836-1793699161.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=5cAc8zl7TnWEBpgGe7quSw",
+    "link": "https://vnexpress.net/nghich-ly-drone-cuu-mang-khien-linh-ukraine-doi-mat-cai-chet-5139752.html",
+    "published_at": "Wed, 04 Nov 2026 01:00:00 +0700",
+    "createAt": "2026-11-03T18:00:00.000Z",
+    "thumbnail_blurhash": "LwE3uYjbtRt7lCWCbJbIOIofaef7"
   }
 ]
