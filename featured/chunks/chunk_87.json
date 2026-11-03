@@ -479,5 +479,31 @@
     "published_at": "Tue, 03 Nov 2026 07:00:00 +0700",
     "createAt": "2026-11-03T00:00:00.000Z",
     "thumbnail_blurhash": "L7E.|f^l004m009s.9M}009a_3~W"
+  },
+  {
+    "id": "https://vnexpress.net/quan-chuc-nga-my-ukraine-sap-gap-ba-ben-5139947.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Quan chức Nga, Mỹ, Ukraine sắp gặp ba bên",
+    "description": "Các quan chức Nga, Mỹ, Ukraine sẽ tổ chức cuộc họp ba bên vào tuần tới tại UAE để thúc đẩy các cuộc đàm phán hòa bình.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/03/witkoff-1793664279-5817-1793664313.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=VVutiHnz87uOQ67CZa5MqA",
+    "link": "https://vnexpress.net/quan-chuc-nga-my-ukraine-sap-gap-ba-ben-5139947.html",
+    "published_at": "Tue, 03 Nov 2026 07:17:43 +0700",
+    "createAt": "2026-11-03T00:17:43.000Z",
+    "thumbnail_blurhash": "LAF5Eg00?I9ttSMw9|o#0f}[i_E0"
+  },
+  {
+    "id": "https://vnexpress.net/gia-vang-the-gioi-tang-manh-thoat-day-mot-nam-5139951.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Giá vàng thế giới tăng mạnh, thoát đáy một năm",
+    "description": "Mỗi ounce vàng có thời điểm tăng gần 100 USD trong phiên đầu tuần, lên sát 4.000 USD, nhờ giá dầu giảm gần 8%.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/03/gold4-1793665108-2477-1793665164.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=HkF89yUVbyChDwHi1fDObA",
+    "link": "https://vnexpress.net/gia-vang-the-gioi-tang-manh-thoat-day-mot-nam-5139951.html",
+    "published_at": "Tue, 03 Nov 2026 07:30:34 +0700",
+    "createAt": "2026-11-03T00:30:34.000Z",
+    "thumbnail_blurhash": "L9H-C:hy0[ot00?wD5WHBDIV^gIq"
   }
 ]
