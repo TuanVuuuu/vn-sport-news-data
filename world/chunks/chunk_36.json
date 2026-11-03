@@ -1064,5 +1064,57 @@
     "published_at": "Tue, 03 Nov 2026 22:47:55 +0700",
     "createAt": "2026-11-03T15:47:55.000Z",
     "thumbnail_blurhash": "LVDl=]NH00nh~pV@D%WXxXjEa#S5"
+  },
+  {
+    "id": "https://vnexpress.net/ong-trump-my-da-tap-kich-co-so-phong-khong-cua-iran-5140428.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Ông Trump: Mỹ đã tập kích 'cơ sở phòng không' của Iran",
+    "description": "Tổng thống Trump tuyên bố Mỹ đã tấn công một \"cơ sở phòng không\" của Iran, sau khi truyền thông nói Washington đã tập kích đảo Qeshm.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/03/TngthngTrump-1793722509-8464-1793723030.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=Ghl4KRYCJTZLg1c7UZQMIA",
+    "link": "https://vnexpress.net/ong-trump-my-da-tap-kich-co-so-phong-khong-cua-iran-5140428.html",
+    "published_at": "Tue, 03 Nov 2026 23:54:04 +0700",
+    "createAt": "2026-11-03T16:54:04.000Z",
+    "thumbnail_blurhash": "LkLE7_xv.8%M~qt6V?f*j]R%V@ae"
+  },
+  {
+    "id": "https://vnexpress.net/chien-dich-truy-quet-cu-tri-gian-lan-cua-chinh-quyen-trump-5140318.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Chiến dịch truy quét cử tri gian lận của chính quyền Trump",
+    "description": "Cuộc truy quét gian lận cử tri của chính quyền Trump khiến hơn 220 người nhập cư bị truy tố, nhiều gia đình hoảng loạn vì nguy cơ bị trục xuất.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/03/anh1-1793701109-3095-1793702140.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=8PlEvVOq_cq8YjrczO77HQ",
+    "link": "https://vnexpress.net/chien-dich-truy-quet-cu-tri-gian-lan-cua-chinh-quyen-trump-5140318.html",
+    "published_at": "Wed, 04 Nov 2026 00:00:00 +0700",
+    "createAt": "2026-11-03T17:00:00.000Z",
+    "thumbnail_blurhash": "LMKToaIAIAEz~V%ftRozMdx]%fX7"
+  },
+  {
+    "id": "https://vnexpress.net/bau-cu-giua-ky-phep-thu-voi-quyen-luc-tong-thong-my-5132185.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Bầu cử giữa kỳ - phép thử với quyền lực tổng thống Mỹ",
+    "description": "Bầu cử giữa kỳ là dịp cử tri Mỹ bầu lại các nghị sĩ lưỡng viện, kết quả bỏ phiếu sẽ thể hiện mức độ ủng hộ hoặc bất mãn đối với chính quyền đương nhiệm.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/14/usmidtermsoverviewv2-179196844-5896-9867-1791968467.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=0bW19T_N9MJOPS4FslzjrQ",
+    "link": "https://vnexpress.net/bau-cu-giua-ky-phep-thu-voi-quyen-luc-tong-thong-my-5132185.html",
+    "published_at": "Wed, 04 Nov 2026 00:00:00 +0700",
+    "createAt": "2026-11-03T17:00:00.000Z",
+    "thumbnail_blurhash": "LTRV@F.8M{t7?axujtWX_Ns9t7tR"
+  },
+  {
+    "id": "https://vnexpress.net/nghich-ly-drone-cuu-mang-khien-linh-ukraine-doi-mat-cai-chet-5139752.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Nghịch lý 'drone cứu mạng' khiến lính Ukraine đối mặt cái chết",
+    "description": "Ukraine triển khai drone mặt đất để thực hiện nhiệm vụ nguy hiểm thay con người, nhưng binh sĩ đôi khi phải mạo hiểm tính mạng để vận hành chúng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/03/nap-dan-1793613209-6836-1793699161.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=5cAc8zl7TnWEBpgGe7quSw",
+    "link": "https://vnexpress.net/nghich-ly-drone-cuu-mang-khien-linh-ukraine-doi-mat-cai-chet-5139752.html",
+    "published_at": "Wed, 04 Nov 2026 01:00:00 +0700",
+    "createAt": "2026-11-03T18:00:00.000Z",
+    "thumbnail_blurhash": "LwE3uYjbtRt7lCWCbJbIOIofaef7"
   }
 ]
