@@ -89,5 +89,44 @@
     "published_at": "Tue, 03 Nov 2026 21:36:49 +0700",
     "createAt": "2026-11-03T14:36:49.000Z",
     "thumbnail_blurhash": "LJD04c~q?bozXpM}kYRn4?4.VtWB"
+  },
+  {
+    "id": "https://vnexpress.net/my-se-cham-dut-thoa-thuan-an-ninh-10-nam-voi-israel-5140416.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Mỹ sẽ chấm dứt thỏa thuận an ninh 10 năm với Israel",
+    "description": "Mỹ sẽ chấm dứt sớm thỏa thuận hỗ trợ an ninh kéo dài 10 năm với Israel, trong đó Washington cung cấp 3,8 tỷ USD hàng năm cho Tel Aviv.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/03/Trump-1793718433-1689-1793718822.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=83iLWZibqA37Sg1eEnXaew",
+    "link": "https://vnexpress.net/my-se-cham-dut-thoa-thuan-an-ninh-10-nam-voi-israel-5140416.html",
+    "published_at": "Tue, 03 Nov 2026 22:47:55 +0700",
+    "createAt": "2026-11-03T15:47:55.000Z",
+    "thumbnail_blurhash": "LVDl=]NH00nh~pV@D%WXxXjEa#S5"
+  },
+  {
+    "id": "https://vnexpress.net/vu-binance-bi-hack-6-3-ty-usd-bat-nguon-tu-mot-ky-su-muon-nhay-viec-5140430.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Vụ Binance bị hack 6,3 tỷ USD bắt nguồn từ một kỹ sư muốn nhảy việc",
+    "description": "Hacker tạo cuộc phỏng vấn tuyển dụng giả với kỹ sư Binance, từ đó dùng mã độc và công cụ AI nội bộ để rút 6,3 tỷ USD tiền số.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/03/fnrjvhpql5notbq4gjfxgfgwwq-179-4594-6183-1793720642.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=JdJI0s-PgRfiDcLOzf6rag",
+    "link": "https://vnexpress.net/vu-binance-bi-hack-6-3-ty-usd-bat-nguon-tu-mot-ky-su-muon-nhay-viec-5140430.html",
+    "published_at": "Tue, 03 Nov 2026 22:54:34 +0700",
+    "createAt": "2026-11-03T15:54:34.000Z",
+    "thumbnail_blurhash": "LI5~-SyGawXUaHR:WZoKDlM{oHkE"
+  },
+  {
+    "id": "https://vnexpress.net/ong-trump-my-da-tap-kich-co-so-phong-khong-cua-iran-5140428.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Ông Trump: Mỹ đã tập kích 'cơ sở phòng không' của Iran",
+    "description": "Tổng thống Trump tuyên bố Mỹ đã tấn công một \"cơ sở phòng không\" của Iran, sau khi truyền thông nói Washington đã tập kích đảo Qeshm.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/03/TngthngTrump-1793722509-8464-1793723030.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=Ghl4KRYCJTZLg1c7UZQMIA",
+    "link": "https://vnexpress.net/ong-trump-my-da-tap-kich-co-so-phong-khong-cua-iran-5140428.html",
+    "published_at": "Tue, 03 Nov 2026 23:54:04 +0700",
+    "createAt": "2026-11-03T16:54:04.000Z",
+    "thumbnail_blurhash": "LkLE7_xv.8%M~qt6V?f*j]R%V@ae"
   }
 ]
