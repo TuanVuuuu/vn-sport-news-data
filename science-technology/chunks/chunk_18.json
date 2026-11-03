@@ -258,5 +258,31 @@
     "published_at": "Tue, 03 Nov 2026 15:00:00 +0700",
     "createAt": "2026-11-03T08:00:00.000Z",
     "thumbnail_blurhash": "LJRMb,yYxv=|_4T04:V?9Gn~WZj?"
+  },
+  {
+    "id": "https://vnexpress.net/chip-bao-mat-28-nm-do-ky-su-viet-phat-trien-5140152.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Chip bảo mật 28 nm do kỹ sư Việt phát triển",
+    "description": "Chip VGC v1.0 do các kỹ sư Viettel và Ban Cơ yếu Chính phủ phát triển, có tốc độ mã hóa, giải mã nhanh gấp 15 lần giải pháp phần mềm, hướng đến bảo vệ dữ liệu trên thiết bị số.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/03/lq-1793695270-5982-1793695297.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Ww7XtRq2ZLg0EzZbMNVRUw",
+    "link": "https://vnexpress.net/chip-bao-mat-28-nm-do-ky-su-viet-phat-trien-5140152.html",
+    "published_at": "Tue, 03 Nov 2026 15:54:24 +0700",
+    "createAt": "2026-11-03T08:54:24.000Z",
+    "thumbnail_blurhash": "LHAm*k?b^+~q-;%ft7-;r]_2~qxv"
+  },
+  {
+    "id": "https://vnexpress.net/ninh-binh-yeu-cau-kiem-soat-khai-thac-khoang-san-de-bao-ton-vooc-mong-trang-5140098.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Ninh Bình yêu cầu kiểm soát khai thác khoáng sản để bảo tồn voọc mông trắng",
+    "description": "Ninh Bình yêu cầu kiểm soát hoạt động xây dựng, khai thác khoáng sản tại khu vực giáp ranh Khu bảo tồn Kim Bảng, tránh chia cắt sinh cảnh sống của voọc mông trắng - loài linh trưởng đặc hữu đang đứng trước nguy cơ tuyệt chủng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/03/vooc-van-long-1793679762-3073-1793679817.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=bSUUOtjmo1pCTaq4IPSIIA",
+    "link": "https://vnexpress.net/ninh-binh-yeu-cau-kiem-soat-khai-thac-khoang-san-de-bao-ton-vooc-mong-trang-5140098.html",
+    "published_at": "Tue, 03 Nov 2026 17:17:41 +0700",
+    "createAt": "2026-11-03T10:17:41.000Z",
+    "thumbnail_blurhash": "L5E:9;03Oi?0_MVvx=r^%Co#M|M_"
   }
 ]
