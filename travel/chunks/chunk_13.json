@@ -570,5 +570,31 @@
     "published_at": "Tue, 03 Nov 2026 17:33:43 +0700",
     "createAt": "2026-11-03T10:33:43.000Z",
     "thumbnail_blurhash": "L-I#W9%MRPWE?^t8oKxu%#kCfjoz"
+  },
+  {
+    "id": "https://vnexpress.net/hue-giam-50-ve-tham-quan-5-diem-di-tich-cho-khach-di-tau-di-san-5140121.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Huế giảm 50% vé tham quan 5 điểm di tích cho khách đi tàu di sản",
+    "description": "Du khách đi tàu du lịch Huế - Đà Nẵng hoặc Huế - Phong Nha được giảm 50% phí tham quan tại 5 điểm di tích thuộc Quần thể di tích Cố đô Huế.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/11/03/wm1-wm1-dd5-1793680854-1834-1793681148.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=2isHWSnbspdgSbb0gTxTvA",
+    "link": "https://vnexpress.net/hue-giam-50-ve-tham-quan-5-diem-di-tich-cho-khach-di-tau-di-san-5140121.html",
+    "published_at": "Tue, 03 Nov 2026 19:05:23 +0700",
+    "createAt": "2026-11-03T12:05:23.000Z",
+    "thumbnail_blurhash": "L4EW87?;00%:PB}xt70d04~VPJ-W"
+  },
+  {
+    "id": "https://vnexpress.net/tro-ve-nha-sau-28-nam-di-bo-vong-quanh-the-gioi-5140187.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Trở về nhà sau 28 năm đi bộ vòng quanh thế giới",
+    "description": "Ngày rời nhà để đi bộ quanh thế giới, Karl Bushby còn là chàng trai trẻ và sau 28 năm, ông trở về với mái tóc bạc ở tuổi 57 khi đã hoàn thành hành trình.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/11/03/1-1793691945-2539-1793691978.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=K73ZN4E0NT2QaU9liKhcmQ",
+    "link": "https://vnexpress.net/tro-ve-nha-sau-28-nam-di-bo-vong-quanh-the-gioi-5140187.html",
+    "published_at": "Tue, 03 Nov 2026 19:14:16 +0700",
+    "createAt": "2026-11-03T12:14:16.000Z",
+    "thumbnail_blurhash": "LeDS?:-;D%E1_NxuIoWY.9t7Rjog"
   }
 ]
