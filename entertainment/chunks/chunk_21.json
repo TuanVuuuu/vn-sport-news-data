@@ -401,5 +401,31 @@
     "published_at": "Wed, 04 Nov 2026 14:19:35 +0700",
     "createAt": "2026-11-04T07:19:35.000Z",
     "thumbnail_blurhash": "LtB|,gtmohkDyZtlXBa$yEoZjFad"
+  },
+  {
+    "id": "https://vnexpress.net/nguyen-hung-bieu-dien-hit-goi-con-tim-lam-qua-5140597.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Nguyễn Hùng biểu diễn hit 'Gói con tim làm quà'",
+    "description": "Nguyễn Hùng hát live \"Gói con tim làm quà\" - ca khúc gây sốt với khán giả, trên thảm đỏ phim 18+ \"Bò sữa bay\".",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/11/04/casnguynhng-1793767226-5478-1793767237.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=a8iVUW4hBOHygUIuVDllKQ",
+    "link": "https://vnexpress.net/nguyen-hung-bieu-dien-hit-goi-con-tim-lam-qua-5140597.html",
+    "published_at": "Wed, 04 Nov 2026 11:37:21 +0700",
+    "createAt": "2026-11-04T04:37:21.000Z",
+    "thumbnail_blurhash": "LEI53u0055~ovLAI^*IB0K?Grw%M"
+  },
+  {
+    "id": "https://vnexpress.net/phuong-nhi-tham-bao-tang-dao-mau-cua-nghe-si-xuan-hinh-5140689.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Phương Nhi thăm Bảo tàng đạo Mẫu của nghệ sĩ Xuân Hinh",
+    "description": "Á hậu Phương Nhi đến bảo tàng của Xuân Hinh ở Sóc Sơn (Hà Nội), được nghệ sĩ hướng dẫn tham quan tìm hiểu về tín ngưỡng đạo Mẫu.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/11/04/topphuongnhi-1793776567-9016-1793776714.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=2uI_4ThSS9NN_9OfPS7Lbg",
+    "link": "https://vnexpress.net/phuong-nhi-tham-bao-tang-dao-mau-cua-nghe-si-xuan-hinh-5140689.html",
+    "published_at": "Wed, 04 Nov 2026 14:45:21 +0700",
+    "createAt": "2026-11-04T07:45:21.000Z",
+    "thumbnail_blurhash": "LLE{IE~pI.4.D~D*x[?aELRjRQbb"
   }
 ]
