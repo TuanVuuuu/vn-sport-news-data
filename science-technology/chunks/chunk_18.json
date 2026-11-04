@@ -453,5 +453,31 @@
     "published_at": "Wed, 04 Nov 2026 15:38:24 +0700",
     "createAt": "2026-11-04T08:38:24.000Z",
     "thumbnail_blurhash": "LrF%b;tS?wtR%goeo}RP-;ozVsV@"
+  },
+  {
+    "id": "https://vnexpress.net/ung-dung-suc-khoe-moi-tich-hop-ai-cua-appe-5140782.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Ứng dụng Sức khỏe mới tích hợp AI của Appe",
+    "description": "Ứng dụng Sức khỏe mới tích hợp trí tuệ nhân tạo Apple Intelligence bắt đầu hỗ trợ tiếng Việt, chuyển đổi dữ liệu từ Apple Watch thành hướng dẫn cá nhân hóa.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/04/a1-1793787099-4661-1793787326.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=dIdVMUwBGs8GQZYM-bt6Og",
+    "link": "https://vnexpress.net/ung-dung-suc-khoe-moi-tich-hop-ai-cua-appe-5140782.html",
+    "published_at": "Wed, 04 Nov 2026 17:19:12 +0700",
+    "createAt": "2026-11-04T10:19:12.000Z",
+    "thumbnail_blurhash": "LDHyL4?F00KgGtu6NEkWrXt9rra0"
+  },
+  {
+    "id": "https://vnexpress.net/dien-gia-truyen-cam-hung-ve-phat-trien-cong-nghe-tai-ai4vn-2026-5140337.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Diễn giả truyền cảm hứng về phát triển công nghệ tại AI4VN 2026",
+    "description": "Ông Lê Trung Hiếu và TS Nguyễn Hà Phong, hai chuyên gia tại FPT và Qualcomm, chia sẻ hành trình phát triển các giải pháp AI tiên tiến tại AI4VN 2026.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/03/Sidebysideportraitswithsmartgl-4809-8015-1793698275.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=-CgmeE8PA9JyHAxSWfgNew",
+    "link": "https://vnexpress.net/dien-gia-truyen-cam-hung-ve-phat-trien-cong-nghe-tai-ai4vn-2026-5140337.html",
+    "published_at": "Wed, 04 Nov 2026 18:00:00 +0700",
+    "createAt": "2026-11-04T11:00:00.000Z",
+    "thumbnail_blurhash": "LJEVWz0L-oRk~pMy%MR*tlr=j?SO"
   }
 ]
