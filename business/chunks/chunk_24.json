@@ -752,5 +752,44 @@
     "published_at": "Wed, 04 Nov 2026 07:48:03 +0700",
     "createAt": "2026-11-04T00:48:03.000Z",
     "thumbnail_blurhash": "LBGlPO5E~TV{0V00^+Nd_4xu?vWW"
+  },
+  {
+    "id": "https://vnexpress.net/gia-usd-xuong-sat-25-900-dong-5140562.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Giá USD xuống sát 25.900 đồng",
+    "description": "Giá USD ngân hàng liên tiếp đi xuống trong tuần qua, sáng nay về mức thấp nhất một năm rưỡi và giảm gần 1,7% so với đầu năm.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/04/wm1-wm1-vpbank-thanhtung18-1793762-1555-6879-1793762236.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=B-zJ9Mi9REAFgjKFIeX-ng",
+    "link": "https://vnexpress.net/gia-usd-xuong-sat-25-900-dong-5140562.html",
+    "published_at": "Wed, 04 Nov 2026 10:36:10 +0700",
+    "createAt": "2026-11-04T03:36:10.000Z",
+    "thumbnail_blurhash": "LPHoUeNFD*-p_Nxu_3ay%goe-;M{"
+  },
+  {
+    "id": "https://vnexpress.net/agribank-3-nam-lien-vao-top-50-doanh-nghiep-lon-nhat-dong-nam-a-5140598.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Agribank 3 năm liền vào top 50 doanh nghiệp lớn nhất Đông Nam Á",
+    "description": "Agribank ghi nhận doanh thu hơn 7 tỷ USD năm 2025, xếp thứ 45 trong bảng xếp hạng Fortune Southeast Asia 500, đánh dấu ba năm liên tiếp góp mặt trong top 50 doanh nghiệp lớn nhất Đông Nam Á.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/04/img-1793764814-3426-1793764888.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=5AL-OL4iAo2scUdpY_RCpw",
+    "link": "https://vnexpress.net/agribank-3-nam-lien-vao-top-50-doanh-nghiep-lon-nhat-dong-nam-a-5140598.html",
+    "published_at": "Wed, 04 Nov 2026 11:00:00 +0700",
+    "createAt": "2026-11-04T04:00:00.000Z",
+    "thumbnail_blurhash": "LXA_Ppx^IfSl.TkDMyV_pLbEi]oH"
+  },
+  {
+    "id": "https://vnexpress.net/chuoi-nha-sach-lon-nhat-ca-nuoc-lai-ky-luc-5140571.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Chuỗi nhà sách lớn nhất cả nước lãi kỷ lục",
+    "description": "Lợi nhuận sau thuế quý III của Fahasa, chuỗi nhà sách lớn nhất nước, đạt gần 20,7 tỷ đồng, tăng 28% so với cùng kỳ và là mức cao nhất từ khi công bố thông tin.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/04/nha-sach-fahasa-hai-duong-1793-5237-7916-1793762890.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=fM6_g44Z06CqShOpVzZiOg",
+    "link": "https://vnexpress.net/chuoi-nha-sach-lon-nhat-ca-nuoc-lai-ky-luc-5140571.html",
+    "published_at": "Wed, 04 Nov 2026 11:01:37 +0700",
+    "createAt": "2026-11-04T04:01:37.000Z",
+    "thumbnail_blurhash": "LDMZg,~BjK0M-r9Exr.8?^-4Or_2"
   }
 ]
