@@ -1,6 +1,19 @@
 {
   "featured": [
     {
+      "id": "https://vnexpress.net/khoanh-khac-hai-thanh-nien-boi-gan-30-m-cuu-nam-sinh-giua-song-5140654.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Khoảnh khắc hai thanh niên bơi gần 30 m cứu nam sinh giữa sông",
+      "description": "Thấy nam sinh 13 tuổi chới với giữa dòng nước, anh Nguyễn Xuân Hải cùng một người khác lập tức bơi ra, lặn sâu 3-4 m để ứng cứu, sáng 4/11.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/04/Lark20261104134608-1793774785-3311-1793774800.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=3sB9DiZ1Nm6EmNS6A8eYUw&t=image",
+      "link": "https://vnexpress.net/khoanh-khac-hai-thanh-nien-boi-gan-30-m-cuu-nam-sinh-giua-song-5140654.html",
+      "published_at": "Wed, 04 Nov 2026 13:46:40 +0700",
+      "createAt": "2026-11-04T06:46:40.000Z",
+      "thumbnail_blurhash": "LAFiAC?bkD%M_4xua}ofo#ogjuoe"
+    },
+    {
       "id": "https://vnexpress.net/ngay-thanh-tri-cong-hoa-sup-do-o-texas-5140641.html",
       "category_id": "featured",
       "category_name": "Tin nổi bật",
@@ -103,6 +116,58 @@
       "published_at": "Wed, 04 Nov 2026 19:13:44 +0700",
       "createAt": "2026-11-04T12:13:44.000Z",
       "thumbnail_blurhash": "LQE{UvIo-:%M_MjZIU%M_3f+M{t7"
+    },
+    {
+      "id": "https://vnexpress.net/con-mua-tien-cua-elon-musk-khong-the-cuu-ung-vien-cong-hoa-5140480.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "'Cơn mưa tiền' của Elon Musk không thể cứu ứng viên Cộng hòa",
+      "description": "Dù chi tới 212 triệu USD vận động cho Ken Paxton, Elon Musk vẫn không thể giúp ứng viên Cộng hòa này giành ghế Thượng viện tại Texas.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/04/2026t030655z-rc2q8lampbpn-rtrm-3214-3298-1793781342.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=XGzL3PP12ilDz7ZzGUG_5g",
+      "link": "https://vnexpress.net/con-mua-tien-cua-elon-musk-khong-the-cuu-ung-vien-cong-hoa-5140480.html",
+      "published_at": "Wed, 04 Nov 2026 20:00:00 +0700",
+      "createAt": "2026-11-04T13:00:00.000Z",
+      "thumbnail_blurhash": "LdGI7WNLtR%M~VS5SNkCaxofS4Rj"
+    },
+    {
+      "id": "https://vnexpress.net/nguoi-lan-4-m-cuu-nam-sinh-nhay-cau-luc-do-khong-biet-so-5140860.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Người lặn 4 m cứu nam sinh nhảy cầu: 'Lúc đó không biết sợ'",
+      "description": "Thấy cậu bé 13 tuổi chìm dần dưới sông, anh Nguyễn Xuân Hải vội nhảy xuống, lặn sâu 4 m cứu sống nạn nhân đến mức kiệt sức bước không nổi, rồi lặng lẽ đi làm với bộ đồ ướt sũng.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/04/1-1793797358-1689-1793797516.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=dm3-YjyWkwV_eZKwXfJRtg",
+      "link": "https://vnexpress.net/nguoi-lan-4-m-cuu-nam-sinh-nhay-cau-luc-do-khong-biet-so-5140860.html",
+      "published_at": "Wed, 04 Nov 2026 20:23:55 +0700",
+      "createAt": "2026-11-04T13:23:55.000Z",
+      "thumbnail_blurhash": "LBGR@k*I?b}X6K01S}-o%2oGbrX7"
+    },
+    {
+      "id": "https://vnexpress.net/nuoc-cuon-cuon-sau-mua-lon-o-tp-hcm-5140854.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Nước cuồn cuộn sau mưa lớn ở TP HCM",
+      "description": "Mưa lớn gần một giờ ở Thủ Đức, Gò Vấp cũ... khiến nhiều đường ngập sâu, nước chảy xiết, người dân chật vật di chuyển tối 4/11.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/04/2aoboraixzk2ngfqwm7ojkxl4i4e7x28zwdaxum8-1793798083.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=l0S9rO4qMNbCqWgzdyOh2A",
+      "link": "https://vnexpress.net/nuoc-cuon-cuon-sau-mua-lon-o-tp-hcm-5140854.html",
+      "published_at": "Wed, 04 Nov 2026 20:30:41 +0700",
+      "createAt": "2026-11-04T13:30:41.000Z",
+      "thumbnail_blurhash": "LQEVsb~poJIUTLNLIURi%Mt7M{WC"
+    },
+    {
+      "id": "https://vnexpress.net/cuoc-chien-do-loi-cua-dang-cong-hoa-sau-bau-cu-5140855.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Cuộc chiến đổ lỗi của đảng Cộng hòa sau bầu cử",
+      "description": "Thảm bại bầu cử giữa kỳ đang đẩy nội bộ đảng Cộng hòa vào cuộc chiến đổ lỗi, ngay cả Tổng thống Trump cũng bị quy trách nhiệm.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/04/2026t071423z-1793798583-7831-1793799676.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=5b7hjx7D9-5P4jAFV1b0xg",
+      "link": "https://vnexpress.net/cuoc-chien-do-loi-cua-dang-cong-hoa-sau-bau-cu-5140855.html",
+      "published_at": "Wed, 04 Nov 2026 20:42:06 +0700",
+      "createAt": "2026-11-04T13:42:06.000Z",
+      "thumbnail_blurhash": "LaH_DGERIn-:~qENV?%2XSNHw^bH"
     }
   ]
 }
