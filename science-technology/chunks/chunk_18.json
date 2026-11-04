@@ -401,5 +401,31 @@
     "published_at": "Wed, 04 Nov 2026 11:37:36 +0700",
     "createAt": "2026-11-04T04:37:36.000Z",
     "thumbnail_blurhash": "LG7d:[?w.9_4-;%N%M%Mai%2-oja"
+  },
+  {
+    "id": "https://vnexpress.net/vi-sao-viet-nam-cam-nhap-khau-dien-thoai-may-tinh-cu-5140643.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Vì sao Việt Nam cấm nhập khẩu điện thoại, máy tính cũ?",
+    "description": "Smartphone, máy tính và nhiều thiết bị công nghệ số đã qua sử dụng không được phép nhập khẩu vào Việt Nam, theo Thông tư 63 của Bộ Khoa học và Công nghệ.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/04/smartphone-1793769568-7703-1793769810.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=umnaDwShm-arvwHx0XE3bA",
+    "link": "https://vnexpress.net/vi-sao-viet-nam-cam-nhap-khau-dien-thoai-may-tinh-cu-5140643.html",
+    "published_at": "Wed, 04 Nov 2026 12:45:53 +0700",
+    "createAt": "2026-11-04T05:45:53.000Z",
+    "thumbnail_blurhash": "LHFFjE~V00WB.RE1E0%MWSIUob?a"
+  },
+  {
+    "id": "https://vnexpress.net/nhung-dien-gia-noi-bat-tai-ai4vn-2026-5140341.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Những diễn giả nổi bật tại AI4VN 2026",
+    "description": "Đại diện Meta, FPT Smart Cloud và MoMo sẽ chia sẻ về tác nhân AI, thay đổi cách làm việc và nâng cao năng suất tại AI4VN 2026.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/03/111-1793698890-5569-1793698898.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=xc0X43c_UytNoPfYKymg5Q",
+    "link": "https://vnexpress.net/nhung-dien-gia-noi-bat-tai-ai4vn-2026-5140341.html",
+    "published_at": "Wed, 04 Nov 2026 13:00:00 +0700",
+    "createAt": "2026-11-04T06:00:00.000Z",
+    "thumbnail_blurhash": "LaIEkiV=Ri-q~WW-WXRQ%2X8bHV["
   }
 ]
