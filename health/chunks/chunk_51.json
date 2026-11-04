@@ -414,5 +414,70 @@
     "published_at": "Wed, 04 Nov 2026 19:00:00 +0700",
     "createAt": "2026-11-04T12:00:00.000Z",
     "thumbnail_blurhash": "LYLN*|WZIp.8_N%gn|xWR.RkoIs-"
+  },
+  {
+    "id": "https://vnexpress.net/tuong-nhin-mo-do-tuoi-tac-hoa-u-nao-6-cm-5140398.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Tưởng nhìn mờ do tuổi tác hóa u não 6 cm",
+    "description": "Người phụ nữ 61 tuổi nghĩ mắt mờ do tuổi tác, không ngờ nguyên nhân là khối u màng não nằm sâu ở đáy não, gần nơi hai dây thần kinh thị giác gặp nhau.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/03/phau-thuat-cho-bn-1793713147-1237-1793713156.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=eg7suZl_mQhh_xDleSE6WQ",
+    "link": "https://vnexpress.net/tuong-nhin-mo-do-tuoi-tac-hoa-u-nao-6-cm-5140398.html",
+    "published_at": "Thu, 05 Nov 2026 00:03:00 +0700",
+    "createAt": "2026-11-04T17:03:00.000Z",
+    "thumbnail_blurhash": "LLC*B-EJ00~X~WMyIp%MaKSNt8xZ"
+  },
+  {
+    "id": "https://vnexpress.net/vi-sao-dot-quy-thuong-gay-yeu-mot-ben-co-the-5140192.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Vì sao đột quỵ thường gây yếu một bên cơ thể?",
+    "description": "Đột quỵ có thể làm gián đoạn tín hiệu vận động từ não, khiến người bệnh yếu hoặc liệt nửa người đối diện với bên não bị tổn thương.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/03/dau-dau-goi1-1793694520-4814-1793694536.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=MzSw8zS9cfyQDe42hcU3Zw",
+    "link": "https://vnexpress.net/vi-sao-dot-quy-thuong-gay-yeu-mot-ben-co-the-5140192.html",
+    "published_at": "Thu, 05 Nov 2026 00:03:00 +0700",
+    "createAt": "2026-11-04T17:03:00.000Z",
+    "thumbnail_blurhash": "LPKdD2?G9utS~qE0M{I@X.M{r=NH"
+  },
+  {
+    "id": "https://vnexpress.net/an-gi-de-da-dep-toc-khoe-5140778.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Ăn gì để da đẹp, tóc khỏe?",
+    "description": "Trứng, cá béo, ổi, cà chua và các loại hạt cung cấp vitamin, protein cùng chất chống oxy hóa, góp phần duy trì làn da, mái tóc khỏe mạnh.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/04/trung-yen-mach-1793782139.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ghDmsircxw3Vnd8t06shUw",
+    "link": "https://vnexpress.net/an-gi-de-da-dep-toc-khoe-5140778.html",
+    "published_at": "Thu, 05 Nov 2026 01:00:00 +0700",
+    "createAt": "2026-11-04T18:00:00.000Z",
+    "thumbnail_blurhash": "LMJ@%o?wtn$%x]o#WBt7XnoJRONG"
+  },
+  {
+    "id": "https://vnexpress.net/mai-toc-tiet-lo-dieu-gi-ve-suc-khoe-5140185.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Mái tóc tiết lộ điều gì về sức khỏe?",
+    "description": "Tóc bạc sớm, khô giòn, thưa dần hoặc rụng nhiều đôi khi liên quan đến di truyền, dinh dưỡng, nội tiết và một số vấn đề sức khỏe.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/03/can-canh-toc-hoa-ram-tu-nhien-4934-5533-1793689485.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=HvRQ1HADHmxJ3ZdnNc1XEw",
+    "link": "https://vnexpress.net/mai-toc-tiet-lo-dieu-gi-ve-suc-khoe-5140185.html",
+    "published_at": "Thu, 05 Nov 2026 01:00:00 +0700",
+    "createAt": "2026-11-04T18:00:00.000Z",
+    "thumbnail_blurhash": "LlGbk.ae-;oL~qa}xuj[%MfkWBj["
+  },
+  {
+    "id": "https://vnexpress.net/suc-khoe/cam-nang/loet-giac-mac-462",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Loét giác mạc",
+    "description": "Loét giác mạc là tổn thương dạng vết loét trên lớp mô trong suốt phía trước nhãn cầu, thường do nhiễm trùng hoặc chấn thương.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/04/nguamat-1793777238-4425-1793777260.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=IJaEEML-zV9CPWmpbqKa5A",
+    "link": "https://vnexpress.net/suc-khoe/cam-nang/loet-giac-mac-462",
+    "published_at": "Thu, 05 Nov 2026 01:00:00 +0700",
+    "createAt": "2026-11-04T18:00:00.000Z",
+    "thumbnail_blurhash": "LQM?9%V@~V_2%LD%n$V@^*s:9abc"
   }
 ]
