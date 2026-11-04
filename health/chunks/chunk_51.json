@@ -479,5 +479,31 @@
     "published_at": "Thu, 05 Nov 2026 01:00:00 +0700",
     "createAt": "2026-11-04T18:00:00.000Z",
     "thumbnail_blurhash": "LQM?9%V@~V_2%LD%n$V@^*s:9abc"
+  },
+  {
+    "id": "https://vnexpress.net/mo-rong-thi-truong-xuat-khau-dieu-duong-viet-nam-5140812.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Mở rộng thị trường xuất khẩu điều dưỡng Việt Nam",
+    "description": "Đức dự báo thiếu hàng trăm nghìn lao động có chuyên môn, trong đó điều dưỡng là lĩnh vực có nhu cầu tuyển dụng lớn, Việt Nam được đánh giá là một trong những nguồn cung nhân lực tiềm năng.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/04/anh-chup-man-hinh-luc-17937863-8900-3135-1793786381.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=hDspFeoikcl-7B_nbs8MyA",
+    "link": "https://vnexpress.net/mo-rong-thi-truong-xuat-khau-dieu-duong-viet-nam-5140812.html",
+    "published_at": "Thu, 05 Nov 2026 05:00:00 +0700",
+    "createAt": "2026-11-04T22:00:00.000Z",
+    "thumbnail_blurhash": "LCGSDb_49G%M4?ovxuR*00WGxvt7"
+  },
+  {
+    "id": "https://vnexpress.net/bac-si-tim-mach-chi-ra-thay-doi-don-gian-trong-bua-an-giup-song-tho-5140532.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Bác sĩ tim mạch chỉ ra thay đổi đơn giản trong bữa ăn giúp sống thọ",
+    "description": "Tự đi chợ, nấu thực phẩm tươi tại nhà và hạn chế đồ chế biến sẵn là thói quen cốt lõi giúp kéo dài tuổi thọ ở mọi lứa tuổi.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/04/screenshot-at-1793760496-2766-1793760586.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=XIfBmJptT1OVVwvSePAuBw",
+    "link": "https://vnexpress.net/bac-si-tim-mach-chi-ra-thay-doi-don-gian-trong-bua-an-giup-song-tho-5140532.html",
+    "published_at": "Thu, 05 Nov 2026 05:00:00 +0700",
+    "createAt": "2026-11-04T22:00:00.000Z",
+    "thumbnail_blurhash": "L5DSaN-U4V$*:w^iRP%2EH}??Z.7"
   }
 ]
