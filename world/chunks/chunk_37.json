@@ -89,5 +89,44 @@
     "published_at": "Wed, 04 Nov 2026 13:56:57 +0700",
     "createAt": "2026-11-04T06:56:57.000Z",
     "thumbnail_blurhash": "LvAJ,S%QtToat8ogkDj]NFWBWBWC"
+  },
+  {
+    "id": "https://vnexpress.net/trieu-tien-he-lo-anh-tuan-duong-ham-10-000-tan-5140688.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Triều Tiên hé lộ ảnh 'tuần dương hạm 10.000 tấn'",
+    "description": "Triều Tiên công bố ảnh lãnh đạo Kim Jong-un thăm nhà máy đóng tàu, cho thấy một phần tuần dương hạm với lượng giãn nước có thể đến 10.000 tấn.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/04/5563187178137269296a-179377642-1733-8379-1793776478.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=gO5wnIEymvFVrD7ceVi8Kg",
+    "link": "https://vnexpress.net/trieu-tien-he-lo-anh-tuan-duong-ham-10-000-tan-5140688.html",
+    "published_at": "Wed, 04 Nov 2026 15:04:15 +0700",
+    "createAt": "2026-11-04T08:04:15.000Z",
+    "thumbnail_blurhash": "L5BpRq03?b$xI^_4I9oz9e?GZ|E6"
+  },
+  {
+    "id": "https://vnexpress.net/elon-musk-dua-ve-that-bai-cua-dang-cong-hoa-trong-bau-cu-5140696.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Elon Musk đùa về thất bại của đảng Cộng hòa trong bầu cử",
+    "description": "Elon Musk đùa rằng biện pháp can thiệp bầu cử không có tác dụng, sau khi đảng Cộng hòa thất bại trong bầu cử giữa kỳ.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/04/afp-collin-fileelon260612-npvz-3586-5420-1793778024.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Mv4ak2btG9Lu8zTbSjgG8w",
+    "link": "https://vnexpress.net/elon-musk-dua-ve-that-bai-cua-dang-cong-hoa-trong-bau-cu-5140696.html",
+    "published_at": "Wed, 04 Nov 2026 15:29:07 +0700",
+    "createAt": "2026-11-04T08:29:07.000Z",
+    "thumbnail_blurhash": "LBAS}S9a00~V,oS4Osi^o|M|r@-p"
+  },
+  {
+    "id": "https://vnexpress.net/con-dia-chan-tai-phao-dai-tram-nam-cua-dang-cong-hoa-5140636.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Cơn địa chấn tại 'pháo đài trăm năm' của đảng Cộng hòa",
+    "description": "Cử tri Kansas trung thành với đảng Cộng hòa trong gần một thế kỷ qua, nhưng đã lần đầu tiên bầu lên một thượng nghị sĩ Dân chủ.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/04/kansas-1793777711-7161-1793777852.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=PxhlvPTxsL920IfXcGIrIw",
+    "link": "https://vnexpress.net/con-dia-chan-tai-phao-dai-tram-nam-cua-dang-cong-hoa-5140636.html",
+    "published_at": "Wed, 04 Nov 2026 15:29:33 +0700",
+    "createAt": "2026-11-04T08:29:33.000Z",
+    "thumbnail_blurhash": "LLBV|x^kk6bv~V%2bJSKofV@RQIp"
   }
 ]
