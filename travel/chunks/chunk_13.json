@@ -687,5 +687,31 @@
     "published_at": "Wed, 04 Nov 2026 19:00:00 +0700",
     "createAt": "2026-11-04T12:00:00.000Z",
     "thumbnail_blurhash": "LYI4eGNG-Axap{aKNcX9-;j=jFof"
+  },
+  {
+    "id": "https://vnexpress.net/10-thi-truong-khach-den-viet-nam-tang-manh-nhat-thang-10-5140019.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "10 thị trường khách đến Việt Nam tăng mạnh nhất tháng 10",
+    "description": "Khách Nga tăng mạnh nhất trong tháng 10 với 80% so với cùng kỳ năm ngoái, tiếp theo là Campuchia 65%, trong bối cảnh tổng lượng khách quốc tế đến Việt Nam tăng 7%.",
+    "thumbnail_url": "https://i1-dulich.vnecdn.net/2026/11/03/du-kha-ch-tre-n-ho-gu-o-m-nga-9017-9013-1793699783.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=EJhtL5OFgBdCJZqwpuiVVg",
+    "link": "https://vnexpress.net/10-thi-truong-khach-den-viet-nam-tang-manh-nhat-thang-10-5140019.html",
+    "published_at": "Tue, 03 Nov 2026 16:54:18 +0700",
+    "createAt": "2026-11-03T09:54:18.000Z",
+    "thumbnail_blurhash": "LEEybp019Y~pEZr{WZM_9F%MR:9F"
+  },
+  {
+    "id": "https://vnexpress.net/da-quy-nhuom-vang-cac-ngon-doi-da-lat-5137767.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Dã quỳ nhuộm vàng các ngọn đồi Đà Lạt",
+    "description": "Cuối tháng 10, khi mùa mưa ở cao nguyên dần kết thúc, hoa dã quỳ bắt đầu bung nở, nhuộm vàng những ngọn đồi và nhiều cung đường từ trung tâm đến vùng ngoại ô Đà Lạt.",
+    "thumbnail_url": "https://i1-dulich.vnecdn.net/2026/10/30/ccccc-1793334726.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=z5Oy6yITYOCna1nIP1IuPg",
+    "link": "https://vnexpress.net/da-quy-nhuom-vang-cac-ngon-doi-da-lat-5137767.html",
+    "published_at": "Thu, 05 Nov 2026 00:00:00 +0700",
+    "createAt": "2026-11-04T17:00:00.000Z",
+    "thumbnail_blurhash": "L5EMEE=VIo?o%O~0xcRC2ywFrJIJ"
   }
 ]
