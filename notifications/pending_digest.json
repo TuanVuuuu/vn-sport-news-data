@@ -1,3 +1,82 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/thu-mon-jesus-owono-suy-sup-khi-de-miguel-qua-doi-5140417.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Thủ môn Jesus Owono suy sụp khi De Miguel qua đời",
+      "description": "Thủ thành Jesus Owono, người có pha va chạm khiến tiền đạo 30 tuổi Jesus de Miguel tử vong, đang chịu chấn thương tâm lý nặng nề và bị các CĐV gọi là \"kẻ sát nhân\".",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/11/03/e3239953b51f49b1843bd4dc0adf80-3429-6791-1793716397.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=l-0RlZsj4FY-sR7FtS6sTQ",
+      "link": "https://vnexpress.net/thu-mon-jesus-owono-suy-sup-khi-de-miguel-qua-doi-5140417.html",
+      "published_at": "Wed, 04 Nov 2026 01:19:03 +0700",
+      "createAt": "2026-11-03T18:19:03.000Z",
+      "thumbnail_blurhash": "LPGIu~%MRWxI}-i_S%Rl,+a%JBNb"
+    },
+    {
+      "id": "https://vnexpress.net/ly-do-nhieu-nuoc-khuyen-cao-nguoi-dan-tich-tru-do-sinh-ton-5140508.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Lý do nhiều nước khuyến cáo người dân tích trữ đồ sinh tồn",
+      "description": "Nhiều nước khuyến nghị người dân chuẩn bị nhu yếu phẩm đủ dùng 3-7 ngày, khẳng định rằng đó là biện pháp tiêu chuẩn nhằm đề phòng thảm họa.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/04/ap26306811334134-1793762404-1363-1793762453.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=aoaAR9KDzIU-UW6o1d2O1w",
+      "link": "https://vnexpress.net/ly-do-nhieu-nuoc-khuyen-cao-nguoi-dan-tich-tru-do-sinh-ton-5140508.html",
+      "published_at": "Wed, 04 Nov 2026 11:07:51 +0700",
+      "createAt": "2026-11-04T04:07:51.000Z",
+      "thumbnail_blurhash": "L8FFma9ZDh~X01-qn,I9IUWF$j%M"
+    },
+    {
+      "id": "https://vnexpress.net/gia-dien-sinh-hoat-theo-5-bac-cao-nhat-3-844-dong-mot-kwh-5139227.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Giá điện sinh hoạt theo 5 bậc, cao nhất 3.844 đồng một kWh",
+      "description": "Từ 1/11, biểu giá điện sinh hoạt rút từ 6 xuống 5 bậc, với mức thấp nhất 1.901 đồng và cao nhất 3.844 đồng một kWh, chưa gồm VAT.",
+      "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/01/PHAM3215JPG-1793502136-9941-1793502367.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=KCSukz83HKw4Hb-yLhIysA",
+      "link": "https://vnexpress.net/gia-dien-sinh-hoat-theo-5-bac-cao-nhat-3-844-dong-mot-kwh-5139227.html",
+      "published_at": "Wed, 04 Nov 2026 11:22:29 +0700",
+      "createAt": "2026-11-04T04:22:29.000Z",
+      "thumbnail_blurhash": "LKHw}p*07M;1?ZM}M|xs62rtv~K2"
+    },
+    {
+      "id": "https://vnexpress.net/dai-bieu-nhan-dien-khuon-mat-nhu-chiec-chia-khoa-treo-san-ngoai-cua-5140520.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Đại biểu: Nhận diện khuôn mặt như chiếc chìa khóa treo sẵn ngoài cửa",
+      "description": "Đại biểu Phạm Trọng Nhân cảnh báo hình ảnh khuôn mặt trên mạng xã hội có thể bị lợi dụng để vượt qua xác thực sinh trắc học, trong khi dữ liệu này không thể thay đổi nếu bị lộ.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/04/202608220836549407-z8179349408-6478-5328-1793760955.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Ap83lnSoz1dRLKsZoDOsSw",
+      "link": "https://vnexpress.net/dai-bieu-nhan-dien-khuon-mat-nhu-chiec-chia-khoa-treo-san-ngoai-cua-5140520.html",
+      "published_at": "Wed, 04 Nov 2026 11:44:05 +0700",
+      "createAt": "2026-11-04T04:44:05.000Z",
+      "thumbnail_blurhash": "LGK^v$OaD4Dh8^Mwu6Ip00ozfm-;"
+    },
+    {
+      "id": "https://vnexpress.net/de-nghi-doi-luat-bong-da-sau-bi-kich-de-miguel-5140552.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Đề nghị đổi luật bóng đá sau bi kịch De Miguel",
+      "description": "Cựu thủ môn Colombia Nelson Ramos và trọng tài Joan Fabregas kêu gọi xem xét lại luật bóng đá, sau khi tiền đạo Jesus de Miguel qua đời vì va chạm với thủ môn Jesus Owono.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/11/04/ramos-1793760871-1700-1793761150.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=SM1PBmTDHd4xPC2PKaSeVw",
+      "link": "https://vnexpress.net/de-nghi-doi-luat-bong-da-sau-bi-kich-de-miguel-5140552.html",
+      "published_at": "Wed, 04 Nov 2026 12:00:20 +0700",
+      "createAt": "2026-11-04T05:00:20.000Z",
+      "thumbnail_blurhash": "L6CsN=0cMx$.?Z?I02DkOx9X#-9K"
+    },
+    {
+      "id": "https://vnexpress.net/cuu-pho-chu-tich-ubnd-tinh-binh-phuoc-cu-bi-bat-5140629.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Cựu Phó chủ tịch UBND tỉnh Bình Phước cũ bị bắt",
+      "description": "Ông Huỳnh Anh Minh, cựu Phó chủ tịch UBND tỉnh Bình Phước cũ, cùng hai nguyên lãnh đạo sở ngành, bị cáo buộc sai phạm trong quản lý đất tại dự án khu đô thị Mỹ Lệ.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/04/611050103082023173746230617673-2755-7794-1793767077.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=Ha8c3wwChmBRK5L4auSN2w",
+      "link": "https://vnexpress.net/cuu-pho-chu-tich-ubnd-tinh-binh-phuoc-cu-bi-bat-5140629.html",
+      "published_at": "Wed, 04 Nov 2026 12:03:41 +0700",
+      "createAt": "2026-11-04T05:03:41.000Z",
+      "thumbnail_blurhash": "LCE3Vs0200^%00?u?^sm%}njVXIW"
+    }
+  ]
 }
