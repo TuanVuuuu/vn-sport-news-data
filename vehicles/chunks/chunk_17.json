@@ -180,5 +180,44 @@
     "published_at": "Wed, 04 Nov 2026 11:30:15 +0700",
     "createAt": "2026-11-04T04:30:15.000Z",
     "thumbnail_blurhash": null
+  },
+  {
+    "id": "https://vnexpress.net/chan-bun-khoet-lo-thiet-ke-la-tren-xe-may-dien-vinfast-5139683.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Chắn bùn khoét lỗ - thiết kế lạ trên xe máy điện VinFast",
+    "description": "Phần chắn bùn sau của xe VinFast Kyo được khoét lỗ để tản nhiệt pin và bộ điều khiển nhưng khiến bùn đất lọt vào bên trong.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/02/862899256106262228681922081570-5850-6587-1793602220.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=CaYnJBnBj2C_fwJaWudzOg",
+    "link": "https://vnexpress.net/chan-bun-khoet-lo-thiet-ke-la-tren-xe-may-dien-vinfast-5139683.html",
+    "published_at": "Wed, 04 Nov 2026 10:13:37 +0700",
+    "createAt": "2026-11-04T03:13:37.000Z",
+    "thumbnail_blurhash": "LDF6B]-;00My00WA?w%MN2j]xsWU"
+  },
+  {
+    "id": "https://vnexpress.net/lai-xe-nhieu-khien-toi-ngay-cang-xau-tinh-5139983.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "'Lái xe nhiều khiến tôi ngày càng xấu tính'",
+    "description": "Áp lực từ việc lái xe hàng ngày khiến tôi hay cáu gắt và ảnh hưởng rõ rệt đến những người xung quanh.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/03/images-1793670363-5280-1793670417.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=GE-03sentAwv8CKUSQWZyw",
+    "link": "https://vnexpress.net/lai-xe-nhieu-khien-toi-ngay-cang-xau-tinh-5139983.html",
+    "published_at": "Wed, 04 Nov 2026 14:08:47 +0700",
+    "createAt": "2026-11-04T07:08:47.000Z",
+    "thumbnail_blurhash": "LBCjCN~q4;S5x^_3%18_o~IU%K?a"
+  },
+  {
+    "id": "https://vnexpress.net/byd-co-hon-1-trieu-nhan-vien-gap-3-lan-toyota-5140127.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "BYD có hơn 1 triệu nhân viên, gấp 3 lần Toyota",
+    "description": "Quy mô nhân sự của hãng xe Trung Quốc lên tới 1,02 triệu người, vượt qua tổng số nhân viên của Toyota, Ford, General Motors và Tesla cộng lại.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/03/BYD2-1793690046-1787-1793690270.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=y5VlsIkSymSC34Q62gUCeg",
+    "link": "https://vnexpress.net/byd-co-hon-1-trieu-nhan-vien-gap-3-lan-toyota-5140127.html",
+    "published_at": "Wed, 04 Nov 2026 14:42:03 +0700",
+    "createAt": "2026-11-04T07:42:03.000Z",
+    "thumbnail_blurhash": "LPFiP*V_t6oM.9WBxtR-~qRjxuWA"
   }
 ]
