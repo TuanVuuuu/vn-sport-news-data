@@ -622,5 +622,31 @@
     "published_at": "Thu, 05 Nov 2026 12:00:00 +0700",
     "createAt": "2026-11-05T05:00:00.000Z",
     "thumbnail_blurhash": "LLHLSWuP%1NHo~nOIUbbIAD%NG%M"
+  },
+  {
+    "id": "https://vnexpress.net/chatgpt-cho-phep-tao-anh-gif-truc-tiep-5141027.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "ChatGPT cho phép tạo ảnh GIF trực tiếp",
+    "description": "ChatGPT hiện bổ sung tính năng ảnh GIF, cho phép người dùng tạo và chỉnh sửa ảnh động bằng câu lệnh đơn giản.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/05/Robottuongtaccungiacauhologram-7418-5155-1793851092.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=6xt3utGYlgBK5fUvQKJV7A&t=image",
+    "link": "https://vnexpress.net/chatgpt-cho-phep-tao-anh-gif-truc-tiep-5141027.html",
+    "published_at": "Thu, 05 Nov 2026 13:00:00 +0700",
+    "createAt": "2026-11-05T06:00:00.000Z",
+    "thumbnail_blurhash": "LE8=dI_3?Fs=~o~q-pi]?a?a-;s*"
+  },
+  {
+    "id": "https://vnexpress.net/tin-tac-tan-cong-he-thong-lam-lanh-ngan-hang-mau-o-phap-5141115.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Tin tặc tấn công hệ thống làm lạnh ngân hàng máu ở Pháp",
+    "description": "Hacker tấn công mạng nhằm vào nhà cung cấp thiết bị làm lạnh, tăng nhiệt độ kho bảo quản sản phẩm của cơ quan truyền máu của Pháp từ -30°C lên 110°C.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/05/VNEBlood-1793857423-7469-1793857509.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ri7lmpE8_r-DoJ3SpIdvGw",
+    "link": "https://vnexpress.net/tin-tac-tan-cong-he-thong-lam-lanh-ngan-hang-mau-o-phap-5141115.html",
+    "published_at": "Thu, 05 Nov 2026 13:11:14 +0700",
+    "createAt": "2026-11-05T06:11:14.000Z",
+    "thumbnail_blurhash": "LNGSP}xaITkV%$xtt6s._NogoeWB"
   }
 ]
