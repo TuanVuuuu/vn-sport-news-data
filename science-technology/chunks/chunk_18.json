@@ -583,5 +583,31 @@
     "published_at": "Thu, 05 Nov 2026 09:00:00 +0700",
     "createAt": "2026-11-05T02:00:00.000Z",
     "thumbnail_blurhash": "L55}m#?d9Z9FRgRNMwITNNbd%N%N"
+  },
+  {
+    "id": "https://vnexpress.net/12-cong-trinh-duoc-de-nghi-tang-giai-cao-quy-nhat-ve-khoa-hoc-cong-nghe-5140791.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "12 công trình được đề nghị tặng giải cao quý nhất về Khoa học công nghệ",
+    "description": "Hội đồng cấp Nhà nước đã xem xét, đánh giá các công trình được đề nghị xét tặng Giải thưởng Hồ Chí minh và Giải thưởng Nhà nước về Khoa học công nghệ đợt 7.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/05/ba-nguyen-thi-hue-pho-vu-truon-3040-1261-1793848446.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Z3-4e98W8I-27E6bJ0jyIw",
+    "link": "https://vnexpress.net/12-cong-trinh-duoc-de-nghi-tang-giai-cao-quy-nhat-ve-khoa-hoc-cong-nghe-5140791.html",
+    "published_at": "Thu, 05 Nov 2026 10:10:14 +0700",
+    "createAt": "2026-11-05T03:10:14.000Z",
+    "thumbnail_blurhash": "L*Jt@,?w%MV[-pW?WBadRjayofof"
+  },
+  {
+    "id": "https://vnexpress.net/cisco-giao-mot-nhan-vien-gen-z-viet-lai-98-ma-nguon-cu-5140846.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Cisco giao một nhân viên Gen Z viết lại 98% mã nguồn cũ",
+    "description": "Padmanabhan Krishnamurthy, 27 tuổi, được Chủ tịch Cisco giao phó nhiệm vụ quan trọng, trái với nhiều doanh nghiệp ưu tiên nhân sự giàu kinh nghiệm trong thời đại AI.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/04/logohangcongnghe07528-17937916-1983-1560-1793791886.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=kEaiFyoKEMWWNCzsfTuvig",
+    "link": "https://vnexpress.net/cisco-giao-mot-nhan-vien-gen-z-viet-lai-98-ma-nguon-cu-5140846.html",
+    "published_at": "Thu, 05 Nov 2026 11:00:00 +0700",
+    "createAt": "2026-11-05T04:00:00.000Z",
+    "thumbnail_blurhash": "L7F6920J00_2ThD#=x?bDNITtS?b"
   }
 ]
