@@ -349,5 +349,31 @@
     "published_at": "Thu, 05 Nov 2026 11:42:10 +0700",
     "createAt": "2026-11-05T04:42:10.000Z",
     "thumbnail_blurhash": "L03+Dx-;4-M{00D$kC-;00WVxaf+"
+  },
+  {
+    "id": "https://vnexpress.net/bien-nao-chi-dan-duoc-uu-tien-qua-duong-hep-5140760.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Biển nào chỉ dẫn 'Được ưu tiên qua đường hẹp'?",
+    "description": "Câu hỏi có 18% độc giả trả lời sai, trong thực tế nhiều người không biết hiệu lệnh của biển này mà di chuyển.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/04/b05aecb4c18545acb907d93eb828bd-7218-3095-1793781442.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=hknxL7NWNC6p3h8C9wPvcg",
+    "link": "https://vnexpress.net/bien-nao-chi-dan-duoc-uu-tien-qua-duong-hep-5140760.html",
+    "published_at": "Thu, 05 Nov 2026 12:31:32 +0700",
+    "createAt": "2026-11-05T05:31:32.000Z",
+    "thumbnail_blurhash": "LgRCuh=rb^o~-;s:f+fk_NK7ixxF"
+  },
+  {
+    "id": "https://vnexpress.net/nguoi-dung-noi-gi-ve-trai-nghiem-voi-dat-bike-quantum-s-5140015.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Người dùng nói gì về trải nghiệm với Dat Bike Quantum S?",
+    "description": "Chủ xe máy điện Dat Bike Quantum S chia sẻ trải nghiệm vận hành hàng trăm kilomet một ngày, chi phí sử dụng và tình trạng xe sau thời gian sở hữu.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/05/2-1793857290-4066-1793857363.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=bT-xM2mGWkfMTB8q-LwTEg",
+    "link": "https://vnexpress.net/nguoi-dung-noi-gi-ve-trai-nghiem-voi-dat-bike-quantum-s-5140015.html",
+    "published_at": "Thu, 05 Nov 2026 14:00:00 +0700",
+    "createAt": "2026-11-05T07:00:00.000Z",
+    "thumbnail_blurhash": "L6D+uY00zn?b~D?tDiSh_KX+X-E2"
   }
 ]
