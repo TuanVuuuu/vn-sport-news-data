@@ -1116,5 +1116,31 @@
     "published_at": "Thu, 05 Nov 2026 12:00:00 +0700",
     "createAt": "2026-11-05T05:00:00.000Z",
     "thumbnail_blurhash": "LiF$x3xuJVad?wk9smadcFV[s;WB"
+  },
+  {
+    "id": "https://vnexpress.net/von-fdi-vao-tp-hcm-tang-hon-4-lan-5141078.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Vốn FDI vào TP HCM tăng hơn 4 lần",
+    "description": "Đầu tàu kinh tế thu hút 19,1 tỷ USD vốn FDI trong 10 tháng đầu năm, gấp 4,2 lần so với cùng kỳ 2025, theo cơ quan Thống kê TP HCM.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/05/dji-1793854784-1369-1793854930.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=yV_zrvNs5yaYG55KJxIW2w",
+    "link": "https://vnexpress.net/von-fdi-vao-tp-hcm-tang-hon-4-lan-5141078.html",
+    "published_at": "Thu, 05 Nov 2026 12:29:06 +0700",
+    "createAt": "2026-11-05T05:29:06.000Z",
+    "thumbnail_blurhash": "LaF?FSxuRjxu?wxut6WW_3t7Rjay"
+  },
+  {
+    "id": "https://vnexpress.net/ngan-hang-phap-bi-tin-tac-danh-cap-hon-110-trieu-usd-5141067.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Ngân hàng Pháp bị tin tặc đánh cắp hơn 110 triệu USD",
+    "description": "Ngân hàng Crédit Mutuel Arkéa (Pháp) cho biết tin tặc xâm nhập vào hệ thống máy tính nhà băng, đánh cắp tiền và chuyển đổi thành tiền mã hóa.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/05/7e5b779af82b0f1eb21d4311b5e414-9045-4041-1793854234.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=w_UqaJ_T7LCg1CHdu8J2Iw",
+    "link": "https://vnexpress.net/ngan-hang-phap-bi-tin-tac-danh-cap-hon-110-trieu-usd-5141067.html",
+    "published_at": "Thu, 05 Nov 2026 12:35:07 +0700",
+    "createAt": "2026-11-05T05:35:07.000Z",
+    "thumbnail_blurhash": "LCEyVwyZ-q-;t%-og4tSxWo#t8t7"
   }
 ]
