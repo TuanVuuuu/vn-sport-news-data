@@ -1129,5 +1129,31 @@
     "published_at": "Thu, 05 Nov 2026 10:27:40 +0700",
     "createAt": "2026-11-05T03:27:40.000Z",
     "thumbnail_blurhash": "LREfpRxvoft7%%oJjYa}^ioJaxj]"
+  },
+  {
+    "id": "https://vnexpress.net/be-trai-5-tuoi-bi-bo-lai-ben-duong-5141031.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Bé trai 5 tuổi bị bỏ lại bên đường",
+    "description": "Bé trai 5 tuổi được phát hiện bị bỏ lại bên vệ đường ở phường Thành Vinh, bên cạnh có tờ giấy ghi \"Cháu khóc, dỗ mãi không được nên dì đành gửi lại\".",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/05/manh-giay-1793850425-9096-1793850438.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=FoVcGiqQrcleWANA3yXqPA",
+    "link": "https://vnexpress.net/be-trai-5-tuoi-bi-bo-lai-ben-duong-5141031.html",
+    "published_at": "Thu, 05 Nov 2026 10:47:18 +0700",
+    "createAt": "2026-11-05T03:47:18.000Z",
+    "thumbnail_blurhash": "LJLXf7M|00IT~qM{IUWBt6WVWVWV"
+  },
+  {
+    "id": "https://vnexpress.net/tam-thoi-giu-lai-ruong-dua-tren-dai-lo-hoa-lu-5141034.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Tạm thời giữ lại ruộng dứa trên đại lộ Hoa Lư",
+    "description": "Tỉnh đồng ý tạm thời giữ lại ruộng dứa trên dải phân cách đại lộ Hoa Lư để người dân thu hoạch hết vụ, nhưng phải bảo đảm an toàn giao thông, không trồng mới.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/05/1032091793651495019ceab63ee66b-1473-7868-1793849334.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=5GwV85GUOP_MF7BG5sTm1A",
+    "link": "https://vnexpress.net/tam-thoi-giu-lai-ruong-dua-tren-dai-lo-hoa-lu-5141034.html",
+    "published_at": "Thu, 05 Nov 2026 11:00:02 +0700",
+    "createAt": "2026-11-05T04:00:02.000Z",
+    "thumbnail_blurhash": "L6EyrD009P~U1Exr4m9t55t-NEx^"
   }
 ]
