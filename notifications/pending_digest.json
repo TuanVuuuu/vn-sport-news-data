@@ -1,3 +1,82 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/loat-co-so-vi-pham-o-ha-noi-bi-thao-do-5140447.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Loạt cơ sở vi phạm ở Hà Nội bị tháo dỡ",
+      "description": "Nhằm chấn chỉnh công tác quản lý đất đai, trật tự xây dựng và giảm nguy cơ cháy nổ, nhiều xã phường tổ chức tháo dỡ các lán trại, nhà xưởng, quán ăn vi phạm.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/04/871126691-n-jpg-1793760975.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=T713D3xZkHKD-FDlp_jMYg",
+      "link": "https://vnexpress.net/loat-co-so-vi-pham-o-ha-noi-bi-thao-do-5140447.html",
+      "published_at": "Thu, 05 Nov 2026 00:00:00 +0700",
+      "createAt": "2026-11-04T17:00:00.000Z",
+      "thumbnail_blurhash": "LKG8}*9u~q%2?uso%NxuyB^*kDx["
+    },
+    {
+      "id": "https://vnexpress.net/5-the-he-than-tuong-giai-ma-kpop-5140852.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "5 thế hệ thần tượng giải mã Kpop",
+      "description": "Từ SNSD đến BTS, làn sóng Kpop trải qua 5 thế hệ idol, liên tục thay đổi tư duy, cách tiếp cận thị trường xuất khẩu văn hóa Hàn Quốc toàn cầu.",
+      "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/11/05/tumblra77b2bde1a2642f654027c9e-7985-3624-1793845475.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=M801dbWnBNvYusQVnh2gfw&t=image",
+      "link": "https://vnexpress.net/5-the-he-than-tuong-giai-ma-kpop-5140852.html",
+      "published_at": "Thu, 05 Nov 2026 05:00:00 +0700",
+      "createAt": "2026-11-04T22:00:00.000Z",
+      "thumbnail_blurhash": "L39YP.^RGGKk_#rqEdEez.jGoN#+"
+    },
+    {
+      "id": "https://vnexpress.net/phe-cong-hoa-keu-goi-ong-trump-thay-doi-sau-that-bai-bau-cu-5140916.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Phe Cộng hòa kêu gọi ông Trump thay đổi sau thất bại bầu cử",
+      "description": "Nhiều thành viên phe Cộng hòa gia tăng sức ép lên Tổng thống Trump, yêu cầu ông phải thay đổi sau thất bại nặng nề của đảng này trong bầu cử giữa kỳ.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/05/2026t180947z-rc25hoauanfr-rtrm-3387-9659-1793836353.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=9auD5NMmohjLtzeqJSWohw",
+      "link": "https://vnexpress.net/phe-cong-hoa-keu-goi-ong-trump-thay-doi-sau-that-bai-bau-cu-5140916.html",
+      "published_at": "Thu, 05 Nov 2026 07:25:05 +0700",
+      "createAt": "2026-11-05T00:25:05.000Z",
+      "thumbnail_blurhash": "LOI#S|I9?a^+~B^+D%t7D%-;M{Rj"
+    },
+    {
+      "id": "https://vnexpress.net/gia-vang-the-gioi-tang-manh-nhat-3-thang-5140926.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Giá vàng thế giới tăng mạnh nhất 3 tháng",
+      "description": "Kim loại quý ghi nhận phiên tăng tốt nhất kể từ tháng 8, sau chiến thắng của đảng Dân chủ tại cuộc bầu cử tại Mỹ.",
+      "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/05/goldreu8-1793837721-9588-1793837736.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=IFbnjTXcg5h1U1I5MZkXew",
+      "link": "https://vnexpress.net/gia-vang-the-gioi-tang-manh-nhat-3-thang-5140926.html",
+      "published_at": "Thu, 05 Nov 2026 07:26:15 +0700",
+      "createAt": "2026-11-05T00:26:15.000Z",
+      "thumbnail_blurhash": "L5G@}80A00jDA15B};~T01}k0h9%"
+    },
+    {
+      "id": "https://vnexpress.net/valdano-trong-bi-kich-cua-de-miguel-mot-nan-nhan-thoi-da-la-qua-nhieu-5140898.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Valdano: 'Trong bi kịch của De Miguel, một nạn nhân thôi đã là quá nhiều'",
+      "description": "Theo cựu CEO và HLV Real Madrid Jorge Valdano, không một ai ở bất cứ nơi đâu có thể tránh khỏi những tai nạn và bóng đá cũng như vậy, nhưng trong mọi vấn đề đừng vội quy kết và tìm kiếm kẻ phải chịu tội.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/11/05/jorgevaldano-1793842710-7114-1793842867.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=UIVzm_m6Q7hWr9d2VWbuaw",
+      "link": "https://vnexpress.net/valdano-trong-bi-kich-cua-de-miguel-mot-nan-nhan-thoi-da-la-qua-nhieu-5140898.html",
+      "published_at": "Thu, 05 Nov 2026 08:41:54 +0700",
+      "createAt": "2026-11-05T01:41:54.000Z",
+      "thumbnail_blurhash": "L56[5gA2I]~CvxOHp0%29u-pRNI;"
+    },
+    {
+      "id": "https://vnexpress.net/du-kien-lap-trung-tam-lien-nganh-phong-chong-lua-dao-truc-tuyen-5140960.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Dự kiến lập Trung tâm liên ngành phòng chống lừa đảo trực tuyến",
+      "description": "Chính phủ dự kiến lập Trung tâm điều hành liên ngành phòng, chống tội phạm lừa đảo trực tuyến nhằm cụ thể hóa các mục tiêu phòng chống tội phạm trong 10 năm tới.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/05/202611050833374252-g3194982797-8321-1470-1793843639.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=0la73GGcVhHYQrfl5sbOQw",
+      "link": "https://vnexpress.net/du-kien-lap-trung-tam-lien-nganh-phong-chong-lua-dao-truc-tuyen-5140960.html",
+      "published_at": "Thu, 05 Nov 2026 09:16:23 +0700",
+      "createAt": "2026-11-05T02:16:23.000Z",
+      "thumbnail_blurhash": "LiKcX#~9,,$%=rt6NeWCt3bHWYWV"
+    }
+  ]
 }
