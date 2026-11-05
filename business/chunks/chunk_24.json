@@ -1272,5 +1272,31 @@
     "published_at": "Thu, 05 Nov 2026 18:00:00 +0700",
     "createAt": "2026-11-05T11:00:00.000Z",
     "thumbnail_blurhash": "LSHCD+xtRit8?wj[R*of-=kCkCof"
+  },
+  {
+    "id": "https://vnexpress.net/nhieu-chu-tai-khoan-phan-anh-co-ma-qr-ho-kinh-doanh-5138920.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Nhiều chủ tài khoản phản ánh có mã QR hộ kinh doanh",
+    "description": "Nhiều khách hàng phát hiện có mã QR cửa hàng đứng tên mình trên ứng dụng MB, nhà băng nói đây là tính năng hỗ trợ nhận thanh toán, theo dõi giao dịch, không đồng nghĩa khách được đăng ký hộ kinh doanh.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/30/wm1-wm1-thong-tin-cua-hang-tren-di-3632-8768-1793371059.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=DYS1vG7YvuFqdJB88coCvQ",
+    "link": "https://vnexpress.net/nhieu-chu-tai-khoan-phan-anh-co-ma-qr-ho-kinh-doanh-5138920.html",
+    "published_at": "Tue, 03 Nov 2026 07:00:00 +0700",
+    "createAt": "2026-11-03T00:00:00.000Z",
+    "thumbnail_blurhash": "L5IrHI4V00.7~pxvRhITR6xa%fI."
+  },
+  {
+    "id": "https://vnexpress.net/ty-gia-usd-giam-manh-nhat-mot-thang-5141334.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Tỷ giá USD giảm mạnh nhất một tháng",
+    "description": "Chiều tối 5/11, nhiều ngân hàng trong nước đồng loạt hạ giá mua bán USD 150-200 đồng so với buổi sáng, mức giảm mạnh nhất một tháng qua.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/05/vpbank-thanhtung20-1793885794-7898-1793885811.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=BQybriOR4Os7PHirSwdiFA",
+    "link": "https://vnexpress.net/ty-gia-usd-giam-manh-nhat-mot-thang-5141334.html",
+    "published_at": "Thu, 05 Nov 2026 20:53:50 +0700",
+    "createAt": "2026-11-05T13:53:50.000Z",
+    "thumbnail_blurhash": "LFKUWatk00n4?wMx-p%fyXV@M{XT"
   }
 ]
