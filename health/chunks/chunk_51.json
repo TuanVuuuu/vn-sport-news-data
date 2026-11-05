@@ -661,5 +661,31 @@
     "published_at": "Thu, 05 Nov 2026 09:00:00 +0700",
     "createAt": "2026-11-05T02:00:00.000Z",
     "thumbnail_blurhash": "LiI=GcxbIqX9_NWAIoWVo#kCs:s:"
+  },
+  {
+    "id": "https://vnexpress.net/u-da-day-xam-lan-lach-gan-nguoi-dan-ong-5140953.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "U dạ dày xâm lấn lách, gan người đàn ông",
+    "description": "Ông Tú, 58 tuổi, khối u ở dạ dày tăng kích thước nhanh, xâm lấn và bám chặt vào lách, gan, vòm hoành.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/05/1-1793841714-2206-1793841762.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=k0_44klPfdJ_vEg-mSi2aw",
+    "link": "https://vnexpress.net/u-da-day-xam-lan-lach-gan-nguoi-dan-ong-5140953.html",
+    "published_at": "Thu, 05 Nov 2026 11:00:00 +0700",
+    "createAt": "2026-11-05T04:00:00.000Z",
+    "thumbnail_blurhash": "LgI6sl^hI_tR~TxrxtxY-iX9V[ni"
+  },
+  {
+    "id": "https://vnexpress.net/cuoc-mo-bi-mat-giua-dem-dua-em-be-ivf-dau-tien-chao-doi-5140986.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Cuộc mổ bí mật giữa đêm đưa em bé IVF đầu tiên chào đời",
+    "description": "Để tránh sự bủa vây dữ dội từ dư luận và báo giới, các bác sĩ bí mật mổ bắt con vào lúc nửa đêm, đưa em bé thụ tinh trong ống nghiệm đầu tiên trên thế giới chào đời an toàn.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/05/2-1793845842-8134-1793846806.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ffOz55UOryTj40w2bkKrrw",
+    "link": "https://vnexpress.net/cuoc-mo-bi-mat-giua-dem-dua-em-be-ivf-dau-tien-chao-doi-5140986.html",
+    "published_at": "Thu, 05 Nov 2026 11:04:05 +0700",
+    "createAt": "2026-11-05T04:04:05.000Z",
+    "thumbnail_blurhash": "LnNAYc.TR4ozS6xGtQRkI?xDoyR."
   }
 ]
