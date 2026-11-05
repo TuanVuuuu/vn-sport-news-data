@@ -752,5 +752,31 @@
     "published_at": "Thu, 05 Nov 2026 10:00:00 +0700",
     "createAt": "2026-11-05T03:00:00.000Z",
     "thumbnail_blurhash": "LLG+Z+9eM|oI~nR*WTxZIuxsM|Rk"
+  },
+  {
+    "id": "https://vnexpress.net/bac-kinh-vao-mua-thu-vang-du-khach-do-ve-ngam-la-5141051.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Bắc Kinh vào mùa thu vàng, du khách đổ về ngắm lá",
+    "description": "Đầu tháng 11, những hàng ngân hạnh ở Bắc Kinh chuyển vàng và các khu du lịch ngoại ô ghi nhận nhu cầu du lịch tăng tới 112%.",
+    "thumbnail_url": "https://i1-dulich.vnecdn.net/2026/11/05/1-1793876754.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=AerNSP3BsBt5jmf_PtXdmw",
+    "link": "https://vnexpress.net/bac-kinh-vao-mua-thu-vang-du-khach-do-ve-ngam-la-5141051.html",
+    "published_at": "Thu, 05 Nov 2026 18:06:04 +0700",
+    "createAt": "2026-11-05T11:06:04.000Z",
+    "thumbnail_blurhash": "L2Fq:B~A03xu=yF@EK0403Sh~6In"
+  },
+  {
+    "id": "https://vnexpress.net/ho-ngoc-bich-500-m2-trong-hang-dong-phong-nha-ke-bang-5140811.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Hồ ngọc bích 500 m2 trong hang động Phong Nha - Kẻ Bàng",
+    "description": "Hồ canxi rộng khoảng 500 m2, nước xanh màu ngọc bích tại hang Thắng, được đánh giá lớn nhất trong các hang động được phát hiện ở Phong Nha - Kẻ Bàng.",
+    "thumbnail_url": "https://i1-vnexpress.vnecdn.net/2026/11/04/anh-7-1793784927.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=LrY3ujyuD7tRew_-0By1mA",
+    "link": "https://vnexpress.net/ho-ngoc-bich-500-m2-trong-hang-dong-phong-nha-ke-bang-5140811.html",
+    "published_at": "Thu, 05 Nov 2026 18:47:32 +0700",
+    "createAt": "2026-11-05T11:47:32.000Z",
+    "thumbnail_blurhash": "LDBNM-PARl$Q~VE7Ris,Qo9IR$OV"
   }
 ]
