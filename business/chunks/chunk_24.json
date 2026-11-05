@@ -1194,5 +1194,31 @@
     "published_at": "Thu, 05 Nov 2026 15:58:52 +0700",
     "createAt": "2026-11-05T08:58:52.000Z",
     "thumbnail_blurhash": "L79bRT05C4}?8Gz;.50i^8GEQmXT"
+  },
+  {
+    "id": "https://vnexpress.net/grab-giam-phi-boi-hoan-tai-xe-sau-ra-soat-cua-uy-ban-canh-tranh-5141160.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Grab giảm phí, bồi hoàn tài xế sau rà soát của Ủy ban Cạnh tranh",
+    "description": "Sau rà soát của Ủy ban Cạnh tranh, Grab xác nhận sẽ giảm phí ứng dụng, bồi hoàn cho tài xế, minh bạch thông tin và ưu đãi thêm hành khách.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/05/233a1946-1793866725-1806-1793866773.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=3mMzjjPzRDC-rRle4s0PmA",
+    "link": "https://vnexpress.net/grab-giam-phi-boi-hoan-tai-xe-sau-ra-soat-cua-uy-ban-canh-tranh-5141160.html",
+    "published_at": "Thu, 05 Nov 2026 16:17:24 +0700",
+    "createAt": "2026-11-05T09:17:24.000Z",
+    "thumbnail_blurhash": "LOFr#6D*%L56_Mt8M{X8_2tRM{x]"
+  },
+  {
+    "id": "https://vnexpress.net/nhap-khau-cua-my-len-cao-ky-luc-5141248.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Nhập khẩu của Mỹ lên cao kỷ lục",
+    "description": "Nền kinh tế lớn nhất thế giới vẫn chi hơn 426 tỷ USD để nhập khẩu trong tháng 9, bất chấp chính sách thuế mạnh tay của ông Trump.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/05/2024t001618z-rc2jmaa42n8j-rtrm-7347-5856-1793869973.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=vMJ-G2OBuTDn9FRQzkRtzg",
+    "link": "https://vnexpress.net/nhap-khau-cua-my-len-cao-ky-luc-5141248.html",
+    "published_at": "Thu, 05 Nov 2026 16:30:00 +0700",
+    "createAt": "2026-11-05T09:30:00.000Z",
+    "thumbnail_blurhash": "L,JRaTRjt7xu_NRjoft7%Mofayj["
   }
 ]
