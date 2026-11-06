@@ -843,5 +843,18 @@
     "published_at": "Fri, 06 Nov 2026 07:00:00 +0700",
     "createAt": "2026-11-06T00:00:00.000Z",
     "thumbnail_blurhash": "LLAwGOImS+tT-@t7IUR+f4j]V?Ri"
+  },
+  {
+    "id": "https://vnexpress.net/ai-lay-du-lieu-tu-dien-thoai-dang-khoa-the-nao-5141195.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "AI lấy dữ liệu từ điện thoại đang khóa thế nào",
+    "description": "Mô hình AI chưa phát hành của Anthropic đã ghép ba lỗ hổng để lấy ảnh và dữ liệu cá nhân từ chiếc Pixel 9 đang khóa màn hình, chỉ qua một sợi cáp USB.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/05/a1-1793866686.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=rSgrRMq4wttzUHGz_Vuz4g",
+    "link": "https://vnexpress.net/ai-lay-du-lieu-tu-dien-thoai-dang-khoa-the-nao-5141195.html",
+    "published_at": "Fri, 06 Nov 2026 09:00:00 +0700",
+    "createAt": "2026-11-06T02:00:00.000Z",
+    "thumbnail_blurhash": "L7DbH6010M.79FJV={RP0MJ8}?$j"
   }
 ]
