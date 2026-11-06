@@ -700,5 +700,31 @@
     "published_at": "Fri, 06 Nov 2026 00:02:00 +0700",
     "createAt": "2026-11-05T17:02:00.000Z",
     "thumbnail_blurhash": "LzIOX]%1R+t8yZxtt7t7XUW=flj["
+  },
+  {
+    "id": "https://vnexpress.net/ca-lang-huy-dong-10-thuyen-giai-cuu-ca-voi-25-met-mac-can-5141100.html",
+    "category_id": "relax",
+    "category_name": "Thư giãn",
+    "source": "VnExpress",
+    "title": "Cả làng huy động 10 thuyền giải cứu cá voi 28 mét mắc cạn",
+    "description": "Con cá voi khổng lồ dài 28 mét mắc cạn quanh đảo Kalong, tỉnh Đông Nusa Tenggara đã được người dân địa phương chăm sóc và giải cứu.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/05/ezgif28f41f266bcdb90c-17938619-1731-9324-1793862822.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=TCxXKnJfvmy34hQDHE8F8A&t=image",
+    "link": "https://vnexpress.net/ca-lang-huy-dong-10-thuyen-giai-cuu-ca-voi-25-met-mac-can-5141100.html",
+    "published_at": "Fri, 06 Nov 2026 08:00:00 +0700",
+    "createAt": "2026-11-06T01:00:00.000Z",
+    "thumbnail_blurhash": "LYF~jnxutQxZ?wxZWBj]?vRjRjof"
+  },
+  {
+    "id": "https://vnexpress.net/nha-gia-dat-la-ten-khac-cua-thu-do-nuoc-dong-nam-a-nao-5140516.html",
+    "category_id": "relax",
+    "category_name": "Thư giãn",
+    "source": "VnExpress",
+    "title": "Nhã Gia Đạt là tên khác của thủ đô nước Đông Nam Á nào?",
+    "description": "Cái tên Hán Việt nghe khá lạ này từng được dùng để gọi một đô thị lớn ở Đông Nam Á. Bạn có nhận ra?",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/04/gemini-generated-image-pwawwmp-6878-8154-1793759490.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=-wwoM4cvQHM3lELsyyL65w",
+    "link": "https://vnexpress.net/nha-gia-dat-la-ten-khac-cua-thu-do-nuoc-dong-nam-a-nao-5140516.html",
+    "published_at": "Fri, 06 Nov 2026 08:57:01 +0700",
+    "createAt": "2026-11-06T01:57:01.000Z",
+    "thumbnail_blurhash": "LkGb^.t6IUxu%%ozRjs:%NW?bHWB"
   }
 ]
