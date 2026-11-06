@@ -765,5 +765,31 @@
     "published_at": "Fri, 06 Nov 2026 20:00:00 +0700",
     "createAt": "2026-11-06T13:00:00.000Z",
     "thumbnail_blurhash": "LcJQv2I,EK%L?[J$n%sAIVsCs:R+"
+  },
+  {
+    "id": "https://vnexpress.net/pham-van-ha-ung-vien-tiem-nang-cho-danh-hieu-hoa-hau-viet-nam-5141614.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Phạm Vân Hà - ứng viên tiềm năng cho danh hiệu Hoa hậu Việt Nam",
+    "description": "Phạm Vân Hà, 18 tuổi, quê Hải Phòng, tạo thiện cảm tại Hoa hậu Việt Nam 2026 với gương mặt phúc hậu, thành tích học tập tốt.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/11/06/pha-m-va-n-ha-jpeg-1793952049.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=7AZHu1QXizlDG8dnGbgK6w",
+    "link": "https://vnexpress.net/pham-van-ha-ung-vien-tiem-nang-cho-danh-hieu-hoa-hau-viet-nam-5141614.html",
+    "published_at": "Sat, 07 Nov 2026 00:00:00 +0700",
+    "createAt": "2026-11-06T17:00:00.000Z",
+    "thumbnail_blurhash": "LdJ@@Ouj~X^RRZxWt6NHV[jXRin$"
+  },
+  {
+    "id": "https://vnexpress.net/hau-truong-quay-canh-nong-cua-phim-chi-chi-em-em-3-5141570.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Hậu trường quay cảnh 'nóng' của phim Chị chị em em 3",
+    "description": "Đạo diễn \"Chị chị em em 3\" cho biết tạo không khí vui vẻ để Ninh Dương Lan Ngọc, Chi Pu vượt cảm giác ngại ngùng khi đóng cảnh \"nóng\".",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/11/06/chi-chi-em-em-1793957020-2587-1793958005.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=EUMmrA6LmmPeLjXxWOnGeA",
+    "link": "https://vnexpress.net/hau-truong-quay-canh-nong-cua-phim-chi-chi-em-em-3-5141570.html",
+    "published_at": "Sat, 07 Nov 2026 00:05:00 +0700",
+    "createAt": "2026-11-06T17:05:00.000Z",
+    "thumbnail_blurhash": "LAH{TDaTJ~x=x|D$%hyDEK8_Di?v"
   }
 ]
