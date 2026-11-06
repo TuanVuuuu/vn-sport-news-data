@@ -596,5 +596,31 @@
     "published_at": "Sat, 07 Nov 2026 05:00:00 +0700",
     "createAt": "2026-11-06T22:00:00.000Z",
     "thumbnail_blurhash": "LOF?FR?vyD-=_4ogW=xut7IAIUWB"
+  },
+  {
+    "id": "https://vnexpress.net/volvo-ra-mat-hai-oto-dien-moi-gia-tu-2-6-ty-dong-5141517.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Volvo ra mắt hai ôtô điện mới, giá từ 2,6 tỷ đồng",
+    "description": "Cặp EX90 và ES90 cùng lắp hai môtơ điện, tổng công suất 680 mã lực, pin 106 kWh, phạm vi hoạt động 625-706 km.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/07/VolvoEX902026VnE3050-179398382-3180-4526-1793984422.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=XB9brQB3YFNAgMDQhWe7Ig",
+    "link": "https://vnexpress.net/volvo-ra-mat-hai-oto-dien-moi-gia-tu-2-6-ty-dong-5141517.html",
+    "published_at": "Sat, 07 Nov 2026 05:30:00 +0700",
+    "createAt": "2026-11-06T22:30:00.000Z",
+    "thumbnail_blurhash": "LSGIfqOb_4tnOtNLEMkr={WBaft7"
+  },
+  {
+    "id": "https://vnexpress.net/thai-lan-siet-xe-dien-nhap-khau-5141345.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Thái Lan siết xe điện nhập khẩu",
+    "description": "Thái Lan tăng thuế tiêu thụ đặc biệt xe điện nhập khẩu nguyên chiếc từ 10% lên 35% từ năm 2027, nhằm thúc đẩy sản xuất nội địa.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/05/dfqror7owzulq5fa7hcjeyf82rdrbz-1892-1469-1793889017.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=WEuLl7ooLxeMYMSSWDjiAQ",
+    "link": "https://vnexpress.net/thai-lan-siet-xe-dien-nhap-khau-5141345.html",
+    "published_at": "Sat, 07 Nov 2026 06:00:00 +0700",
+    "createAt": "2026-11-06T23:00:00.000Z",
+    "thumbnail_blurhash": "LAK_2k03EM?w4TRn4TM{*xnMkrsR"
   }
 ]
