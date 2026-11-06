@@ -414,5 +414,44 @@
     "published_at": "Fri, 06 Nov 2026 05:00:00 +0700",
     "createAt": "2026-11-05T22:00:00.000Z",
     "thumbnail_blurhash": "LnIY5@j[xuxu~qWBayt7?HofRjay"
+  },
+  {
+    "id": "https://vnexpress.net/nguoi-nhat-phai-chung-minh-co-cho-do-moi-duoc-mua-oto-5141340.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Người Nhật phải chứng minh có chỗ đỗ mới được mua ôtô",
+    "description": "Nhật Bản siết chặt quy định về chỗ đỗ xe, tránh trường hợp người dân mua nhiều xe nhưng đỗ ra đường.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/05/car-shaped-hole-japanese-house-3145-8579-1793888324.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=YO-wmPFWDJ0Ydk1rNy3PyA",
+    "link": "https://vnexpress.net/nguoi-nhat-phai-chung-minh-co-cho-do-moi-duoc-mua-oto-5141340.html",
+    "published_at": "Fri, 06 Nov 2026 05:30:00 +0700",
+    "createAt": "2026-11-05T22:30:00.000Z",
+    "thumbnail_blurhash": "LoGSAfo#V?kX_NWCV?tRx]WBRjkC"
+  },
+  {
+    "id": "https://vnexpress.net/loat-xe-mitsubishi-khuyen-mai-hang-chuc-trieu-dong-thang-11-5141175.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Loạt xe Mitsubishi khuyến mãi hàng chục triệu đồng tháng 11",
+    "description": "Hãng Nhật tiếp tục giảm giá cho tất cả sản phẩm bằng ưu đãi lệ phí trước bạ hoặc phụ kiện, chi phí lăn bánh giảm hàng chục triệu đồng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/05/MitsubishiXforcevnexpress-1793-4298-2718-1793866505.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=9VqcuP47vQUfpPOGH3eNrg",
+    "link": "https://vnexpress.net/loat-xe-mitsubishi-khuyen-mai-hang-chuc-trieu-dong-thang-11-5141175.html",
+    "published_at": "Fri, 06 Nov 2026 06:00:00 +0700",
+    "createAt": "2026-11-05T23:00:00.000Z",
+    "thumbnail_blurhash": "LmH2TRt7NFax_NofM{axtmWBRifk"
+  },
+  {
+    "id": "https://vnexpress.net/pin-cua-porsche-taycan-dat-hon-toyota-camry-5140984.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Pin của Porsche Taycan đắt hơn Toyota Camry",
+    "description": "Nếu pin của Taycan bị ảnh hưởng do tai nạn, hay do không bảo dưỡng đúng cách, hoặc can thiệp trái phép, chi phí thay thế rất đắt đỏ.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/05/PorscheTaycan1-1793850752-6275-1793851007.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=j7YOhKghd7vrugTMOt_j6Q",
+    "link": "https://vnexpress.net/pin-cua-porsche-taycan-dat-hon-toyota-camry-5140984.html",
+    "published_at": "Fri, 06 Nov 2026 06:30:00 +0700",
+    "createAt": "2026-11-05T23:30:00.000Z",
+    "thumbnail_blurhash": "LdM7u?of_3t7%M9FWB%M~qt8M{of"
   }
 ]
