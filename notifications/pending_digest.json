@@ -1,3 +1,56 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/ha-noi-xen-via-he-7-tuyen-duong-de-giam-un-tac-5141924.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Hà Nội xén vỉa hè 7 tuyến đường để giảm ùn tắc",
+      "description": "Hơn 8 km đường trên trục Giảng Võ - Láng Hạ - Lê Văn Lương - Tố Hữu cùng các tuyến giao cắt sẽ được mở rộng bằng cách xén vỉa hè, điều chỉnh dải phân cách.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/07/3-jpg-1794047082-2917-1794047093.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ciYdFuPISn5k0z05CS5PNQ",
+      "link": "https://vnexpress.net/ha-noi-xen-via-he-7-tuyen-duong-de-giam-un-tac-5141924.html",
+      "published_at": "Sat, 07 Nov 2026 17:24:53 +0700",
+      "createAt": "2026-11-07T10:24:53.000Z",
+      "thumbnail_blurhash": "L6B|W@tTn2%gxaxv-;Mw~WD*-:M{"
+    },
+    {
+      "id": "https://vnexpress.net/robot-hinh-nguoi-dan-chuong-trinh-tin-tuc-dau-tien-tren-the-gioi-5141850.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Robot hình người dẫn chương trình tin tức đầu tiên trên thế giới",
+      "description": "Hãng thông tấn Trung Quốc Xinhua ra mắt hai robot AI có ngoại hình và năng lực gần giống người dẫn chương trình tin tức.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/07/81d749c70cb740caa00363babb2ea9-7595-3435-1794024958.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Upe1QKDRStg8Xub2qKQMwg",
+      "link": "https://vnexpress.net/robot-hinh-nguoi-dan-chuong-trinh-tin-tuc-dau-tien-tren-the-gioi-5141850.html",
+      "published_at": "Sat, 07 Nov 2026 18:00:00 +0700",
+      "createAt": "2026-11-07T11:00:00.000Z",
+      "thumbnail_blurhash": "LFB:?t_49GDi9N4-t2^*9YR*o~r="
+    },
+    {
+      "id": "https://vnexpress.net/nguoi-phu-nu-cang-bang-ron-to-cao-sai-su-that-bi-bat-5141951.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Người phụ nữ 'căng băng rôn, tố cáo sai sự thật' bị bắt",
+      "description": "Bà Đỗ Thị Ngọc Nguyên, 63 tuổi, bị cáo buộc nhiều năm tụ tập đông người, căng băng rôn tố cáo sai sự thật và đăng thông tin xuyên tạc trên mạng xã hội.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/07/ok-1794049032-3569-1794049627.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=DDMytg67cTiAyBR8-JkoYw",
+      "link": "https://vnexpress.net/nguoi-phu-nu-cang-bang-ron-to-cao-sai-su-that-bi-bat-5141951.html",
+      "published_at": "Sat, 07 Nov 2026 18:08:07 +0700",
+      "createAt": "2026-11-07T11:08:07.000Z",
+      "thumbnail_blurhash": "LRIqrv~o~V%2_3NKXSkV=}WENHRR"
+    },
+    {
+      "id": "https://vnexpress.net/25-nguoi-dep-tranh-vuong-mien-hoa-hau-viet-nam-2026-5141856.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Chung kết Hoa hậu Việt Nam: 25 thí sinh đồng diễn mở màn",
+      "description": "25 thí sinh bước vào đêm thi quyết định danh hiệu Hoa hậu Việt Nam 2026, tối 7/11 tại Đồ Sơn.",
+      "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/11/07/thanh-thuy-1794056723-3894-1794056732.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=JGhigRjAKP6EljFGSfgTRw",
+      "link": "https://vnexpress.net/25-nguoi-dep-tranh-vuong-mien-hoa-hau-viet-nam-2026-5141856.html",
+      "published_at": "Sat, 07 Nov 2026 19:30:00 +0700",
+      "createAt": "2026-11-07T12:30:00.000Z",
+      "thumbnail_blurhash": "LbNvf8IVtlRk_NxuodWBNfRjxZxu"
+    }
+  ]
 }
