@@ -752,5 +752,57 @@
     "published_at": "Sat, 07 Nov 2026 19:13:07 +0700",
     "createAt": "2026-11-07T12:13:07.000Z",
     "thumbnail_blurhash": "LAD.]r.m00Xi4TyF_3RN8^yDZPIU"
+  },
+  {
+    "id": "https://vnexpress.net/openai-duoc-dinh-gia-1-250-ty-usd-5141812.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "OpenAI được định giá 1.250 tỷ USD",
+    "description": "Định giá của công ty mẹ ChatGPT không cao như kỳ vọng sau vòng huy động vốn mới nhất, thu về 11 tỷ USD.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/07/dsc00717-jpg-1794021391-6110-1794021410.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=xwOx_ccYBQvVzkUC_fttBQ",
+    "link": "https://vnexpress.net/openai-duoc-dinh-gia-1-250-ty-usd-5141812.html",
+    "published_at": "Sat, 07 Nov 2026 10:35:31 +0700",
+    "createAt": "2026-11-07T03:35:31.000Z",
+    "thumbnail_blurhash": "L4Bgxh4m00wg0t-9_#J%00nO~pt2"
+  },
+  {
+    "id": "https://vnexpress.net/dan-nguoi-dep-du-chung-ket-hoa-hau-viet-nam-2026-5141971.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Dàn người đẹp dự chung kết Hoa hậu Việt Nam 2026",
+    "description": "Hoa hậu Mai Phương cùng Thanh Thủy, Hà Trúc Linh, Á hậu Châu Anh xuất hiện rạng rỡ tại chung kết Hoa hậu Việt Nam 2026, tối 7/11.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/11/07/hoa-hau-mai-phuong-1794058805.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=EqKszoVQkTWy423ejIYvFw",
+    "link": "https://vnexpress.net/dan-nguoi-dep-du-chung-ket-hoa-hau-viet-nam-2026-5141971.html",
+    "published_at": "Sat, 07 Nov 2026 20:40:38 +0700",
+    "createAt": "2026-11-07T13:40:38.000Z",
+    "thumbnail_blurhash": "LHPYCun5~X=|x_tQ$~Na0Lt6-VV@"
+  },
+  {
+    "id": "https://vnexpress.net/17-ngay-truy-bat-bon-pham-nhan-tron-trai-giam-a2-5141979.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "17 ngày truy bắt bốn phạm nhân trốn trại giam A2",
+    "description": "Hàng trăm cảnh sát chốt chặn các ngả đường, lùng sục rừng núi suốt 17 ngày, truy tìm bốn phạm nhân trốn khỏi Trại giam A2, trong đó Hồ Văn Tình là người cuối cùng bị bắt chiều 7/11.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/07/20261107210613-1794060568-8215-1794060611.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=FAPU0g2muSBlNSIw3SOoCA",
+    "link": "https://vnexpress.net/17-ngay-truy-bat-bon-pham-nhan-tron-trai-giam-a2-5141979.html",
+    "published_at": "Sat, 07 Nov 2026 21:10:11 +0700",
+    "createAt": "2026-11-07T14:10:11.000Z",
+    "thumbnail_blurhash": "L4ATTE00_Knf9ssZW9kD009Gxt?b"
+  },
+  {
+    "id": "https://vnexpress.net/iran-tuyen-bo-go-rao-tam-ban-ten-lua-5141969.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Iran tuyên bố gỡ rào tầm bắn tên lửa",
+    "description": "Iran xác nhận đã dỡ bỏ giới hạn tự áp đặt về tầm bắn tên lửa, sẵn sàng đáp trả \"tức thì và hiệu quả\" trước mọi mối đe dọa.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/07/ten-lua-iran-1794057278-9224-1794059462.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=3y4bLOAZ4I1mrUZqD4hr6g",
+    "link": "https://vnexpress.net/iran-tuyen-bo-go-rao-tam-ban-ten-lua-5141969.html",
+    "published_at": "Sat, 07 Nov 2026 21:46:01 +0700",
+    "createAt": "2026-11-07T14:46:01.000Z",
+    "thumbnail_blurhash": "L7HLC,^%^+~W.Tt6WC%L4oX9oyW?"
   }
 ]
