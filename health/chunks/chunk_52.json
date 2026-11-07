@@ -544,5 +544,31 @@
     "published_at": "Sat, 07 Nov 2026 16:25:06 +0700",
     "createAt": "2026-11-07T09:25:06.000Z",
     "thumbnail_blurhash": "LHE:9~%h00I@00WX?wxupcj[$jn$"
+  },
+  {
+    "id": "https://vnexpress.net/be-3-tuoi-kho-tho-do-hoc-vien-soi-5141894.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Bé 3 tuổi khó thở do hóc viên sỏi",
+    "description": "Bé trai 3 tuổi khó thở sau khi hóc viên sỏi, được bác sĩ nội soi phế quản gắp dị vật khai thông đường thở.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/07/di-va-t-1794034915-5765-1794035008.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=VudWQXxtR6_Hj6MbbzwEAQ",
+    "link": "https://vnexpress.net/be-3-tuoi-kho-tho-do-hoc-vien-soi-5141894.html",
+    "published_at": "Sat, 07 Nov 2026 17:00:00 +0700",
+    "createAt": "2026-11-07T10:00:00.000Z",
+    "thumbnail_blurhash": "LcG^2-xZo}xu~Dj[t7s:?ct6s:jG"
+  },
+  {
+    "id": "https://vnexpress.net/vi-sao-mat-tre-so-sinh-co-luc-nhin-lech-5141829.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Vì sao mắt trẻ sơ sinh có lúc nhìn lệch?",
+    "description": "Mắt trẻ sơ sinh đôi khi nhìn lệch do khả năng phối hợp vận động hai mắt chưa hoàn thiện hoặc cấu trúc khuôn mặt tạo cảm giác mắt bị lác.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/07/tre-so-sinh-1794021780-3974-1794021808.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=bH32bDwhcu6eJ-CP3zCtFg",
+    "link": "https://vnexpress.net/vi-sao-mat-tre-so-sinh-co-luc-nhin-lech-5141829.html",
+    "published_at": "Sat, 07 Nov 2026 17:00:00 +0700",
+    "createAt": "2026-11-07T10:00:00.000Z",
+    "thumbnail_blurhash": "LEMPdoVX%u~6_0=znLtjAdixK6NF"
   }
 ]
