@@ -1051,5 +1051,18 @@
     "published_at": "Sun, 08 Nov 2026 00:00:00 +0700",
     "createAt": "2026-11-07T17:00:00.000Z",
     "thumbnail_blurhash": "L8HeqP~WIB?c019G9F-;0Kof?ct7"
+  },
+  {
+    "id": "https://vnexpress.net/mo-hinh-anthropic-cai-tien-nhanh-gap-doi-nho-ai-5141690.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Mô hình Anthropic cải tiến nhanh gấp đôi nhờ AI",
+    "description": "Nghiên cứu độc lập cho thấy các mô hình Anthropic đang cải tiến nhanh gấp 1,9 lần so với trước nhờ AI tham gia quá trình huấn luyện.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/06/dsc03631jpg1-1793960744-9119-1793961030.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=prElEoSg5lQjrjM4I9ACaw",
+    "link": "https://vnexpress.net/mo-hinh-anthropic-cai-tien-nhanh-gap-doi-nho-ai-5141690.html",
+    "published_at": "Sun, 08 Nov 2026 06:00:00 +0700",
+    "createAt": "2026-11-07T23:00:00.000Z",
+    "thumbnail_blurhash": "LfJtVfSi01ozPqWCvfNayDWBnNR*"
   }
 ]
