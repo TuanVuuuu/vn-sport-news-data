@@ -1168,5 +1168,31 @@
     "published_at": "Sat, 07 Nov 2026 21:39:03 +0700",
     "createAt": "2026-11-07T14:39:03.000Z",
     "thumbnail_blurhash": "LMDJ6kRoD|M_-tE1M]NF_1WAM|a#"
+  },
+  {
+    "id": "https://vnexpress.net/ronaldo-qua-goc-nhin-cua-phong-vien-da-theo-chan-24-nam-5141935.html",
+    "category_id": "sports",
+    "category_name": "Thể thao",
+    "source": "VnExpress",
+    "title": "Ronaldo qua góc nhìn của phóng viên đã theo chân 24 năm",
+    "description": "Suốt gần một phần tư thế kỷ, phóng viên kỳ cựu Regis Dupont là người chuyên trách thực hiện các bài viết về Cristiano Ronaldo và đội tuyển Bồ Đào Nha cho báo Pháp L’Équipe.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/11/07/3a8a21d17da24e149b5057b16b1871-5016-5030-1794043827.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=GsPNsgE2r7b2dPe4oWSlfA",
+    "link": "https://vnexpress.net/ronaldo-qua-goc-nhin-cua-phong-vien-da-theo-chan-24-nam-5141935.html",
+    "published_at": "Sun, 08 Nov 2026 00:00:00 +0700",
+    "createAt": "2026-11-07T17:00:00.000Z",
+    "thumbnail_blurhash": "L9FhVInP4.s848MxJCpI_Ox[xwR6"
+  },
+  {
+    "id": "https://vnexpress.net/arsenal-gia-co-dinh-bang-ngoai-hang-anh-5142026.html",
+    "category_id": "sports",
+    "category_name": "Thể thao",
+    "source": "VnExpress",
+    "title": "Arsenal gia cố đỉnh bảng Ngoại hạng Anh",
+    "description": "Thắng Hull City 1-0 ở vòng 10 Ngoại hạng Anh, Arsenal tạm nới rộng cách biệt với đội nhì bảng Man City lên sáu điểm.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/11/08/a-nh-ma-n-hi-nh-lu-c-179407075-3419-2560-1794070913.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=jRsjmLRlpIDBDEBD3NgMMg",
+    "link": "https://vnexpress.net/arsenal-gia-co-dinh-bang-ngoai-hang-anh-5142026.html",
+    "published_at": "Sun, 08 Nov 2026 00:03:38 +0700",
+    "createAt": "2026-11-07T17:03:38.000Z",
+    "thumbnail_blurhash": "L7BpnIie0M9sD]Ino@s:LvNa#qs."
   }
 ]
