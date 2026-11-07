@@ -1,3 +1,147 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/ronaldo-va-loi-chia-tay-nhung-giac-mo-dem-he-5141713.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Ronaldo và lời chia tay những giấc mơ đêm hè",
+      "description": "Dù được xem là cây trường sinh của bóng đá đương đại, Cristiano Ronaldo cuối cùng cũng phải nói lời giã biệt ĐTQG, màu áo đã cùng anh xô đổ mọi kỷ lục, đi qua đủ những cung bậc của nụ cười, nước mắt và sống cùng những thời khắc bất tử của sự nghiệp.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/11/06/Screenshot20261105224915-17939-1883-3032-1793963636.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=eAvVDfsnAy1f7Flj75-kYg",
+      "link": "https://vnexpress.net/ronaldo-va-loi-chia-tay-nhung-giac-mo-dem-he-5141713.html",
+      "published_at": "Sat, 07 Nov 2026 08:09:15 +0700",
+      "createAt": "2026-11-07T01:09:15.000Z",
+      "thumbnail_blurhash": "L6G%_b?{-U~p:+-orWzW*~H[zVXm"
+    },
+    {
+      "id": "https://vnexpress.net/chang-trai-tu-mat-cha-me-nuoi-sau-khi-doan-tu-5141514.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Chàng trai từ mặt cha mẹ nuôi sau khi đoàn tụ",
+      "description": "Bị chỉ trích vì cắt đứt liên lạc với gia đình nuôi sau 34 năm bị bắt cóc, Hồ Long khẳng định họ đã tiếp tay cướp đi tuổi thơ của anh.",
+      "thumbnail_url": "https://vcdn1-giadinh.vnecdn.net/2026/11/06/w700d1q75cms-1793940108-2497-1793940253.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=X8ItKMPAZoGqFBPv3miRfg",
+      "link": "https://vnexpress.net/chang-trai-tu-mat-cha-me-nuoi-sau-khi-doan-tu-5141514.html",
+      "published_at": "Sat, 07 Nov 2026 08:27:52 +0700",
+      "createAt": "2026-11-07T01:27:52.000Z",
+      "thumbnail_blurhash": "LHI4x40K~V^+?w=}E1S#spx^56Io"
+    },
+    {
+      "id": "https://vnexpress.net/may-tinh-luong-tu-se-co-the-pha-ma-hoa-ngan-hang-trong-ba-ngay-5141485.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Máy tính lượng tử 'sẽ có thể phá mã hóa ngân hàng trong ba ngày'",
+      "description": "RSA-2048, công nghệ mã hóa tiên tiến nhất hiện nay cho hạ tầng số toàn cầu, ước tính có thể bị phá vỡ bằng máy tính lượng tử 23.000 qubit.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/06/dwaveadv2chipcovered1000x1000-5924-1550-1793941024.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=x-zybo14G74h9ydhJj6Xmg",
+      "link": "https://vnexpress.net/may-tinh-luong-tu-se-co-the-pha-ma-hoa-ngan-hang-trong-ba-ngay-5141485.html",
+      "published_at": "Sat, 07 Nov 2026 09:00:00 +0700",
+      "createAt": "2026-11-07T02:00:00.000Z",
+      "thumbnail_blurhash": "LAJa1L.802xuwGIAIVog4sIp~7NG"
+    },
+    {
+      "id": "https://vnexpress.net/tra-du-tien-tour-lao-nhom-khach-viet-phai-tu-mua-ve-may-bay-ve-nuoc-5139852.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Trả đủ tiền tour Lào, nhóm khách Việt phải tự mua vé máy bay về nước",
+      "description": "Dù thanh toán đủ tiền tour Lào, nhóm 10 khách từ TP HCM và Hà Nội phải tự mua vé chiều về do công ty du lịch không cung cấp.",
+      "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/11/02/tammy-kim-hvm6pncyk-unsplash-1-8598-4142-1793613927.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=p-8t38CCJKd7M7EHztRehA",
+      "link": "https://vnexpress.net/tra-du-tien-tour-lao-nhom-khach-viet-phai-tu-mua-ve-may-bay-ve-nuoc-5139852.html",
+      "published_at": "Sat, 07 Nov 2026 09:57:25 +0700",
+      "createAt": "2026-11-07T02:57:25.000Z",
+      "thumbnail_blurhash": "LJCZU;.7snxa%go#WCWC_N%MRjWC"
+    },
+    {
+      "id": "https://vnexpress.net/lua-bao-trum-doan-tau-cho-1-500-khach-o-an-do-5141822.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Lửa bao trùm đoàn tàu chở 1.500 khách ở Ấn Độ",
+      "description": "Lửa bùng phát tại một toa rồi lan sang ba toa khác khi tàu Karmabhoomi Express đến gần ga Sarai Banjara, bang Punjab, khiến khoảng 1.500 hành khách sơ tán.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/07/Sequence021ezgifcomoptimize-17-9649-5489-1794019815.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=KNGQZ6fFaPyxi75zEjIo3A&t=image",
+      "link": "https://vnexpress.net/lua-bao-trum-doan-tau-cho-1-500-khach-o-an-do-5141822.html",
+      "published_at": "Sat, 07 Nov 2026 10:01:33 +0700",
+      "createAt": "2026-11-07T03:01:33.000Z",
+      "thumbnail_blurhash": "LEF}p0~Vks-p06o#?IXASdbb%Mxt"
+    },
+    {
+      "id": "https://vnexpress.net/nga-phong-loat-ten-lua-vao-ha-tang-nang-luong-o-kiev-5141817.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Nga phóng loạt tên lửa vào 'hạ tầng năng lượng' ở Kiev",
+      "description": "Quân đội Nga mở đợt tập kích tên lửa quy mô lớn nhằm vào thủ đô Kiev của Ukraine với mục tiêu chủ yếu là hạ tầng năng lượng trong khu vực.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/07/5563187178137269567b-179401972-4313-9219-1794019820.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=KK8OMBv-PYevTlbDWmqMvw",
+      "link": "https://vnexpress.net/nga-phong-loat-ten-lua-vao-ha-tang-nang-luong-o-kiev-5141817.html",
+      "published_at": "Sat, 07 Nov 2026 10:30:07 +0700",
+      "createAt": "2026-11-07T03:30:07.000Z",
+      "thumbnail_blurhash": "L18fZG5k0:}B0T1N}q;|0z^O}9K4"
+    },
+    {
+      "id": "https://vnexpress.net/cuu-hoa-hau-thai-lan-bi-bat-voi-cao-buoc-an-chan-tien-tu-thien-5141828.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Cựu hoa hậu Thái Lan bị bắt với cáo buộc ăn chặn tiền từ thiện",
+      "description": "Cựu hoa hậu Thái Lan Panadda bị bắt với cáo buộc rút tiền từ quỹ từ thiện cá nhân do người dân quyên góp để mua bất động sản.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/07/cats-1794022496-7059-1794022534.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=j6PyJMSzcb-tUmxeWLXDdg",
+      "link": "https://vnexpress.net/cuu-hoa-hau-thai-lan-bi-bat-voi-cao-buoc-an-chan-tien-tu-thien-5141828.html",
+      "published_at": "Sat, 07 Nov 2026 10:47:56 +0700",
+      "createAt": "2026-11-07T03:47:56.000Z",
+      "thumbnail_blurhash": "L7Dk}YPCOU}@0ch|9Y5mOt^*rwE1"
+    },
+    {
+      "id": "https://vnexpress.net/hiep-den-xay-dung-hinh-anh-giang-ho-tren-mang-ra-sao-5141839.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Hiệp Đen xây dựng hình ảnh giang hồ trên mạng ra sao?",
+      "description": "Nguyễn Tuấn Hiệp, 55 tuổi, biệt danh Hiệp Đen, khai đeo vàng giả để tạo vẻ ngoài giống xã hội đen trong phim, đồng thời dàn cảnh đánh nhau nhằm xây dựng hình ảnh đại ca giang hồ trên mạng.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/07/Sequence7100030105Still001-179-2613-7430-1794022644.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=eqw4H2AkcxOaFuQKuw7EPA",
+      "link": "https://vnexpress.net/hiep-den-xay-dung-hinh-anh-giang-ho-tren-mang-ra-sao-5141839.html",
+      "published_at": "Sat, 07 Nov 2026 11:12:35 +0700",
+      "createAt": "2026-11-07T04:12:35.000Z",
+      "thumbnail_blurhash": "LdIqlnD%aea0~WxGo0sm%MofjZoy"
+    },
+    {
+      "id": "https://vnexpress.net/elon-musk-chia-se-bai-dang-chi-trich-viec-cung-cap-starlink-cho-ukraine-5141823.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Elon Musk chia sẻ bài đăng chỉ trích việc cung cấp Starlink cho Ukraine",
+      "description": "Elon Musk đăng lại bài viết trên mạng xã hội có nội dung cho rằng SpaceX đã mắc sai lầm khi cung cấp thiết bị đầu cuối Starlink cho Ukraine.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/07/ElonMusk-1794023044-9865-1794023496.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=D8to_5T0Prts6A0MnG6HSw",
+      "link": "https://vnexpress.net/elon-musk-chia-se-bai-dang-chi-trich-viec-cung-cap-starlink-cho-ukraine-5141823.html",
+      "published_at": "Sat, 07 Nov 2026 11:15:54 +0700",
+      "createAt": "2026-11-07T04:15:54.000Z",
+      "thumbnail_blurhash": "LnI}^HwF?DOu_MnMRPgOW=WER%t6"
+    },
+    {
+      "id": "https://vnexpress.net/gioi-ty-phu-cong-nghe-my-nem-trai-dang-bau-cu-giua-ky-5141389.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Giới tỷ phú công nghệ Mỹ nếm trái đắng bầu cử giữa kỳ",
+      "description": "Nhiều tỷ phú công nghệ vung tiền hậu thuẫn các ứng viên Cộng hòa trong bầu cử giữa kỳ, song điều này giờ đây lại thành gánh nặng với họ.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/06/2026t155115z-mt1zuma000q7xwqu-3206-6378-1793936629.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=9tzHtm8rUWrSnf9WJfngGA",
+      "link": "https://vnexpress.net/gioi-ty-phu-cong-nghe-my-nem-trai-dang-bau-cu-giua-ky-5141389.html",
+      "published_at": "Sat, 07 Nov 2026 11:51:06 +0700",
+      "createAt": "2026-11-07T04:51:06.000Z",
+      "thumbnail_blurhash": "LCEe.AIV=sWU~pV[Ef-U4mt6Ip%M"
+    },
+    {
+      "id": "https://vnexpress.net/chu-tich-quoc-hoi-phat-giao-co-nhieu-anh-huong-tich-cuc-den-xa-hoi-5141863.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Chủ tịch Quốc hội: Phật giáo có nhiều ảnh hưởng tích cực đến xã hội",
+      "description": "Là tôn giáo có lượng tín đồ đông nhất nước, Phật giáo góp phần gìn giữ các giá trị văn hóa, đạo đức, tích cực tham gia hoạt động an sinh xã hội, theo Chủ tịch Quốc hội Trần Thanh Mẫn.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/07/gn120-1794028117-2160-1794028406.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=-un56XR2tV_dQrT4UevCKw",
+      "link": "https://vnexpress.net/chu-tich-quoc-hoi-phat-giao-co-nhieu-anh-huong-tich-cuc-den-xa-hoi-5141863.html",
+      "published_at": "Sat, 07 Nov 2026 12:13:26 +0700",
+      "createAt": "2026-11-07T05:13:26.000Z",
+      "thumbnail_blurhash": "LYLNht~T0MDl^%N24=RkInNGe-oc"
+    }
+  ]
 }
