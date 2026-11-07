@@ -960,5 +960,18 @@
     "published_at": "Sat, 07 Nov 2026 07:21:49 +0700",
     "createAt": "2026-11-07T00:21:49.000Z",
     "thumbnail_blurhash": "L;JkyNs+aeof~pogoff5?boIofof"
+  },
+  {
+    "id": "https://vnexpress.net/may-tinh-luong-tu-se-co-the-pha-ma-hoa-ngan-hang-trong-ba-ngay-5141485.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Máy tính lượng tử 'sẽ có thể phá mã hóa ngân hàng trong ba ngày'",
+    "description": "RSA-2048, công nghệ mã hóa tiên tiến nhất hiện nay cho hạ tầng số toàn cầu, ước tính có thể bị phá vỡ bằng máy tính lượng tử 23.000 qubit.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/06/dwaveadv2chipcovered1000x1000-5924-1550-1793941024.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=x-zybo14G74h9ydhJj6Xmg",
+    "link": "https://vnexpress.net/may-tinh-luong-tu-se-co-the-pha-ma-hoa-ngan-hang-trong-ba-ngay-5141485.html",
+    "published_at": "Sat, 07 Nov 2026 09:00:00 +0700",
+    "createAt": "2026-11-07T02:00:00.000Z",
+    "thumbnail_blurhash": "LAJa1L.802xuwGIAIVog4sIp~7NG"
   }
 ]
