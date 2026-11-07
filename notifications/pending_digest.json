@@ -1,6 +1,32 @@
 {
   "featured": [
     {
+      "id": "https://vnexpress.net/pham-van-ha-ung-vien-tiem-nang-cho-danh-hieu-hoa-hau-viet-nam-5141614.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Phạm Vân Hà - ứng viên tiềm năng cho danh hiệu Hoa hậu Việt Nam",
+      "description": "Phạm Vân Hà, 18 tuổi, quê Hải Phòng, tạo thiện cảm tại Hoa hậu Việt Nam 2026 với gương mặt phúc hậu, thành tích học tập tốt.",
+      "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/11/06/pha-m-va-n-ha-jpeg-1793952049.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=7AZHu1QXizlDG8dnGbgK6w",
+      "link": "https://vnexpress.net/pham-van-ha-ung-vien-tiem-nang-cho-danh-hieu-hoa-hau-viet-nam-5141614.html",
+      "published_at": "Sat, 07 Nov 2026 00:00:00 +0700",
+      "createAt": "2026-11-06T17:00:00.000Z",
+      "thumbnail_blurhash": "LdJ@@Ouj~X^RRZxWt6NHV[jXRin$"
+    },
+    {
+      "id": "https://vnexpress.net/nhom-thanh-thieu-nien-chem-nguoi-o-sala-bi-bat-5141733.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Nhóm thanh thiếu niên chém người ở Sala bị bắt",
+      "description": "Phan Văn Nhật Hoàng bị cáo buộc cùng 8 người mang mã tấu đến khu đô thị Sala, chém bất cứ ai \"dám nhìn khiêu khích\", sau đó tấn công hai thanh niên đi đường.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/06/179293745061721486803112921729-7619-5115-1793973807.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=Qy3FtK57dmJZL7ozXB9wdA&t=image",
+      "link": "https://vnexpress.net/nhom-thanh-thieu-nien-chem-nguoi-o-sala-bi-bat-5141733.html",
+      "published_at": "Sat, 07 Nov 2026 00:00:00 +0700",
+      "createAt": "2026-11-06T17:00:00.000Z",
+      "thumbnail_blurhash": "LCIL[UNF1cz;57}tV@EL2[VsRkXS"
+    },
+    {
       "id": "https://vnexpress.net/thoat-o-lua-dao-o-myanmar-nho-bi-che-qua-tuoi-5141616.html",
       "category_id": "featured",
       "category_name": "Tin nổi bật",
@@ -53,6 +79,19 @@
       "thumbnail_blurhash": "LZG9s:bb$Kn2*0Ips8sl$~RjIpae"
     },
     {
+      "id": "https://vnexpress.net/nguoi-phu-nu-me-trong-giong-cay-la-5132127.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Người phụ nữ mê trồng giống cây lạ",
+      "description": "Từng mất cả tỷ đồng sau 5 năm thử trồng khoai tây tím nhưng bà Lương Thị Yến Vân vẫn không từ bỏ đam mê khám phá những giống cây lạ.",
+      "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/14/ba-van2-1791949980-4218-1791951088.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=7c8N58AnpHM0Y5sUek0RGw",
+      "link": "https://vnexpress.net/nguoi-phu-nu-me-trong-giong-cay-la-5132127.html",
+      "published_at": "Sat, 07 Nov 2026 07:00:00 +0700",
+      "createAt": "2026-11-07T00:00:00.000Z",
+      "thumbnail_blurhash": "LMD^C?NEoxMz_IoxMzniS]WGRQxs"
+    },
+    {
       "id": "https://vnexpress.net/loat-lanh-dao-o-bo-tu-phap-my-tu-chuc-sau-bau-cu-giua-ky-5141762.html",
       "category_id": "featured",
       "category_name": "Tin nổi bật",
@@ -90,6 +129,19 @@
       "published_at": "Sat, 07 Nov 2026 08:00:00 +0700",
       "createAt": "2026-11-07T01:00:00.000Z",
       "thumbnail_blurhash": "LvM$}XKiVX?H~pxuM|WCkqoJa#Rj"
+    },
+    {
+      "id": "https://vnexpress.net/10-co-gai-duoc-du-doan-dang-quang-hoa-hau-viet-nam-5141709.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "10 cô gái được dự đoán đăng quang Hoa hậu Việt Nam",
+      "description": "Phạm Vân Hà, Uyên Nhi, Khánh Linh nổi bật tại Hoa hậu Việt Nam 2026 nhờ vẻ tươi trẻ, tự tin, học vấn tốt và nhiều kỹ năng, tài lẻ.",
+      "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/11/07/hoa-ha-u-vn-1794009853.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=0zR1KKdBTTMYvdlppUiNKw",
+      "link": "https://vnexpress.net/10-co-gai-duoc-du-doan-dang-quang-hoa-hau-viet-nam-5141709.html",
+      "published_at": "Sat, 07 Nov 2026 09:03:32 +0700",
+      "createAt": "2026-11-07T02:03:32.000Z",
+      "thumbnail_blurhash": "LMNJd_~BROa0ACS2M{tR?bt7ozRP"
     }
   ]
 }
