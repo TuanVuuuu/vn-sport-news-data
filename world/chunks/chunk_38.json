@@ -154,5 +154,31 @@
     "published_at": "Sat, 07 Nov 2026 21:46:01 +0700",
     "createAt": "2026-11-07T14:46:01.000Z",
     "thumbnail_blurhash": "L7HLC,^%^+~W.Tt6WC%L4oX9oyW?"
+  },
+  {
+    "id": "https://vnexpress.net/xa-sung-o-thanh-pho-lon-thu-hai-ba-lan-it-nhat-5-nguoi-chet-5142019.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Xả súng ở thành phố lớn thứ hai Ba Lan, ít nhất 5 người chết",
+    "description": "Nghi phạm lái xe đến quảng trường trung tâm Krakow và xả súng bừa bãi, khiến nhiều người thiệt mạng và bị thương.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/07/krakow-1794069573-6918-1794069579.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=-lIB3hi_3U7u08SMXlFvOQ",
+    "link": "https://vnexpress.net/xa-sung-o-thanh-pho-lon-thu-hai-ba-lan-it-nhat-5-nguoi-chet-5142019.html",
+    "published_at": "Sat, 07 Nov 2026 23:42:51 +0700",
+    "createAt": "2026-11-07T16:42:51.000Z",
+    "thumbnail_blurhash": "LKDvJ]NN9Hjc~qR.IVt7xuniM{oc"
+  },
+  {
+    "id": "https://vnexpress.net/bien-phap-giup-ukraine-doi-pho-uav-phan-luc-nga-khi-mat-starlink-5137551.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Biện pháp giúp Ukraine đối phó UAV phản lực Nga khi mất Starlink",
+    "description": "Phi đội tiêm kích giúp Ukraine duy trì tỷ lệ đánh chặn UAV phản lực Nga, khi drone chuyên dụng mất hiệu quả vì Starlink/Starshield bị hạn chế.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/10/27/F16Ukraine-1793099182-4488-1793100083.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=O_mp-erJRns4w1SwsQYO0A",
+    "link": "https://vnexpress.net/bien-phap-giup-ukraine-doi-pho-uav-phan-luc-nga-khi-mat-starlink-5137551.html",
+    "published_at": "Sun, 08 Nov 2026 01:00:00 +0700",
+    "createAt": "2026-11-07T18:00:00.000Z",
+    "thumbnail_blurhash": "LMHowWR+NH%M*0aeWBo#9FRkMwWB"
   }
 ]
