@@ -921,5 +921,31 @@
     "published_at": "Sun, 08 Nov 2026 13:00:00 +0700",
     "createAt": "2026-11-08T06:00:00.000Z",
     "thumbnail_blurhash": "LNGSS]+uQR_4DhofpJaKxaS1o#Ri"
+  },
+  {
+    "id": "https://vnexpress.net/bo-buoi-chay-than-nguoi-dan-ong-ngung-tim-5142091.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Bỏ buổi chạy thận, người đàn ông ngừng tim",
+    "description": "Người đàn ông 51 tuổi mắc suy thận giai đoạn cuối đột ngột khó thở, ngừng tim sau khi bỏ buổi lọc máu tăng cường do bác sĩ chỉ định để kiểm soát tình trạng ứ dịch.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/08/4-1794109514-7349-1794109865.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=Bd6HFQKwKoiHM3CLmEmtNg",
+    "link": "https://vnexpress.net/bo-buoi-chay-than-nguoi-dan-ong-ngung-tim-5142091.html",
+    "published_at": "Sun, 08 Nov 2026 13:08:23 +0700",
+    "createAt": "2026-11-08T06:08:23.000Z",
+    "thumbnail_blurhash": "LdKeK1=|%gI:~VtmoJago#oeWYoI"
+  },
+  {
+    "id": "https://vnexpress.net/ruou-bia-anh-huong-den-can-nang-the-nao-5141781.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Rượu bia ảnh hưởng đến cân nặng thế nào",
+    "description": "Uống nhiều rượu bia khiến cơ thể nạp thêm \"calo rỗng\", có thể phá vỡ cân bằng hormone và làm gián đoạn quá trình chuyển hóa chất béo.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/07/gemini-generated-image-jpeg-17-5870-4328-1794010774.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=9J9gz9u_WX9feS6y8598wA",
+    "link": "https://vnexpress.net/ruou-bia-anh-huong-den-can-nang-the-nao-5141781.html",
+    "published_at": "Sun, 08 Nov 2026 14:00:00 +0700",
+    "createAt": "2026-11-08T07:00:00.000Z",
+    "thumbnail_blurhash": "LVGkwQtltlNH~p-;tRWCoINH%2V["
   }
 ]
