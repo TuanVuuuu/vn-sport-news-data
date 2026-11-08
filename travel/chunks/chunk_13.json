@@ -1103,5 +1103,18 @@
     "published_at": "Sun, 08 Nov 2026 11:32:10 +0700",
     "createAt": "2026-11-08T04:32:10.000Z",
     "thumbnail_blurhash": "LfG9N%%#IAoz?wx^Rin~tSt7s:j["
+  },
+  {
+    "id": "https://vnexpress.net/sao-chon-tap-7-nguyen-quang-dung-bui-lan-huong-tro-tai-nau-mon-mien-tay-5141264.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "'Sao Chọn' tập 7: Nguyễn Quang Dũng, Bùi Lan Hương trổ tài nấu món miền Tây",
+    "description": "Đạo diễn Nguyễn Quang Dũng, ca sĩ Bùi Lan Hương, host Lê Dương Bảo Lâm thử thách chế biến các món miền Tây như bánh cống, lẩu mắm, vịt nấu chao trong tập 7 \"Sao Chọn\" chặng Cần Thơ.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/11/08/33-1794071257-1265-1794071695.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=yCD57xCShCTMX1SDMMe5wA",
+    "link": "https://vnexpress.net/sao-chon-tap-7-nguyen-quang-dung-bui-lan-huong-tro-tai-nau-mon-mien-tay-5141264.html",
+    "published_at": "Sun, 08 Nov 2026 21:00:00 +0700",
+    "createAt": "2026-11-08T14:00:00.000Z",
+    "thumbnail_blurhash": "LgJa7bXSNHae_NxtxZof-;s:bHj["
   }
 ]
