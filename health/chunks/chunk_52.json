@@ -895,5 +895,31 @@
     "published_at": "Sun, 08 Nov 2026 12:00:00 +0700",
     "createAt": "2026-11-08T05:00:00.000Z",
     "thumbnail_blurhash": "LaNSvo$h~pxu%2oJV@jtjbofWBWB"
+  },
+  {
+    "id": "https://vnexpress.net/4-chi-so-suc-khoe-can-kiem-soat-de-phong-dot-quy-5141858.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "4 chỉ số sức khỏe cần kiểm soát để phòng đột quỵ",
+    "description": "Huyết áp, cholesterol, đường huyết và cân nặng cần được theo dõi thường xuyên để bảo vệ tim, mạch máu não giúp giảm nguy cơ đột quỵ.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/07/do-huyet-ap-cao-1794026838-6197-1794026862.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=bIska0WFfd-mpa7VvvJuUQ",
+    "link": "https://vnexpress.net/4-chi-so-suc-khoe-can-kiem-soat-de-phong-dot-quy-5141858.html",
+    "published_at": "Sun, 08 Nov 2026 13:00:00 +0700",
+    "createAt": "2026-11-08T06:00:00.000Z",
+    "thumbnail_blurhash": "LOM7fS~p_2s;.8xawbbc%LM_R+bI"
+  },
+  {
+    "id": "https://vnexpress.net/thieu-vitamin-d-anh-huong-den-tre-the-nao-5141737.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Thiếu vitamin D ảnh hưởng đến trẻ thế nào",
+    "description": "Thiếu vitamin D có thể khiến trẻ yếu xương, chậm phát triển chiều cao, giảm sức đề kháng và tăng nguy cơ mắc các bệnh nhiễm trùng.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/07/tre-va-n-do-ng-jpeg-1794019203-9902-1794019661.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Z-c_njn-PRN28YhxcmcN3w",
+    "link": "https://vnexpress.net/thieu-vitamin-d-anh-huong-den-tre-the-nao-5141737.html",
+    "published_at": "Sun, 08 Nov 2026 13:00:00 +0700",
+    "createAt": "2026-11-08T06:00:00.000Z",
+    "thumbnail_blurhash": "LNGSS]+uQR_4DhofpJaKxaS1o#Ri"
   }
 ]
