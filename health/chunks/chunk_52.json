@@ -765,5 +765,44 @@
     "published_at": "Sun, 08 Nov 2026 08:00:00 +0700",
     "createAt": "2026-11-08T01:00:00.000Z",
     "thumbnail_blurhash": "LRMtm+NcXU_Nx9Io_3?bngs7xV%1"
+  },
+  {
+    "id": "https://vnexpress.net/tre-so-sinh-co-can-uong-them-nuoc-loc-5141919.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Trẻ sơ sinh có cần uống thêm nước lọc?",
+    "description": "Con tôi 20 ngày tuổi, bú mẹ hoàn toàn. Gần đây trời nóng, môi bé khô, có nên cho con uống thêm nước lọc giữa cữ bú để tránh mất nước, làm sao biết trẻ đã đủ nước? (Thanh An, 29 tuổi, Hà Nội)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/07/image001-1794063518-6963-1794064322.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=RSFDK0rwPUOR4X9SCVOYOA",
+    "link": "https://vnexpress.net/tre-so-sinh-co-can-uong-them-nuoc-loc-5141919.html",
+    "published_at": "Sun, 08 Nov 2026 09:00:00 +0700",
+    "createAt": "2026-11-08T02:00:00.000Z",
+    "thumbnail_blurhash": "LgL;1|.8IUxu_NWCM{o}XSRjoLt7"
+  },
+  {
+    "id": "https://vnexpress.net/dieu-gi-xay-ra-voi-co-the-khi-ban-uong-tra-thay-nuoc-moi-ngay-5141860.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Điều gì xảy ra với cơ thể khi bạn uống trà thay nước mỗi ngày?",
+    "description": "Uống nhiều trà đặc thay nước lọc có thể gây quá tải caffeine, tích tụ oxalate dẫn đến suy thận cấp; người dùng nên uống loãng và ưu tiên nước lọc.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/07/screenshot-at-1794026981-5714-1794027072.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=sjN8aoP6T3tjQcI4h2qQdA",
+    "link": "https://vnexpress.net/dieu-gi-xay-ra-voi-co-the-khi-ban-uong-tra-thay-nuoc-moi-ngay-5141860.html",
+    "published_at": "Sun, 08 Nov 2026 09:34:39 +0700",
+    "createAt": "2026-11-08T02:34:39.000Z",
+    "thumbnail_blurhash": "LdLD}V-;-=xv~WWBIVofXTRjsmRj"
+  },
+  {
+    "id": "https://vnexpress.net/binh-nuoc-ca-nhan-ban-gap-40-000-lan-bon-cau-neu-rua-sai-cach-5141835.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Bình nước cá nhân bẩn gấp 40.000 lần bồn cầu nếu rửa sai cách",
+    "description": "Bình nước cá nhân có thể chứa lượng vi khuẩn gấp 40.000 lần bồn cầu nếu không được cọ rửa đúng cách bằng xà phòng định kỳ.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/07/screenshot-at-1794024025-7011-1794024185.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=LbCLhoqRgOgHpc62145QEQ",
+    "link": "https://vnexpress.net/binh-nuoc-ca-nhan-ban-gap-40-000-lan-bon-cau-neu-rua-sai-cach-5141835.html",
+    "published_at": "Sun, 08 Nov 2026 09:35:51 +0700",
+    "createAt": "2026-11-08T02:35:51.000Z",
+    "thumbnail_blurhash": "L7CPq;nN?P_3%#00IUxu~nD%j3t6"
   }
 ]
