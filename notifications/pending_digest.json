@@ -1,3 +1,69 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/tp-hcm-de-xuat-ho-tro-boi-thuong-den-100-cho-nha-dat-giay-tay-5142040.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "TP HCM đề xuất hỗ trợ bồi thường đến 100% cho nhà đất giấy tay",
+      "description": "Người mua nhà, đất bằng giấy tay từ sau ngày 1/7/2014 đến trước ngày 1/8/2024 tại TP HCM có thể được hỗ trợ từ 28% đến 100% giá đất bồi thường.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/08/boithuong-1794079073-4028-1794079149.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=SqJuD8pNE63EfEcKObXsPA",
+      "link": "https://vnexpress.net/tp-hcm-de-xuat-ho-tro-boi-thuong-den-100-cho-nha-dat-giay-tay-5142040.html",
+      "published_at": "Sun, 08 Nov 2026 03:00:00 +0700",
+      "createAt": "2026-11-07T20:00:00.000Z",
+      "thumbnail_blurhash": "LGDmKws*NJt7.AV@sps:%hsqRioM"
+    },
+    {
+      "id": "https://vnexpress.net/tu-cu-khoai-mi-den-hang-bot-banh-doanh-thu-gan-nghin-ty-dong-5136047.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Từ củ khoai mì đến hãng bột bánh doanh thu gần nghìn tỷ đồng",
+      "description": "Từ mẻ bột làm bằng khoai mì của mẹ năm 1976, bà Thúy Loan đưa cơ sở gia đình thành doanh nghiệp có doanh thu gần nghìn tỷ đồng mỗi năm.",
+      "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/10/23/dsc03848-jpg-1792743663-6055-1792743767.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=fDdEiz_ZNp3V4_geqQ_ytA",
+      "link": "https://vnexpress.net/tu-cu-khoai-mi-den-hang-bot-banh-doanh-thu-gan-nghin-ty-dong-5136047.html",
+      "published_at": "Sun, 08 Nov 2026 05:00:00 +0700",
+      "createAt": "2026-11-07T22:00:00.000Z",
+      "thumbnail_blurhash": "L*OpS$soOstR_Ns:$%WBx]WBniog"
+    },
+    {
+      "id": "https://vnexpress.net/vi-sao-dat-nen-ngay-cang-kho-ban-5141047.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Vì sao đất nền ngày càng khó bán?",
+      "description": "Dòng tiền đầu cơ rút lui, thiếu khả năng khai thác và rủi ro chôn vốn khiến đất nền ngày càng khó cạnh tranh với những loại bất động sản có thể tạo dòng tiền khác.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/05/dji-1793851835-9732-1793852029.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=a8Cn5WuqRYPvTYJNs53CUQ",
+      "link": "https://vnexpress.net/vi-sao-dat-nen-ngay-cang-kho-ban-5141047.html",
+      "published_at": "Sun, 08 Nov 2026 05:00:00 +0700",
+      "createAt": "2026-11-07T22:00:00.000Z",
+      "thumbnail_blurhash": "LJEfsQbwM{Wo%%slt8bbX;xabGt7"
+    },
+    {
+      "id": "https://vnexpress.net/vks-bo-me-mr-pips-luong-30-trieu-khong-the-co-tai-san-tram-ty-5141968.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "VKS: Bố mẹ Mr Pips 'lương 30 triệu, không thể có tài sản trăm tỷ'",
+      "description": "Trước đề nghị trả lại 40 tỷ đồng, 34 cây vàng và 9 bất động sản cho bố mẹ Mr Pips, VKS cho rằng thu nhập của hai người không đủ để tích lũy khối tài sản này.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/07/kvs-doi-dap-1794060644-4996-1794061341.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=-iUQ96Jo4KGFuyEb809MsA",
+      "link": "https://vnexpress.net/vks-bo-me-mr-pips-luong-30-trieu-khong-the-co-tai-san-tram-ty-5141968.html",
+      "published_at": "Sun, 08 Nov 2026 06:00:00 +0700",
+      "createAt": "2026-11-07T23:00:00.000Z",
+      "thumbnail_blurhash": "LIDJn.%%#k-=#4Z}x@-nMvxYtSaI"
+    },
+    {
+      "id": "https://vnexpress.net/trung-quoc-ra-mat-robot-hinh-nguoi-dan-chuong-trinh-tin-tuc-5142032.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Trung Quốc ra mắt robot hình người dẫn chương trình tin tức",
+      "description": "Xinyu, Xinyan - hai robot AI hình người vừa được hãng thông tấn Xinhua giới thiệu với vai trò người dẫn chương trình tin tức Tại Hội nghị Thượng đỉnh Truyền thông Thế giới lần thứ 7.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/08/Sequence0621-1794094674-3727-1794094695.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=2tGudWFlVtkkolLMREQSTg&t=image",
+      "link": "https://vnexpress.net/trung-quoc-ra-mat-robot-hinh-nguoi-dan-chuong-trinh-tin-tuc-5142032.html",
+      "published_at": "Sun, 08 Nov 2026 06:38:15 +0700",
+      "createAt": "2026-11-07T23:38:15.000Z",
+      "thumbnail_blurhash": "LcHfPho$%%tS~Ws:V=oIXAj[ROfP"
+    }
+  ]
 }
