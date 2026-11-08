@@ -1155,5 +1155,31 @@
     "published_at": "Sun, 08 Nov 2026 18:00:00 +0700",
     "createAt": "2026-11-08T11:00:00.000Z",
     "thumbnail_blurhash": "LNPQBN_2~oIc?ct7tQM|%Lt7agWA"
+  },
+  {
+    "id": "https://vnexpress.net/ai-trong-y-sinh-ranh-gioi-giua-phep-mau-va-tham-hoa-5141687.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "AI trong y sinh: ranh giới giữa phép màu và thảm họa",
+    "description": "Tại một phòng thí nghiệm ở phía nam San Francisco, nhóm nhà khoa học đang cố gắng đào tạo thế hệ kế nhiệm, nhưng không phải con người mà là robot.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/06/Luachonsinhhoctuonglai-1793963-5754-2562-1793963497.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=MbeHHFjB2DY9d2Oq9dyZtA&t=image",
+    "link": "https://vnexpress.net/ai-trong-y-sinh-ranh-gioi-giua-phep-mau-va-tham-hoa-5141687.html",
+    "published_at": "Mon, 09 Nov 2026 05:10:00 +0700",
+    "createAt": "2026-11-08T22:10:00.000Z",
+    "thumbnail_blurhash": "L84ovnPEZz%jxvM^MvxvRLiaM{t8"
+  },
+  {
+    "id": "https://vnexpress.net/ceo-nvidia-thua-nhan-khong-chung-thuy-voi-vo-5142241.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "CEO Nvidia thừa nhận không chung thủy với vợ",
+    "description": "Nvidia cho biết đang điều tra khả năng CEO Jensen Huang trở thành mục tiêu của một chiến dịch tình báo nước ngoài, sau khi ông thừa nhận không chung thủy với vợ.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/09/Nvidia-jpeg-1794177036-2872-1794177089.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=lU_1xPiTfvlAB1cQ8Q8gPQ",
+    "link": "https://vnexpress.net/ceo-nvidia-thua-nhan-khong-chung-thuy-voi-vo-5142241.html",
+    "published_at": "Mon, 09 Nov 2026 05:32:21 +0700",
+    "createAt": "2026-11-08T22:32:21.000Z",
+    "thumbnail_blurhash": "LLGa|H.T.m?I#Qs.R59tRO$%nhNZ"
   }
 ]
