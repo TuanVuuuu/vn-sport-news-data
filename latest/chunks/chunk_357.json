@@ -1012,5 +1012,57 @@
     "published_at": "Mon, 09 Nov 2026 00:04:00 +0700",
     "createAt": "2026-11-08T17:04:00.000Z",
     "thumbnail_blurhash": "LoFP1zxuWBt7~pa#M{WB?abHRjWC"
+  },
+  {
+    "id": "https://vnexpress.net/concert-bigbang-tai-thai-lan-huy-giua-chung-do-mua-gio-5142230.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Concert BigBang tại Thái Lan hủy giữa chừng do mưa gió",
+    "description": "Concert BigBang tại Sân vận động quốc gia Rajamangala, Bangkok hủy đột ngột do mưa lớn kèm sấm sét, tối 8/11.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/11/08/bigbang1-1794155733-9080-1794155975.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=wSE41ZW_4MYBbFOgtuK4gQ&t=image",
+    "link": "https://vnexpress.net/concert-bigbang-tai-thai-lan-huy-giua-chung-do-mua-gio-5142230.html",
+    "published_at": "Mon, 09 Nov 2026 00:12:25 +0700",
+    "createAt": "2026-11-08T17:12:25.000Z",
+    "thumbnail_blurhash": "L7Dvcg?b00-;00jF~pM}9HIU?aIW"
+  },
+  {
+    "id": "https://vnexpress.net/vi-sao-nguoi-lon-tuoi-de-cau-gat-5142003.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Vì sao người lớn tuổi dễ cáu gắt?",
+    "description": "Đau mạn tính, thiếu ngủ, trầm cảm hoặc những thay đổi về sức khỏe và chức năng não có thể khiến một số người lớn tuổi khó tính hơn trước.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/08/nguoi-lon-tuoi-1794098054-6332-1794098190.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=kEpFxcrQgE2Svlid1jRrrA",
+    "link": "https://vnexpress.net/vi-sao-nguoi-lon-tuoi-de-cau-gat-5142003.html",
+    "published_at": "Mon, 09 Nov 2026 01:00:00 +0700",
+    "createAt": "2026-11-08T18:00:00.000Z",
+    "thumbnail_blurhash": "LTNTzbIU-=~q?cxbxuxbR*WBNFM{"
+  },
+  {
+    "id": "https://vnexpress.net/ve-tinh-lam-the-nao-de-ha-muc-tieu-tren-khong-gian-5141666.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Vệ tinh làm thế nào để hạ mục tiêu trên không gian",
+    "description": "Vệ tinh quân sự có thể vô hiệu hóa mục tiêu bằng cách gây nhiễu và phun hóa chất, hoặc tiêu diệt bằng tia laser và va chạm động năng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/06/Settop-1793956532-3395-1793956550.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=nH4XX2chFH4xv3ForG8Gaw",
+    "link": "https://vnexpress.net/ve-tinh-lam-the-nao-de-ha-muc-tieu-tren-khong-gian-5141666.html",
+    "published_at": "Mon, 09 Nov 2026 01:00:00 +0700",
+    "createAt": "2026-11-08T18:00:00.000Z",
+    "thumbnail_blurhash": "LA5?#|tnTIpdqGZ~Q+Vr8wadyGj^"
+  },
+  {
+    "id": "https://vnexpress.net/alcaraz-lan-dau-vo-dich-paris-masters-5142234.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Alcaraz lần đầu vô địch Paris Masters",
+    "description": "Carlos Alcaraz đánh bại Ben Shelton 7-6(5), 7-5 ở chung kết ngày 8/11, để lần đầu đăng quang tại Paris Masters.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/11/09/ap26312562810624-1794157383-9422-1794157424.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=IqaxCFgZwIv6yKeHfqbC3A",
+    "link": "https://vnexpress.net/alcaraz-lan-dau-vo-dich-paris-masters-5142234.html",
+    "published_at": "Mon, 09 Nov 2026 01:09:21 +0700",
+    "createAt": "2026-11-08T18:09:21.000Z",
+    "thumbnail_blurhash": "L26a#7^%02Ds06M+~g-~%.o@069O"
   }
 ]
