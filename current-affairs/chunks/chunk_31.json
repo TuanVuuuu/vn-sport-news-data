@@ -739,5 +739,57 @@
     "published_at": "Mon, 09 Nov 2026 07:05:16 +0700",
     "createAt": "2026-11-09T00:05:16.000Z",
     "thumbnail_blurhash": "L58E3m0hDP-T~W9as+%LDjMw%f.8"
+  },
+  {
+    "id": "https://vnexpress.net/ha-noi-mua-lon-gio-cao-diem-thanh-hoa-mua-tren-400-mm-5142256.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Hà Nội mưa lớn giờ cao điểm, Thanh Hóa mưa trên 400 mm",
+    "description": "Không khí lạnh tràn xuống miền Bắc từ đêm qua gây mưa lớn ở nhiều địa phương, trong đó Thanh Hóa tới 400 mm, Hà Nội mưa đúng giờ cao điểm gây tắc đường.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/09/mua-ngap-1794186234-1807-1794186328.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=a1JjFId8FmsiWSTgmyBhAg",
+    "link": "https://vnexpress.net/ha-noi-mua-lon-gio-cao-diem-thanh-hoa-mua-tren-400-mm-5142256.html",
+    "published_at": "Mon, 09 Nov 2026 07:04:49 +0700",
+    "createAt": "2026-11-09T00:04:49.000Z",
+    "thumbnail_blurhash": "LDBgMTMyt3Ri?wNGo#tR%hxuV[xv"
+  },
+  {
+    "id": "https://vnexpress.net/ha-noi-un-tac-keo-dai-trong-mua-lanh-5142284.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Hà Nội ùn tắc kéo dài trong mưa lạnh",
+    "description": "Mưa từ đêm đến sáng 9/11 khiến Hà Nội chuyển lạnh, nhiều tuyến đường ùn tắc kéo dài vào giờ cao điểm, người dân chật vật di chuyển trong buổi sáng đầu tuần.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/09/1794184748109-a6f8154de5ca13eb678e3622b1fb2493-1794186259.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=71y-BEMwgNju03CcVTvL_g",
+    "link": "https://vnexpress.net/ha-noi-un-tac-keo-dai-trong-mua-lanh-5142284.html",
+    "published_at": "Mon, 09 Nov 2026 08:59:40 +0700",
+    "createAt": "2026-11-09T01:59:40.000Z",
+    "thumbnail_blurhash": "L9D07a$GR#4_~os?f-WA014[nL^v"
+  },
+  {
+    "id": "https://vnexpress.net/sap-mo-cau-tren-tuyen-duong-huyet-mach-o-thanh-hoa-5142319.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Sập mố cầu trên tuyến đường huyết mạch ở Thanh Hóa",
+    "description": "Mưa lớn khiến một mố cầu Bái Sim trên đường Nghi Sơn - Bãi Trành bị sập, mặt đường nứt gãy, giao thông qua khu vực tê liệt.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/09/1794189460189-1794191132-8706-1794191350.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=UTbvRdgy5ZzkTQwkfXYtSQ",
+    "link": "https://vnexpress.net/sap-mo-cau-tren-tuyen-duong-huyet-mach-o-thanh-hoa-5142319.html",
+    "published_at": "Mon, 09 Nov 2026 09:38:22 +0700",
+    "createAt": "2026-11-09T02:38:22.000Z",
+    "thumbnail_blurhash": "L6GS0{Vp4m0000_M-:D%YQI.?v9F"
+  },
+  {
+    "id": "https://vnexpress.net/nguoi-dan-phu-quoc-xep-hang-cho-do-xang-5142323.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Người dân Phú Quốc xếp hàng chờ đổ xăng",
+    "description": "Nhiều cửa hàng ở Dương Đông, đặc khu Phú Quốc thông báo hết xăng, những điểm khác, mỗi xe chỉ được mua 50.000 đồng tiền xăng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/09/1794191057533b5923afa975c2791d-5955-3011-1794191988.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=u-9HgtkHS7uWrqLioU1B_w",
+    "link": "https://vnexpress.net/nguoi-dan-phu-quoc-xep-hang-cho-do-xang-5142323.html",
+    "published_at": "Mon, 09 Nov 2026 10:18:47 +0700",
+    "createAt": "2026-11-09T03:18:47.000Z",
+    "thumbnail_blurhash": "LQCZt:OZoxx^_NR*W.o$%hV?RjkD"
   }
 ]
