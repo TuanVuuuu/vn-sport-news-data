@@ -518,5 +518,31 @@
     "published_at": "Mon, 09 Nov 2026 11:03:20 +0700",
     "createAt": "2026-11-09T04:03:20.000Z",
     "thumbnail_blurhash": "LXF$6Px]_N%MM}oeD%R*IoRjRPay"
+  },
+  {
+    "id": "https://vnexpress.net/ve-tinh-sat-thu-tung-don-tren-khong-gian-the-nao-5141666.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "'Vệ tinh sát thủ' tung đòn trên không gian thế nào",
+    "description": "Vệ tinh quân sự có thể vô hiệu hóa mục tiêu bằng cách gây nhiễu và phun hóa chất, hoặc tiêu diệt bằng tia laser và va chạm động năng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/09/vetinh-1794198049-4710-1794198052.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=5xMg_yCU1basoik7Wj4H_g&t=image",
+    "link": "https://vnexpress.net/ve-tinh-sat-thu-tung-don-tren-khong-gian-the-nao-5141666.html",
+    "published_at": "Mon, 09 Nov 2026 01:00:00 +0700",
+    "createAt": "2026-11-08T18:00:00.000Z",
+    "thumbnail_blurhash": "LC8h%|_4i^tSmPo#Vqav004mSxMw"
+  },
+  {
+    "id": "https://vnexpress.net/nhung-cu-tri-quay-lung-khien-dang-cong-hoa-tham-bai-5142280.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Những cử tri quay lưng khiến đảng Cộng hòa thảm bại",
+    "description": "Gánh nặng nợ nần cùng giá cả đắt đỏ đã thúc đẩy hàng loạt cử tri trẻ quay lưng với phe Cộng hòa, khiến đảng này thất bại trong bầu cử giữa kỳ.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/09/AFP-20261104-D6CW6QZ-v1-HighRe-2483-8551-1794197117.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=qp4bYJby5KUD5vN1VYLsCw",
+    "link": "https://vnexpress.net/nhung-cu-tri-quay-lung-khien-dang-cong-hoa-tham-bai-5142280.html",
+    "published_at": "Mon, 09 Nov 2026 11:41:37 +0700",
+    "createAt": "2026-11-09T04:41:37.000Z",
+    "thumbnail_blurhash": "LCA]yxoL0ftR}@%ME2R,-nV@M|R+"
   }
 ]
