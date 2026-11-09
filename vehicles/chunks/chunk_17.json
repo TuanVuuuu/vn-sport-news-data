@@ -986,5 +986,31 @@
     "published_at": "Mon, 09 Nov 2026 19:13:35 +0700",
     "createAt": "2026-11-09T12:13:35.000Z",
     "thumbnail_blurhash": "LDGu:u00-;t7I.00NHW;~qITkEf+"
+  },
+  {
+    "id": "https://vnexpress.net/ky-nghe-che-tac-tren-xe-sieu-sang-trung-quoc-yangwang-altior-5142456.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Kỹ nghệ chế tác trên xe siêu sang Trung Quốc Yangwang Altior",
+    "description": "Mẫu sedan điện định vị siêu sang, lắp hệ truyền động điện, trang bị nhiều công nghệ, nhiều chi tiết pha lê, vàng, thủ công.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/09/YangwangAltior101-1794205278-9057-1794205289.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=yuCIrhYYzRGYiC8RqCceRA",
+    "link": "https://vnexpress.net/ky-nghe-che-tac-tren-xe-sieu-sang-trung-quoc-yangwang-altior-5142456.html",
+    "published_at": "Tue, 10 Nov 2026 05:00:00 +0700",
+    "createAt": "2026-11-09T22:00:00.000Z",
+    "thumbnail_blurhash": "L584Vu00?bxE00~q9F%MyEDi?bD*"
+  },
+  {
+    "id": "https://vnexpress.net/tesla-khai-tu-cybertruck-vi-ban-kem-5142275.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Tesla khai tử Cybertruck vì bán kém",
+    "description": "Elon Musk xác nhận Tesla sẽ dừng sản xuất Cybertruck vào giữa năm 2027 để dồn lực phát triển robotaxi Cybercab.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/09/TeslaCybertruck2-1794207570-7190-1794208509.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=3qEx2gb8EqzA03-Zrja54A",
+    "link": "https://vnexpress.net/tesla-khai-tu-cybertruck-vi-ban-kem-5142275.html",
+    "published_at": "Tue, 10 Nov 2026 05:00:00 +0700",
+    "createAt": "2026-11-09T22:00:00.000Z",
+    "thumbnail_blurhash": "LFDcE+%1009Z?bt500IU~WV@M{t7"
   }
 ]
