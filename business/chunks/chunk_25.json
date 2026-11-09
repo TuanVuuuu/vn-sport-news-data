@@ -583,5 +583,31 @@
     "published_at": "Mon, 09 Nov 2026 04:00:00 +0700",
     "createAt": "2026-11-08T21:00:00.000Z",
     "thumbnail_blurhash": "L02h]m0f9axX?GEMxDRk58oI^hI@"
+  },
+  {
+    "id": "https://vnexpress.net/ssi-chung-khoan-co-the-tao-day-ngan-han-trong-thang-nay-5142164.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "SSI: Chứng khoán có thể tạo đáy ngắn hạn trong tháng này",
+    "description": "VN-Index được dự báo tạo đáy ngắn hạn trong tháng 11, nhờ định giá hấp dẫn, yếu tố mùa vụ và chuyển biến tích cực về lãi suất, tỷ giá.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/08/233a7431-1794124326-6530-1794124766.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Me6prlbMjsfJwLMSCjKFnw",
+    "link": "https://vnexpress.net/ssi-chung-khoan-co-the-tao-day-ngan-han-trong-thang-nay-5142164.html",
+    "published_at": "Mon, 09 Nov 2026 07:41:09 +0700",
+    "createAt": "2026-11-09T00:41:09.000Z",
+    "thumbnail_blurhash": "LDCP^%00_MaR9G?bE0j]xDR,buM{"
+  },
+  {
+    "id": "https://vnexpress.net/chu-nha-may-loc-dau-dung-quat-nang-muc-tieu-lai-ky-luc-5142212.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Chủ nhà máy lọc dầu Dung Quất nâng mục tiêu lãi kỷ lục",
+    "description": "BSR, đơn vị vận hành nhà máy lọc dầu Dung Quất, điều chỉnh kế hoạch lãi năm nay lên 18.579 tỷ đồng, gấp hơn 8 lần ban đầu và cao nhất từ trước đến nay.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/08/bsr-1794145114-3461-1794145158.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=HSxfoHFpdBEVEcJYdTxYTw",
+    "link": "https://vnexpress.net/chu-nha-may-loc-dau-dung-quat-nang-muc-tieu-lai-ky-luc-5142212.html",
+    "published_at": "Mon, 09 Nov 2026 07:57:33 +0700",
+    "createAt": "2026-11-09T00:57:33.000Z",
+    "thumbnail_blurhash": "LMDc|AV?TNROA5tSWGkDROWsVqo#"
   }
 ]
