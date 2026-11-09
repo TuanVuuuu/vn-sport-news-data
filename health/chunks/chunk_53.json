@@ -141,5 +141,31 @@
     "published_at": "Mon, 09 Nov 2026 15:00:00 +0700",
     "createAt": "2026-11-09T08:00:00.000Z",
     "thumbnail_blurhash": "LJ8qN*D}IS-qTOnLnfNz%OM_WBs."
+  },
+  {
+    "id": "https://vnexpress.net/tre-nhiem-nhieu-virus-ho-hap-cung-luc-co-nguy-hiem-5142312.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Trẻ nhiễm nhiều virus hô hấp cùng lúc có nguy hiểm?",
+    "description": "Con tôi 8 tháng tuổi, ho, sốt, khò khè, xét nghiệm phát hiện đồng thời nhiễm virus hợp bào hô hấp (RSV) và Rhinovirus. Trẻ đồng nhiễm nhiều virus hô hấp có nguy hiểm? (Dương, TP HCM)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/09/pr-1794190423-8960-1794190453.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=TUiVn8gAUlVJC2mhrSV7RQ",
+    "link": "https://vnexpress.net/tre-nhiem-nhieu-virus-ho-hap-cung-luc-co-nguy-hiem-5142312.html",
+    "published_at": "Mon, 09 Nov 2026 15:30:00 +0700",
+    "createAt": "2026-11-09T08:30:00.000Z",
+    "thumbnail_blurhash": "LNLXPqtp_2RP~ox^%NV=tRxWslWX"
+  },
+  {
+    "id": "https://vnexpress.net/co-gai-23-tuoi-soc-tim-sau-khi-truyen-dich-tai-phong-kham-tu-5142492.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Cô gái 23 tuổi sốc tim sau khi truyền dịch tại phòng khám tư",
+    "description": "Cô gái 23 tuổi tự đến phòng khám tư truyền dịch do sốt, sau đó chuyển đau ngực, khó thở dữ dội, phải can thiệp tim phổi nhân tạo (ECMO) khẩn cấp.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/09/1793700142730-f78772b9dfe5c5e8-9035-2276-1794210265.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=L2UHO0Gpql9Vwm5xUf1X-g",
+    "link": "https://vnexpress.net/co-gai-23-tuoi-soc-tim-sau-khi-truyen-dich-tai-phong-kham-tu-5142492.html",
+    "published_at": "Mon, 09 Nov 2026 15:39:54 +0700",
+    "createAt": "2026-11-09T08:39:54.000Z",
+    "thumbnail_blurhash": "LVJb8G?b_Nxaxtxut7ofR-bIxaRP"
   }
 ]
