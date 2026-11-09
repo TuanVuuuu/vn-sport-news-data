@@ -388,5 +388,57 @@
     "published_at": "Mon, 09 Nov 2026 07:05:16 +0700",
     "createAt": "2026-11-09T00:05:16.000Z",
     "thumbnail_blurhash": "L58E3m0hDP-T~W9as+%LDjMw%f.8"
+  },
+  {
+    "id": "https://vnexpress.net/ha-noi-mua-giong-nhieu-tuyen-duong-un-tac-5142256.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Hà Nội mưa giông, nhiều tuyến đường ùn tắc",
+    "description": "Từ 2h đến 6h hôm nay, Hà Nội mưa lớn, một số trạm khu vực trung tâm Hoàn Kiếm và phía Nam đã vượt 30 mm, gây tắc đường vào giờ cao điểm sáng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/09/mua-ngap-1794186234-1807-1794186328.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=a1JjFId8FmsiWSTgmyBhAg",
+    "link": "https://vnexpress.net/ha-noi-mua-giong-nhieu-tuyen-duong-un-tac-5142256.html",
+    "published_at": "Mon, 09 Nov 2026 07:04:49 +0700",
+    "createAt": "2026-11-09T00:04:49.000Z",
+    "thumbnail_blurhash": "LDBgMTMyt3Ri?wNGo#tR%hxuV[xv"
+  },
+  {
+    "id": "https://vnexpress.net/iran-ra-canh-bao-yeu-cau-my-chap-nhan-de-xuat-hoa-binh-5142249.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Iran ra cảnh báo, yêu cầu Mỹ chấp nhận đề xuất hòa bình",
+    "description": "Iran cảnh báo Mỹ phải chấp nhận đề xuất mới nhất nhằm chấm dứt chiến sự, nếu không sẽ đối mặt nguy cơ xung đột leo thang.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/09/afp-d2776yb-v1-highres-iranpol-3836-8063-1794182056.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=RgdhA7giMRTrxmNN0T6w6g",
+    "link": "https://vnexpress.net/iran-ra-canh-bao-yeu-cau-my-chap-nhan-de-xuat-hoa-binh-5142249.html",
+    "published_at": "Mon, 09 Nov 2026 07:11:49 +0700",
+    "createAt": "2026-11-09T00:11:49.000Z",
+    "thumbnail_blurhash": "LeIqi:0XE:o*~XD.Wat8I:M_xXn#"
+  },
+  {
+    "id": "https://vnexpress.net/nha-choc-troi-o-thu-do-arab-saudi-trung-don-tap-kich-cua-houthi-5142258.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Nhà chọc trời ở thủ đô Arab Saudi trúng đòn tập kích của Houthi",
+    "description": "Houthi thông báo phóng tên lửa vào loạt mục tiêu ở Arab Saudi, hình ảnh hiện trường cho thấy tòa nhà Aramco Tower ở Riyadh bị hư hại.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/09/5563187178137269569a-179418319-2719-4116-1794183479.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=w4dDzDPpsLZqr_5uCqhdow",
+    "link": "https://vnexpress.net/nha-choc-troi-o-thu-do-arab-saudi-trung-don-tap-kich-cua-houthi-5142258.html",
+    "published_at": "Mon, 09 Nov 2026 07:49:00 +0700",
+    "createAt": "2026-11-09T00:49:00.000Z",
+    "thumbnail_blurhash": "LBHLo4_4%gxtXTo#t7RjWAM|a_fi"
+  },
+  {
+    "id": "https://vnexpress.net/ong-trump-len-tieng-ve-ceo-nvidia-giua-be-boi-ngoai-tinh-5142271.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Ông Trump lên tiếng về CEO Nvidia giữa bê bối ngoại tình",
+    "description": "Tổng thống Trump mô tả Jensen Huang là \"người đáng kính\", thêm rằng ông chưa trao đổi với CEO Nvidia về bê bối ngoại tình mà doanh nhân này đối mặt.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/09/afp-d6kz8zr-v1-midres-uspoliti-4077-8761-1794185511.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=TeHpGakr8KnxbuBXuX0HuQ",
+    "link": "https://vnexpress.net/ong-trump-len-tieng-ve-ceo-nvidia-giua-be-boi-ngoai-tinh-5142271.html",
+    "published_at": "Mon, 09 Nov 2026 08:03:39 +0700",
+    "createAt": "2026-11-09T01:03:39.000Z",
+    "thumbnail_blurhash": "LKFYS;%~0MGH~pgiJ.S$E+NI#lrs"
   }
 ]
