@@ -1,3 +1,147 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/nu-vo-dich-olympic-nguy-kich-5142820.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Nữ vô địch Olympic nguy kịch",
+      "description": "Maria Shurochkina, VĐV Nga hai lần giành HC vàng Olympic môn bơi nghệ thuật, đang nguy kịch sau khi quần áo bắt lửa lúc cô châm thêm nhiên liệu cho lò sưởi tại nhà riêng ở Moskva.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/11/10/maria-shurochkina-1794280802-1174-1794280811.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=lwCFGjhZA2xMt-rxMyMh5A",
+      "link": "https://vnexpress.net/nu-vo-dich-olympic-nguy-kich-5142820.html",
+      "published_at": "Tue, 10 Nov 2026 10:37:01 +0700",
+      "createAt": "2026-11-10T03:37:01.000Z",
+      "thumbnail_blurhash": "L77Ki+WK0JM}-HNFI.xa0JNL^j-p"
+    },
+    {
+      "id": "https://vnexpress.net/vinh-long-co-3-tan-pho-chu-tich-tinh-5142848.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Vĩnh Long có 3 tân phó chủ tịch tỉnh",
+      "description": "Giám đốc các Sở Tài chính, Xây dựng và Nội vụ được HĐND tỉnh Vĩnh Long bầu làm phó chủ tịch UBND tỉnh nhiệm kỳ 2026-2031, sáng 10/11.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/10/chuc-mung-pho-chu-tich-vl-1794-3368-3838-1794284323.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=YrapC6ssneV-AL2tvWV67w",
+      "link": "https://vnexpress.net/vinh-long-co-3-tan-pho-chu-tich-tinh-5142848.html",
+      "published_at": "Tue, 10 Nov 2026 11:18:43 +0700",
+      "createAt": "2026-11-10T04:18:43.000Z",
+      "thumbnail_blurhash": "L#Iqoys:S3t7_Nofs.bI%hkBWAfQ"
+    },
+    {
+      "id": "https://vnexpress.net/giong-loc-quat-do-cay-xanh-bien-quang-cao-tai-da-nang-5142856.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Giông lốc quật đổ cây xanh, biển quảng cáo tại Đà Nẵng",
+      "description": "Mưa lớn kèm gió giật mạnh đêm 9/11 bất ngờ quét qua nhiều khu vực ở Đà Nẵng, làm bật gốc nhiều cây ven đường đè trúng ôtô.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/10/Lark20261110113128-1794285102-7761-1794285164.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=dFsBJu5ay98Mdoc1V7mlVQ&t=image",
+      "link": "https://vnexpress.net/giong-loc-quat-do-cay-xanh-bien-quang-cao-tai-da-nang-5142856.html",
+      "published_at": "Tue, 10 Nov 2026 11:33:11 +0700",
+      "createAt": "2026-11-10T04:33:11.000Z",
+      "thumbnail_blurhash": "L79ap+ECasNz~o8^DjDh-LV_p0V?"
+    },
+    {
+      "id": "https://vnexpress.net/ong-tran-quoc-tuan-duoc-de-xuat-tiep-tuc-tranh-cu-tai-vff-khoa-10-5142854.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Ông Trần Quốc Tuấn được đề xuất tiếp tục tranh cử tại VFF khóa 10",
+      "description": "Cục Thể dục Thể thao kiến nghị Bộ Văn hóa, Thể thao và Du lịch cử ông Trần Quốc Tuấn ra tranh cử Chủ tịch LĐBĐ Việt Nam khóa 10, diễn ra vào ngày 4/1/2027.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/11/10/img-jpeg-1794283100-9740-1794283230.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=3EhP9oCCxC3m7BVsyL0d0g",
+      "link": "https://vnexpress.net/ong-tran-quoc-tuan-duoc-de-xuat-tiep-tuc-tranh-cu-tai-vff-khoa-10-5142854.html",
+      "published_at": "Tue, 10 Nov 2026 11:56:11 +0700",
+      "createAt": "2026-11-10T04:56:11.000Z",
+      "thumbnail_blurhash": "L9FrIx%d4.?I004;%f-U~pRoIB9Y"
+    },
+    {
+      "id": "https://vnexpress.net/tinh-nhan-cua-jensen-huang-tung-khoe-ve-nguon-cung-chip-nvidia-khi-goi-von-5142853.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Tình nhân của Jensen Huang từng khoe về nguồn cung chip Nvidia khi gọi vốn",
+      "description": "Alice Huang từng gọi vốn cho dự án trung tâm dữ liệu tại Đông Nam Á bằng cách đảm bảo có nguồn cung bộ xử lý đồ họa (GPU) Nvidia.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/10/alice-huang-1794283029-1342-1794283152.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=P0bQzUwI2Vv31vVn0qP0Lw",
+      "link": "https://vnexpress.net/tinh-nhan-cua-jensen-huang-tung-khoe-ve-nguon-cung-chip-nvidia-khi-goi-von-5142853.html",
+      "published_at": "Tue, 10 Nov 2026 12:00:20 +0700",
+      "createAt": "2026-11-10T05:00:20.000Z",
+      "thumbnail_blurhash": "LnM?e#em~p-p.7s:ofX9s:bHaxo0"
+    },
+    {
+      "id": "https://vnexpress.net/messi-pha-ky-luc-cua-ronaldo-khi-tro-lai-doi-hinh-tieu-bieu-fifpro-5142713.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Messi phá kỷ lục của Ronaldo khi trở lại đội hình tiêu biểu FIFPro",
+      "description": "Lionel Messi trở thành người nhiều tuổi nhất được bầu vào đội hình tiêu biểu hàng năm do Hiệp hội cầu thủ chuyên nghiệp (FIFPro) tổ chức.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/11/10/harrykane21-1794281827-8970-1794281994.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=kGojlm8s9xmvdSmT-OTL6w",
+      "link": "https://vnexpress.net/messi-pha-ky-luc-cua-ronaldo-khi-tro-lai-doi-hinh-tieu-bieu-fifpro-5142713.html",
+      "published_at": "Tue, 10 Nov 2026 12:01:56 +0700",
+      "createAt": "2026-11-10T05:01:56.000Z",
+      "thumbnail_blurhash": "LOEN0PE:%1EY97a6oxWU9Dw?NG=,"
+    },
+    {
+      "id": "https://vnexpress.net/de-xuat-quy-hoach-to-hop-ga-ngoc-hoi-3-tang-ket-noi-5-tuyen-metro-5142881.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Đề xuất quy hoạch tổ hợp ga Ngọc Hồi 3 tầng, kết nối 5 tuyến metro",
+      "description": "Tổ hợp ga Ngọc Hồi dự kiến rộng 267 ha, gồm khu ga 3 tầng và khu phát triển TOD, tích hợp đường sắt tốc độ cao Bắc Nam, đường sắt quốc gia và đường sắt đô thị.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/10/dji-jpg-1794285478-9098-1794285690.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=j0z3JCsqoRWjp9-Ff_vkVA",
+      "link": "https://vnexpress.net/de-xuat-quy-hoach-to-hop-ga-ngoc-hoi-3-tang-ket-noi-5-tuyen-metro-5142881.html",
+      "published_at": "Tue, 10 Nov 2026 12:06:05 +0700",
+      "createAt": "2026-11-10T05:06:05.000Z",
+      "thumbnail_blurhash": "LeE3SNt6Naoz?wjbRjj].8fkaykB"
+    },
+    {
+      "id": "https://vnexpress.net/sap-cong-bo-thu-hang-ve-nang-luc-canh-tranh-so-va-ai-cua-viet-nam-5142860.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Sắp công bố thứ hạng về năng lực cạnh tranh số và AI của Việt Nam",
+      "description": "Bảng xếp hạng Năng lực cạnh tranh số và trí tuệ nhân tạo thế giới 2026 sẽ được công bố ngày 11/11, trong đó có kết quả đánh giá và thứ hạng của Việt Nam.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/10/minh-hoa-1794289391-3513-1794289421.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=pIL4eB5RMTyobyKQOLwiUA",
+      "link": "https://vnexpress.net/sap-cong-bo-thu-hang-ve-nang-luc-canh-tranh-so-va-ai-cua-viet-nam-5142860.html",
+      "published_at": "Tue, 10 Nov 2026 12:53:47 +0700",
+      "createAt": "2026-11-10T05:53:47.000Z",
+      "thumbnail_blurhash": "LJFrk#02D*?d-@-=Vro%JFSjxVW@"
+    },
+    {
+      "id": "https://vnexpress.net/nguoi-phu-nu-quan-ao-boc-chay-chay-sau-nhan-tinh-roi-tu-vong-5142904.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Người phụ nữ quần áo bốc cháy, chạy sau nhân tình rồi tử vong",
+      "description": "Sau tiếng nổ tại phòng trọ, người phụ nữ 32 tuổi với quần áo đang cháy chạy theo nhân tình Trần Bá Triết cầm dao, sau đó gục ngã và tử vong.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/10/khu-tro-vinh-long-1794290846-7344-1794290851.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ICXiH3-bY-OUH8PW5e7BMA",
+      "link": "https://vnexpress.net/nguoi-phu-nu-quan-ao-boc-chay-chay-sau-nhan-tinh-roi-tu-vong-5142904.html",
+      "published_at": "Tue, 10 Nov 2026 13:06:16 +0700",
+      "createAt": "2026-11-10T06:06:16.000Z",
+      "thumbnail_blurhash": "L68z[W4TIV~pD*oyofRj4m-=ogD%"
+    },
+    {
+      "id": "https://vnexpress.net/dat-da-vui-lap-duong-bang-hieu-do-sap-o-mien-trung-5142868.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Đất đá vùi lấp đường, bảng hiệu đổ sập ở miền Trung",
+      "description": "Mưa lớn kéo dài khiến nhiều cây xanh, bảng hiệu ở Đà Nẵng, Quảng Ngãi ngã đổ; đường ở Quảng Trị bị đất đá vùi lấp, tàu thuyền tại Huế, Khánh Hòa bị sóng cuốn sáng 10/11.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/10/901563000-n-1794292101.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=8dOSBEdBOl6PU72zwp239A",
+      "link": "https://vnexpress.net/dat-da-vui-lap-duong-bang-hieu-do-sap-o-mien-trung-5142868.html",
+      "published_at": "Tue, 10 Nov 2026 13:08:09 +0700",
+      "createAt": "2026-11-10T06:08:09.000Z",
+      "thumbnail_blurhash": "LcKUD.^k4mt6_2ogIUWB_NkWIAoL"
+    },
+    {
+      "id": "https://vnexpress.net/nguoi-dan-ba-cam-dau-bang-cat-da-tim-ngoc-lua-32-000-nan-nhan-5142905.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Người đàn bà cầm đầu băng 'cắt đá tìm ngọc' lừa 32.000 nạn nhân",
+      "description": "Trần Thị Chi, người góp vốn với nhóm Trung Quốc tổ chức livestream \"cắt đá tìm ngọc\", chiếm đoạt gần 264 tỷ đồng của hơn 32.000 người, bị tuyên 17 năm tù.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/10/1793774229334-c799d4ab9647b7ae-4694-9049-1794291552.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=2IIM9bGBZRU17SGHCTE_Gg",
+      "link": "https://vnexpress.net/nguoi-dan-ba-cam-dau-bang-cat-da-tim-ngoc-lua-32-000-nan-nhan-5142905.html",
+      "published_at": "Tue, 10 Nov 2026 13:19:12 +0700",
+      "createAt": "2026-11-10T06:19:12.000Z",
+      "thumbnail_blurhash": "LJAwV=IRSaR4~2E3IujK^CNgR.aJ"
+    }
+  ]
 }
