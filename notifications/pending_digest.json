@@ -1,3 +1,69 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/my-muon-lap-luoi-chong-drone-bao-ve-can-cu-f-35-5142847.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Mỹ muốn lắp lưới chống drone bảo vệ căn cứ F-35",
+      "description": "Không quân Mỹ tìm kiếm nhà thầu thi công lưới chống drone để bảo vệ phi đội F-35 đóng quân tại căn cứ ở bang Florida.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/10/5563187178137269306a-179428314-9625-9603-1794283311.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=xVpZC-v-4CNWru7P4Wen5g",
+      "link": "https://vnexpress.net/my-muon-lap-luoi-chong-drone-bao-ve-can-cu-f-35-5142847.html",
+      "published_at": "Tue, 10 Nov 2026 16:15:37 +0700",
+      "createAt": "2026-11-10T09:15:37.000Z",
+      "thumbnail_blurhash": "L2Fr;M0000%$005=+|s:00M}^PMy"
+    },
+    {
+      "id": "https://vnexpress.net/thanh-tra-chinh-phu-kien-nghi-cong-khai-gia-ban-xang-dau-toan-he-thong-5142925.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Thanh tra Chính phủ kiến nghị công khai giá bán xăng dầu toàn hệ thống",
+      "description": "Sau khi phát hiện hàng loạt sai phạm, trong đó có 7 vụ việc dấu hiệu hình sự, Thanh tra Chính phủ kiến nghị công khai giá bán, tổ chức lại hệ thống phân phối xăng dầu.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/10/wm1-wm1-chc6655-jpg-1794294575-7646-1794294632.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=FWDINZoLJa4fQw-FPkFTDA",
+      "link": "https://vnexpress.net/thanh-tra-chinh-phu-kien-nghi-cong-khai-gia-ban-xang-dau-toan-he-thong-5142925.html",
+      "published_at": "Tue, 10 Nov 2026 16:21:14 +0700",
+      "createAt": "2026-11-10T09:21:14.000Z",
+      "thumbnail_blurhash": "L9CGPx_400xv_4%M%L%L8^M_-=Rj"
+    },
+    {
+      "id": "https://vnexpress.net/ronaldo-duoc-tien-cu-tro-lai-lanh-dao-man-utd-5143024.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Ronaldo được tiến cử trở lại lãnh đạo Man Utd",
+      "description": "Michael Clegg, cựu HLV thể lực Man Utd, cho rằng Cristiano Ronaldo có thể trở lại Old Trafford trong vai trò HLV hoặc chủ sở hữu, sau khi chia tay đội tuyển Bồ Đào Nha.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/11/10/ten-hag-ronaldo-1794300668-8306-1794300791.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=kyRv1tcsGUygh5JEJ7FkAQ",
+      "link": "https://vnexpress.net/ronaldo-duoc-tien-cu-tro-lai-lanh-dao-man-utd-5143024.html",
+      "published_at": "Tue, 10 Nov 2026 16:21:51 +0700",
+      "createAt": "2026-11-10T09:21:51.000Z",
+      "thumbnail_blurhash": "LAEV$evu000000kh%$^-01S[t8?H"
+    },
+    {
+      "id": "https://vnexpress.net/sep-trong-vu-nhan-hoi-lo-o-so-y-te-ha-noi-doi-mat-7-8-nam-tu-5143033.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Sếp trong vụ nhận hối lộ ở Sở Y tế Hà Nội đối mặt 7-8 năm tù",
+      "description": "Ông Tô Tử Anh, cựu phó phòng Quản lý hành nghề y, dược tư nhân bị xác định hưởng lợi gần 1,3 tỷ đồng khi cấp phép cho các cơ sở chưa đủ điều kiện.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/10/896655311-n-1794304300-3871-1794304390.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=srOiw70yWLtAohqY7sAkeA",
+      "link": "https://vnexpress.net/sep-trong-vu-nhan-hoi-lo-o-so-y-te-ha-noi-doi-mat-7-8-nam-tu-5143033.html",
+      "published_at": "Tue, 10 Nov 2026 17:09:53 +0700",
+      "createAt": "2026-11-10T10:09:53.000Z",
+      "thumbnail_blurhash": "LqHezkxuRjog~qxuofWBj?oft7Ri"
+    },
+    {
+      "id": "https://vnexpress.net/hlv-kim-sang-sik-khong-lo-nguyen-dinh-bac-qua-tai-5142880.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "HLV Kim Sang-sik không lo Nguyễn Đình Bắc quá  tải",
+      "description": "HLV Kim Sang-sik tin tiền đạo Nguyễn Đình Bắc có thể trạng và ý chí tốt để tiếp tục chơi cho đội tuyển Việt Nam trong đợt tập trung tháng 11.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/11/10/1794300299886-ec78cea97985e234-4877-8422-1794307103.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=P4VtwxmxNw-fvED1c8ZXEw",
+      "link": "https://vnexpress.net/hlv-kim-sang-sik-khong-lo-nguyen-dinh-bac-qua-tai-5142880.html",
+      "published_at": "Tue, 10 Nov 2026 17:39:49 +0700",
+      "createAt": "2026-11-10T10:39:49.000Z",
+      "thumbnail_blurhash": "LIE.C@q?o@XrF2S#JFW856WFVrxT"
+    }
+  ]
 }
