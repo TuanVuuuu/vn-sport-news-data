@@ -207,6 +207,45 @@
       "published_at": "Tue, 10 Nov 2026 19:26:47 +0700",
       "createAt": "2026-11-10T12:26:47.000Z",
       "thumbnail_blurhash": "LbI5Jk~VK,?G_3xsIUR,ROo#ROR."
+    },
+    {
+      "id": "https://vnexpress.net/loi-khai-ke-sat-hai-dot-nguoi-phu-nu-o-vinh-long-5143094.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Lời khai kẻ sát hại, đốt người phụ nữ ở Vĩnh Long",
+      "description": "Không chấp nhận bị chia tay, Trần Bá Triết khai đã khóa cửa các phòng trọ xung quanh trước khi dùng dao tấn công, tạt xăng đốt người phụ nữ.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/10/KHUTROVINHLONG123-1794311018-1703-1794311341.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=_maP3RPIEedm3d6yApvQKA",
+      "link": "https://vnexpress.net/loi-khai-ke-sat-hai-dot-nguoi-phu-nu-o-vinh-long-5143094.html",
+      "published_at": "Tue, 10 Nov 2026 20:03:43 +0700",
+      "createAt": "2026-11-10T13:03:43.000Z",
+      "thumbnail_blurhash": "L68g,14TIV~p9Go|t7M{4m-=ozD%"
+    },
+    {
+      "id": "https://vnexpress.net/nguyen-thu-tuong-pham-minh-chinh-duoc-nhat-hoang-trao-huan-chuong-mat-troi-moc-5143097.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Nguyên Thủ tướng Phạm Minh Chính được Nhật hoàng trao huân chương Mặt Trời mọc",
+      "description": "Nguyên Thủ tướng Phạm Minh Chính được Nhật hoàng Naruhito trao huân chương Mặt Trời mọc hạng nhất Đại thập tự, một trong những huân chương cao quý nhất của Nhật Bản.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/10/top1-1794313086-7514-1794313190.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=CejdJPpirl3Ymf688qHxzg",
+      "link": "https://vnexpress.net/nguyen-thu-tuong-pham-minh-chinh-duoc-nhat-hoang-trao-huan-chuong-mat-troi-moc-5143097.html",
+      "published_at": "Tue, 10 Nov 2026 20:07:20 +0700",
+      "createAt": "2026-11-10T13:07:20.000Z",
+      "thumbnail_blurhash": "LCFq]$?G009t_3xa9GIU~Vo}IVIo"
+    },
+    {
+      "id": "https://vnexpress.net/hieu-pho-bi-dinh-chi-viec-vi-danh-hoc-sinh-lop-7-5142849.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Hiệu phó bị đình chỉ việc vì đánh học sinh lớp 7",
+      "description": "Hiệu phó trường Tiểu học, THCS, THPT Phú Xuân bị đình chỉ công tác 45 ngày sau khi dùng tay, thước \"tác động\" vào đầu hai học sinh lớp 7.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/10/z8471854187711ea6e27a4c765414f-4137-7195-1794284103.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=W1_xeeTILilksvNw85endA",
+      "link": "https://vnexpress.net/hieu-pho-bi-dinh-chi-viec-vi-danh-hoc-sinh-lop-7-5142849.html",
+      "published_at": "Tue, 10 Nov 2026 20:33:26 +0700",
+      "createAt": "2026-11-10T13:33:26.000Z",
+      "thumbnail_blurhash": "LIEe[O569txa_4E1M{xtE.e-e-j]"
     }
   ]
 }
