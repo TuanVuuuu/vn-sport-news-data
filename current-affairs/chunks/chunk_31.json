@@ -1272,5 +1272,31 @@
     "published_at": "Tue, 10 Nov 2026 20:01:04 +0700",
     "createAt": "2026-11-10T13:01:04.000Z",
     "thumbnail_blurhash": "LAFYllwI?a%h~D%1D*axJ.ofM}E1"
+  },
+  {
+    "id": "https://vnexpress.net/17-chuyen-bay-den-mien-trung-phai-vong-cho-ha-canh-5143103.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "17 chuyến bay đến miền Trung phải vòng chờ hạ cánh",
+    "description": "Mưa giông, tầm nhìn giảm sâu tại sân bay Đà Nẵng và Phú Bài (TP Huế) ngày 9/11 khiến 17 chuyến bay phải bay vòng để chờ thời điểm thích hợp hạ cánh.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/10/3-1794315740-3151-1794316454.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=-vmGoJbqmtdZLJzxwT26fw",
+    "link": "https://vnexpress.net/17-chuyen-bay-den-mien-trung-phai-vong-cho-ha-canh-5143103.html",
+    "published_at": "Tue, 10 Nov 2026 22:15:11 +0700",
+    "createAt": "2026-11-10T15:15:11.000Z",
+    "thumbnail_blurhash": "LVD]xVt7oft7_4t7ofoft7j[fkj["
+  },
+  {
+    "id": "https://vnexpress.net/hang-chuc-oto-dau-tren-cau-vuot-o-nha-trang-tranh-lu-5143129.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Hàng chục ôtô đậu trên cầu vượt ở Nha Trang tránh lũ",
+    "description": "Lo ngại mưa lớn và các hồ chứa chuẩn bị điều tiết nước gây ngập, hàng chục chủ ôtô đưa xe lên cầu vượt đường sắt ở Nha Trang để bảo vệ tài sản, tối 10/11.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/10/dauxe-1794322248-7306-1794322627.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=tcfkJH00lqNzvul3Bei4Qg",
+    "link": "https://vnexpress.net/hang-chuc-oto-dau-tren-cau-vuot-o-nha-trang-tranh-lu-5143129.html",
+    "published_at": "Tue, 10 Nov 2026 22:37:00 +0700",
+    "createAt": "2026-11-10T15:37:00.000Z",
+    "thumbnail_blurhash": "L38;GLHq9%SQGK9FxZjv00yZ==Ri"
   }
 ]
