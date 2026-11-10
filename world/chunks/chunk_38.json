@@ -895,5 +895,31 @@
     "published_at": "Tue, 10 Nov 2026 09:21:19 +0700",
     "createAt": "2026-11-10T02:21:19.000Z",
     "thumbnail_blurhash": "LFE30V9Z~q%24:RiD%WBt9xa-;WB"
+  },
+  {
+    "id": "https://vnexpress.net/trieu-tien-phong-thu-ngu-loi-bi-an-5142714.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Triều Tiên phóng thử ngư lôi bí ẩn",
+    "description": "Triều Tiên thông báo thử thành công ngư lôi tốc độ cao thế hệ mới, dự kiến biên chế vũ khí này vào đầu năm sau.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/10/5563187178137269305a-179427308-4534-3868-1794273354.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=SQY7je2AySCSr11z2j_qGA",
+    "link": "https://vnexpress.net/trieu-tien-phong-thu-ngu-loi-bi-an-5142714.html",
+    "published_at": "Tue, 10 Nov 2026 10:00:19 +0700",
+    "createAt": "2026-11-10T03:00:19.000Z",
+    "thumbnail_blurhash": "LF8qmVfkj[t8_4ayWBof-;j]WBax"
+  },
+  {
+    "id": "https://vnexpress.net/jensen-huang-tu-ong-trum-ban-dan-den-tam-diem-dieu-tra-gian-diep-5142470.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Jensen Huang - từ ông trùm bán dẫn đến tâm điểm điều tra gián điệp",
+    "description": "Là CEO Nvidia và có quan hệ gần gũi với ông Trump, Jensen Huang giữ vai trò quan trọng trong cuộc đua AI, trước khi bị nghi \"ngoại tình với gián điệp Trung Quốc\".",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/09/afp-d2nm2zz-v2-highres-uspresi-9189-3311-1794214830.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=nXwYE_WaiqZNDokN6btUyg",
+    "link": "https://vnexpress.net/jensen-huang-tu-ong-trum-ban-dan-den-tam-diem-dieu-tra-gian-diep-5142470.html",
+    "published_at": "Tue, 10 Nov 2026 10:05:30 +0700",
+    "createAt": "2026-11-10T03:05:30.000Z",
+    "thumbnail_blurhash": "LdI5GLIUb0Q.~qIpIoS4%MM|ogxu"
   }
 ]
