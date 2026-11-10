@@ -856,5 +856,44 @@
     "published_at": "Tue, 10 Nov 2026 08:35:32 +0700",
     "createAt": "2026-11-10T01:35:32.000Z",
     "thumbnail_blurhash": "LACsKzoYyXH=~Bozr?k9D4NfMw?H"
+  },
+  {
+    "id": "https://vnexpress.net/mau-dau-do-giup-iskander-m-lien-tiep-danh-chinh-giua-cau-o-kiev-5142533.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Mẫu đầu dò giúp Iskander-M liên tiếp đánh chính giữa cầu ở Kiev",
+    "description": "Quan chức Ukraine nói Nga sử dụng tên lửa Iskander-M mang đầu dò chuyên dụng, có độ chính xác rất cao để tấn công loạt cầu bắc qua sông Dnieper.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/09/5563187178137269304e-179421366-1741-5177-1794213908.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=5cMfGnbh35MGwaigvCjqkg",
+    "link": "https://vnexpress.net/mau-dau-do-giup-iskander-m-lien-tiep-danh-chinh-giua-cau-o-kiev-5142533.html",
+    "published_at": "Mon, 09 Nov 2026 17:00:40 +0700",
+    "createAt": "2026-11-09T10:00:40.000Z",
+    "thumbnail_blurhash": "LB8}DM%gM_M{~pxvbcMx_3t7M{IU"
+  },
+  {
+    "id": "https://vnexpress.net/ong-trump-thay-tin-hieu-tich-cuc-trong-xung-dot-voi-iran-5142700.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Ông Trump thấy 'tín hiệu tích cực' trong xung đột với Iran",
+    "description": "Tổng thống Trump cho biết đã có \"động lực tích cực\" hướng tới chấm dứt xung đột với Iran, sau khi gặp Thủ tướng Qatar tại Nhà Trắng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/10/ap26309765018044-1794277982-1973-1794277991.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=T5NZ-eQHRYrMXFe1muo3MA",
+    "link": "https://vnexpress.net/ong-trump-thay-tin-hieu-tich-cuc-trong-xung-dot-voi-iran-5142700.html",
+    "published_at": "Tue, 10 Nov 2026 08:42:13 +0700",
+    "createAt": "2026-11-10T01:42:13.000Z",
+    "thumbnail_blurhash": "LDC$v5}t=?$$?a$PQ-adxtRjIVRj"
+  },
+  {
+    "id": "https://vnexpress.net/ukraine-thu-nghiem-vu-khi-danh-chan-ten-lua-oreshnik-5142569.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Ukraine thử nghiệm 'vũ khí đánh chặn tên lửa Oreshnik'",
+    "description": "Ukraine dường như đã thử nghiệm hệ thống phòng không chuyên đánh chặn mục tiêu ngoài khí quyển, nhằm đối phó tên lửa Oreshnik của Nga.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/09/Settio-1794217697-4246-1794217749.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=jXhNAePpbUYCNDHHWSK2pw",
+    "link": "https://vnexpress.net/ukraine-thu-nghiem-vu-khi-danh-chan-ten-lua-oreshnik-5142569.html",
+    "published_at": "Tue, 10 Nov 2026 09:21:19 +0700",
+    "createAt": "2026-11-10T02:21:19.000Z",
+    "thumbnail_blurhash": "LFE30V9Z~q%24:RiD%WBt9xa-;WB"
   }
 ]
