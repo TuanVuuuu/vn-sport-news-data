@@ -882,5 +882,44 @@
     "published_at": "Tue, 10 Nov 2026 08:52:35 +0700",
     "createAt": "2026-11-10T01:52:35.000Z",
     "thumbnail_blurhash": "LQF}.t%MT0D%~W?cIURjKjxvRPWA"
+  },
+  {
+    "id": "https://vnexpress.net/cii-huy-dong-von-mo-rong-cao-toc-tp-hcm-trung-luong-my-thuan-5142760.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "CII huy động vốn mở rộng cao tốc TP HCM - Trung Lương - Mỹ Thuận",
+    "description": "CII chào bán trái phiếu chuyển đổi trị giá hơn 6.700 tỷ đồng để thu xếp vốn cho dự án mở rộng cao tốc TP HCM - Trung Lương - Mỹ Thuận.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/10/ket-1794276732-2379-1794276921.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=F4KozZje6OOlxhSrDIt6Mg",
+    "link": "https://vnexpress.net/cii-huy-dong-von-mo-rong-cao-toc-tp-hcm-trung-luong-my-thuan-5142760.html",
+    "published_at": "Tue, 10 Nov 2026 10:31:34 +0700",
+    "createAt": "2026-11-10T03:31:34.000Z",
+    "thumbnail_blurhash": "L9Dcdk-MEbyX_MRiaJs=TIS5RPMd"
+  },
+  {
+    "id": "https://vnexpress.net/nvidia-se-ra-sao-neu-vang-ceo-jensen-huang-5142743.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Nvidia sẽ ra sao nếu vắng CEO Jensen Huang?",
+    "description": "Nếu Huang phải rời chức CEO, Nvidia có thể bị kiện, hình ảnh công ty sẽ thay đổi, nhưng nhu cầu chip không biến mất.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/10/jensen-huang-reu-1794281456-1758-1794281568.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=6nGBKCUEz-ZwCVFSaQvTpg",
+    "link": "https://vnexpress.net/nvidia-se-ra-sao-neu-vang-ceo-jensen-huang-5142743.html",
+    "published_at": "Tue, 10 Nov 2026 10:56:48 +0700",
+    "createAt": "2026-11-10T03:56:48.000Z",
+    "thumbnail_blurhash": "LEEU=i%2tR=}~Wt89sozxt={wcoc"
+  },
+  {
+    "id": "https://vnexpress.net/ngan-hang-nha-nuoc-se-dinh-ky-mua-usd-tu-cac-nha-bang-5142801.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Ngân hàng Nhà nước sẽ định kỳ mua USD từ các nhà băng",
+    "description": "Từ 11/11, Ngân hàng Nhà nước sẽ quay trở lại mua ngoại tệ giao ngay từ ngân hàng thương mại hai lần mỗi tuần, với giá 25.500 đồng một USD.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/10/huy-copy-1794280243-2237-1794280401.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Dc0hKsH-UgjNEmaRKfOtGw",
+    "link": "https://vnexpress.net/ngan-hang-nha-nuoc-se-dinh-ky-mua-usd-tu-cac-nha-bang-5142801.html",
+    "published_at": "Tue, 10 Nov 2026 11:34:06 +0700",
+    "createAt": "2026-11-10T04:34:06.000Z",
+    "thumbnail_blurhash": "L$J[L?oyD%xu_Nt7M{xu%gofWBof"
   }
 ]

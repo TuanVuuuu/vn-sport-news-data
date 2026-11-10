@@ -1077,5 +1077,31 @@
     "published_at": "Tue, 10 Nov 2026 09:57:19 +0700",
     "createAt": "2026-11-10T02:57:19.000Z",
     "thumbnail_blurhash": "L5BpnT~VI9%MpLWYE5RO=_xuNGE1"
+  },
+  {
+    "id": "https://vnexpress.net/tai-xe-mo-cua-xe-hat-vang-nguoi-di-xe-may-5142737.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Tài xế mở cửa xe hất văng người đi xe máy",
+    "description": "Cửa bên lái xe ôtô đỗ lề đường bật mở hất ngã một người đi xe máy cùng chiều hôm 9/11 tại Lê Tấn Trung.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/10/ezgif695e3dabed9a0c63-17942753-3797-7403-1794275731.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=5EXoqeCnClDDsCxHh_wFFg&t=image",
+    "link": "https://vnexpress.net/tai-xe-mo-cua-xe-hat-vang-nguoi-di-xe-may-5142737.html",
+    "published_at": "Tue, 10 Nov 2026 10:38:18 +0700",
+    "createAt": "2026-11-10T03:38:18.000Z",
+    "thumbnail_blurhash": "L9C6.L_4004n?uozIBE1w^t7NFD%"
+  },
+  {
+    "id": "https://vnexpress.net/volvo-es90-sedan-dien-hang-sang-gia-2-6-ty-dong-co-gi-5142066.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Volvo ES90 - sedan điện hạng sang giá 2,6 tỷ đồng có gì?",
+    "description": "Mẫu xe của Volvo lắp hai môtơ điện, pin 106 kWh phạm vi hoạt động 706 km, trang bị nhiều công nghệ và tính năng an toàn.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/09/wm1-volvo-es90-vne-1794237231-1794237352.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=nu122fVx6Ta4j59Ov3AaUw",
+    "link": "https://vnexpress.net/volvo-es90-sedan-dien-hang-sang-gia-2-6-ty-dong-co-gi-5142066.html",
+    "published_at": "Tue, 10 Nov 2026 11:34:23 +0700",
+    "createAt": "2026-11-10T04:34:23.000Z",
+    "thumbnail_blurhash": "LVH_#??v~q.8OXxv9Zog%MozxuoJ"
   }
 ]
