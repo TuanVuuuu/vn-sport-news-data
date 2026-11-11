@@ -336,5 +336,44 @@
     "published_at": "Wed, 11 Nov 2026 21:53:18 +0700",
     "createAt": "2026-11-11T14:53:18.000Z",
     "thumbnail_blurhash": "L9F~swD*yG5O7g9G^,_3^m-q4oD+"
+  },
+  {
+    "id": "https://vnexpress.net/mien-trung-con-mua-lon-den-sang-mai-mien-bac-lanh-den-13-11-5143566.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Miền Trung còn mưa lớn đến sáng mai, miền Bắc lạnh đến 13/11",
+    "description": "Mưa lớn ở miền Trung dự kiến kéo dài đến sáng 12/11, có nơi trên 200 mm; miền Bắc tiếp tục lạnh trước khi nhiệt độ tăng dần từ ngày 13/11.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/11/img-jpg-jpg-1794405733-5859-1794405738.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=OrSadA0y_iWT-n1nmBSoJA",
+    "link": "https://vnexpress.net/mien-trung-con-mua-lon-den-sang-mai-mien-bac-lanh-den-13-11-5143566.html",
+    "published_at": "Wed, 11 Nov 2026 20:55:12 +0700",
+    "createAt": "2026-11-11T13:55:12.000Z",
+    "thumbnail_blurhash": "LED9#N%hoft74=WAxax]~UIVRoxu"
+  },
+  {
+    "id": "https://vnexpress.net/vi-sao-ha-noi-nhieu-nam-khong-trien-khai-duoc-quy-hoach-bai-do-xe-5143100.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Vì sao Hà Nội nhiều năm không triển khai được quy hoạch bãi đỗ xe?",
+    "description": "Quỹ đất hạn chế, thủ tục kéo dài, hiệu quả đầu tư thấp, thiếu ưu đãi của nhà nước khiến nhiều khu đất dành cho giao thông tĩnh chưa được đầu tư làm bãi đỗ xe.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/11/huy-1794368153-4410-1794369171.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=8JWYc8mIXQf4yIhnkx9FjQ",
+    "link": "https://vnexpress.net/vi-sao-ha-noi-nhieu-nam-khong-trien-khai-duoc-quy-hoach-bai-do-xe-5143100.html",
+    "published_at": "Thu, 12 Nov 2026 00:00:00 +0700",
+    "createAt": "2026-11-11T17:00:00.000Z",
+    "thumbnail_blurhash": "L7FFy+009t%N00-r?ZMy00~DRND%"
+  },
+  {
+    "id": "https://vnexpress.net/hom-nay-quoc-hoi-chat-van-thu-tuong-va-hai-bo-truong-5142309.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Hôm nay Quốc hội chất vấn Thủ tướng và hai bộ trưởng",
+    "description": "Ngày 12/11, Quốc hội chất vấn Bộ trưởng Khoa học và Công nghệ Vũ Hải Quân, Bộ trưởng Tài chính Ngô Văn Tuấn; cuối phiên, Thủ tướng sẽ trả lời đại biểu.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/11/202610171427353858-g7574298250-3163-8154-1794405074.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=_UdrGg4a_bjF21IRYY8MYQ",
+    "link": "https://vnexpress.net/hom-nay-quoc-hoi-chat-van-thu-tuong-va-hai-bo-truong-5142309.html",
+    "published_at": "Thu, 12 Nov 2026 00:00:00 +0700",
+    "createAt": "2026-11-11T17:00:00.000Z",
+    "thumbnail_blurhash": "L8K1Bw?w00DN020L%h?H00%LtlJC"
   }
 ]
