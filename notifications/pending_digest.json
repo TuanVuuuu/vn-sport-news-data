@@ -1,3 +1,17 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/ngan-hang-tim-cach-ngan-tro-ly-ai-can-thiep-tai-khoan-5143403.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Ngân hàng tìm cách ngăn trợ lý AI can thiệp tài khoản",
+      "description": "Các ngân hàng lớn ở Anh, Mỹ bắt đầu chặn hoặc siết quyền truy cập tài khoản khách hàng của các trợ lý AI do lo ngại chúng vượt kiểm soát.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/11/ai-ba-o-ma-t-nga-n-ha-ng-co-ng-3728-9792-1794386362.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=FZ_pQQauAQ7X_TVyuojP2Q",
+      "link": "https://vnexpress.net/ngan-hang-tim-cach-ngan-tro-ly-ai-can-thiep-tai-khoan-5143403.html",
+      "published_at": "Thu, 12 Nov 2026 06:00:00 +0700",
+      "createAt": "2026-11-11T23:00:00.000Z",
+      "thumbnail_blurhash": "LH7pN3UHiuN0PErUNEs-U[VWo#bb"
+    }
+  ]
 }
