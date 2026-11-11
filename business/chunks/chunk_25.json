@@ -1207,5 +1207,31 @@
     "published_at": "Wed, 11 Nov 2026 09:35:48 +0700",
     "createAt": "2026-11-11T02:35:48.000Z",
     "thumbnail_blurhash": "LWAdTRt7M|ju%%kDaej]JEbIt5fl"
+  },
+  {
+    "id": "https://vnexpress.net/anthropic-nham-den-muc-dinh-gia-1-400-ty-usd-5143275.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Anthropic nhắm đến mức định giá 1.400 tỷ USD",
+    "description": "Vài ngày trước IPO, công ty mẹ ứng dụng AI Claude hạ giá chào bán dự kiến và mục tiêu huy động vốn.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/11/dsc02951-jpg-1794370254-8289-1794370448.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=qu4qBvUsZkxkr1ATCu3njA",
+    "link": "https://vnexpress.net/anthropic-nham-den-muc-dinh-gia-1-400-ty-usd-5143275.html",
+    "published_at": "Wed, 11 Nov 2026 13:05:00 +0700",
+    "createAt": "2026-11-11T06:05:00.000Z",
+    "thumbnail_blurhash": "LPHx.}~qD$-;Riof-;V@D%of%Naz"
+  },
+  {
+    "id": "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-de-nghi-nhat-ban-hop-tac-huy-dong-von-cho-duong-sat-nang-luong-5143375.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Tổng Bí thư, Chủ tịch nước đề nghị Nhật Bản hợp tác huy động vốn cho đường sắt, năng lượng",
+    "description": "Tổng Bí thư, Chủ tịch nước Tô Lâm đề nghị các định chế tài chính Nhật Bản cùng Việt Nam xây dựng phương án huy động vốn dài hạn cho đường sắt, cảng biển, năng lượng và hạ tầng số.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/11/wm30-wm30-vnapotaltongbithuchutichn-7807-7854-1794377418.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=PdRbEg-aUkRpoKpwmDXmCw",
+    "link": "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-de-nghi-nhat-ban-hop-tac-huy-dong-von-cho-duong-sat-nang-luong-5143375.html",
+    "published_at": "Wed, 11 Nov 2026 13:25:03 +0700",
+    "createAt": "2026-11-11T06:25:03.000Z",
+    "thumbnail_blurhash": "LQG8u;?a%dSN~UjYIpRktQayRkoe"
   }
 ]
