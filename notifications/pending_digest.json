@@ -1,6 +1,19 @@
 {
   "featured": [
     {
+      "id": "https://vnexpress.net/thu-tuong-de-nghi-som-giao-dat-cho-dh-kinh-te-quoc-dan-xay-co-so-moi-5143320.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Thủ tướng đề nghị sớm giao đất cho ĐH Kinh tế Quốc dân xây cơ sở mới",
+      "description": "Thủ tướng Lê Minh Hưng đề nghị UBND TP Hà Nội tạo điều kiện, sớm giao đất để Đại học Kinh tế Quốc dân xây cơ sở mới ở xã Chương Mỹ.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/11/wm1-wm1-meitu-1794374671-7269-1794375047.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=s8Is50L0FZ9UFU82M1VF2g",
+      "link": "https://vnexpress.net/thu-tuong-de-nghi-som-giao-dat-cho-dh-kinh-te-quoc-dan-xay-co-so-moi-5143320.html",
+      "published_at": "Wed, 11 Nov 2026 13:40:20 +0700",
+      "createAt": "2026-11-11T06:40:20.000Z",
+      "thumbnail_blurhash": "LoE.;.tlnoNLAORQI[s;xUt6skWB"
+    },
+    {
       "id": "https://vnexpress.net/vff-dinh-chi-vo-thoi-han-nhom-ban-do-cua-clb-long-an-5143417.html",
       "category_id": "featured",
       "category_name": "Tin nổi bật",
@@ -38,6 +51,32 @@
       "published_at": "Wed, 11 Nov 2026 18:01:08 +0700",
       "createAt": "2026-11-11T11:01:08.000Z",
       "thumbnail_blurhash": "L+Kei*VEv}iw~pv}iwsSxus:enjb"
+    },
+    {
+      "id": "https://vnexpress.net/lu-nhan-chim-may-moc-tran-vao-nha-dan-mien-trung-5143492.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Lũ nhấn chìm máy móc, tràn vào nhà dân miền Trung",
+      "description": "Mưa lớn kéo dài khiến nhiều nơi ở miền Trung ngập sâu, đường sá chia cắt, máy xúc chìm giữa dòng nước, hàng trăm hộ dân phải ứng phó với lũ.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/11/15b1c5a6-a8eb-4fe3-9a35-0bd5bcec6151-jpeg-1794398939.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=u3sMwL6m6F75bxTD65Rm4w",
+      "link": "https://vnexpress.net/lu-nhan-chim-may-moc-tran-vao-nha-dan-mien-trung-5143492.html",
+      "published_at": "Wed, 11 Nov 2026 19:10:13 +0700",
+      "createAt": "2026-11-11T12:10:13.000Z",
+      "thumbnail_blurhash": "LaLppj~9-:t7?HNGazWEt6NHM|M}"
+    },
+    {
+      "id": "https://vnexpress.net/de-xuat-mien-giam-thu-tuc-cho-hang-rong-thuc-an-duong-pho-5143535.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Đề xuất miễn giảm thủ tục cho hàng rong, thức ăn đường phố",
+      "description": "Dự thảo Luật An toàn thực phẩm (sửa đổi) đề xuất miễn nhiều thủ tục hành chính cho hàng rong, thức ăn đường phố song tăng cường hậu kiểm, truy xuất nguồn gốc.",
+      "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/11/anh-chup-man-hinh-luc-17943930-8397-8465-1794393152.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=QmWKs2Kevs10_Q8ckwQkXA",
+      "link": "https://vnexpress.net/de-xuat-mien-giam-thu-tuc-cho-hang-rong-thuc-an-duong-pho-5143535.html",
+      "published_at": "Wed, 11 Nov 2026 19:26:53 +0700",
+      "createAt": "2026-11-11T12:26:53.000Z",
+      "thumbnail_blurhash": "LGEV7*tS0%-:~VR+IotRKRM}nMbb"
     }
   ]
 }
