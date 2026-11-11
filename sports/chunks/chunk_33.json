@@ -674,5 +674,31 @@
     "published_at": "Wed, 11 Nov 2026 00:01:37 +0700",
     "createAt": "2026-11-10T17:01:37.000Z",
     "thumbnail_blurhash": "L66tgzS09u$*~BjXIpj?OFxCahI:"
+  },
+  {
+    "id": "https://vnexpress.net/nguoi-phu-nu-dau-tien-chay-160-km-o-nam-cuc-5142970.html",
+    "category_id": "sports",
+    "category_name": "Thể thao",
+    "source": "VnExpress",
+    "title": "Người phụ nữ đầu tiên chạy 160 km ở Nam Cực",
+    "description": "Stephanie Case vượt qua gió mạnh và cái lạnh tới âm 35 độ C để trở thành người phụ nữ đầu tiên chạy 100 dặm (160,93 km) ở Nam Cực, với thành tích nhanh hơn kỷ lục cũ hơn 5 giờ.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/11/10/vdv-1794297436-7271-1794298028.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=FnX0-kjzyDwkqWZfLww7ug",
+    "link": "https://vnexpress.net/nguoi-phu-nu-dau-tien-chay-160-km-o-nam-cuc-5142970.html",
+    "published_at": "Wed, 11 Nov 2026 05:51:14 +0700",
+    "createAt": "2026-11-10T22:51:14.000Z",
+    "thumbnail_blurhash": "LUF~?qNH9a-pu6ofM_IpNfjboIa{"
+  },
+  {
+    "id": "https://vnexpress.net/merson-man-utd-khong-the-xay-nha-tren-vung-nuoc-5140787.html",
+    "category_id": "sports",
+    "category_name": "Thể thao",
+    "source": "VnExpress",
+    "title": "Merson: 'Man Utd không thể xây nhà trên vũng nước'",
+    "description": "Cựu tiền vệ Paul Merson cho rằng chính sách chuyển nhượng thiếu cân đối, thay vì Michael Carrick, là nguyên nhân khiến Man Utd khởi đầu tệ hại tại Ngoại hạng Anh.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/11/11/image-1794353670-9872-1794354024.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=LVXnv9MzLuVbdJ3_p3ZvCA",
+    "link": "https://vnexpress.net/merson-man-utd-khong-the-xay-nha-tren-vung-nuoc-5140787.html",
+    "published_at": "Wed, 11 Nov 2026 06:41:04 +0700",
+    "createAt": "2026-11-10T23:41:04.000Z",
+    "thumbnail_blurhash": "L79%G6H;],sE?o0xp05PntR$IoNe"
   }
 ]
