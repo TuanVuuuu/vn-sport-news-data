@@ -1,3 +1,43 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/vff-dinh-chi-vo-thoi-han-nhom-ban-do-cua-clb-long-an-5143417.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "VFF đình chỉ vô thời hạn nhóm bán độ của CLB Long An",
+      "description": "Ban kỷ luật LĐBĐ Việt Nam quyết định đình chỉ tham gia các hoạt động bóng đá với các cá nhân liên quan tới vụ dàn xếp tỷ số tại CLB Long An.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/11/11/486159287-n-1794383093-1639-1794383097.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=xARx9lY_oHCBmXBzT50Y5Q",
+      "link": "https://vnexpress.net/vff-dinh-chi-vo-thoi-han-nhom-ban-do-cua-clb-long-an-5143417.html",
+      "published_at": "Wed, 11 Nov 2026 14:43:42 +0700",
+      "createAt": "2026-11-11T07:43:42.000Z",
+      "thumbnail_blurhash": "LuD-K$o|kXjZ_4aif5bI%2V_WDa$"
+    },
+    {
+      "id": "https://vnexpress.net/vo-ceo-nvidia-tung-kiem-nhieu-tien-hon-chong-5143346.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Vợ CEO Nvidia từng kiếm nhiều tiền hơn chồng",
+      "description": "Lori Mills, vợ CEO Nvidia Jensen Huang, từng kiếm nhiều tiền hơn chồng khi thiết kế vi mạch, trước khi nghỉ việc chăm con và điều hành quỹ từ thiện gia đình.",
+      "thumbnail_url": "https://vcdn1-giadinh.vnecdn.net/2026/11/11/screenshot-at-1794374212-5464-1794374746.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=-iQ7Mo6I6oM2IV-R4cC5yQ",
+      "link": "https://vnexpress.net/vo-ceo-nvidia-tung-kiem-nhieu-tien-hon-chong-5143346.html",
+      "published_at": "Wed, 11 Nov 2026 14:49:34 +0700",
+      "createAt": "2026-11-11T07:49:34.000Z",
+      "thumbnail_blurhash": "LDFX[39u5F-rkv^iS7O[OrInw?RU"
+    },
+    {
+      "id": "https://vnexpress.net/viet-nam-vs-dai-loan-5143537.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Việt Nam - Đài Loan: Olaha Mạnh Đức, Đình Bắc đá chính",
+      "description": "Bóng lăn lúc 19h. Việt Nam tiếp Đài Loan trên sân Thiên Trường trong trận giao hữu FIFA Days.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/11/11/olaha-jpeg-1794394824-9048-1794394833.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=sM0eDtBUQhqsyt88kifn1A",
+      "link": "https://vnexpress.net/viet-nam-vs-dai-loan-5143537.html",
+      "published_at": "Wed, 11 Nov 2026 18:01:08 +0700",
+      "createAt": "2026-11-11T11:01:08.000Z",
+      "thumbnail_blurhash": "L+Kei*VEv}iw~pv}iwsSxus:enjb"
+    }
+  ]
 }
