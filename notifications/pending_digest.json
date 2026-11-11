@@ -1,3 +1,108 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/truong-hoc-my-dong-cua-hang-loat-5143135.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Trường học Mỹ đóng cửa hàng loạt",
+      "description": "Số học sinh giảm mạnh khiến hơn 1.100 trường phổ thông công lập lao đao vì thiếu kinh phí, phải đóng cửa.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/10/lincolnelementaryschoolvallejo-1731-9966-1794324753.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=-o2ur1ik52R4fDw18SmZKQ",
+      "link": "https://vnexpress.net/truong-hoc-my-dong-cua-hang-loat-5143135.html",
+      "published_at": "Wed, 11 Nov 2026 00:03:53 +0700",
+      "createAt": "2026-11-10T17:03:53.000Z",
+      "thumbnail_blurhash": "LYGlefZ~xtR%~qs;RjM{_3M{t8M{"
+    },
+    {
+      "id": "https://vnexpress.net/merson-man-utd-khong-the-xay-nha-tren-vung-nuoc-5140787.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Merson: 'Man Utd không thể xây nhà trên vũng nước'",
+      "description": "Cựu tiền vệ Paul Merson cho rằng chính sách chuyển nhượng thiếu cân đối, thay vì Michael Carrick, là nguyên nhân khiến Man Utd khởi đầu tệ hại tại Ngoại hạng Anh.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/11/11/image-1794353670-9872-1794354024.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=LVXnv9MzLuVbdJ3_p3ZvCA",
+      "link": "https://vnexpress.net/merson-man-utd-khong-the-xay-nha-tren-vung-nuoc-5140787.html",
+      "published_at": "Wed, 11 Nov 2026 06:41:04 +0700",
+      "createAt": "2026-11-10T23:41:04.000Z",
+      "thumbnail_blurhash": "L79%G6H;],sE?o0xp05PntR$IoNe"
+    },
+    {
+      "id": "https://vnexpress.net/gia-vang-the-gioi-giam-manh-ve-sat-4-000-usd-5143168.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Giá vàng thế giới giảm mạnh, về sát 4.000 USD",
+      "description": "Mỗi ounce vàng có thời điểm mất gần 130 USD, sau khi Mỹ công bố số liệu lạm phát cao hơn dự kiến.",
+      "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/11/goldsilver1-1794356270-8440-1794356288.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=WJFMb8mUT6xJXXFqr2JvCg",
+      "link": "https://vnexpress.net/gia-vang-the-gioi-giam-manh-ve-sat-4-000-usd-5143168.html",
+      "published_at": "Wed, 11 Nov 2026 07:59:04 +0700",
+      "createAt": "2026-11-11T00:59:04.000Z",
+      "thumbnail_blurhash": "LIG[Q8~qK9%1E3xZ%0R+Obaengax"
+    },
+    {
+      "id": "https://vnexpress.net/nga-ukraine-lan-dau-dam-phan-sau-9-thang-5143207.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Nga - Ukraine lần đầu đàm phán sau 9 tháng",
+      "description": "Nga - Ukraine thảo luận gần 4 tiếng tại UAE với sự trung gian của Mỹ, đánh dấu cuộc đàm phán đầu tiên trong 9 tháng qua.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/11/ap26314346479982-1794365137-1539-1794365193.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=IyZbmSO0LBoyD8RiDjk3Kw",
+      "link": "https://vnexpress.net/nga-ukraine-lan-dau-dam-phan-sau-9-thang-5143207.html",
+      "published_at": "Wed, 11 Nov 2026 10:17:12 +0700",
+      "createAt": "2026-11-11T03:17:12.000Z",
+      "thumbnail_blurhash": "L5E{Ok4T1$001500?G01ov%M~qnO"
+    },
+    {
+      "id": "https://vnexpress.net/gia-vang-mieng-ve-duoi-140-trieu-dong-5143259.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Giá vàng miếng về dưới 140 triệu đồng",
+      "description": "Giá vàng miếng giảm gần 1,5 triệu đồng mỗi lượng so với hôm qua, xuống dưới 140 triệu, mức thấp nhất từ đầu tháng.",
+      "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/11/wm1-wm1-233a0970-1794367489-5200-1794367619.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=jXYIY3E93ygypLWb1rrzDw",
+      "link": "https://vnexpress.net/gia-vang-mieng-ve-duoi-140-trieu-dong-5143259.html",
+      "published_at": "Wed, 11 Nov 2026 10:33:56 +0700",
+      "createAt": "2026-11-11T03:33:56.000Z",
+      "thumbnail_blurhash": "LJFrhc_Nx_tT?bD%R+o#tlRPbEfP"
+    },
+    {
+      "id": "https://vnexpress.net/vdv-nhat-ban-bi-khan-gia-trung-quoc-si-nhuc-khi-nhan-hc-vang-5143281.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "VĐV Nhật Bản bị khán giả Trung Quốc sỉ nhục khi nhận HC vàng",
+      "description": "Giành HC vàng trượt băng nghệ thuật tại Cup of China 2026, VĐV Nhật Bản Mone Chiba bị nhiều khán giả la ó, lăng mạ ngay trên bục nhận huy chương, thậm chí gây ồn ào trước nghi thức cử quốc ca Nhật Bản.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/11/11/imgc0a918d5a72acf2440a762372b0-5146-9431-1794368353.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=CsONRUE1Qr0yPzZVZezaLw",
+      "link": "https://vnexpress.net/vdv-nhat-ban-bi-khan-gia-trung-quoc-si-nhuc-khi-nhan-hc-vang-5143281.html",
+      "published_at": "Wed, 11 Nov 2026 10:39:31 +0700",
+      "createAt": "2026-11-11T03:39:31.000Z",
+      "thumbnail_blurhash": "LSMHGrxt?w%N9Ht3V@NG02W.$yjX"
+    },
+    {
+      "id": "https://vnexpress.net/thu-doan-thi-dau-duoi-suc-de-dan-xep-ty-so-tai-clb-bong-da-long-an-5143274.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Thủ đoạn 'thi đấu dưới sức' để dàn xếp tỷ số tại CLB bóng đá Long An",
+      "description": "Vũ Chí Công bị cáo buộc đã mua chuộc, chi tiền để bốn cầu thủ CLB bóng đá Long An phải \"thi đấu dưới sức\", nhằm dàn xếp tỷ số theo đúng kịch bản.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/11/1-jpeg-1794371579-4064-1794371735.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=0ZI0g1IdDUSVfzmGiFfe8w",
+      "link": "https://vnexpress.net/thu-doan-thi-dau-duoi-suc-de-dan-xep-ty-so-tai-clb-bong-da-long-an-5143274.html",
+      "published_at": "Wed, 11 Nov 2026 10:40:18 +0700",
+      "createAt": "2026-11-11T03:40:18.000Z",
+      "thumbnail_blurhash": "LcI}t[nOniWB~qsoIUs:x@E1NGkC"
+    },
+    {
+      "id": "https://vnexpress.net/bon-hieu-truong-o-hue-tu-chuc-5143288.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Bốn hiệu trưởng ở Huế từ chức",
+      "description": "Bốn hiệu trưởng trường tiểu học gửi đơn xin từ chức cùng lúc, trong đó ba người có nguyện vọng trở lại làm giáo viên.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/11/c56d6c8b-f377be48-e4460b03742c-9494-3141-1794370522.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=oWYKCL6UyyYrvex_LORAhw",
+      "link": "https://vnexpress.net/bon-hieu-truong-o-hue-tu-chuc-5143288.html",
+      "published_at": "Wed, 11 Nov 2026 11:16:16 +0700",
+      "createAt": "2026-11-11T04:16:16.000Z",
+      "thumbnail_blurhash": "LTFi#.RRD~jX_Mj]ITn%pLRkads,"
+    }
+  ]
 }
