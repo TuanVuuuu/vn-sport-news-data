@@ -1142,5 +1142,44 @@
     "published_at": "Tue, 10 Nov 2026 20:00:00 +0700",
     "createAt": "2026-11-10T13:00:00.000Z",
     "thumbnail_blurhash": "LYJQ[?%MTKwc_NtRT0nj?]xFsng2"
+  },
+  {
+    "id": "https://vnexpress.net/thi-truong-xe-dien-hang-sang-am-tham-mo-rong-tai-viet-nam-5142962.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Thị trường xe điện hạng sang âm thầm mở rộng tại Việt Nam",
+    "description": "Năm 2020, mảng xe thuần điện hạng sang chỉ có Porsche, khoảng 6 năm sau, gần như tất cả các hãng xe sang, siêu sang đều tham gia.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/10/lexuses500evnexpress-179430422-9788-6125-1794305901.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=-3V9ffTVbKjXqLIEQf1_AQ",
+    "link": "https://vnexpress.net/thi-truong-xe-dien-hang-sang-am-tham-mo-rong-tai-viet-nam-5142962.html",
+    "published_at": "Wed, 11 Nov 2026 05:30:00 +0700",
+    "createAt": "2026-11-10T22:30:00.000Z",
+    "thumbnail_blurhash": "LAIrKat800~q9]E100%M~q%gM{xt"
+  },
+  {
+    "id": "https://vnexpress.net/trung-quoc-tang-xuat-khau-oto-de-giai-quyet-khung-hoang-thua-trong-nuoc-5143054.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Trung Quốc tăng xuất khẩu ôtô để giải quyết khủng hoảng thừa trong nước",
+    "description": "Xuất khẩu ôtô Trung Quốc tăng 68,2% trong tháng 10, trong khi doanh số nội địa tiếp tục giảm, buộc các hãng tìm thêm đầu ra ở nước ngoài.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/10/034f11fd-c8ecdeb-df219e370a4dd-2709-9419-1794304028.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=KJeeb3vM1U2zRxHrC2tNNg",
+    "link": "https://vnexpress.net/trung-quoc-tang-xuat-khau-oto-de-giai-quyet-khung-hoang-thua-trong-nuoc-5143054.html",
+    "published_at": "Wed, 11 Nov 2026 05:30:00 +0700",
+    "createAt": "2026-11-10T22:30:00.000Z",
+    "thumbnail_blurhash": "LQEy=7oMR.xa_Nj[WXt6xuj[j[a}"
+  },
+  {
+    "id": "https://vnexpress.net/tesla-cybercab-van-cuoc-moi-cua-elon-musk-5142521.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Tesla Cybercab - ván cược mới của Elon Musk",
+    "description": "Hãng xe Mỹ sẽ dừng sản xuất bán tải điện Cybertruck và dồn lực cho mẫu Cybercab - robotaxi chứa đựng tham vọng mới của Elon Musk.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/10/tesla-cybercab-1794300000-7046-1794300118.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=DoA2ME4T6-KcjC10xFk-XA",
+    "link": "https://vnexpress.net/tesla-cybercab-van-cuoc-moi-cua-elon-musk-5142521.html",
+    "published_at": "Wed, 11 Nov 2026 06:00:00 +0700",
+    "createAt": "2026-11-10T23:00:00.000Z",
+    "thumbnail_blurhash": "L5Cs8N~C9#-o00RO000N03%L~VNH"
   }
 ]
