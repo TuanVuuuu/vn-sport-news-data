@@ -349,5 +349,44 @@
     "published_at": "Wed, 11 Nov 2026 14:00:30 +0700",
     "createAt": "2026-11-11T07:00:30.000Z",
     "thumbnail_blurhash": "L24e?ItS00M~tWbbW8nOD%jYx]W="
+  },
+  {
+    "id": "https://vnexpress.net/robot-lan-dau-xay-dung-cong-trinh-trong-khong-gian-5143216.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Robot lần đầu xây dựng công trình trong không gian",
+    "description": "Hệ thống robot của Caltech hỗ trợ lắp ráp giàn ăng-ten phản xạ đường kính 1,4 mét trong không gian, không cần sự trợ giúp của phi hành gia.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/11/concept-art-large-space-struct-3917-1684-1794369608.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=eJjq_3PWVH2roLpiWaP-VQ",
+    "link": "https://vnexpress.net/robot-lan-dau-xay-dung-cong-trinh-trong-khong-gian-5143216.html",
+    "published_at": "Wed, 11 Nov 2026 15:36:45 +0700",
+    "createAt": "2026-11-11T08:36:45.000Z",
+    "thumbnail_blurhash": "LP9kp-9FR3t2_4D%n#tQ%2IAxutS"
+  },
+  {
+    "id": "https://vnexpress.net/10-nha-khoa-hoc-tre-doat-giai-thuong-qua-cau-vang-2026-5143146.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "10 nhà khoa học trẻ đoạt Giải thưởng Quả Cầu Vàng 2026",
+    "description": "Giải thưởng Quả Cầu Vàng 2026 được trao cho 10 nhà khoa học trẻ với các nghiên cứu nổi bật trong như robot, bán dẫn, công nghệ sinh học và hàng không vũ trụ, AI.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/11/quacauvang-1794329144-9283-1794330464.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=P4nQG9BTBga78twx8BHedg",
+    "link": "https://vnexpress.net/10-nha-khoa-hoc-tre-doat-giai-thuong-qua-cau-vang-2026-5143146.html",
+    "published_at": "Wed, 11 Nov 2026 16:04:08 +0700",
+    "createAt": "2026-11-11T09:04:08.000Z",
+    "thumbnail_blurhash": "L58X#Wj04TWcV,t5Zxob5Ls.s%V@"
+  },
+  {
+    "id": "https://vnexpress.net/thu-vien-mang-ten-nha-vat-ly-xuat-sac-cua-viet-nam-5143452.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Thư viện mang tên nhà vật lý xuất sắc của Việt Nam",
+    "description": "Thư viện lưu giữ gần 2.000 cuốn sách cùng những tư liệu nghiên cứu của cố giáo sư Cao Chi, đặt tại Viện Khoa học và Kỹ thuật hạt nhân, khánh thành sáng 11/11.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/11/179437799749634016088542347292-6620-2303-1794385382.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=nDRgJkRvUH12sEM3eBOrlA",
+    "link": "https://vnexpress.net/thu-vien-mang-ten-nha-vat-ly-xuat-sac-cua-viet-nam-5143452.html",
+    "published_at": "Wed, 11 Nov 2026 16:22:42 +0700",
+    "createAt": "2026-11-11T09:22:42.000Z",
+    "thumbnail_blurhash": "LYI}t?~pE1D*%$t7t5t7tRM{WCof"
   }
 ]
