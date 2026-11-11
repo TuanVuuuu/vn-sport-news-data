@@ -479,5 +479,70 @@
     "published_at": "Thu, 12 Nov 2026 02:00:00 +0700",
     "createAt": "2026-11-11T19:00:00.000Z",
     "thumbnail_blurhash": "LkB|~ug4M|xb%%XAM|o$NLWBjYo$"
+  },
+  {
+    "id": "https://vnexpress.net/vi-sao-ha-noi-nhieu-nam-khong-trien-khai-duoc-quy-hoach-bai-do-xe-5143100.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Vì sao Hà Nội nhiều năm không triển khai được quy hoạch bãi đỗ xe?",
+    "description": "Quỹ đất hạn chế, thủ tục kéo dài, hiệu quả đầu tư thấp, thiếu ưu đãi của nhà nước khiến nhiều khu đất dành cho giao thông tĩnh chưa được đầu tư làm bãi đỗ xe.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/11/huy-1794368153-4410-1794369171.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=8JWYc8mIXQf4yIhnkx9FjQ",
+    "link": "https://vnexpress.net/vi-sao-ha-noi-nhieu-nam-khong-trien-khai-duoc-quy-hoach-bai-do-xe-5143100.html",
+    "published_at": "Thu, 12 Nov 2026 00:00:00 +0700",
+    "createAt": "2026-11-11T17:00:00.000Z",
+    "thumbnail_blurhash": "L7FFy+009t%N00-r?ZMy00~DRND%"
+  },
+  {
+    "id": "https://vnexpress.net/hong-dao-cac-con-khuyen-khich-toi-hen-ho-5142842.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Hồng Đào: 'Các con khuyến khích tôi hẹn hò'",
+    "description": "Diễn viên Hồng Đào cho biết hai con gái Vicky và Sophia động viên chị mở lòng cho mối quan hệ tình cảm mới, sau bảy năm ly hôn.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/11/11/hong-dao-vicky-1794391309-2122-1794391946.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=tj0IQcOt64KitAUZDTfAIw",
+    "link": "https://vnexpress.net/hong-dao-cac-con-khuyen-khich-toi-hen-ho-5142842.html",
+    "published_at": "Thu, 12 Nov 2026 00:00:00 +0700",
+    "createAt": "2026-11-11T17:00:00.000Z",
+    "thumbnail_blurhash": "L5EUS@_214}[.RAJrt%z^gR.$m_3"
+  },
+  {
+    "id": "https://vnexpress.net/nguoi-trung-quoc-bot-san-sale-dip-11-11-5143473.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Người Trung Quốc bớt 'săn sale' dịp 11/11",
+    "description": "Một số người tiêu dùng Trung Quốc giảm chốt đơn dịp khuyến mãi Lễ Độc thân (ngày 11/11) do ưu đãi bớt hấp dẫn và tâm lý thận trọng chi tiêu.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/11/afp-d74p4cq-v1-midres-chinaeco-6585-5029-1794389263.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=9gx3car147e7sirPWZ62jg",
+    "link": "https://vnexpress.net/nguoi-trung-quoc-bot-san-sale-dip-11-11-5143473.html",
+    "published_at": "Thu, 12 Nov 2026 00:00:00 +0700",
+    "createAt": "2026-11-11T17:00:00.000Z",
+    "thumbnail_blurhash": "LODv1fMdMxxa}@R5WCxuv~a1s8xt"
+  },
+  {
+    "id": "https://vnexpress.net/biet-doi-cong-sat-cua-my-tim-cach-bop-nghet-iran-5142969.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Biệt đội 'Cổng Sắt' của Mỹ tìm cách bóp nghẹt Iran",
+    "description": "Quân đội Mỹ lập biệt đội Cổng Sắt nhằm phong tỏa hoàn toàn Iran, nhưng mục tiêu này được cho là khó thành vì những rào cản chính trị và thực địa.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/10/anh1-1794302629-9878-1794302858.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=p8kqCKv7lEgIhsstQPg-Tg",
+    "link": "https://vnexpress.net/biet-doi-cong-sat-cua-my-tim-cach-bop-nghet-iran-5142969.html",
+    "published_at": "Thu, 12 Nov 2026 05:00:00 +0700",
+    "createAt": "2026-11-11T22:00:00.000Z",
+    "thumbnail_blurhash": "LQ8;[ZS5ag%g.TazWCt7o~oIWBR*"
+  },
+  {
+    "id": "https://vnexpress.net/rach-o-nhiem-o-trung-tam-tp-hcm-se-thay-doi-the-nao-5142568.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Rạch ô nhiễm ở trung tâm TP HCM sẽ thay đổi thế nào?",
+    "description": "Những dãy nhà lụp xụp ven rạch Văn Thánh sẽ nhường chỗ cho đường, công viên và lối đi bộ trong dự án cải tạo hơn 8.500 tỷ đồng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/10/blue-train-over-canal-viaduct-1794276349.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=QzKks9t8lieL9RasQ7s0bw",
+    "link": "https://vnexpress.net/rach-o-nhiem-o-trung-tam-tp-hcm-se-thay-doi-the-nao-5142568.html",
+    "published_at": "Thu, 12 Nov 2026 05:00:00 +0700",
+    "createAt": "2026-11-11T22:00:00.000Z",
+    "thumbnail_blurhash": "LUFs3zo[xuN3_NNLWY%2o}xcNGxr"
   }
 ]
