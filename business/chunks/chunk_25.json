@@ -1272,5 +1272,31 @@
     "published_at": "Wed, 11 Nov 2026 15:07:18 +0700",
     "createAt": "2026-11-11T08:07:18.000Z",
     "thumbnail_blurhash": "LjPhvC?B~2It~6R+NIoeNHj[s:oc"
+  },
+  {
+    "id": "https://vnexpress.net/vietjet-khai-thac-ba-duong-bay-ket-noi-viet-nam-philippines-5143438.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Vietjet khai thác ba đường bay kết nối Việt Nam - Philippines",
+    "description": "Vietjet khai trương đường bay TP HCM, Hà Nội - Cebu và TP HCM - Clark với ba chuyến khứ hồi mỗi tuần, mở thêm lựa chọn đi lại giữa hai nước.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/11/anh-viber-1794384730-2597-1794384773.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=FShM8uyCFnqL4P7GVwHGcQ",
+    "link": "https://vnexpress.net/vietjet-khai-thac-ba-duong-bay-ket-noi-viet-nam-philippines-5143438.html",
+    "published_at": "Wed, 11 Nov 2026 15:30:00 +0700",
+    "createAt": "2026-11-11T08:30:00.000Z",
+    "thumbnail_blurhash": "LSKTSp-:WC-:.lRiEeWU.Q%2OXWT"
+  },
+  {
+    "id": "https://vnexpress.net/cong-ty-quan-ly-chuoi-kfc-va-pizza-hut-viet-nam-co-the-doi-chu-5143420.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Công ty quản lý chuỗi KFC và Pizza Hut Việt Nam có thể đổi chủ",
+    "description": "Uni-President Enterprises đang đàm phán mua lại Jardine Restaurant Group, công ty quản lý chuỗi KFC và Pizza Hut ở 5 thị trường châu Á, trong đó có Việt Nam.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/11/image-extractword-1794382410-8866-1794382451.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=W0xxLghHBDfq7_QOdUPFSw",
+    "link": "https://vnexpress.net/cong-ty-quan-ly-chuoi-kfc-va-pizza-hut-viet-nam-co-the-doi-chu-5143420.html",
+    "published_at": "Wed, 11 Nov 2026 16:19:53 +0700",
+    "createAt": "2026-11-11T09:19:53.000Z",
+    "thumbnail_blurhash": "LCIph]}[vj%1,vNutlV?u3OBI:9t"
   }
 ]
