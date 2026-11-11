@@ -63,5 +63,70 @@
     "published_at": "Wed, 11 Nov 2026 05:00:00 +0700",
     "createAt": "2026-11-10T22:00:00.000Z",
     "thumbnail_blurhash": "LDD,WGj19E%2ysWBs=WBpeWUt7WD"
+  },
+  {
+    "id": "https://vnexpress.net/oto-xep-hang-dai-tren-cau-vuot-o-nha-trang-tranh-lu-5143129.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Ôtô xếp hàng dài trên cầu vượt ở Nha Trang tránh lũ",
+    "description": "Lo ngại mưa lớn và các hồ chứa chuẩn bị điều tiết nước gây ngập, hàng chục chủ ôtô đưa xe lên cầu vượt đường sắt ở Nha Trang để bảo vệ tài sản, tối 10/11.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/10/dauxe-1794322248-7306-1794322627.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=tcfkJH00lqNzvul3Bei4Qg",
+    "link": "https://vnexpress.net/oto-xep-hang-dai-tren-cau-vuot-o-nha-trang-tranh-lu-5143129.html",
+    "published_at": "Tue, 10 Nov 2026 22:37:00 +0700",
+    "createAt": "2026-11-10T15:37:00.000Z",
+    "thumbnail_blurhash": "L38;GLHq9%SQGK9FxZjv00yZ==Ri"
+  },
+  {
+    "id": "https://vnexpress.net/chay-showroom-xe-may-dien-o-trung-tam-hue-5143174.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Cháy showroom xe máy điện ở trung tâm Huế",
+    "description": "Showroom xe máy điện trên đường Hà Nội, phường Thuận Hóa, bốc cháy dữ dội, lan sang cả cửa hàng phun xăm liền kề, ngày 11/11.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/11/6382bf08f4904b4ea5dd443f0e4815-2840-5720-1794366969.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=GJWlWx66eqqIuuQ6CH1DhQ&t=image",
+    "link": "https://vnexpress.net/chay-showroom-xe-may-dien-o-trung-tam-hue-5143174.html",
+    "published_at": "Wed, 11 Nov 2026 08:12:32 +0700",
+    "createAt": "2026-11-11T01:12:32.000Z",
+    "thumbnail_blurhash": "LOEK0^119_}WNINbxFxFS3s-R+WW"
+  },
+  {
+    "id": "https://vnexpress.net/dong-nai-co-tan-pho-chu-tich-hdnd-ubnd-5143227.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Đồng Nai có tân Phó chủ tịch HĐND, UBND",
+    "description": "HĐND TP Đồng Nai nhiệm kỳ 2026-2031 bầu Phó chủ tịch HĐND và UBND nhằm kiện toàn lãnh đạo.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/11/2aoborbnufnhnjawvwo9sje5zptmyv-9866-1198-1794366156.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=10o0R-s7a0t1t6XweFlg2A",
+    "link": "https://vnexpress.net/dong-nai-co-tan-pho-chu-tich-hdnd-ubnd-5143227.html",
+    "published_at": "Wed, 11 Nov 2026 09:56:26 +0700",
+    "createAt": "2026-11-11T02:56:26.000Z",
+    "thumbnail_blurhash": "LVJZb|pJW9-O}ASvxu-;vfTIXmjY"
+  },
+  {
+    "id": "https://vnexpress.net/de-xuat-uu-dai-thue-voi-tau-thuyen-khong-nguoi-lai-5143201.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Đề xuất ưu đãi thuế với tàu thuyền không người lái",
+    "description": "Chính phủ đề xuất ưu đãi thuế cho tổ chức, cá nhân đóng mới, hoán cải tàu không người lái; miễn thuế thu nhập doanh nghiệp 5 năm với các dự án chuyển đổi xanh trong lĩnh vực hàng hải, đường thủy.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/11/202611110841176173-1794366558-7165-1794366856.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Xnr-rHOls7BzaAJcXeQYaw",
+    "link": "https://vnexpress.net/de-xuat-uu-dai-thue-voi-tau-thuyen-khong-nguoi-lai-5143201.html",
+    "published_at": "Wed, 11 Nov 2026 10:14:45 +0700",
+    "createAt": "2026-11-11T03:14:45.000Z",
+    "thumbnail_blurhash": "LdL{ks5E-3r;}*n#I]s:I;WVs.af"
+  },
+  {
+    "id": "https://vnexpress.net/phat-trien-du-lich-khong-the-chi-dua-vao-cac-khu-nghi-duong-5143293.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "'Phát triển du lịch không thể chỉ dựa vào các khu nghỉ dưỡng'",
+    "description": "Đại biểu Đặng Ngọc Huy cho rằng du lịch không thể chỉ phát triển trong các khu nghỉ dưỡng mà phải tạo thêm việc làm, thu nhập và lợi ích thiết thực cho người dân địa phương.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/11/202604210859368499-z7746957401-7543-7995-1794372523.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=CF2InEqHjiQ6si16wZ7VPQ",
+    "link": "https://vnexpress.net/phat-trien-du-lich-khong-the-chi-dua-vao-cac-khu-nghi-duong-5143293.html",
+    "published_at": "Wed, 11 Nov 2026 11:42:17 +0700",
+    "createAt": "2026-11-11T04:42:17.000Z",
+    "thumbnail_blurhash": "LEHBSlM_00?v00t8yFD%8^WA?wWX"
   }
 ]

@@ -1272,5 +1272,31 @@
     "published_at": "Wed, 11 Nov 2026 05:00:00 +0700",
     "createAt": "2026-11-10T22:00:00.000Z",
     "thumbnail_blurhash": "LWF=t0~qkq-W_2x]NHnhNGW?kCWA"
+  },
+  {
+    "id": "https://vnexpress.net/nguy-co-voi-an-ninh-quoc-gia-my-neu-ceo-nvidia-yeu-nham-diep-vien-5142684.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Nguy cơ với an ninh quốc gia Mỹ nếu CEO Nvidia 'yêu nhầm điệp viên'",
+    "description": "Việc Jensen Huang ngoại tình với người bị nghi là \"điệp viên\" đang gióng hồi chuông cảnh báo về rủi ro với an ninh quốc gia Mỹ.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/10/AFP20260505A9TU3XUv1HighResUsP-5765-2065-1794282869.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=FG4vaj4YJ7qvY4QVCOnVSQ",
+    "link": "https://vnexpress.net/nguy-co-voi-an-ninh-quoc-gia-my-neu-ceo-nvidia-yeu-nham-diep-vien-5142684.html",
+    "published_at": "Wed, 11 Nov 2026 05:00:00 +0700",
+    "createAt": "2026-11-10T22:00:00.000Z",
+    "thumbnail_blurhash": "LRAw1Jxd1AES%QoHIoS6I-R+$exa"
+  },
+  {
+    "id": "https://vnexpress.net/hai-me-con-bi-4-con-gau-vo-chet-tai-canada-5143153.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Hai mẹ con bị 4 con gấu vồ chết tại Canada",
+    "description": "4 con gấu xám được xác định là thủ phạm gây ra cái chết của hai mẹ con gần đường mòn dành cho người đi bộ đường dài ở Canada.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/11/Canada-1794352812-5381-1794353226.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=PUmLclrcd0ysHPxKPGYH1A",
+    "link": "https://vnexpress.net/hai-me-con-bi-4-con-gau-vo-chet-tai-canada-5143153.html",
+    "published_at": "Wed, 11 Nov 2026 06:46:09 +0700",
+    "createAt": "2026-11-10T23:46:09.000Z",
+    "thumbnail_blurhash": "L7D+;+_17#yCM[^iD$Kj3Z9P=GI^"
   }
 ]

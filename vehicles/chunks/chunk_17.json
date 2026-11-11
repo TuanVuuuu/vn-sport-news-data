@@ -1194,5 +1194,57 @@
     "published_at": "Wed, 11 Nov 2026 07:00:00 +0700",
     "createAt": "2026-11-11T00:00:00.000Z",
     "thumbnail_blurhash": "LeG+XRMwpfW?NKxta#ax9coz$xoc"
+  },
+  {
+    "id": "https://vnexpress.net/khuyen-mai-50-tien-phat-giao-thong-con-no-5143171.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Khuyến mãi 50% tiền phạt giao thông còn nợ",
+    "description": "Chính quyền bang Karnataka mở đợt ưu đãi các khoản phạt giao thông chưa được xử lý, nhưng vô tình khuyến khích người dân cố tình vi phạm.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/11/India1-1794360113-4338-1794360477.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=L1PvvUpdtlyQRTLtwyZwQQ",
+    "link": "https://vnexpress.net/khuyen-mai-50-tien-phat-giao-thong-con-no-5143171.html",
+    "published_at": "Wed, 11 Nov 2026 08:42:17 +0700",
+    "createAt": "2026-11-11T01:42:17.000Z",
+    "thumbnail_blurhash": "LCF$V2Ro%h^+?wNKX9D%9ExbV?Rk"
+  },
+  {
+    "id": "https://vnexpress.net/nguoi-di-xe-may-lao-cam-dau-vao-oto-5143176.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Người đi xe máy lao cắm đầu vào ôtô",
+    "description": "Lái xe bằng một tay và không tập trung quan sát, người đi xe máy húc mạnh vào đuôi ôtô phía trước, hôm 9/11 tại Trần Khát Chân.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/11/ezgif836070b5b7497561-17943577-9343-8821-1794357752.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=2zCsEnF2EgN8VfU3B6cbEQ&t=image",
+    "link": "https://vnexpress.net/nguoi-di-xe-may-lao-cam-dau-vao-oto-5143176.html",
+    "published_at": "Wed, 11 Nov 2026 09:48:19 +0700",
+    "createAt": "2026-11-11T02:48:19.000Z",
+    "thumbnail_blurhash": "LgE:Seo#D%WB~qozIUWA?vkCRjjs"
+  },
+  {
+    "id": "https://vnexpress.net/biet-do-oto-o-dau-neu-khong-phai-long-duong-hay-via-he-5142791.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "'Biết đỗ ôtô ở đâu nếu không phải lòng đường hay vỉa hè?'",
+    "description": "Tôi nghĩ, nếu chỗ đỗ xe ở các thành phố lớn không đáp ứng thì nên đặt ra yêu cầu về chỗ đỗ xe trước khi cho người dân mua xe.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/10/baiguixe-vnexpress1-1794279740-6154-1794280013.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=fnpk0AfP6G6YWLPD8refzw",
+    "link": "https://vnexpress.net/biet-do-oto-o-dau-neu-khong-phai-long-duong-hay-via-he-5142791.html",
+    "published_at": "Wed, 11 Nov 2026 10:27:02 +0700",
+    "createAt": "2026-11-11T03:27:02.000Z",
+    "thumbnail_blurhash": "L5ECIIuj00?IUGO=0JAB5YNM8w~B"
+  },
+  {
+    "id": "https://vnexpress.net/toyota-hoi-sinh-thuong-hieu-scion-ra-mat-xe-tai-mini-5143175.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Toyota hồi sinh thương hiệu Scion, ra mắt xe tải mini",
+    "description": "Mẫu KEI-01 đánh dấu sự hồi sinh của Scion sau 10 năm bị khai tử, đồng thời đánh dấu sự trở lại của thương hiệu này ở thị trường Mỹ.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/11/ScionKei2-1794368354-3136-1794369054.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=II2Y1A5dMQ5AGyuhgUYWgg",
+    "link": "https://vnexpress.net/toyota-hoi-sinh-thuong-hieu-scion-ra-mat-xe-tai-mini-5143175.html",
+    "published_at": "Wed, 11 Nov 2026 10:53:52 +0700",
+    "createAt": "2026-11-11T03:53:52.000Z",
+    "thumbnail_blurhash": "LrH.+^xuofbJO_t7ofbIIAazoIs:"
   }
 ]
