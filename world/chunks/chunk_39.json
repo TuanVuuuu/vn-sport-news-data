@@ -661,5 +661,70 @@
     "published_at": "Thu, 12 Nov 2026 15:28:11 +0700",
     "createAt": "2026-11-12T08:28:11.000Z",
     "thumbnail_blurhash": "LGE:JzjG0FOIk]WC?YtRtkWC$es+"
+  },
+  {
+    "id": "https://vnexpress.net/nha-trang-quoc-hoi-dieu-tra-chinh-quyen-trump-la-hanh-vi-pham-toi-5143733.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Nhà Trắng: Quốc hội điều tra chính quyền Trump là hành vi phạm tội",
+    "description": "Nhà Trắng cảnh báo các nghị sĩ Dân chủ rằng việc họ điều tra chính quyền Trump có thể bị coi là \"hành vi phạm tội trắng trợn\".",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/12/afp202608062289378418v1highres-4307-4716-1794475162.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=MwUN29Ss0CisJdFVwcc5XQ",
+    "link": "https://vnexpress.net/nha-trang-quoc-hoi-dieu-tra-chinh-quyen-trump-la-hanh-vi-pham-toi-5143733.html",
+    "published_at": "Thu, 12 Nov 2026 16:23:42 +0700",
+    "createAt": "2026-11-12T09:23:42.000Z",
+    "thumbnail_blurhash": "LVH21P.7Iq?H~Vx[-oxuR%WBsmWr"
+  },
+  {
+    "id": "https://vnexpress.net/chong-alice-huang-co-the-da-biet-vo-than-mat-voi-ceo-nvidia-tu-lau-5143921.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Chồng Alice Huang 'có thể đã biết vợ thân mật với CEO Nvidia từ lâu'",
+    "description": "Khang Vĩ có thể đã biết về mối quan hệ thân mật giữa vợ là Alice Huang với CEO Nvidia Jensen Huang từ lâu và \"chấp nhận điều này\".",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/12/kang-alice-1794474274-9419-1794475002.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=6VRnePThp2bjEGI804tlTg",
+    "link": "https://vnexpress.net/chong-alice-huang-co-the-da-biet-vo-than-mat-voi-ceo-nvidia-tu-lau-5143921.html",
+    "published_at": "Thu, 12 Nov 2026 16:41:54 +0700",
+    "createAt": "2026-11-12T09:41:54.000Z",
+    "thumbnail_blurhash": "LUJ7%c~WMdv~yDRkaeW-tSbbXSRk"
+  },
+  {
+    "id": "https://vnexpress.net/tong-thong-el-salvador-nho-nguoi-dan-chi-diem-hang-o-bang-dang-de-khong-kich-5143893.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Tổng thống El Salvador nhờ người dân chỉ điểm hang ổ băng đảng để không kích",
+    "description": "Tổng thống El Salvador nhờ người dùng X cung cấp tọa độ khu nhà của băng đảng Haiti, sau đó điều trực thăng phóng rocket tấn công.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/12/ap26304751949491-1794473317-4390-1794473672.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=wepUUl-UnvxuDwSthWibrw",
+    "link": "https://vnexpress.net/tong-thong-el-salvador-nho-nguoi-dan-chi-diem-hang-o-bang-dang-de-khong-kich-5143893.html",
+    "published_at": "Thu, 12 Nov 2026 16:45:11 +0700",
+    "createAt": "2026-11-12T09:45:11.000Z",
+    "thumbnail_blurhash": "LeJ%]?RPof%L~A-pRjxZ%LRja}WW"
+  },
+  {
+    "id": "https://vnexpress.net/tai-sao-ong-trump-muon-dong-minh-boi-hoan-chien-phi-o-iran-5143902.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Tại sao ông Trump muốn đồng minh bồi hoàn chiến phí ở Iran",
+    "description": "Ông Trump nêu ý tưởng Israel và các đồng minh vùng Vịnh hoàn trả chi phí chiến tranh Iran, dường như để xoa dịu công chúng Mỹ sau thất bại bầu cử giữa kỳ.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/12/Artcover16x9-1794471009-7178-1794471302.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=_X3aZDhF7OIHT-trHmne7A",
+    "link": "https://vnexpress.net/tai-sao-ong-trump-muon-dong-minh-boi-hoan-chien-phi-o-iran-5143902.html",
+    "published_at": "Thu, 12 Nov 2026 17:00:00 +0700",
+    "createAt": "2026-11-12T10:00:00.000Z",
+    "thumbnail_blurhash": "LrB$l]HqawV{.mS7R5jEoyoxRPaJ"
+  },
+  {
+    "id": "https://vnexpress.net/chu-sap-khan-han-quoc-gay-sot-vi-khuyen-khach-dung-mua-5143949.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Chủ sạp khăn Hàn Quốc gây sốt vì khuyên khách 'đừng mua'",
+    "description": "Người đàn ông bán khăn quàng cổ ở chợ Namdaemun đang trở thành cái tên nóng nhất mạng xã hội Hàn Quốc nhờ phong cách bán hàng thẳng thắn, hài hước.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/12/1459-1794477225-3517-1794477319.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=wCP3Ltt0LUB3n0UQFlv1eg",
+    "link": "https://vnexpress.net/chu-sap-khan-han-quoc-gay-sot-vi-khuyen-khach-dung-mua-5143949.html",
+    "published_at": "Thu, 12 Nov 2026 17:35:15 +0700",
+    "createAt": "2026-11-12T10:35:15.000Z",
+    "thumbnail_blurhash": "LBEx;O.S4:4n4TR5yX_NtS-;xX#,"
   }
 ]
