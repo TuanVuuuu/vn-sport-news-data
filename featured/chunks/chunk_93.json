@@ -1129,5 +1129,44 @@
     "published_at": "Thu, 12 Nov 2026 14:44:39 +0700",
     "createAt": "2026-11-12T07:44:39.000Z",
     "thumbnail_blurhash": "L8AJfn020O~B0N=|s.W+WFj[t7R%"
+  },
+  {
+    "id": "https://vnexpress.net/no-lon-o-nha-dan-nguoi-dan-ong-tu-vong-5143873.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Nổ lớn ở nhà dân, người đàn ông tử vong",
+    "description": "Tiếng nổ lớn phát ra từ ngôi nhà ở xã Núi Thành khiến người đàn ông 58 tuổi tử vong, nhiều đồ đạc hư hỏng, sáng 12/11.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/12/1794467339319bbf77c0d35ddf7ab9-7902-3803-1794467928.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=hjc9lA8mIe91Zf1eBWyYcw",
+    "link": "https://vnexpress.net/no-lon-o-nha-dan-nguoi-dan-ong-tu-vong-5143873.html",
+    "published_at": "Thu, 12 Nov 2026 14:29:49 +0700",
+    "createAt": "2026-11-12T07:29:49.000Z",
+    "thumbnail_blurhash": "LaFr@fbHV@t7?cR*V@of~qjZV[of"
+  },
+  {
+    "id": "https://vnexpress.net/trung-quoc-yeu-cau-my-ngung-bia-dat-ve-vu-jensen-huang-5143880.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Trung Quốc yêu cầu Mỹ 'ngừng bịa đặt' về vụ Jensen Huang",
+    "description": "Trung Quốc chỉ trích Mỹ đang sử dụng cáo buộc gián điệp trong bê bối ngoại tình của CEO Nvidia để làm cớ \"phong tỏa công nghệ\".",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/12/afp-ar-kinq1dsc09559-v1-highre-7433-2553-1794471033.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=0iuopNxV0khepNRXrTHzsg",
+    "link": "https://vnexpress.net/trung-quoc-yeu-cau-my-ngung-bia-dat-ve-vu-jensen-huang-5143880.html",
+    "published_at": "Thu, 12 Nov 2026 15:28:11 +0700",
+    "createAt": "2026-11-12T08:28:11.000Z",
+    "thumbnail_blurhash": "LGE:JzjG0FOIk]WC?YtRtkWC$es+"
+  },
+  {
+    "id": "https://vnexpress.net/thu-tuong-le-minh-hung-lan-dau-tra-loi-chat-van-5143677.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Thủ tướng Lê Minh Hưng lần đầu trả lời chất vấn",
+    "description": "Chiều 12/11, Thủ tướng Lê Minh Hưng lần đầu trả lời chất vấn trên cương vị người đứng đầu Chính phủ, sau phần đăng đàn của hai Bộ trưởng Tài chính, Khoa học và Công nghệ.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/12/edit-a42i3161-1794463910-2738-1794464017.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=ZDN6-fmE1jn-CpbuQMbdsA",
+    "link": "https://vnexpress.net/thu-tuong-le-minh-hung-lan-dau-tra-loi-chat-van-5143677.html",
+    "published_at": "Thu, 12 Nov 2026 15:45:00 +0700",
+    "createAt": "2026-11-12T08:45:00.000Z",
+    "thumbnail_blurhash": "LBHBe;uj~RxE,*?G4:xt00_N,oxZ"
   }
 ]
