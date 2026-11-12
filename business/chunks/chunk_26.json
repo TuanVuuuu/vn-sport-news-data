@@ -76,5 +76,31 @@
     "published_at": "Thu, 12 Nov 2026 06:00:00 +0700",
     "createAt": "2026-11-11T23:00:00.000Z",
     "thumbnail_blurhash": "LH7pN3UHiuN0PErUNEs-U[VWo#bb"
+  },
+  {
+    "id": "https://vnexpress.net/jetro-viet-nam-khong-don-thuan-la-cu-diem-san-xuat-cua-nhat-ban-5143300.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Jetro: Việt Nam không đơn thuần là cứ điểm sản xuất của Nhật Bản",
+    "description": "Việt Nam từ cứ điểm sản xuất đã thành đối tác chuỗi cung ứng quan trọng, tiềm năng thu hút thêm vốn vào AI, công nghệ số và tăng trưởng xanh, theo đại diện Jetro.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/11/jetro-1794375263-7519-1794375408.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=lAp8rfj9h52voq523Bz-ZQ",
+    "link": "https://vnexpress.net/jetro-viet-nam-khong-don-thuan-la-cu-diem-san-xuat-cua-nhat-ban-5143300.html",
+    "published_at": "Thu, 12 Nov 2026 07:00:00 +0700",
+    "createAt": "2026-11-12T00:00:00.000Z",
+    "thumbnail_blurhash": "LkNmvU%L~qjv~Va#E2oJj[WBayof"
+  },
+  {
+    "id": "https://vnexpress.net/wsj-nvidia-chuan-bi-mien-nhiem-ceo-jensen-huang-5143623.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "WSJ: Nvidia chuẩn bị miễn nhiệm CEO Jensen Huang",
+    "description": "Nguồn tin của WSJ cho biết HĐQT Nvidia có thể sắp họp để quyết định tương lai của lãnh đạo sau bê bối ngoại tình.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/12/Screenshot20261110083913-17944-2854-8079-1794443068.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=AtORI49T1A6gyl7JFBIfCg",
+    "link": "https://vnexpress.net/wsj-nvidia-chuan-bi-mien-nhiem-ceo-jensen-huang-5143623.html",
+    "published_at": "Thu, 12 Nov 2026 07:28:10 +0700",
+    "createAt": "2026-11-12T00:28:10.000Z",
+    "thumbnail_blurhash": "LQF}.t%MT0D%~W?cIURjKjxvRPWA"
   }
 ]
