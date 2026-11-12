@@ -219,5 +219,31 @@
     "published_at": "Thu, 12 Nov 2026 11:20:15 +0700",
     "createAt": "2026-11-12T04:20:15.000Z",
     "thumbnail_blurhash": "L6A]QzIV00s;|-g35tt6ImRk%Of4"
+  },
+  {
+    "id": "https://vnexpress.net/bo-truong-tai-chinh-bat-dau-tra-loi-chat-van-5143644-tong-thuat.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Chuyển 600 hồ sơ mua bán hoá đơn, trốn thuế sang cơ quan công an",
+    "description": "Bộ trưởng Tài chính Ngô Văn Tuấn thừa nhận tình trạng mua bán hóa đơn, trốn thuế vẫn xảy ra, và từ 2022 gần 600 hồ sơ doanh nghiệp có dấu hiệu trốn, gian lận thuế được chuyển sang cơ quan điều tra.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/12/bttaichinh5-1794453187-6182-1794453192.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=sGBTNPD7_gsyR1Wu64_6SQ",
+    "link": "https://vnexpress.net/bo-truong-tai-chinh-bat-dau-tra-loi-chat-van-5143644-tong-thuat.html",
+    "published_at": "Thu, 12 Nov 2026 08:02:32 +0700",
+    "createAt": "2026-11-12T01:02:32.000Z",
+    "thumbnail_blurhash": "LABMPlaL?YwaHrxt01Ip~pae-;og"
+  },
+  {
+    "id": "https://vnexpress.net/lpbank-ba-nam-lien-duoc-visa-vinh-danh-ve-tang-truong-the-tin-dung-5143798.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "LPBank ba năm liền được Visa vinh danh về tăng trưởng thẻ tín dụng",
+    "description": "LPBank nhận giải \"Ngân hàng dẫn đầu về doanh số thanh toán và tăng trưởng vượt trội\" nhờ doanh số giao dịch 9 tháng tăng 85%, thẻ lưu hành vượt 29% so với cùng kỳ.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/12/image001-1794459596-6742-1794459759.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=W9ZgTmGZkX-4DInxIy6kWg",
+    "link": "https://vnexpress.net/lpbank-ba-nam-lien-duoc-visa-vinh-danh-ve-tang-truong-the-tin-dung-5143798.html",
+    "published_at": "Thu, 12 Nov 2026 12:00:00 +0700",
+    "createAt": "2026-11-12T05:00:00.000Z",
+    "thumbnail_blurhash": "LBEMen05wCtVKN?rD|nx00_H-bM{"
   }
 ]
