@@ -102,5 +102,31 @@
     "published_at": "Thu, 12 Nov 2026 09:00:00 +0700",
     "createAt": "2026-11-12T02:00:00.000Z",
     "thumbnail_blurhash": "LEAmxSR%_NRPD#%f4ns:%LRhxtRj"
+  },
+  {
+    "id": "https://vnexpress.net/oto-xe-may/v-car/doanh-so/10-oto-ban-nhieu-nhat-thi-truong-viet-nam-thang-10-5143657.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "10 ôtô bán nhiều nhất thị trường Việt Nam tháng 10",
+    "description": "Xe VinFast giữ 7 vị trí trong top 10, VF 3 bàn giao nhiều nhất với gần 4.000 xe, trong khi Mazda CX-5 bán 1.617 chiếc.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/12/Topxethang10-1794448405-4611-1794448434.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=UFqPD2cU-aYrvkAvea6g0Q",
+    "link": "https://vnexpress.net/oto-xe-may/v-car/doanh-so/10-oto-ban-nhieu-nhat-thi-truong-viet-nam-thang-10-5143657.html",
+    "published_at": "Thu, 12 Nov 2026 09:24:58 +0700",
+    "createAt": "2026-11-12T02:24:58.000Z",
+    "thumbnail_blurhash": "LDG+5S}sxEEM?rowads;0KM_M{%M"
+  },
+  {
+    "id": "https://vnexpress.net/byd-trieu-hoi-xe-vi-lap-sai-vanh-5143624.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "BYD triệu hồi xe vì lắp sai vành",
+    "description": "BYD xác nhận một số xe Da Tang bị lắp nhầm vành do lỗi nhà cung cấp, cam kết thay mới, đền bù chi phí, làm mới hạn bảo hành.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/12/BYDDaTang1-1794450626-3124-1794450898.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=BlW9DNDw-wR_978m0hzNIQ",
+    "link": "https://vnexpress.net/byd-trieu-hoi-xe-vi-lap-sai-vanh-5143624.html",
+    "published_at": "Thu, 12 Nov 2026 10:16:31 +0700",
+    "createAt": "2026-11-12T03:16:31.000Z",
+    "thumbnail_blurhash": "LAFY_h~V4TRj_MNE00M|00bDxvIU"
   }
 ]
