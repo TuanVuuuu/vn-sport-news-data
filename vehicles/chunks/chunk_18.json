@@ -50,5 +50,31 @@
     "published_at": "Thu, 12 Nov 2026 05:00:00 +0700",
     "createAt": "2026-11-11T22:00:00.000Z",
     "thumbnail_blurhash": "L99@*B?^x]j[?v?vx]ae?v.8x]j["
+  },
+  {
+    "id": "https://vnexpress.net/tai-xe-ke-giay-phut-sinh-tu-khi-oto-no-lop-o-120-km-h-5143390.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Tài xế kể giây phút sinh tử khi ôtô nổ lốp ở 120 km/h",
+    "description": "Ôtô bất ngờ nổ lốp khi chạy 120 km/h trên cao tốc, khiến xe chao đảo, tài xế phải ghì chặt vô-lăng để tránh lao vào dải phân cách.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/11/854409851-n-1794379311-8531-1794379541.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=FKGU459AzVErX6PouUNFqg",
+    "link": "https://vnexpress.net/tai-xe-ke-giay-phut-sinh-tu-khi-oto-no-lop-o-120-km-h-5143390.html",
+    "published_at": "Thu, 12 Nov 2026 06:30:00 +0700",
+    "createAt": "2026-11-11T23:30:00.000Z",
+    "thumbnail_blurhash": "LkH1ueO@%2t7~CTJ%2j[-oX9xajs"
+  },
+  {
+    "id": "https://vnexpress.net/ford-everest-ecoboost-hoan-thien-muc-do-em-ai-5142702.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Ford Everest EcoBoost: hoàn thiện mức độ êm ái",
+    "description": "Bên cạnh 4 phiên bản máy dầu, lựa chọn máy xăng 2.3 EcoBoost mang đến gia vị mới cho Ford Everest, thoải mái khi đi phố và đủ sức cho những hành trình dài.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/10/mqp1525jpg-1794271658-9204-1794271740.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=J20j-stUcq8KR3iVVqiaMQ",
+    "link": "https://vnexpress.net/ford-everest-ecoboost-hoan-thien-muc-do-em-ai-5142702.html",
+    "published_at": "Thu, 12 Nov 2026 07:00:00 +0700",
+    "createAt": "2026-11-12T00:00:00.000Z",
+    "thumbnail_blurhash": "L7B:$ys5Mt~o0E9J9GRq9D-.tnW9"
   }
 ]
