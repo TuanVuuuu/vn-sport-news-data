@@ -219,5 +219,44 @@
     "published_at": "Thu, 12 Nov 2026 12:13:30 +0700",
     "createAt": "2026-11-12T05:13:30.000Z",
     "thumbnail_blurhash": "LFE|D6A#T#}*It-:JEIUt-V@roNK"
+  },
+  {
+    "id": "https://vnexpress.net/vi-sao-nau-an-thuong-xuyen-anh-huong-den-da-5143792.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Vì sao nấu ăn thường xuyên ảnh hưởng đến da?",
+    "description": "Dầu mỡ, nhiệt độ cao, bức xạ nhiệt phát ra từ nhà bếp có thể khiến làn da bị sạm và nhanh lão hóa nếu không bảo vệ đúng cách.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/12/1794362561982ccbcafe3a6a15b9e7-4844-5264-1794459236.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=IBJjncOIiCrSgxyVWyvqbw",
+    "link": "https://vnexpress.net/vi-sao-nau-an-thuong-xuyen-anh-huong-den-da-5143792.html",
+    "published_at": "Thu, 12 Nov 2026 13:00:00 +0700",
+    "createAt": "2026-11-12T06:00:00.000Z",
+    "thumbnail_blurhash": "LCG[K78w^+~W_3t,yD-;00.TbwxZ"
+  },
+  {
+    "id": "https://vnexpress.net/mac-ung-thu-gan-sau-nhieu-nam-bo-theo-doi-viem-gan-b-5143782.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Mắc ung thư gan sau nhiều năm bỏ theo dõi viêm gan B",
+    "description": "Không theo dõi viêm gan B định kỳ, bỏ qua điều trị theo chỉ định, anh Thuận, 42 tuổi, phát hiện ung thư gan khi bệnh đã tiến triển, chức năng gan suy giảm.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/12/viem-gan-b-ung-thu-gan-bo-dieu-3537-8851-1794458261.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=16XQdNuVcin-M5uy55ayXw",
+    "link": "https://vnexpress.net/mac-ung-thu-gan-sau-nhieu-nam-bo-theo-doi-viem-gan-b-5143782.html",
+    "published_at": "Thu, 12 Nov 2026 14:00:00 +0700",
+    "createAt": "2026-11-12T07:00:00.000Z",
+    "thumbnail_blurhash": "LGLNob-UMu_2~mE2.AIrM~n$xBR5"
+  },
+  {
+    "id": "https://vnexpress.net/mac-benh-nao-co-nguy-co-dot-quy-5143714.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Mắc bệnh nào có nguy cơ đột quỵ?",
+    "description": "Đột quỵ thường xảy ra đột ngột khi nguồn máu cung cấp cho não gặp gián đoạn hoặc suy giảm, có thể liên quan đến các vấn đề về tim.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/12/434198789353032209056102277665-3149-7005-1794452448.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Fv3mSHyRADt5WkYTUSR6Cg",
+    "link": "https://vnexpress.net/mac-benh-nao-co-nguy-co-dot-quy-5143714.html",
+    "published_at": "Thu, 12 Nov 2026 14:00:00 +0700",
+    "createAt": "2026-11-12T07:00:00.000Z",
+    "thumbnail_blurhash": "LHGb|=}krt.9wZRiM|R.8wIpNGS2"
   }
 ]
