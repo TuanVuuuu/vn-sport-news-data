@@ -804,5 +804,44 @@
     "published_at": "Thu, 12 Nov 2026 07:00:00 +0700",
     "createAt": "2026-11-12T00:00:00.000Z",
     "thumbnail_blurhash": "L7B:$ys5Mt~o0E9J9GRq9D-.tnW9"
+  },
+  {
+    "id": "https://vnexpress.net/dat-da-tran-xuong-cao-toc-chi-thanh-van-phong-5143625.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Đất đá tràn xuống cao tốc Chí Thạnh - Vân Phong",
+    "description": "Mưa lớn khiến đất đá từ taluy tràn xuống hai vị trí trên cao tốc Chí Thạnh - Vân Phong, gây ùn tắc hơn một km, sáng 12/11.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/12/a-nh-ma-n-hi-nh-lu-c-179444195-5001-9956-1794442108.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=T8w7det6Vjv5EmuTk0-U2Q",
+    "link": "https://vnexpress.net/dat-da-tran-xuong-cao-toc-chi-thanh-van-phong-5143625.html",
+    "published_at": "Thu, 12 Nov 2026 07:21:40 +0700",
+    "createAt": "2026-11-12T00:21:40.000Z",
+    "thumbnail_blurhash": "LTDlyn~9%KWYBGM_adflE5E1M{az"
+  },
+  {
+    "id": "https://vnexpress.net/wsj-nvidia-chuan-bi-mien-nhiem-ceo-jensen-huang-5143623.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "WSJ: Nvidia chuẩn bị miễn nhiệm CEO Jensen Huang",
+    "description": "Nguồn tin của WSJ cho biết HĐQT Nvidia có thể sắp họp để quyết định tương lai của lãnh đạo sau bê bối ngoại tình.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/12/Screenshot20261110083913-17944-2854-8079-1794443068.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=AtORI49T1A6gyl7JFBIfCg",
+    "link": "https://vnexpress.net/wsj-nvidia-chuan-bi-mien-nhiem-ceo-jensen-huang-5143623.html",
+    "published_at": "Thu, 12 Nov 2026 07:28:10 +0700",
+    "createAt": "2026-11-12T00:28:10.000Z",
+    "thumbnail_blurhash": "LQF}.t%MT0D%~W?cIURjKjxvRPWA"
+  },
+  {
+    "id": "https://vnexpress.net/bach-khoa-ha-noi-cong-bo-phuong-an-di-doi-cong-parabol-trong-mot-thang-5143626.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Bách khoa Hà Nội công bố phương án di dời cổng Parabol trong một tháng",
+    "description": "Cổng Parabol sẽ được di dời nguyên khối, tốc độ dịch chuyển kiểm soát 2-3 m mỗi giờ, dự kiến xong trong một tháng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/12/parabol-1794442703-7965-1794442732.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=7XKeyjNS4axkabUReOeJcg",
+    "link": "https://vnexpress.net/bach-khoa-ha-noi-cong-bo-phuong-an-di-doi-cong-parabol-trong-mot-thang-5143626.html",
+    "published_at": "Thu, 12 Nov 2026 07:29:01 +0700",
+    "createAt": "2026-11-12T00:29:01.000Z",
+    "thumbnail_blurhash": "LGEWUM.TDiI.u2?bV@M{8wnNbxMd"
   }
 ]
