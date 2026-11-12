@@ -245,5 +245,31 @@
     "published_at": "Thu, 12 Nov 2026 12:00:00 +0700",
     "createAt": "2026-11-12T05:00:00.000Z",
     "thumbnail_blurhash": "LBEMen05wCtVKN?rD|nx00_H-bM{"
+  },
+  {
+    "id": "https://vnexpress.net/cham-hoan-thue-can-bo-phai-chiu-trach-nhiem-5143751.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "'Chậm hoàn thuế, cán bộ phải chịu trách nhiệm'",
+    "description": "Bộ trưởng Ngô Văn Tuấn cho rằng \"lỗi ai, người ấy chịu\", nếu doanh nghiệp đã nộp hồ sơ đúng quy định mà việc hoàn thuế vẫn quá hạn, cán bộ phải chịu trách nhiệm.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/12/hoanthue-1794457878-8921-1794457937.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=V6DG6KviZXJobQh1rJ6HOg",
+    "link": "https://vnexpress.net/cham-hoan-thue-can-bo-phai-chiu-trach-nhiem-5143751.html",
+    "published_at": "Thu, 12 Nov 2026 12:47:27 +0700",
+    "createAt": "2026-11-12T05:47:27.000Z",
+    "thumbnail_blurhash": "LDI}It^*pyw[5700wv-;KlOt-;_3"
+  },
+  {
+    "id": "https://vnexpress.net/gia-tran-phat-dien-lng-hon-3-450-dong-mot-kwh-5143781.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Giá trần phát điện LNG hơn 3.450 đồng một kWh",
+    "description": "Bộ Công Thương nâng giá phát điện tối đa của các nhà máy điện khí LNG lên 3.453,72 đồng một kWh, tăng hơn 126 đồng so với năm 2025.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/12/lng1-1794459198-3189-1794459649.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=PZjCA0vsV4GUcqA4i_02MA",
+    "link": "https://vnexpress.net/gia-tran-phat-dien-lng-hon-3-450-dong-mot-kwh-5143781.html",
+    "published_at": "Thu, 12 Nov 2026 12:58:34 +0700",
+    "createAt": "2026-11-12T05:58:34.000Z",
+    "thumbnail_blurhash": "LvG+]#t7s.of?wt6ayof?ct7ofWC"
   }
 ]
