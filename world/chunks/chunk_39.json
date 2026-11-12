@@ -804,5 +804,31 @@
     "published_at": "Thu, 12 Nov 2026 21:10:57 +0700",
     "createAt": "2026-11-12T14:10:57.000Z",
     "thumbnail_blurhash": "L6C6Ga~qb^-jRpI=nOM{ItM{wbNF"
+  },
+  {
+    "id": "https://vnexpress.net/chu-tich-quoc-hoi-nhan-huy-hieu-cua-hoi-dong-lien-bang-nga-5144048.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Chủ tịch Quốc hội nhận huy hiệu của Hội đồng Liên bang Nga",
+    "description": "Chủ tịch Matvienko trao Huy hiệu danh dự của Hội đồng Liên bang Nga cho Chủ tịch Quốc hội Trần Thanh Mẫn, sau khi hai lãnh đạo hội đàm.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/12/chu-tich-quoc-hoi-bat-tay-1794-5594-2565-1794498104.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=YBZZjy9Ks-B5cxBN8s4UBg",
+    "link": "https://vnexpress.net/chu-tich-quoc-hoi-nhan-huy-hieu-cua-hoi-dong-lien-bang-nga-5144048.html",
+    "published_at": "Thu, 12 Nov 2026 22:42:56 +0700",
+    "createAt": "2026-11-12T15:42:56.000Z",
+    "thumbnail_blurhash": "LVKI#DF3[a$k~BS%EQNLtjR.O?S#"
+  },
+  {
+    "id": "https://vnexpress.net/ong-trump-de-xuat-tim-cook-lam-ceo-nvidia-thay-jensen-huang-5144061.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Ông Trump đề xuất Tim Cook làm CEO Nvidia thay Jensen Huang",
+    "description": "Tổng thống Trump cho rằng cựu CEO Apple nên đảm nhận vị trí lãnh đạo Nvidia sau khi Jensen Huang từ chức.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/12/Trump-1794498962-8138-1794499142.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=Qr2ey-8iMopZw70gcNsmUQ",
+    "link": "https://vnexpress.net/ong-trump-de-xuat-tim-cook-lam-ceo-nvidia-thay-jensen-huang-5144061.html",
+    "published_at": "Thu, 12 Nov 2026 23:19:01 +0700",
+    "createAt": "2026-11-12T16:19:01.000Z",
+    "thumbnail_blurhash": "LXDSg%oz4nIU~Wf+D%V@xuWVV@oy"
   }
 ]
