@@ -128,5 +128,44 @@
     "published_at": "Thu, 12 Nov 2026 10:16:31 +0700",
     "createAt": "2026-11-12T03:16:31.000Z",
     "thumbnail_blurhash": "LAFY_h~V4TRj_MNE00M|00bDxvIU"
+  },
+  {
+    "id": "https://vnexpress.net/noi-lo-thay-pin-cho-xe-dien-cu-5142501.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Nỗi lo thay pin cho xe điện cũ",
+    "description": "Chủ tịch Geely lo ngại việc thay thế pin đắt đỏ có thể khiến nhiều ôtô điện cũ dù còn tốt vẫn bị loại bỏ vì thiếu kinh tế.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/11/Geely1-1794385208-7883-1794386261.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=6ekcMF6cyZeOA2bc0jnV_w",
+    "link": "https://vnexpress.net/noi-lo-thay-pin-cho-xe-dien-cu-5142501.html",
+    "published_at": "Thu, 12 Nov 2026 08:37:18 +0700",
+    "createAt": "2026-11-12T01:37:18.000Z",
+    "thumbnail_blurhash": "LTEz7|RjS*yFyGt8RPRks8ogaJaJ"
+  },
+  {
+    "id": "https://vnexpress.net/subaru-forester-hybrid-gia-1-6-ty-dong-tai-viet-nam-5143629.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Subaru Forester hybrid giá 1,6 tỷ đồng tại Việt Nam",
+    "description": "Từ 11/11, mẫu CUV dẫn động 4 bánh toàn thời gian của Subaru có thêm môtơ điện bổ trợ cho máy xăng Boxer 2,5 lít, nhập khẩu Nhật Bản.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/12/SubaruForesterhybridvnexpress-3540-9046-1794446514.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=R7SO_IAPCcrdrbgRXplVGg",
+    "link": "https://vnexpress.net/subaru-forester-hybrid-gia-1-6-ty-dong-tai-viet-nam-5143629.html",
+    "published_at": "Thu, 12 Nov 2026 11:19:46 +0700",
+    "createAt": "2026-11-12T04:19:46.000Z",
+    "thumbnail_blurhash": "LtJ+49xuWAt7_4s:WCofxuj?WBj@"
+  },
+  {
+    "id": "https://vnexpress.net/vinfast-vf-5-va-vf-6-co-phien-ban-moi-gia-tu-460-trieu-dong-5143761.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "VinFast VF 5 và VF 6 có phiên bản mới, giá từ 460 triệu đồng",
+    "description": "Hai mẫu SUV điện đô thị được VinFast nâng cấp thiết kế, bổ sung tiện nghi và công nghệ, nhận đặt cọc hôm nay, dự kiến giao xe sau Tết Nguyên đán.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/12/3-1794456996-7972-1794457110.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=C214KMA44aEOuIWHT7Z7bQ",
+    "link": "https://vnexpress.net/vinfast-vf-5-va-vf-6-co-phien-ban-moi-gia-tu-460-trieu-dong-5143761.html",
+    "published_at": "Thu, 12 Nov 2026 11:30:00 +0700",
+    "createAt": "2026-11-12T04:30:00.000Z",
+    "thumbnail_blurhash": "LRG8_;~U-5-:.TR.IpxtR*WCtRoe"
   }
 ]
