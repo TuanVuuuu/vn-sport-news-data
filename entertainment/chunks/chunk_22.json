@@ -687,5 +687,31 @@
     "published_at": "Fri, 13 Nov 2026 19:00:00 +0700",
     "createAt": "2026-11-13T12:00:00.000Z",
     "thumbnail_blurhash": "LJHV30_%006$PVVZR5NGH[pI#9n6"
+  },
+  {
+    "id": "https://vnexpress.net/nhan-sac-thoi-tre-cua-nghe-si-hong-dao-5142186.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Nhan sắc thời trẻ của nghệ sĩ Hồng Đào",
+    "description": "Diễn viên Hồng Đào thuở mới vào nghề có nét mộc mạc, nụ cười duyên, từng được nghệ sĩ hài Vân Sơn và nhiều đồng nghiệp khen ngợi nhan sắc.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/11/08/nghe-si-hong-dao-1794129758-3890-1794131519.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=AC5s7Ie_Za4Aux5Nd75QKg",
+    "link": "https://vnexpress.net/nhan-sac-thoi-tre-cua-nghe-si-hong-dao-5142186.html",
+    "published_at": "Sat, 14 Nov 2026 00:00:00 +0700",
+    "createAt": "2026-11-13T17:00:00.000Z",
+    "thumbnail_blurhash": "L8Db.u=}0101?aRjV[xt5mNI~B=_"
+  },
+  {
+    "id": "https://vnexpress.net/thang-long-ke-nghe-dua-di-san-den-gan-khan-gia-5144490.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "'Thăng Long Kẻ Nghệ' đưa di sản đến gần khán giả",
+    "description": "Nghệ sĩ diễn beatbox kết hợp nhạc cụ dân tộc trong chương trình \"Thăng Long Kẻ Nghệ'' khai mạc Lễ hội thiết kế sáng tạo Hà Nội 2026, tối 13/11.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/11/13/thang-long-ke-nghe-1794584192.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=QH0aZNdV_SohBrhP2D5LJg",
+    "link": "https://vnexpress.net/thang-long-ke-nghe-dua-di-san-den-gan-khan-gia-5144490.html",
+    "published_at": "Sat, 14 Nov 2026 00:00:00 +0700",
+    "createAt": "2026-11-13T17:00:00.000Z",
+    "thumbnail_blurhash": "LBCGZD_N00Di00D%t6Ri%g%2X9pI"
   }
 ]
