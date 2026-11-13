@@ -1064,5 +1064,31 @@
     "published_at": "Fri, 13 Nov 2026 12:03:57 +0700",
     "createAt": "2026-11-13T05:03:57.000Z",
     "thumbnail_blurhash": "LjFQCGNMyZIBo+r;j?t7rW${i]R+"
+  },
+  {
+    "id": "https://vnexpress.net/hai-tieu-binh-lien-tiep-ngat-xiu-canh-tong-thong-macron-5144272.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Hai tiêu binh liên tiếp ngất xỉu cạnh Tổng thống Macron",
+    "description": "Hai thành viên đội tiêu binh danh dự Pháp lần lượt gục xuống ngất xỉu khi Tổng thống Macron đón người đồng cấp Slovakia tại Điện Elysee.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/13/ca-nh-ve-nga-t-jpeg-1794546256-1935-1794546381.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=8D7K5LKGNLiU5XNJbOeBBg",
+    "link": "https://vnexpress.net/hai-tieu-binh-lien-tiep-ngat-xiu-canh-tong-thong-macron-5144272.html",
+    "published_at": "Fri, 13 Nov 2026 14:12:23 +0700",
+    "createAt": "2026-11-13T07:12:23.000Z",
+    "thumbnail_blurhash": "LZGa%KxaWBNH~8NHR*Rl=_s:WCWC"
+  },
+  {
+    "id": "https://vnexpress.net/thiet-mang-vi-an-phai-bom-tu-che-5144302.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Thiệt mạng vì ăn phải bom tự chế",
+    "description": "Người đàn ông ở bang Madhya Pradesh thiệt mạng sau khi ăn loại bom tự chế có hình dạng giống bánh ngọt.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/13/banh-an-do-1794553257-8128-1794553460.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=lrjJW9DjKQ-gYTNYH4DIsQ",
+    "link": "https://vnexpress.net/thiet-mang-vi-an-phai-bom-tu-che-5144302.html",
+    "published_at": "Fri, 13 Nov 2026 14:30:03 +0700",
+    "createAt": "2026-11-13T07:30:03.000Z",
+    "thumbnail_blurhash": "L7EBB003E8t3~ArsNbI;0OOq^#Mz"
   }
 ]
