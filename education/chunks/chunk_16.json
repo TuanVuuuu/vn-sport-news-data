@@ -570,5 +570,44 @@
     "published_at": "Fri, 13 Nov 2026 09:19:29 +0700",
     "createAt": "2026-11-13T02:19:29.000Z",
     "thumbnail_blurhash": "LIH.1r_M?G^k.mtR?I-=tQ?I%MRP"
+  },
+  {
+    "id": "https://vnexpress.net/cong-bo-11-phuong-thuc-tuyen-sinh-dai-hoc-tu-nam-2027-5144193.html",
+    "category_id": "education",
+    "category_name": "Giáo dục",
+    "source": "VnExpress",
+    "title": "Công bố 11 phương thức tuyển sinh đại học từ năm 2027",
+    "description": "Số phương thức xét tuyển đại học giảm từ 19 còn 11, nhiều cách xét được gộp thành \"phương thức kết hợp\".",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/13/wm1-wm1-thi-1794539385-4386-1794539403.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=lNLnDI_ejsfXIZa_yIAbYQ",
+    "link": "https://vnexpress.net/cong-bo-11-phuong-thuc-tuyen-sinh-dai-hoc-tu-nam-2027-5144193.html",
+    "published_at": "Fri, 13 Nov 2026 10:23:49 +0700",
+    "createAt": "2026-11-13T03:23:49.000Z",
+    "thumbnail_blurhash": "LEIEw.~q00og00ot?vIT00R#t2bb"
+  },
+  {
+    "id": "https://vnexpress.net/dai-hoc-kinh-te-tp-hcm-nhan-khu-dat-vang-gan-1-800-ty-dong-5144164.html",
+    "category_id": "education",
+    "category_name": "Giáo dục",
+    "source": "VnExpress",
+    "title": "Đại học Kinh tế TP HCM nhận khu đất vàng gần 1.800 tỷ đồng",
+    "description": "Khu đất rộng hơn 5.200 m2 tại số 3 Công trường Quốc tế trị giá gần 1.800 tỷ đồng được Bộ Giáo dục và Đào tạo giao cho Đại học Kinh tế TP HCM quản lý.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/13/wm1-wm1-17945388337567652231216864-8255-4758-1794539854.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=-WsNJZ6XZJ5leWp3bZ_BDg",
+    "link": "https://vnexpress.net/dai-hoc-kinh-te-tp-hcm-nhan-khu-dat-vang-gan-1-800-ty-dong-5144164.html",
+    "published_at": "Fri, 13 Nov 2026 10:48:26 +0700",
+    "createAt": "2026-11-13T03:48:26.000Z",
+    "thumbnail_blurhash": "LLEylAaL00oy_NMy4Txu_NM{IA%M"
+  },
+  {
+    "id": "https://vnexpress.net/de-xuat-dua-du-an-doanh-nghiep-vao-dao-tao-nhan-luc-ban-dan-5144208.html",
+    "category_id": "education",
+    "category_name": "Giáo dục",
+    "source": "VnExpress",
+    "title": "Đề xuất đưa dự án doanh nghiệp vào đào tạo nhân lực bán dẫn",
+    "description": "Đào tạo nhân lực cho ngành bán dẫn cần phối hợp với doanh nghiệp, có dự án thực tế, đánh giá đầu ra, nhằm nâng cao năng lực, đáp ứng nhu cầu thị trường.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/13/dsc00598ok-1794540977-8378-1794541046.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=XTB_p9NobdeNL4gFQf9SxA",
+    "link": "https://vnexpress.net/de-xuat-dua-du-an-doanh-nghiep-vao-dao-tao-nhan-luc-ban-dan-5144208.html",
+    "published_at": "Fri, 13 Nov 2026 11:00:00 +0700",
+    "createAt": "2026-11-13T04:00:00.000Z",
+    "thumbnail_blurhash": "L~7MziflWEbcTOj[ogflaKfQV@f6"
   }
 ]
