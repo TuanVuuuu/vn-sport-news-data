@@ -882,5 +882,31 @@
     "published_at": "Fri, 13 Nov 2026 17:10:50 +0700",
     "createAt": "2026-11-13T10:10:50.000Z",
     "thumbnail_blurhash": "LWJk.fV@?^.So}tRt8t7x]ozIUe."
+  },
+  {
+    "id": "https://vnexpress.net/rung-tram-soi-toc-moi-ngay-do-cang-thang-5144346.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Rụng trăm sợi tóc mỗi ngày do căng thẳng",
+    "description": "Chị Thu, 35 tuổi, rụng 100-200 sợi tóc mỗi ngày do căng thẳng, mất ngủ khiến tóc thưa rõ ở đỉnh đầu và vùng rẽ ngôi sau.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/13/anh-1794556997-4356-1794557133.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=tRMEgjtshtP-aWn_BkV8gw",
+    "link": "https://vnexpress.net/rung-tram-soi-toc-moi-ngay-do-cang-thang-5144346.html",
+    "published_at": "Fri, 13 Nov 2026 18:00:00 +0700",
+    "createAt": "2026-11-13T11:00:00.000Z",
+    "thumbnail_blurhash": "LNMk9bWY~Xk@?a%0={M|x_t8IAE2"
+  },
+  {
+    "id": "https://vnexpress.net/5-do-uong-giau-vitamin-c-giup-tang-cuong-mien-dich-5144124.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "5 đồ uống giàu vitamin C giúp tăng cường miễn dịch",
+    "description": "Nước cam, nước ép ổi, cà chua, chanh cung cấp vitamin C, hỗ trợ hoạt động của tế bào miễn dịch và tăng khả năng bảo vệ cơ thể trước tác nhân gây bệnh.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/13/nuoc-cam2-1794533079-9856-1794533503.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=GNhziqmSHbaEkFIO_PHMqg",
+    "link": "https://vnexpress.net/5-do-uong-giau-vitamin-c-giup-tang-cuong-mien-dich-5144124.html",
+    "published_at": "Fri, 13 Nov 2026 18:00:00 +0700",
+    "createAt": "2026-11-13T11:00:00.000Z",
+    "thumbnail_blurhash": "LINbSm~U3rw}*JD*s;t73rtl,obb"
   }
 ]

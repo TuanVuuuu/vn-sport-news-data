@@ -1,3 +1,43 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/5-nguoi-o-hue-bi-phat-vi-dang-tin-sai-su-that-ve-cac-hieu-truong-5144374.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "5 người ở Huế bị phạt vì đăng tin sai sự thật về 'các hiệu trưởng'",
+      "description": "Lợi dụng việc nhiều hiệu trưởng tiểu học xin từ chức, 5 người đăng tin gán ghép các cá nhân với hành vi mại dâm, buôn bán ma túy, vi phạm an toàn thực phẩm, bị phạt tổng cộng 62,5 triệu đồng.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/13/1794558959174-2790449847532168-1886-7300-1794560149.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=VAiK8woJzHZCRGkDdaEC5A",
+      "link": "https://vnexpress.net/5-nguoi-o-hue-bi-phat-vi-dang-tin-sai-su-that-ve-cac-hieu-truong-5144374.html",
+      "published_at": "Fri, 13 Nov 2026 16:07:58 +0700",
+      "createAt": "2026-11-13T09:07:58.000Z",
+      "thumbnail_blurhash": "LYIE%}kWIUxu~px]o2Ri%MW.axoe"
+    },
+    {
+      "id": "https://vnexpress.net/cam-chieu-tao-khan-hiem-gia-ep-nguoi-dung-mua-hang-online-5144339.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Cấm chiêu tạo khan hiếm giả, ép người dùng mua hàng online",
+      "description": "Từ 1/7/2027, các website, ứng dụng trực tuyến sẽ bị cấm hiển thị sai số lượng hàng để tạo cảm giác khan hiếm giả, ép người tiêu dùng mua hàng.",
+      "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/13/le-manh-hung-1794558524-6218-1794558744.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=hal5Rka3iEJMmywDDAdQDg",
+      "link": "https://vnexpress.net/cam-chieu-tao-khan-hiem-gia-ep-nguoi-dung-mua-hang-online-5144339.html",
+      "published_at": "Fri, 13 Nov 2026 16:16:48 +0700",
+      "createAt": "2026-11-13T09:16:48.000Z",
+      "thumbnail_blurhash": "LNJa760T-2$u~1n#E9W?R$WAogbJ"
+    },
+    {
+      "id": "https://vnexpress.net/nhung-bat-thuong-trong-vu-nam-sinh-bi-tha-xuong-song-5144293.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Những bất thường trong vụ nam sinh bị thả xuống sông",
+      "description": "Gia đình Hồ Xuân Quân, 18 tuổi, cho rằng lời kể của người bạn đã thả nam sinh xuống sông gây tử vong có nhiều điểm chưa phù hợp với những thông tin họ thu thập được.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/13/tim-kiem-thi-the-quan-17945584-3085-5775-1794559030.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=rrjIpoY70y-ExPKkNOoHfw",
+      "link": "https://vnexpress.net/nhung-bat-thuong-trong-vu-nam-sinh-bi-tha-xuong-song-5144293.html",
+      "published_at": "Fri, 13 Nov 2026 16:19:18 +0700",
+      "createAt": "2026-11-13T09:19:18.000Z",
+      "thumbnail_blurhash": "LmIE|YxutRWB%gt7WBoz_NtRs;j@"
+    }
+  ]
 }
