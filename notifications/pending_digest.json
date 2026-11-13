@@ -1,6 +1,19 @@
 {
   "featured": [
     {
+      "id": "https://vnexpress.net/nhung-cuoc-xe-0-dong-cua-luat-su-va-loi-hen-voi-benh-nhi-mac-benh-hiem-ngheo-5143362.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Những 'cuốc xe 0 đồng' của luật sư và lời hẹn với bệnh nhi mắc bệnh hiểm nghèo",
+      "description": "Ngại xin hỗ trợ xe chở ra bến vì \"lỡ có bệnh nhân khác cần hơn\", người mẹ gửi tin nhắn rồi lại thu hồi, ngay sau đó có người gọi cho chị báo: \"Yên tâm nhé, mai anh đến đón ba mẹ con, vé xe khách về quê cũng có người trả rồi\".",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/12/wm1-wm1-2aoboragxmba1veh0awyasnn3w-5263-3995-1794467038.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=eSggUWhfjuOzeZ9b__bhzQ",
+      "link": "https://vnexpress.net/nhung-cuoc-xe-0-dong-cua-luat-su-va-loi-hen-voi-benh-nhi-mac-benh-hiem-ngheo-5143362.html",
+      "published_at": "Fri, 13 Nov 2026 00:00:00 +0700",
+      "createAt": "2026-11-12T17:00:00.000Z",
+      "thumbnail_blurhash": "LNEo_4oft6-:I-t7M|xu~qogs;xu"
+    },
+    {
       "id": "https://vnexpress.net/gia-ve-may-bay-tet-dinh-mui-nhieu-chang-tang-nhanh-5143344.html",
       "category_id": "featured",
       "category_name": "Tin nổi bật",
@@ -64,6 +77,58 @@
       "published_at": "Fri, 13 Nov 2026 07:57:53 +0700",
       "createAt": "2026-11-13T00:57:53.000Z",
       "thumbnail_blurhash": "L6A0,Z~n4p04xR~osq8}008_~9~T"
+    },
+    {
+      "id": "https://vnexpress.net/jensen-huang-bi-yeu-cau-ra-dieu-tran-truoc-uy-ban-thuong-vien-my-5144110.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Jensen Huang bị yêu cầu ra điều trần trước ủy ban Thượng viện Mỹ",
+      "description": "Jensen Huang và Bộ trưởng Thương mại Lutnick bị yêu cầu ra điều trần trước Ủy ban Ngân hàng Thượng viện về diễn biến gần đây tại Nvidia.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/13/jensen-huang-1794532249-3272-1794532591.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=8dVrfTg4gU1swfjzBy7Pzw",
+      "link": "https://vnexpress.net/jensen-huang-bi-yeu-cau-ra-dieu-tran-truoc-uy-ban-thuong-vien-my-5144110.html",
+      "published_at": "Fri, 13 Nov 2026 08:31:05 +0700",
+      "createAt": "2026-11-13T01:31:05.000Z",
+      "thumbnail_blurhash": "LuG+Q{R%p0My~VaebdkC%KWBbbt6"
+    },
+    {
+      "id": "https://vnexpress.net/phat-hien-4-vat-the-nghi-dau-dan-105-mm-tai-hien-truong-vu-no-chet-nguoi-5144128.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Phát hiện 4 vật thể nghi đầu đạn 105 mm tại hiện trường vụ nổ chết người",
+      "description": "Khám nghiệm hiện trường vụ nổ khiến người đàn ông 58 tuổi tử vong tại xã Núi Thành, lực lượng chức năng phát hiện 4 vật thể bằng sắt nghi là đầu đạn 105 mm.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/13/1794469583756dc83709122d28bb56-6498-7511-1794533484.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=29xQmVYNkm6FK3wMVhlVPA",
+      "link": "https://vnexpress.net/phat-hien-4-vat-the-nghi-dau-dan-105-mm-tai-hien-truong-vu-no-chet-nguoi-5144128.html",
+      "published_at": "Fri, 13 Nov 2026 08:43:17 +0700",
+      "createAt": "2026-11-13T01:43:17.000Z",
+      "thumbnail_blurhash": "LTE3M6%MRjxu?vf+jFt7_Nt7V@t7"
+    },
+    {
+      "id": "https://vnexpress.net/bo-truong-tu-phap-my-chua-co-ket-luan-alice-huang-la-diep-vien-5144129.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Bộ trưởng Tư pháp Mỹ: Chưa có kết luận Alice Huang là điệp viên",
+      "description": "Bộ trưởng Todd Blanche cho biết FBI đang điều tra cáo buộc Alice Huang làm việc cho tình báo Trung Quốc và chưa có kết luận chính thức.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/13/todd-blanch-1794533410-5749-1794533496.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=0WkfWTPBNrDtRBkL56lq6w",
+      "link": "https://vnexpress.net/bo-truong-tu-phap-my-chua-co-ket-luan-alice-huang-la-diep-vien-5144129.html",
+      "published_at": "Fri, 13 Nov 2026 08:55:40 +0700",
+      "createAt": "2026-11-13T01:55:40.000Z",
+      "thumbnail_blurhash": "LWC?mADjE+NL%jMyt9S7D*xuadXA"
+    },
+    {
+      "id": "https://vnexpress.net/ha-noi-phe-duyet-dieu-chinh-quy-hoach-phan-khu-song-hong-5144105.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Hà Nội phê duyệt điều chỉnh quy hoạch phân khu sông Hồng",
+      "description": "Chủ tịch TP Hà Nội vừa ký phê duyệt Quy hoạch phân khu đô thị sông Hồng, tỷ lệ 1/5.000, đoạn từ cầu Hồng Hà đến cầu Mễ Sở, quy mô nghiên cứu trên 11.418 ha.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/13/a2-1794536256-9662-1794536278.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ncvotbIsHVCRO_n9GQ39hQ",
+      "link": "https://vnexpress.net/ha-noi-phe-duyet-dieu-chinh-quy-hoach-phan-khu-song-hong-5144105.html",
+      "published_at": "Fri, 13 Nov 2026 09:08:42 +0700",
+      "createAt": "2026-11-13T02:08:42.000Z",
+      "thumbnail_blurhash": "LsDwgmj[axof.Ta|kBog%Mj[j]fi"
     }
   ]
 }
