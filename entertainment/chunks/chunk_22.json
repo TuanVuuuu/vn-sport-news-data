@@ -596,5 +596,31 @@
     "published_at": "Fri, 13 Nov 2026 11:32:17 +0700",
     "createAt": "2026-11-13T04:32:17.000Z",
     "thumbnail_blurhash": "LJD+PM9a=Y~BD%-:ogRQOFnin*I;"
+  },
+  {
+    "id": "https://vnexpress.net/van-mai-huong-hat-mung-dam-cuoi-chien-si-truong-sa-5144148.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Văn Mai Hương hát mừng đám cưới chiến sĩ Trường Sa",
+    "description": "Êkíp \"Sao nhập ngũ\" làm lễ cưới cho chiến sĩ Minh Hiếu và bạn gái Khánh Hà ở Trường Sa, Văn Mai Hương dắt tay cô dâu khi hát bài \"Cầu hôn\".",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/11/13/ban-sao-cua-ann09669-179453824-9544-7728-1794538775.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=c_Gk5c7O1Mf8L9rAVXAO5w",
+    "link": "https://vnexpress.net/van-mai-huong-hat-mung-dam-cuoi-chien-si-truong-sa-5144148.html",
+    "published_at": "Fri, 13 Nov 2026 13:37:45 +0700",
+    "createAt": "2026-11-13T06:37:45.000Z",
+    "thumbnail_blurhash": "L7E.Li9I000000%3xw_NLN%M].IS"
+  },
+  {
+    "id": "https://vnexpress.net/phong-cach-thanh-lich-cua-colette-kress-ceo-tam-quyen-nvidia-5144219.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Phong cách thanh lịch của Colette Kress, CEO tạm quyền Nvidia",
+    "description": "Bà Colette Kress, CEO tạm quyền của Nvidia, gây ấn tượng với cách phối đồ chỉn chu, kín đáo.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/11/13/colettekress2-1794542577-6294-1794542891.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=3hr67cWXOHkNz1eeaA_Rqw",
+    "link": "https://vnexpress.net/phong-cach-thanh-lich-cua-colette-kress-ceo-tam-quyen-nvidia-5144219.html",
+    "published_at": "Fri, 13 Nov 2026 14:32:46 +0700",
+    "createAt": "2026-11-13T07:32:46.000Z",
+    "thumbnail_blurhash": "LCBWVxozI:tS9G%MIoE1_4fl%M%M"
   }
 ]
