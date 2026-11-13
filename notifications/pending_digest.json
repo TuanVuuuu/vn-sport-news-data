@@ -1,6 +1,19 @@
 {
   "featured": [
     {
+      "id": "https://vnexpress.net/cong-bo-11-phuong-thuc-tuyen-sinh-dai-hoc-tu-nam-2027-5144193.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Công bố 11 phương thức tuyển sinh đại học từ năm 2027",
+      "description": "Số phương thức xét tuyển đại học giảm từ 19 còn 11, nhiều cách xét được gộp thành \"phương thức kết hợp\".",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/13/wm1-wm1-thi-1794539385-4386-1794539403.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=lNLnDI_ejsfXIZa_yIAbYQ",
+      "link": "https://vnexpress.net/cong-bo-11-phuong-thuc-tuyen-sinh-dai-hoc-tu-nam-2027-5144193.html",
+      "published_at": "Fri, 13 Nov 2026 10:23:49 +0700",
+      "createAt": "2026-11-13T03:23:49.000Z",
+      "thumbnail_blurhash": "LEIEw.~q00og00ot?vIT00R#t2bb"
+    },
+    {
       "id": "https://vnexpress.net/dai-hoc-kinh-te-tp-hcm-nhan-khu-dat-vang-gan-1-800-ty-dong-5144164.html",
       "category_id": "featured",
       "category_name": "Tin nổi bật",
@@ -144,6 +157,19 @@
       "thumbnail_blurhash": "LpI}x8s8t8xu_4V?WYt7NIRPofj]"
     },
     {
+      "id": "https://vnexpress.net/no-cua-hang-gas-khien-day-nha-do-sap-mot-nguoi-chet-5144277.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Nổ cửa hàng gas khiến dãy nhà đổ sập, một người chết",
+      "description": "Cửa hàng gas phát nổ làm sập dãy nhà trên đường Bùi Văn Ba, phường Tân Thuận (quận 7 cũ), khiến một người chết, 12 người bị thương trưa 13/11.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/13/1794553148778-g285941118706946-5110-9234-1794556936.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=EGKAff2v5BtO9LFO8m8iDQ",
+      "link": "https://vnexpress.net/no-cua-hang-gas-khien-day-nha-do-sap-mot-nguoi-chet-5144277.html",
+      "published_at": "Fri, 13 Nov 2026 12:05:35 +0700",
+      "createAt": "2026-11-13T05:05:35.000Z",
+      "thumbnail_blurhash": "LqJ8L*s8t8xu_4V?WYt7NHRPofj]"
+    },
+    {
       "id": "https://vnexpress.net/phat-hien-xe-may-cua-du-khach-kuwait-mat-tich-tai-deo-o-quy-ho-5144253.html",
       "category_id": "featured",
       "category_name": "Tin nổi bật",
@@ -233,6 +259,32 @@
       "published_at": "Fri, 13 Nov 2026 13:48:07 +0700",
       "createAt": "2026-11-13T06:48:07.000Z",
       "thumbnail_blurhash": "LaG]ErxuD%WB_NozWBoft7ofaet7"
+    },
+    {
+      "id": "https://vnexpress.net/13-nan-nhan-vu-no-cua-hang-gas-bi-chan-thuong-vung-dau-tay-chan-5144333.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "13 nạn nhân vụ nổ cửa hàng gas bị chấn thương vùng đầu, tay chân",
+      "description": "13 người được đưa đến các bệnh viện cấp cứu sau vụ nổ cửa hàng gas làm sập nhiều nhà, tổn thương chủ yếu ở vùng đầu, mặt, tay chân, trong đó một trường hợp đã tử vong.",
+      "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/13/wm1-wm1-capcuu-1794557697-9205-1794557702.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=C_qoKgciYhFgAHEHJeQzfA",
+      "link": "https://vnexpress.net/13-nan-nhan-vu-no-cua-hang-gas-bi-chan-thuong-vung-dau-tay-chan-5144333.html",
+      "published_at": "Fri, 13 Nov 2026 15:06:19 +0700",
+      "createAt": "2026-11-13T08:06:19.000Z",
+      "thumbnail_blurhash": "LEJG.{uf5O}0{wp{IVqt-UGD$+R4"
+    },
+    {
+      "id": "https://vnexpress.net/cong-an-truy-tim-nguoi-tung-tin-sai-su-that-ve-giam-doc-so-giao-duc-hue-5144353.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Công an truy tìm người tung tin sai sự thật về Giám đốc Sở Giáo dục Huế",
+      "description": "Công an TP Huế đang truy tìm nguồn phát tán thông tin có dấu hiệu bịa đặt, xuyên tạc về ông Nguyễn Tân, Giám đốc Sở Giáo dục và Đào tạo, sau đề nghị xác minh của cơ quan này.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/13/vne-1794559403-6599-1794559575.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=goaJ3Sk0JbwApvSsBUpd_g",
+      "link": "https://vnexpress.net/cong-an-truy-tim-nguoi-tung-tin-sai-su-that-ve-giam-doc-so-giao-duc-hue-5144353.html",
+      "published_at": "Fri, 13 Nov 2026 15:39:04 +0700",
+      "createAt": "2026-11-13T08:39:04.000Z",
+      "thumbnail_blurhash": "L7Hv4kKk4mv#DN^Pb#My.AS|r^Mx"
     }
   ]
 }
