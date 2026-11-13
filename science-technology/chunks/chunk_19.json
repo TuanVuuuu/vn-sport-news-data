@@ -752,5 +752,44 @@
     "published_at": "Fri, 13 Nov 2026 12:04:04 +0700",
     "createAt": "2026-11-13T05:04:04.000Z",
     "thumbnail_blurhash": "LLBDNlDN~WDj$.slngjcMzS8M_kS"
+  },
+  {
+    "id": "https://vnexpress.net/doanh-nghiep-va-nguoi-dung-dinh-tre-giao-dich-vi-microsoft-gap-su-co-5144222.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Doanh nghiệp và người dùng đình trệ giao dịch vì Microsoft gặp sự cố",
+    "description": "Nhiều người dùng trong nước cho biết không thể sử dụng được các dịch vụ như Outlook, Teams, OneDrive, SharePoint, khiến công việc và học tập bị gián đoạn, sáng 13/11.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/13/DSC02328JPG-1794544630-6564-1794544696.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=vSaq8j_w8BqoGFQCD9WLhg",
+    "link": "https://vnexpress.net/doanh-nghiep-va-nguoi-dung-dinh-tre-giao-dich-vi-microsoft-gap-su-co-5144222.html",
+    "published_at": "Fri, 13 Nov 2026 12:04:04 +0700",
+    "createAt": "2026-11-13T05:04:04.000Z",
+    "thumbnail_blurhash": "LLBDNlDN~WDj$.slngjcMzS8M_kS"
+  },
+  {
+    "id": "https://vnexpress.net/bo-truong-vu-hai-quan-phai-bao-ve-bi-mat-thong-tin-nguoi-dung-dich-vu-buu-chinh-5144261.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Bộ trưởng Vũ Hải Quân: Phải bảo vệ bí mật thông tin người dùng dịch vụ bưu chính",
+    "description": "Bộ trưởng Khoa học và Công nghệ Vũ Hải Quân cho biết dự thảo Luật Bưu chính sửa đổi tăng cường bảo vệ bí mật thư tín, thông tin cá nhân và quyền lợi người dùng trong hoạt động giao nhận hàng hóa.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/13/2aoborchovte5sb1jtv3gjo7qemztt-7699-5505-1794546737.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=FiA-Lid76dI0iKGvDmr_CA",
+    "link": "https://vnexpress.net/bo-truong-vu-hai-quan-phai-bao-ve-bi-mat-thong-tin-nguoi-dung-dich-vu-buu-chinh-5144261.html",
+    "published_at": "Fri, 13 Nov 2026 12:12:17 +0700",
+    "createAt": "2026-11-13T05:12:17.000Z",
+    "thumbnail_blurhash": "L9CYm-01w?nMHq~p0MRk~VDib_Si"
+  },
+  {
+    "id": "https://vnexpress.net/chu-doanh-nghiep-thoi-ai-can-lam-ceo-theo-cach-moi-5144015.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Chủ doanh nghiệp thời AI cần làm CEO theo cách mới",
+    "description": "Trí tuệ nhân tạo (AI) đang đặt ra yêu cầu thay đổi cả trong lãnh đạo, quản trị và quản lý của CEO tại các doanh nghiệp, theo ông Nguyễn Mạnh Hùng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/12/nmh-1794485944-3964-1794485959.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ZF8pSV9PnW0w3_sRkEu4iw",
+    "link": "https://vnexpress.net/chu-doanh-nghiep-thoi-ai-can-lam-ceo-theo-cach-moi-5144015.html",
+    "published_at": "Fri, 13 Nov 2026 12:24:25 +0700",
+    "createAt": "2026-11-13T05:24:25.000Z",
+    "thumbnail_blurhash": "LhNwZv?w.TRk?cMxtSadE2t7slbG"
   }
 ]
