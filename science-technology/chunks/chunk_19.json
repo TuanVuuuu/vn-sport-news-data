@@ -648,5 +648,31 @@
     "published_at": "Fri, 13 Nov 2026 05:37:50 +0700",
     "createAt": "2026-11-12T22:37:50.000Z",
     "thumbnail_blurhash": "LHC6lo~X0zJ.759^R4Z~B?o~^P$+"
+  },
+  {
+    "id": "https://vnexpress.net/loi-di-cho-startup-ai-giua-cuoc-choi-cua-nhung-ong-lon-5143965.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Lối đi cho startup AI giữa cuộc chơi của những ông lớn",
+    "description": "Dù OpenAI, Google và Anthropic chiếm ưu thế, các startup AI vẫn hút vốn lớn nhờ nhu cầu ứng dụng, giải pháp chuyên ngành và \"ngách\" thị trường mới.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/12/vinbrain-1794479791-2021-1794479955.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=RI0IKdBO77JruELxUlLnoA",
+    "link": "https://vnexpress.net/loi-di-cho-startup-ai-giua-cuoc-choi-cua-nhung-ong-lon-5143965.html",
+    "published_at": "Fri, 13 Nov 2026 07:00:00 +0700",
+    "createAt": "2026-11-13T00:00:00.000Z",
+    "thumbnail_blurhash": "LOHUY1-p1xt2.Txu+]bc_NxV=xoM"
+  },
+  {
+    "id": "https://vnexpress.net/hang-loat-dich-vu-microsoft-gap-su-co-5144089.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Hàng loạt dịch vụ Microsoft gặp sự cố",
+    "description": "Hàng chục nghìn người phản ánh Microsoft 365, Outlook, Teams và các dịch vụ khác của Microsoff gặp sự cố không thể truy cập, hoặc kết nối không ổn định.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/13/logohangcongnghe07453687053885-1673-3576-1794530139.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=9epmqcZZAyW3WgmcAyLo0g",
+    "link": "https://vnexpress.net/hang-loat-dich-vu-microsoft-gap-su-co-5144089.html",
+    "published_at": "Fri, 13 Nov 2026 07:57:53 +0700",
+    "createAt": "2026-11-13T00:57:53.000Z",
+    "thumbnail_blurhash": "L6A0,Z~n4p04xR~osq8}008_~9~T"
   }
 ]
