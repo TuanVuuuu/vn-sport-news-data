@@ -947,5 +947,44 @@
     "published_at": "Fri, 13 Nov 2026 20:00:00 +0700",
     "createAt": "2026-11-13T13:00:00.000Z",
     "thumbnail_blurhash": "L9Kd}J0000IA00oeR*4n00~qs:4m"
+  },
+  {
+    "id": "https://vnexpress.net/tuong-ung-thu-hoa-ra-u-can-do-hep-bao-quy-dau-5144335.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Tưởng ung thư hóa ra ứ cặn do hẹp bao quy đầu",
+    "description": "Nam sinh đại học 20 tuổi ở Đài Loan khóc suốt ba ngày sau khi sờ thấy khối cứng ở vùng kín và tra cứu trên công cụ trí tuệ nhân tạo (AI), tin mình mắc ung thư dương vật.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/13/00-1794556230-4283-1794556238.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=IptRPKQnqtyDyHWR4dFahA",
+    "link": "https://vnexpress.net/tuong-ung-thu-hoa-ra-u-can-do-hep-bao-quy-dau-5144335.html",
+    "published_at": "Sat, 14 Nov 2026 00:02:00 +0700",
+    "createAt": "2026-11-13T17:02:00.000Z",
+    "thumbnail_blurhash": "LJHn:0uL+X-=~1^j?aIT%O#8${kq"
+  },
+  {
+    "id": "https://vnexpress.net/sai-lam-khien-an-kieng-ngat-ngheo-nhung-can-nang-van-tang-5143962.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Sai lầm khiến ăn kiêng ngặt nghèo nhưng cân nặng vẫn tăng",
+    "description": "Ngủ dưới 6-7 tiếng mỗi đêm kéo dài không chỉ gây mệt mỏi mà còn tạo ra \"cơn bão sinh học\" làm đảo lộn nội tiết, chuyển hóa, khiến nỗ lực giữ dáng thất bại.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/12/screenshot-at-1794476999-7023-1794477095.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=xMN8adnHGFluQ39rxEAycg",
+    "link": "https://vnexpress.net/sai-lam-khien-an-kieng-ngat-ngheo-nhung-can-nang-van-tang-5143962.html",
+    "published_at": "Sat, 14 Nov 2026 00:03:00 +0700",
+    "createAt": "2026-11-13T17:03:00.000Z",
+    "thumbnail_blurhash": "L47ArG5U0%}:?GogE3xY9G-TIqER"
+  },
+  {
+    "id": "https://vnexpress.net/vi-sao-nguoi-tieu-duong-mac-benh-than-ma-khong-biet-5143874.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Vì sao người tiểu đường mắc bệnh thận mà không biết?",
+    "description": "Người mắc tiểu đường có thể bị tổn thương thận trong nhiều năm mà không nhận thấy dấu hiệu bất thường do bệnh tiến triển chậm và ít biểu hiện ở giai đoạn đầu.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/12/gemini-generated-imagehchyf2hc-3983-9880-1794469470.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=WsZL85qGoBmmaYVYM5ghgw",
+    "link": "https://vnexpress.net/vi-sao-nguoi-tieu-duong-mac-benh-than-ma-khong-biet-5143874.html",
+    "published_at": "Sat, 14 Nov 2026 00:03:00 +0700",
+    "createAt": "2026-11-13T17:03:00.000Z",
+    "thumbnail_blurhash": "LYN]w,XSxu$j$*WVtRs:_Nt7kWof"
   }
 ]
