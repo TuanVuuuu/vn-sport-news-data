@@ -830,5 +830,31 @@
     "published_at": "Fri, 13 Nov 2026 17:20:33 +0700",
     "createAt": "2026-11-13T10:20:33.000Z",
     "thumbnail_blurhash": "LWH-=Q%e_4xuI;WBWWR*n2RkD%Rj"
+  },
+  {
+    "id": "https://vnexpress.net/vi-sao-su-co-microsoft-keo-dai-bat-thuong-5144362.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Vì sao sự cố Microsoft kéo dài bất thường?",
+    "description": "Sự cố kéo dài hơn nửa ngày ảnh hưởng hàng loạt dịch vụ Microsoft trên toàn cầu được cho là liên quan đến lỗi máy chủ và khó khắc phục.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/13/img42942jpg-1794566885-1359-1794567411.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=zpXh5V2DtG9nz4N20NNl6Q",
+    "link": "https://vnexpress.net/vi-sao-su-co-microsoft-keo-dai-bat-thuong-5144362.html",
+    "published_at": "Fri, 13 Nov 2026 18:20:00 +0700",
+    "createAt": "2026-11-13T11:20:00.000Z",
+    "thumbnail_blurhash": "L3GI7P000005CA0M~8-p00icyX-p"
+  },
+  {
+    "id": "https://vnexpress.net/sinh-vien-viet-dung-ai-phat-hien-lo-hong-7-zip-5144449.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Sinh viên Việt dùng AI phát hiện lỗ hổng 7-Zip",
+    "description": "Nguyễn Trần Thanh Lâm, du học sinh tại Singapore, phát hiện lỗ hổng \"nghiêm trọng cao\" tồn tại trên phần mềm giải nén 7-Zip bằng AI Claude.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/13/7ZipVulnerabilitiesAllowingRem-8309-6809-1794570603.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=9ywtieLIAPNGvSKgr_lRQw",
+    "link": "https://vnexpress.net/sinh-vien-viet-dung-ai-phat-hien-lo-hong-7-zip-5144449.html",
+    "published_at": "Fri, 13 Nov 2026 19:00:42 +0700",
+    "createAt": "2026-11-13T12:00:42.000Z",
+    "thumbnail_blurhash": "LBCP#9S#00ni~CNuIAs:00NZ~qxa"
   }
 ]
