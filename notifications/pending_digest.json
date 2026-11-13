@@ -1,3 +1,108 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/dai-hoc-kinh-te-tp-hcm-nhan-khu-dat-vang-gan-1-800-ty-dong-5144164.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Đại học Kinh tế TP HCM nhận khu đất vàng gần 1.800 tỷ đồng",
+      "description": "Khu đất rộng hơn 5.200 m2 tại số 3 Công trường Quốc tế trị giá gần 1.800 tỷ đồng được Bộ Giáo dục và Đào tạo giao cho Đại học Kinh tế TP HCM quản lý.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/13/wm1-wm1-17945388337567652231216864-8255-4758-1794539854.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=-WsNJZ6XZJ5leWp3bZ_BDg",
+      "link": "https://vnexpress.net/dai-hoc-kinh-te-tp-hcm-nhan-khu-dat-vang-gan-1-800-ty-dong-5144164.html",
+      "published_at": "Fri, 13 Nov 2026 10:48:26 +0700",
+      "createAt": "2026-11-13T03:48:26.000Z",
+      "thumbnail_blurhash": "LLEylAaL00oy_NMy4Txu_NM{IA%M"
+    },
+    {
+      "id": "https://vnexpress.net/iran-tuyen-bo-tap-kich-pha-huy-radar-canh-bao-som-cua-my-5144197.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Iran tuyên bố tập kích, phá hủy radar cảnh báo sớm của Mỹ",
+      "description": "Vệ binh Hồi giáo Iran cho biết đã phá hủy một radar cảnh báo sớm Mỹ bố trí tại Bahrain để trả đũa cuộc tấn công của đối phương.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/13/5563187178137269280a-179454013-7763-6929-1794540335.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=RPhS7lxhz0Y1SGikY3cc1Q",
+      "link": "https://vnexpress.net/iran-tuyen-bo-tap-kich-pha-huy-radar-canh-bao-som-cua-my-5144197.html",
+      "published_at": "Fri, 13 Nov 2026 10:59:01 +0700",
+      "createAt": "2026-11-13T03:59:01.000Z",
+      "thumbnail_blurhash": "LnG+L0~p%Mt7-=%2oet7RPRjjZj["
+    },
+    {
+      "id": "https://vnexpress.net/neville-de-cdv-dieu-hanh-man-utd-con-tot-hon-5144070.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Neville: 'Để CĐV điều hành Man Utd còn tốt hơn'",
+      "description": "Cựu đội trưởng Gary Neville cho rằng bất kỳ CĐV nào của Man Utd cũng khó có thể xây dựng hàng thủ tệ như hiện tại, dù CLB đã chi đậm mua cầu thủ trong 13 năm qua.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/11/12/neville-carrick-1794501318-2654-1794501674.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=5dtlV6hFyfZlF_vnpkCb7w",
+      "link": "https://vnexpress.net/neville-de-cdv-dieu-hanh-man-utd-con-tot-hon-5144070.html",
+      "published_at": "Fri, 13 Nov 2026 11:00:00 +0700",
+      "createAt": "2026-11-13T04:00:00.000Z",
+      "thumbnail_blurhash": "L9DS5o0K00~W~Vi_nO%L00^k%hE1"
+    },
+    {
+      "id": "https://vnexpress.net/victoria-beckham-tra-quyen-so-huu-nhan-hieu-ten-cho-brooklyn-5144111.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Victoria Beckham trả quyền sở hữu nhãn hiệu tên cho Brooklyn",
+      "description": "Victoria Beckham chuyển giao quyền sở hữu nhãn hiệu mang tên con lớn cho Brooklyn sau 10 tháng anh công khai \"kể tội\" bố mẹ.",
+      "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/11/13/gia-dinh-beckham-va-con-dau-ni-3084-2876-1794544510.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=OXLkKjvT2mondK42OKA36g",
+      "link": "https://vnexpress.net/victoria-beckham-tra-quyen-so-huu-nhan-hieu-ten-cho-brooklyn-5144111.html",
+      "published_at": "Fri, 13 Nov 2026 11:07:51 +0700",
+      "createAt": "2026-11-13T04:07:51.000Z",
+      "thumbnail_blurhash": "LzHK|so$j_o#~Us*jDe.ozs-oIV["
+    },
+    {
+      "id": "https://vnexpress.net/su-nghiep-thang-tram-cua-jensen-huang-5144203.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Sự nghiệp thăng trầm của Jensen Huang",
+      "description": "Từng ba lần cận kề phá sản, Jensen Huang đưa Nvidia trở thành hãng chip hàng đầu thế giới, trước khi từ chức vì bê bối ngoại tình.",
+      "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/13/screenshot-1794540603-2399-1794540837.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=fSZj6fhUpSWn0uQ5wRWwbg",
+      "link": "https://vnexpress.net/su-nghiep-thang-tram-cua-jensen-huang-5144203.html",
+      "published_at": "Fri, 13 Nov 2026 11:11:18 +0700",
+      "createAt": "2026-11-13T04:11:18.000Z",
+      "thumbnail_blurhash": "LB9%k}a0X4E000xvNGbw?wRiR+NF"
+    },
+    {
+      "id": "https://vnexpress.net/nhung-gio-cuoi-tren-cuong-vi-ceo-nvidia-cua-jensen-huang-5144135.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Những giờ cuối trên cương vị CEO Nvidia của Jensen Huang",
+      "description": "Trước khi từ chức CEO Nvidia, Jensen Huang được mô tả có vẻ mệt mỏi và suy sụp, đồng thời nói mối quan tâm lớn nhất của ông hiện nay là vợ.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/13/AP26312766429671-3249-1794541742.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=kA0a3ONPWabHN1DpfaBsHw",
+      "link": "https://vnexpress.net/nhung-gio-cuoi-tren-cuong-vi-ceo-nvidia-cua-jensen-huang-5144135.html",
+      "published_at": "Fri, 13 Nov 2026 11:17:04 +0700",
+      "createAt": "2026-11-13T04:17:04.000Z",
+      "thumbnail_blurhash": "LqI;t~IAS4oJ~WIUR*WBgNRkV?WX"
+    },
+    {
+      "id": "https://vnexpress.net/trang-an-vao-danh-sach-di-san-dia-chat-cua-the-gioi-5143890.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Tràng An vào danh sách Di sản địa chất của thế giới",
+      "description": "Tràng An là đại diện duy nhất được ghi danh trong 100 địa điểm di sản địa chất của Liên hiệp Quốc tế các Khoa học Địa chất (IUGS) năm 2026.",
+      "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/11/12/dji-1794471682-9283-1794471813.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Btfhl_5Ni-_kzP-UoMdJOQ",
+      "link": "https://vnexpress.net/trang-an-vao-danh-sach-di-san-dia-chat-cua-the-gioi-5143890.html",
+      "published_at": "Fri, 13 Nov 2026 11:58:37 +0700",
+      "createAt": "2026-11-13T04:58:37.000Z",
+      "thumbnail_blurhash": "LDBDls_K%Xxm4_akV_M|D;NKRSR8"
+    },
+    {
+      "id": "https://vnexpress.net/nhung-ngay-cuoi-hon-loan-cua-carrick-5143937.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Những ngày cuối hỗn loạn của Carrick",
+      "description": "Man Utd rơi vào cảnh hỗn loạn trong những ngày cuối nhiệm kỳ của Michael Carrick, khi cầu thủ công khai bất mãn, lãnh đạo đấu đá quyền lực và sự can thiệp trở lại của giới chủ Glazer.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/11/12/carrick-vo-tay-1794473290-8586-1794473440.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=DuRK5dLtvdGatg57oR0GDA",
+      "link": "https://vnexpress.net/nhung-ngay-cuoi-hon-loan-cua-carrick-5143937.html",
+      "published_at": "Fri, 13 Nov 2026 12:00:00 +0700",
+      "createAt": "2026-11-13T05:00:00.000Z",
+      "thumbnail_blurhash": "LOAwz{?@IVDRMMMfbGtjDQMyt6tk"
+    }
+  ]
 }
