@@ -609,5 +609,70 @@
     "published_at": "Fri, 13 Nov 2026 14:14:59 +0700",
     "createAt": "2026-11-13T07:14:59.000Z",
     "thumbnail_blurhash": "L2E_,I4;9WGa8@%g00~B01+a00vi"
+  },
+  {
+    "id": "https://vnexpress.net/startup-viet-voi-giai-phap-nhien-lieu-xanh-gianh-quan-quan-tai-net-zero-challenge-5144227.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Startup Việt với giải pháp nhiên liệu xanh giành quán quân tại Net Zero Challenge",
+    "description": "Phúc Sang Minh Gas, startup Việt Nam với nền tảng BioCNG, giành giải quán quân hạng mục Kinh tế tuần hoàn và Quản lý chất thải tại Net Zero Challenge 2026.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/13/img-jpg-1794541699-8665-1794542201.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=2yDwwY5mnENTpi8BF9194Q",
+    "link": "https://vnexpress.net/startup-viet-voi-giai-phap-nhien-lieu-xanh-gianh-quan-quan-tai-net-zero-challenge-5144227.html",
+    "published_at": "Fri, 13 Nov 2026 15:55:17 +0700",
+    "createAt": "2026-11-13T08:55:17.000Z",
+    "thumbnail_blurhash": "LOH2$M.9xUi#?[E4V?jeo_o#IANG"
+  },
+  {
+    "id": "https://vnexpress.net/chung-khoan-xanh-vo-do-long-5144356.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Chứng khoán 'xanh vỏ, đỏ lòng'",
+    "description": "VN-Index kịp lấy lại sắc xanh vào những phút cuối phiên nhờ cổ phiếu trụ, tăng gần 0,2 điểm, dù hơn một nửa cổ phiếu trên sàn HoSE giảm giá.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/13/td5-1794557847-5839-1794557900.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=B-hy9QG0PlSXP2TxkBRhzA",
+    "link": "https://vnexpress.net/chung-khoan-xanh-vo-do-long-5144356.html",
+    "published_at": "Fri, 13 Nov 2026 15:55:37 +0700",
+    "createAt": "2026-11-13T08:55:37.000Z",
+    "thumbnail_blurhash": "LD9a8L_4S1tQ019GoyWC~o-.Rjof"
+  },
+  {
+    "id": "https://vnexpress.net/gia-gao-xuat-khau-tang-manh-5144309.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Giá gạo xuất khẩu tăng mạnh",
+    "description": "Giá gạo trắng 5% tấm của Việt Nam tăng gần 9% trong vài tuần, lên 480-490 USD một tấn, đồng thời, phục hồi mạnh so với vùng đáy 368 USD hồi tháng 10 năm ngoái.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/13/wm1-wm1-chin-la-photo-1794554060-3589-1794554207.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=bDgu0S6Fb1acW7veAzve_g",
+    "link": "https://vnexpress.net/gia-gao-xuat-khau-tang-manh-5144309.html",
+    "published_at": "Fri, 13 Nov 2026 16:03:38 +0700",
+    "createAt": "2026-11-13T09:03:38.000Z",
+    "thumbnail_blurhash": "LQKAZJxt9bxt_NozRi%10s%KxBRo"
+  },
+  {
+    "id": "https://vnexpress.net/vi-sao-nvidia-chon-colette-kress-thay-jensen-huang-5144284.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Vì sao Nvidia chọn Colette Kress thay Jensen Huang?",
+    "description": "Quyền lực hàng đầu dưới Jensen Huang và quan hệ sâu rộng với Phố Wall là cơ sở giúp Colette Kress trở thành CEO Nvidia tạm quyền.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/13/ceo-1794551343-5170-1794551403.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=TJizf5K_bZDrIjgnzUk8Rg",
+    "link": "https://vnexpress.net/vi-sao-nvidia-chon-colette-kress-thay-jensen-huang-5144284.html",
+    "published_at": "Fri, 13 Nov 2026 16:11:35 +0700",
+    "createAt": "2026-11-13T09:11:35.000Z",
+    "thumbnail_blurhash": "L-N^6#jG?wxv?HWBNGt7NbofniWB"
+  },
+  {
+    "id": "https://vnexpress.net/cam-chieu-tao-khan-hiem-gia-ep-nguoi-dung-mua-hang-online-5144339.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Cấm chiêu tạo khan hiếm giả, ép người dùng mua hàng online",
+    "description": "Từ 1/7/2027, các website, ứng dụng trực tuyến sẽ bị cấm hiển thị sai số lượng hàng để tạo cảm giác khan hiếm giả, ép người tiêu dùng mua hàng.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/13/le-manh-hung-1794558524-6218-1794558744.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=hal5Rka3iEJMmywDDAdQDg",
+    "link": "https://vnexpress.net/cam-chieu-tao-khan-hiem-gia-ep-nguoi-dung-mua-hang-online-5144339.html",
+    "published_at": "Fri, 13 Nov 2026 16:16:48 +0700",
+    "createAt": "2026-11-13T09:16:48.000Z",
+    "thumbnail_blurhash": "LNJa760T-2$u~1n#E9W?R$WAogbJ"
   }
 ]
