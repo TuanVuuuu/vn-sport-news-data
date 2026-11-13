@@ -401,5 +401,44 @@
     "published_at": "Fri, 13 Nov 2026 09:31:18 +0700",
     "createAt": "2026-11-13T02:31:18.000Z",
     "thumbnail_blurhash": "LFJ7vw04rmIU}%IW9#t6%bxZNMof"
+  },
+  {
+    "id": "https://vnexpress.net/phat-nguoi-ban-quat-chui-boi-huong-dan-vien-o-ho-guom-5143924.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Phạt người bán quạt chửi bới hướng dẫn viên ở Hồ Gươm",
+    "description": "Người bán hàng rong chửi bới hướng dẫn viên sau khi không bán được quạt giá 100.000 cho du khách bị công an phường Hoàn Kiếm phạt 1,2 triệu đồng.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/11/12/upscalemediatransformed22-1794-1128-7456-1794472843.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=CU9svIoIq9CDmUAh0YuDSw",
+    "link": "https://vnexpress.net/phat-nguoi-ban-quat-chui-boi-huong-dan-vien-o-ho-guom-5143924.html",
+    "published_at": "Fri, 13 Nov 2026 07:00:00 +0700",
+    "createAt": "2026-11-13T00:00:00.000Z",
+    "thumbnail_blurhash": "LGGbMApx~q^kzAov0f%MIrof=|Oq"
+  },
+  {
+    "id": "https://vnexpress.net/gia-vang-mieng-lui-ve-138-trieu-dong-thap-nhat-11-thang-5144160.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Giá vàng miếng lùi về 138 triệu đồng, thấp nhất 11 tháng",
+    "description": "Mỗi lượng vàng miếng sáng nay giảm thêm 1 triệu đồng, xuống 138 triệu, người mua lỗ hơn một phần tư so với dịp Thần Tài.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/13/233a0822-1794537138-7833-1794537276.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=kOh62Za9mflQ1e3U31tSbg",
+    "link": "https://vnexpress.net/gia-vang-mieng-lui-ve-138-trieu-dong-thap-nhat-11-thang-5144160.html",
+    "published_at": "Fri, 13 Nov 2026 09:43:11 +0700",
+    "createAt": "2026-11-13T02:43:11.000Z",
+    "thumbnail_blurhash": "LBD[:[IB03?a~n9ZNLt5FOnh${M}"
+  },
+  {
+    "id": "https://vnexpress.net/video-khieu-vu-cua-vo-chong-cuu-ceo-nvidia-bi-xet-lai-5144107.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Video khiêu vũ của vợ chồng cựu CEO Nvidia bị xét lại",
+    "description": "Video cựu CEO Nvidia Jensen Huang khiêu vũ cùng vợ đang bị dư luận chú ý lại sau khi ông từ chức vì thừa nhận có quan hệ ngoài luồng.",
+    "thumbnail_url": "https://vcdn1-giadinh.vnecdn.net/2026/11/13/00-1794537301-3369-1794537459.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=oW-6E9NDBOHOqjMhBHEFRA",
+    "link": "https://vnexpress.net/video-khieu-vu-cua-vo-chong-cuu-ceo-nvidia-bi-xet-lai-5144107.html",
+    "published_at": "Fri, 13 Nov 2026 10:09:50 +0700",
+    "createAt": "2026-11-13T03:09:50.000Z",
+    "thumbnail_blurhash": "LRF:+k%2sr=~?1X8n.f-XpogWZOY"
   }
 ]
