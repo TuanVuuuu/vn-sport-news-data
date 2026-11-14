@@ -726,5 +726,31 @@
     "published_at": "Sat, 14 Nov 2026 08:03:00 +0700",
     "createAt": "2026-11-14T01:03:00.000Z",
     "thumbnail_blurhash": "LUH2TVt8ITaz~qoz%1s:ayRjogRj"
+  },
+  {
+    "id": "https://vnexpress.net/tp-hcm-du-kien-ho-tro-tien-an-ban-tru-cho-hoc-sinh-5144627.html",
+    "category_id": "education",
+    "category_name": "Giáo dục",
+    "source": "VnExpress",
+    "title": "TP HCM dự kiến hỗ trợ tiền ăn bán trú cho học sinh",
+    "description": "Học sinh mầm non, lớp 1-12 được hỗ trợ tiền ăn bán trú, chi phí học tăng cường Tiếng Anh, Tin học, STEM..., theo dự kiến của UBND TP HCM.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/14/suat-an-ban-tru-thpt-dao-son-t-3398-1185-1794632150.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=zdZ7s5KBuQykSaYobvvzPg",
+    "link": "https://vnexpress.net/tp-hcm-du-kien-ho-tro-tien-an-ban-tru-cho-hoc-sinh-5144627.html",
+    "published_at": "Sat, 14 Nov 2026 13:07:20 +0700",
+    "createAt": "2026-11-14T06:07:20.000Z",
+    "thumbnail_blurhash": "LILWtv?H_4=yA@x@-=yCK+R:%3M#"
+  },
+  {
+    "id": "https://vnexpress.net/dai-hoc-can-day-sinh-vien-tao-ra-ai-rieng-cho-chau-a-5140401.html",
+    "category_id": "education",
+    "category_name": "Giáo dục",
+    "source": "VnExpress",
+    "title": "'Đại học cần dạy sinh viên tạo ra AI riêng cho châu Á'",
+    "description": "Để thích ứng trong kỷ nguyên AI, các hiệu trưởng đại học tin rằng cần dạy sinh viên kiểm chứng kết quả AI, tự tạo phiên bản riêng thay vì chỉ tiếp nhận từ phương Tây.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/14/puriwat-1794638933-7454-1794638942.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=4-ib50Uc1pCtWdDojnTt9A",
+    "link": "https://vnexpress.net/dai-hoc-can-day-sinh-vien-tao-ra-ai-rieng-cho-chau-a-5140401.html",
+    "published_at": "Sat, 14 Nov 2026 13:49:02 +0700",
+    "createAt": "2026-11-14T06:49:02.000Z",
+    "thumbnail_blurhash": "LSKwdwIVXS^$~VadNyE3X7WAxae?"
   }
 ]
