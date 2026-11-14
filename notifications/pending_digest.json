@@ -1,3 +1,108 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/elon-musk-kien-nghi-phuc-chuc-cho-jensen-huang-5144604.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Elon Musk kiến nghị phục chức cho Jensen Huang",
+      "description": "Elon Musk cho biết sẽ ký đơn kiến nghị yêu cầu phục chức cho Jensen Huang, một ngày sau khi nhà đồng sáng lập Nvidia rời vị trí CEO.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/14/jensen-musk-1794627378-8797-1794627508.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=tk-oPEVgw7sUn4SLmg503w",
+      "link": "https://vnexpress.net/elon-musk-kien-nghi-phuc-chuc-cho-jensen-huang-5144604.html",
+      "published_at": "Sat, 14 Nov 2026 11:03:06 +0700",
+      "createAt": "2026-11-14T04:03:06.000Z",
+      "thumbnail_blurhash": "LKDlm8NM-;jJ~WNMohNH9bs;E2Ne"
+    },
+    {
+      "id": "https://vnexpress.net/mang-luoi-hang-khong-my-sau-lenh-dinh-chi-bay-nhin-tu-ban-do-5144619.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Mạng lưới hàng không Mỹ sau lệnh đình chỉ bay nhìn từ bản đồ",
+      "description": "Bầu trời Mỹ vốn ken đặc máy bay dần trở nên thưa thớt trên bản đồ theo dõi hàng không, sau sự cố liên lạc, khiến hàng nghìn chuyến bị ảnh hưởng.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/14/Pi7GIFCMP-1794628146-4070-1794628188.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=RADgP_o7ZpWqRiEjBb5ECw&t=image",
+      "link": "https://vnexpress.net/mang-luoi-hang-khong-my-sau-lenh-dinh-chi-bay-nhin-tu-ban-do-5144619.html",
+      "published_at": "Sat, 14 Nov 2026 11:15:20 +0700",
+      "createAt": "2026-11-14T04:15:20.000Z",
+      "thumbnail_blurhash": "LcJSB@-:F*S*-kogROkDgPbdaKSQ"
+    },
+    {
+      "id": "https://vnexpress.net/khoanh-khac-tau-du-lich-cho-180-nguoi-bi-dam-lat-ngang-o-cang-my-5144628.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Khoảnh khắc tàu du lịch chở 180 người bị đâm lật ngang ở cảng Mỹ",
+      "description": "Tàu chở dầu bất ngờ mất lái, đâm ngang thân tàu du lịch American Heritage đang neo tại cảng New Orleans, khiến con tàu chở khoảng 180 người nghiêng rồi chìm dần.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/14/Lark20261114111501-1794629741-2278-1794629867.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=sgnBoP0pGvypuGibTOrr3w&t=image",
+      "link": "https://vnexpress.net/khoanh-khac-tau-du-lich-cho-180-nguoi-bi-dam-lat-ngang-o-cang-my-5144628.html",
+      "published_at": "Sat, 14 Nov 2026 11:18:28 +0700",
+      "createAt": "2026-11-14T04:18:28.000Z",
+      "thumbnail_blurhash": "LfFZX2%2OGIUyZaJe-aITgRjofxa"
+    },
+    {
+      "id": "https://vnexpress.net/hon-4-gio-ac-mong-khien-khong-phan-my-vang-tanh-5144594.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Hơn 4 giờ ác mộng khiến không phận Mỹ vắng tanh",
+      "description": "Sự cố kỹ thuật buộc Mỹ đình chỉ bay trên toàn quốc trong hơn 4 tiếng, khiến không phận vắng bóng phi cơ, còn các sân bay hỗn loạn nghiêm trọng.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/14/di-nh-chi-ca-t-ca-nh-1794628571.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=9xOcYk1TTJvM571_FQRzmw",
+      "link": "https://vnexpress.net/hon-4-gio-ac-mong-khien-khong-phan-my-vang-tanh-5144594.html",
+      "published_at": "Sat, 14 Nov 2026 11:19:24 +0700",
+      "createAt": "2026-11-14T04:19:24.000Z",
+      "thumbnail_blurhash": "LGBMog=Ga1xF?wX3EMbax^bDNHR%"
+    },
+    {
+      "id": "https://vnexpress.net/hang-khong-te-liet-nguoi-viet-o-my-lai-xe-10-tieng-ve-nha-5144644.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Hàng không tê liệt, người Việt ở Mỹ lái xe 10 tiếng về nhà",
+      "description": "Sự cố hệ thống kiểm soát không lưu Mỹ ngày 13/11 khiến hàng nghìn chuyến bay bị hoãn hủy, buộc nhiều người phải bỏ lịch trình hoặc lái xe xuyên đêm.",
+      "thumbnail_url": "https://vcdn1-giadinh.vnecdn.net/2026/11/14/a-nh-ma-n-hi-nh-lu-c-179463114-5187-5689-1794631193.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=YMjuyUoE9clFaRACToP7Cg",
+      "link": "https://vnexpress.net/hang-khong-te-liet-nguoi-viet-o-my-lai-xe-10-tieng-ve-nha-5144644.html",
+      "published_at": "Sat, 14 Nov 2026 11:59:42 +0700",
+      "createAt": "2026-11-14T04:59:42.000Z",
+      "thumbnail_blurhash": "LIF$9B4o01oz_NIVIBs--oayV@Rk"
+    },
+    {
+      "id": "https://vnexpress.net/xe-thiet-giap-chim-khi-huan-luyen-6-quan-nhan-hy-sinh-5144654.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Xe thiết giáp chìm khi huấn luyện, 6 quân nhân hy sinh",
+      "description": "Sáu quân nhân thuộc Trung đoàn 102, Sư đoàn 308, Quân đoàn 12 hy sinh khi xe thiết giáp BMP-1 gặp sự cố, bị chìm trong lúc huấn luyện tại Trường bắn quốc gia TB1.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/14/HUY34631727870684-1794634525-3348-1794634531.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=5CPxYCqnOgkZjHGruU9_7w",
+      "link": "https://vnexpress.net/xe-thiet-giap-chim-khi-huan-luyen-6-quan-nhan-hy-sinh-5144654.html",
+      "published_at": "Sat, 14 Nov 2026 12:20:04 +0700",
+      "createAt": "2026-11-14T05:20:04.000Z",
+      "thumbnail_blurhash": "LhF?U%MxV@t7?wR+f5j=t6ozogjr"
+    },
+    {
+      "id": "https://vnexpress.net/microsoft-khoi-phuc-dich-vu-sau-su-co-keo-dai-hon-mot-ngay-5144647.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Microsoft khôi phục dịch vụ sau sự cố kéo dài hơn một ngày",
+      "description": "Microsoft cho biết đã khôi phục trên diện rộng loạt dịch vụ Outlook, Teams, SharePoint Online... sau hơn một ngày gặp sự cố ở quy mô toàn cầu.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/14/wm1-wm1-dsc02330-jpg-1794634261-5230-1794634292.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=jjFTZyp1dvXvwOhxV9VKKA",
+      "link": "https://vnexpress.net/microsoft-khoi-phuc-dich-vu-sau-su-co-keo-dai-hon-mot-ngay-5144647.html",
+      "published_at": "Sat, 14 Nov 2026 12:32:25 +0700",
+      "createAt": "2026-11-14T05:32:25.000Z",
+      "thumbnail_blurhash": "LP4odNp3g4ous+jWjWjYRKi@njaj"
+    },
+    {
+      "id": "https://vnexpress.net/tp-hcm-du-kien-ho-tro-tien-an-ban-tru-cho-hoc-sinh-5144627.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "TP HCM dự kiến hỗ trợ tiền ăn bán trú cho học sinh",
+      "description": "Học sinh mầm non, lớp 1-12 được hỗ trợ tiền ăn bán trú, chi phí học tăng cường Tiếng Anh, Tin học, STEM..., theo dự kiến của UBND TP HCM.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/14/suat-an-ban-tru-thpt-dao-son-t-3398-1185-1794632150.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=zdZ7s5KBuQykSaYobvvzPg",
+      "link": "https://vnexpress.net/tp-hcm-du-kien-ho-tro-tien-an-ban-tru-cho-hoc-sinh-5144627.html",
+      "published_at": "Sat, 14 Nov 2026 13:07:20 +0700",
+      "createAt": "2026-11-14T06:07:20.000Z",
+      "thumbnail_blurhash": "LILWtv?H_4=yA@x@-=yCK+R:%3M#"
+    }
+  ]
 }
