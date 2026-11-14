@@ -1012,5 +1012,44 @@
     "published_at": "Sat, 14 Nov 2026 13:27:22 +0700",
     "createAt": "2026-11-14T06:27:22.000Z",
     "thumbnail_blurhash": "LhN9%w.TNHxY_MtSo0V?%MtRxuax"
+  },
+  {
+    "id": "https://vnexpress.net/huong-dan-nguoi-dan-livestream-ban-hang-qua-mang-5144687.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Hướng dẫn người dân livestream bán hàng qua mạng",
+    "description": "Người dân, hộ kinh doanh tại Vĩnh Long được hướng dẫn kỹ năng giới thiệu sản phẩm, tương tác và bán hàng qua livestream.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/14/livestream-1794642408-7306-1794642452.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Zhtwcs_GHZVlcwCJHiXsnQ",
+    "link": "https://vnexpress.net/huong-dan-nguoi-dan-livestream-ban-hang-qua-mang-5144687.html",
+    "published_at": "Sat, 14 Nov 2026 17:12:52 +0700",
+    "createAt": "2026-11-14T10:12:52.000Z",
+    "thumbnail_blurhash": "LcFrxBXpR:fi*0fnjcV@V{o#%3Sg"
+  },
+  {
+    "id": "https://vnexpress.net/robot-tu-hanh-thang-giai-aiot-developer-innoworks-2026-5144718.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Robot tự hành thắng giải AIoT Developer InnoWorks 2026",
+    "description": "Cuộc thi AIoT Developer InnoWorks 2026 tìm ra 10 đội xuất sắc, trong đó robot tự hành phục vụ trong nông nghiệp thắng giải cao nhất.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/14/hann0640-jpg-1794652418-4735-1794652910.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=5rQ4hJcpS-EzyBLK6LvSmg",
+    "link": "https://vnexpress.net/robot-tu-hanh-thang-giai-aiot-developer-innoworks-2026-5144718.html",
+    "published_at": "Sat, 14 Nov 2026 17:48:42 +0700",
+    "createAt": "2026-11-14T10:48:42.000Z",
+    "thumbnail_blurhash": "LNBz07M|R4t6ThoeROjrIDxaofWB"
+  },
+  {
+    "id": "https://vnexpress.net/rao-chan-lu-khong-lo-khien-venice-doi-mat-dai-dich-chuot-5143944.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Rào chắn lũ khổng lồ khiến Venice đối mặt đại dịch chuột",
+    "description": "Công trình rào chắn lũ tiền tỷ giúp Venice thoát cảnh ngập lụt mỗi khi triều cường dâng cao nhưng lại tạo điều kiện cho chuột sinh sôi khắp thành phố.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/12/VNEVenice-1794474563-6217-1794474684.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=19uNH9YyE3r9SNKREdUSuA",
+    "link": "https://vnexpress.net/rao-chan-lu-khong-lo-khien-venice-doi-mat-dai-dich-chuot-5143944.html",
+    "published_at": "Sat, 14 Nov 2026 18:00:00 +0700",
+    "createAt": "2026-11-14T11:00:00.000Z",
+    "thumbnail_blurhash": "LdHyE:W@RjbI~qofWVj[XWxYofof"
   }
 ]
