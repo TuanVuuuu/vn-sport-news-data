@@ -1,6 +1,19 @@
 {
   "featured": [
     {
+      "id": "https://vnexpress.net/nghe-tieng-xi-vai-giay-truoc-khi-cua-hang-gas-phat-no-nha-do-sap-5144489.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "'Nghe tiếng xì vài giây trước khi cửa hàng gas phát nổ, nhà đổ sập'",
+      "description": "Vài giờ sau khi được đưa khỏi đống đổ nát, anh Khôi kể đang nằm ở lầu một tiệm gas thì nghe tiếng xì kéo dài 1-2 giây, rồi tiếng nổ vang lên, tường nhà đổ sập vùi lấp mình.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/13/20261113221737-1794583073-6153-1794583643.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=Z1nVnHDFomgiXA2yk3KlAw",
+      "link": "https://vnexpress.net/nghe-tieng-xi-vai-giay-truoc-khi-cua-hang-gas-phat-no-nha-do-sap-5144489.html",
+      "published_at": "Sat, 14 Nov 2026 00:00:00 +0700",
+      "createAt": "2026-11-13T17:00:00.000Z",
+      "thumbnail_blurhash": "LEF5s;Dj9FTK~qwKVZwfNL%2D*v~"
+    },
+    {
       "id": "https://vnexpress.net/my-dinh-chi-bay-toan-quoc-do-su-co-lien-lac-5144518.html",
       "category_id": "featured",
       "category_name": "Tin nổi bật",
@@ -12,6 +25,58 @@
       "published_at": "Sat, 14 Nov 2026 06:31:29 +0700",
       "createAt": "2026-11-13T23:31:29.000Z",
       "thumbnail_blurhash": "LlG[l.xtaxof~UxZjtaya_s:j[ay"
+    },
+    {
+      "id": "https://vnexpress.net/microsoft-chua-the-xac-dinh-thoi-gian-khoi-phuc-hoan-toan-5144522.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Microsoft: 'Chưa thể xác định thời gian khôi phục hoàn toàn'",
+      "description": "Trong thông báo mới lúc 3h05 (giờ Hà Nội), Microsoft cho biết vẫn chưa thể xác định thời gian khôi phục hoàn toàn các dịch vụ của hãng.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/14/dsc03787-jpg-1794612892-2004-1794612907.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=XnFHChEeO6HPrdGh2AlRgA",
+      "link": "https://vnexpress.net/microsoft-chua-the-xac-dinh-thoi-gian-khoi-phuc-hoan-toan-5144522.html",
+      "published_at": "Sat, 14 Nov 2026 06:41:24 +0700",
+      "createAt": "2026-11-13T23:41:24.000Z",
+      "thumbnail_blurhash": "LOCF#v3Zm%+FsTRPEy-AqZMuks-q"
+    },
+    {
+      "id": "https://vnexpress.net/ky-thu-viet-nam-doat-hc-vang-o-giai-co-tuong-dong-doi-the-gioi-5144502.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Kỳ thủ Việt Nam đoạt HC vàng ở giải cờ tướng đồng đội thế giới",
+      "description": "Phan Huy Hoàng, 18 tuổi, đạt thành tích sáu thắng, một hòa để giành HC vàng cá nhân tại Giải cờ tướng thế giới mở rộng 2026, dù Việt Nam chỉ đứng thứ hai đồng đội nam.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/11/13/co-tu-o-ng-jpeg-1794584763-2069-1794585242.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=osL9vjiN65IMvc65AwfXTQ",
+      "link": "https://vnexpress.net/ky-thu-viet-nam-doat-hc-vang-o-giai-co-tuong-dong-doi-the-gioi-5144502.html",
+      "published_at": "Sat, 14 Nov 2026 06:41:47 +0700",
+      "createAt": "2026-11-13T23:41:47.000Z",
+      "thumbnail_blurhash": "LQJr~$^jt+%1}ZIpjFe.YjKOxGSg"
+    },
+    {
+      "id": "https://vnexpress.net/tau-cho-hon-130-nguoi-lat-ngang-sau-va-cham-voi-tau-dau-5144520.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Tàu chở hơn 130 người lật ngang sau va chạm với tàu dầu",
+      "description": "Một tàu du lịch chở hơn 130 người bị lật sau khi va chạm tàu chở dầu ở New Orleans, kích hoạt chiến dịch cứu hộ quy mô lớn trên sông Mississippi.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/14/AP26317811767503-1794613299-5122-1794614027.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=eRA9gJwnIu4xjeDGkqauLg",
+      "link": "https://vnexpress.net/tau-cho-hon-130-nguoi-lat-ngang-sau-va-cham-voi-tau-dau-5144520.html",
+      "published_at": "Sat, 14 Nov 2026 07:24:40 +0700",
+      "createAt": "2026-11-14T00:24:40.000Z",
+      "thumbnail_blurhash": "LBDvyY4nbc%1KUR2%Nbd00MwksE2"
+    },
+    {
+      "id": "https://vnexpress.net/thu-mon-gay-ra-cai-chet-cho-de-miguel-bi-phat-kich-khung-5144533.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Thủ môn gây ra cái chết cho De Miguel bị phạt kịch khung",
+      "description": "Thủ môn CLB Andorra Jesus Owono bị treo giò 12 trận sau pha va chạm khiến tiền đạo Tenerife Jesus de Miguel ngừng tim rồi qua đời.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/11/14/jesus-1794615024-1455-1794615112.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=A9cyzmU7ghq5jYshSW5oOQ",
+      "link": "https://vnexpress.net/thu-mon-gay-ra-cai-chet-cho-de-miguel-bi-phat-kich-khung-5144533.html",
+      "published_at": "Sat, 14 Nov 2026 07:29:27 +0700",
+      "createAt": "2026-11-14T00:29:27.000Z",
+      "thumbnail_blurhash": "L6CP^[O]K-=_9DIU-BNHInv{Iobd"
     }
   ]
 }
