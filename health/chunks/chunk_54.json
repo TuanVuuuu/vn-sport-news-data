@@ -1259,5 +1259,31 @@
     "published_at": "Sat, 14 Nov 2026 12:00:00 +0700",
     "createAt": "2026-11-14T05:00:00.000Z",
     "thumbnail_blurhash": "LAF=jpx^00I9~qM|E19F4.R,o~oH"
+  },
+  {
+    "id": "https://vnexpress.net/5-thoi-quen-khien-dan-cong-so-de-mac-benh-than-tiet-nieu-5144601.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "5 thói quen khiến dân công sở dễ mắc bệnh thận, tiết niệu",
+    "description": "Ăn mặn, ngồi nhiều, uống ít nước, thường xuyên nhịn tiểu và lạm dụng thuốc giảm đau có thể làm tăng nguy cơ mắc bệnh thận - tiết niệu ở dân văn phòng.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/14/d053742bb3-bc4a-a1f46fe046f7-1-3876-8404-1794625969.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=UAnWnSn7pZ4YfES2XKV6tw",
+    "link": "https://vnexpress.net/5-thoi-quen-khien-dan-cong-so-de-mac-benh-than-tiet-nieu-5144601.html",
+    "published_at": "Sat, 14 Nov 2026 13:00:00 +0700",
+    "createAt": "2026-11-14T06:00:00.000Z",
+    "thumbnail_blurhash": "LFN9n9R3TfeSp{ERIUI?Pq-;xHIn"
+  },
+  {
+    "id": "https://vnexpress.net/sang-loc-phoi-co-giup-sinh-con-thong-minh-5144599.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Sàng lọc phôi có giúp sinh con thông minh?",
+    "description": "Tôi chuẩn bị thụ tinh ống nghiệm. Xét nghiệm di truyền phôi có giúp sinh con thông minh không? (Hạnh, TP HCM)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/14/hinh-pr-1794625518-4055-1794625638.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=O08Bo83EI_Lddrk9jr2rKg",
+    "link": "https://vnexpress.net/sang-loc-phoi-co-giup-sinh-con-thong-minh-5144599.html",
+    "published_at": "Sat, 14 Nov 2026 13:00:00 +0700",
+    "createAt": "2026-11-14T06:00:00.000Z",
+    "thumbnail_blurhash": "LXJRz8~p_4RPXUi^x^V?-;%1s.x^"
   }
 ]
