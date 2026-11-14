@@ -336,5 +336,44 @@
     "published_at": "Sat, 14 Nov 2026 00:09:00 +0700",
     "createAt": "2026-11-13T17:09:00.000Z",
     "thumbnail_blurhash": "LBGHh,1Q00nM^u0MD,~U%Zw}D@~n"
+  },
+  {
+    "id": "https://vnexpress.net/khach-tay-nhay-om-bat-com-nong-chong-lanh-o-tuyen-quang-5144427.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Khách Tây nhảy, ôm bát cơm nóng chống lạnh ở Tuyên Quang",
+    "description": "Nền nhiệt xuống dưới 10 độ C ở Tuyên Quang ngày 10/11 khiến các du khách đến từ châu Âu, Australia xuýt xoa không ngừng, nhiều người nhảy hoặc ôm bát đựng cơm nóng trong tay cho bớt lạnh.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/11/13/hagiang-1794570262-9313-1794570352.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=i42rPVJBQIZRM9uh5YcL3g",
+    "link": "https://vnexpress.net/khach-tay-nhay-om-bat-com-nong-chong-lanh-o-tuyen-quang-5144427.html",
+    "published_at": "Sat, 14 Nov 2026 00:09:00 +0700",
+    "createAt": "2026-11-13T17:09:00.000Z",
+    "thumbnail_blurhash": "LBGHh,1Q00nM^u0MD,~U%Zw}D@~n"
+  },
+  {
+    "id": "https://vnexpress.net/quay-video-doi-co-nu-du-khach-nhan-loi-cam-on-tu-chu-tich-tinh-cao-bang-5144300.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Quay video đồi cỏ, nữ du khách nhận lời cảm ơn từ Chủ tịch tỉnh Cao Bằng",
+    "description": "Quay video về cảnh sắc đồi cỏ Ba Quáng, nữ du khách Hà Nội bất ngờ nhận được thư cảm ơn của Chủ tịch Cao Bằng và lời mời quay lại địa phương.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/11/13/anhviber2026111216155881917944-8933-3716-1794554162.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=pCs6huypvzCm8f0MwqlLMg",
+    "link": "https://vnexpress.net/quay-video-doi-co-nu-du-khach-nhan-loi-cam-on-tu-chu-tich-tinh-cao-bang-5144300.html",
+    "published_at": "Sat, 14 Nov 2026 07:00:00 +0700",
+    "createAt": "2026-11-14T00:00:00.000Z",
+    "thumbnail_blurhash": "Lb8ZMfjYV@kCqFkCjsa}j]WqkDae"
+  },
+  {
+    "id": "https://vnexpress.net/tau-du-lich-my-bi-tau-cho-hang-dam-lat-ngang-chim-mot-phan-5144540.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Tàu du lịch Mỹ bị tàu chở hàng đâm lật ngang, chìm một phần",
+    "description": "Tàu du lịch American Heritage đang neo đậu tại New Orleans bị tàu chở hàng đâm lật nghiêng, 32 người phải nhập viện.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/11/14/ap26317811767503-webp-17946163-4818-1593-1794616400.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=xE3tQ8SKwMbi21JWfH7LKg",
+    "link": "https://vnexpress.net/tau-du-lich-my-bi-tau-cho-hang-dam-lat-ngang-chim-mot-phan-5144540.html",
+    "published_at": "Sat, 14 Nov 2026 08:07:14 +0700",
+    "createAt": "2026-11-14T01:07:14.000Z",
+    "thumbnail_blurhash": "LBDmEy4UkE%1O_R2%Nbd0JMwksE2"
   }
 ]
