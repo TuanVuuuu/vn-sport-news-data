@@ -1,3 +1,17 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/my-dinh-chi-bay-toan-quoc-do-su-co-lien-lac-5144518.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Mỹ đình chỉ bay toàn quốc do sự cố liên lạc",
+      "description": "Cơ quan Hàng không Liên bang Mỹ ban hành lệnh đình chỉ bay trên toàn quốc sau khi xảy ra gián đoạn hệ thống liên lạc quy mô lớn.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/14/afp-d7ff9l9-v1-highres-ustrave-5543-1601-1794611777.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=zGvvfm-ZBYI5Vcii20N_Mg",
+      "link": "https://vnexpress.net/my-dinh-chi-bay-toan-quoc-do-su-co-lien-lac-5144518.html",
+      "published_at": "Sat, 14 Nov 2026 06:31:29 +0700",
+      "createAt": "2026-11-13T23:31:29.000Z",
+      "thumbnail_blurhash": "LlG[l.xtaxof~UxZjtaya_s:j[ay"
+    }
+  ]
 }
