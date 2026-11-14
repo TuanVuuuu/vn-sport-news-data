@@ -1,3 +1,43 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/dat-da-tu-nui-do-xuong-hat-vang-co-giao-di-xe-may-5144691.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Đất đá từ núi đổ xuống, hất văng cô giáo đi xe máy",
+      "description": "Cô giáo trường Tiểu học Tả Gia Khâu đang chạy xe máy trên quốc lộ 4D, đoạn qua xã Mường Khương, bất ngờ bị hàng chục tấn đất đá từ núi sạt xuống, hất văng khỏi xe.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/14/122ezgifcomvideotogifconverter-3034-4737-1794643471.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=fu2Ou6XwC7PYwDTk6eTsFg&t=image",
+      "link": "https://vnexpress.net/dat-da-tu-nui-do-xuong-hat-vang-co-giao-di-xe-may-5144691.html",
+      "published_at": "Sat, 14 Nov 2026 15:18:02 +0700",
+      "createAt": "2026-11-14T08:18:02.000Z",
+      "thumbnail_blurhash": "LqHC7j%MIUxu~q%MRjt8?bt7WBof"
+    },
+    {
+      "id": "https://vnexpress.net/kien-doi-khoan-no-48-ty-dong-nguoi-phu-nu-bi-bat-vi-lo-viec-cho-vay-nang-lai-5144702.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Kiện đòi khoản nợ 48 tỷ đồng, người phụ nữ bị bắt vì lộ việc cho vay nặng lãi",
+      "description": "Trần Thị Hồng bị cáo buộc dùng hợp đồng góp vốn vào dự án không có thật để đòi khoản nợ 48,6 tỷ đồng, song bị phát hiện cho vay lãi nặng khi con nợ trình báo công an.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/14/1794640373676-cc1aa2dba3b877c8-4330-8138-1794645489.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=sV7My8q1vqWgVW3OxIwJdQ",
+      "link": "https://vnexpress.net/kien-doi-khoan-no-48-ty-dong-nguoi-phu-nu-bi-bat-vi-lo-viec-cho-vay-nang-lai-5144702.html",
+      "published_at": "Sat, 14 Nov 2026 16:09:16 +0700",
+      "createAt": "2026-11-14T09:09:16.000Z",
+      "thumbnail_blurhash": "L6DvP|{o2k0J_Mu3]=#9D?.Rz_$e"
+    },
+    {
+      "id": "https://vnexpress.net/ong-zelensky-my-neu-y-tuong-ukraine-tu-bo-donbass-de-gia-nhap-nato-5144717.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Ông Zelensky: 'Mỹ nêu ý tưởng Ukraine từ bỏ Donbass để gia nhập NATO'",
+      "description": "Tổng thống Zelensky cho biết các nhà đàm phán Mỹ đã đề cập khả năng Ukraine rút khỏi khu vực Donbass ở miền đông để đổi lấy việc gia nhập NATO.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/14/afp-d74d4kh-v1-highres-denmark-7571-3640-1794651335.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=xesb_50RzGS0mkt8zgSIuQ",
+      "link": "https://vnexpress.net/ong-zelensky-my-neu-y-tuong-ukraine-tu-bo-donbass-de-gia-nhap-nato-5144717.html",
+      "published_at": "Sat, 14 Nov 2026 17:54:21 +0700",
+      "createAt": "2026-11-14T10:54:21.000Z",
+      "thumbnail_blurhash": "LpK-k7V@.8xu~qoLM{ofR*ayV?WB"
+    }
+  ]
 }
