@@ -518,5 +518,31 @@
     "published_at": "Sun, 15 Nov 2026 14:31:34 +0700",
     "createAt": "2026-11-15T07:31:34.000Z",
     "thumbnail_blurhash": "LKFYlp_Ns;%M00IAxuRj?vxbRPog"
+  },
+  {
+    "id": "https://vnexpress.net/thi-truong-oto-viet-vuot-moc-nua-trieu-xe-5144912.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Thị trường ôtô Việt vượt mốc nửa triệu xe",
+    "description": "Tính đến tháng 10, toàn ngành ôtô Việt Nam bán ra hơn 550.000 xe, tăng khoảng 21% so với cùng kỳ 2025.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/15/suzukixl7vnexpress-1794740876-4362-1794741251.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=L7A7XeWgqlrtaF9u6Z7EWw",
+    "link": "https://vnexpress.net/thi-truong-oto-viet-vuot-moc-nua-trieu-xe-5144912.html",
+    "published_at": "Mon, 16 Nov 2026 05:00:00 +0700",
+    "createAt": "2026-11-15T22:00:00.000Z",
+    "thumbnail_blurhash": "LMC6=RsDEfS2%7a#oKjap^X9$kt7"
+  },
+  {
+    "id": "https://vnexpress.net/mercedes-can-nhac-dong-nha-may-tai-duc-vi-chi-phi-san-xuat-cao-5144969.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Mercedes cân nhắc đóng nhà máy tại Đức vì chi phí sản xuất cao",
+    "description": "Hãng xe Đức tạm dừng đầu tư mới tại các nhà máy trong nước, xem xét đóng cửa một số cơ sở khi chi phí sản xuất ngày càng tăng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/15/p4gafdedz11c21t6vffdr9or4earqo-4204-3939-1794753388.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=k0C-JFnagxcIEPYNny7zVA",
+    "link": "https://vnexpress.net/mercedes-can-nhac-dong-nha-may-tai-duc-vi-chi-phi-san-xuat-cao-5144969.html",
+    "published_at": "Mon, 16 Nov 2026 05:30:00 +0700",
+    "createAt": "2026-11-15T22:30:00.000Z",
+    "thumbnail_blurhash": "LCA^m~WGWc_M_Mogo$-;%Mx]My%N"
   }
 ]
