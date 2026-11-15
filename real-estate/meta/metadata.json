@@ -1,5 +1,5 @@
 {
-  "total_articles": 1400,
+  "total_articles": 1401,
   "files": [
     "chunk_1.json",
     "chunk_2.json",
@@ -14,7 +14,8 @@
     "chunk_11.json",
     "chunk_12.json",
     "chunk_13.json",
-    "chunk_14.json"
+    "chunk_14.json",
+    "chunk_15.json"
   ],
   "channel": {
     "title": "Bất động sản - VnExpress RSS",
@@ -23,7 +24,7 @@
     "copyright": "",
     "logo_url": "https://s.vnecdn.net/vnexpress/i/v20/logos/vne_logo_rss.png",
     "link": "https://vnexpress.net/rss/bat-dong-san.rss",
-    "last_updated": "Sun, 15 Nov 2026 19:01:35 +0700"
+    "last_updated": "Sun, 15 Nov 2026 19:21:09 +0700"
   },
-  "last_updated": "2026-11-15T12:31:33.969Z"
+  "last_updated": "2026-11-15T12:41:11.613Z"
 }
