@@ -544,5 +544,31 @@
     "published_at": "Mon, 16 Nov 2026 05:30:00 +0700",
     "createAt": "2026-11-15T22:30:00.000Z",
     "thumbnail_blurhash": "LCA^m~WGWc_M_Mogo$-;%Mx]My%N"
+  },
+  {
+    "id": "https://vnexpress.net/oto-xe-may/v-car/doanh-so/xe-gam-cao-ban-nhieu-nhat-thang-10-tai-thi-truong-viet-nam-5144970.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Xe gầm cao bán nhiều nhất tháng 10 tại thị trường Việt Nam",
+    "description": "Ôtô VinFast giữ 4 trên 5 vị trí đầu bảng xếp hạng doanh số xe SUV/crossover, trong tháng 10, trong đó VF 3 bàn giao nhiều nhất gần 4.000 xe.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/15/VF8-1794753541-8588-1794753575.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=6IDdMMExcmlLfs5JZTW63g",
+    "link": "https://vnexpress.net/oto-xe-may/v-car/doanh-so/xe-gam-cao-ban-nhieu-nhat-thang-10-tai-thi-truong-viet-nam-5144970.html",
+    "published_at": "Mon, 16 Nov 2026 06:00:00 +0700",
+    "createAt": "2026-11-15T23:00:00.000Z",
+    "thumbnail_blurhash": "LVI}hZyE.7-p_N?uWCbH_M-:MxWB"
+  },
+  {
+    "id": "https://vnexpress.net/volkswagen-teramont-pro-max-suv-pho-thong-tiem-can-xe-sang-5144820.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Volkswagen Teramont Pro Max: SUV phổ thông tiệm cận xe sang",
+    "description": "Mẫu Volkswagen nhập khẩu Trung Quốc sở hữu đa dạng tính năng và trang bị, nhưng cần cải thiện độ trễ của hệ thống tăng áp, đặc biệt với dòng SUV 7 chỗ.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/15/mqp1289jpg-1794712076-1499-1794712206.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=VpHlmTLhtpbgiwHuLaxGiQ",
+    "link": "https://vnexpress.net/volkswagen-teramont-pro-max-suv-pho-thong-tiem-can-xe-sang-5144820.html",
+    "published_at": "Mon, 16 Nov 2026 06:00:00 +0700",
+    "createAt": "2026-11-15T23:00:00.000Z",
+    "thumbnail_blurhash": "LBBpqZM}oaWY00RlM{of~qxtRood"
   }
 ]
