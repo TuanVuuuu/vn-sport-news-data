@@ -427,5 +427,31 @@
     "published_at": "Sun, 15 Nov 2026 07:11:55 +0700",
     "createAt": "2026-11-15T00:11:55.000Z",
     "thumbnail_blurhash": "LGGk%X9$^+-V0h~VadIUJ8J79Zi^"
+  },
+  {
+    "id": "https://vnexpress.net/net-co-kinh-cua-thap-cham-hon-700-tuoi-o-trung-tam-nha-trang-5126324.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Nét cổ kính của tháp Chăm hơn 700 tuổi ở trung tâm Nha Trang",
+    "description": "Di tích quốc gia đặc biệt Tháp Bà Ponagar xây dựng từ khoảng thế kỷ VIII đến XIII, nổi bật với các đền tháp gạch đỏ, là trung tâm sinh hoạt văn hóa tâm linh của cộng đồng Chăm - Việt.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/09/29/trungthu-jpeg-1790683818.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=OdKlxK_eVbUJQ9wuti8fZA",
+    "link": "https://vnexpress.net/net-co-kinh-cua-thap-cham-hon-700-tuoi-o-trung-tam-nha-trang-5126324.html",
+    "published_at": "Sun, 15 Nov 2026 08:31:23 +0700",
+    "createAt": "2026-11-15T01:31:23.000Z",
+    "thumbnail_blurhash": "LQH27M=q?H%1=;={RiM{~B%0s:t7"
+  },
+  {
+    "id": "https://vnexpress.net/cuoc-chien-do-an-thua-khoang-hang-nhat-cua-tiep-vien-hang-khong-5144774.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "'Cuộc chiến' đồ ăn thừa khoang hạng nhất của tiếp viên hàng không",
+    "description": "Sau tấm màn chắn, một cuộc chiến để giành phần đồ ăn ngon nhất trên không vẫn diễn ra thường xuyên.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/11/14/tai-xuongt235048-1794675016-4525-1794675167.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=qFoLb0sv8nG-YeaHn_r5Vg",
+    "link": "https://vnexpress.net/cuoc-chien-do-an-thua-khoang-hang-nhat-cua-tiep-vien-hang-khong-5144774.html",
+    "published_at": "Sun, 15 Nov 2026 10:00:00 +0700",
+    "createAt": "2026-11-15T03:00:00.000Z",
+    "thumbnail_blurhash": "LFGIJ,00It~Wn,%1?a9G9EWoRlxt"
   }
 ]
