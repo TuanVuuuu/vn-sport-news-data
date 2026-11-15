@@ -1129,5 +1129,31 @@
     "published_at": "Sun, 15 Nov 2026 12:00:00 +0700",
     "createAt": "2026-11-15T05:00:00.000Z",
     "thumbnail_blurhash": "LP4x}=p3g4ous+jWjWjYRKi@njaj"
+  },
+  {
+    "id": "https://vnexpress.net/hai-ngay-chao-dao-vi-cac-su-co-cong-nghe-5144815.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Hai ngày chao đảo vì các sự cố công nghệ",
+    "description": "Outlook của Microsoft gián đoạn trên toàn cầu, hệ thống liên lạc hàng không Mỹ gặp trục trặc, trong khi nhiều cuộc tấn công mạng nhắm vào hạ tầng thiết yếu tuần này.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/15/dsc02330-jpg-1794711810-6020-1794712922.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ewZPpmdcZ1s5POU940Cb1A",
+    "link": "https://vnexpress.net/hai-ngay-chao-dao-vi-cac-su-co-cong-nghe-5144815.html",
+    "published_at": "Sun, 15 Nov 2026 12:00:00 +0700",
+    "createAt": "2026-11-15T05:00:00.000Z",
+    "thumbnail_blurhash": "LP4x}=p3g4ous+jWjWjYRKi@njaj"
+  },
+  {
+    "id": "https://vnexpress.net/meta-bi-phat-887-trieu-usd-vi-tu-y-xem-anh-nguoi-dung-facebook-5144837.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Meta bị phạt 887 triệu USD vì tự ý xem ảnh người dùng Facebook",
+    "description": "Italy phạt Meta vì ứng dụng Facebook trên Android truy cập ảnh, video trong điện thoại mà không có sự đồng ý cụ thể của người dùng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/15/000q37zj-1794722601-9782-1794723367.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=hPsFTO6vznoQ7hBdsOrDIw",
+    "link": "https://vnexpress.net/meta-bi-phat-887-trieu-usd-vi-tu-y-xem-anh-nguoi-dung-facebook-5144837.html",
+    "published_at": "Sun, 15 Nov 2026 13:18:56 +0700",
+    "createAt": "2026-11-15T06:18:56.000Z",
+    "thumbnail_blurhash": "LD7-:L%NVrofs;%jt7Ri4TRjx_WB"
   }
 ]

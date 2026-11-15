@@ -336,5 +336,31 @@
     "published_at": "Sun, 15 Nov 2026 12:00:00 +0700",
     "createAt": "2026-11-15T05:00:00.000Z",
     "thumbnail_blurhash": "LHLNc24T8w~9^$ic$*t8roM}x]bv"
+  },
+  {
+    "id": "https://vnexpress.net/an-trung-thuong-xuyen-anh-huong-den-huyet-ap-the-nao-5144764.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Ăn trứng thường xuyên ảnh hưởng đến huyết áp thế nào",
+    "description": "Trứng chứa ít natri, thường không làm tăng huyết áp song cách chế biến và thực phẩm ăn kèm có thể ảnh hưởng đến chỉ số này.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/14/trung-luoc-1794669126-8224-1794669158.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=3jdTM9IfnU3pqLtMO3mJHQ",
+    "link": "https://vnexpress.net/an-trung-thuong-xuyen-anh-huong-den-huyet-ap-the-nao-5144764.html",
+    "published_at": "Sun, 15 Nov 2026 13:00:00 +0700",
+    "createAt": "2026-11-15T06:00:00.000Z",
+    "thumbnail_blurhash": "LCMQCY%100V{~WtRo#MdALkWR2Mx"
+  },
+  {
+    "id": "https://vnexpress.net/cac-yeu-to-lam-tang-nguy-co-ngung-tho-khi-ngu-5144584.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Các yếu tố làm tăng nguy cơ ngưng thở khi ngủ",
+    "description": "Thừa cân, yếu tố di truyền, thói quen hút thuốc lá và uống rượu bia có thể làm thu hẹp đường thở, cản trở quá trình điều hòa hô hấp khi ngủ.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/14/can-nang-1794645025-6394-1794647539.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=J8ci4h7sPzrnUW2m8t0Aag",
+    "link": "https://vnexpress.net/cac-yeu-to-lam-tang-nguy-co-ngung-tho-khi-ngu-5144584.html",
+    "published_at": "Sun, 15 Nov 2026 13:00:00 +0700",
+    "createAt": "2026-11-15T06:00:00.000Z",
+    "thumbnail_blurhash": "LpMjddxu_Nxu~WayNGj[Nej[RPfk"
   }
 ]
