@@ -414,5 +414,31 @@
     "published_at": "Tue, 17 Nov 2026 01:00:00 +0700",
     "createAt": "2026-11-16T18:00:00.000Z",
     "thumbnail_blurhash": "LMG%[ixwE0RP}BgMbJahH?nhn%s9"
+  },
+  {
+    "id": "https://vnexpress.net/nhieu-tom-hum-o-vinh-xuan-dai-chet-dot-ngot-5145428.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Nhiều tôm hùm ở vịnh Xuân Đài chết đột ngột",
+    "description": "Khoảng 3 tấn tôm hùm của 35 hộ nuôi ở vịnh Xuân Đài chết đột ngột, người dân thu gom bán giá 300.000-600.000 đồng mỗi kg, thấp khoảng một nửa so với tôm sống.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/17/hum-hum-1794848449-8171-1794848542.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=9fPNxvvlT4t0IJfKNhjfDw",
+    "link": "https://vnexpress.net/nhieu-tom-hum-o-vinh-xuan-dai-chet-dot-ngot-5145428.html",
+    "published_at": "Tue, 17 Nov 2026 05:00:00 +0700",
+    "createAt": "2026-11-16T22:00:00.000Z",
+    "thumbnail_blurhash": "L5B:W]bJ?wo~~VX8ozx]NG%Mahxa"
+  },
+  {
+    "id": "https://vnexpress.net/giai-phau-sai-pham-tai-to-hop-chung-cu-cua-muong-thanh-5143404.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Giải phẫu sai phạm tại tổ hợp chung cư của Mường Thanh",
+    "description": "Chỉ được phê duyệt 231 căn hộ trong quy hoạch chung cư CT6 Kiến Hưng, nhưng tập đoàn Mường Thanh đã xây trái phép thành 1.582 căn. Đây chỉ là một trong 12 dự án sai phạm của tập đoàn này tại Hà Nội.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/15/20261115MuongThanh-1794717433-2168-1794717438.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=G9GPw3PK3QjU46yu3f2GYQ",
+    "link": "https://vnexpress.net/giai-phau-sai-pham-tai-to-hop-chung-cu-cua-muong-thanh-5143404.html",
+    "published_at": "Tue, 17 Nov 2026 05:00:00 +0700",
+    "createAt": "2026-11-16T22:00:00.000Z",
+    "thumbnail_blurhash": "LQRCi0?^V@rr?GW;Rjae-;RPozWB"
   }
 ]
