@@ -1,3 +1,69 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/hon-10-nam-song-o-chung-cu-ong-le-thanh-than-sai-pham-5142830.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Hơn 10 năm sống ở 'chung cư ông Lê Thanh Thản' sai phạm",
+      "description": "Hàng trăm hộ dân chung cư CT6 đối mặt nguy cơ mất nhà hoặc phải di dời ngay trước phiên xử sơ thẩm vụ án lừa dối khách hàng của ông Lê Thanh Thản.",
+      "thumbnail_url": "https://vcdn1-giadinh.vnecdn.net/2026/11/10/untitled-1794324116-9918-1794325326.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ABSXxKEh4l5aEBsjl1hoGQ",
+      "link": "https://vnexpress.net/hon-10-nam-song-o-chung-cu-ong-le-thanh-than-sai-pham-5142830.html",
+      "published_at": "Mon, 16 Nov 2026 06:00:00 +0700",
+      "createAt": "2026-11-15T23:00:00.000Z",
+      "thumbnail_blurhash": "LBC6u+%NE1E2_NNMkCWqESIp-:-o"
+    },
+    {
+      "id": "https://vnexpress.net/chip-nvidia-hon-chip-trung-quoc-the-nao-5144937.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Chip Nvidia hơn chip Trung Quốc thế nào?",
+      "description": "Để vận hành hiệu quả, chip AI cần sức mạnh tính toán, bộ nhớ tốc độ cao và phần mềm điều khiển, đều là những mắt xích Trung Quốc chưa thể tự chủ.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/15/Thumbngang8-1794742005-4281-1794742796.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=4SYgEi3mdk1sQwV7GcOrfw",
+      "link": "https://vnexpress.net/chip-nvidia-hon-chip-trung-quoc-the-nao-5144937.html",
+      "published_at": "Mon, 16 Nov 2026 06:00:00 +0700",
+      "createAt": "2026-11-15T23:00:00.000Z",
+      "thumbnail_blurhash": "LNH{pNUUxmx[58?iS_kR%}xWS%a%"
+    },
+    {
+      "id": "https://vnexpress.net/anh-phien-ban-2-0-cat-chuoi-tran-bat-bai-cua-tay-ban-nha-5145006.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "'Anh phiên bản 2.0' cắt chuỗi trận bất bại của Tây Ban Nha",
+      "description": "Buổi tối Madrid ngày 15/11, mạch 43 trận bất bại liên tiếp của đương kim vô địch thế giới Tây Ban Nha đã kết thúc, khi thúc thủ 2-3 trước Anh ở lượt cuối bảng A3 Nations League 2026-2027.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/11/16/Screenshot20261116063123-17947-6754-5936-1794785717.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=GWa6DX6qpHmrkeJQmkB00w",
+      "link": "https://vnexpress.net/anh-phien-ban-2-0-cat-chuoi-tran-bat-bai-cua-tay-ban-nha-5145006.html",
+      "published_at": "Mon, 16 Nov 2026 06:42:31 +0700",
+      "createAt": "2026-11-15T23:42:31.000Z",
+      "thumbnail_blurhash": "L6F=5Q0000mm00PU.8F{Ub=d~B=x"
+    },
+    {
+      "id": "https://vnexpress.net/iran-noi-sieu-tau-cho-2-trieu-thung-dau-chim-o-hormuz-5145000.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Iran nói siêu tàu chở 2 triệu thùng dầu chìm ở Hormuz",
+      "description": "Vệ binh Hồi giáo Iran tuyên bố siêu tàu chở hơn 2 triệu thùng dầu đã trúng thủy lôi, bốc cháy và chìm tại eo biển Hormuz.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/16/screen-shot-at-1794784406-9073-1794784962.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=CiV24jn5LEncd8-qnLGf-g",
+      "link": "https://vnexpress.net/iran-noi-sieu-tau-cho-2-trieu-thung-dau-chim-o-hormuz-5145000.html",
+      "published_at": "Mon, 16 Nov 2026 06:45:08 +0700",
+      "createAt": "2026-11-15T23:45:08.000Z",
+      "thumbnail_blurhash": "LLIE@W.9?w?c%g.8xuo#-pIURkRj"
+    },
+    {
+      "id": "https://vnexpress.net/ong-trump-lan-dau-len-tieng-ve-lenh-dinh-chi-bay-toan-nuoc-my-5145005.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Ông Trump lần đầu lên tiếng về lệnh đình chỉ bay toàn nước Mỹ",
+      "description": "Tổng thống Trump nói rằng chính quyền người tiền nhiệm Biden phải chịu trách nhiệm về hệ thống kiểm soát không lưu ngày càng tồi tệ ở Mỹ.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/16/afp-d6yh7ft-v1-highres-uspresi-6033-7290-1794786897.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ZwFxR3tftMVCpbs_kfQzfA",
+      "link": "https://vnexpress.net/ong-trump-lan-dau-len-tieng-ve-lenh-dinh-chi-bay-toan-nuoc-my-5145005.html",
+      "published_at": "Mon, 16 Nov 2026 07:04:39 +0700",
+      "createAt": "2026-11-16T00:04:39.000Z",
+      "thumbnail_blurhash": "LWDmzaogAvoh%%X9XnkVNeju$ykW"
+    }
+  ]
 }
