@@ -661,5 +661,31 @@
     "published_at": "Mon, 16 Nov 2026 15:43:36 +0700",
     "createAt": "2026-11-16T08:43:36.000Z",
     "thumbnail_blurhash": "LBF=?a~p4no#00bd-;WV?Gxu%h-:"
+  },
+  {
+    "id": "https://vnexpress.net/de-xuat-bo-toc-do-toi-thieu-mot-so-doan-duong-tren-cao-toc-5145332.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Đề xuất bỏ tốc độ tối thiểu một số đoạn đường trên cao tốc",
+    "description": "Bộ Xây dựng đề xuất không quy định tốc độ tối thiểu tại trạm thu phí, làn chuyển tiếp nhập, tách cao tốc, khi ùn tắc, cứu hộ.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/16/img-jpg-1794844778-6716-1794844880.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=LMihMUHCXOhRnBy5kjKYWA",
+    "link": "https://vnexpress.net/de-xuat-bo-toc-do-toi-thieu-mot-so-doan-duong-tren-cao-toc-5145332.html",
+    "published_at": "Mon, 16 Nov 2026 23:22:24 +0700",
+    "createAt": "2026-11-16T16:22:24.000Z",
+    "thumbnail_blurhash": "LeFG@EbI.Ao#KRkCtTbc%ij[ITjE"
+  },
+  {
+    "id": "https://vnexpress.net/tram-sac-trung-quoc-cam-xe-may-va-xe-dap-dien-vi-lo-chay-no-5145026.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Trạm sạc Trung Quốc cấm xe máy và xe đạp điện vì lo cháy nổ",
+    "description": "Hệ thống trạm sạc lớn nhất Trung Quốc cấm xe hai bánh chạy điện vì cho rằng việc dùng bộ chuyển đổi không đạt chuẩn gây mất an toàn.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/16/teld-1794812172-6038-1794812276.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=IpQ2q1gsQi17AZERSuBI3w",
+    "link": "https://vnexpress.net/tram-sac-trung-quoc-cam-xe-may-va-xe-dap-dien-vi-lo-chay-no-5145026.html",
+    "published_at": "Tue, 17 Nov 2026 00:00:00 +0700",
+    "createAt": "2026-11-16T17:00:00.000Z",
+    "thumbnail_blurhash": "LYGbk#NKIqM_~VxvIoRi-oIVWCt7"
   }
 ]
