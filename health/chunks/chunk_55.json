@@ -843,5 +843,57 @@
     "published_at": "Mon, 16 Nov 2026 16:00:00 +0700",
     "createAt": "2026-11-16T09:00:00.000Z",
     "thumbnail_blurhash": "L9E2E[VXiMe?~o5k%1r?t6T0x@J8"
+  },
+  {
+    "id": "https://vnexpress.net/dieu-gi-xay-ra-voi-giac-ngu-khi-ban-bo-bua-toi-5144966.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Điều gì xảy ra với giấc ngủ khi bạn bỏ bữa tối?",
+    "description": "Thói quen nhịn ăn tối không chỉ gây đói cồn cào vào đêm muộn hay sáng hôm sau mà còn làm rối loạn nhịp sinh học, dễ gây tỉnh giấc giữa đêm và suy giảm chất lượng nghỉ ngơi.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/15/screenshot-at-1794752729-1186-1794752748.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=BBV_3n1q-dTSaEar75dzdQ",
+    "link": "https://vnexpress.net/dieu-gi-xay-ra-voi-giac-ngu-khi-ban-bo-bua-toi-5144966.html",
+    "published_at": "Mon, 16 Nov 2026 17:00:00 +0700",
+    "createAt": "2026-11-16T10:00:00.000Z",
+    "thumbnail_blurhash": "LJL;:BpJ.mI9-;R*M{D%D%adtRIA"
+  },
+  {
+    "id": "https://vnexpress.net/sinh-con-dau-long-nho-phac-do-dieu-tri-cap-doi-5145220.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Sinh con đầu lòng nhờ phác đồ điều trị 'cặp đôi'",
+    "description": "Chị Tuyết, 34 tuổi, giảm dự trữ buồng trứng còn chồng tinh trùng yếu, được bác sĩ áp dụng phác đồ điều trị song song và thụ tinh ống nghiệm thành công.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/16/anh-1794807156-9172-1794807224.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=_lWglQ9mGkZEoqFZO7BzFA",
+    "link": "https://vnexpress.net/sinh-con-dau-long-nho-phac-do-dieu-tri-cap-doi-5145220.html",
+    "published_at": "Mon, 16 Nov 2026 17:00:00 +0700",
+    "createAt": "2026-11-16T10:00:00.000Z",
+    "thumbnail_blurhash": "LFNA3s{b00^$YD1b0Kx^%eZ$OFx^"
+  },
+  {
+    "id": "https://vnexpress.net/trieu-chung-tai-mui-hong-thuong-gap-khi-mac-cum-5145165.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Triệu chứng tai mũi họng thường gặp khi mắc cúm",
+    "description": "Bên cạnh sốt cao và đau nhức toàn thân, virus cúm có thể ảnh hưởng đến tai mũi họng, gây nghẹt mũi, đau rát họng.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/16/432492354-n-1794801480-7998-1794801506.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=66SQydCORZXm98OGsvlpIQ",
+    "link": "https://vnexpress.net/trieu-chung-tai-mui-hong-thuong-gap-khi-mac-cum-5145165.html",
+    "published_at": "Mon, 16 Nov 2026 17:00:00 +0700",
+    "createAt": "2026-11-16T10:00:00.000Z",
+    "thumbnail_blurhash": "L3CQPhxA;L^c0J9a0Px^02E-%%Kl"
+  },
+  {
+    "id": "https://vnexpress.net/magie-vitamin-d-anh-huong-can-nang-the-nao-5145036.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Magie, vitamin D ảnh hưởng cân nặng thế nào?",
+    "description": "Thiếu hụt magie và vitamin D có thể làm gián đoạn quá trình chuyển hóa năng lượng tế bào, khiến mỡ nội tạng khó bị đốt cháy hơn bình thường.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/16/430127755-n-1794790694-5727-1794790738.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=39bqcKbveDxMCeJd5HsoKw",
+    "link": "https://vnexpress.net/magie-vitamin-d-anh-huong-can-nang-the-nao-5145036.html",
+    "published_at": "Mon, 16 Nov 2026 17:00:00 +0700",
+    "createAt": "2026-11-16T10:00:00.000Z",
+    "thumbnail_blurhash": "LHF#,DNHIXM{~nt7D+RQ-.xtNKIp"
   }
 ]
