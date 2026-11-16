@@ -882,5 +882,31 @@
     "published_at": "Mon, 16 Nov 2026 09:30:00 +0700",
     "createAt": "2026-11-16T02:30:00.000Z",
     "thumbnail_blurhash": "LYG%r?SgMdNH|=oej]WqDhxGb_xG"
+  },
+  {
+    "id": "https://vnexpress.net/bi-an-vien-kim-cuong-300-000-usd-bien-mat-sau-tai-nan-f1-5145029.html",
+    "category_id": "sports",
+    "category_name": "Thể thao",
+    "source": "VnExpress",
+    "title": "Bí ẩn viên kim cương 300.000 USD biến mất sau tai nạn F1",
+    "description": "Viên kim cương trị giá 300.000 USD gắn trên xe đua Jaguar biến mất sau tai nạn tại Monaco Grand Prix 2004, để lại bí ẩn chưa có lời giải suốt 22 năm.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/11/16/34faa3c0-dea4f1-b441b33b063138-7602-7686-1794804299.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=_2ULWN6TNOkm1b-HDtSxog",
+    "link": "https://vnexpress.net/bi-an-vien-kim-cuong-300-000-usd-bien-mat-sau-tai-nan-f1-5145029.html",
+    "published_at": "Mon, 16 Nov 2026 11:45:58 +0700",
+    "createAt": "2026-11-16T04:45:58.000Z",
+    "thumbnail_blurhash": "LLMOBP|3Ed#Bs;J6My-:39Ki$km,"
+  },
+  {
+    "id": "https://vnexpress.net/hlv-moriyasu-va-hanh-trinh-khong-tron-ven-cung-nhat-ban-5145147.html",
+    "category_id": "sports",
+    "category_name": "Thể thao",
+    "source": "VnExpress",
+    "title": "HLV Moriyasu và hành trình không trọn vẹn cùng Nhật Bản",
+    "description": "Từng gây tiếng vang với những chiến thắng trước Đức, Tây Ban Nha và Brazil, nhưng Nhật Bản thiếu một bước đột phá để khiến hành trình dưới thời HLV Hajime Moriyasu trọn vẹn hơn.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/11/16/afp-d2a27uv-v1-highres-fbljpnn-1961-4689-1794802228.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=JPgGZHco-Gh-NJv8Pm7UoA",
+    "link": "https://vnexpress.net/hlv-moriyasu-va-hanh-trinh-khong-tron-ven-cung-nhat-ban-5145147.html",
+    "published_at": "Mon, 16 Nov 2026 12:00:00 +0700",
+    "createAt": "2026-11-16T05:00:00.000Z",
+    "thumbnail_blurhash": "L9Guqf15^3~XF*~9D49s4qESE0Mc"
   }
 ]
