@@ -947,5 +947,31 @@
     "published_at": "Mon, 16 Nov 2026 19:00:00 +0700",
     "createAt": "2026-11-16T12:00:00.000Z",
     "thumbnail_blurhash": "LJM?k-~A0.Sh-ps.NGvyIXxuPBOG"
+  },
+  {
+    "id": "https://vnexpress.net/bac-si-giai-ma-tinh-trang-ke-thua-nguoi-thieu-trong-phong-ngu-5144915.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Bác sĩ giải mã tình trạng 'kẻ thừa, người thiếu' trong phòng ngủ",
+    "description": "Một người mong muốn gần gũi thường xuyên, người kia lại ít ham muốn hoặc tìm cách né tránh, khiến chuyện chăn gối dần trở thành áp lực dù tình cảm vợ chồng vẫn mặn nồng.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/15/gemini-generated-image-uk1h9zu-7958-6221-1794736331.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=Sn2HOtVRDoVMcc0oGv0Z1Q",
+    "link": "https://vnexpress.net/bac-si-giai-ma-tinh-trang-ke-thua-nguoi-thieu-trong-phong-ngu-5144915.html",
+    "published_at": "Tue, 17 Nov 2026 00:03:00 +0700",
+    "createAt": "2026-11-16T17:03:00.000Z",
+    "thumbnail_blurhash": "LfEerc-nnhWC~B$~V?Rk%LodRjRk"
+  },
+  {
+    "id": "https://vnexpress.net/dieu-gi-xay-ra-voi-than-khi-an-chuoi-hang-ngay-5145236.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Điều gì xảy ra với thận khi ăn chuối hàng ngày?",
+    "description": "Chuối cung cấp kali giúp điều hòa huyết áp, hỗ trợ chức năng thận, song người mắc bệnh thận tiến triển cần kiểm soát lượng ăn để tránh dư thừa khoáng chất này.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/16/chuoi-1794809803-9749-1794809951.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=9wJE3Ho61udQxqexVMScFw",
+    "link": "https://vnexpress.net/dieu-gi-xay-ra-voi-than-khi-an-chuoi-hang-ngay-5145236.html",
+    "published_at": "Tue, 17 Nov 2026 00:04:00 +0700",
+    "createAt": "2026-11-16T17:04:00.000Z",
+    "thumbnail_blurhash": "LKH2Dm%%El-i~qxuM|e-0Vt2%0oN"
   }
 ]
