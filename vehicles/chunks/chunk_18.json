@@ -622,5 +622,31 @@
     "published_at": "Mon, 16 Nov 2026 12:51:10 +0700",
     "createAt": "2026-11-16T05:51:10.000Z",
     "thumbnail_blurhash": "LcHeUlaJRjof~qR*ayoe^+ozoeax"
+  },
+  {
+    "id": "https://vnexpress.net/xe-may-cho-hang-keo-nguoi-khac-nga-truoc-dau-xe-tai-5145244.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Xe máy chở hàng kéo người khác ngã trước đầu xe tải",
+    "description": "Hàng cồng kềnh từ một chiếc xe máy vướng vào một phụ nữ, khiến người này ngã trước đầu xe tải, hôm 15/11 tại Nguyễn Ảnh Thủ.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/16/ezgif583a345262d760af-17948112-1341-1860-1794811246.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=lit5ViQDx5M8MpwZEHl_Gw&t=image",
+    "link": "https://vnexpress.net/xe-may-cho-hang-keo-nguoi-khac-nga-truoc-dau-xe-tai-5145244.html",
+    "published_at": "Mon, 16 Nov 2026 15:23:29 +0700",
+    "createAt": "2026-11-16T08:23:29.000Z",
+    "thumbnail_blurhash": "LRFiS-E1WCWX~pRja}t7RPoMozt7"
+  },
+  {
+    "id": "https://vnexpress.net/lynk-co-giai-bai-toan-ha-tang-sac-voi-em-p-super-hybrid-5145302.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Lynk &amp; Co giải bài toán hạ tầng sạc với EM-P Super Hybrid",
+    "description": "Hệ truyền động hybrid cấp độ cao (EM-P Super Hybrid) của Lynk &amp; Co cho trải nghiệm di chuyển thuần điện với quãng đường xa, không phụ thuộc hạ tầng sạc trên hành trình dài.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/16/1-1794817635-1693-1794817685.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=cJ451YlO3azSwsz8b5pelQ",
+    "link": "https://vnexpress.net/lynk-co-giai-bai-toan-ha-tang-sac-voi-em-p-super-hybrid-5145302.html",
+    "published_at": "Mon, 16 Nov 2026 15:30:00 +0700",
+    "createAt": "2026-11-16T08:30:00.000Z",
+    "thumbnail_blurhash": "L|Ms+ft6xZxa~VofR*oex]oyR+WC"
   }
 ]
