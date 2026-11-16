@@ -518,5 +518,31 @@
     "published_at": "Mon, 16 Nov 2026 06:45:08 +0700",
     "createAt": "2026-11-15T23:45:08.000Z",
     "thumbnail_blurhash": "LLIE@W.9?w?c%g.8xuo#-pIURkRj"
+  },
+  {
+    "id": "https://vnexpress.net/ong-trump-lan-dau-len-tieng-ve-lenh-dinh-chi-bay-toan-nuoc-my-5145005.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Ông Trump lần đầu lên tiếng về lệnh đình chỉ bay toàn nước Mỹ",
+    "description": "Tổng thống Trump nói rằng chính quyền người tiền nhiệm Biden phải chịu trách nhiệm về hệ thống kiểm soát không lưu ngày càng tồi tệ ở Mỹ.",
+    "thumbnail_url": "https://i1-vnexpress.vnecdn.net/2026/11/16/afp-d6yh7ft-v1-highres-uspresi-6033-7290-1794786897.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ZwFxR3tftMVCpbs_kfQzfA",
+    "link": "https://vnexpress.net/ong-trump-lan-dau-len-tieng-ve-lenh-dinh-chi-bay-toan-nuoc-my-5145005.html",
+    "published_at": "Mon, 16 Nov 2026 07:04:39 +0700",
+    "createAt": "2026-11-16T00:04:39.000Z",
+    "thumbnail_blurhash": "LWDmzaogAvoh%%X9XnkVNeju$ykW"
+  },
+  {
+    "id": "https://vnexpress.net/bo-truong-my-dat-thoi-han-10-ngay-voi-cuoc-dieu-tra-tai-nvidia-5145003.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Bộ trưởng Mỹ đặt thời hạn 10 ngày với cuộc điều tra tại Nvidia",
+    "description": "Bộ trưởng Tài chính Mỹ yêu cầu Nvidia giải trình về lỗ hổng xuất khẩu chip AI, cho rằng không nên tập trung vào chuyện cá nhân của Jensen Huang.",
+    "thumbnail_url": "https://i1-vnexpress.vnecdn.net/2026/11/16/ap26236625156119-1794786720-9332-1794786962.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=biJGsBPnAtphsj042D5_xA",
+    "link": "https://vnexpress.net/bo-truong-my-dat-thoi-han-10-ngay-voi-cuoc-dieu-tra-tai-nvidia-5145003.html",
+    "published_at": "Mon, 16 Nov 2026 07:21:36 +0700",
+    "createAt": "2026-11-16T00:21:36.000Z",
+    "thumbnail_blurhash": "L6BpCI;r4,S6pd$+1itJ0*Rl-ox@"
   }
 ]
