@@ -765,5 +765,44 @@
     "published_at": "Mon, 16 Nov 2026 13:43:50 +0700",
     "createAt": "2026-11-16T06:43:50.000Z",
     "thumbnail_blurhash": "LPD9b.-V0xNZ-,xCV[oL18kD}k$e"
+  },
+  {
+    "id": "https://vnexpress.net/da-dau-co-de-nam-5145222.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Da dầu có dễ nám?",
+    "description": "Tôi da dầu dễ nổi mụn, gần đây xuất hiện nhiều đốm nâu hai bên má. Tuyến bã nhờn hoạt động mạnh có khiến da dễ nám? (Thanh Thảo, TP HCM)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/16/mo-hinh-tuyen-ba-nhon-hoat-don-9775-5048-1794807392.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=v9sy-K9uCdablSeoZ-KBBw",
+    "link": "https://vnexpress.net/da-dau-co-de-nam-5145222.html",
+    "published_at": "Mon, 16 Nov 2026 14:30:00 +0700",
+    "createAt": "2026-11-16T07:30:00.000Z",
+    "thumbnail_blurhash": "LqQj$t%2%2%2-@t7R*WVt-kBbEW;"
+  },
+  {
+    "id": "https://vnexpress.net/an-it-thit-ca-co-song-tho-hon-5145106.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Ăn ít thịt, cá có sống thọ hơn?",
+    "description": "Tôi thấy nhiều người cắt giảm thịt, cá với hy vọng trẻ hóa cơ thể, nhiều thông tin còn cho rằng ăn ít đạm từ thịt, cá giúp sống thọ hơn, liệu có đúng? (Ngân, 50 tuổi, Hà Nội)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/16/buoc-1794798010-7252-1794798017.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=jq7HoiKjXiXE5XingiBF1Q",
+    "link": "https://vnexpress.net/an-it-thit-ca-co-song-tho-hon-5145106.html",
+    "published_at": "Mon, 16 Nov 2026 15:00:00 +0700",
+    "createAt": "2026-11-16T08:00:00.000Z",
+    "thumbnail_blurhash": "LBF#w0IU019F~pD%%2Rj0hIU%fV@"
+  },
+  {
+    "id": "https://vnexpress.net/5-nguyen-nhan-khien-mat-sung-du-ngu-du-giac-5145082.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "5 nguyên nhân khiến mắt sưng dù ngủ đủ giấc",
+    "description": "Dị ứng, ăn mặn, thay đổi hormone, viêm xoang và kích ứng mỹ phẩm có thể khiến vùng quanh mắt sưng húp dù đã ngủ đủ giấc.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/16/bong-mat1-1794796341-3162-1794796355.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=Ivobqo03h3eh20B68ltu-g",
+    "link": "https://vnexpress.net/5-nguyen-nhan-khien-mat-sung-du-ngu-du-giac-5145082.html",
+    "published_at": "Mon, 16 Nov 2026 15:00:00 +0700",
+    "createAt": "2026-11-16T08:00:00.000Z",
+    "thumbnail_blurhash": "L8LyWL000fE%0f4:~pIVtmadXS%1"
   }
 ]
