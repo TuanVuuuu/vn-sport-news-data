@@ -739,5 +739,31 @@
     "published_at": "Mon, 16 Nov 2026 12:43:24 +0700",
     "createAt": "2026-11-16T05:43:24.000Z",
     "thumbnail_blurhash": "L8IE9H-@0f+F00n%R7I,00%KkXKj"
+  },
+  {
+    "id": "https://vnexpress.net/4-loai-rau-xanh-nguoi-trao-nguoc-da-day-nen-an-thuong-xuyen-5145046.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "4 loại rau xanh người trào ngược dạ dày nên ăn thường xuyên",
+    "description": "Bông cải xanh, măng tây, cải xoăn có tính kiềm, giàu nước, hỗ trợ trung hòa và làm giảm axit trong dạ dày.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/16/fresh-green-asparagus-bowl-marble-background-1794791503.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=VBtqN36g7cKe2vwmbUuKRA",
+    "link": "https://vnexpress.net/4-loai-rau-xanh-nguoi-trao-nguoc-da-day-nen-an-thuong-xuyen-5145046.html",
+    "published_at": "Mon, 16 Nov 2026 13:00:00 +0700",
+    "createAt": "2026-11-16T06:00:00.000Z",
+    "thumbnail_blurhash": "LE9[U+tP%JV^?;t6t6jI.Nx?oftP"
+  },
+  {
+    "id": "https://vnexpress.net/vi-sao-dan-van-phong-nhin-an-van-khong-thoat-canh-beo-bung-5145115.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Vì sao dân văn phòng nhịn ăn vẫn không thoát cảnh béo bụng?",
+    "description": "Ngồi lâu, căng thẳng kinh niên, mệt mỏi trí óc và ánh sáng nhân tạo là 4 bẫy sinh học khiến dân văn phòng dễ tích mỡ bụng.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/16/screenshot-at-1794807456-8094-1794807530.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=R3qyKRDlPwmzSYeqXR065Q",
+    "link": "https://vnexpress.net/vi-sao-dan-van-phong-nhin-an-van-khong-thoat-canh-beo-bung-5145115.html",
+    "published_at": "Mon, 16 Nov 2026 13:43:50 +0700",
+    "createAt": "2026-11-16T06:43:50.000Z",
+    "thumbnail_blurhash": "LPD9b.-V0xNZ-,xCV[oL18kD}k$e"
   }
 ]
