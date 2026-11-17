@@ -271,5 +271,31 @@
     "published_at": "Tue, 17 Nov 2026 08:00:00 +0700",
     "createAt": "2026-11-17T01:00:00.000Z",
     "thumbnail_blurhash": "LAHx+_%~9Y?]_N.S?w_NX8?b%MRj"
+  },
+  {
+    "id": "https://vnexpress.net/huong-cang-la-ten-goi-khac-cua-noi-nao-5145491.html",
+    "category_id": "relax",
+    "category_name": "Thư giãn",
+    "source": "VnExpress",
+    "title": "Hương Cảng là tên gọi khác của nơi nào?",
+    "description": "Một cái tên Hán Việt mang ý nghĩa đặc biệt, từng xuất hiện nhiều trong sách báo và phim ảnh. Bạn có nhận ra địa danh này?",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/17/huong-cang-giua-long-hong-kong-2750-3309-1794879505.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=sW4RsOq_uU97cbz1GCa1ZQ",
+    "link": "https://vnexpress.net/huong-cang-la-ten-goi-khac-cua-noi-nao-5145491.html",
+    "published_at": "Tue, 17 Nov 2026 09:30:00 +0700",
+    "createAt": "2026-11-17T02:30:00.000Z",
+    "thumbnail_blurhash": "LQEz.@mkPCPW}HcGKRnOQ-bvI[s9"
+  },
+  {
+    "id": "https://vnexpress.net/chiec-xe-tai-nao-dang-phanh-5145298.html",
+    "category_id": "relax",
+    "category_name": "Thư giãn",
+    "source": "VnExpress",
+    "title": "Chiếc xe tải nào đang phanh?",
+    "description": "Bài toán logic đánh lừa tư duy, chỉ 5% người thông minh nhận ra chiếc xe tải nào đang đạp phanh gấp dựa vào chất lỏng!",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/17/902350489-1794885929-6995-1794886462.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=x8WXAbx0KEqdVFaydDopuw",
+    "link": "https://vnexpress.net/chiec-xe-tai-nao-dang-phanh-5145298.html",
+    "published_at": "Tue, 17 Nov 2026 10:35:34 +0700",
+    "createAt": "2026-11-17T03:35:34.000Z",
+    "thumbnail_blurhash": "LtM%.k-;_Nog%Mj?jZWYRioJofWY"
   }
 ]
