@@ -154,5 +154,31 @@
     "published_at": "Tue, 17 Nov 2026 08:11:24 +0700",
     "createAt": "2026-11-17T01:11:24.000Z",
     "thumbnail_blurhash": "L45#L$~V#=9G=#wHwIV@009GSw.6"
+  },
+  {
+    "id": "https://vnexpress.net/apple-co-the-ra-kinh-thong-minh-dau-tien-nam-toi-5145397.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Apple có thể ra kính thông minh đầu tiên năm tới",
+    "description": "Apple Glass được cho là sẽ xuất hiện tại sự kiện WWDC tháng 6/2027, tập trung vào tương tác giọng nói qua trợ lý Siri, cạnh tranh trực tiếp với kính Meta.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/16/apple-1794835396-2009-1794835443.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=9YwoAsqboygdGilhHiPseg",
+    "link": "https://vnexpress.net/apple-co-the-ra-kinh-thong-minh-dau-tien-nam-toi-5145397.html",
+    "published_at": "Tue, 17 Nov 2026 09:00:00 +0700",
+    "createAt": "2026-11-17T02:00:00.000Z",
+    "thumbnail_blurhash": "L8I=410eM0.T=WMd*0R%-:DOyEou"
+  },
+  {
+    "id": "https://vnexpress.net/apple-cap-nhat-mo-khoa-khuon-mat-cho-iphone-duo-5145523.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Apple cập nhật mở khóa khuôn mặt cho iPhone Duo",
+    "description": "iPhone Duo bổ sung tính năng mở khóa bằng khuôn mặt qua phần mềm iOS 27.3 Beta 2 nhưng không hỗ trợ xác thực giao dịch như Face ID truyền thống.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/17/wm1-wm1-iPhone-1794882323-2683-1794882465.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=oqYCZMUd9zr7GIfYdkaIFQ",
+    "link": "https://vnexpress.net/apple-cap-nhat-mo-khoa-khuon-mat-cho-iphone-duo-5145523.html",
+    "published_at": "Tue, 17 Nov 2026 09:30:26 +0700",
+    "createAt": "2026-11-17T02:30:26.000Z",
+    "thumbnail_blurhash": "L9JuDl0000?tFw00.9?HDhxFXU_N"
   }
 ]
