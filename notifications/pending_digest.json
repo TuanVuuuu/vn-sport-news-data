@@ -1,6 +1,19 @@
 {
   "featured": [
     {
+      "id": "https://vnexpress.net/robert-pattinson-la-james-bond-the-he-moi-5145421.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Robert Pattinson là James Bond thế hệ mới",
+      "description": "Robert Pattinson kế nhiệm Daniel Craig, trở thành tài tử thứ bảy đảm nhận vai điệp viên James Bond 007 trên màn ảnh rộng.",
+      "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/11/17/ap26320607157210-1794849632-4553-1794849649.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Tm3h6fkWFRvqv9mCcURMzA",
+      "link": "https://vnexpress.net/robert-pattinson-la-james-bond-the-he-moi-5145421.html",
+      "published_at": "Tue, 17 Nov 2026 00:10:12 +0700",
+      "createAt": "2026-11-16T17:10:12.000Z",
+      "thumbnail_blurhash": "LzMQeYs.yDtR?wWBx]tRbcbIt6js"
+    },
+    {
       "id": "https://vnexpress.net/trien-vong-thuong-mai-the-nao-sau-moc-kim-ngach-1-000-ty-usd-5145303.html",
       "category_id": "featured",
       "category_name": "Tin nổi bật",
@@ -38,6 +51,19 @@
       "published_at": "Tue, 17 Nov 2026 06:00:00 +0700",
       "createAt": "2026-11-16T23:00:00.000Z",
       "thumbnail_blurhash": "LfMYD{}qMc=_}qSgEgkVD-WDsCn6"
+    },
+    {
+      "id": "https://vnexpress.net/doan-nghi-le-cong-an-viet-nam-dieu-hanh-tren-pho-tokyo-5145412.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Đoàn Nghi lễ Công an Việt Nam diễu hành trên phố Tokyo",
+      "description": "Trong sắc phục truyền thống, đoàn Nghi lễ Công an nhân dân Việt Nam vừa diễu hành vừa biểu diễn nhạc kèn trên phố Ginza, tại Liên hoan Nhạc hội cảnh sát thế giới 2026.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/16/Lark20261116222351-1794842651-1476-1794842755.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=A_5QZA1DurGu3tW72xda6g&t=image",
+      "link": "https://vnexpress.net/doan-nghi-le-cong-an-viet-nam-dieu-hanh-tren-pho-tokyo-5145412.html",
+      "published_at": "Tue, 17 Nov 2026 06:00:00 +0700",
+      "createAt": "2026-11-16T23:00:00.000Z",
+      "thumbnail_blurhash": "L9Eo.5bW_4-:00-;tQt8BB~XWBNG"
     },
     {
       "id": "https://vnexpress.net/vnexpress-ra-mat-giai-thuong-du-lich-5145315.html",
