@@ -89,5 +89,31 @@
     "published_at": "Tue, 17 Nov 2026 08:14:20 +0700",
     "createAt": "2026-11-17T01:14:20.000Z",
     "thumbnail_blurhash": "L58g1[-U000L}?-A5S0#E%Na=xwJ"
+  },
+  {
+    "id": "https://vnexpress.net/vietcombank-tp-hcm-nhan-huan-chuong-lao-dong-hang-nhat-lan-hai-5145537.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Vietcombank TP HCM nhận Huân chương Lao động hạng Nhất lần hai",
+    "description": "Vietcombank chi nhánh TP HCM được trao Huân chương Lao động hạng Nhất lần thứ hai nhân dịp kỷ niệm 50 năm thành lập, tối 15/11.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/17/20261116-hcm-kyniemnam-vcb-hcm-2541-1258-1794882707.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=vxAMEPss_x4GvuHXLEu3dQ",
+    "link": "https://vnexpress.net/vietcombank-tp-hcm-nhan-huan-chuong-lao-dong-hang-nhat-lan-hai-5145537.html",
+    "published_at": "Tue, 17 Nov 2026 09:30:00 +0700",
+    "createAt": "2026-11-17T02:30:00.000Z",
+    "thumbnail_blurhash": "LKC=-w}q}X#q=}r]-VxF0#9^K5Sx"
+  },
+  {
+    "id": "https://vnexpress.net/hai-ong-lon-tien-so-binance-va-okx-khau-chien-5145555.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Hai ông lớn tiền số Binance và OKX khẩu chiến",
+    "description": "Mâu thuẫn giữa nhà sáng lập Binance CZ và CEO OKX Star Xu tái bùng phát với những cáo buộc về trách nhiệm bảo vệ người dùng sau vụ hack.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/17/anhsettopvnexpress-1794883624-8541-1794883653.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=ZgipsShOKdK_RLKosX6dLA",
+    "link": "https://vnexpress.net/hai-ong-lon-tien-so-binance-va-okx-khau-chien-5145555.html",
+    "published_at": "Tue, 17 Nov 2026 10:29:37 +0700",
+    "createAt": "2026-11-17T03:29:37.000Z",
+    "thumbnail_blurhash": "LfIhEa6V8_rp~VKRNHoJI;S4ozxF"
   }
 ]
