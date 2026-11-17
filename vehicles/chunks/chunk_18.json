@@ -830,5 +830,31 @@
     "published_at": "Tue, 17 Nov 2026 19:00:00 +0700",
     "createAt": "2026-11-17T12:00:00.000Z",
     "thumbnail_blurhash": "L78N^JV@Dhj]_Nae8_j]xVkBRmt7"
+  },
+  {
+    "id": "https://vnexpress.net/de-xuat-giam-toc-do-xe-khach-giuong-nam-ngoai-khu-dan-cu-5145842.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Đề xuất giảm tốc độ xe khách giường nằm ngoài khu dân cư",
+    "description": "Xe khách giường nằm được đề xuất giảm tốc độ tối đa từ 80 xuống 70 km/h trên đường đôi và từ 70 xuống 60 km/h trên đường hai chiều.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/17/745046100-jpg-1794927144-1847-1794927165.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=76LoZTfdqKI10h4TrCJkPA",
+    "link": "https://vnexpress.net/de-xuat-giam-toc-do-xe-khach-giuong-nam-ngoai-khu-dan-cu-5145842.html",
+    "published_at": "Wed, 18 Nov 2026 05:00:00 +0700",
+    "createAt": "2026-11-17T22:00:00.000Z",
+    "thumbnail_blurhash": "LYFPNg%2?b-:~qxu-;%Mo~s:%Nt7"
+  },
+  {
+    "id": "https://vnexpress.net/mg-urban-xe-dien-co-nho-lo-dien-tai-viet-nam-5145715.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "MG Urban - xe điện cỡ nhỏ lộ diện tại Việt Nam",
+    "description": "Urban thay thế cho MG4 EV, bán ra hai phiên bản, tầm hoạt động 435-530 km khi pin đầy, mở bán từ 20/11.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/17/mgurbanvnexpress29jpg-17949061-6152-6654-1794906520.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ZMrRzuwz5EsRn0-AjGSZzg",
+    "link": "https://vnexpress.net/mg-urban-xe-dien-co-nho-lo-dien-tai-viet-nam-5145715.html",
+    "published_at": "Wed, 18 Nov 2026 05:30:00 +0700",
+    "createAt": "2026-11-17T22:30:00.000Z",
+    "thumbnail_blurhash": "L8CZX~o_D|s@?.tK9GjL00W*n?IV"
   }
 ]
