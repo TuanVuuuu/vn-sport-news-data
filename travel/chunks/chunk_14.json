@@ -687,5 +687,31 @@
     "published_at": "Tue, 17 Nov 2026 17:15:00 +0700",
     "createAt": "2026-11-17T10:15:00.000Z",
     "thumbnail_blurhash": "LEKBtEyY?c-;F3oy.Toz_Ns;4nni"
+  },
+  {
+    "id": "https://vnexpress.net/van-ly-truong-thanh-nhu-tranh-thuy-mac-duoi-tuyet-5145573.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Vạn Lý Trường Thành như tranh thủy mặc dưới tuyết",
+    "description": "Tuyết phủ trắng các ngọn núi và đoạn tường thành cổ ở Bát Đạt Lĩnh, Bắc Kinh, tạo nên khung cảnh mùa đông được nhiều du khách miêu tả \"đẹp như tranh thủy mặc\".",
+    "thumbnail_url": "https://i1-dulich.vnecdn.net/2026/11/17/6-1794887106.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=o5f0kdV1k3qCIiO63Ha-vw",
+    "link": "https://vnexpress.net/van-ly-truong-thanh-nhu-tranh-thuy-mac-duoi-tuyet-5145573.html",
+    "published_at": "Wed, 18 Nov 2026 00:00:00 +0700",
+    "createAt": "2026-11-17T17:00:00.000Z",
+    "thumbnail_blurhash": "LzEp+zbHWYoe?wkDWBofxtbHkCf6"
+  },
+  {
+    "id": "https://vnexpress.net/bat-ngo-tro-thanh-dai-su-nho-nhuong-khach-quoc-te-chai-sua-chuoi-5145581.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Bất ngờ trở thành đại sứ nhờ nhường khách quốc tế chai sữa chuối",
+    "description": "Một phụ nữ Hàn Quốc được hãng sữa bổ nhiệm làm đại sứ danh dự sau khi nhường chai sữa chuối cho du khách nước ngoài tại sân bay Incheon.",
+    "thumbnail_url": "https://i1-dulich.vnecdn.net/2026/11/17/news-p-v1a7384bb4eab1cb5cc01-p-2661-8591-1794886927.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=t0gulGmIvs5ouGbJcGnknQ",
+    "link": "https://vnexpress.net/bat-ngo-tro-thanh-dai-su-nho-nhuong-khach-quoc-te-chai-sua-chuoi-5145581.html",
+    "published_at": "Wed, 18 Nov 2026 00:09:00 +0700",
+    "createAt": "2026-11-17T17:09:00.000Z",
+    "thumbnail_blurhash": "LoIOtX_Mt5s.%MofxtbF%dR~R$WB"
   }
 ]
