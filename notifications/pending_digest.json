@@ -1,3 +1,17 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/de-xuat-canh-cao-hoac-tru-diem-giay-phep-lai-xe-voi-loi-it-nghiem-trong-5145791.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Đề xuất cảnh cáo hoặc trừ điểm giấy phép lái xe với lỗi ít nghiêm trọng",
+      "description": "Cục CSGT đang nghiên cứu xây dựng nghị định mới theo hướng phân hóa tính chất hành vi và số lần vi phạm, tránh phạt lỗi ít nghiêm trọng, phạm lỗi lần đầu.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/17/CaptureJPG-1794909863-4680-1794909874.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=KftDWkYKdUBLYyUOx8NVtQ",
+      "link": "https://vnexpress.net/de-xuat-canh-cao-hoac-tru-diem-giay-phep-lai-xe-voi-loi-it-nghiem-trong-5145791.html",
+      "published_at": "Tue, 17 Nov 2026 17:14:33 +0700",
+      "createAt": "2026-11-17T10:14:33.000Z",
+      "thumbnail_blurhash": "LME:6,?wo[-.Nt%M.8tRo#xb%No$"
+    }
+  ]
 }
