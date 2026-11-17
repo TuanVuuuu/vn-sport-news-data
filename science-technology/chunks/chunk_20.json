@@ -128,5 +128,31 @@
     "published_at": "Tue, 17 Nov 2026 05:00:00 +0700",
     "createAt": "2026-11-16T22:00:00.000Z",
     "thumbnail_blurhash": "L58X5%%14o4:~WoeIVM{00M|?a-:"
+  },
+  {
+    "id": "https://vnexpress.net/ben-trong-he-thong-phong-thi-nghiem-cua-vkist-5143142.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Bên trong hệ thống phòng thí nghiệm của VKIST",
+    "description": "Viện Khoa học và Công nghệ Việt Nam - Hàn Quốc (VKIST) được đầu tư năm phòng thí nghiệm hiện đại, phục vụ cho việc nghiên cứu, phát triển sản phẩm chăm sóc sức khỏe từ các nguồn dược liệu quý trong nước.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/10/wm1-7_1794324333-1794324623-1794325951.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=QuzUmThrUCbwt73yzs_Gag",
+    "link": "https://vnexpress.net/ben-trong-he-thong-phong-thi-nghiem-cua-vkist-5143142.html",
+    "published_at": "Tue, 17 Nov 2026 08:00:00 +0700",
+    "createAt": "2026-11-17T01:00:00.000Z",
+    "thumbnail_blurhash": "LIFiJpr;9b.A?F$xaJXARhxaj[xu"
+  },
+  {
+    "id": "https://vnexpress.net/microsoft-neu-ba-nguyen-nhan-khien-he-thong-sap-hon-mot-ngay-5145454.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Microsoft nêu ba nguyên nhân khiến hệ thống 'sập' hơn một ngày",
+    "description": "Microsoft cho biết nguyên nhân khiến hàng loạt dịch vụ gặp sự cố liên quan đến lỗi phần mềm, kết nối nội bộ trục trặc và dung lượng máy chủ.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/17/dsc02335-jpg-1794874824-4370-1794874954.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=HcUge2E7ArzXA2fxRycjXQ",
+    "link": "https://vnexpress.net/microsoft-neu-ba-nguyen-nhan-khien-he-thong-sap-hon-mot-ngay-5145454.html",
+    "published_at": "Tue, 17 Nov 2026 08:11:24 +0700",
+    "createAt": "2026-11-17T01:11:24.000Z",
+    "thumbnail_blurhash": "L45#L$~V#=9G=#wHwIV@009GSw.6"
   }
 ]
