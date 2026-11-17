@@ -180,5 +180,31 @@
     "published_at": "Tue, 17 Nov 2026 09:30:26 +0700",
     "createAt": "2026-11-17T02:30:26.000Z",
     "thumbnail_blurhash": "L9JuDl0000?tFw00.9?HDhxFXU_N"
+  },
+  {
+    "id": "https://vnexpress.net/thiet-ke-giup-may-bay-dien-trung-quoc-co-the-bay-lien-tuc-400-km-5145330.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Thiết kế giúp máy bay điện Trung Quốc có thể bay liên tục 400 km",
+    "description": "Máy bay CE-25A 19 chỗ vừa thực hiện thành công chuyến bay có phi công đầu tiên với quãng đường hơn 60 km, được thiết kế khác biệt với động cơ điện và hệ thống quạt đẩy dọc cánh.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/16/VNEComac-1794820078-9095-1794820131.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=_YbWQy0VGJ0LMwi7Q3N3ug",
+    "link": "https://vnexpress.net/thiet-ke-giup-may-bay-dien-trung-quoc-co-the-bay-lien-tuc-400-km-5145330.html",
+    "published_at": "Tue, 17 Nov 2026 10:06:32 +0700",
+    "createAt": "2026-11-17T03:06:32.000Z",
+    "thumbnail_blurhash": "LfM%vLxutRxu~qoet7oy%1t7RjWC"
+  },
+  {
+    "id": "https://vnexpress.net/gia-tien-ao-pi-xuong-muc-thap-nhat-tu-khi-mo-mang-5145532.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Giá tiền ảo Pi xuống mức thấp nhất từ khi mở mạng",
+    "description": "Giá tiền ảo Pi lần đầu chạm mốc 0,05 USD, giảm 98% giá trị so với mức đỉnh 3 USD, trong bối cảnh dự án không chuyển biến tích cực.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/17/dsc02357-jpg-1794883878-4641-1794884016.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=9GKs5WaBSCSB4jucdbNxbw",
+    "link": "https://vnexpress.net/gia-tien-ao-pi-xuong-muc-thap-nhat-tu-khi-mo-mang-5145532.html",
+    "published_at": "Tue, 17 Nov 2026 11:00:00 +0700",
+    "createAt": "2026-11-17T04:00:00.000Z",
+    "thumbnail_blurhash": "LN9@MdMa%j$.R@NWM{kER$V;s8Rg"
   }
 ]
