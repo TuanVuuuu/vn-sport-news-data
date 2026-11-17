@@ -77,6 +77,45 @@
       "published_at": "Tue, 17 Nov 2026 07:00:00 +0700",
       "createAt": "2026-11-17T00:00:00.000Z",
       "thumbnail_blurhash": "LVNeCB%LNMx[_4oLxGofo*j[WAoL"
+    },
+    {
+      "id": "https://vnexpress.net/microsoft-neu-ba-nguyen-nhan-khien-he-thong-sap-hon-mot-ngay-5145454.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Microsoft nêu ba nguyên nhân khiến hệ thống 'sập' hơn một ngày",
+      "description": "Microsoft cho biết nguyên nhân khiến hàng loạt dịch vụ gặp sự cố liên quan đến lỗi phần mềm, kết nối nội bộ trục trặc và dung lượng máy chủ.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/17/dsc02335-jpg-1794874824-4370-1794874954.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=HcUge2E7ArzXA2fxRycjXQ",
+      "link": "https://vnexpress.net/microsoft-neu-ba-nguyen-nhan-khien-he-thong-sap-hon-mot-ngay-5145454.html",
+      "published_at": "Tue, 17 Nov 2026 08:11:24 +0700",
+      "createAt": "2026-11-17T01:11:24.000Z",
+      "thumbnail_blurhash": "L45#L$~V#=9G=#wHwIV@009GSw.6"
+    },
+    {
+      "id": "https://vnexpress.net/nvidia-khong-xem-xet-kha-nang-dua-jensen-huang-tro-lai-vi-tri-ceo-5145467.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Nvidia 'không xem xét' khả năng đưa Jensen Huang trở lại vị trí CEO",
+      "description": "Hội đồng quản trị Nvidia không xem xét khả năng đưa Jensen Huang trở lại vị trí CEO, theo CNBC.",
+      "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/17/afp-c9q39qc-v1-highres-1794877-4233-1386-1794877587.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=UaPdjR9W-ipBdaEXlSG2yA",
+      "link": "https://vnexpress.net/nvidia-khong-xem-xet-kha-nang-dua-jensen-huang-tro-lai-vi-tri-ceo-5145467.html",
+      "published_at": "Tue, 17 Nov 2026 08:14:20 +0700",
+      "createAt": "2026-11-17T01:14:20.000Z",
+      "thumbnail_blurhash": "L58g1[-U000L}?-A5S0#E%Na=xwJ"
+    },
+    {
+      "id": "https://vnexpress.net/ukraine-cao-buoc-nga-tap-kich-hai-cay-cau-trong-yeu-o-kiev-5145450.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Ukraine cáo buộc Nga tập kích hai cây cầu trọng yếu ở Kiev",
+      "description": "Thị trưởng Kiev cho biết cuộc tập kích bằng tên lửa của Nga đã đánh trúng hai cầu trọng yếu bắc qua sông Dnieper cùng nhiều hạ tầng thiết yếu.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/17/Pivnichny001-1794878174-7414-1794878784.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=_c9VrWRm0-tQeJhBuPK9hQ",
+      "link": "https://vnexpress.net/ukraine-cao-buoc-nga-tap-kich-hai-cay-cau-trong-yeu-o-kiev-5145450.html",
+      "published_at": "Tue, 17 Nov 2026 08:30:18 +0700",
+      "createAt": "2026-11-17T01:30:18.000Z",
+      "thumbnail_blurhash": "L8Aco9i_00S%?HoJIVNH00bb~Vr="
     }
   ]
 }
