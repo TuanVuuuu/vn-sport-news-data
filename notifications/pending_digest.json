@@ -1,3 +1,69 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/chon-dot-trieu-cuong-cao-nhat-nam-de-chay-thu-du-an-chong-ngap-10-000-ty-5146163.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Chọn đợt triều cường cao nhất năm để chạy thử dự án chống ngập 10.000 tỷ",
+      "description": "Dự án ngăn triều 10.000 tỷ đồng ở TP HCM dự kiến vận hành thử đồng loạt các cống vào ngày 25/11, trong đợt triều dự báo cao nhất năm để đánh giá hiệu quả.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/18/wm1-wm1-1794982141058-faea78ee1d01-1555-5743-1794989863.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=rfnQdFqcz9LxZq9GKeEYag",
+      "link": "https://vnexpress.net/chon-dot-trieu-cuong-cao-nhat-nam-de-chay-thu-du-an-chong-ngap-10-000-ty-5146163.html",
+      "published_at": "Wed, 18 Nov 2026 15:18:13 +0700",
+      "createAt": "2026-11-18T08:18:13.000Z",
+      "thumbnail_blurhash": "LNFF$@t7RjofyGbGadflS*a~WYj]"
+    },
+    {
+      "id": "https://vnexpress.net/bo-truong-duc-chi-trich-cua-my-nham-vao-ukraine-la-ngu-ngoc-5146148.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Bộ trưởng Đức: Chỉ trích của Mỹ nhằm vào Ukraine là 'ngu ngốc'",
+      "description": "Đức, Anh bảo vệ Ukraine sau khi nước này bị Mỹ chỉ trích vì tấn công sâu vào Nga, trong đó Berlin gọi động thái của Washington là \"ngu ngốc\".",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/18/Btrngc-1794990930-6513-1794991249.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=CVGYQf1fJ_uje9YZNPqxcg",
+      "link": "https://vnexpress.net/bo-truong-duc-chi-trich-cua-my-nham-vao-ukraine-la-ngu-ngoc-5146148.html",
+      "published_at": "Wed, 18 Nov 2026 16:24:31 +0700",
+      "createAt": "2026-11-18T09:24:31.000Z",
+      "thumbnail_blurhash": "LCBpa{oIEKx]~AbcI=V?I;jExaxu"
+    },
+    {
+      "id": "https://vnexpress.net/can-canh-cau-crimea-sap-nhip-sau-don-tan-cong-cua-ukraine-5146192.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Cận cảnh cầu Crimea sập nhịp sau đòn tấn công của Ukraine",
+      "description": "Video quay từ đoàn tàu đi qua cầu Crimea cho thấy một nhịp làn đường bộ và vòm sắt bên trên đã bị sập hoàn toàn sau cuộc tập kích của Ukraine.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/18/5563187178137269319a-179499149-3431-7849-1794991632.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=l6JstqEkRM3YYjNOjNjcmw",
+      "link": "https://vnexpress.net/can-canh-cau-crimea-sap-nhip-sau-don-tan-cong-cua-ukraine-5146192.html",
+      "published_at": "Wed, 18 Nov 2026 16:46:48 +0700",
+      "createAt": "2026-11-18T09:46:48.000Z",
+      "thumbnail_blurhash": "LdFF%4xuH=of.Tt7MxkCwIjFbIoz"
+    },
+    {
+      "id": "https://vnexpress.net/ong-tap-don-ong-trump-tai-san-bay-5146223.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Ông Tập đón ông Trump tại sân bay",
+      "description": "Chủ tịch Tập Cận Bình ra sân bay đón Tổng thống Trump khi lãnh đạo Mỹ đến Thâm Quyến dự Tuần lễ cấp cao APEC.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/18/trump-tap-1794996238-2994-1794996295.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=kUCRZMA1GJKWLoS2iIKtmQ",
+      "link": "https://vnexpress.net/ong-tap-don-ong-trump-tai-san-bay-5146223.html",
+      "published_at": "Wed, 18 Nov 2026 17:00:05 +0700",
+      "createAt": "2026-11-18T10:00:05.000Z",
+      "thumbnail_blurhash": "LHE_adCQDNu4~BJQi_%MMcIUWBi_"
+    },
+    {
+      "id": "https://vnexpress.net/5-cuu-can-bo-cung-noi-khong-co-trach-nhiem-trong-vu-chung-cu-ong-than-5146236.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "5 cựu cán bộ cùng nói 'không có trách nhiệm' trong vụ chung cư ông Thản",
+      "description": "Bị xét xử vì không ngăn chặn sai phạm tại chung cư CT6 Kiến Hưng, 5 cựu cán bộ quận, phường đều cho rằng việc kiểm tra công trình không thuộc trách nhiệm của mình.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/18/wm1-wm1-2aobordpprfv6qim7jjszoy1vj-7002-3630-1794998063.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=2mNehcgY0cFUkEH-5L3cbQ",
+      "link": "https://vnexpress.net/5-cuu-can-bo-cung-noi-khong-co-trach-nhiem-trong-vu-chung-cu-ong-than-5146236.html",
+      "published_at": "Wed, 18 Nov 2026 17:54:12 +0700",
+      "createAt": "2026-11-18T10:54:12.000Z",
+      "thumbnail_blurhash": "LD9@es%ME1E0?djYIoM_I9Rixbt8"
+    }
+  ]
 }
