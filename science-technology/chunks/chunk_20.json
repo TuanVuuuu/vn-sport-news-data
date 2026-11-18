@@ -414,5 +414,31 @@
     "published_at": "Wed, 18 Nov 2026 12:35:22 +0700",
     "createAt": "2026-11-18T05:35:22.000Z",
     "thumbnail_blurhash": "LP4x}=p3g4ous+jWjWjYRKi@njaj"
+  },
+  {
+    "id": "https://vnexpress.net/bay-anh-phat-hien-mang-rung-dac-biet-quy-hiem-o-nghe-an-5146118.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Bẫy ảnh phát hiện mang rừng đặc biệt quý hiếm ở Nghệ An",
+    "description": "Camera bẫy ảnh ghi nhận một con mang rừng thuộc nhóm cực kỳ nguy cấp tại Khu Bảo tồn thiên nhiên Pù Hoạt.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/18/mang-pu-hoat-1794985391-9389-1794985698.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=LMrF0JQK_fiDl4w4vgDjVg",
+    "link": "https://vnexpress.net/bay-anh-phat-hien-mang-rung-dac-biet-quy-hiem-o-nghe-an-5146118.html",
+    "published_at": "Wed, 18 Nov 2026 14:21:01 +0700",
+    "createAt": "2026-11-18T07:21:01.000Z",
+    "thumbnail_blurhash": "L9C6x=DNadkC?wMwtQWCXnNGWooM"
+  },
+  {
+    "id": "https://vnexpress.net/quang-tri-dung-uav-de-phong-chong-chay-rung-5146057.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Quảng Trị dùng UAV để phòng chống cháy rừng",
+    "description": "Quảng Trị sẽ phối hợp Vietnam Post thí điểm dùng máy bay không người lái (UAV) giám sát rừng, phát hiện cháy và bảo vệ tài nguyên.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/18/uav-jpg-1794976306-5206-1794976326.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=S48o67BIk_3YpSTcKY-CwA",
+    "link": "https://vnexpress.net/quang-tri-dung-uav-de-phong-chong-chay-rung-5146057.html",
+    "published_at": "Wed, 18 Nov 2026 14:59:46 +0700",
+    "createAt": "2026-11-18T07:59:46.000Z",
+    "thumbnail_blurhash": "LdK1zUV@xZxC_3M|ofjY~qM|t7kD"
   }
 ]

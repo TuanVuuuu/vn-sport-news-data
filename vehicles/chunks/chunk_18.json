@@ -999,5 +999,31 @@
     "published_at": "Wed, 18 Nov 2026 14:15:00 +0700",
     "createAt": "2026-11-18T07:15:00.000Z",
     "thumbnail_blurhash": "LpFiGmE2t6WC?wRkayazXojZWCkC"
+  },
+  {
+    "id": "https://vnexpress.net/hyundai-he-lo-neira-ev-suv-dien-7-cho-moi-5145908.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Hyundai hé lộ Neira EV - SUV điện 7 chỗ mới",
+    "description": "Mẫu SUV điện 3 hàng ghế sở hữu tầm hoạt động tối đa 490 km, mở bán từ ngày 20/11.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/18/HyundaiNeira1-1794970903-8393-1794971428.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=7uMlch149gAl8BlGN4xQLg",
+    "link": "https://vnexpress.net/hyundai-he-lo-neira-ev-suv-dien-7-cho-moi-5145908.html",
+    "published_at": "Wed, 18 Nov 2026 14:39:18 +0700",
+    "createAt": "2026-11-18T07:39:18.000Z",
+    "thumbnail_blurhash": "L9BD.%Q*pHoHy=Vpo~RiIkE1%NM{"
+  },
+  {
+    "id": "https://vnexpress.net/hyundai-palisade-hybrid-dien-hoa-nang-tam-xe-xang-5146131.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Hyundai Palisade Hybrid: điện hóa nâng tầm xe xăng",
+    "description": "Mẫu SUV cao cấp nhất của Hyundai mang đến chất điện hóa khác biệt khi nền tảng hybrid, hệ dẫn động AWD và hộp số 6 cấp tối ưu trải nghiệm động cơ đốt trong truyền thống.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/18/hyundaipalisademobilityawards2-3804-2740-1794986755.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=uUaDGhrNZKCh48KxmJUC6A",
+    "link": "https://vnexpress.net/hyundai-palisade-hybrid-dien-hoa-nang-tam-xe-xang-5146131.html",
+    "published_at": "Wed, 18 Nov 2026 15:00:00 +0700",
+    "createAt": "2026-11-18T08:00:00.000Z",
+    "thumbnail_blurhash": "LWG+5Jt2%2V@cHs*tRV[~UjEx]jY"
   }
 ]
