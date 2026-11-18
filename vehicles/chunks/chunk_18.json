@@ -895,5 +895,31 @@
     "published_at": "Wed, 18 Nov 2026 07:10:00 +0700",
     "createAt": "2026-11-18T00:10:00.000Z",
     "thumbnail_blurhash": "LsIrsb_3V[o}_N%MazkC%hocWAoz"
+  },
+  {
+    "id": "https://vnexpress.net/aves-dau-tu-250-ty-dong-phat-trien-nha-may-san-xuat-xe-dien-5145944.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Aves đầu tư 250 tỷ đồng phát triển nhà máy sản xuất xe điện",
+    "description": "Tổ hợp nhà máy, trung tâm R&amp;D xe máy điện Aves sẽ có quy mô 30.000 m2, công suất thiết kế 300.000 xe một năm, dự kiến vận hành từ quý II/2027.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/18/1-1794966394-6239-1794966456.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=EoKlkFxS6tORtGRnRNqhkw",
+    "link": "https://vnexpress.net/aves-dau-tu-250-ty-dong-phat-trien-nha-may-san-xuat-xe-dien-5145944.html",
+    "published_at": "Wed, 18 Nov 2026 09:00:00 +0700",
+    "createAt": "2026-11-18T02:00:00.000Z",
+    "thumbnail_blurhash": "LbGlehs.t7oz.At7jXt7.9RjRjWB"
+  },
+  {
+    "id": "https://vnexpress.net/tesla-rot-3-3-ty-usd-day-manh-san-xuat-robotaxi-tai-duc-5145466.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Tesla rót 3,3 tỷ USD đẩy mạnh sản xuất robotaxi tại Đức",
+    "description": "Tesla đầu tư thêm 3 tỷ euro vào siêu nhà máy tại Đức để sản xuất Cybercab, đi ngược làn sóng thu hẹp của các đối thủ bản địa.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/17/Tesla6-1794901163-3119-1794901230.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=XL0Mtkf-sc9wPhr7SFkbmA",
+    "link": "https://vnexpress.net/tesla-rot-3-3-ty-usd-day-manh-san-xuat-robotaxi-tai-duc-5145466.html",
+    "published_at": "Wed, 18 Nov 2026 09:14:20 +0700",
+    "createAt": "2026-11-18T02:14:20.000Z",
+    "thumbnail_blurhash": "LBEV~S?vInR$%~%h^+S3-@o$WHt9"
   }
 ]
