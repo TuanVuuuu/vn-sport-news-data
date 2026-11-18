@@ -544,5 +544,31 @@
     "published_at": "Thu, 19 Nov 2026 00:00:00 +0700",
     "createAt": "2026-11-18T17:00:00.000Z",
     "thumbnail_blurhash": "L284Pc-T4TbdysIoEM?H-U4o-Rxb"
+  },
+  {
+    "id": "https://vnexpress.net/viet-nam-day-manh-dua-ai-vao-hoat-dong-thuc-te-5146217.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Việt Nam đẩy mạnh đưa AI vào hoạt động thực tế",
+    "description": "Sau khi hành lang pháp lý và chiến lược quốc gia về AI hình thành, Việt Nam đứng trước yêu cầu đưa công nghệ này vào thực tế để tạo hiệu quả đo đếm được, theo các chuyên gia.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/18/khoavinasa-jpeg-1794996474-5250-1794997736.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=I7EDTaOngfjJWRpsWrdNUQ",
+    "link": "https://vnexpress.net/viet-nam-day-manh-dua-ai-vao-hoat-dong-thuc-te-5146217.html",
+    "published_at": "Wed, 18 Nov 2026 17:31:40 +0700",
+    "createAt": "2026-11-18T10:31:40.000Z",
+    "thumbnail_blurhash": "LiGS+,xvJIE3NSItt1$}t0obe=WF"
+  },
+  {
+    "id": "https://vnexpress.net/madison-huang-ban-thu-nho-cua-jensen-huang-tai-nvidia-5146212.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Madison Huang - 'bản thu nhỏ' của Jensen Huang tại Nvidia",
+    "description": "Madison Huang, con gái nhà sáng lập Nvidia Jensen Huang, dù có nhiều tố chất để trở thành CEO Nvidia, nhưng bị đánh giá không được lòng nhân viên.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/18/2026t095344z-rc2l1naefmea-rtrm-4941-4503-1794997917.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=EIlTeSs4zGF_6tFt1GHLQg",
+    "link": "https://vnexpress.net/madison-huang-ban-thu-nho-cua-jensen-huang-tai-nvidia-5146212.html",
+    "published_at": "Thu, 19 Nov 2026 05:00:00 +0700",
+    "createAt": "2026-11-18T22:00:00.000Z",
+    "thumbnail_blurhash": "LnHB_Coho~?b_NM|R.xutSRkRjRj"
   }
 ]
