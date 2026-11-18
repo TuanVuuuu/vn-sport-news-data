@@ -648,5 +648,31 @@
     "published_at": "Wed, 18 Nov 2026 07:00:00 +0700",
     "createAt": "2026-11-18T00:00:00.000Z",
     "thumbnail_blurhash": "L#J8hZ%gx^WB_Nt8j@RjtRjZaxWC"
+  },
+  {
+    "id": "https://vnexpress.net/dien-thoai-hai-man-hinh-cua-xiaomi-ve-viet-nam-gia-tu-40-trieu-dong-5145867.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Điện thoại hai màn hình của Xiaomi về Việt Nam, giá từ 40 triệu đồng",
+    "description": "Bộ đôi Xiaomi 18 Pro và 18 Pro Max trang bị màn hình phụ ở cụm camera sau, chip Qualcomm 2 nm và màn hình chống nhìn trộm.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/17/DSC1489-1794932911.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=a9leGCN28RLowvug22VZAQ",
+    "link": "https://vnexpress.net/dien-thoai-hai-man-hinh-cua-xiaomi-ve-viet-nam-gia-tu-40-trieu-dong-5145867.html",
+    "published_at": "Wed, 18 Nov 2026 07:05:15 +0700",
+    "createAt": "2026-11-18T00:05:15.000Z",
+    "thumbnail_blurhash": "L18DeI~WS:0000570h^l~1=^Fi=|"
+  },
+  {
+    "id": "https://vnexpress.net/nguoi-phu-nu-di-xe-may-dam-vao-oto-dang-dung-sat-dai-phan-cach-5145690.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Người phụ nữ đi xe máy đâm vào ôtô đang dừng sát dải phân cách",
+    "description": "Người đi xe máy dường như không phát hiện ra chiếc xe đang dừng, hôm 16/11 tại đại lộ Hùng Vương.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/17/ezgif757901ed31e2d1e9-17948989-5631-8828-1794899265.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=ENJc6Vy9pj3liACNTLp33Q&t=image",
+    "link": "https://vnexpress.net/nguoi-phu-nu-di-xe-may-dam-vao-oto-dang-dung-sat-dai-phan-cach-5145690.html",
+    "published_at": "Wed, 18 Nov 2026 07:10:00 +0700",
+    "createAt": "2026-11-18T00:10:00.000Z",
+    "thumbnail_blurhash": "LsIrsb_3V[o}_N%MazkC%hocWAoz"
   }
 ]

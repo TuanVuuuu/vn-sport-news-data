@@ -856,5 +856,44 @@
     "published_at": "Wed, 18 Nov 2026 05:30:00 +0700",
     "createAt": "2026-11-17T22:30:00.000Z",
     "thumbnail_blurhash": "L8CZX~o_D|s@?.tK9GjL00W*n?IV"
+  },
+  {
+    "id": "https://vnexpress.net/oto-moi-cua-khach-hang-bi-lay-trom-ngay-trong-dai-ly-5145458.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Ôtô mới của khách hàng bị lấy trộm ngay trong đại lý",
+    "description": "Đang chờ dán phim cách nhiệt tại đại lý ở Hồ Nam, chiếc BYD Song vừa thanh toán đủ 155.000 nhân dân tệ bất ngờ bị đánh cắp.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/17/byd4-1794885198-5309-1794885363.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=7pRJvOuobKHlDK8QzcYaDQ",
+    "link": "https://vnexpress.net/oto-moi-cua-khach-hang-bi-lay-trom-ngay-trong-dai-ly-5145458.html",
+    "published_at": "Wed, 18 Nov 2026 06:00:00 +0700",
+    "createAt": "2026-11-17T23:00:00.000Z",
+    "thumbnail_blurhash": "LGFPB9_3xaxt%Moft6R*~pxtozt7"
+  },
+  {
+    "id": "https://vnexpress.net/vi-sao-nhieu-xe-ve-so-lui-gay-tai-nan-ma-tai-xe-khong-biet-5145239.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Vì sao nhiều xe về số lùi gây tai nạn mà tài xế không biết?",
+    "description": "Tài mới cần thao tác cần số đúng hành trình, quan sát đèn báo cấp số trên bảng đồng hồ để tránh gạt nhầm số lùi.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/16/solui-1794809785-3051-1794809987.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=_zuSOyxb08EjI417sIUsXw",
+    "link": "https://vnexpress.net/vi-sao-nhieu-xe-ve-so-lui-gay-tai-nan-ma-tai-xe-khong-biet-5145239.html",
+    "published_at": "Wed, 18 Nov 2026 06:58:59 +0700",
+    "createAt": "2026-11-17T23:58:59.000Z",
+    "thumbnail_blurhash": "L8F68[00?I.S~q9Z_3$P4:tS4.oz"
+  },
+  {
+    "id": "https://vnexpress.net/nguoi-phu-nu-di-xe-may-dam-vao-oto-dang-dung-sat-dai-phan-cach-5145690.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Người phụ nữ đi xe máy đâm vào ôtô đang dừng sát dải phân cách",
+    "description": "Người đi xe máy dường như không phát hiện ra chiếc xe đang dừng, hôm 16/11 tại đại lộ Hùng Vương.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/17/ezgif757901ed31e2d1e9-17948989-5631-8828-1794899265.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=ENJc6Vy9pj3liACNTLp33Q&t=image",
+    "link": "https://vnexpress.net/nguoi-phu-nu-di-xe-may-dam-vao-oto-dang-dung-sat-dai-phan-cach-5145690.html",
+    "published_at": "Wed, 18 Nov 2026 07:10:00 +0700",
+    "createAt": "2026-11-18T00:10:00.000Z",
+    "thumbnail_blurhash": "LsIrsb_3V[o}_N%MazkC%hocWAoz"
   }
 ]
