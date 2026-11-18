@@ -349,5 +349,44 @@
     "published_at": "Wed, 18 Nov 2026 12:00:00 +0700",
     "createAt": "2026-11-18T05:00:00.000Z",
     "thumbnail_blurhash": "LQLD[J?c?vIB_M-;RQRjxsD%Rk%M"
+  },
+  {
+    "id": "https://vnexpress.net/giam-doc-bi-ban-o-dong-nai-nguy-kich-5146102.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Giám đốc bị bắn ở Đồng Nai nguy kịch",
+    "description": "Giám đốc Công ty Lâm nghiệp La Ngà ở Đồng Nai bị bắn vào đầu tại phòng làm việc, hiện hôn mê sâu, tổn thương não nghiêm trọng, tình trạng nguy kịch.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/18/crh01850-1794983928-6044-1794984000.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=IvTSKauUy4C86TeScWi1bQ",
+    "link": "https://vnexpress.net/giam-doc-bi-ban-o-dong-nai-nguy-kich-5146102.html",
+    "published_at": "Wed, 18 Nov 2026 13:49:16 +0700",
+    "createAt": "2026-11-18T06:49:16.000Z",
+    "thumbnail_blurhash": "LELhPeO[Ri~V?vRO^+Ip00ayV?Ip"
+  },
+  {
+    "id": "https://vnexpress.net/cong-thuc-3-2-1-giup-jessica-alba-siet-mo-giu-co-bung-thep-o-tuoi-45-5145770.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Công thức 3-2-1 giúp Jessica Alba siết mỡ, giữ cơ bụng thép ở tuổi 45",
+    "description": "Qua ba lần sinh nở, diễn viên Jessica Alba duy trì cơ bụng săn chắc, vóc dáng cân đối nhờ kiên trì áp dụng công thức tập luyện 3-2-1 kết hợp nâng tạ, cardio và rèn luyện cơ lõi.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/17/screenshot-at-1794907133-9017-1794907172.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=y7O9iE9TEAUnsdlvUnQGqQ",
+    "link": "https://vnexpress.net/cong-thuc-3-2-1-giup-jessica-alba-siet-mo-giu-co-bung-thep-o-tuoi-45-5145770.html",
+    "published_at": "Wed, 18 Nov 2026 14:00:00 +0700",
+    "createAt": "2026-11-18T07:00:00.000Z",
+    "thumbnail_blurhash": "LWIPJN?FF~T#ERRk%LtRTKbcROe-"
+  },
+  {
+    "id": "https://vnexpress.net/robot-phau-thuat-triet-can-ung-thu-truc-trang-xam-lan-ruot-5145922.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Robot phẫu thuật triệt căn ung thư trực tràng xâm lấn ruột",
+    "description": "Ông Máy, 67 tuổi, ung thư trực tràng, được hóa xạ trị trước mổ, sau đó bác sĩ sử dụng robot cắt một phần trực tràng triệt căn ung thư.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/18/hinh-thumb-1-1794963650-8716-1794963874.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=rm3cTLezwqZtNtScgVUVVQ",
+    "link": "https://vnexpress.net/robot-phau-thuat-triet-can-ung-thu-truc-trang-xam-lan-ruot-5145922.html",
+    "published_at": "Wed, 18 Nov 2026 14:00:00 +0700",
+    "createAt": "2026-11-18T07:00:00.000Z",
+    "thumbnail_blurhash": "LdI$mPNbV@NM~Vt8R+t3NEoexZt6"
   }
 ]
