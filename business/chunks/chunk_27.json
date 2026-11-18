@@ -583,5 +583,31 @@
     "published_at": "Thu, 19 Nov 2026 00:05:00 +0700",
     "createAt": "2026-11-18T17:05:00.000Z",
     "thumbnail_blurhash": "LdM7y69a?d_N~XNwIBkWM|xaM{M|"
+  },
+  {
+    "id": "https://vnexpress.net/khoang-trong-thu-gom-tai-che-hon-nua-trieu-tan-rac-dien-tu-5146277.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Khoảng trống thu gom, tái chế hơn nửa triệu tấn rác điện tử",
+    "description": "Lượng rác thải điện tử tăng hơn bốn lần sau 8 năm, song phần lớn vẫn chảy vào kênh thu mua đồng nát tự phát thay vì các cơ sở tái chế đạt chuẩn.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/18/481909460-n-1795002050-4356-1795002136.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=acgctVUhJsX_ph1WdaK2Tg",
+    "link": "https://vnexpress.net/khoang-trong-thu-gom-tai-che-hon-nua-trieu-tan-rac-dien-tu-5146277.html",
+    "published_at": "Thu, 19 Nov 2026 00:00:00 +0700",
+    "createAt": "2026-11-18T17:00:00.000Z",
+    "thumbnail_blurhash": "LVKKNJ_N?a%M_2V?R+t7-=WVM{M{"
+  },
+  {
+    "id": "https://vnexpress.net/ceo-tam-quyen-nvidia-keu-goi-nhan-vien-tien-ve-phia-truoc-5146331.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "CEO tạm quyền Nvidia kêu gọi nhân viên 'tiến về phía trước'",
+    "description": "Colette Kress vừa có cuộc họp đầu tiên với tất cả nhân viên sau khi Jensen Huang từ chức, theo nguồn tin của CNBC.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/19/screenshot-1795041825-2476-1795041865.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=G8fdxqG2YJqZRTPxUOQuJg",
+    "link": "https://vnexpress.net/ceo-tam-quyen-nvidia-keu-goi-nhan-vien-tien-ve-phia-truoc-5146331.html",
+    "published_at": "Thu, 19 Nov 2026 05:50:00 +0700",
+    "createAt": "2026-11-18T22:50:00.000Z",
+    "thumbnail_blurhash": "L-N^6#jG?wxv?HWBNGt7NbofniWB"
   }
 ]
