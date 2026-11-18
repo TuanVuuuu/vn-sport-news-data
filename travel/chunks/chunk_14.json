@@ -830,5 +830,31 @@
     "published_at": "Wed, 18 Nov 2026 18:00:00 +0700",
     "createAt": "2026-11-18T11:00:00.000Z",
     "thumbnail_blurhash": "LjIER;DlJCs:~XRQN{s9IuX5OYw]"
+  },
+  {
+    "id": "https://vnexpress.net/10-con-pho-thu-vi-nhat-the-gioi-2026-5145963.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "10 con phố thú vị nhất thế giới 2026",
+    "description": "Từ phố người Hoa ven sông ở Bangkok đến những khu phố cũ ở London hay Buenos Aires, 10 con phố \"thú vị nhất thế giới 2026\" của Time Out đều có quán ăn mới xen cạnh cửa hàng lâu đời.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/11/18/street1-1794975502.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=UjcGifGYm7YmZj80xz3AYA",
+    "link": "https://vnexpress.net/10-con-pho-thu-vi-nhat-the-gioi-2026-5145963.html",
+    "published_at": "Thu, 19 Nov 2026 00:00:00 +0700",
+    "createAt": "2026-11-18T17:00:00.000Z",
+    "thumbnail_blurhash": "LFFrnp0JNZe-n0kZxvRj~qDjaOIW"
+  },
+  {
+    "id": "https://vnexpress.net/an-do-de-xuat-mien-phi-e-visa-cho-cac-nuoc-asean-5146290.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Ấn Độ đề xuất miễn phí e-visa cho các nước ASEAN",
+    "description": "Thủ tướng Ấn Độ Narendra Modi đề xuất miễn phí thị thực điện tử (e-visa), giá từ 10 đến 25 USD, cho khách du lịch từ các quốc gia Đông Nam Á.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/11/18/20221007-1795008221-1997-1795008340.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=pwkvfqudXdLRzD72zmez-w",
+    "link": "https://vnexpress.net/an-do-de-xuat-mien-phi-e-visa-cho-cac-nuoc-asean-5146290.html",
+    "published_at": "Thu, 19 Nov 2026 00:40:40 +0700",
+    "createAt": "2026-11-18T17:40:40.000Z",
+    "thumbnail_blurhash": "LJD]ewt7D%xDyEkDRjkC.AogoIR*"
   }
 ]
