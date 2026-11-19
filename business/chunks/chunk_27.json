@@ -713,5 +713,44 @@
     "published_at": "Thu, 19 Nov 2026 13:00:00 +0700",
     "createAt": "2026-11-19T06:00:00.000Z",
     "thumbnail_blurhash": "LLMGt~00D4~p?GMxs9W.%MxbbuX9"
+  },
+  {
+    "id": "https://vnexpress.net/gia-ca-tra-cao-nhat-ba-nam-5146400.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Giá cá tra cao nhất ba năm",
+    "description": "Giá cá tra nguyên liệu tăng lên 38.500 đồng một kg, cao nhất 3 năm qua, giúp người nuôi lãi cao, song doanh nghiệp chế biến gặp khó do thiếu nguồn cung.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/19/anh-chup-man-hinh-luc-17950544-8709-2145-1795054483.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=D7dxyEJjHVgYZ6zokqRzHA",
+    "link": "https://vnexpress.net/gia-ca-tra-cao-nhat-ba-nam-5146400.html",
+    "published_at": "Thu, 19 Nov 2026 14:26:35 +0700",
+    "createAt": "2026-11-19T07:26:35.000Z",
+    "thumbnail_blurhash": "LFG8i:xHD*ij-W-;xFn6.TOXtPt2"
+  },
+  {
+    "id": "https://vnexpress.net/gia-xang-dau-moi-nhat-hom-nay-19-11-5146582.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Giá xăng về sát 19.000 đồng một lít",
+    "description": "Từ 15h hôm nay, giá xăng dầu các loại cùng giảm 480-1.070 đồng một lít, theo đà diễn biến thị trường năng lượng thế giới.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/19/XangE1028-1795070907-8339-1795071317.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=8n7dbWtKREsk7GfmF-1_mw",
+    "link": "https://vnexpress.net/gia-xang-dau-moi-nhat-hom-nay-19-11-5146582.html",
+    "published_at": "Thu, 19 Nov 2026 14:35:45 +0700",
+    "createAt": "2026-11-19T07:35:45.000Z",
+    "thumbnail_blurhash": "LHJHv}PBpcIT5R00x[.8_M_NX8EK"
+  },
+  {
+    "id": "https://vnexpress.net/hang-bay-cho-hang-hoa-cua-my-co-the-tang-gap-doi-chuyen-den-viet-nam-5146535.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Hãng bay chở hàng hóa của Mỹ có thể tăng gấp đôi chuyến đến Việt Nam",
+    "description": "Atlas Air - hãng có đội tàu bay chở hàng thân rộng nhiều nhất thế giới - có thể tăng gấp đôi số chuyến đến Việt Nam, nếu hạ tầng cho phép.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/19/3eca0914dec50c42c0a2-jpeg-1795-8307-3921-1795066087.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=0oucQmFFR24JfxM-iSlUCw",
+    "link": "https://vnexpress.net/hang-bay-cho-hang-hoa-cua-my-co-the-tang-gap-doi-chuyen-den-viet-nam-5146535.html",
+    "published_at": "Thu, 19 Nov 2026 15:19:36 +0700",
+    "createAt": "2026-11-19T08:19:36.000Z",
+    "thumbnail_blurhash": "LkKBH?oMX7_N~pV@M{bI%MofRjM{"
   }
 ]
