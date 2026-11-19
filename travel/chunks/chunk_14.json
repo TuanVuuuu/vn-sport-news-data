@@ -921,5 +921,44 @@
     "published_at": "Thu, 19 Nov 2026 10:56:43 +0700",
     "createAt": "2026-11-19T03:56:43.000Z",
     "thumbnail_blurhash": "L7BWD5?w.R~U-NRhInxtJC^+sDEM"
+  },
+  {
+    "id": "https://vnexpress.net/chuyen-lac-buoc-thien-duong-cua-khach-viet-o-trung-quoc-5139849.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Chuyến 'lạc bước thiên đường' của khách Việt ở Trung Quốc",
+    "description": "Những ngọn núi linh thiêng cùng cảnh sắc hồ nước, núi tuyết biến đổi theo độ cao, khiến Á Đinh trở thành điểm đến mê hoặc du khách Việt ngay từ lần đầu đặt chân tới.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/11/18/aimg20261030092530-1794990145.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Q4Tp5hBYfWjNac9VTSQz1w",
+    "link": "https://vnexpress.net/chuyen-lac-buoc-thien-duong-cua-khach-viet-o-trung-quoc-5139849.html",
+    "published_at": "Wed, 18 Nov 2026 16:19:36 +0700",
+    "createAt": "2026-11-18T09:19:36.000Z",
+    "thumbnail_blurhash": "LhEC5]Nzs.ocyZSikDs.t.xGogj["
+  },
+  {
+    "id": "https://vnexpress.net/mac-ket-vi-lenh-dung-bay-toan-nuoc-my-nguoi-phu-nu-mua-oto-lai-ve-nha-5146368.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Mắc kẹt vì lệnh dừng bay toàn nước Mỹ, người phụ nữ mua ôtô lái về nhà",
+    "description": "Bỏ 48.000 USD mua một chiếc SUV mới, Harding giải quyết được vấn đề đi lại giữa lệnh cấm bay, đồng thời có xe mới để du lịch khắp nước Mỹ.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/11/19/mua-xe-1795055751-1177-1795056126.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=1MQ0oZaHFYIUkHW00Xz-6g",
+    "link": "https://vnexpress.net/mac-ket-vi-lenh-dung-bay-toan-nuoc-my-nguoi-phu-nu-mua-oto-lai-ve-nha-5146368.html",
+    "published_at": "Thu, 19 Nov 2026 10:56:43 +0700",
+    "createAt": "2026-11-19T03:56:43.000Z",
+    "thumbnail_blurhash": "L7BWD5?w.R~U-NRhInxtJC^+sDEM"
+  },
+  {
+    "id": "https://vnexpress.net/ngoi-den-hon-400-nam-truoc-cua-dong-phong-nha-5145322.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Ngôi đền hơn 400 năm trước cửa động Phong Nha",
+    "description": "Nằm trước cửa động Phong Nha, ngôi đền cổ thờ thần động được xây dựng từ thế kỷ XVI, lưu giữ nhiều sắc phong của các vua triều Nguyễn.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/16/anh-1794820862-1794820870.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=8R1dxw_xhwCcUtq2VhzOHQ",
+    "link": "https://vnexpress.net/ngoi-den-hon-400-nam-truoc-cua-dong-phong-nha-5145322.html",
+    "published_at": "Thu, 19 Nov 2026 11:56:35 +0700",
+    "createAt": "2026-11-19T04:56:35.000Z",
+    "thumbnail_blurhash": "LMC%vp~qW9IT4:9YInof%OxuW9V@"
   }
 ]
