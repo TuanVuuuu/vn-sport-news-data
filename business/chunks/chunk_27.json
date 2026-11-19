@@ -609,5 +609,44 @@
     "published_at": "Thu, 19 Nov 2026 05:50:00 +0700",
     "createAt": "2026-11-18T22:50:00.000Z",
     "thumbnail_blurhash": "L-N^6#jG?wxv?HWBNGt7NbofniWB"
+  },
+  {
+    "id": "https://vnexpress.net/gia-vang-the-gioi-lao-doc-xuong-thap-nhat-14-thang-5146332.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Giá vàng thế giới lao dốc, xuống thấp nhất 14 tháng",
+    "description": "Mỗi ounce vàng mất hơn 120 USD một phiên, sau khi Fed công bố biên bản cuộc họp tháng 10.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/19/gold2-1795043713-7380-1795043721.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=6r1FqLaRwb0xuqjt0Vrz5A",
+    "link": "https://vnexpress.net/gia-vang-the-gioi-lao-doc-xuong-thap-nhat-14-thang-5146332.html",
+    "published_at": "Thu, 19 Nov 2026 06:30:50 +0700",
+    "createAt": "2026-11-18T23:30:50.000Z",
+    "thumbnail_blurhash": "L7D8?lz-K8Rj},-7?ENF4;%3E2o}"
+  },
+  {
+    "id": "https://vnexpress.net/anthropic-huy-dong-ky-luc-hon-81-ty-usd-tu-ipo-5146343.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Anthropic huy động kỷ lục hơn 81 tỷ USD từ IPO",
+    "description": "Công ty mẹ ứng dụng AI Claude chốt giá IPO tại 83 USD một cổ phiếu, qua đó huy động kỷ lục 81,3 tỷ USD.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/19/afp-hl-jmbarrere-v1-highres-cl-4131-7937-1795045949.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Z3r9ztRaYWnUwWuOpdwL4A",
+    "link": "https://vnexpress.net/anthropic-huy-dong-ky-luc-hon-81-ty-usd-tu-ipo-5146343.html",
+    "published_at": "Thu, 19 Nov 2026 06:57:19 +0700",
+    "createAt": "2026-11-18T23:57:19.000Z",
+    "thumbnail_blurhash": "LlI=Jixu00a}~qkCRPt7ayofofR*"
+  },
+  {
+    "id": "https://vnexpress.net/vi-sao-viet-nam-gom-co-phieu-ve-mot-san-5146316.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Vì sao Việt Nam gom cổ phiếu về một sàn?",
+    "description": "Chuyển gần 300 cổ phiếu từ HNX sang HoSE nhằm thống nhất thị trường niêm yết, giảm phân mảnh giao dịch, dữ liệu và chuyên môn hóa hoạt động hai sở, theo chuyên gia.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/18/233a7958-1795016682-7011-1795016971.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=T8IfgzSll1FLLxgePbRBgA",
+    "link": "https://vnexpress.net/vi-sao-viet-nam-gom-co-phieu-ve-mot-san-5146316.html",
+    "published_at": "Thu, 19 Nov 2026 07:00:00 +0700",
+    "createAt": "2026-11-19T00:00:00.000Z",
+    "thumbnail_blurhash": "LICH7zo~$4rt0fh}I.M_?d$ko|kq"
   }
 ]
