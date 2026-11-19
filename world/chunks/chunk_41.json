@@ -583,5 +583,44 @@
     "published_at": "Thu, 19 Nov 2026 08:57:14 +0700",
     "createAt": "2026-11-19T01:57:14.000Z",
     "thumbnail_blurhash": "LMEolSx]yDxv~qt7tSog?boJt7Rj"
+  },
+  {
+    "id": "https://vnexpress.net/le-don-lang-le-danh-cho-thu-tuong-nhat-tai-trung-quoc-5146362.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Lễ đón lặng lẽ dành cho Thủ tướng Nhật tại Trung Quốc",
+    "description": "Lễ đón Thủ tướng Takaichi diễn ra khác với những lãnh đạo tham dự APEC, ông Tập cũng không nói lời nào khi tiếp lãnh đạo Nhật Bản.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/19/afp-ar-kyd-eoi20261118x0000432-9252-8192-1795051358.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=IhFK3PN79iKOlHS6Ulig8Q",
+    "link": "https://vnexpress.net/le-don-lang-le-danh-cho-thu-tuong-nhat-tai-trung-quoc-5146362.html",
+    "published_at": "Thu, 19 Nov 2026 09:20:09 +0700",
+    "createAt": "2026-11-19T02:20:09.000Z",
+    "thumbnail_blurhash": "LcI4O^yWNGr[PAr@n5o}~CbwS2of"
+  },
+  {
+    "id": "https://vnexpress.net/cach-dap-le-thien-chi-cua-ong-tap-khi-don-ong-trump-tai-san-bay-5146353.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Cách đáp lễ thiện chí của ông Tập khi đón ông Trump tại sân bay",
+    "description": "Việc Chủ tịch Tập đến sân bay Bảo An đón Tổng thống Trump tới dự APEC được cho là nhằm thể hiện thiện chí bồi đắp quan hệ và đề cao lãnh đạo Mỹ.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/19/AFP-20261118-D7UJ6ME-v1-HighRe-9961-2398-1795055320.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=bzfJSiCtZvp4XHhR8-QWaQ",
+    "link": "https://vnexpress.net/cach-dap-le-thien-chi-cua-ong-tap-khi-don-ong-trump-tai-san-bay-5146353.html",
+    "published_at": "Thu, 19 Nov 2026 09:41:56 +0700",
+    "createAt": "2026-11-19T02:41:56.000Z",
+    "thumbnail_blurhash": "LNGHPkLLIn%g~WT0Vsoz~Atlt7t6"
+  },
+  {
+    "id": "https://vnexpress.net/trung-tam-tinh-bao-tin-hieu-cua-my-ve-trung-dong-gap-su-co-5146381.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Trung tâm tình báo tín hiệu của Mỹ về Trung Đông 'gặp sự cố'",
+    "description": "Sự cố tại Cơ quan An ninh Quốc gia Mỹ khiến một cơ sở phụ trách tình báo Trung Đông bị ngắt khỏi mạng liên lạc bảo mật, theo CNN.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/19/nsa-1795053701-5817-1795053873.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=rO1rFInMvjj5GvouoeZOnA",
+    "link": "https://vnexpress.net/trung-tam-tinh-bao-tin-hieu-cua-my-ve-trung-dong-gap-su-co-5146381.html",
+    "published_at": "Thu, 19 Nov 2026 09:49:01 +0700",
+    "createAt": "2026-11-19T02:49:01.000Z",
+    "thumbnail_blurhash": "LHCjhT0Oxat3?wr;IU%3~VD$kDxu"
   }
 ]
