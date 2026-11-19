@@ -1,6 +1,19 @@
 {
   "featured": [
     {
+      "id": "https://vnexpress.net/si-quan-nga-khoe-valy-hat-nhan-cua-ong-putin-tai-tham-quyen-5146512.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Sĩ quan Nga khoe valy hạt nhân của ông Putin tại Thâm Quyến",
+      "description": "Video mới công bố cho thấy sĩ quan Nga mang valy hạt nhân tháp tùng Tổng thống Putin tham dự hội nghị APEC ở Thâm Quyến.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/19/valihatnhan-1795062599-7706-1795062679.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=nTFeBzTzeficZb1-0PUtXg",
+      "link": "https://vnexpress.net/si-quan-nga-khoe-valy-hat-nhan-cua-ong-putin-tai-tham-quyen-5146512.html",
+      "published_at": "Thu, 19 Nov 2026 11:40:14 +0700",
+      "createAt": "2026-11-19T04:40:14.000Z",
+      "thumbnail_blurhash": "LIA0|1VrWAt8_4w^Rjj]?csmNGo#"
+    },
+    {
       "id": "https://vnexpress.net/tiktoker-natipong-sritongin-bi-bat-5146522.html",
       "category_id": "featured",
       "category_name": "Tin nổi bật",
@@ -38,6 +51,32 @@
       "published_at": "Thu, 19 Nov 2026 11:56:57 +0700",
       "createAt": "2026-11-19T04:56:57.000Z",
       "thumbnail_blurhash": "LLIOFT^l1HOSEcE0Rnj]_NMxr=%3"
+    },
+    {
+      "id": "https://vnexpress.net/tai-xe-kip-thoi-cuu-thanh-nien-dinh-nhay-cau-thuan-phuoc-5146543.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Tài xế kịp thời cứu thanh niên định nhảy cầu Thuận Phước",
+      "description": "Nghi hành khách có ý định tự tử, tài xế Đồng Viết Phi Vũ chủ động báo công an, lái xe đi theo và kịp thời giữ được người này khi nhảy qua lan can cầu Thuận Phước.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/19/dd-1795064444-6372-1795064477.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=3klZUyjc0IBHVnHU2iQvOg",
+      "link": "https://vnexpress.net/tai-xe-kip-thoi-cuu-thanh-nien-dinh-nhay-cau-thuan-phuoc-5146543.html",
+      "published_at": "Thu, 19 Nov 2026 12:09:48 +0700",
+      "createAt": "2026-11-19T05:09:48.000Z",
+      "thumbnail_blurhash": "LyFiirIVt6j]_4NHoej]%MR*j[j["
+    },
+    {
+      "id": "https://vnexpress.net/viet-nam-trong-nhom-thap-nhat-u17-world-cup-2026-5146544.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Việt Nam trong nhóm thấp nhất U17 World Cup 2026",
+      "description": "Với chiều cao trung bình 1,7505 m, Việt Nam đứng thứ 45 trong 48 đội tuyển dự U17 World Cup 2026, và thấp nhất bảng G.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/11/19/post-match-apgs-1795064086-8124-1795064504.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=DSz8zFdWsAWzBf4PsOdOLQ",
+      "link": "https://vnexpress.net/viet-nam-trong-nhom-thap-nhat-u17-world-cup-2026-5146544.html",
+      "published_at": "Thu, 19 Nov 2026 12:13:15 +0700",
+      "createAt": "2026-11-19T05:13:15.000Z",
+      "thumbnail_blurhash": "L4ATiT^8p]{oHl%M%Oxu18lRwPYg"
     },
     {
       "id": "https://vnexpress.net/tong-bi-thu-chu-tich-nuoc-tiep-nhan-vai-tro-chu-nha-apec-2027-5146557.html",
