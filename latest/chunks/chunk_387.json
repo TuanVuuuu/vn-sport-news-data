@@ -1246,5 +1246,57 @@
     "published_at": "Thu, 19 Nov 2026 19:30:00 +0700",
     "createAt": "2026-11-19T12:30:00.000Z",
     "thumbnail_blurhash": "LfN-Zhsm_N_4?bxuM_V[x]kDMxRj"
+  },
+  {
+    "id": "https://vnexpress.net/diem-tin-21h-gia-xang-ve-sat-19-000-dong-mot-lit-ong-le-thanh-than-noi-loi-sau-cung-tai-toa-trong-ba-giay-5146731.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Điểm tin 21h: Giá xăng về sát 19.000 đồng một lít | Ông Lê Thanh Thản nói lời sau cùng tại tòa trong ba giây",
+    "description": "Bốn hạng mục có thể ảnh hưởng khai thác Long Thành vào tháng 12; Lần đầu vượt đèn vàng hoặc rẽ phải khi đèn đỏ có thể không bị phạt tiền...",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/19/Screenshot20261119at170435-179-1994-5391-1795083144.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=sfk2q3WQdx4Bx-3FiED_og",
+    "link": "https://vnexpress.net/diem-tin-21h-gia-xang-ve-sat-19-000-dong-mot-lit-ong-le-thanh-than-noi-loi-sau-cung-tai-toa-trong-ba-giay-5146731.html",
+    "published_at": "Thu, 19 Nov 2026 17:20:52 +0700",
+    "createAt": "2026-11-19T10:20:52.000Z",
+    "thumbnail_blurhash": "LHIX?M0L%}InK*Dhx]tl_0_NSwIn"
+  },
+  {
+    "id": "https://vnexpress.net/tinh-cu-lam-nhieu-viec-cho-toi-ma-chong-khong-lam-duoc-5146696.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Tình cũ làm nhiều việc cho tôi mà chồng không làm được",
+    "description": "Anh quan tâm cảm xúc của tôi, biết cách chiều chuộng tôi.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/19/gemini-generated-image-scfzm9s-9640-4828-1795080225.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=LMR33wsBXhxYtId3bYRc7Q",
+    "link": "https://vnexpress.net/tinh-cu-lam-nhieu-viec-cho-toi-ma-chong-khong-lam-duoc-5146696.html",
+    "published_at": "Thu, 19 Nov 2026 19:00:00 +0700",
+    "createAt": "2026-11-19T12:00:00.000Z",
+    "thumbnail_blurhash": "LMHLJ90*VrRP~V9uIU-okXVsIo-o"
+  },
+  {
+    "id": "https://vnexpress.net/ong-le-thanh-than-noi-loi-sau-cung-tai-toa-trong-ba-giay-5146685.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Ông Lê Thanh Thản nói lời sau cùng tại tòa trong ba giây",
+    "description": "Sau gần 6 tiếng nghe tranh luận giữa luật sư và VKS, khi được nói lời sau cùng tại phiên tòa, ông Lê Thanh Thản cho hay \"không ý kiến gì\", ngắn gọn cảm ơn HĐXX.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/19/wm1-wm1-2aobordqntmanrmtanmk3qjpfj-6123-7201-1795088044.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=fj5DPn0fkkd4gEXExm9zTQ",
+    "link": "https://vnexpress.net/ong-le-thanh-than-noi-loi-sau-cung-tai-toa-trong-ba-giay-5146685.html",
+    "published_at": "Thu, 19 Nov 2026 19:27:31 +0700",
+    "createAt": "2026-11-19T12:27:31.000Z",
+    "thumbnail_blurhash": "LIEyY@9E56iwxs-;%MM{?wtSn3Rj"
+  },
+  {
+    "id": "https://vnexpress.net/video-ai-danh-hoa-frida-kahlo-lai-xe-lieu-linh-bi-chi-trich-5146454.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Video AI 'danh họa Frida Kahlo lái xe liều lĩnh' bị chỉ trích",
+    "description": "Video AI \"Frida Kahlo lái xe liều lĩnh\" của một hãng thời trang bị nói thiếu tôn trọng họa sĩ vì ngoài đời bà suýt chết sau tai nạn giao thông.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/11/19/fridakahlotrongvideoaiqungcoca-5894-6244-1795073957.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=Se7oqcYzzk7VurhINLaTpQ",
+    "link": "https://vnexpress.net/video-ai-danh-hoa-frida-kahlo-lai-xe-lieu-linh-bi-chi-trich-5146454.html",
+    "published_at": "Thu, 19 Nov 2026 19:34:22 +0700",
+    "createAt": "2026-11-19T12:34:22.000Z",
+    "thumbnail_blurhash": "L5Chyg}q0e^QN;ENjewb01%2of56"
   }
 ]
