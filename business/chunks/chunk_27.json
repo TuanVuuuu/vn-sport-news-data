@@ -752,5 +752,31 @@
     "published_at": "Thu, 19 Nov 2026 15:19:36 +0700",
     "createAt": "2026-11-19T08:19:36.000Z",
     "thumbnail_blurhash": "LkKBH?oMX7_N~pV@M{bI%MofRjM{"
+  },
+  {
+    "id": "https://vnexpress.net/chung-khoan-xuong-muc-thap-nhat-mot-thang-5146652.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Chứng khoán xuống mức thấp nhất một tháng",
+    "description": "Áp lực bán tiếp tục lan rộng trong phiên đáo hạn phái sinh, nhất là nhóm cổ phiếu trụ, khiến chứng khoán giảm 13 điểm về mức thấp nhất một tháng.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/19/233a7704-1795076643-8538-1795076690.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Npq2dBzuFke3Qo23mar1Kg",
+    "link": "https://vnexpress.net/chung-khoan-xuong-muc-thap-nhat-mot-thang-5146652.html",
+    "published_at": "Thu, 19 Nov 2026 15:47:56 +0700",
+    "createAt": "2026-11-19T08:47:56.000Z",
+    "thumbnail_blurhash": "L79@P4EQxu~p009YV?IByE?bR+bb"
+  },
+  {
+    "id": "https://vnexpress.net/hang-nghin-nhan-vien-anthropic-co-the-thanh-trieu-phu-5146346.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Hàng nghìn nhân viên Anthropic có thể thành triệu phú",
+    "description": "IPO của công ty mẹ Claude có thể giúp hàng nghìn nhân viên hãng này thành triệu phú nhờ nắm cổ phiếu.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/19/Screenshot20261119154516-17950-4869-3365-1795077984.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=liT4KDQcyI2ZJvkCRl4MNw",
+    "link": "https://vnexpress.net/hang-nghin-nhan-vien-anthropic-co-the-thanh-trieu-phu-5146346.html",
+    "published_at": "Thu, 19 Nov 2026 15:53:06 +0700",
+    "createAt": "2026-11-19T08:53:06.000Z",
+    "thumbnail_blurhash": "LOCPko~UM|IV-;t6IoNG4:D*Rjof"
   }
 ]
