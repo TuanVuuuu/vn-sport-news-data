@@ -804,5 +804,44 @@
     "published_at": "Thu, 19 Nov 2026 09:00:00 +0700",
     "createAt": "2026-11-19T02:00:00.000Z",
     "thumbnail_blurhash": "LHL|iMA18yIb^hr?xvv}%Qs=DgRN"
+  },
+  {
+    "id": "https://vnexpress.net/thuc-luot-dien-thoai-den-5h-nam-sinh-20-tuoi-tu-vong-do-thieu-oxy-co-tim-5146042.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Thức lướt điện thoại đến 5h, nam sinh 20 tuổi tử vong do thiếu oxy cơ tim",
+    "description": "Nam sinh viên 20 tuổi tại Đài Loan tử vong trong ký túc xá do thiếu oxy cơ tim, sau thời gian dài đảo lộn giờ giấc sinh hoạt và thường xuyên thức khuya.",
+    "thumbnail_url": "https://i1-suckhoe.vnecdn.net/2026/11/18/8-1794991126-8438-1794991337.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=uWbPk148ETVCMFDHrqhY6g",
+    "link": "https://vnexpress.net/thuc-luot-dien-thoai-den-5h-nam-sinh-20-tuoi-tu-vong-do-thieu-oxy-co-tim-5146042.html",
+    "published_at": "Thu, 19 Nov 2026 10:00:00 +0700",
+    "createAt": "2026-11-19T03:00:00.000Z",
+    "thumbnail_blurhash": "L15X[Ut-4n^h?v4.D$^*00-T-;E3"
+  },
+  {
+    "id": "https://vnexpress.net/ngoi-ngay-sau-khi-van-dong-manh-co-hai-tim-5146355.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Ngồi ngay sau khi vận động mạnh có hại tim?",
+    "description": "Tôi chạy bộ hoặc tập cardio, nhiều người khuyên không nên ngồi xuống ngay sau khi tập vì sẽ ép tim. Điều này đúng không? (Anh Vũ, TP HCM)",
+    "thumbnail_url": "https://i1-suckhoe.vnecdn.net/2026/11/19/image001-1795048276-2891-1795048376.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=W-PloWK__NsR16khwNrV4g",
+    "link": "https://vnexpress.net/ngoi-ngay-sau-khi-van-dong-manh-co-hai-tim-5146355.html",
+    "published_at": "Thu, 19 Nov 2026 10:00:00 +0700",
+    "createAt": "2026-11-19T03:00:00.000Z",
+    "thumbnail_blurhash": "L9FjG+-@Q+tQ1Vx2VzafF%oqIAW8"
+  },
+  {
+    "id": "https://vnexpress.net/tinh-mach-chan-noi-ngoan-ngoeo-do-suy-gian-5146352.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Tĩnh mạch chân nổi ngoằn ngoèo do suy giãn",
+    "description": "Bà Thu, 55 tuổi, nổi gân xanh ngoằn ngoèo ở chân, đau nhức, tê mỏi về đêm, bác sĩ chẩn đoán suy giãn tĩnh mạch.",
+    "thumbnail_url": "https://i1-suckhoe.vnecdn.net/2026/11/19/image001-1795048004-8417-1795048088.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=NOPni2gCgn2ievYUAnLJnw",
+    "link": "https://vnexpress.net/tinh-mach-chan-noi-ngoan-ngoeo-do-suy-gian-5146352.html",
+    "published_at": "Thu, 19 Nov 2026 10:00:00 +0700",
+    "createAt": "2026-11-19T03:00:00.000Z",
+    "thumbnail_blurhash": "LeL5OM?FM#W.~XWTM{e??Zo%t5oe"
   }
 ]

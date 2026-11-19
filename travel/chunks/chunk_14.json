@@ -882,5 +882,31 @@
     "published_at": "Thu, 19 Nov 2026 08:00:00 +0700",
     "createAt": "2026-11-19T01:00:00.000Z",
     "thumbnail_blurhash": "L4I#[j^+Os_N9G00S4t7Ip9FWBt7"
+  },
+  {
+    "id": "https://vnexpress.net/vi-sao-khach-viet-do-xo-den-trung-quoc-5145949.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Vì sao khách Việt 'đổ xô' đến Trung Quốc?",
+    "description": "Việt Nam đứng thứ ba trong các thị trường gửi khách quốc tế đến Trung Quốc quý III, và giá tour rẻ hơn Nhật Bản, Hàn Quốc chưa phải toàn bộ lý do.",
+    "thumbnail_url": "https://i1-dulich.vnecdn.net/2026/11/19/1-picsart-aiimageenhancer-1795-5501-4753-1795055054.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=xFN0bAPstoX7LY9H6BYpRw",
+    "link": "https://vnexpress.net/vi-sao-khach-viet-do-xo-den-trung-quoc-5145949.html",
+    "published_at": "Thu, 19 Nov 2026 08:00:00 +0700",
+    "createAt": "2026-11-19T01:00:00.000Z",
+    "thumbnail_blurhash": "LOHV3b~q?v?a9uM|t7ozx]WBniV@"
+  },
+  {
+    "id": "https://vnexpress.net/nhom-nguoi-song-biet-lap-o-amazon-ra-khoi-rung-xin-thuc-an-5146395.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Nhóm người sống biệt lập ở Amazon ra khỏi rừng xin thức ăn",
+    "description": "Khoảng 20 người Awá sống biệt lập trong rừng Amazon ở Brazil tới gần một trạm kiểm soát của chính quyền, xin khoai rồi mang về rừng.",
+    "thumbnail_url": "https://i1-dulich.vnecdn.net/2026/11/19/d586d0d4f4814016b03b5fd56a75de-1705-9413-1795054387.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=U-BX_e0M_errCmUt2HTgxg",
+    "link": "https://vnexpress.net/nhom-nguoi-song-biet-lap-o-amazon-ra-khoi-rung-xin-thuc-an-5146395.html",
+    "published_at": "Thu, 19 Nov 2026 09:39:39 +0700",
+    "createAt": "2026-11-19T02:39:39.000Z",
+    "thumbnail_blurhash": "L5EVZ=~V8SBO0yKN,I+$0x%2=gXQ"
   }
 ]
