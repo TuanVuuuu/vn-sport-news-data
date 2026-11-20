@@ -271,5 +271,31 @@
     "published_at": "Fri, 20 Nov 2026 11:15:46 +0700",
     "createAt": "2026-11-20T04:15:46.000Z",
     "thumbnail_blurhash": "LEIh1:aIEmRk~BxaNbt601tRskxt"
+  },
+  {
+    "id": "https://vnexpress.net/nhan-vien-van-phong-ru-nhau-cham-mo-nghia-trang-5146312.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Nhân viên văn phòng rủ nhau chăm mộ nghĩa trang",
+    "description": "Cuối tuần, Thùy Dương cùng đồng nghiệp đi xe máy hơn 60 km từ Hà Nội lên Hòa Bình cũ chăm mộ, dọn cỏ khuôn viên nghĩa trang trong một ngày.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/18/a3-1795015600-7563-1795015616.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=07JQlYIkdJ7P5qa-dWhciw",
+    "link": "https://vnexpress.net/nhan-vien-van-phong-ru-nhau-cham-mo-nghia-trang-5146312.html",
+    "published_at": "Sat, 21 Nov 2026 04:00:00 +0700",
+    "createAt": "2026-11-20T21:00:00.000Z",
+    "thumbnail_blurhash": "LMC88OW}IVj=.gM+oLoepPohjJRo"
+  },
+  {
+    "id": "https://vnexpress.net/de-xuat-toc-do-toi-da-90-km-h-voi-cao-toc-4-lan-xe-chua-co-lan-dung-khan-cap-5146183.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Đề xuất tốc độ tối đa 90 km/h với cao tốc 4 làn xe chưa có làn dừng khẩn cấp",
+    "description": "Trong dự thảo sửa đổi Thông tư 38/2024, Bộ Xây dựng đề xuất giới hạn tốc độ không quá 90 km/h đối với một số phương tiện chạy trên cao tốc 4 làn xe đầu tư phân kỳ.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/20/ct11-jpg-1795182564-9517-1795182708.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=8-mNFG3KbBdO0BdlfxHqyw",
+    "link": "https://vnexpress.net/de-xuat-toc-do-toi-da-90-km-h-voi-cao-toc-4-lan-xe-chua-co-lan-dung-khan-cap-5146183.html",
+    "published_at": "Sat, 21 Nov 2026 04:00:00 +0700",
+    "createAt": "2026-11-20T21:00:00.000Z",
+    "thumbnail_blurhash": "LzI=lcWCs:kC_NWDogbH?ca#kCj["
   }
 ]
