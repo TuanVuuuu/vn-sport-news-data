@@ -921,5 +921,31 @@
     "published_at": "Fri, 20 Nov 2026 10:30:00 +0700",
     "createAt": "2026-11-20T03:30:00.000Z",
     "thumbnail_blurhash": "LDC%1,0#+cKOGjtRMLIo*H={9biw"
+  },
+  {
+    "id": "https://vnexpress.net/apec-mo-co-hoi-de-viet-nam-don-von-chat-luong-cao-5146785.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "APEC mở cơ hội để Việt Nam đón vốn chất lượng cao",
+    "description": "APEC 2026 tại Thâm Quyến có thể tạo cơ hội cho Việt Nam thu hút thêm vốn công nghệ cao, đồng thời giúp doanh nghiệp nội tái định vị, tiến sâu hơn vào chuỗi cung ứng toàn cầu.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/19/wm1-wm1-dji202602041708260253d-179-7031-6263-1795106953.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=xIPtB40S490PItmJRZiuoQ",
+    "link": "https://vnexpress.net/apec-mo-co-hoi-de-viet-nam-don-von-chat-luong-cao-5146785.html",
+    "published_at": "Fri, 20 Nov 2026 09:51:17 +0700",
+    "createAt": "2026-11-20T02:51:17.000Z",
+    "thumbnail_blurhash": "L4Bf@S?H%0={~Xt5$*Ne~BtSEMxF"
+  },
+  {
+    "id": "https://vnexpress.net/moi-luong-vang-mieng-giam-toi-4-trieu-dong-5146938.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Mỗi lượng vàng miếng giảm tới 4 triệu đồng",
+    "description": "SJC sáng nay hạ mạnh giá vàng miếng 4 triệu đồng chiều mua vào từ người dân trong khi bán ra giảm 2 triệu, xuống 134 triệu mỗi lượng.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/20/233a0822-1795145051-4243-1795145456.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=8nRvHn_1Bj4zG8qD4QIxPQ",
+    "link": "https://vnexpress.net/moi-luong-vang-mieng-giam-toi-4-trieu-dong-5146938.html",
+    "published_at": "Fri, 20 Nov 2026 11:11:51 +0700",
+    "createAt": "2026-11-20T04:11:51.000Z",
+    "thumbnail_blurhash": "LBE2UgIB03^*~n9ZNLt5F5nh$_M}"
   }
 ]
