@@ -752,5 +752,31 @@
     "published_at": "Fri, 20 Nov 2026 14:00:00 +0700",
     "createAt": "2026-11-20T07:00:00.000Z",
     "thumbnail_blurhash": "L48}GQ?48wX=00E:RZReMaRN-@ND"
+  },
+  {
+    "id": "https://vnexpress.net/viet-nam-dat-muc-tieu-tro-thanh-dien-hinh-ve-tai-hoang-da-o-chau-a-5146957.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Việt Nam đặt mục tiêu trở thành điển hình về tái hoang dã ở châu Á",
+    "description": "Việt Nam phấn đấu đến năm 2050 phục hồi 50% diện tích hệ sinh thái tự nhiên bị suy thoái và ít nhất 30 loài động vật hoang dã.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/20/voc-cha-va-chan-nau-copy-17951-8735-3255-1795145520.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=LyJjwBhKoDB4rzzb9A64NQ",
+    "link": "https://vnexpress.net/viet-nam-dat-muc-tieu-tro-thanh-dien-hinh-ve-tai-hoang-da-o-chau-a-5146957.html",
+    "published_at": "Fri, 20 Nov 2026 15:03:55 +0700",
+    "createAt": "2026-11-20T08:03:55.000Z",
+    "thumbnail_blurhash": "LB6AOSr_O%bI*Er^S0bYP1i%t8X4"
+  },
+  {
+    "id": "https://vnexpress.net/du-lieu-cua-hang-nghin-khach-hang-jpmorgan-visa-mastercard-bi-ro-ri-5147078.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Dữ liệu của hàng nghìn khách hàng JPMorgan, Visa, Mastercard bị rò rỉ",
+    "description": "JPMorgan, Visa, Mastercard cho biết nhà cung cấp dịch vụ bên thứ ba bị tấn công mạng, nhưng thông tin liên quan đến thanh toán không bị ảnh hưởng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/20/dsc00479-jpg-1795162270-9664-1795162363.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=LVKVYXnxKVCbNYfW6U3EFA",
+    "link": "https://vnexpress.net/du-lieu-cua-hang-nghin-khach-hang-jpmorgan-visa-mastercard-bi-ro-ri-5147078.html",
+    "published_at": "Fri, 20 Nov 2026 15:59:07 +0700",
+    "createAt": "2026-11-20T08:59:07.000Z",
+    "thumbnail_blurhash": "L52Y|+t7MvM_tWjYV=WAM$V@xuxu"
   }
 ]
