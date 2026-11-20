@@ -700,5 +700,44 @@
     "published_at": "Fri, 20 Nov 2026 10:05:52 +0700",
     "createAt": "2026-11-20T03:05:52.000Z",
     "thumbnail_blurhash": "LECaJUxS00IUqGODIpIp0^xI~pxv"
+  },
+  {
+    "id": "https://vnexpress.net/dung-nhac-kich-ve-truyen-thuyet-lac-long-quan-va-au-co-5145870.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Dựng nhạc kịch về truyền thuyết 'Lạc Long Quân và Âu Cơ'",
+    "description": "Biên kịch Hồng Hoa sáng tạo thêm một số nhân vật, làm nổi bật quá trình gìn giữ non sông của Lạc Long Quân và Âu Cơ trong nhạc kịch.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/11/18/kich-ban-van-hoc-lac-long-quan-7613-1775-1794996992.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=mF9ZaCW6UAiduUOrmP-73Q",
+    "link": "https://vnexpress.net/dung-nhac-kich-ve-truyen-thuyet-lac-long-quan-va-au-co-5145870.html",
+    "published_at": "Fri, 20 Nov 2026 10:48:27 +0700",
+    "createAt": "2026-11-20T03:48:27.000Z",
+    "thumbnail_blurhash": "LZH3KY%MIbj]?^WCw[R*o}RQoft4"
+  },
+  {
+    "id": "https://vnexpress.net/thoi-trang-cua-dat-ky-dep-nhat-man-anh-5146927.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Thời trang của 'Đát Kỷ đẹp nhất màn ảnh'",
+    "description": "Diễn viên Nga Na Nhiên, nổi tiếng với vai Đát Kỷ, thường chọn trang phục mang nét thanh lịch cổ điển.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/11/20/to-na-nhien3-1795145344.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=RaSjEguYtFTzE2hx1ZQ19w",
+    "link": "https://vnexpress.net/thoi-trang-cua-dat-ky-dep-nhat-man-anh-5146927.html",
+    "published_at": "Fri, 20 Nov 2026 11:09:35 +0700",
+    "createAt": "2026-11-20T04:09:35.000Z",
+    "thumbnail_blurhash": "LbG*f.EhNd-o~oM{Ipt7PARPRPR+"
+  },
+  {
+    "id": "https://vnexpress.net/bon-nam-yeu-cua-kha-nhu-huynh-phuong-5147007.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Bốn năm yêu của Khả Như, Huỳnh Phương",
+    "description": "Dù kém diễn viên Khả Như 5 tuổi, Huỳnh Phương được bạn bè nhận xét là chỗ dựa tinh thần cho bạn gái trước khi anh cầu hôn cô.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/11/20/kha-nhu-huynh-phuong-1795150383.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=9G3ctVxinWvWway7MZpWLg",
+    "link": "https://vnexpress.net/bon-nam-yeu-cua-kha-nhu-huynh-phuong-5147007.html",
+    "published_at": "Fri, 20 Nov 2026 11:50:21 +0700",
+    "createAt": "2026-11-20T04:50:21.000Z",
+    "thumbnail_blurhash": "LFFi7F8^0J_N00Xn%Nn4D%%MxuMx"
   }
 ]
