@@ -700,5 +700,44 @@
     "published_at": "Fri, 20 Nov 2026 09:00:00 +0700",
     "createAt": "2026-11-20T02:00:00.000Z",
     "thumbnail_blurhash": "LjGQLd}sniI:=y$*n$aexaxaniV@"
+  },
+  {
+    "id": "https://vnexpress.net/giang-vien-bien-gi-sat-tau-bien-thanh-vat-lieu-xu-ly-nuoc-thai-det-nhuom-5145484.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Giảng viên biến gỉ sắt tàu biển thành vật liệu xử lý nước thải dệt nhuộm",
+    "description": "Nhóm giảng viên, sinh viên Đại học Quản lý và Công nghệ Hải Phòng dùng gỉ sắt của nhà máy đóng tàu chế tạo vật liệu xử lý nước thải, giảm độ màu nước thải dệt nhuộm khoảng 94,69% trong thử nghiệm.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/19/1794877720616-1795075842-2322-1795078104.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=kbnJsd4C-G5m2ECYj4mNPA",
+    "link": "https://vnexpress.net/giang-vien-bien-gi-sat-tau-bien-thanh-vat-lieu-xu-ly-nuoc-thai-det-nhuom-5145484.html",
+    "published_at": "Fri, 20 Nov 2026 10:01:27 +0700",
+    "createAt": "2026-11-20T03:01:27.000Z",
+    "thumbnail_blurhash": "LTFru4e-9HRi~US5MwM{-:bIVtWC"
+  },
+  {
+    "id": "https://vnexpress.net/google-chon-doi-thu-cua-elon-musk-xay-trung-tam-du-lieu-khong-gian-5146825.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Google chọn đối thủ của Elon Musk xây trung tâm dữ liệu không gian",
+    "description": "Blue Origin, đối thủ của SpaceX, sẽ đưa vệ tinh Google lên quỹ đạo, trong vụ phóng tên lửa hạng nặng đầu tiên của dự án trung tâm dữ liệu ngoài không gian.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/20/ten-lua-blue-origin-1795112304-9555-1795112590.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=vfMM7-4Gt8BpLZE4QcQMNQ",
+    "link": "https://vnexpress.net/google-chon-doi-thu-cua-elon-musk-xay-trung-tam-du-lieu-khong-gian-5146825.html",
+    "published_at": "Fri, 20 Nov 2026 11:04:51 +0700",
+    "createAt": "2026-11-20T04:04:51.000Z",
+    "thumbnail_blurhash": "LjHC..ad-=tTglWAIUf,IBjraJRi"
+  },
+  {
+    "id": "https://vnexpress.net/cu-bat-tau-vu-tru-starship-bang-dua-gap-nhin-tu-thap-phong-5147012.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Cú bắt tàu vũ trụ Starship bằng đũa gắp nhìn từ tháp phóng",
+    "description": "Loạt video quay chậm do SpaceX chia sẻ hé lộ góc nhìn mới về lần đầu thu hồi tầng trên tên lửa Starship bằng đũa gắp.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/20/VNEStarship-1795149310-4180-1795149845.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=TGhlCjlDTEYYmCMA7YQwQw",
+    "link": "https://vnexpress.net/cu-bat-tau-vu-tru-starship-bang-dua-gap-nhin-tu-thap-phong-5147012.html",
+    "published_at": "Fri, 20 Nov 2026 12:00:41 +0700",
+    "createAt": "2026-11-20T05:00:41.000Z",
+    "thumbnail_blurhash": "LRI=Mp%M%fxv_NM{%Mof?cRjRkax"
   }
 ]
