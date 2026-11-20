@@ -1,3 +1,108 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/hlv-cua-bi-muon-thang-ap-dao-o-giai-u17-world-cup-5147119.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "HLV của Bỉ muốn thắng áp đảo ở giải U17 World Cup",
+      "description": "Trước trận ra quân gặp Việt Nam tại U17 World Cup 2026, HLV Sven Vermant khẳng định Bỉ luôn hướng tới lối chơi áp đặt và chiến thắng thuyết phục, nhưng không xem nhẹ bất kỳ đối thủ nào.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/11/20/screenshot-at-1795163691-1686-1795163816.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=CoVuTjTs8co-CjvA78SkhA",
+      "link": "https://vnexpress.net/hlv-cua-bi-muon-thang-ap-dao-o-giai-u17-world-cup-5147119.html",
+      "published_at": "Fri, 20 Nov 2026 14:00:03 +0700",
+      "createAt": "2026-11-20T07:00:03.000Z",
+      "thumbnail_blurhash": "LKG+UG?cos?aw4=^S*?b~UE2i]xu"
+    },
+    {
+      "id": "https://vnexpress.net/8-nam-gieo-rac-kinh-hoang-bang-ak-cua-giang-ho-tai-den-5147103.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "8 năm gieo rắc kinh hoàng bằng AK của giang hồ Tài 'Đen'",
+      "description": "Trong 8 năm trốn truy nã, Tài \"Đen\" mang AK truy sát, bảo kê, gây hàng loạt trọng án khiến 4 người chết, 8 người bị thương, trước khi sa lưới sau vụ cướp ngân hàng.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/20/wm1-wm1-2-jpeg-1795162172-9199-1795162276.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=S0XgalLkyLXQjT32Y8fN_w",
+      "link": "https://vnexpress.net/8-nam-gieo-rac-kinh-hoang-bang-ak-cua-giang-ho-tai-den-5147103.html",
+      "published_at": "Fri, 20 Nov 2026 16:31:28 +0700",
+      "createAt": "2026-11-20T09:31:28.000Z",
+      "thumbnail_blurhash": "LNKnJ5IA%NWFFz0Kxvof_4M_xtt7"
+    },
+    {
+      "id": "https://vnexpress.net/thu-thue-0-2-voi-dat-bo-hoang-tu-1-7-2027-5147154.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Thu thuế 0,2% với đất bỏ hoang từ 1/7/2027",
+      "description": "Đất bỏ hoang sẽ bị thu thuế 0,2% và không áp dụng hạn mức với đất bỏ hoang, chậm đưa vào sử dụng, gấp gần 7 lần đất ở trong hạn mức.",
+      "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/20/wm1-wm1-anh7-1795168911-5115-1795169137.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=f1GRy9ioL8mByViUVmP9NQ",
+      "link": "https://vnexpress.net/thu-thue-0-2-voi-dat-bo-hoang-tu-1-7-2027-5147154.html",
+      "published_at": "Fri, 20 Nov 2026 17:21:49 +0700",
+      "createAt": "2026-11-20T10:21:49.000Z",
+      "thumbnail_blurhash": "LzD^M%W9WXbG.AV@oLf8%ijZjYfl"
+    },
+    {
+      "id": "https://vnexpress.net/cho-phep-lao-dong-cong-ich-thay-tien-phat-tu-5-trieu-dong-tro-xuong-5147134.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Cho phép lao động công ích thay tiền phạt từ 5 triệu đồng trở xuống",
+      "description": "Cá nhân bị phạt hành chính từ 5 triệu đồng trở xuống, đã nhận lỗi và tự nguyện đề nghị, có thể thực hiện công việc phục vụ cộng đồng thay cho nộp tiền phạt.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/20/202611201524101651-g3587189976-1522-3163-1795165283.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=WbtpkeLrVpdWnuemByNJ8A",
+      "link": "https://vnexpress.net/cho-phep-lao-dong-cong-ich-thay-tien-phat-tu-5-trieu-dong-tro-xuong-5147134.html",
+      "published_at": "Fri, 20 Nov 2026 17:26:11 +0700",
+      "createAt": "2026-11-20T10:26:11.000Z",
+      "thumbnail_blurhash": "LFG*Az-n06I^},xZ5AM}IojZRjad"
+    },
+    {
+      "id": "https://vnexpress.net/tp-hcm-du-kien-khong-con-so-du-lich-va-so-an-toan-thuc-pham-5147183.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "TP HCM dự kiến không còn Sở Du lịch và Sở An toàn thực phẩm",
+      "description": "TP HCM dự kiến sáp nhập Sở Du lịch vào Sở Văn hóa và Thể thao, chuyển Sở An toàn thực phẩm thành chi cục trực thuộc Sở Y tế.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/20/61347abf6af8c1a698e9jpeg483917-8514-8648-1795170246.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=TvGTfi3yeTjzDt7VEjZfiQ",
+      "link": "https://vnexpress.net/tp-hcm-du-kien-khong-con-so-du-lich-va-so-an-toan-thuc-pham-5147183.html",
+      "published_at": "Fri, 20 Nov 2026 17:29:01 +0700",
+      "createAt": "2026-11-20T10:29:01.000Z",
+      "thumbnail_blurhash": "LqJalz%1e:of~WxYoej[x^ocf+WX"
+    },
+    {
+      "id": "https://vnexpress.net/chuyen-tham-quyen-dieu-tra-cua-vksnd-toi-cao-sang-bo-cong-an-5147147.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Chuyển thẩm quyền điều tra của VKSND Tối cao sang Bộ Công an",
+      "description": "Quốc hội quyết định bỏ Cơ quan điều tra VKSND Tối cao, chuyển thẩm quyền điều tra các tội phạm về tham nhũng, chức vụ và xâm phạm hoạt động tư pháp thuộc phạm vi phụ trách của cơ quan này sang Bộ Công an.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/20/img-1795166941-6989-1795167183.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=PjHHPtlJ2xyUEeZoJ2Ca2A",
+      "link": "https://vnexpress.net/chuyen-tham-quyen-dieu-tra-cua-vksnd-toi-cao-sang-bo-cong-an-5147147.html",
+      "published_at": "Fri, 20 Nov 2026 17:31:40 +0700",
+      "createAt": "2026-11-20T10:31:40.000Z",
+      "thumbnail_blurhash": "LSJuGmM|VXah%joJ%MoMJW%1Nzf$"
+    },
+    {
+      "id": "https://vnexpress.net/bo-an-tu-hinh-voi-6-toi-danh-5146966.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Bỏ án tử hình với 6 tội danh",
+      "description": "Từ ngày 1/3/2027, mua bán trái phép chất ma túy, hiếp dâm người dưới 16 tuổi và 4 tội danh khác có mức hình phạt cao nhất là tù chung thân, thay vì tử hình.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/20/2aobordvwgstcbbrrjzqtpveiyzzhe-2278-5467-1795171448.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=f32S3HXRBHipXW_wBTXUxg",
+      "link": "https://vnexpress.net/bo-an-tu-hinh-voi-6-toi-danh-5146966.html",
+      "published_at": "Fri, 20 Nov 2026 17:44:08 +0700",
+      "createAt": "2026-11-20T10:44:08.000Z",
+      "thumbnail_blurhash": "LUIq9~~T-2${~2t6I]RlNHfkoMay"
+    },
+    {
+      "id": "https://vnexpress.net/tai-khoan-mang-xa-hoi-phai-duoc-xac-thuc-danh-tinh-5147179.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Tài khoản mạng xã hội phải được xác thực danh tính",
+      "description": "Từ ngày 1/7/2027, người dùng tài khoản ngân hàng, chứng khoán, viễn thông, thương mại điện tử và mạng xã hội phải được xác thực danh tính điện tử.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/20/2aobordwglcftn6bfx9xzkeow2cf9j-4221-5096-1795169446.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=agiQAY0f0BqbKsmwWw_0lg",
+      "link": "https://vnexpress.net/tai-khoan-mang-xa-hoi-phai-duoc-xac-thuc-danh-tinh-5147179.html",
+      "published_at": "Fri, 20 Nov 2026 17:57:15 +0700",
+      "createAt": "2026-11-20T10:57:15.000Z",
+      "thumbnail_blurhash": "L6G*yN.m014T02xH_0?]00wZtSRB"
+    }
+  ]
 }
