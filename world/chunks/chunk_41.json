@@ -973,5 +973,31 @@
     "published_at": "Fri, 20 Nov 2026 05:00:00 +0700",
     "createAt": "2026-11-19T22:00:00.000Z",
     "thumbnail_blurhash": "LPIz-nM__3t5-;xaNcoJ_MniIoja"
+  },
+  {
+    "id": "https://vnexpress.net/modem-bay-giup-ukraine-tap-kich-cau-crimea-ma-khong-can-starlink-5146651.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "'Modem bay' giúp Ukraine tập kích cầu Crimea mà không cần Starlink",
+    "description": "Ukraine dùng mạng lưới UAV chuyển tiếp dữ liệu để dẫn đường cho tên lửa tấn công cầu Crimea, tương tự biện pháp Nga triển khai từ lâu.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/19/5563187178137269323b-179507669-8899-1267-1795077233.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=A84ZFXkQiqSYZQNJD2BmCg",
+    "link": "https://vnexpress.net/modem-bay-giup-ukraine-tap-kich-cau-crimea-ma-khong-can-starlink-5146651.html",
+    "published_at": "Fri, 20 Nov 2026 06:00:00 +0700",
+    "createAt": "2026-11-19T23:00:00.000Z",
+    "thumbnail_blurhash": "L7Ad1S4nf7-;00?b%MIU~qRjD%%M"
+  },
+  {
+    "id": "https://vnexpress.net/houthi-danh-trung-toa-nha-cao-nhat-o-thu-do-cua-arab-saudi-5146829.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Houthi đánh trúng tòa nhà cao nhất ở thủ đô của Arab Saudi",
+    "description": "Cuộc tập kích của Houthi làm hư hại tháp PIF, tòa nhà cao nhất ở thủ đô Riyadh với chiều cao 385 m.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/20/ThpPIF-1795129920-4533-1795130318.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=8J8Hj2H5Wm6YuMRWENSFsw",
+    "link": "https://vnexpress.net/houthi-danh-trung-toa-nha-cao-nhat-o-thu-do-cua-arab-saudi-5146829.html",
+    "published_at": "Fri, 20 Nov 2026 06:38:06 +0700",
+    "createAt": "2026-11-19T23:38:06.000Z",
+    "thumbnail_blurhash": "Lh9Rt]M_tpt8x{afkYj]WBkCadae"
   }
 ]
