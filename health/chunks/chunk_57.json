@@ -531,5 +531,44 @@
     "published_at": "Sat, 21 Nov 2026 09:00:00 +0700",
     "createAt": "2026-11-21T02:00:00.000Z",
     "thumbnail_blurhash": "LGOB+Bg58wOG3ZOsTd-65?=[%g%1"
+  },
+  {
+    "id": "https://vnexpress.net/suy-tim-co-di-truyen-khong-5147317.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Suy tim có di truyền không?",
+    "description": "Ông nội và ba tôi đều bị suy tim, hiện sức khỏe tim mạch của tôi bình thường. Tôi có nguy cơ mắc bệnh không, làm sao phòng ngừa? (Minh, 29 tuổi, TP HCM)",
+    "thumbnail_url": "https://i1-suckhoe.vnecdn.net/2026/11/21/image001-1795225227-1805-1795225279.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=kQ1SBrCSlCfsYeNOL9909g",
+    "link": "https://vnexpress.net/suy-tim-co-di-truyen-khong-5147317.html",
+    "published_at": "Sat, 21 Nov 2026 09:00:00 +0700",
+    "createAt": "2026-11-21T02:00:00.000Z",
+    "thumbnail_blurhash": "L7HVGB4m00-=0D%i4T9E~U-m0L?b"
+  },
+  {
+    "id": "https://vnexpress.net/phu-tay-voi-sau-dieu-tri-ung-thu-vu-5147296.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Phù tay voi sau điều trị ung thư vú",
+    "description": "Chị Nhàn, 39 tuổi, ung thư vú di căn hạch đã phẫu thuật và hóa xạ trị, ba năm sau tay phải sưng to, bác sĩ chẩn đoán phù tay voi.",
+    "thumbnail_url": "https://i1-suckhoe.vnecdn.net/2026/11/21/1-1795224655-5020-1795224692.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=xB0y4TETQJop4V7JGfXZIw",
+    "link": "https://vnexpress.net/phu-tay-voi-sau-dieu-tri-ung-thu-vu-5147296.html",
+    "published_at": "Sat, 21 Nov 2026 09:00:00 +0700",
+    "createAt": "2026-11-21T02:00:00.000Z",
+    "thumbnail_blurhash": "LaIPD8k=In?Y~oxVxutSxAV?RkxW"
+  },
+  {
+    "id": "https://vnexpress.net/vi-sao-mac-cum-do-virus-bac-si-van-ke-khang-sinh-5147303.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Vì sao mắc cúm do virus, bác sĩ vẫn kê kháng sinh?",
+    "description": "Tôi được chẩn đoán mắc cúm A, do virus gây ra nhưng bác sĩ vẫn kê thêm kháng sinh. Kháng sinh có tác dụng gì trong trường hợp này? (Hải An, TP HCM)",
+    "thumbnail_url": "https://i1-suckhoe.vnecdn.net/2026/11/21/image001-1795222667-9944-1795222800.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=Gs1rVeyhWEunmVFW5_SfUA",
+    "link": "https://vnexpress.net/vi-sao-mac-cum-do-virus-bac-si-van-ke-khang-sinh-5147303.html",
+    "published_at": "Sat, 21 Nov 2026 10:00:00 +0700",
+    "createAt": "2026-11-21T03:00:00.000Z",
+    "thumbnail_blurhash": "LOMk039~%L~U_NrWwZtQ-LIoD%WF"
   }
 ]
