@@ -843,5 +843,31 @@
     "published_at": "Sun, 22 Nov 2026 00:04:00 +0700",
     "createAt": "2026-11-21T17:04:00.000Z",
     "thumbnail_blurhash": "LAFhedKZ2t}u3W,.#T3U4QaJ+Jt7"
+  },
+  {
+    "id": "https://vnexpress.net/5-ly-do-khien-giac-ngu-gian-doan-vi-thuc-day-di-tieu-5147071.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "5 lý do khiến giấc ngủ gián đoạn vì thức dậy đi tiểu",
+    "description": "Thường xuyên tỉnh giấc giữa đêm để đi vệ sinh có thể xuất phát từ thói quen uống nhiều nước trước khi ngủ, sử dụng caffeine hoặc một số vấn đề sức khỏe.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/20/thuc-giac2-1795160300-5283-1795160348.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=0f8N7KsnLbVMSw8Pf-zDqg",
+    "link": "https://vnexpress.net/5-ly-do-khien-giac-ngu-gian-doan-vi-thuc-day-di-tieu-5147071.html",
+    "published_at": "Sun, 22 Nov 2026 01:00:00 +0700",
+    "createAt": "2026-11-21T18:00:00.000Z",
+    "thumbnail_blurhash": "LE8:@d~B={?F^j-oxs-UoLayWBjr"
+  },
+  {
+    "id": "https://vnexpress.net/suc-khoe/cam-nang/hoi-chung-thieu-co-465",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Hội chứng thiểu cơ",
+    "description": "Hội chứng thiểu cơ khiến khối lượng, sức mạnh và chức năng cơ suy giảm, gây khó vận động, tăng nguy cơ té ngã khi lớn tuổi.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/21/cobap-1795235491-9580-1795235516.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=XHfbMycfo8V90WlpDb9TWw",
+    "link": "https://vnexpress.net/suc-khoe/cam-nang/hoi-chung-thieu-co-465",
+    "published_at": "Sun, 22 Nov 2026 01:00:00 +0700",
+    "createAt": "2026-11-21T18:00:00.000Z",
+    "thumbnail_blurhash": "LKIqW40L57R-~B-ov}NH%#rqMxo#"
   }
 ]
