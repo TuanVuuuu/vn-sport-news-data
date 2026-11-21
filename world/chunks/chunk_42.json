@@ -284,5 +284,44 @@
     "published_at": "Sat, 21 Nov 2026 20:45:43 +0700",
     "createAt": "2026-11-21T13:45:43.000Z",
     "thumbnail_blurhash": "LFAmYiV?9ZSi~qV?M{tSyDRjsmx["
+  },
+  {
+    "id": "https://vnexpress.net/cuoc-hop-bao-thu-suc-nhung-nguoi-ke-nhiem-tiem-nang-cua-ong-trump-5147294.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Cuộc họp báo thử sức những người kế nhiệm tiềm năng của ông Trump",
+    "description": "Cuộc họp báo của ông Trump thu hút chú ý khi ông Vance và ông Rubio cùng xuất hiện, trong lúc câu chuyện về người kế nhiệm Tổng thống bắt đầu được quan tâm.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/21/afp-v1-highres-presidenttrumps-4385-7556-1795236378.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=mBbkOVRD-x_XL9bLvnfHvg",
+    "link": "https://vnexpress.net/cuoc-hop-bao-thu-suc-nhung-nguoi-ke-nhiem-tiem-nang-cua-ong-trump-5147294.html",
+    "published_at": "Sun, 22 Nov 2026 00:00:00 +0700",
+    "createAt": "2026-11-21T17:00:00.000Z",
+    "thumbnail_blurhash": "LR8#55i^ITNF%%aJRPRip0jXafWA"
+  },
+  {
+    "id": "https://vnexpress.net/iran-tuyen-bo-ban-trung-tiem-kich-f-16-my-bac-bo-5147537.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Iran tuyên bố bắn trúng tiêm kích F-16, Mỹ bác bỏ",
+    "description": "Iran tuyên bố phóng tên lửa trúng tiêm kích F-16 Mỹ ở vùng biển phía nam, song CENTCOM bác bỏ thông tin này.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/21/1-1795279740-6443-1795279751.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=GMy1dXJJf5DHm4Ubr2Nf9w",
+    "link": "https://vnexpress.net/iran-tuyen-bo-ban-trung-tiem-kich-f-16-my-bac-bo-5147537.html",
+    "published_at": "Sun, 22 Nov 2026 00:00:52 +0700",
+    "createAt": "2026-11-21T17:00:52.000Z",
+    "thumbnail_blurhash": "LFHfM6xv_Nx]?wxuIUjZx^R*ITfP"
+  },
+  {
+    "id": "https://vnexpress.net/chiec-may-bay-bam-theo-chuyen-co-cho-ong-trump-nhu-hinh-voi-bong-5147039.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Chiếc máy bay bám theo chuyên cơ chở ông Trump 'như hình với bóng'",
+    "description": "Một chiếc E-4B Nightwatch, còn có biệt danh \"máy bay ngày tận thế\", luôn bám đuôi chuyên cơ Không lực Một trong mọi chuyến công du của Tổng thống Mỹ.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/21/eb-1795240571-2068-1795254420.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=9XUpSg6zoTXxNAbhfU2Kog",
+    "link": "https://vnexpress.net/chiec-may-bay-bam-theo-chuyen-co-cho-ong-trump-nhu-hinh-voi-bong-5147039.html",
+    "published_at": "Sun, 22 Nov 2026 01:00:00 +0700",
+    "createAt": "2026-11-21T18:00:00.000Z",
+    "thumbnail_blurhash": "LlBE8*kCodofyGkCjtflNIkCWXaz"
   }
 ]
