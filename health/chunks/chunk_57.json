@@ -648,5 +648,83 @@
     "published_at": "Sat, 21 Nov 2026 11:35:08 +0700",
     "createAt": "2026-11-21T04:35:08.000Z",
     "thumbnail_blurhash": "L4GlChVr00-N~AnNofWA0fR%.9Ot"
+  },
+  {
+    "id": "https://vnexpress.net/hang-loat-manh-xuong-moc-trong-tu-cung-nguoi-phu-nu-hiem-muon-5146683.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Hàng loạt mảnh xương mọc trong tử cung người phụ nữ hiếm muộn",
+    "description": "Siêu âm tử cung cho người phụ nữ 35 tuổi tới khám tắc vòi trứng, các bác sĩ tại Bệnh viện Liên kết số 4, Đại học Chiết Giang, phát hiện hàng loạt mẩu mô xương bám chặt vào lớp niêm mạc.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/19/minh-hoa-1795079457-6297-1795079858.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=1zT1FechJlrO_VM8RPFjdg",
+    "link": "https://vnexpress.net/hang-loat-manh-xuong-moc-trong-tu-cung-nguoi-phu-nu-hiem-muon-5146683.html",
+    "published_at": "Sat, 21 Nov 2026 12:00:00 +0700",
+    "createAt": "2026-11-21T05:00:00.000Z",
+    "thumbnail_blurhash": "LFCs?eE10K_3?wM{wua}I9tRx^aK"
+  },
+  {
+    "id": "https://vnexpress.net/5-thuc-pham-ho-tro-bao-ve-mat-khi-tuoi-tac-tang-5147350.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "5 thực phẩm hỗ trợ bảo vệ mắt khi tuổi tác tăng",
+    "description": "Khoai lang, rau lá xanh đậm hay đu đủ cung cấp vitamin, chất chống oxy hóa và kẽm hỗ trợ làm chậm thay đổi thị lực liên quan đến tuổi tác.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/21/du-du-1795229674.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=sB9b9wdWRHIxuyJnr83vDA",
+    "link": "https://vnexpress.net/5-thuc-pham-ho-tro-bao-ve-mat-khi-tuoi-tac-tang-5147350.html",
+    "published_at": "Sat, 21 Nov 2026 12:00:00 +0700",
+    "createAt": "2026-11-21T05:00:00.000Z",
+    "thumbnail_blurhash": "LgNIg8_3uP%gxua0xat7t7V@bboz"
+  },
+  {
+    "id": "https://vnexpress.net/vi-sao-tre-so-sinh-nen-kham-mat-5147323.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Vì sao trẻ sơ sinh nên khám mắt?",
+    "description": "Trẻ sơ sinh cần được kiểm tra mắt để phát hiện sớm các bệnh mắt bẩm sinh, tránh nguy cơ giảm thị lực hoặc biến chứng nghiêm trọng.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/21/dsc09942-1795226009-8294-1795226074.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=aVGPSrPQUnw1CpzTjNV-YA",
+    "link": "https://vnexpress.net/vi-sao-tre-so-sinh-nen-kham-mat-5147323.html",
+    "published_at": "Sat, 21 Nov 2026 12:00:00 +0700",
+    "createAt": "2026-11-21T05:00:00.000Z",
+    "thumbnail_blurhash": "LKNdE#?b?]R+IRRPr=o|9EWBf+xs"
+  },
+  {
+    "id": "https://vnexpress.net/cat-sach-khoi-u-ung-thu-co-het-han-5145705.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Cắt sạch khối u, ung thư có hết hẳn?",
+    "description": "Phẫu thuật cắt sạch khối u không đồng nghĩa ung thư biến mất hoàn toàn, bởi các kỹ thuật chẩn đoán hình ảnh vẫn có thể bỏ sót tế bào ác tính tồn dư.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/17/233a4164-1794901270-1651-1794901334.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Y7T9HLKL6XaI7Qmh_8NEyw",
+    "link": "https://vnexpress.net/cat-sach-khoi-u-ung-thu-co-het-han-5145705.html",
+    "published_at": "Sat, 21 Nov 2026 13:00:00 +0700",
+    "createAt": "2026-11-21T06:00:00.000Z",
+    "thumbnail_blurhash": "LCB}XPHYIVt+_4j^gMMzTM-jR6kr"
+  },
+  {
+    "id": "https://vnexpress.net/ai-nen-tam-soat-benh-phoi-tac-nghen-man-tinh-5147325.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Ai nên tầm soát bệnh phổi tắc nghẽn mạn tính?",
+    "description": "Người hút thuốc lá lâu năm, thường xuyên tiếp xúc khói bụi, hóa chất hoặc ho, khó thở kéo dài nên kiểm tra chức năng phổi để phát hiện sớm bệnh phổi tắc nghẽn mạn tính.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/21/image001-1795225474-5861-1795225665.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=IjYK1VznSvP0srX55aLttQ",
+    "link": "https://vnexpress.net/ai-nen-tam-soat-benh-phoi-tac-nghen-man-tinh-5147325.html",
+    "published_at": "Sat, 21 Nov 2026 13:00:00 +0700",
+    "createAt": "2026-11-21T06:00:00.000Z",
+    "thumbnail_blurhash": "LUI5MV%M~p~p^+bIt6s:xuayt7Rj"
+  },
+  {
+    "id": "https://vnexpress.net/dieu-gi-xay-ra-voi-cholesterol-khi-ban-an-tom-5147245.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Điều gì xảy ra với cholesterol khi bạn ăn tôm?",
+    "description": "Tôm chứa cholesterol nhưng ít chất béo bão hòa nên ăn khoảng 85-115 g mỗi lần, hai lần mỗi tuần thường không làm tăng mỡ máu.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/21/to-m-1795221900-9613-1795222056.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=RS57RL3fzvRffNQ6v1Mr4Q",
+    "link": "https://vnexpress.net/dieu-gi-xay-ra-voi-cholesterol-khi-ban-an-tom-5147245.html",
+    "published_at": "Sat, 21 Nov 2026 13:00:00 +0700",
+    "createAt": "2026-11-21T06:00:00.000Z",
+    "thumbnail_blurhash": "LGFNhs0M0i~A}qM|K5$z0~xt=dRj"
   }
 ]
