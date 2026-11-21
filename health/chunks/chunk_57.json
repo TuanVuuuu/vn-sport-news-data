@@ -570,5 +570,57 @@
     "published_at": "Sat, 21 Nov 2026 10:00:00 +0700",
     "createAt": "2026-11-21T03:00:00.000Z",
     "thumbnail_blurhash": "LOMk039~%L~U_NrWwZtQ-LIoD%WF"
+  },
+  {
+    "id": "https://vnexpress.net/ban-hieu-gi-ve-duong-lay-tay-chan-mieng-5147367.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Bạn hiểu gì về đường lây tay chân miệng?",
+    "description": "Trắc nghiệm giúp bạn hiểu bệnh tay chân miệng lây qua đâu, vì sao dễ lan trong nhà trẻ, khi nào trẻ có nguy cơ chuyển nặng và giải pháp dự phòng bằng vaccine.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/21/mediumvecteezycloseupviewofchi-3086-8604-1795232847.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=poGKhepa80FJI_lv7sOpJg",
+    "link": "https://vnexpress.net/ban-hieu-gi-ve-duong-lay-tay-chan-mieng-5147367.html",
+    "published_at": "Sat, 21 Nov 2026 11:00:00 +0700",
+    "createAt": "2026-11-21T04:00:00.000Z",
+    "thumbnail_blurhash": "LCHURkGG00?H9Y9wR,=v0MR-~AEL"
+  },
+  {
+    "id": "https://vnexpress.net/tre-it-uong-sua-co-thieu-canxi-5147335.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Trẻ ít uống sữa có thiếu canxi?",
+    "description": "Con tôi 7 tuổi, không thích uống các loại sữa. Tôi sợ con thiếu canxi nếu bổ sung ít, có cách nào cải thiện không bác sĩ? (Hồng, 31 tuổi)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/21/image001-1795227306-4807-1795227358.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=nTU0zjbqVq5r2m6dYY6TGg",
+    "link": "https://vnexpress.net/tre-it-uong-sua-co-thieu-canxi-5147335.html",
+    "published_at": "Sat, 21 Nov 2026 11:00:00 +0700",
+    "createAt": "2026-11-21T04:00:00.000Z",
+    "thumbnail_blurhash": "LbMj?l-;IUR.~q%Mx]IAoyM{%1t7"
+  },
+  {
+    "id": "https://vnexpress.net/viem-mui-van-mach-khac-viem-mui-di-ung-the-nao-5147329.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Viêm mũi vận mạch khác viêm mũi dị ứng thế nào?",
+    "description": "Tôi nghẹt mũi, chảy nước mũi khi ngửi mùi nước hoa hoặc khói thuốc, tưởng viêm mũi dị ứng nhưng bác sĩ chẩn đoán viêm mũi vận mạch. Hai bệnh này khác nhau thế nào? (Minh Trang, 27 tuổi)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/21/hathoi-1795226468-9567-1795226522.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=7XI3787t-WTKqhz5xTchLQ",
+    "link": "https://vnexpress.net/viem-mui-van-mach-khac-viem-mui-di-ung-the-nao-5147329.html",
+    "published_at": "Sat, 21 Nov 2026 11:00:00 +0700",
+    "createAt": "2026-11-21T04:00:00.000Z",
+    "thumbnail_blurhash": "LbN0e#-T?^yDjWxax[ELjEj^ofRi"
+  },
+  {
+    "id": "https://vnexpress.net/vi-sao-ung-thu-co-the-khang-thuoc-5147327.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Vì sao ung thư có thể kháng thuốc?",
+    "description": "Bố tôi đang hóa trị ung thư dạ dày song gần đây bác sĩ cho biết có dấu hiệu kháng thuốc. Vì sao lại xảy ra tình trạng này? (Hoàng Giang, Hà Nội)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/21/dsc09347-jpg-1795226268-6074-1795226330.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=SVbO0eBUIBLpt4pHfx_H0A",
+    "link": "https://vnexpress.net/vi-sao-ung-thu-co-the-khang-thuoc-5147327.html",
+    "published_at": "Sat, 21 Nov 2026 11:00:00 +0700",
+    "createAt": "2026-11-21T04:00:00.000Z",
+    "thumbnail_blurhash": "LdMQ#EM{00oz~qWCRkxvt7ayxuae"
   }
 ]

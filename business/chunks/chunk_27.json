@@ -1181,5 +1181,44 @@
     "published_at": "Sat, 21 Nov 2026 09:30:06 +0700",
     "createAt": "2026-11-21T02:30:06.000Z",
     "thumbnail_blurhash": "LYFg|A}?t8T0u3XmbIWZkqNaRkn,"
+  },
+  {
+    "id": "https://vnexpress.net/gia-vang-moi-nhat-hom-nay-ngay-21-11-5147347.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Giá vàng miếng xuống mức thấp nhất 15 tháng",
+    "description": "Theo đà giảm mạnh của giá thế giới, các thương hiệu sáng nay bán ra vàng miếng quanh 133,5 triệu đồng, mức thấp nhất tính từ tháng 9/2025.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/21/233A0822-1602-1795228698.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=PHDslAM4Y3MJMY2kbj0XXA",
+    "link": "https://vnexpress.net/gia-vang-moi-nhat-hom-nay-ngay-21-11-5147347.html",
+    "published_at": "Sat, 21 Nov 2026 09:56:36 +0700",
+    "createAt": "2026-11-21T02:56:36.000Z",
+    "thumbnail_blurhash": "LGELsZMy4q-._MIUWXj?PDs+${M}"
+  },
+  {
+    "id": "https://vnexpress.net/tai-xe-green-sm-tang-thu-nhap-dip-cuoi-nam-5147346.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Tài xế Green SM tăng thu nhập dịp cuối năm",
+    "description": "Một số tài xế Green SM ghi nhận lượng khách tăng sau khi hãng tung ưu đãi giảm giá cước, có thêm nguồn thu nhờ chính sách miễn phí nền tảng và hỗ trợ sạc.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/21/2-1795228624-8086-1795228686.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=c620idzd9r0lu_GVlzLV6Q",
+    "link": "https://vnexpress.net/tai-xe-green-sm-tang-thu-nhap-dip-cuoi-nam-5147346.html",
+    "published_at": "Sat, 21 Nov 2026 10:00:00 +0700",
+    "createAt": "2026-11-21T03:00:00.000Z",
+    "thumbnail_blurhash": "LNFQOi%hxvt8tOxuaJV??^V?Mxfl"
+  },
+  {
+    "id": "https://vnexpress.net/20-nam-chuyen-minh-tu-vien-nghien-cuu-den-tap-doan-da-nganh-cua-amdi-5147342.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "20 năm chuyển mình từ viện nghiên cứu đến tập đoàn đa ngành của AMDI",
+    "description": "Từ một văn phòng nhỏ với vài nhân sự làm nghiên cứu và tư vấn, sau 20 năm, AMDI phát triển thành tập đoàn đa ngành, triển khai dự án nghỉ dưỡng hơn 1.000 tỷ đồng.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/21/a-nh-1795228500-3430-1795228643.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=spQAQ6_vHinUK9HAL0V_Qw",
+    "link": "https://vnexpress.net/20-nam-chuyen-minh-tu-vien-nghien-cuu-den-tap-doan-da-nganh-cua-amdi-5147342.html",
+    "published_at": "Sat, 21 Nov 2026 10:30:00 +0700",
+    "createAt": "2026-11-21T03:30:00.000Z",
+    "thumbnail_blurhash": "L$M|v}RiNZof}bnhS1kCJ5jYoKoL"
   }
 ]
