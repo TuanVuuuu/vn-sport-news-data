@@ -1142,5 +1142,44 @@
     "published_at": "Sat, 21 Nov 2026 09:00:00 +0700",
     "createAt": "2026-11-21T02:00:00.000Z",
     "thumbnail_blurhash": "L9KTY$00In9cJz}uVDtS00cGIqIn"
+  },
+  {
+    "id": "https://vnexpress.net/quoc-hoi-thong-qua-luat-dat-dai-sua-doi-5147332.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Quốc hội thông qua Luật Đất đai sửa đổi",
+    "description": "Luật Đất đai (sửa đổi) vừa được Quốc hội thông qua với nhiều thay đổi quan trọng, với trên 97% đại biểu tham gia tán thành.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/21/anhmanhinh20261121luc091514-17-2231-1754-1795227585.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=pWeoaBUKkpMgNCRwrqAfNQ",
+    "link": "https://vnexpress.net/quoc-hoi-thong-qua-luat-dat-dai-sua-doi-5147332.html",
+    "published_at": "Sat, 21 Nov 2026 09:24:12 +0700",
+    "createAt": "2026-11-21T02:24:12.000Z",
+    "thumbnail_blurhash": "LRD9^$-ot7kC?wWUa#fk%hR+WUj]"
+  },
+  {
+    "id": "https://vnexpress.net/co-phieu-nvidia-anthropic-bi-ban-thao-5147289.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Cổ phiếu Nvidia, Anthropic bị bán tháo",
+    "description": "Nhóm cổ phiếu liên quan AI dẫn đầu đà giảm tại Wall Street, khi các hãng chip mất tới 14%, còn Anthropic cũng giảm gần 9%.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/21/anthropicnvidiajfif-1795223211-7806-1795223218.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=82JJ-MTD23vBixlBYKFaZA",
+    "link": "https://vnexpress.net/co-phieu-nvidia-anthropic-bi-ban-thao-5147289.html",
+    "published_at": "Sat, 21 Nov 2026 09:25:50 +0700",
+    "createAt": "2026-11-21T02:25:50.000Z",
+    "thumbnail_blurhash": "LEC%Ea00~poK_4I9.9xZ?cD$xvxu"
+  },
+  {
+    "id": "https://vnexpress.net/se-nghien-cuu-tinh-gia-dien-sinh-hoat-theo-khung-gio-5147315.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Sẽ nghiên cứu tính giá điện sinh hoạt theo khung giờ",
+    "description": "Quốc hội đã chốt lộ trình áp dụng giá bán lẻ điện sinh hoạt theo khung giờ cao, thấp điểm và bình thường khi điều kiện kỹ thuật cho phép.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/21/PHAM3337JPG-1795225755-6406-1795225993.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=fCEFjZIH-fLTO1p_Ii5kcA",
+    "link": "https://vnexpress.net/se-nghien-cuu-tinh-gia-dien-sinh-hoat-theo-khung-gio-5147315.html",
+    "published_at": "Sat, 21 Nov 2026 09:30:06 +0700",
+    "createAt": "2026-11-21T02:30:06.000Z",
+    "thumbnail_blurhash": "LYFg|A}?t8T0u3XmbIWZkqNaRkn,"
   }
 ]
