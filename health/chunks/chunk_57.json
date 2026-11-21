@@ -765,5 +765,31 @@
     "published_at": "Sat, 21 Nov 2026 15:00:00 +0700",
     "createAt": "2026-11-21T08:00:00.000Z",
     "thumbnail_blurhash": "LNMtEj.A~Vba~Uado#xt?aIT9Z-="
+  },
+  {
+    "id": "https://vnexpress.net/nen-nghi-ngoi-hay-van-dong-khi-dau-khop-5147404.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Nên nghỉ ngơi hay vận động khi đau khớp?",
+    "description": "Tôi thường bị đau đầu gối khi đi lại và cứng khớp vào buổi sáng. Tôi nên nghỉ ngơi hay vận động để giảm đau? (Trung Sang, TP HCM)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/21/mo-hinh-khop-goi-bi-ton-thuong-1485-2644-1795237229.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=3cVYUn6-sDs2OG4mbYupPg",
+    "link": "https://vnexpress.net/nen-nghi-ngoi-hay-van-dong-khi-dau-khop-5147404.html",
+    "published_at": "Sat, 21 Nov 2026 16:00:00 +0700",
+    "createAt": "2026-11-21T09:00:00.000Z",
+    "thumbnail_blurhash": "LJH{Kc8}znBr}UR5xBxU4q}6xBSh"
+  },
+  {
+    "id": "https://vnexpress.net/da-lao-hoa-som-nen-tiem-gi-5147396.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Da lão hóa sớm nên tiêm gì?",
+    "description": "Tôi 32 tuổi, da xuất hiện nếp nhăn nhỏ, hơi chảy xệ và thiếu độ căng bóng. Tôi nên tiêm meso hay BAP để cải thiện độ ẩm, độ đàn hồi và làm chậm quá trình lão hóa? (Thu Vân, Hải Phòng)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/21/dsc01434-jpg-1795236048-3416-1795236147.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=DsKtDpYeheR1Of9m9w4Jkg",
+    "link": "https://vnexpress.net/da-lao-hoa-som-nen-tiem-gi-5147396.html",
+    "published_at": "Sat, 21 Nov 2026 16:00:00 +0700",
+    "createAt": "2026-11-21T09:00:00.000Z",
+    "thumbnail_blurhash": "LMO|9B_2NF_2_NRj%3xu9GM{x]%M"
   }
 ]
