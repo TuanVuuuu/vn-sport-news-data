@@ -1,3 +1,30 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/toyota-giam-gia-hang-loat-xe-cao-nhat-hon-70-trieu-dong-5147079.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Toyota giảm giá hàng loạt xe, cao nhất hơn 70 triệu đồng",
+      "description": "Vios, Veloz, Yaris Cross, Innova Cross và nhiều dòng xe khác của Toyota giảm giá bằng khuyến mãi lệ phí trước bạ, áp dụng trong tháng 11.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/20/yariscrossvnexpressjpg-1795161-2057-6347-1795162263.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=2klLD5KBIbSE1IxCwrAspA",
+      "link": "https://vnexpress.net/toyota-giam-gia-hang-loat-xe-cao-nhat-hon-70-trieu-dong-5147079.html",
+      "published_at": "Sat, 21 Nov 2026 05:00:00 +0700",
+      "createAt": "2026-11-20T22:00:00.000Z",
+      "thumbnail_blurhash": "LXI5Vu%L%1xu9boJMxRj~pWBIoj@"
+    },
+    {
+      "id": "https://vnexpress.net/bi-thu-xa-lam-tiktok-giup-homestay-doi-che-chay-phong-5146752.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Bí thư xã làm TikTok giúp homestay đồi chè 'cháy' phòng",
+      "description": "Từ các video quảng bá trên TikTok của Bí thư xã Long Cốc Nguyễn Hoàng Trung, nhiều homestay quanh đồi chè liên tục kín phòng cuối tuần.",
+      "thumbnail_url": "https://vcdn1-giadinh.vnecdn.net/2026/11/19/o-ng-trung-1795086037-4604-1795086278.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=XDkvqPn8vmFMORRhcuIl_A",
+      "link": "https://vnexpress.net/bi-thu-xa-lam-tiktok-giup-homestay-doi-che-chay-phong-5146752.html",
+      "published_at": "Sat, 21 Nov 2026 06:00:00 +0700",
+      "createAt": "2026-11-20T23:00:00.000Z",
+      "thumbnail_blurhash": "L=Mj~_kCt2jb~Xjct9ayobWBWAof"
+    }
+  ]
 }
