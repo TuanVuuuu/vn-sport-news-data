@@ -1233,5 +1233,31 @@
     "published_at": "Sat, 21 Nov 2026 18:30:00 +0700",
     "createAt": "2026-11-21T11:30:00.000Z",
     "thumbnail_blurhash": "LDFrt#-.WTxC?dM|WFj]0OoexZX9"
+  },
+  {
+    "id": "https://vnexpress.net/quoc-hoi-thong-qua-loat-chinh-sach-dac-thu-phat-trien-du-lich-5147501.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Quốc hội thông qua loạt chính sách đặc thù phát triển du lịch",
+    "description": "Quốc hội hôm nay thông qua nghị quyết đặc thù phát triển du lịch Việt Nam, định hướng mở rộng miễn thị thực, ưu đãi thuế và thí điểm giải trí 24/7.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/11/21/danang-1795270553-5809-1795270636.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=QYcXOcSYiq4AnzRstEJGtQ",
+    "link": "https://vnexpress.net/quoc-hoi-thong-qua-loat-chinh-sach-dac-thu-phat-trien-du-lich-5147501.html",
+    "published_at": "Sat, 21 Nov 2026 21:07:11 +0700",
+    "createAt": "2026-11-21T14:07:11.000Z",
+    "thumbnail_blurhash": "L*Ct9PXBNKkCyGNffPofXVRkoIj@"
+  },
+  {
+    "id": "https://vnexpress.net/khach-viet-chen-chan-thuong-thuc-dac-san-cac-nuoc-o-ha-noi-5147478.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Khách Việt chen chân thưởng thức đặc sản các nước ở Hà Nội",
+    "description": "Hàng nghìn lượt khách chen kín các gian hàng quốc tế để thưởng thức đặc sản các nước tại Liên hoan Văn hóa Ẩm thực Quốc tế lần thứ 14 diễn ra ở Hà Nội hôm nay.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/11/21/wm1-7_1795254997-1795258788-1795260181.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=EFK53Bi5HpuvAsXwlRBjEw",
+    "link": "https://vnexpress.net/khach-viet-chen-chan-thuong-thuc-dac-san-cac-nuoc-o-ha-noi-5147478.html",
+    "published_at": "Sat, 21 Nov 2026 21:35:40 +0700",
+    "createAt": "2026-11-21T14:35:40.000Z",
+    "thumbnail_blurhash": "LFF#wC~V0M6TA1Iq-:%LDiR4$x$y"
   }
 ]
