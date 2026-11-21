@@ -1259,5 +1259,31 @@
     "published_at": "Sat, 21 Nov 2026 12:01:45 +0700",
     "createAt": "2026-11-21T05:01:45.000Z",
     "thumbnail_blurhash": "L6FY+9x]I.-;_Nxa9EWT?aM{R$NF"
+  },
+  {
+    "id": "https://vnexpress.net/xoa-no-le-phi-mon-bai-cho-hon-2-5-trieu-nguoi-nop-thue-5147424.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Xóa nợ lệ phí môn bài cho hơn 2,5 triệu người nộp thuế",
+    "description": "Từ 21/11, hơn 2,5 triệu người nộp thuế được xóa nợ lệ phí môn bài và tiền chậm nộp phát sinh để hoàn tất thủ tục chấm dứt hoạt động.",
+    "thumbnail_url": "https://i1-kinhdoanh.vnecdn.net/2026/11/21/1795245859160-g231198626839434-1501-1602-1795247129.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=n6W30n-Yqfz4IOXRFI80ag",
+    "link": "https://vnexpress.net/xoa-no-le-phi-mon-bai-cho-hon-2-5-trieu-nguoi-nop-thue-5147424.html",
+    "published_at": "Sat, 21 Nov 2026 15:08:14 +0700",
+    "createAt": "2026-11-21T08:08:14.000Z",
+    "thumbnail_blurhash": "LPI;5{4?$bs*~7WB9wWXWAWBf,a~"
+  },
+  {
+    "id": "https://vnexpress.net/bitcoin-giam-xuong-muc-thap-nhat-trong-hon-2-nam-5147439.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Bitcoin giảm xuống mức thấp nhất trong hơn 2 năm",
+    "description": "Trái phiếu chính phủ Mỹ mạnh lên gây áp lực tới các tài sản rủi ro, trong đó có tiền số, riêng Bitcoin có lúc về gần mốc 55.000 USD.",
+    "thumbnail_url": "https://i1-kinhdoanh.vnecdn.net/2026/11/21/107167409175551915013610716740-4557-4906-1795247774.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=0d1Fojw1N96EfgMxc6izVQ",
+    "link": "https://vnexpress.net/bitcoin-giam-xuong-muc-thap-nhat-trong-hon-2-nam-5147439.html",
+    "published_at": "Sat, 21 Nov 2026 15:10:20 +0700",
+    "createAt": "2026-11-21T08:10:20.000Z",
+    "thumbnail_blurhash": "LKFgFMxvDPa0@]|dTJ-AIU+^%2XR"
   }
 ]
