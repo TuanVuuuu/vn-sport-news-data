@@ -869,5 +869,44 @@
     "published_at": "Sat, 21 Nov 2026 07:00:00 +0700",
     "createAt": "2026-11-21T00:00:00.000Z",
     "thumbnail_blurhash": "LIF5{l_3~q.800Mx9ZE1?bE1Rjae"
+  },
+  {
+    "id": "https://vnexpress.net/viet-nam-tim-hieu-cach-trung-quoc-phat-trien-dich-vu-uav-5147192.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Việt Nam tìm hiểu cách Trung Quốc phát triển dịch vụ UAV",
+    "description": "Đoàn công tác Việt Nam tìm hiểu cách Trung Quốc tổ chức hạ tầng, quản lý hoạt động bay và phát triển doanh nghiệp cung cấp dịch vụ UAV.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/20/IMG-6448-1795174285-8439-1795174434.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=stg7q2jiRu52yCyRuBIMCQ",
+    "link": "https://vnexpress.net/viet-nam-tim-hieu-cach-trung-quoc-phat-trien-dich-vu-uav-5147192.html",
+    "published_at": "Sat, 21 Nov 2026 07:30:00 +0700",
+    "createAt": "2026-11-21T00:30:00.000Z",
+    "thumbnail_blurhash": "LQH2T7~kVo-n_3V{V_WFIuNMtSbc"
+  },
+  {
+    "id": "https://vnexpress.net/anh-phat-hien-lo-hong-bao-mat-trong-he-thong-tu-lanh-5147268.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Anh phát hiện lỗ hổng bảo mật trong hệ thống tủ lạnh",
+    "description": "Các chuyên gia Anh phát hiện lỗ hổng bảo mật trong hệ thống tủ lạnh, sau khi thiết bị tương tự ở nhiều nước châu Âu bị tin tặc tấn công.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/21/2026t145838z-rc2pfoa1mgiv-rtrm-9868-2566-1795198120.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=MSeBlHGcJ6_grRXG7EMGsw",
+    "link": "https://vnexpress.net/anh-phat-hien-lo-hong-bao-mat-trong-he-thong-tu-lanh-5147268.html",
+    "published_at": "Sat, 21 Nov 2026 08:00:00 +0700",
+    "createAt": "2026-11-21T01:00:00.000Z",
+    "thumbnail_blurhash": "LNDJ09%Mxaxu~V%1Rjof?Gxtj[of"
+  },
+  {
+    "id": "https://vnexpress.net/intel-sa-thai-mot-phan-nhan-su-it-toan-cau-5147238.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Intel sa thải một phần nhân sự IT toàn cầu",
+    "description": "Hàng loạt nhân viên tại bộ phận IT của Intel được cho là nằm trong diện điều chỉnh mới nhất, nâng số nhân sự bị cắt giảm của hãng chip Mỹ lên 27.800 người dưới thời CEO Lip-Bu Tan.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/20/lq-1795182966-5322-1795183023.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=v-UxWv9IZrcUuIqlyxaqoQ",
+    "link": "https://vnexpress.net/intel-sa-thai-mot-phan-nhan-su-it-toan-cau-5147238.html",
+    "published_at": "Sat, 21 Nov 2026 09:00:00 +0700",
+    "createAt": "2026-11-21T02:00:00.000Z",
+    "thumbnail_blurhash": "LF8}Jb?F8wE3%%W;I8IpnMWESjW9"
   }
 ]
