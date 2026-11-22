@@ -1129,5 +1129,57 @@
     "published_at": "Sun, 22 Nov 2026 10:00:00 +0700",
     "createAt": "2026-11-22T03:00:00.000Z",
     "thumbnail_blurhash": "LeKLzK%g?Ft8~qofj]od$xogWXn~"
+  },
+  {
+    "id": "https://vnexpress.net/phan-bap-cai-moi-nguoi-vut-di-lai-chua-nhieu-duong-chat-nhat-5147266.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Phần bắp cải mọi người vứt đi lại chứa nhiều dưỡng chất nhất",
+    "description": "Dù lá ngoài cùng của bắp cải thường bị bóc bỏ vì già cứng kém ngon, chuyên gia dinh dưỡng Đài Loan Chen Pei-Chun cho biết đây lại là lớp tích lũy nhiều chất chống oxy hóa nhất nhờ quang hợp mạnh.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/21/phpwdmcae-1795195812-5003-1795196027.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=KtQSWHjJ-XOvBxw4A6dAXA",
+    "link": "https://vnexpress.net/phan-bap-cai-moi-nguoi-vut-di-lai-chua-nhieu-duong-chat-nhat-5147266.html",
+    "published_at": "Sun, 22 Nov 2026 09:11:46 +0700",
+    "createAt": "2026-11-22T02:11:46.000Z",
+    "thumbnail_blurhash": "L2E3Oi8v0000qC.O^600}Qad~oD+"
+  },
+  {
+    "id": "https://vnexpress.net/dau-hieu-giam-can-qua-nhanh-5147462.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Dấu hiệu giảm cân quá nhanh",
+    "description": "Mệt mỏi kéo dài, rụng tóc nhiều, thường xuyên ngủ không ngon giấc có thể là dấu hiệu giảm cân quá nhanh gây thiếu hụt năng lượng.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/21/rungtoc-1795252268-6930-1795252346.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=QqvPYw3I5IJYMYEkN0QhLA",
+    "link": "https://vnexpress.net/dau-hieu-giam-can-qua-nhanh-5147462.html",
+    "published_at": "Sun, 22 Nov 2026 11:00:00 +0700",
+    "createAt": "2026-11-22T04:00:00.000Z",
+    "thumbnail_blurhash": "LRLW;U]%xu9t$yMxS4%g~WEMtR.8"
+  },
+  {
+    "id": "https://vnexpress.net/dieu-gi-xay-ra-voi-nao-khi-ngu-trua-5147459.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Điều gì xảy ra với não khi ngủ trưa?",
+    "description": "Giấc ngủ ngắn vào buổi trưa có thể hỗ trợ não bộ củng cố và chuyển trí nhớ ngắn hạn sang dài hạn.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/21/nao-1795251663-8228-1795251671.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=U97Nc36rWuduHpnKrE23Vw",
+    "link": "https://vnexpress.net/dieu-gi-xay-ra-voi-nao-khi-ngu-trua-5147459.html",
+    "published_at": "Sun, 22 Nov 2026 11:00:00 +0700",
+    "createAt": "2026-11-22T04:00:00.000Z",
+    "thumbnail_blurhash": "LYI~15~U_1E5_4%M%LRP?YIBIVWY"
+  },
+  {
+    "id": "https://vnexpress.net/vi-sao-nguoi-cao-tuoi-mac-cum-khong-sot-cao-5147434.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Vì sao người cao tuổi mắc cúm không sốt cao?",
+    "description": "Bố tôi ho, mệt mỏi, ăn uống kém nhưng không sốt cao, bác sĩ chẩn đoán mắc cúm A. Vì sao người cao tuổi mắc cúm nhưng không sốt cao? (Hoàng Minh, TP HCM)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/22/image001-1795301096-7287-1795301210.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=dNdv8qZ5QB_MgJanHTCM3g",
+    "link": "https://vnexpress.net/vi-sao-nguoi-cao-tuoi-mac-cum-khong-sot-cao-5147434.html",
+    "published_at": "Sun, 22 Nov 2026 11:00:00 +0700",
+    "createAt": "2026-11-22T04:00:00.000Z",
+    "thumbnail_blurhash": "LOK_LF0000oe?^%NnixZ?GxvIUx["
   }
 ]
