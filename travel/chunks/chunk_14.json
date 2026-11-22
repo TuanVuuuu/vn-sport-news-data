@@ -1272,5 +1272,31 @@
     "published_at": "Sun, 22 Nov 2026 08:11:01 +0700",
     "createAt": "2026-11-22T01:11:01.000Z",
     "thumbnail_blurhash": "L5D]#f}vw@-=4TK%sDZ$00MIadEL"
+  },
+  {
+    "id": "https://vnexpress.net/quy-hoach-ho-tuyen-lam-thanh-diem-den-quoc-te-5147518.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Hồ Tuyền Lâm Đà Lạt được quy hoạch thành điểm đến quốc tế",
+    "description": "Khu du lịch hồ Tuyền Lâm Đà Lạt được tỉnh quy hoạch trên phạm vi hơn 2.944 ha, phát triển nghỉ dưỡng cao cấp, hội nghị, golf và du lịch sinh thái mang đẳng cấp quốc tế.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/21/mot-goc-ho-tuyen-lam-da-lat-ba-7961-6988-1795272356.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=J0qSw_UaYTCK7Y6ySzmNkA",
+    "link": "https://vnexpress.net/quy-hoach-ho-tuyen-lam-thanh-diem-den-quoc-te-5147518.html",
+    "published_at": "Sun, 22 Nov 2026 08:37:03 +0700",
+    "createAt": "2026-11-22T01:37:03.000Z",
+    "thumbnail_blurhash": "LXFY}eM{M}ae?wjYxuozx]xuo#og"
+  },
+  {
+    "id": "https://vnexpress.net/bon-con-pho-thu-vi-nhat-the-gioi-o-dong-nam-a-5147376.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Bốn 'con phố thú vị nhất thế giới' ở Đông Nam Á",
+    "description": "Song Wat Road, Neil Road, Beach Street và Chang Moi Road nằm trong danh sách 28 con phố thú vị nhất thế giới 2026 do Time Out bình chọn.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/11/21/golden-hour-street-art-in-southeast-asia-1795233590.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=WqlphLMqR5JvgnCf3oK-VA",
+    "link": "https://vnexpress.net/bon-con-pho-thu-vi-nhat-the-gioi-o-dong-nam-a-5147376.html",
+    "published_at": "Sun, 22 Nov 2026 10:25:00 +0700",
+    "createAt": "2026-11-22T03:25:00.000Z",
+    "thumbnail_blurhash": "LLG[pI=:4-0o~pNEM{R4%%og%1ro"
   }
 ]
