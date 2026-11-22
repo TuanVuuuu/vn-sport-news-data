@@ -765,5 +765,31 @@
     "published_at": "Sat, 21 Nov 2026 18:15:00 +0700",
     "createAt": "2026-11-21T11:15:00.000Z",
     "thumbnail_blurhash": "LUKI3isobbbH|txGfjWVS#NGR*n%"
+  },
+  {
+    "id": "https://vnexpress.net/video-cua-elon-musk-thoi-suyt-pha-san-gay-sot-tro-lai-5147418.html",
+    "category_id": "life",
+    "category_name": "Đời sống",
+    "source": "VnExpress",
+    "title": "Video của Elon Musk thời suýt phá sản gây sốt trở lại",
+    "description": "Video Elon Musk giới thiệu Tesla Roadster năm 2008 khi công ty khó khăn tài chính hút gần 11 triệu lượt xem trên X nhờ truyền cảm hứng vượt khó.",
+    "thumbnail_url": "https://vcdn1-giadinh.vnecdn.net/2026/11/21/a-nh-ma-n-hi-nh-lu-c-179524265-8037-6249-1795243085.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=p0o_N7L2MTe6NKs0emCd_g",
+    "link": "https://vnexpress.net/video-cua-elon-musk-thoi-suyt-pha-san-gay-sot-tro-lai-5147418.html",
+    "published_at": "Sun, 22 Nov 2026 06:00:00 +0700",
+    "createAt": "2026-11-21T23:00:00.000Z",
+    "thumbnail_blurhash": "LeDw8$yZ7jxtNKT1VsV@X5smxDWA"
+  },
+  {
+    "id": "https://vnexpress.net/dich-vu-thue-nguoi-dua-di-kham-benh-hut-khach-5145785.html",
+    "category_id": "life",
+    "category_name": "Đời sống",
+    "source": "VnExpress",
+    "title": "Dịch vụ thuê người đưa đi khám bệnh hút khách",
+    "description": "Sống một mình hoặc không thể xin nghỉ làm, nhiều người ở đô thị lớn thuê người qua ứng dụng đưa đi khám, chăm sóc bệnh nhân theo giờ.",
+    "thumbnail_url": "https://vcdn1-giadinh.vnecdn.net/2026/11/17/c-quye-n-1794910403-3323-1794910648.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=tUed5WiG0_v7ytVo_pPm8g",
+    "link": "https://vnexpress.net/dich-vu-thue-nguoi-dua-di-kham-benh-hut-khach-5145785.html",
+    "published_at": "Sun, 22 Nov 2026 06:29:00 +0700",
+    "createAt": "2026-11-21T23:29:00.000Z",
+    "thumbnail_blurhash": "LgKdxlxwtnI[~p-:t6RitQt7%1jE"
   }
 ]
