@@ -908,5 +908,31 @@
     "published_at": "Sun, 22 Nov 2026 10:15:55 +0700",
     "createAt": "2026-11-22T03:15:55.000Z",
     "thumbnail_blurhash": "LPEV{D-.%Lxa~qoMkCof%gbIRjbI"
+  },
+  {
+    "id": "https://vnexpress.net/ha-noi-tim-nha-dau-tu-khu-do-thi-gan-11-000-ty-o-phia-tay-5147744.html",
+    "category_id": "real-estate",
+    "category_name": "Bất động sản",
+    "source": "VnExpress",
+    "title": "Hà Nội tìm nhà đầu tư khu đô thị gần 11.000 tỷ ở phía tây",
+    "description": "Khu đô thị Tây Thăng Long nằm ở xã Thạch Thất với quy mô vốn gần 11.000 tỷ đồng, dự kiến đấu thầu tìm nhà đầu tư.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/22/bshanoi11-1795360522-3429-1795360590.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Gztc4Vujfgk7yp59YRQTkg",
+    "link": "https://vnexpress.net/ha-noi-tim-nha-dau-tu-khu-do-thi-gan-11-000-ty-o-phia-tay-5147744.html",
+    "published_at": "Mon, 23 Nov 2026 03:37:16 +0700",
+    "createAt": "2026-11-22T20:37:16.000Z",
+    "thumbnail_blurhash": "L%F$qyofaekC_4bIf5j]-;oMWVj["
+  },
+  {
+    "id": "https://vnexpress.net/nha-pho-nhieu-tang-voi-nhung-khoang-mo-don-nang-5147684.html",
+    "category_id": "real-estate",
+    "category_name": "Bất động sản",
+    "source": "VnExpress",
+    "title": "Nhà phố nhiều tầng với những khoảng mở đón nắng",
+    "description": "Công trình tại TP HCM bố trí khoảng thông tầng, sân sau và hệ cửa kính lớn để đưa ánh sáng tự nhiên vào các không gian.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/22/5-1795338605.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=0ism4l0VKohio-eEgPkcSg",
+    "link": "https://vnexpress.net/nha-pho-nhieu-tang-voi-nhung-khoang-mo-don-nang-5147684.html",
+    "published_at": "Mon, 23 Nov 2026 03:41:29 +0700",
+    "createAt": "2026-11-22T20:41:29.000Z",
+    "thumbnail_blurhash": "LMLWz~^+01IT~VoLT0WCo~NGxZWA"
   }
 ]
