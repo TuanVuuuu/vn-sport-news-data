@@ -1207,5 +1207,44 @@
     "published_at": "Sun, 22 Nov 2026 12:09:28 +0700",
     "createAt": "2026-11-22T05:09:28.000Z",
     "thumbnail_blurhash": "LGGuXT_30=%j4mMcMvD$XSt8n,jY"
+  },
+  {
+    "id": "https://vnexpress.net/6-chi-dau-suc-khoe-cho-thay-mot-nguoi-dang-can-tu-5145694.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "6 chỉ dấu sức khỏe cho thấy một người đang cận tử",
+    "description": "Tay chân lạnh nổi vân tím, thở thất thường, tiếng khò khè lớn, rối loạn tiểu tiện, tụt huyết áp đột ngột và ngủ sâu mất phản ứng cho thấy một người đang cận tử.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/17/screenshot-at-1794900317-4690-1794900416.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=LnlxTHdbQa8Jf2tlq-QZ2w",
+    "link": "https://vnexpress.net/6-chi-dau-suc-khoe-cho-thay-mot-nguoi-dang-can-tu-5145694.html",
+    "published_at": "Sun, 22 Nov 2026 13:00:00 +0700",
+    "createAt": "2026-11-22T06:00:00.000Z",
+    "thumbnail_blurhash": "LlPZ4BM{TJsl_Nx]WBWCT0RjMxa}"
+  },
+  {
+    "id": "https://vnexpress.net/seo-giac-mac-anh-huong-thi-luc-the-nao-5147508.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Sẹo giác mạc ảnh hưởng thị lực thế nào",
+    "description": "Sẹo giác mạc có thể khiến mắt nhìn mờ, hình ảnh méo mó, nhạy cảm với ánh sáng, thậm chí suy giảm thị lực nghiêm trọng.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/21/seogiacmac-1795267197-7255-1795267310.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=vWy8x-Ozl8ljeTHqlRWHgg",
+    "link": "https://vnexpress.net/seo-giac-mac-anh-huong-thi-luc-the-nao-5147508.html",
+    "published_at": "Sun, 22 Nov 2026 13:00:00 +0700",
+    "createAt": "2026-11-22T06:00:00.000Z",
+    "thumbnail_blurhash": "LaMj,c=}~qtl$wX5%1jYt6oIV@WB"
+  },
+  {
+    "id": "https://vnexpress.net/nhung-lam-tuong-ve-protein-ban-can-ngung-tin-5147364.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Những lầm tưởng về protein bạn cần ngừng tin",
+    "description": "Ăn càng nhiều protein càng tăng cơ, bổ sung dưỡng chất này gây suy thận hoặc phải ăn ngay sau khi tập luyện là những quan niệm chưa chính xác.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/21/da-u-1795247487-3770-1795247617.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=lNIs1S3-g1INDFbJ2ye7gg",
+    "link": "https://vnexpress.net/nhung-lam-tuong-ve-protein-ban-can-ngung-tin-5147364.html",
+    "published_at": "Sun, 22 Nov 2026 13:00:00 +0700",
+    "createAt": "2026-11-22T06:00:00.000Z",
+    "thumbnail_blurhash": "LIGti;RO04tR}=n#JCW?0hozxVWB"
   }
 ]
