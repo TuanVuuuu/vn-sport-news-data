@@ -1,3 +1,17 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/chang-trai-viet-23-tuoi-huan-luyen-bo-nao-robot-o-thung-lung-silicon-5141465.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Chàng trai Việt 23 tuổi huấn luyện 'bộ não' robot ở thung lũng Silicon",
+      "description": "Nửa năm sau khi tốt nghiệp thạc sĩ, Phạm Anh Quân nghiên cứu, huấn luyện \"bộ não AI\" cho robot hình người đầu tiên rung chuông ở sàn Nasdaq.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/12/quananhphamdyna-1793936650-1372-1794441146.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=gTdO78tPV6nwONODh5G4JA",
+      "link": "https://vnexpress.net/chang-trai-viet-23-tuoi-huan-luyen-bo-nao-robot-o-thung-lung-silicon-5141465.html",
+      "published_at": "Sun, 22 Nov 2026 05:51:00 +0700",
+      "createAt": "2026-11-21T22:51:00.000Z",
+      "thumbnail_blurhash": "LHCZFYDiIU~qobxuRkM|V@xaWBM{"
+    }
+  ]
 }

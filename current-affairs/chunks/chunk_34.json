@@ -635,5 +635,44 @@
     "published_at": "Sun, 22 Nov 2026 07:00:00 +0700",
     "createAt": "2026-11-22T00:00:00.000Z",
     "thumbnail_blurhash": "LdG9ppsStRof.To#aKbIp0jFM{jZ"
+  },
+  {
+    "id": "https://vnexpress.net/nhan-vien-van-phong-ru-nhau-cham-mo-bao-ve-nghia-trang-5146312.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Nhân viên văn phòng rủ nhau chăm mộ, bảo vệ nghĩa trang",
+    "description": "Cuối tuần, Thùy Dương cùng đồng nghiệp đi xe máy hơn 60 km từ Hà Nội lên Hòa Bình cũ chăm mộ, dọn cỏ khuôn viên nghĩa trang trong một ngày.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/18/a3-1795015600-7563-1795015616.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=07JQlYIkdJ7P5qa-dWhciw",
+    "link": "https://vnexpress.net/nhan-vien-van-phong-ru-nhau-cham-mo-bao-ve-nghia-trang-5146312.html",
+    "published_at": "Sun, 22 Nov 2026 04:00:00 +0700",
+    "createAt": "2026-11-21T21:00:00.000Z",
+    "thumbnail_blurhash": "LMC88OW}IVj=.gM+oLoepPohjJRo"
+  },
+  {
+    "id": "https://vnexpress.net/mien-bac-ret-tro-lai-tu-ngay-24-11-5147608.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Miền Bắc rét trở lại từ ngày 24/11",
+    "description": "Một đợt không khí lạnh mới tràn xuống miền Bắc từ rạng sáng 24/11 khiến trời chuyển rét, vùng núi có nơi rét đậm, miền Trung mưa giông gia tăng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/22/hn-gio-mu-a-of-1795319453-9496-1795319463.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=e4GGEydPfXoFbZnzhNX4ng",
+    "link": "https://vnexpress.net/mien-bac-ret-tro-lai-tu-ngay-24-11-5147608.html",
+    "published_at": "Sun, 22 Nov 2026 10:51:32 +0700",
+    "createAt": "2026-11-22T03:51:32.000Z",
+    "thumbnail_blurhash": "LAEoiLMflTt*~p.8IAMd%g?a,;9F"
+  },
+  {
+    "id": "https://vnexpress.net/nhung-chinh-sach-lon-vua-duoc-quoc-hoi-thong-qua-5147625.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Những chính sách lớn vừa được Quốc hội thông qua",
+    "description": "Quốc hội thông qua 38 luật, 18 nghị quyết với nhiều chính sách mới về đất đai, nhà ở, thuế, đầu tư, an sinh xã hội, tư pháp và phát triển hạ tầng, sau 27 ngày làm việc.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/22/2aOboRE9HSCJgWFMZj53rwI9EJNLw0-9114-8344-1795320712.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=oBMdEb2EPYYAiw5iSH2QTA",
+    "link": "https://vnexpress.net/nhung-chinh-sach-lon-vua-duoc-quoc-hoi-thong-qua-5147625.html",
+    "published_at": "Sun, 22 Nov 2026 11:00:00 +0700",
+    "createAt": "2026-11-22T04:00:00.000Z",
+    "thumbnail_blurhash": "LFKTe*tlxp%1.mR7a$WCh}V?Ndsl"
   }
 ]
