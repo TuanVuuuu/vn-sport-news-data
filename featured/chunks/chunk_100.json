@@ -258,5 +258,44 @@
     "published_at": "Sun, 22 Nov 2026 10:18:05 +0700",
     "createAt": "2026-11-22T03:18:05.000Z",
     "thumbnail_blurhash": "LdM8NE~W%$%#%~pIVsrrbbV@Vss:"
+  },
+  {
+    "id": "https://vnexpress.net/dac-vu-ice-bat-nguoi-ngay-tai-cua-len-may-bay-5147669.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Đặc vụ ICE bắt người ngay tại cửa lên máy bay",
+    "description": "Các đặc vụ ICE bắt hai người tại lối đi lên máy bay đông đúc ở sân bay Seattle, khiến chuyến bay đến Los Angeles bị hoãn.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/22/a0204735-d3efb87f17-c64634b8fa-3240-1117-1795337748.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=HSNNxVE0Kg2X6mRaIP2Pvg",
+    "link": "https://vnexpress.net/dac-vu-ice-bat-nguoi-ngay-tai-cua-len-may-bay-5147669.html",
+    "published_at": "Sun, 22 Nov 2026 16:14:21 +0700",
+    "createAt": "2026-11-22T09:14:21.000Z",
+    "thumbnail_blurhash": "LoGbn|-=ozM|~qxvt7WB?aozofWB"
+  },
+  {
+    "id": "https://vnexpress.net/hang-tram-khach-thuong-thuc-banh-mi-hon-10-kg-o-ha-noi-5147681.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Hàng trăm khách thưởng thức bánh mì hơn 10 kg ở Hà Nội",
+    "description": "Ba chiếc bánh mì khổng lồ trọng lượng 10 kg mỗi chiếc được đưa đến Lễ hội Văn hóa Ẩm thực Quốc tế tại Hà Nội ngày 22/11 để phục vụ miễn phí hàng trăm thực khách.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/11/22/wm1-9_1795334336-1795334760-1795337456.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=2Lc-PTy9mfh0uyWQlb5ksQ",
+    "link": "https://vnexpress.net/hang-tram-khach-thuong-thuc-banh-mi-hon-10-kg-o-ha-noi-5147681.html",
+    "published_at": "Sun, 22 Nov 2026 17:30:34 +0700",
+    "createAt": "2026-11-22T10:30:34.000Z",
+    "thumbnail_blurhash": "LGI;;kx|738w#S%MP60L$w4TKIs*"
+  },
+  {
+    "id": "https://vnexpress.net/be-8-tuoi-nghi-hoc-ban-ve-so-chua-benh-cho-cha-5146809.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Bé 8 tuổi nghỉ học bán vé số chữa bệnh cho cha",
+    "description": "Hơn một năm nay, bé Nguyễn Tân Trường, 8 tuổi, nghỉ học bán 100 tờ vé số mỗi ngày để cùng mẹ lo tiền chữa ung thư cho cha.",
+    "thumbnail_url": "https://vcdn1-giadinh.vnecdn.net/2026/11/21/1-1795152573-1933-1795222343.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=qsYrhSTk8KgiGXZSUSpBEA",
+    "link": "https://vnexpress.net/be-8-tuoi-nghi-hoc-ban-ve-so-chua-benh-cho-cha-5146809.html",
+    "published_at": "Sun, 22 Nov 2026 19:00:00 +0700",
+    "createAt": "2026-11-22T12:00:00.000Z",
+    "thumbnail_blurhash": "LHHKz|*z^,yDx_^*x]sqQ7K%%gX9"
   }
 ]
