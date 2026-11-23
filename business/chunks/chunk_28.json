@@ -401,5 +401,44 @@
     "published_at": "Mon, 23 Nov 2026 14:44:40 +0700",
     "createAt": "2026-11-23T07:44:40.000Z",
     "thumbnail_blurhash": "LYHoXnkBNHxayCRPoMbH?wRjs:bc"
+  },
+  {
+    "id": "https://vnexpress.net/co-phieu-pnj-cham-san-5148100.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Cổ phiếu PNJ chạm sàn",
+    "description": "Cổ phiếu PNJ mất hết biên độ trong phiên đầu tuần, xuống 12.600 đồng, sau khi người đứng đầu ban điều hành chia sẻ tình hình tài chính đang rất khó khăn.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/23/pnj-1795422322-8657-1795422470.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=NYKa-nFGZfSP1Dk6y9sxDg",
+    "link": "https://vnexpress.net/co-phieu-pnj-cham-san-5148100.html",
+    "published_at": "Mon, 23 Nov 2026 16:01:07 +0700",
+    "createAt": "2026-11-23T09:01:07.000Z",
+    "thumbnail_blurhash": "LRF?RyE0D%-q?^acMxa~?bngaxbc"
+  },
+  {
+    "id": "https://vnexpress.net/ong-trump-giuc-nvidia-phuc-chuc-cho-jensen-huang-5148098.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Ông Trump giục Nvidia phục chức cho Jensen Huang",
+    "description": "Tổng thống Donald Trump liên tục kêu gọi Nvidia khôi phục chức vụ CEO cho Jensen Huang vì lợi ích của tập đoàn này lẫn nước Mỹ.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/23/2026t135606z-rc2o2lab5l5u-rtrm-2919-7444-1795423725.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=H028B8v84740lbjw0z1IaA",
+    "link": "https://vnexpress.net/ong-trump-giuc-nvidia-phuc-chuc-cho-jensen-huang-5148098.html",
+    "published_at": "Mon, 23 Nov 2026 16:14:15 +0700",
+    "createAt": "2026-11-23T09:14:15.000Z",
+    "thumbnail_blurhash": "LH6urqMaIet:xzaxR3tSXpROsR%1"
+  },
+  {
+    "id": "https://vnexpress.net/novaland-muon-rut-von-tai-hai-cong-ty-con-khi-co-phieu-thung-menh-gia-5148096.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Novaland muốn rút vốn tại hai công ty con khi cổ phiếu 'thủng' mệnh giá",
+    "description": "Novaland thông qua chủ trương chuyển nhượng toàn bộ vốn góp trị giá hơn 490 tỷ đồng tại Nova Phúc Nguyên và Novaland Đất Tâm.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/23/nvwpt1-1795421510-4444-1795421536.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=lIa9Y6xn64uheNJ_lgb35Q",
+    "link": "https://vnexpress.net/novaland-muon-rut-von-tai-hai-cong-ty-con-khi-co-phieu-thung-menh-gia-5148096.html",
+    "published_at": "Mon, 23 Nov 2026 16:19:19 +0700",
+    "createAt": "2026-11-23T09:19:19.000Z",
+    "thumbnail_blurhash": "LeLhJ3Inx^t7_N%MWAt7?dkEM{S4"
   }
 ]
