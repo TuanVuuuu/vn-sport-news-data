@@ -518,5 +518,44 @@
     "published_at": "Mon, 23 Nov 2026 05:00:00 +0700",
     "createAt": "2026-11-22T22:00:00.000Z",
     "thumbnail_blurhash": "L8AwC,_4D%W9WFM{Rit7RiofR%of"
+  },
+  {
+    "id": "https://vnexpress.net/ong-trump-my-ha-toan-bo-ten-lua-uav-iran-phong-trong-tuan-5147766.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Ông Trump: Mỹ hạ toàn bộ tên lửa, UAV Iran phóng trong tuần",
+    "description": "Tổng thống Trump tuyên bố Iran phóng lượng lớn tên lửa và UAV trong tuần qua nhưng đều bị hạ, đồng thời dọa ra lệnh tập kích sau năm mới.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/23/Trump-1795390485-7020-1795390834.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=7VQ3N_Oqh9sjaJw1335iDg",
+    "link": "https://vnexpress.net/ong-trump-my-ha-toan-bo-ten-lua-uav-iran-phong-trong-tuan-5147766.html",
+    "published_at": "Mon, 23 Nov 2026 06:56:29 +0700",
+    "createAt": "2026-11-22T23:56:29.000Z",
+    "thumbnail_blurhash": "LD9@3RM|WXt8_4RkW;t7-;RkIpof"
+  },
+  {
+    "id": "https://vnexpress.net/trum-tinh-bao-my-ung-ho-ong-trump-goi-ong-putin-la-ban-toi-5147775.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Trùm tình báo Mỹ ủng hộ ông Trump gọi ông Putin là 'bạn tôi'",
+    "description": "Giám đốc Tình báo Quốc gia Mỹ cho rằng Tổng thống Trump đã hành động phù hợp khi gọi người đồng cấp Putin là \"bạn tôi\".",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/23/trump-putin-1795390883-7127-1795391066.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=m3Z_UU_0q7LD6x47nvOJHA",
+    "link": "https://vnexpress.net/trum-tinh-bao-my-ung-ho-ong-trump-goi-ong-putin-la-ban-toi-5147775.html",
+    "published_at": "Mon, 23 Nov 2026 07:11:12 +0700",
+    "createAt": "2026-11-23T00:11:12.000Z",
+    "thumbnail_blurhash": "LWEL]KIWo#kC~VRkf+WV?GoJR*f+"
+  },
+  {
+    "id": "https://vnexpress.net/anh-ve-tinh-chien-ham-nga-chim-mot-phan-tai-quan-cang-libya-5147777.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Ảnh vệ tinh 'chiến hạm Nga' chìm một phần tại quân cảng Libya",
+    "description": "Tàu được cho là chiến hạm Nga chìm một phần tại quân cảng Benghazi sau khi bị xuồng không người lái tập kích, theo ảnh vệ tinh.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/23/TuNga-1795394065-8674-1795394483.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=ZI5ELoHnCU75aIY-Sb3H4g",
+    "link": "https://vnexpress.net/anh-ve-tinh-chien-ham-nga-chim-mot-phan-tai-quan-cang-libya-5147777.html",
+    "published_at": "Mon, 23 Nov 2026 07:56:46 +0700",
+    "createAt": "2026-11-23T00:56:46.000Z",
+    "thumbnail_blurhash": "LDFh^q4.XntQ004o~B9FIo~VM{IV"
   }
 ]
