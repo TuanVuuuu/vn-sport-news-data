@@ -375,5 +375,44 @@
     "published_at": "Mon, 23 Nov 2026 13:00:00 +0700",
     "createAt": "2026-11-23T06:00:00.000Z",
     "thumbnail_blurhash": "LMMQ#I9E4.?w-,D+xvjq~p_3xtn~"
+  },
+  {
+    "id": "https://vnexpress.net/ba-loi-ich-cua-khoai-lang-voi-suc-khoe-tim-mach-5147989.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Ba lợi ích của khoai lang với sức khỏe tim mạch",
+    "description": "Ăn khoảng 100-150 g khoai lang mỗi lần ăn, 3-4 lần mỗi tuần cung cấp chất xơ, kali, chất chống oxy hóa hỗ trợ kiểm soát mỡ máu và huyết áp.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/23/khoai-lang-jfif-1795409153-1380-1795409400.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=WaGNwssW5mvdRpo1DZvGDQ",
+    "link": "https://vnexpress.net/ba-loi-ich-cua-khoai-lang-voi-suc-khoe-tim-mach-5147989.html",
+    "published_at": "Mon, 23 Nov 2026 14:00:00 +0700",
+    "createAt": "2026-11-23T07:00:00.000Z",
+    "thumbnail_blurhash": "LHI#Phs+I~%M00bI9ERPEWbc%Lxv"
+  },
+  {
+    "id": "https://vnexpress.net/vi-sao-nen-di-ngu-va-thuc-day-dung-gio-5147803.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Vì sao nên đi ngủ và thức dậy đúng giờ?",
+    "description": "Đi ngủ và thức dậy vào cùng một khung giờ mỗi ngày giúp ổn định nhịp sinh học, dễ buồn ngủ và cải thiện chất lượng giấc ngủ.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/23/gemini-generated-image-tiflcet-4092-6116-1795397197.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=pr8_K4z63S0yMgpvDiz66Q",
+    "link": "https://vnexpress.net/vi-sao-nen-di-ngu-va-thuc-day-dung-gio-5147803.html",
+    "published_at": "Mon, 23 Nov 2026 14:00:00 +0700",
+    "createAt": "2026-11-23T07:00:00.000Z",
+    "thumbnail_blurhash": "L78gNq5q-55R~C9v=_9v$L57={EM"
+  },
+  {
+    "id": "https://vnexpress.net/loai-qua-dan-da-nhieu-vitamin-c-gap-67-lan-tao-5147926.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Loại quả dân dã nhiều vitamin C gấp 67 lần táo",
+    "description": "Lượng vitamin C trong ổi cao gấp 67 lần táo, giàu chất xơ nhưng ít đường và calo, là lựa chọn tối ưu giúp tăng đề kháng và giữ dáng.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/23/screenshot-at-1795406245-9645-1795406516.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=iqYjvxHUYPzFGLuxxiRFww",
+    "link": "https://vnexpress.net/loai-qua-dan-da-nhieu-vitamin-c-gap-67-lan-tao-5147926.html",
+    "published_at": "Mon, 23 Nov 2026 14:17:54 +0700",
+    "createAt": "2026-11-23T07:17:54.000Z",
+    "thumbnail_blurhash": "L2EMmz009UpP00NDRkxz004m_Jo}"
   }
 ]
