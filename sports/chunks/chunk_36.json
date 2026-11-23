@@ -271,5 +271,31 @@
     "published_at": "Mon, 23 Nov 2026 12:00:00 +0700",
     "createAt": "2026-11-23T05:00:00.000Z",
     "thumbnail_blurhash": "L9Dar*|w~B5+tQS}aLoe2?RPOq,G"
+  },
+  {
+    "id": "https://vnexpress.net/hlv-roland-nhac-cau-thu-viet-nam-khiem-ton-o-u17-world-cup-5148031.html",
+    "category_id": "sports",
+    "category_name": "Thể thao",
+    "source": "VnExpress",
+    "title": "HLV Roland nhắc cầu thủ Việt Nam khiêm tốn ở U17 World Cup",
+    "description": "HLV Cristiano Roland muốn các học trò giữ cân bằng và tỉnh táo khi gặp New Zealand, trận đấu có tính quyết định đến vé đi tiếp, ở bảng G U17 World Cup 2026 tối nay.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/11/23/img-1795415262-3609-1795415337.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=UJ42mHcBl-6u1W3g2quZzA",
+    "link": "https://vnexpress.net/hlv-roland-nhac-cau-thu-viet-nam-khiem-ton-o-u17-world-cup-5148031.html",
+    "published_at": "Mon, 23 Nov 2026 13:58:31 +0700",
+    "createAt": "2026-11-23T06:58:31.000Z",
+    "thumbnail_blurhash": "LEDIe4}w-JtvvL}?%OS5RMMwE4tS"
+  },
+  {
+    "id": "https://vnexpress.net/chuyen-gi-dang-xay-ra-giua-bayern-va-musiala-5148001.html",
+    "category_id": "sports",
+    "category_name": "Thể thao",
+    "source": "VnExpress",
+    "title": "Chuyện gì đang xảy ra giữa Bayern và Musiala?",
+    "description": "Bayern Munich gây tranh cãi khi công khai đặt vấn đề về mức lương 27 triệu USD mỗi năm của Jamal Musiala, trong lúc tiền vệ 23 tuổi vẫn điều trị những cơn rối loạn thần kinh tái diễn.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/11/23/musiala-1795411694-4295-1795411974.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=CdT71r5gd1A5XgVbAk9k3A",
+    "link": "https://vnexpress.net/chuyen-gi-dang-xay-ra-giua-bayern-va-musiala-5148001.html",
+    "published_at": "Mon, 23 Nov 2026 14:49:33 +0700",
+    "createAt": "2026-11-23T07:49:33.000Z",
+    "thumbnail_blurhash": "LFEdSpv}}dK5B#NGI.xG0]W;Alad"
   }
 ]
