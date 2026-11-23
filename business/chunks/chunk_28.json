@@ -180,5 +180,31 @@
     "published_at": "Mon, 23 Nov 2026 07:00:00 +0700",
     "createAt": "2026-11-23T00:00:00.000Z",
     "thumbnail_blurhash": "LCEySm?HWC?b~qt8M{M{?vofWBtQ"
+  },
+  {
+    "id": "https://vnexpress.net/sacombank-sbj-ra-mat-nhan-bac-tai-loc-tich-tru-5147164.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Sacombank-SBJ ra mắt nhẫn bạc 'Tài - Lộc' tích trữ",
+    "description": "Sacombank-SBJ giới thiệu nhẫn bạc định lượng 0,5 chỉ chữ \"Tài\" và một chỉ chữ \"Lộc\", hướng đến người có nhu cầu tích lũy kim loại quý bằng những khoản tiền nhỏ.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/20/2aobordwa86tiwlcnwravj1cfdakgr-1821-8881-1795167337.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=lCDrAbFOltpk1aMaqK8BMQ",
+    "link": "https://vnexpress.net/sacombank-sbj-ra-mat-nhan-bac-tai-loc-tich-tru-5147164.html",
+    "published_at": "Mon, 23 Nov 2026 08:00:00 +0700",
+    "createAt": "2026-11-23T01:00:00.000Z",
+    "thumbnail_blurhash": "LFJtPN?H0go~y@$*Pqx]00%2tQf,"
+  },
+  {
+    "id": "https://vnexpress.net/dam-phan-khi-hau-cop31-that-bai-5147753.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Đàm phán khí hậu COP31 thất bại",
+    "description": "Lần đầu tiên sau 17 năm, gần 200 quốc gia không đạt được thỏa thuận khí hậu nào tại hội nghị đàm phán thường niên của Liên Hợp Quốc.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/22/ap26326492841654-1795362797-2784-1795362948.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=DYViIkDjqfvgkIxUkKuFtA",
+    "link": "https://vnexpress.net/dam-phan-khi-hau-cop31-that-bai-5147753.html",
+    "published_at": "Mon, 23 Nov 2026 08:09:55 +0700",
+    "createAt": "2026-11-23T01:09:55.000Z",
+    "thumbnail_blurhash": "LNKK=@Rj%MRjxWV@V[Rj~qoIIUt6"
   }
 ]
