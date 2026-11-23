@@ -1,6 +1,19 @@
 {
   "featured": [
     {
+      "id": "https://vnexpress.net/12-du-an-lien-quan-tap-doan-muong-thanh-se-duoc-xu-ly-the-nao-5147720.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "12 dự án liên quan Tập đoàn Mường Thanh sẽ được xử lý thế nào?",
+      "description": "TP Hà Nội đã thông qua nghị quyết về cơ chế, chính sách đặc thù để xử lý dứt điểm các vi phạm, nêu rõ 5 tiêu chí nhà bị phá dỡ; trước quý IV/2028 giải quyết xong.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/22/TOP-1-1795353343.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=A-plyMIl3y_QWQ1XcNDxnA",
+      "link": "https://vnexpress.net/12-du-an-lien-quan-tap-doan-muong-thanh-se-duoc-xu-ly-the-nao-5147720.html",
+      "published_at": "Mon, 23 Nov 2026 00:00:12 +0700",
+      "createAt": "2026-11-22T17:00:12.000Z",
+      "thumbnail_blurhash": "LqNJtL~qtSoft8xtR*aeflj[WBjF"
+    },
+    {
       "id": "https://vnexpress.net/tiec-anh-sang-3d-mapping-truoc-tru-so-ubnd-tp-hcm-5147759.html",
       "category_id": "featured",
       "category_name": "Tin nổi bật",
@@ -38,6 +51,19 @@
       "published_at": "Mon, 23 Nov 2026 06:00:00 +0700",
       "createAt": "2026-11-22T23:00:00.000Z",
       "thumbnail_blurhash": "LZGb*nMbR#WY}*a1t8oKS7nmw[t7"
+    },
+    {
+      "id": "https://vnexpress.net/hang-nghin-nguoi-chiem-bai-hop-dung-xa-li-hon-1-000-nam-5147617.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Hàng nghìn người chiêm bái hộp đựng xá lị hơn 1.000 năm",
+      "description": "Hàng nghìn người đến Bảo tàng Nghệ An - Xô Viết Nghệ Tĩnh chiêm bái hộp đựng xá lị Tháp Nhạn, bảo vật quốc gia được phát hiện trong tháp cổ.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/22/hinh_1795318127-1795339289.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=vGf_6flAgGvBEfSEA3kkvg",
+      "link": "https://vnexpress.net/hang-nghin-nguoi-chiem-bai-hop-dung-xa-li-hon-1-000-nam-5147617.html",
+      "published_at": "Mon, 23 Nov 2026 07:00:00 +0700",
+      "createAt": "2026-11-23T00:00:00.000Z",
+      "thumbnail_blurhash": "LBC?75-n014;0MM|~T%K0,R+^gxX"
     },
     {
       "id": "https://vnexpress.net/pochettino-la-hlv-ra-mat-te-nhat-tai-man-utd-sau-100-nam-5147780.html",
