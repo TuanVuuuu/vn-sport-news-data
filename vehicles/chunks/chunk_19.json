@@ -310,5 +310,31 @@
     "published_at": "Mon, 23 Nov 2026 08:00:00 +0700",
     "createAt": "2026-11-23T01:00:00.000Z",
     "thumbnail_blurhash": "LNGlP0jE?btRTeM{xut7~VR--qWB"
+  },
+  {
+    "id": "https://vnexpress.net/hai-quan-khong-tim-duoc-nguoi-mua-sieu-xe-sau-hai-nam-tich-thu-5147355.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Hải quan không tìm được người mua siêu xe sau hai năm tịch thu",
+    "description": "Sau gần hai năm bị hải quan thu giữ, bộ đôi siêu xe hàng hiếm McLaren Senna và Ferrari LaFerrari vẫn chưa thể tìm thấy chủ nhân mới.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/21/McLaren2-1795232934-6479-1795233099.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=17b991Wyrnd2O6C8eRF1cA",
+    "link": "https://vnexpress.net/hai-quan-khong-tim-duoc-nguoi-mua-sieu-xe-sau-hai-nam-tich-thu-5147355.html",
+    "published_at": "Mon, 23 Nov 2026 08:46:21 +0700",
+    "createAt": "2026-11-23T01:46:21.000Z",
+    "thumbnail_blurhash": "LaI#Jz*0xZRO-qx^f5RjEfMdR*tR"
+  },
+  {
+    "id": "https://vnexpress.net/byd-bi-cam-ban-xe-o-chau-au-vi-giong-land-rover-defender-5147784.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "BYD bị cấm bán xe ở châu Âu vì giống Land Rover Defender",
+    "description": "Tòa án Hà Lan ra lệnh cấm BYD bán mẫu SUV cỡ lớn Ti7 tại EU do vi phạm bản quyền thiết kế của Land Rover Defender.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/23/BYD-1795396428-8640-1795396581.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=RhsUnHMwoeBjHbIIooPTNg",
+    "link": "https://vnexpress.net/byd-bi-cam-ban-xe-o-chau-au-vi-giong-land-rover-defender-5147784.html",
+    "published_at": "Mon, 23 Nov 2026 09:05:35 +0700",
+    "createAt": "2026-11-23T02:05:35.000Z",
+    "thumbnail_blurhash": "LbED3W%$t7%1?w%hofad-;W?WBV@"
   }
 ]

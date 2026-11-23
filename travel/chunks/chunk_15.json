@@ -102,5 +102,31 @@
     "published_at": "Mon, 23 Nov 2026 07:00:00 +0700",
     "createAt": "2026-11-23T00:00:00.000Z",
     "thumbnail_blurhash": "L6D,GwM300+XUMJ$KkY300?F?c58"
+  },
+  {
+    "id": "https://vnexpress.net/lam-vy-da-gin-tuan-kiet-thi-lam-banh-khoai-5147633.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Lâm Vỹ Dạ, Gin Tuấn Kiệt thi làm bánh khoái",
+    "description": "Lâm Vỹ Dạ, Gin Tuấn Kiệt thi đổ bột vào khuôn nóng, chọn nhân yêu thích, chiên cho đến khi bánh khoái vàng giòn và phần nhân chín thơm, trong tập 9 \"Sao Chọn\".",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/11/23/dscf1074-1795400351-1433-1795400371.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=oD3j0hepdBenaN7ddyx15A",
+    "link": "https://vnexpress.net/lam-vy-da-gin-tuan-kiet-thi-lam-banh-khoai-5147633.html",
+    "published_at": "Mon, 23 Nov 2026 07:00:00 +0700",
+    "createAt": "2026-11-23T00:00:00.000Z",
+    "thumbnail_blurhash": "LHHnph]_GE~p_NWGjYNbpYJYibIV"
+  },
+  {
+    "id": "https://vnexpress.net/kham-pha-hon-mieu-tren-vinh-nha-trang-5131434.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Khám phá hòn Miễu trên vịnh Nha Trang",
+    "description": "Đến Hòn Miễu, đảo gần bờ nhất vịnh Nha Trang, du khách có thể tham quan thủy cung, tắm biển và thưởng thức hải sản tươi sống trên các nhà bè giữa biển.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/23/honmieu-1795401867.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=h3KffdRqZpHhv31JLyJegQ",
+    "link": "https://vnexpress.net/kham-pha-hon-mieu-tren-vinh-nha-trang-5131434.html",
+    "published_at": "Mon, 23 Nov 2026 09:44:45 +0700",
+    "createAt": "2026-11-23T02:44:45.000Z",
+    "thumbnail_blurhash": "LZD1slbdMxo#~qf8R*og%Pn$oLoM"
   }
 ]
