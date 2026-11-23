@@ -453,5 +453,31 @@
     "published_at": "Tue, 24 Nov 2026 05:00:00 +0700",
     "createAt": "2026-11-23T22:00:00.000Z",
     "thumbnail_blurhash": "LVGR}0~qV?xttRNdS5W=DiV?-;xu"
+  },
+  {
+    "id": "https://vnexpress.net/xe-con-lao-thang-vao-dau-xe-khach-o-huong-nguoc-chieu-5147865.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Xe con lao thẳng vào đầu xe khách ở hướng ngược chiều",
+    "description": "Tốc độ cao, chiếc xe con màu đen lao sang làn đường ngược chiều, đâm trực diện chiếc xe khách hôm 22/11 tại km 51 Hàm Yên.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/23/ezgif7367be050650a031-17954024-6888-6376-1795403115.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=8PU4TqoxTWMFSYmn9FfX_Q&t=image",
+    "link": "https://vnexpress.net/xe-con-lao-thang-vao-dau-xe-khach-o-huong-nguoc-chieu-5147865.html",
+    "published_at": "Tue, 24 Nov 2026 05:30:00 +0700",
+    "createAt": "2026-11-23T22:30:00.000Z",
+    "thumbnail_blurhash": "LjG[.%~qM{Rj_2%MRif5WARiWAt6"
+  },
+  {
+    "id": "https://vnexpress.net/hang-xe-xin-loi-vi-den-pha-tu-choi-hien-thi-dong-chu-con-yeu-bo-5147790.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Hãng xe xin lỗi vì đèn pha từ chối hiển thị dòng chữ 'con yêu bố'",
+    "description": "Hệ thống đèn pha chiếu chữ trên mẫu Nio ES9 không hiển thị dòng chữ \"Con yêu bố\" của một bé gái vì nhầm là từ khóa nhạy cảm.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/23/NioES9-1795420529-2510-1795420615.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=tcs-qMlnBJtLB9HU8aVftA",
+    "link": "https://vnexpress.net/hang-xe-xin-loi-vi-den-pha-tu-choi-hien-thi-dong-chu-con-yeu-bo-5147790.html",
+    "published_at": "Tue, 24 Nov 2026 06:00:00 +0700",
+    "createAt": "2026-11-23T23:00:00.000Z",
+    "thumbnail_blurhash": "LEA0|5DiIVWU_KR+D$xu?cRPM~t7"
   }
 ]
