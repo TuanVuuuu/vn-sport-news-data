@@ -167,5 +167,31 @@
     "published_at": "Mon, 23 Nov 2026 15:56:06 +0700",
     "createAt": "2026-11-23T08:56:06.000Z",
     "thumbnail_blurhash": "LABpX..9Iw-q~o?FD%tQDOR4acWA"
+  },
+  {
+    "id": "https://vnexpress.net/lam-vy-da-hua-minh-dat-check-in-loat-bieu-tuong-du-lich-hue-5147952.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Lâm Vỹ Dạ, Hứa Minh Đạt check-in loạt biểu tượng du lịch Huế",
+    "description": "Lâm Vỹ Dạ cùng chồng - diễn viên Hứa Minh Đạt - check-in những biểu tượng du lịch nổi tiếng quê hương cô như trường Quốc Học, chùa Thiên Mụ, sông Hương.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/11/23/DSCF0255-1795405959.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=OTm3HXl5PjqcO5-KPxtGIA",
+    "link": "https://vnexpress.net/lam-vy-da-hua-minh-dat-check-in-loat-bieu-tuong-du-lich-hue-5147952.html",
+    "published_at": "Mon, 23 Nov 2026 19:00:00 +0700",
+    "createAt": "2026-11-23T12:00:00.000Z",
+    "thumbnail_blurhash": "LFE:0k-tEHtS^wrbENf,?GxvI^bw"
+  },
+  {
+    "id": "https://vnexpress.net/ghe-ngoi-lanh-nhat-tren-may-bay-5147866.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Những ghế ngồi lạnh nhất trên máy bay",
+    "description": "Các ghế cạnh cửa sổ tại hàng thoát hiểm thường là những ghế ngồi lạnh nhất trên máy bay do gần cửa và hệ thống thông gió ngay phía trên.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/11/23/tal-airplane-row-coldestrow112-3699-6195-1795402686.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=G6uOGmT67pUTjWsyDJFjbQ",
+    "link": "https://vnexpress.net/ghe-ngoi-lanh-nhat-tren-may-bay-5147866.html",
+    "published_at": "Mon, 23 Nov 2026 19:10:40 +0700",
+    "createAt": "2026-11-23T12:10:40.000Z",
+    "thumbnail_blurhash": "LkI=DUg4IU?b~qWED%fQtRxtWAWC"
   }
 ]
