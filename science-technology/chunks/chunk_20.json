@@ -1103,5 +1103,31 @@
     "published_at": "Mon, 23 Nov 2026 10:00:00 +0700",
     "createAt": "2026-11-23T03:00:00.000Z",
     "thumbnail_blurhash": "LhEz.WzW?^waM}InIVs7OqMyRPt7"
+  },
+  {
+    "id": "https://vnexpress.net/robot-va-tau-vu-tru-nasa-cung-gap-su-co-tren-sao-hoa-5147991.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Robot và tàu vũ trụ NASA cùng gặp sự cố trên Sao Hỏa",
+    "description": "Robot Perseverance gặp sự cố với ăngten, trong khi tàu quỹ đạo Mars Odyssey đang xử lý vấn đề với bánh đà phản lực nên phải tạm ngừng hoạt động khoa học.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/23/VNERover-1795409476-5350-1795409660.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=hugwr8mHcbI2aGJAe1t9fA",
+    "link": "https://vnexpress.net/robot-va-tau-vu-tru-nasa-cung-gap-su-co-tren-sao-hoa-5147991.html",
+    "published_at": "Mon, 23 Nov 2026 13:08:28 +0700",
+    "createAt": "2026-11-23T06:08:28.000Z",
+    "thumbnail_blurhash": "LEIDv|~C=|tR~q%M?H%1yDxv-:of"
+  },
+  {
+    "id": "https://vnexpress.net/viet-nam-nen-tap-trung-vao-chip-chuyen-dung-5147936.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Việt Nam nên tập trung vào chip chuyên dụng",
+    "description": "Bộ trưởng Khoa học và Công nghệ Vũ Hải Quân cho rằng lĩnh vực bán dẫn Việt Nam nên hướng đến chip chuyên dụng thay vì chip phổ thông.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/23/wm1-dsc02512-jpg-1795408086-25-3505-2133-1795413903.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=kszYlM0KQC7esVmSJrrk4g",
+    "link": "https://vnexpress.net/viet-nam-nen-tap-trung-vao-chip-chuyen-dung-5147936.html",
+    "published_at": "Mon, 23 Nov 2026 13:20:13 +0700",
+    "createAt": "2026-11-23T06:20:13.000Z",
+    "thumbnail_blurhash": "LKEMki9IA4tSxgozR%M{RiM~nMxu"
   }
 ]
