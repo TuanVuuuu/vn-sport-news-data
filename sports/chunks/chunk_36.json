@@ -89,5 +89,31 @@
     "published_at": "Mon, 23 Nov 2026 05:59:46 +0700",
     "createAt": "2026-11-22T22:59:46.000Z",
     "thumbnail_blurhash": "L4AwqucW00JT4kK7-CR*00T_~W%1"
+  },
+  {
+    "id": "https://vnexpress.net/pochettino-chua-mo-da-gap-ac-mong-o-man-utd-5147762.html",
+    "category_id": "sports",
+    "category_name": "Thể thao",
+    "source": "VnExpress",
+    "title": "Pochettino chưa mơ đã gặp ác mộng ở Man Utd",
+    "description": "Thua 0-4 trước Liverpool, Man Utd tiếp tục chôn chân ở vị trí 19, trở thành đội thủng lưới nhiều nhất trong 5 giải hàng đầu châu Âu và khiến ngày ra mắt của Mauricio Pochettino trở thành thảm họa.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/11/23/screenshot-1795390872-7639-1795391136.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=z6XIT_ekHIT2W63EjCkeHw",
+    "link": "https://vnexpress.net/pochettino-chua-mo-da-gap-ac-mong-o-man-utd-5147762.html",
+    "published_at": "Mon, 23 Nov 2026 06:45:36 +0700",
+    "createAt": "2026-11-22T23:45:36.000Z",
+    "thumbnail_blurhash": "L77wQjMyxaRQ}@xbM{sA$js:IVsp"
+  },
+  {
+    "id": "https://vnexpress.net/pochettino-la-hlv-ra-mat-te-nhat-tai-man-utd-sau-100-nam-5147780.html",
+    "category_id": "sports",
+    "category_name": "Thể thao",
+    "source": "VnExpress",
+    "title": "Pochettino là HLV ra mắt tệ nhất tại Man Utd sau 100 năm",
+    "description": "Thất bại 0-4 trước Liverpool khiến Mauricio Pochettino cân bằng kỷ lục về trận thua nặng nhất của một HLV Man Utd trong ngày ra mắt, tồn tại từ năm 1926.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/11/23/ap26326620429647-1795392360-4727-1795392623.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=m_W8NUOniuBw3aUgmKm6Xg",
+    "link": "https://vnexpress.net/pochettino-la-hlv-ra-mat-te-nhat-tai-man-utd-sau-100-nam-5147780.html",
+    "published_at": "Mon, 23 Nov 2026 07:13:47 +0700",
+    "createAt": "2026-11-23T00:13:47.000Z",
+    "thumbnail_blurhash": "LMD]3h~pRj4orsIVW.xtM{IokCxu"
   }
 ]
