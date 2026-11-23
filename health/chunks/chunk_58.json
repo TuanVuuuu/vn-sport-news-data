@@ -297,5 +297,31 @@
     "published_at": "Mon, 23 Nov 2026 11:04:35 +0700",
     "createAt": "2026-11-23T04:04:35.000Z",
     "thumbnail_blurhash": "LVHoh7D$Six^~qxvIpM_xZxaogRj"
+  },
+  {
+    "id": "https://vnexpress.net/vi-sao-ba-me-cao-nhung-con-thap-5147842.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Vì sao ba mẹ cao nhưng con thấp?",
+    "description": "Ba mẹ cao nhưng con vẫn thấp bé hơn bạn bè cùng tuổi có thể do dinh dưỡng hoặc rối loạn nội tiết.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/23/image001-1795400266-4590-1795400318.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=KBM1T2Jc22SdyqHnq7kdLA",
+    "link": "https://vnexpress.net/vi-sao-ba-me-cao-nhung-con-thap-5147842.html",
+    "published_at": "Mon, 23 Nov 2026 11:00:00 +0700",
+    "createAt": "2026-11-23T04:00:00.000Z",
+    "thumbnail_blurhash": "LjKx0Y~pNGW=?Zx]j]WA.7RiayWF"
+  },
+  {
+    "id": "https://vnexpress.net/day-thun-ban-vao-mat-nguoi-dan-ong-gay-duc-thuy-tinh-the-5147513.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Dây thun bắn vào mắt người đàn ông gây đục thủy tinh thể",
+    "description": "Ông Đức, 61 tuổi, nhìn mờ sau khi bị sợi dây thun buộc hàng bắn vào mắt, bác sĩ chẩn đoán đục - lệch thủy tinh thể.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/23/thie-t-ke-chu-a-co-te-n-179540-6428-7230-1795404216.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=HqAkZNB3GLXNiI6HvYlucQ",
+    "link": "https://vnexpress.net/day-thun-ban-vao-mat-nguoi-dan-ong-gay-duc-thuy-tinh-the-5147513.html",
+    "published_at": "Mon, 23 Nov 2026 12:00:00 +0700",
+    "createAt": "2026-11-23T05:00:00.000Z",
+    "thumbnail_blurhash": "LEKx9-%i_4v}%U01x8i_-+R*I9sU"
   }
 ]
