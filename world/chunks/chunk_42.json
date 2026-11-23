@@ -791,5 +791,44 @@
     "published_at": "Mon, 23 Nov 2026 17:00:00 +0700",
     "createAt": "2026-11-23T10:00:00.000Z",
     "thumbnail_blurhash": "LrB$l]HqawV{.mS7R5jEoyoxRPaJ"
+  },
+  {
+    "id": "https://vnexpress.net/trung-quoc-tuyen-tu-hinh-quan-chuc-lam-lo-hon-100-bi-mat-nha-nuoc-5148137.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Trung Quốc tuyên tử hình quan chức 'làm lộ hơn 100 bí mật nhà nước'",
+    "description": "Quan chức họ Ma bị tuyên án tử hình vì làm điệp viên hai mang, chuyển giao loạt tài liệu mật cho tình báo nước ngoài.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/23/afp-b2km89e-v1-highres-chinaus-6755-7457-1795432921.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=PH4MGknP5CXmAqZSMWkYaQ",
+    "link": "https://vnexpress.net/trung-quoc-tuyen-tu-hinh-quan-chuc-lam-lo-hon-100-bi-mat-nha-nuoc-5148137.html",
+    "published_at": "Mon, 23 Nov 2026 18:23:45 +0700",
+    "createAt": "2026-11-23T11:23:45.000Z",
+    "thumbnail_blurhash": "L68E0l~qIUslM_ayxuxa00D%x]xu"
+  },
+  {
+    "id": "https://vnexpress.net/ong-trump-chi-trich-lanh-dao-phe-dan-chu-tai-thuong-vien-te-hai-5148122.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Ông Trump chỉ trích lãnh đạo phe Dân chủ tại Thượng viện 'tệ hại'",
+    "description": "Tổng thống Trump cho rằng ông Schumer \"thuộc nhóm tệ hại\" và sẽ rất khó làm việc nếu thượng nghị sĩ này tiếp tục lãnh đạo phe Dân chủ tại Thượng viện năm tới.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/23/Gemini-Generated-Image-fjh354f-5298-8395-1795426966.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=PRGPVxwotYs11283G88iCA",
+    "link": "https://vnexpress.net/ong-trump-chi-trich-lanh-dao-phe-dan-chu-tai-thuong-vien-te-hai-5148122.html",
+    "published_at": "Mon, 23 Nov 2026 18:59:46 +0700",
+    "createAt": "2026-11-23T11:59:46.000Z",
+    "thumbnail_blurhash": "LGCiB%W9-VxG}=$%afS#NFjEWpS2"
+  },
+  {
+    "id": "https://vnexpress.net/ong-zelensky-san-sang-dam-phan-4-ben-voi-nga-ngay-ngay-mai-5148198.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Ông Zelensky sẵn sàng đàm phán 4 bên với Nga 'ngay ngày mai'",
+    "description": "Tổng thống Zelensky kêu gọi sớm tổ chức các cuộc đàm phán mới với Nga, Mỹ, châu Âu tham gia, đồng thời nhắc lại đề nghị cho phép Ukraine gia nhập NATO.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/23/ap26289448543263-1795434343-9647-1795434480.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Re956r7F7DF-wtAcBf5Brg",
+    "link": "https://vnexpress.net/ong-zelensky-san-sang-dam-phan-4-ben-voi-nga-ngay-ngay-mai-5148198.html",
+    "published_at": "Mon, 23 Nov 2026 19:08:02 +0700",
+    "createAt": "2026-11-23T12:08:02.000Z",
+    "thumbnail_blurhash": "LW7o0:i@T3s4kvRNRiNKWZt6s+kX"
   }
 ]
