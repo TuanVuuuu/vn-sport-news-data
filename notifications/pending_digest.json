@@ -1,3 +1,121 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/vuot-den-do-se-bi-phat-the-nao-theo-de-xuat-moi-5147709.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Vượt đèn đỏ sẽ bị phạt thế nào theo đề xuất mới?",
+      "description": "Cục CSGT đề xuất áp dụng mức xử phạt người lái xe dừng hoặc đi tiếp sau khi vượt vạch đèn đỏ, đồng thời tăng tiền phạt nếu tái phạm.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/22/20261121vuotdendothumbngangv04-4199-5262-1795348619.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=7qhvbzyLxcodLI8QjSlDYw",
+      "link": "https://vnexpress.net/vuot-den-do-se-bi-phat-the-nao-theo-de-xuat-moi-5147709.html",
+      "published_at": "Mon, 23 Nov 2026 06:00:00 +0700",
+      "createAt": "2026-11-22T23:00:00.000Z",
+      "thumbnail_blurhash": "L7A]]LK55P}Y00RjSO$j9Fs9n+Sh"
+    },
+    {
+      "id": "https://vnexpress.net/pochettino-do-loi-cho-trong-tai-khi-thua-liverpool-0-4-5147791.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Pochettino đổ lỗi cho trọng tài khi thua Liverpool 0-4",
+      "description": "Theo HLV Mauricio Pochettino, Leny Yoro không đáng nhận thẻ đỏ và Man Utd bị từ chối một quả phạt đền trước khi thua Liverpool 0-4 ở vòng 11 Ngoại hạng Anh ngày 22/11.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/11/23/large-1795394924-1148-1795394958.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=i4R_xjOvt9hhCcEcg9sK8g",
+      "link": "https://vnexpress.net/pochettino-do-loi-cho-trong-tai-khi-thua-liverpool-0-4-5147791.html",
+      "published_at": "Mon, 23 Nov 2026 07:49:55 +0700",
+      "createAt": "2026-11-23T00:49:55.000Z",
+      "thumbnail_blurhash": "L9Cj:G-nX+x]_J-W=hxbS_%3%2$+"
+    },
+    {
+      "id": "https://vnexpress.net/anh-ve-tinh-chien-ham-nga-chim-mot-phan-tai-quan-cang-libya-5147777.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Ảnh vệ tinh 'chiến hạm Nga' chìm một phần tại quân cảng Libya",
+      "description": "Tàu được cho là chiến hạm Nga chìm một phần tại quân cảng Benghazi sau khi bị xuồng không người lái tập kích, theo ảnh vệ tinh.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/23/TuNga-1795394065-8674-1795394483.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=ZI5ELoHnCU75aIY-Sb3H4g",
+      "link": "https://vnexpress.net/anh-ve-tinh-chien-ham-nga-chim-mot-phan-tai-quan-cang-libya-5147777.html",
+      "published_at": "Mon, 23 Nov 2026 07:56:46 +0700",
+      "createAt": "2026-11-23T00:56:46.000Z",
+      "thumbnail_blurhash": "LDFh^q4.XntQ004o~B9FIo~VM{IV"
+    },
+    {
+      "id": "https://vnexpress.net/nhan-chung-ke-thoi-diem-lua-bung-len-tai-can-nha-o-trung-tam-tp-hcm-5147849.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Nhân chứng kể thời điểm lửa bùng lên tại căn nhà ở trung tâm TP HCM",
+      "description": "Lửa bùng lên trên sân thượng căn nhà gần 200 m2 ở phường Tân Định, người dân bên trong nhà và khách sạn bên cạnh hốt hoảng sơ tán, sáng 23/11.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/23/20261123100337-1795403046-9336-1795403782.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=03uZd7Nb5EyYAxXk0tculA",
+      "link": "https://vnexpress.net/nhan-chung-ke-thoi-diem-lua-bung-len-tai-can-nha-o-trung-tam-tp-hcm-5147849.html",
+      "published_at": "Mon, 23 Nov 2026 10:16:22 +0700",
+      "createAt": "2026-11-23T03:16:22.000Z",
+      "thumbnail_blurhash": "L9E_~[4fx]00}f]wIm57K-I^IU$%"
+    },
+    {
+      "id": "https://vnexpress.net/no-xau-ngan-hang-tiep-tuc-tang-5147545.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Nợ xấu ngân hàng tiếp tục tăng",
+      "description": "Các đơn vị phân tích cho biết tại thời điểm 30/9, tỷ lệ nợ xấu của các ngân hàng đã tăng 0,1% so với giai đoạn cuối quý II.",
+      "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/22/vpbank-thanhtung6-1795289439-5609-1795289491.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=2wKJ9Hpj11ptKdgdTvBHig",
+      "link": "https://vnexpress.net/no-xau-ngan-hang-tiep-tuc-tang-5147545.html",
+      "published_at": "Mon, 23 Nov 2026 10:34:06 +0700",
+      "createAt": "2026-11-23T03:34:06.000Z",
+      "thumbnail_blurhash": "LEJ8Fb~q0MxCIp9Et6IU$*%L%NM{"
+    },
+    {
+      "id": "https://vnexpress.net/hang-ty-usd-bi-thoi-bay-sau-cu-roi-cua-bitcoin-5147874.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Hàng tỷ USD bị thổi bay sau cú rơi của Bitcoin",
+      "description": "Bitcoin xuống mức thấp nhất hơn 2 năm đã xóa sổ hàng tỷ USD vị thế phái sinh, nhà đầu tư cắt lỗ và rút tiền khỏi các quỹ ETF.",
+      "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/23/ta-i-xuo-ng-jpeg-1795402914-7342-1795402944.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=8UUE2fdJshJ5WHyD7Kot1Q",
+      "link": "https://vnexpress.net/hang-ty-usd-bi-thoi-bay-sau-cu-roi-cua-bitcoin-5147874.html",
+      "published_at": "Mon, 23 Nov 2026 10:56:04 +0700",
+      "createAt": "2026-11-23T03:56:04.000Z",
+      "thumbnail_blurhash": "LCDS|1lowFMc,o9uNGnO008^E1IV"
+    },
+    {
+      "id": "https://vnexpress.net/lhq-keu-goi-dieu-tra-vu-tau-chien-nga-bi-tap-kich-o-libya-5147896.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "LHQ kêu gọi điều tra vụ 'tàu chiến Nga' bị tập kích ở Libya",
+      "description": "Phái bộ Liên Hợp Quốc tại Libya kêu gọi mở cuộc điều tra độc lập sau vụ tập kích nhằm vào tàu Nga ở quốc gia châu Phi.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/23/libya-1795406018-3774-1795406964.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=szDbDTavla1uvovvR4AE5A",
+      "link": "https://vnexpress.net/lhq-keu-goi-dieu-tra-vu-tau-chien-nga-bi-tap-kich-o-libya-5147896.html",
+      "published_at": "Mon, 23 Nov 2026 11:09:55 +0700",
+      "createAt": "2026-11-23T04:09:55.000Z",
+      "thumbnail_blurhash": "L7GuXU58_Mk@01i]H?%M#5=s0KM_"
+    },
+    {
+      "id": "https://vnexpress.net/viet-nam-new-zealand-di-tim-chien-thang-dau-tien-o-world-cup-11-nguoi-5147946.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Việt Nam - New Zealand: Đi tìm chiến thắng đầu tiên ở World Cup 11 người",
+      "description": "Thầy trò HLV Cristiano Roland có thể trở thành đội tuyển Việt Nam đầu tiên giành chiến thắng ở sân chơi thế giới 11 người, khi đối đầu New Zealand ở lượt hai bảng G U17 World Cup tối nay.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/11/23/img-1795406930-9308-1795407013.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=aFjjHg99jVSzumcFE79IvA",
+      "link": "https://vnexpress.net/viet-nam-new-zealand-di-tim-chien-thang-dau-tien-o-world-cup-11-nguoi-5147946.html",
+      "published_at": "Mon, 23 Nov 2026 11:16:54 +0700",
+      "createAt": "2026-11-23T04:16:54.000Z",
+      "thumbnail_blurhash": "L7F5yw*I005OL_Wtn5D+0crC%#%2"
+    },
+    {
+      "id": "https://vnexpress.net/bong-bong-ai-lieu-da-vo-5147868.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Bong bóng AI liệu đã vỡ?",
+      "description": "Đợt bán tháo cổ phiếu AI gần đây trên thị trường chứng khoán khiến nhiều nhà đầu tư liên tưởng đến bong bóng dotcom năm 2000.",
+      "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/23/screenshot20261123101854-17954-8971-6469-1795404073.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=GsT9gEQx99o2xNOaI79Rfw",
+      "link": "https://vnexpress.net/bong-bong-ai-lieu-da-vo-5147868.html",
+      "published_at": "Mon, 23 Nov 2026 12:01:35 +0700",
+      "createAt": "2026-11-23T05:01:35.000Z",
+      "thumbnail_blurhash": "L25OQt4.DjD%IS?bD$t700V@~q-;"
+    }
+  ]
 }
