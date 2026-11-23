@@ -245,5 +245,44 @@
     "published_at": "Mon, 23 Nov 2026 09:26:17 +0700",
     "createAt": "2026-11-23T02:26:17.000Z",
     "thumbnail_blurhash": "LHFhx4?^O[-=yByDn-D*?HtR-oVs"
+  },
+  {
+    "id": "https://vnexpress.net/lan-dau-sau-17-nam-the-gioi-khong-dat-thoa-thuan-ve-bien-doi-khi-hau-5147753.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Lần đầu sau 17 năm, thế giới không đạt thỏa thuận về biến đổi khí hậu",
+    "description": "Lần đầu tiên sau 17 năm, gần 200 quốc gia không đạt được thỏa thuận khí hậu nào tại hội nghị đàm phán thường niên của Liên Hợp Quốc.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/22/ap26326492841654-1795362797-2784-1795362948.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=DYViIkDjqfvgkIxUkKuFtA",
+    "link": "https://vnexpress.net/lan-dau-sau-17-nam-the-gioi-khong-dat-thoa-thuan-ve-bien-doi-khi-hau-5147753.html",
+    "published_at": "Mon, 23 Nov 2026 08:09:55 +0700",
+    "createAt": "2026-11-23T01:09:55.000Z",
+    "thumbnail_blurhash": "LNKK=@Rj%MRjxWV@V[Rj~qoIIUt6"
+  },
+  {
+    "id": "https://vnexpress.net/no-xau-ngan-hang-tiep-tuc-tang-5147545.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Nợ xấu ngân hàng tiếp tục tăng",
+    "description": "Các đơn vị phân tích cho biết tại thời điểm 30/9, tỷ lệ nợ xấu của các ngân hàng đã tăng 0,1% so với giai đoạn cuối quý II.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/22/vpbank-thanhtung6-1795289439-5609-1795289491.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=2wKJ9Hpj11ptKdgdTvBHig",
+    "link": "https://vnexpress.net/no-xau-ngan-hang-tiep-tuc-tang-5147545.html",
+    "published_at": "Mon, 23 Nov 2026 10:34:06 +0700",
+    "createAt": "2026-11-23T03:34:06.000Z",
+    "thumbnail_blurhash": "LEJ8Fb~q0MxCIp9Et6IU$*%L%NM{"
+  },
+  {
+    "id": "https://vnexpress.net/hang-ty-usd-bi-thoi-bay-sau-cu-roi-cua-bitcoin-5147874.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Hàng tỷ USD bị thổi bay sau cú rơi của Bitcoin",
+    "description": "Bitcoin xuống mức thấp nhất hơn 2 năm đã xóa sổ hàng tỷ USD vị thế phái sinh, nhà đầu tư cắt lỗ và rút tiền khỏi các quỹ ETF.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/23/ta-i-xuo-ng-jpeg-1795402914-7342-1795402944.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=8UUE2fdJshJ5WHyD7Kot1Q",
+    "link": "https://vnexpress.net/hang-ty-usd-bi-thoi-bay-sau-cu-roi-cua-bitcoin-5147874.html",
+    "published_at": "Mon, 23 Nov 2026 10:56:04 +0700",
+    "createAt": "2026-11-23T03:56:04.000Z",
+    "thumbnail_blurhash": "LCDS|1lowFMc,o9uNGnO008^E1IV"
   }
 ]
