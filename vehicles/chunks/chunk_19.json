@@ -271,5 +271,31 @@
     "published_at": "Mon, 23 Nov 2026 06:00:00 +0700",
     "createAt": "2026-11-22T23:00:00.000Z",
     "thumbnail_blurhash": "L5AAQ{t,8wRh3s-;D%IArL-r%hD$"
+  },
+  {
+    "id": "https://vnexpress.net/treo-khi-nen-thu-ngon-tien-tren-xe-sang-cu-5141085.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Treo khí nén - thứ ngốn tiền trên xe sang cũ",
+    "description": "Những chiếc xe trang bị hệ thống treo khí nén mang lại cảm giác êm ái nhưng cũng là cơn ác mộng với chủ xe khi hỏng hóc.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/05/Mercedes2-1793861898-8677-1793862341.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=U_tKMt3JP9ib9yTAtrfH6Q",
+    "link": "https://vnexpress.net/treo-khi-nen-thu-ngon-tien-tren-xe-sang-cu-5141085.html",
+    "published_at": "Mon, 23 Nov 2026 06:30:00 +0700",
+    "createAt": "2026-11-22T23:30:00.000Z",
+    "thumbnail_blurhash": "L5F6CBxv~p~q00D%00E100~qxuIU"
+  },
+  {
+    "id": "https://vnexpress.net/sieu-xe-ha-lan-co-tu-the-lai-khong-giong-ai-5147310.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Siêu xe Hà Lan có tư thế lái 'không giống ai'",
+    "description": "Sanrivatti One dùng động cơ V10 công suất 800 mã lực, tốc độ tối đa 330 km/h và tư thế lái nằm sấp chưa từng có trên xe thương mại.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/21/Supercar2-1795224291-9727-1795229815.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=bF8mhNmK4HrV_KKumtKQBw",
+    "link": "https://vnexpress.net/sieu-xe-ha-lan-co-tu-the-lai-khong-giong-ai-5147310.html",
+    "published_at": "Mon, 23 Nov 2026 07:00:00 +0700",
+    "createAt": "2026-11-23T00:00:00.000Z",
+    "thumbnail_blurhash": "LPH2i$-:NKRi_NkDx]WARis:%Lxu"
   }
 ]
