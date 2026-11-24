@@ -791,5 +791,31 @@
     "published_at": "Wed, 25 Nov 2026 00:03:00 +0700",
     "createAt": "2026-11-24T17:03:00.000Z",
     "thumbnail_blurhash": "LLLXPnD4oh_3?HkWM{Rj_NbHkWbc"
+  },
+  {
+    "id": "https://vnexpress.net/hang-loat-ngan-hang-thay-tuong-5148503.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Hàng loạt ngân hàng thay tướng",
+    "description": "Chỉ trong ngày 23/11, SeABank, SCB và LPBank cùng công bố thay người đứng đầu, nối dài danh sách ngân hàng đổi tướng từ giữa tháng 9 đến nay.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/25/Settop-1795540695-1455-1795540902.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=JOjY9GIyOTxwGULApsdmxQ",
+    "link": "https://vnexpress.net/hang-loat-ngan-hang-thay-tuong-5148503.html",
+    "published_at": "Wed, 25 Nov 2026 00:22:10 +0700",
+    "createAt": "2026-11-24T17:22:10.000Z",
+    "thumbnail_blurhash": "L6Hml|}t00^k*KrwxuW9E1s+xaR-"
+  },
+  {
+    "id": "https://vnexpress.net/nhung-thach-thuc-cho-doi-jensen-huang-5148444.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Những thách thức chờ đợi Jensen Huang",
+    "description": "Trở lại làm CEO, ông Jensen Huang và Nvidia vẫn đối diện ít nhất 4 cuộc điều tra và 2 vụ kiện, cùng đe dọa từ lãnh đạo Hạ viện Mỹ.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/24/AFP-20261026-dpa-pa-261026-99-5516-1829-1795520272.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=oiMlHdEBlJ8uwmGhLGYC_A",
+    "link": "https://vnexpress.net/nhung-thach-thuc-cho-doi-jensen-huang-5148444.html",
+    "published_at": "Wed, 25 Nov 2026 01:03:48 +0700",
+    "createAt": "2026-11-24T18:03:48.000Z",
+    "thumbnail_blurhash": "L271N6t700Io}?t60gE2IAoftSRj"
   }
 ]
