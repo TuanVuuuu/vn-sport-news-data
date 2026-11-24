@@ -869,5 +869,44 @@
     "published_at": "Tue, 24 Nov 2026 10:00:00 +0700",
     "createAt": "2026-11-24T03:00:00.000Z",
     "thumbnail_blurhash": "LDED3#MvtR_4r-yFIon#-p%iD%V="
+  },
+  {
+    "id": "https://vnexpress.net/noi-soi-lay-soi-nieu-quan-tai-phat-5148264.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Nội soi lấy sỏi niệu quản tái phát",
+    "description": "Anh Hải, 36 tuổi, tái phát sỏi kèm hẹp niệu quản, được phẫu thuật nội soi lấy sỏi qua vùng hông lưng.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/23/hinh-pr-1795450019-3037-1795450118.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=tAHS6MnwU2OpAN7vZqLIQQ",
+    "link": "https://vnexpress.net/noi-soi-lay-soi-nieu-quan-tai-phat-5148264.html",
+    "published_at": "Tue, 24 Nov 2026 11:00:00 +0700",
+    "createAt": "2026-11-24T04:00:00.000Z",
+    "thumbnail_blurhash": "LsKUKD~qM|ax-.WARjoLk9nhaxR+"
+  },
+  {
+    "id": "https://vnexpress.net/tre-so-sinh-uong-nuoc-bup-oi-non-tra-vo-cam-chua-tieu-chay-duoc-khong-5148225.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Trẻ sơ sinh uống nước búp ổi non, trà vỏ cam chữa tiêu chảy được không?",
+    "description": "Con tôi gần một tháng tuổi, tiêu chảy hai ngày. Tôi có thể cho bé uống nước búp ổi non hoặc trà vỏ cam không? (Thảo, Đồng Nai)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/23/image001-1795440862-5018-1795440944.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=LFNP54q38afKa6tKN-W6zg",
+    "link": "https://vnexpress.net/tre-so-sinh-uong-nuoc-bup-oi-non-tra-vo-cam-chua-tieu-chay-duoc-khong-5148225.html",
+    "published_at": "Tue, 24 Nov 2026 11:00:00 +0700",
+    "createAt": "2026-11-24T04:00:00.000Z",
+    "thumbnail_blurhash": "LVLXfD~qIU%2Mdx]xuxtD$xv%Maz"
+  },
+  {
+    "id": "https://vnexpress.net/5-thuc-pham-mau-cam-do-giup-giam-viem-5148155.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "5 thực phẩm màu cam, đỏ giúp giảm viêm",
+    "description": "Lựu, bí đỏ, củ dền, khoai lang và ớt chuông đỏ giàu chất chống oxy hóa, góp phần bảo vệ tế bào và hỗ trợ giảm viêm.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/23/luu-jfif-1795427321-6864-1795427450.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=VQs30GuYVZSv56qRjiiNeg",
+    "link": "https://vnexpress.net/5-thuc-pham-mau-cam-do-giup-giam-viem-5148155.html",
+    "published_at": "Tue, 24 Nov 2026 11:00:00 +0700",
+    "createAt": "2026-11-24T04:00:00.000Z",
+    "thumbnail_blurhash": "LBHT:G003q+FLxsjIC${0eyEv2=}"
   }
 ]

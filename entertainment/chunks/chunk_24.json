@@ -180,5 +180,31 @@
     "published_at": "Tue, 24 Nov 2026 09:00:00 +0700",
     "createAt": "2026-11-24T02:00:00.000Z",
     "thumbnail_blurhash": "LEHo5#_4-?Mxy=tPMwIU9x9FI-RO"
+  },
+  {
+    "id": "https://vnexpress.net/van-hoa-viet-nam-tiep-suc-nghe-thuat-duong-dai-5148109.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Văn hóa Việt Nam tiếp sức nghệ thuật đương đại",
+    "description": "Kho tàng văn hóa Việt là nguồn cảm hứng dồi dào cho sáng tạo nghệ thuật, nhưng đòi hỏi người tiếp nhận cần học hỏi và am hiểu.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/11/24/hoang-thuy-linh-1795492143-1206-1795492163.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=p95t_UoSC2__sQVHudpuKw",
+    "link": "https://vnexpress.net/van-hoa-viet-nam-tiep-suc-nghe-thuat-duong-dai-5148109.html",
+    "published_at": "Tue, 24 Nov 2026 10:29:26 +0700",
+    "createAt": "2026-11-24T03:29:26.000Z",
+    "thumbnail_blurhash": "L8AdrOza03KN?;,boy9]ELw}t6J5"
+  },
+  {
+    "id": "https://vnexpress.net/trong-dong-dong-son-hoi-huong-tu-phap-5148202.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Trống đồng Đông Sơn hồi hương từ Pháp",
+    "description": "Trống đồng Đông Sơn có niên đại hơn 2.000 năm, được đưa từ Pháp về Việt Nam hồi đầu tháng 11, lần đầu ra mắt công chúng.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/11/23/1795432255554d9dc190e551e53ebf-1776-6297-1795434705.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=J60RuQuo8XFwdAlJBdL0kg",
+    "link": "https://vnexpress.net/trong-dong-dong-son-hoi-huong-tu-phap-5148202.html",
+    "published_at": "Tue, 24 Nov 2026 11:17:10 +0700",
+    "createAt": "2026-11-24T04:17:10.000Z",
+    "thumbnail_blurhash": "LhB}60t7F8NhyGkCS7kE%LoeM_WA"
   }
 ]
