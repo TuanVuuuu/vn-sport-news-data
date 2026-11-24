@@ -674,5 +674,70 @@
     "published_at": "Tue, 24 Nov 2026 06:00:00 +0700",
     "createAt": "2026-11-23T23:00:00.000Z",
     "thumbnail_blurhash": "LYHo8y~p%MW.~ps.R+xuxsRiRQt6"
+  },
+  {
+    "id": "https://vnexpress.net/6-benh-thuong-gap-o-nguoi-hen-suyen-5148181.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "6 bệnh thường gặp ở người hen suyễn",
+    "description": "Hen suyễn có thể đi kèm viêm mũi dị ứng, viêm mũi xoang mạn tính, trào ngược dạ dày thực quản khiến khó kiểm soát cơn hen.",
+    "thumbnail_url": "https://i1-suckhoe.vnecdn.net/2026/11/23/image001-1795429924-9600-1795430035.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=PcRoYXBds_YIfhzzs629_Q",
+    "link": "https://vnexpress.net/6-benh-thuong-gap-o-nguoi-hen-suyen-5148181.html",
+    "published_at": "Tue, 24 Nov 2026 07:00:00 +0700",
+    "createAt": "2026-11-24T00:00:00.000Z",
+    "thumbnail_blurhash": "LdF~HoMd~WtQ%Moft7xuozbIbIt7"
+  },
+  {
+    "id": "https://vnexpress.net/tre-mac-hen-phe-quan-co-nen-om-gau-bong-khi-ngu-5148174.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Trẻ mắc hen phế quản có nên ôm gấu bông khi ngủ?",
+    "description": "Con tôi 5 tuổi, mắc bệnh hen phế quản, thường ôm gấu bông mới chịu ngủ. Thói quen này có khiến trẻ dễ lên cơn hen? (Nghĩa, Long An)",
+    "thumbnail_url": "https://i1-suckhoe.vnecdn.net/2026/11/23/image001-1795429152-9735-1795429299.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=XxTsKqXgP8p9bygTzMpQbA",
+    "link": "https://vnexpress.net/tre-mac-hen-phe-quan-co-nen-om-gau-bong-khi-ngu-5148174.html",
+    "published_at": "Tue, 24 Nov 2026 07:00:00 +0700",
+    "createAt": "2026-11-24T00:00:00.000Z",
+    "thumbnail_blurhash": "LVLgw-9F4nEOx[Rkj]s:~px^V?RO"
+  },
+  {
+    "id": "https://vnexpress.net/dang-dung-thuoc-gan-nhiem-mo-co-can-an-kieng-5148141.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Đang dùng thuốc gan nhiễm mỡ có cần ăn kiêng?",
+    "description": "Tôi mắc bệnh gan nhiễm mỡ, được bác sĩ kê thuốc điều trị. Trong thời gian uống thuốc, tôi có cần kiêng ăn gì không? (Hải Anh, TP HCM)",
+    "thumbnail_url": "https://i1-suckhoe.vnecdn.net/2026/11/23/mo-hi-nh-gan-bi-nh-thu-o-ng-va-9686-5882-1795426296.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=xc9VSkLZo2IxsV5aEFt97g",
+    "link": "https://vnexpress.net/dang-dung-thuoc-gan-nhiem-mo-co-can-an-kieng-5148141.html",
+    "published_at": "Tue, 24 Nov 2026 07:00:00 +0700",
+    "createAt": "2026-11-24T00:00:00.000Z",
+    "thumbnail_blurhash": "LQO:^Z%2.T.8p{a_%#tlqGnjXmWB"
+  },
+  {
+    "id": "https://vnexpress.net/be-trai-14-tuoi-nang-hon-100-kg-mac-nhieu-benh-5148055.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Bé trai 14 tuổi nặng hơn 100 kg mắc nhiều bệnh",
+    "description": "Thuận, 14 tuổi, nặng 104 kg, khối lượng mỡ chiếm gần một nửa trọng lượng cơ thể, gan nhiễm mỡ, rối loạn mỡ máu và huyết áp cao.",
+    "thumbnail_url": "https://i1-suckhoe.vnecdn.net/2026/11/23/vne-1795441768-6447-1795442203.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=ljG2B3mwqBks4L-Gpic7YQ",
+    "link": "https://vnexpress.net/be-trai-14-tuoi-nang-hon-100-kg-mac-nhieu-benh-5148055.html",
+    "published_at": "Tue, 24 Nov 2026 07:00:00 +0700",
+    "createAt": "2026-11-24T00:00:00.000Z",
+    "thumbnail_blurhash": "LaK1d*~qOtIU?H4=E4V@M{M~NKa$"
+  },
+  {
+    "id": "https://vnexpress.net/dau-hieu-nao-canh-bao-ung-thu-buong-trung-5148182.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Dấu hiệu nào cảnh báo ung thư buồng trứng?",
+    "description": "Tôi được chẩn đoán u lành 3x4 cm ở buồng trứng trái. Làm sao nhận biết dấu hiệu ung thư buồng trứng và lưu ý gì khi theo dõi? (Hà Thư, 25 tuổi, Lâm Đồng)",
+    "thumbnail_url": "https://i1-suckhoe.vnecdn.net/2026/11/24/image001-1795476024-9972-1795476491.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=NBPerpZixmvFQunUb5TZxw",
+    "link": "https://vnexpress.net/dau-hieu-nao-canh-bao-ung-thu-buong-trung-5148182.html",
+    "published_at": "Tue, 24 Nov 2026 07:15:56 +0700",
+    "createAt": "2026-11-24T00:15:56.000Z",
+    "thumbnail_blurhash": "LQNwN6~q00_2tR-;9FxvRPaxobWA"
   }
 ]
