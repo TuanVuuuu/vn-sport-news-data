@@ -1,3 +1,17 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/trong-dong-dong-son-hoi-huong-tu-phap-5148202.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Trống đồng Đông Sơn hồi hương từ Pháp",
+      "description": "Trống đồng Đông Sơn có niên đại hơn 2.000 năm, được đưa từ Pháp về Việt Nam hồi đầu tháng 11, lần đầu ra mắt công chúng.",
+      "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/11/23/1795432255554d9dc190e551e53ebf-1776-6297-1795434705.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=J60RuQuo8XFwdAlJBdL0kg",
+      "link": "https://vnexpress.net/trong-dong-dong-son-hoi-huong-tu-phap-5148202.html",
+      "published_at": "Tue, 24 Nov 2026 11:17:10 +0700",
+      "createAt": "2026-11-24T04:17:10.000Z",
+      "thumbnail_blurhash": "LhB}60t7F8NhyGkCS7kE%LoeM_WA"
+    }
+  ]
 }
