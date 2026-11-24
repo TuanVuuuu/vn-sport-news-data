@@ -1064,5 +1064,31 @@
     "published_at": "Wed, 25 Nov 2026 00:04:00 +0700",
     "createAt": "2026-11-24T17:04:00.000Z",
     "thumbnail_blurhash": "LNL|_t~p~Vt7.8xawukW-pM_R*bb"
+  },
+  {
+    "id": "https://vnexpress.net/5-thuc-pham-giup-xuong-khop-khoe-khi-co-tuoi-5148088.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "5 thực phẩm giúp xương khớp khỏe khi có tuổi",
+    "description": "Cá béo, rau xanh, trái cây và các loại hạt cung cấp dưỡng chất hỗ trợ xương khớp, góp phần duy trì khả năng vận động khi lớn tuổi.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/23/nuoc-ham-xuong-1-1795420122.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=S0gDJJT_ANnSY0xR_C5-tw",
+    "link": "https://vnexpress.net/5-thuc-pham-giup-xuong-khop-khoe-khi-co-tuoi-5148088.html",
+    "published_at": "Wed, 25 Nov 2026 01:00:00 +0700",
+    "createAt": "2026-11-24T18:00:00.000Z",
+    "thumbnail_blurhash": "L4DI:n=Z004:-pMw-:9Z014.~Wxu"
+  },
+  {
+    "id": "https://vnexpress.net/bac-si-chi-ra-6-nhom-roi-loan-giac-ngu-thuong-gap-5147850.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Bác sĩ chỉ ra 6 nhóm rối loạn giấc ngủ thường gặp",
+    "description": "Ngáy to hay những cơn buồn ngủ không kiểm soát ban ngày có thể là dấu hiệu rối loạn giấc ngủ.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/23/anh-chup-man-hinh-l-1795400989-7976-1795401003.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=CV8eCL_Y4E202DjK61ZI5w",
+    "link": "https://vnexpress.net/bac-si-chi-ra-6-nhom-roi-loan-giac-ngu-thuong-gap-5147850.html",
+    "published_at": "Wed, 25 Nov 2026 02:00:00 +0700",
+    "createAt": "2026-11-24T19:00:00.000Z",
+    "thumbnail_blurhash": "LC7_c{8^%gIA-nDi%%I9yEMw%NIT"
   }
 ]
