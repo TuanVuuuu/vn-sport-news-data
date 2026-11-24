@@ -1,5 +1,5 @@
 {
-  "total_articles": 5364,
+  "total_articles": 5365,
   "files": [
     "chunk_1.json",
     "chunk_2.json",
@@ -63,7 +63,7 @@
     "copyright": "Thể thao 247",
     "logo_url": "https://thethao247.vn/frontend/images/logo.png",
     "link": "https://thethao247.vn",
-    "last_updated": "Tue, 24 Nov 2026 17:10:55 +0700"
+    "last_updated": "Tue, 24 Nov 2026 17:20:56 +0700"
   },
-  "last_updated": "2026-11-24T10:10:55.325Z"
+  "last_updated": "2026-11-24T10:20:58.032Z"
 }
