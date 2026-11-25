@@ -1,3 +1,69 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/nguoi-phu-nu-lua-ban-hon-5-ty-dong-tien-dao-han-ngan-hang-5148792.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Người phụ nữ lừa bạn hơn 5 tỷ đồng tiền đáo hạn ngân hàng",
+      "description": "Lê Thị Thu Huyền, 39 tuổi, bị cáo buộc nhiều lần vay tiền bạn với lý do đáo hạn ngân hàng, sau đó chiếm đoạt hơn 5,2 tỷ đồng để trả nợ cá nhân.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/25/1795579935633-1795595936-7886-1795596021.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=hZklrlvQnXBd-9UkwxFkrg",
+      "link": "https://vnexpress.net/nguoi-phu-nu-lua-ban-hon-5-ty-dong-tien-dao-han-ngan-hang-5148792.html",
+      "published_at": "Wed, 25 Nov 2026 15:40:21 +0700",
+      "createAt": "2026-11-25T08:40:21.000Z",
+      "thumbnail_blurhash": "LPFi0*D,M{~q~WD*ROR+-pXSxaR%"
+    },
+    {
+      "id": "https://vnexpress.net/vingroup-dam-phan-tim-quy-dat-tai-an-do-5148765.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Vingroup đàm phán tìm quỹ đất tại Ấn Độ",
+      "description": "Vingroup đang đàm phán tìm quỹ đất tại nhiều bang của Ấn Độ để phát triển dự án nhà ở, khách sạn, theo Tổng giám đốc VinFast châu Á Tapan Ghosh.",
+      "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/25/529239614-n-1795593321-7378-1795593337.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=H5DBhyOe0ugWru2Qi5OxGA",
+      "link": "https://vnexpress.net/vingroup-dam-phan-tim-quy-dat-tai-an-do-5148765.html",
+      "published_at": "Wed, 25 Nov 2026 17:45:00 +0700",
+      "createAt": "2026-11-25T10:45:00.000Z",
+      "thumbnail_blurhash": "L$E|x+RoozWCFkj^axj]M#adockC"
+    },
+    {
+      "id": "https://vnexpress.net/acv-de-xuat-lui-thoi-han-hoan-thanh-san-bay-long-thanh-den-2027-2028-5148861.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "ACV đề xuất lùi thời hạn hoàn thành sân bay Long Thành đến 2027-2028",
+      "description": "Không thể hoàn thành các công trình thiết yếu trong năm 2026, Tổng công ty Cảng hàng không Việt Nam đề xuất kéo dài thời gian thực hiện giai đoạn một sân bay Long Thành đến năm 2027-2028.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/25/dji-d-1795603622-6464-1795604056.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=gYyy-dsU4iMlmnkubjTrkg",
+      "link": "https://vnexpress.net/acv-de-xuat-lui-thoi-han-hoan-thanh-san-bay-long-thanh-den-2027-2028-5148861.html",
+      "published_at": "Wed, 25 Nov 2026 18:01:41 +0700",
+      "createAt": "2026-11-25T11:01:41.000Z",
+      "thumbnail_blurhash": "LBIzn=%1,.$M3ZWYbIX902W=ElkW"
+    },
+    {
+      "id": "https://vnexpress.net/ong-trump-sap-ap-them-thue-len-16-nen-kinh-te-5148867.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Ông Trump sắp áp thêm thuế lên 16 nền kinh tế",
+      "description": "Chính quyền ông Trump dự kiến sớm công bố kế hoạch tăng thuế nhập khẩu hàng hóa từ 16 nền kinh tế vì trợ cấp sản xuất, theo AP.",
+      "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/25/trump-1795605651-5190-1795606103.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=D7rVQh49e9SynfLLdJW3BA",
+      "link": "https://vnexpress.net/ong-trump-sap-ap-them-thue-len-16-nen-kinh-te-5148867.html",
+      "published_at": "Wed, 25 Nov 2026 18:38:46 +0700",
+      "createAt": "2026-11-25T11:38:46.000Z",
+      "thumbnail_blurhash": "LDD9eg}@]g$e_Nw]d=aIu3NZMxW9"
+    },
+    {
+      "id": "https://vnexpress.net/my-tam-bien-hoa-voi-18-bo-do-trong-see-the-light-2-5148402.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Mỹ Tâm biến hóa với 18 bộ đồ trong 'See The Light 2'",
+      "description": "Mỹ Tâm thay 18 bộ trang phục, biến hóa từ phong cách Y2K đến cổ điển xuyên suốt 40 tiết mục trong liveshow \"See The Light 2\".",
+      "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/11/24/924149901-n-1795515276.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=wTyqwA9xo4WbgLAqDKX4SQ",
+      "link": "https://vnexpress.net/my-tam-bien-hoa-voi-18-bo-do-trong-see-the-light-2-5148402.html",
+      "published_at": "Wed, 25 Nov 2026 18:47:43 +0700",
+      "createAt": "2026-11-25T11:47:43.000Z",
+      "thumbnail_blurhash": "L9FYAd^-00I901pK%EtQESROi[D#"
+    }
+  ]
 }
