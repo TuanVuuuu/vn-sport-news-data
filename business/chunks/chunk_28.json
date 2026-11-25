@@ -830,5 +830,44 @@
     "published_at": "Wed, 25 Nov 2026 01:03:08 +0700",
     "createAt": "2026-11-24T18:03:08.000Z",
     "thumbnail_blurhash": "LZH2G}Mx9u%2_4V?Rit79uxurqX9"
+  },
+  {
+    "id": "https://vnexpress.net/jensen-huang-nvidia-khong-can-ke-hoach-ke-nhiem-5148520.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Jensen Huang: Nvidia không cần kế hoạch kế nhiệm",
+    "description": "Trong cuộc họp đầu tiên với nhân viên từ khi được tái bổ nhiệm, Jensen Huang nói đang phải trị liệu tâm lý nhưng khẳng định Nvidia đã được xây dựng để không cần lập kế hoạch kế nhiệm.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/25/afp-c9q39qc-v1-highres-1795558-2808-2829-1795558472.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=MQIPUeaa-m6wWgxsQxd7lA",
+    "link": "https://vnexpress.net/jensen-huang-nvidia-khong-can-ke-hoach-ke-nhiem-5148520.html",
+    "published_at": "Wed, 25 Nov 2026 05:22:32 +0700",
+    "createAt": "2026-11-24T22:22:32.000Z",
+    "thumbnail_blurhash": "L78g1[%1010f}?$%5R5RShW;xGWB"
+  },
+  {
+    "id": "https://vnexpress.net/nhung-nguoi-tho-dao-ham-sau-500-m-xay-pin-dien-khong-lo-5148334.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Những người thợ đào hầm sâu 500 m xây 'pin điện' khổng lồ",
+    "description": "Bảy mũi thi công đang đào hầm xuyên núi ở Khánh Hòa để xây thủy điện tích năng Bác Ái, nhà máy đầu tiên của Việt Nam có thể dùng nước để trữ điện cho giờ cao điểm.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/24/duonghamthicongngapanhden17952-2430-9083-1795491977.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=P-zIfpXqWJwZMX8Lk5-eSQ",
+    "link": "https://vnexpress.net/nhung-nguoi-tho-dao-ham-sau-500-m-xay-pin-dien-khong-lo-5148334.html",
+    "published_at": "Wed, 25 Nov 2026 06:26:00 +0700",
+    "createAt": "2026-11-24T23:26:00.000Z",
+    "thumbnail_blurhash": "L6B{}p.TIw=:03xBtSI@8wMv%g%M"
+  },
+  {
+    "id": "https://vnexpress.net/gia-vang-the-gioi-quay-dau-giam-manh-5148528.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Giá vàng thế giới quay đầu giảm mạnh",
+    "description": "Sau phiên tăng vọt, giá vàng giảm gần 80 USD một ounce vì chứng khoán Mỹ đi xuống và sức ép từ lãi suất cao.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/25/gold3-1795562320-2210-1795562518.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=inOPNoPXQ7X_kGyKOWWARg",
+    "link": "https://vnexpress.net/gia-vang-the-gioi-quay-dau-giam-manh-5148528.html",
+    "published_at": "Wed, 25 Nov 2026 06:38:39 +0700",
+    "createAt": "2026-11-24T23:38:39.000Z",
+    "thumbnail_blurhash": "LAC~bUxW05IXcbs.nMbZE.n*=:ow"
   }
 ]
