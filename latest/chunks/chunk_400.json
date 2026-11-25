@@ -1259,5 +1259,44 @@
     "published_at": "Wed, 25 Nov 2026 07:01:09 +0700",
     "createAt": "2026-11-25T00:01:09.000Z",
     "thumbnail_blurhash": "LbCP6:xxEos=xzoPIxNMxeR:NMe?"
+  },
+  {
+    "id": "https://vnexpress.net/truy-tim-trong-dong-co-sau-32-nam-mat-dau-5148197.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Truy tìm trống đồng cổ sau 32 năm mất dấu",
+    "description": "Trống đồng cổ do ba đứa trẻ phát hiện năm 1994 ở Nho Quan đang được lưu giữ tại bảo tàng tỉnh, song quyền lợi người tìm thấy cổ vật chưa được giải quyết.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/23/trong-dong-1795432852-3511-1795433188.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=uaqX-PeYxnQgurc1uP2Ajg",
+    "link": "https://vnexpress.net/truy-tim-trong-dong-co-sau-32-nam-mat-dau-5148197.html",
+    "published_at": "Wed, 25 Nov 2026 04:00:00 +0700",
+    "createAt": "2026-11-24T21:00:00.000Z",
+    "thumbnail_blurhash": "LCD+;.R*8{r?.laKNGW.?It7MxWB"
+  },
+  {
+    "id": "https://vnexpress.net/lanh-dao-phe-dan-chu-cao-buoc-jensen-huang-ban-chip-toi-tan-cho-trung-quoc-5148530.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Lãnh đạo phe Dân chủ cáo buộc Jensen Huang bán chip tối tân cho Trung Quốc",
+    "description": "Lãnh đạo phe Dân chủ tại Thượng viện Mỹ cáo buộc Jensen Huang vi phạm luật kiểm soát xuất khẩu khi \"chuyển chip cực kỳ tiên tiến sang Trung Quốc\".",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/25/afp-v1-highres-democratsflipho-4775-9643-1795564960.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=W8nGs8anJs3qW_7TjSrtZg",
+    "link": "https://vnexpress.net/lanh-dao-phe-dan-chu-cao-buoc-jensen-huang-ban-chip-toi-tan-cho-trung-quoc-5148530.html",
+    "published_at": "Wed, 25 Nov 2026 07:29:11 +0700",
+    "createAt": "2026-11-25T00:29:11.000Z",
+    "thumbnail_blurhash": "L6G@igOSMj-s}+,p%NKS0yW?000J"
+  },
+  {
+    "id": "https://vnexpress.net/lai-suat-huy-dong-giam-lai-vay-bat-dong-san-van-neo-cao-5147943.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Lãi suất huy động giảm, lãi vay bất động sản vẫn neo cao",
+    "description": "Lãi suất huy động tại nhiều ngân hàng đã hạ nhiệt song lãi vay bất động sản kỳ hạn 12 tháng vẫn duy trì ở mức cao, phổ biến 9-12% một năm.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/23/1596361c865e18d86db3dab23bac48-8169-1398-1795410298.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=UpaFN1eKukvk8c_qgr4QRw",
+    "link": "https://vnexpress.net/lai-suat-huy-dong-giam-lai-vay-bat-dong-san-van-neo-cao-5147943.html",
+    "published_at": "Wed, 25 Nov 2026 07:30:00 +0700",
+    "createAt": "2026-11-25T00:30:00.000Z",
+    "thumbnail_blurhash": "LMDT3E^jaLobt:S5WXWYR:s:s:j]"
   }
 ]
