@@ -1207,5 +1207,57 @@
     "published_at": "Wed, 25 Nov 2026 10:44:59 +0700",
     "createAt": "2026-11-25T03:44:59.000Z",
     "thumbnail_blurhash": "LQK1n3t6%fZ~~qWAIUWBENays9of"
+  },
+  {
+    "id": "https://vnexpress.net/nato-lo-nga-sap-phong-ve-tinh-mang-dau-dan-hat-nhan-5148446.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "NATO lo Nga sắp phóng 'vệ tinh mang đầu đạn hạt nhân'",
+    "description": "Các cơ quan tình báo NATO kết luận rằng Nga có kế hoạch phóng vệ tinh Sputnik-S mang đầu đạn hạt nhân trong vòng 60 ngày, theo truyền thông Đức.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/24/soyuz21b1-1795522724-8879-1795522970.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=k_L9UQLDBFX-Hl4WfUFQVw",
+    "link": "https://vnexpress.net/nato-lo-nga-sap-phong-ve-tinh-mang-dau-dan-hat-nhan-5148446.html",
+    "published_at": "Tue, 24 Nov 2026 21:07:02 +0700",
+    "createAt": "2026-11-24T14:07:02.000Z",
+    "thumbnail_blurhash": "LBEBZ|}?00E201EM^+-oIVs:^*R*"
+  },
+  {
+    "id": "https://vnexpress.net/toa-nha-cao-nhat-thu-do-cua-arab-saudi-trung-uav-11-nguoi-bi-thuong-5148553.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Tòa nhà cao nhất thủ đô của Arab Saudi trúng UAV, 11 người bị thương",
+    "description": "Tháp PIF cao 385 m ở thành phố Riyadh bị UAV tập kích lần thứ hai trong gần một tuần, được cho là do nhóm vũ trang Houthi thực hiện.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/25/PIF-1795571466-1364-1795572088.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=E6nChcVStNA81mMKqhJ5_g",
+    "link": "https://vnexpress.net/toa-nha-cao-nhat-thu-do-cua-arab-saudi-trung-uav-11-nguoi-bi-thuong-5148553.html",
+    "published_at": "Wed, 25 Nov 2026 09:30:37 +0700",
+    "createAt": "2026-11-25T02:30:37.000Z",
+    "thumbnail_blurhash": "LgBhA|R4tpp1yFa#bdogV@kCWAjE"
+  },
+  {
+    "id": "https://vnexpress.net/venezuela-cong-bo-nui-no-cao-gap-doi-gdp-5148614.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Venezuela công bố 'núi nợ' cao gấp đôi GDP",
+    "description": "Venezuela công bố tổng nợ của chính phủ, các cơ quan, tổ chức công và doanh nghiệp nhà nước lên tới 237,5 tỷ USD, cao gấp đôi GDP nước này.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/25/afp-d82n8cw-v1-highres-venezue-8720-9009-1795580081.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=nRas4gEnCKegoyjUq8Hqww",
+    "link": "https://vnexpress.net/venezuela-cong-bo-nui-no-cao-gap-doi-gdp-5148614.html",
+    "published_at": "Wed, 25 Nov 2026 11:54:10 +0700",
+    "createAt": "2026-11-25T04:54:10.000Z",
+    "thumbnail_blurhash": "LC9j14yD=|S7?D=?jXRj~8%JxZa#"
+  },
+  {
+    "id": "https://vnexpress.net/dang-cong-hoa-thua-dau-chua-tung-thay-o-bac-carolina-5148568.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Đảng Cộng hòa 'thua đau chưa từng thấy' ở Bắc Carolina",
+    "description": "Từng ngả về phe Cộng hòa suốt nhiều thập kỷ, Bắc Carolina lại là nơi đảng này bị lật nhiều ghế nghị sĩ nhất trong bầu cử giữa kỳ.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/25/5398-1795576395-2563-1795577838.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=DB_EkK7L49KBNTJVyE6DSQ",
+    "link": "https://vnexpress.net/dang-cong-hoa-thua-dau-chua-tung-thay-o-bac-carolina-5148568.html",
+    "published_at": "Wed, 25 Nov 2026 11:58:06 +0700",
+    "createAt": "2026-11-25T04:58:06.000Z",
+    "thumbnail_blurhash": "LWD9O^^%t1-n~U%LR%xs%KaxM|of"
   }
 ]
