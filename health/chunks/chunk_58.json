@@ -1220,5 +1220,44 @@
     "published_at": "Wed, 25 Nov 2026 09:27:22 +0700",
     "createAt": "2026-11-25T02:27:22.000Z",
     "thumbnail_blurhash": "L17KSNRi5P?v04]~9u0N0LIU-pRn"
+  },
+  {
+    "id": "https://vnexpress.net/dau-hieu-canh-bao-dich-tich-tu-duoi-vong-mac-5148603.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Dấu hiệu cảnh báo dịch tích tụ dưới võng mạc",
+    "description": "Hắc võng mạc trung tâm thanh dịch khiến dịch tích tụ dưới võng mạc, gây nhìn mờ, méo hình, đường thẳng biến dạng hoặc xuất hiện điểm tối giữa tầm nhìn.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/25/vne-1795575561-1184-1795575811.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=pkXjhe-oqseHANv_HCwDaA",
+    "link": "https://vnexpress.net/dau-hieu-canh-bao-dich-tich-tu-duoi-vong-mac-5148603.html",
+    "published_at": "Wed, 25 Nov 2026 10:00:00 +0700",
+    "createAt": "2026-11-25T03:00:00.000Z",
+    "thumbnail_blurhash": "LOHU%;EL?c~q_3.9xu-;%ffAWAjY"
+  },
+  {
+    "id": "https://vnexpress.net/roi-loan-nhip-tim-co-di-truyen-5148582.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Rối loạn nhịp tim có di truyền?",
+    "description": "Rối loạn nhịp tim có thể liên quan đến yếu tố di truyền, nhất là ở người có cha mẹ hoặc anh chị em ruột mắc bệnh, tuy nhiên không phải mọi trường hợp đều do gene.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/25/image001-1795573690-5805-1795574906.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=mEjap_accDxC8bNFVjMMPw",
+    "link": "https://vnexpress.net/roi-loan-nhip-tim-co-di-truyen-5148582.html",
+    "published_at": "Wed, 25 Nov 2026 10:00:00 +0700",
+    "createAt": "2026-11-25T03:00:00.000Z",
+    "thumbnail_blurhash": "LFLqIJ~EI=.TD+.RH@rW-3$I8{I:"
+  },
+  {
+    "id": "https://vnexpress.net/hat-dau-mac-trong-phe-quan-nguoi-phu-nu-5148610.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Hạt đậu mắc trong phế quản người phụ nữ",
+    "description": "Bà Minh, 64 tuổi, đột ngột khó thở, tím tái, bác sĩ nội soi phát hiện hạt đậu mắc trong phế quản.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/25/image001-1795576929-1870-1795577346.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=LVcjw_u5vC9wY4bwULYDYQ",
+    "link": "https://vnexpress.net/hat-dau-mac-trong-phe-quan-nguoi-phu-nu-5148610.html",
+    "published_at": "Wed, 25 Nov 2026 11:00:00 +0700",
+    "createAt": "2026-11-25T04:00:00.000Z",
+    "thumbnail_blurhash": "LPN^JE?w$^?F%JxZ-;kDISs.%MNL"
   }
 ]
