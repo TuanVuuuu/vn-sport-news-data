@@ -934,5 +934,31 @@
     "published_at": "Wed, 25 Nov 2026 04:00:00 +0700",
     "createAt": "2026-11-24T21:00:00.000Z",
     "thumbnail_blurhash": "LCD+;.R*8{r?.laKNGW.?It7MxWB"
+  },
+  {
+    "id": "https://vnexpress.net/de-xuat-nghien-cuu-duong-day-sieu-cao-ap-hon-1-000-km-keo-dien-ra-bac-5148461.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Đề xuất nghiên cứu đường dây siêu cao áp hơn 1.000 km kéo điện ra Bắc",
+    "description": "Bộ Công Thương đề xuất sớm nghiên cứu tuyến truyền tải điện một chiều ±800 kV từ duyên hải Nam Trung Bộ đến Đồng bằng sông Hồng, với vốn đầu tư sơ bộ gần 3,5 tỷ USD.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/24/khoanhkhacantuong268248-179552-1973-5391-1795531328.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ZO5UvcOWwbkZbdmKmy16sg",
+    "link": "https://vnexpress.net/de-xuat-nghien-cuu-duong-day-sieu-cao-ap-hon-1-000-km-keo-dien-ra-bac-5148461.html",
+    "published_at": "Wed, 25 Nov 2026 00:03:00 +0700",
+    "createAt": "2026-11-24T17:03:00.000Z",
+    "thumbnail_blurhash": "LLLXPnD4oh_3?HkWM{Rj_NbHkWbc"
+  },
+  {
+    "id": "https://vnexpress.net/nhung-nguoi-tho-dao-ham-sau-500-m-xay-pin-dien-khong-lo-5148334.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Những người thợ đào hầm sâu 500 m xây 'pin điện' khổng lồ",
+    "description": "Bảy mũi thi công đang đào hầm xuyên núi ở Khánh Hòa để xây thủy điện tích năng Bác Ái, nhà máy đầu tiên của Việt Nam có thể dùng nước để trữ điện cho giờ cao điểm.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/24/duonghamthicongngapanhden17952-2430-9083-1795491977.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=P-zIfpXqWJwZMX8Lk5-eSQ",
+    "link": "https://vnexpress.net/nhung-nguoi-tho-dao-ham-sau-500-m-xay-pin-dien-khong-lo-5148334.html",
+    "published_at": "Wed, 25 Nov 2026 06:26:00 +0700",
+    "createAt": "2026-11-24T23:26:00.000Z",
+    "thumbnail_blurhash": "L6B{}p.TIw=:03xBtSI@8wMv%g%M"
   }
 ]
