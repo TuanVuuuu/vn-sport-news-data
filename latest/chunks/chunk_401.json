@@ -999,5 +999,44 @@
     "published_at": "Wed, 25 Nov 2026 12:00:00 +0700",
     "createAt": "2026-11-25T05:00:00.000Z",
     "thumbnail_blurhash": "LOHMpPWG9H%d$tR.-+RP~PbHIuV_"
+  },
+  {
+    "id": "https://vnexpress.net/noi-buon-tren-xe-tang-bao-vat-quoc-gia-5148559.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Nỗi buồn trên xe tăng 'Bảo vật Quốc gia'",
+    "description": "Khi một đứa trẻ đã đứng trên xe, phụ huynh thứ hai thấy chuyện đó bình thường, đến người thứ mười thì nó gần như thành 'luật ngầm'.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/25/thamquandinhdoclap-1795572347-8313-1795572375.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=qnS5qT0pr0z5L2pO_Do50A",
+    "link": "https://vnexpress.net/noi-buon-tren-xe-tang-bao-vat-quoc-gia-5148559.html",
+    "published_at": "Wed, 25 Nov 2026 09:29:59 +0700",
+    "createAt": "2026-11-25T02:29:59.000Z",
+    "thumbnail_blurhash": "L5F5]W4?5tKQTi008x-.Y#OEIJ?Z"
+  },
+  {
+    "id": "https://vnexpress.net/chuyen-gia-ban-co-hoi-hut-dong-von-toan-cau-tai-hdbank-global-capital-summit-2026-5148466.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "SSI nêu 4 động lực dẫn dắt thị trường chứng khoán Việt Nam 2027",
+    "description": "Dòng vốn từ các quỹ theo chỉ số FTSE gia tăng, triển vọng nâng hạng theo MSCI, đầu tư vào AI có thể hạ nhiệt, lãi suất tiền gửi, là những yếu tố có thể tác động thị trường 2027, theo Giám đốc SSI.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/25/00206d18c5125944f28ea768f0313b-4024-1417-1795580753.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=moppHH3-qcPSIBVv23cbvA",
+    "link": "https://vnexpress.net/chuyen-gia-ban-co-hoi-hut-dong-von-toan-cau-tai-hdbank-global-capital-summit-2026-5148466.html",
+    "published_at": "Wed, 25 Nov 2026 09:30:00 +0700",
+    "createAt": "2026-11-25T02:30:00.000Z",
+    "thumbnail_blurhash": "L$L4jF-qxY?b~XbcV@ozxtRlWANH"
+  },
+  {
+    "id": "https://vnexpress.net/toa-nha-cao-nhat-thu-do-cua-arab-saudi-trung-uav-11-nguoi-bi-thuong-5148553.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Tòa nhà cao nhất thủ đô của Arab Saudi trúng UAV, 11 người bị thương",
+    "description": "Tháp PIF cao 385 m ở thành phố Riyadh bị UAV tập kích lần thứ hai trong gần một tuần, được cho là do nhóm vũ trang Houthi thực hiện.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/25/PIF-1795571466-1364-1795572088.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=E6nChcVStNA81mMKqhJ5_g",
+    "link": "https://vnexpress.net/toa-nha-cao-nhat-thu-do-cua-arab-saudi-trung-uav-11-nguoi-bi-thuong-5148553.html",
+    "published_at": "Wed, 25 Nov 2026 09:30:37 +0700",
+    "createAt": "2026-11-25T02:30:37.000Z",
+    "thumbnail_blurhash": "LgBhA|R4tpp1yFa#bdogV@kCWAjE"
   }
 ]
