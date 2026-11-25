@@ -1246,5 +1246,57 @@
     "published_at": "Wed, 25 Nov 2026 13:13:00 +0700",
     "createAt": "2026-11-25T06:13:00.000Z",
     "thumbnail_blurhash": "L6FP7~~X9cxa#R?YNFxu-q?b.7D%"
+  },
+  {
+    "id": "https://vnexpress.net/pnj-ha-gia-vang-nhan-tron-xuong-thap-hon-nhieu-thuong-hieu-lon-5148658.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "PNJ hạ giá vàng nhẫn trơn xuống thấp hơn nhiều thương hiệu lớn",
+    "description": "Từ chỗ thường bán vàng nhẫn đắt hơn SJC, gần đây PNJ giảm giá xuống thấp hơn vài triệu một lượng so với các thương hiệu lớn khác.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/25/wm1-wm1-dsc06384-1795581181-6287-1795581307.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=taDDKBaFwDKg_iWAXdngyQ",
+    "link": "https://vnexpress.net/pnj-ha-gia-vang-nhan-tron-xuong-thap-hon-nhieu-thuong-hieu-lon-5148658.html",
+    "published_at": "Wed, 25 Nov 2026 11:51:18 +0700",
+    "createAt": "2026-11-25T04:51:18.000Z",
+    "thumbnail_blurhash": "L8Nm4P=wEn~U=l4;9FR*9~IoT1IV"
+  },
+  {
+    "id": "https://vnexpress.net/chuyen-gia-vuc-day-muc-sinh-o-viet-nam-phai-bat-dau-tu-nha-o-5148694.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Chuyên gia: Vực dậy mức sinh ở Việt Nam phải bắt đầu từ nhà ở",
+    "description": "Khi mức sinh giảm sâu dưới ngưỡng thay thế, chuyên gia nhận định tiền hỗ trợ chỉ mang tính tượng trưng, nút thắt lớn nhất khiến người trẻ ngại sinh con nằm ở áp lực an cư và giá nhà leo thang.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/25/vienphusan-1795587518-1866-1795587557.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=vrRqyRPY_yyjRTTkM9kd2A",
+    "link": "https://vnexpress.net/chuyen-gia-vuc-day-muc-sinh-o-viet-nam-phai-bat-dau-tu-nha-o-5148694.html",
+    "published_at": "Wed, 25 Nov 2026 14:02:12 +0700",
+    "createAt": "2026-11-25T07:02:12.000Z",
+    "thumbnail_blurhash": "L6Eye-4T==Sv*6?us8i]4T4:yExu"
+  },
+  {
+    "id": "https://vnexpress.net/oanh-tac-co-nga-ap-sat-vung-troi-han-quoc-tiem-kich-cat-canh-khan-5148669.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Oanh tạc cơ Nga áp sát vùng trời Hàn Quốc, tiêm kích cất cánh khẩn",
+    "description": "Tiêm kích F-15K cất cánh theo dõi biên đội Tu-160 Nga, sau khi các máy bay tiến vào vùng nhận dạng phòng không và áp sát không phận Hàn Quốc.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/25/5563187178137269329a-179559107-1208-6590-1795591082.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Ij4iT-N1I-PgzAxjGqOJtw",
+    "link": "https://vnexpress.net/oanh-tac-co-nga-ap-sat-vung-troi-han-quoc-tiem-kich-cat-canh-khan-5148669.html",
+    "published_at": "Wed, 25 Nov 2026 14:02:55 +0700",
+    "createAt": "2026-11-25T07:02:55.000Z",
+    "thumbnail_blurhash": "LIHxjB~A-T%M?vxZWqSOTKt6NHWB"
+  },
+  {
+    "id": "https://vnexpress.net/trung-quoc-dieu-tra-bi-thu-thuong-hai-5148567.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Trung Quốc điều tra Bí thư Thượng Hải",
+    "description": "Ông Trần Cát Ninh, Bí thư Thành ủy Thượng Hải, ủy viên Bộ Chính trị Trung Quốc, bị điều tra vì nghi ngờ \"vi phạm nghiêm trọng kỷ luật và pháp luật\".",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/25/u3bedoy5qvkg3nhkmy2w7rbdzi-179-3618-1541-1795581252.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=wMT8dAn1B56zm0igf7Cn4Q",
+    "link": "https://vnexpress.net/trung-quoc-dieu-tra-bi-thu-thuong-hai-5148567.html",
+    "published_at": "Wed, 25 Nov 2026 14:12:27 +0700",
+    "createAt": "2026-11-25T07:12:27.000Z",
+    "thumbnail_blurhash": "LNK1I3-V_4%M~BsCjEW-55juW9Io"
   }
 ]
