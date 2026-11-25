@@ -414,5 +414,31 @@
     "published_at": "Thu, 26 Nov 2026 00:16:18 +0700",
     "createAt": "2026-11-25T17:16:18.000Z",
     "thumbnail_blurhash": "LdD]xcj]j[kC_NRkofof?bWVj?j["
+  },
+  {
+    "id": "https://vnexpress.net/nuoc-chay-xiet-cuon-troi-nguoi-va-xe-o-lam-dong-5148938.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Nước chảy xiết cuốn trôi người và xe ở Lâm Đồng",
+    "description": "Mưa lớn hơn một giờ khiến nước đổ dồn xuống đường Lê Văn Tám, phường 2 Bảo Lộc, cuốn trôi xe máy và người đi đường, chiều 25/11.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/26/Lark20261126005345-1795629239-8260-1795629262.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=m3xjfLip9snaL0l3NgZFVw&t=image",
+    "link": "https://vnexpress.net/nuoc-chay-xiet-cuon-troi-nguoi-va-xe-o-lam-dong-5148938.html",
+    "published_at": "Thu, 26 Nov 2026 01:00:00 +0700",
+    "createAt": "2026-11-25T18:00:00.000Z",
+    "thumbnail_blurhash": "LAJ7wANf02yE2|~B=t?G0M9~xaxa"
+  },
+  {
+    "id": "https://vnexpress.net/loi-ich-khi-di-bo-lui-10-phut-moi-ngay-5146711.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Lợi ích khi đi bộ lùi 10 phút mỗi ngày",
+    "description": "Đi bộ lùi 10 phút mỗi ngày có thể giúp tăng cường sức mạnh cơ chân, cải thiện thăng bằng, hỗ trợ giảm áp lực lên khớp gối.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/19/di-bo-ly-nguye-n-1795082332-6200-1795082665.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=eVM2Wsy1s3hyXatKHXjBtg",
+    "link": "https://vnexpress.net/loi-ich-khi-di-bo-lui-10-phut-moi-ngay-5146711.html",
+    "published_at": "Thu, 26 Nov 2026 01:00:00 +0700",
+    "createAt": "2026-11-25T18:00:00.000Z",
+    "thumbnail_blurhash": "LREpf|-;S$tS_Nx[tRozoctRxuof"
   }
 ]
