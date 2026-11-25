@@ -1259,5 +1259,31 @@
     "published_at": "Wed, 25 Nov 2026 11:00:00 +0700",
     "createAt": "2026-11-25T04:00:00.000Z",
     "thumbnail_blurhash": "LPN^JE?w$^?F%JxZ-;kDISs.%MNL"
+  },
+  {
+    "id": "https://vnexpress.net/dau-nua-nguoi-ben-phai-la-dau-hieu-benh-gi-5148655.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Đau nửa người bên phải là dấu hiệu bệnh gì?",
+    "description": "Tôi không chấn thương nhưng hay đau tê nửa người bên phải, từ vai, lưng xuống chân. Đây là dấu hiệu của bệnh gì? (Thanh Sương, 54 tuổi)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/25/bs-quynh-moi-1795579940-8991-1795579971.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=WBYZnPOhFH2lksJQJOqJKQ",
+    "link": "https://vnexpress.net/dau-nua-nguoi-ben-phai-la-dau-hieu-benh-gi-5148655.html",
+    "published_at": "Wed, 25 Nov 2026 12:00:00 +0700",
+    "createAt": "2026-11-25T05:00:00.000Z",
+    "thumbnail_blurhash": "LcN,--~VS*yDxVtSs8%gD%tRj[xu"
+  },
+  {
+    "id": "https://vnexpress.net/be-hai-tuoi-tran-dich-mang-tinh-hoan-5148541.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Bé hai tuổi tràn dịch màng tinh hoàn",
+    "description": "Minh, 2 tuổi, sưng to một bên bìu nhưng không đau do tràn dịch màng tinh hoàn bẩm sinh.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/25/image001-1795566578-5283-1795566585.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=2V23m4iIO-cSj7oHEjjKFA",
+    "link": "https://vnexpress.net/be-hai-tuoi-tran-dich-mang-tinh-hoan-5148541.html",
+    "published_at": "Wed, 25 Nov 2026 12:00:00 +0700",
+    "createAt": "2026-11-25T05:00:00.000Z",
+    "thumbnail_blurhash": "LOHMpPWG9H%d$tR.-+RP~PbHIuV_"
   }
 ]
