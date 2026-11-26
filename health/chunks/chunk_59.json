@@ -700,5 +700,44 @@
     "published_at": "Thu, 26 Nov 2026 15:23:57 +0700",
     "createAt": "2026-11-26T08:23:57.000Z",
     "thumbnail_blurhash": "LPJtr68}~qt6n2Mds8WYx]t7j[ni"
+  },
+  {
+    "id": "https://vnexpress.net/xoa-bot-bang-laser-cho-tre-duoc-khong-5149211.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Xóa bớt bằng laser cho trẻ được không?",
+    "description": "Con tôi có một vết bớt bẩm sinh màu xanh ở má phải, ngày càng đậm. Hiện bé hơn 6 tháng tuổi, có thể điều trị bằng laser không và can thiệp ở độ tuổi nào? (Hương Ly, Quảng Ninh)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/26/192368eec6d-a033a87c90c253d-a-2596-8807-1795676857.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=9n9evuiVJME5rMXVlfGXMA",
+    "link": "https://vnexpress.net/xoa-bot-bang-laser-cho-tre-duoc-khong-5149211.html",
+    "published_at": "Thu, 26 Nov 2026 16:00:00 +0700",
+    "createAt": "2026-11-26T09:00:00.000Z",
+    "thumbnail_blurhash": "LGM%$bwH9G?G%gOX?wD%bb_3_3IV"
+  },
+  {
+    "id": "https://vnexpress.net/4-viec-nen-lam-sau-17h-phong-roi-loan-chuyen-hoa-5149080.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "4 việc nên làm sau 17h phòng rối loạn chuyển hóa",
+    "description": "Gác lại công việc, dành thời gian vận động nhẹ nhàng và thư giãn sau 17h góp phần duy trì sức khỏe chuyển hóa.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/26/z6353975010971fa3a2d4a085ffc84-4409-2465-1795663584.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=1kPp5zjsz2aJSA6_7TgFtw",
+    "link": "https://vnexpress.net/4-viec-nen-lam-sau-17h-phong-roi-loan-chuyen-hoa-5149080.html",
+    "published_at": "Thu, 26 Nov 2026 16:00:00 +0700",
+    "createAt": "2026-11-26T09:00:00.000Z",
+    "thumbnail_blurhash": "LTHe~zRi~D^l-h-CxtslU^-WDjM_"
+  },
+  {
+    "id": "https://vnexpress.net/kieng-sach-dau-mo-6-thang-de-thanh-loc-nguoi-dan-ong-suy-than-nang-5149225.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Kiêng sạch dầu mỡ 6 tháng để 'thanh lọc', người đàn ông suy thận nặng",
+    "description": "Nghĩ kiêng tuyệt đối dầu mỡ giúp bảo vệ cơ thể, bệnh nhân 58 tuổi tại Đài Loan chỉ ăn cơm trắng suốt 6 tháng, khiến độ lọc cầu thận tụt giảm 20 điểm kèm rối loạn mỡ máu.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/26/com-1795679683-1549-1795680461.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=btR95h0SlT8xXtz27vaCIw",
+    "link": "https://vnexpress.net/kieng-sach-dau-mo-6-thang-de-thanh-loc-nguoi-dan-ong-suy-than-nang-5149225.html",
+    "published_at": "Thu, 26 Nov 2026 16:03:36 +0700",
+    "createAt": "2026-11-26T09:03:36.000Z",
+    "thumbnail_blurhash": "LUJRdG~V-:In_3ozV]WB^-IpRjxa"
   }
 ]
