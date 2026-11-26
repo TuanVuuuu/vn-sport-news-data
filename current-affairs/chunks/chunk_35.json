@@ -518,5 +518,31 @@
     "published_at": "Fri, 27 Nov 2026 00:00:00 +0700",
     "createAt": "2026-11-26T17:00:00.000Z",
     "thumbnail_blurhash": "L5DR+yD$0O0g5@0fbwDi~B4oTe$L"
+  },
+  {
+    "id": "https://vnexpress.net/metro-tp-hcm-dong-nghit-khach-gio-cao-diem-5149216.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Metro TP HCM đông nghịt khách giờ cao điểm",
+    "description": "Sau gần hai năm vận hành, hành khách xếp hàng dài chờ lên tàu, các toa metro chật kín người vào giờ cao điểm, nhiều bãi gửi xe kín chỗ.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/26/1795686767565-1566247374512513913-1566247374512513913-d936af6d4a90bc3cead14cb5da476cd1-1795686834.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=MEYui-F3gSPL8BlraakU8g",
+    "link": "https://vnexpress.net/metro-tp-hcm-dong-nghit-khach-gio-cao-diem-5149216.html",
+    "published_at": "Fri, 27 Nov 2026 05:00:00 +0700",
+    "createAt": "2026-11-26T22:00:00.000Z",
+    "thumbnail_blurhash": "LIDcUTE0Oat5*0tRNIWAx]T1V?WU"
+  },
+  {
+    "id": "https://vnexpress.net/bi-thu-xa-livestream-ban-sau-rieng-5129301.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Bí thư xã livestream bán sầu riêng",
+    "description": "Từ những phiên livestream thu hút hàng trăm nghìn lượt xem, Bí thư Đảng ủy xã Ea Knuếc Ngô Thị Minh Trinh tìm cách đưa nông sản địa phương đến những thị trường rộng lớn hơn.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/27/z6940368744518-a34daf9c9098e91-2485-7976-1795732594.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=zeX5svL9pkwX8tes0yh8VA",
+    "link": "https://vnexpress.net/bi-thu-xa-livestream-ban-sau-rieng-5129301.html",
+    "published_at": "Fri, 27 Nov 2026 05:30:00 +0700",
+    "createAt": "2026-11-26T22:30:00.000Z",
+    "thumbnail_blurhash": "LOGuaA~9KQIvEfItn,oxMzI;V@$y"
   }
 ]
