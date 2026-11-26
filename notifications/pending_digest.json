@@ -1,6 +1,32 @@
 {
   "featured": [
     {
+      "id": "https://vnexpress.net/cach-apple-giai-bai-toan-ung-dung-cho-iphone-duo-5146198.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Cách Apple giải bài toán ứng dụng cho iPhone Duo",
+      "description": "iPhone Duo tăng nhanh ứng dụng tương thích nhờ Apple thiết kế chuẩn tỷ lệ khung hình, cung cấp bộ công cụ cho lập trình viên và siết quy định trên App Store.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/25/a1-1795597972-4560-1795598124.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=33Oxoxt_jmBPojvgopBWdg",
+      "link": "https://vnexpress.net/cach-apple-giai-bai-toan-ung-dung-cho-iphone-duo-5146198.html",
+      "published_at": "Thu, 26 Nov 2026 06:27:10 +0700",
+      "createAt": "2026-11-25T23:27:10.000Z",
+      "thumbnail_blurhash": "L6IrBI=Utn.A00QR9vJDg*,A57E3"
+    },
+    {
+      "id": "https://vnexpress.net/khach-anh-bat-ngo-vi-kham-benh-o-ha-giang-chi-mat-20-phut-5148057.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Khách Anh bất ngờ vì khám bệnh ở Hà Giang chỉ mất 20 phút",
+      "description": "Tưởng phải chờ 5-10 tiếng, du khách Anh bất ngờ khi hoàn tất khám, xử lý vết thương và nhận thuốc tại một bệnh viện ở Hà Giang trong 20 phút với chi phí khoảng 900.000 đồng.",
+      "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/11/23/179502291902226888623658845917-7772-5237-1795419787.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=Pvlx6eAJOte8Aih__kW8kg",
+      "link": "https://vnexpress.net/khach-anh-bat-ngo-vi-kham-benh-o-ha-giang-chi-mat-20-phut-5148057.html",
+      "published_at": "Thu, 26 Nov 2026 07:00:00 +0700",
+      "createAt": "2026-11-26T00:00:00.000Z",
+      "thumbnail_blurhash": "LEDcEn=pDh_NEk9aM|%MIT%MR:D%"
+    },
+    {
       "id": "https://vnexpress.net/bo-cong-thuong-viet-nam-dua-cam-ket-chua-co-tien-le-khi-dam-phan-thuong-mai-voi-my-5149271.html",
       "category_id": "featured",
       "category_name": "Tin nổi bật",
@@ -14,6 +40,19 @@
       "thumbnail_blurhash": "LuOy^q%L?vs:~BfOM{jFm,aynOay"
     },
     {
+      "id": "https://vnexpress.net/cac-ty-phu-viet-mat-gan-3-ty-usd-sau-phien-chung-khoan-giam-58-diem-5149293.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Các tỷ phú Việt mất gần 3 tỷ USD sau phiên chứng khoán giảm 58 điểm",
+      "description": "Chốt phiên giao dịch ngày 26/11, tài sản của các tỷ phú Việt Nam đã giảm 2,98 tỷ USD, trong đó riêng ông Phạm Nhật Vương mất 2,2 tỷ USD.",
+      "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/26/ty-phu-1795685545-6772-1795685553.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=vkYmNSN4YeKRg1gliKUVIw",
+      "link": "https://vnexpress.net/cac-ty-phu-viet-mat-gan-3-ty-usd-sau-phien-chung-khoan-giam-58-diem-5149293.html",
+      "published_at": "Thu, 26 Nov 2026 17:36:03 +0700",
+      "createAt": "2026-11-26T10:36:03.000Z",
+      "thumbnail_blurhash": "LHM?-x_4pw?]yCEL-WVE~WtRX8Rl"
+    },
+    {
       "id": "https://vnexpress.net/pho-tu-lenh-khong-quan-vu-tru-nga-bi-bat-5149326.html",
       "category_id": "featured",
       "category_name": "Tin nổi bật",
@@ -25,6 +64,19 @@
       "published_at": "Thu, 26 Nov 2026 17:50:18 +0700",
       "createAt": "2026-11-26T10:50:18.000Z",
       "thumbnail_blurhash": "LYIWyL=Z$PtQ}9vgR7ng?b%1M}$*"
+    },
+    {
+      "id": "https://vnexpress.net/so-phan-519-can-nha-khong-so-tai-du-an-cua-ong-le-thanh-than-sau-phien-toa-5149272.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Số phận 519 căn nhà không sổ tại dự án của ông Lê Thanh Thản, sau phiên tòa",
+      "description": "TAND Hà Nội tuyên 79 căn hộ, nhà ở được bồi thường trực tiếp gần 260 tỷ đồng, căn cao nhất tới 17,5 tỷ đồng; số còn lại được xử lý theo nghị quyết của thành phố.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/26/928731058173171728856377730789-7067-6082-1795692482.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=D-fI6OEv4D15c-XCNS-KFg",
+      "link": "https://vnexpress.net/so-phan-519-can-nha-khong-so-tai-du-an-cua-ong-le-thanh-than-sau-phien-toa-5149272.html",
+      "published_at": "Thu, 26 Nov 2026 18:59:52 +0700",
+      "createAt": "2026-11-26T11:59:52.000Z",
+      "thumbnail_blurhash": "L7EyV,_201~C~S.84;rpGI9Eq@tl"
     },
     {
       "id": "https://vnexpress.net/truc-tiep-u17-world-cup-viet-nam-mali-5149345.html",
