@@ -570,5 +570,57 @@
     "published_at": "Thu, 26 Nov 2026 13:38:18 +0700",
     "createAt": "2026-11-26T06:38:18.000Z",
     "thumbnail_blurhash": "LaH.7;WU4pxu~paeIVtRozt6adWY"
+  },
+  {
+    "id": "https://vnexpress.net/vi-sao-me-an-nhieu-thai-van-cham-tang-truong-5149099.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Vì sao mẹ ăn nhiều, thai vẫn chậm tăng trưởng?",
+    "description": "Tôi mang thai 29 tuần, ăn uống đầy đủ, bổ sung sữa đạm và các chất dinh dưỡng nhưng tại sao thai vẫn chậm tăng trưởng? (Minh, 25 tuổi)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/26/image001-1795665875-9162-1795666509.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=pNE5tPToBxBiDoPWx5qcPw",
+    "link": "https://vnexpress.net/vi-sao-me-an-nhieu-thai-van-cham-tang-truong-5149099.html",
+    "published_at": "Thu, 26 Nov 2026 14:00:00 +0700",
+    "createAt": "2026-11-26T07:00:00.000Z",
+    "thumbnail_blurhash": "LDLqkM000iRjpE4T4TMd~ot.4TMy"
+  },
+  {
+    "id": "https://vnexpress.net/4-benh-mat-co-the-tien-trien-am-tham-o-nguoi-lon-tuoi-5149030.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "4 bệnh mắt có thể tiến triển âm thầm ở người lớn tuổi",
+    "description": "Bệnh võng mạc đái tháo đường, đục thủy tinh thể, glôcôm hay thoái hóa hoàng điểm có thể âm thầm làm tổn thương thị lực ở người lớn tuổi.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/26/nhin-mo1-1795660651-1318-1795660690.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=QeVHhEcyln9I8-oPHM5_QA",
+    "link": "https://vnexpress.net/4-benh-mat-co-the-tien-trien-am-tham-o-nguoi-lon-tuoi-5149030.html",
+    "published_at": "Thu, 26 Nov 2026 14:00:00 +0700",
+    "createAt": "2026-11-26T07:00:00.000Z",
+    "thumbnail_blurhash": "L6HL3k0L008_?^0L574.00xu.8-P"
+  },
+  {
+    "id": "https://vnexpress.net/cac-mon-an-thuong-bi-lam-tuong-tot-cho-xuong-khop-5149004.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Các món ăn thường bị lầm tưởng tốt cho xương khớp",
+    "description": "Gân bò, chân gà, da heo, rau mồng tơi hay nước hầm xương không có tác dụng tái tạo sụn, bổ sung chất nhờn cho khớp như nhiều người vẫn nghĩ.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/26/rau-1795658600-3383-1795658798.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=fEax06Wsag_D6SytrmUr7Q",
+    "link": "https://vnexpress.net/cac-mon-an-thuong-bi-lam-tuong-tot-cho-xuong-khop-5149004.html",
+    "published_at": "Thu, 26 Nov 2026 14:00:00 +0700",
+    "createAt": "2026-11-26T07:00:00.000Z",
+    "thumbnail_blurhash": "LIG8+HS5^--:x]WBt8kC%3jYNFRk"
+  },
+  {
+    "id": "https://vnexpress.net/dieu-gi-xay-ra-voi-tui-mat-khi-ban-uong-ca-phe-5148897.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Điều gì xảy ra với túi mật khi bạn uống cà phê?",
+    "description": "Thói quen uống cà phê mỗi ngày có thể kích thích túi mật co bóp, thúc đẩy lưu thông dịch mật góp phần giảm nguy cơ kết tinh thành sỏi.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/25/462579969-n-1795612067-4430-1795612125.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=tQC3-PBNC5oOTDPDO722DA",
+    "link": "https://vnexpress.net/dieu-gi-xay-ra-voi-tui-mat-khi-ban-uong-ca-phe-5148897.html",
+    "published_at": "Thu, 26 Nov 2026 14:00:00 +0700",
+    "createAt": "2026-11-26T07:00:00.000Z",
+    "thumbnail_blurhash": "LDECq9^z%Nxw~Mx]D%D+MxRnNKv{"
   }
 ]
