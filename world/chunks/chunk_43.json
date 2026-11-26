@@ -180,5 +180,31 @@
     "published_at": "Thu, 26 Nov 2026 05:00:00 +0700",
     "createAt": "2026-11-25T22:00:00.000Z",
     "thumbnail_blurhash": "LOHeRh,?Wnkq-?jFR*WW_NOXxusA"
+  },
+  {
+    "id": "https://vnexpress.net/xe-bon-lat-thieu-rui-loat-phuong-tien-31-nguoi-chet-5148949.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Xe bồn lật thiêu rụi loạt phương tiện, 31 người chết",
+    "description": "Ít nhất 31 người thiệt mạng khi một xe bồn chở các sản phẩm dầu mỏ bị lật rồi bốc cháy dữ dội trên tuyến đường ở tỉnh Giza.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/26/OpenSourceIntelonXMOREFOOTAGEA-8219-3560-1795650120.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=o3ZJ03EO77DJEclKMN-WHg&t=image",
+    "link": "https://vnexpress.net/xe-bon-lat-thieu-rui-loat-phuong-tien-31-nguoi-chet-5148949.html",
+    "published_at": "Thu, 26 Nov 2026 06:55:27 +0700",
+    "createAt": "2026-11-25T23:55:27.000Z",
+    "thumbnail_blurhash": "L:NI4^IVNaja~VVse.a}S~nOj[of"
+  },
+  {
+    "id": "https://vnexpress.net/tinh-bao-my-noi-chua-co-bang-chung-trung-quoc-dung-sau-be-boi-tinh-ai-cua-jensen-huang-5148948.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Tình báo Mỹ nói chưa có bằng chứng Trung Quốc đứng sau bê bối tình ái của Jensen Huang",
+    "description": "WSJ dẫn lời quan chức tình báo Mỹ rằng chưa có bằng chứng Alice Huang, người được cho có quan hệ tình cảm với Jensen Huang, được Trung Quốc chỉ đạo do thám CEO Nvidia.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/26/afp-d6vf9cr-v2-highres-topshot-8787-9098-1795650990.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ZrE8vsWE-1hMbmrOQ6l6lw",
+    "link": "https://vnexpress.net/tinh-bao-my-noi-chua-co-bang-chung-trung-quoc-dung-sau-be-boi-tinh-ai-cua-jensen-huang-5148948.html",
+    "published_at": "Thu, 26 Nov 2026 07:15:27 +0700",
+    "createAt": "2026-11-26T00:15:27.000Z",
+    "thumbnail_blurhash": "LME_T%%2-SW.~9f8E2NG%1WXn%WB"
   }
 ]
