@@ -336,5 +336,31 @@
     "published_at": "Thu, 26 Nov 2026 07:00:00 +0700",
     "createAt": "2026-11-26T00:00:00.000Z",
     "thumbnail_blurhash": "LfHeLPxuS~i{yZV@ogt7TMaeWXXS"
+  },
+  {
+    "id": "https://vnexpress.net/hon-1-400-ty-dong-cai-tao-duong-bang-san-bay-da-nang-5148984.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Hơn 1.400 tỷ đồng cải tạo đường băng sân bay Đà Nẵng",
+    "description": "Đường băng phía Tây sân bay Đà Nẵng dài hơn 3 km sẽ được cải tạo, xây thêm các đường lăn với tổng vốn đầu tư 1.427 tỷ đồng, dự kiến hoàn thành năm 2028.",
+    "thumbnail_url": "https://i1-vnexpress.vnecdn.net/2026/11/26/vne9708-jpeg-jpg-1795656852-9987-1795656902.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=KUSXVsiTI5UmyP2b69mjQA",
+    "link": "https://vnexpress.net/hon-1-400-ty-dong-cai-tao-duong-bang-san-bay-da-nang-5148984.html",
+    "published_at": "Thu, 26 Nov 2026 09:07:55 +0700",
+    "createAt": "2026-11-26T02:07:55.000Z",
+    "thumbnail_blurhash": "L~K_5sayayt7~qayayof?bofj[j["
+  },
+  {
+    "id": "https://vnexpress.net/hang-khong-o-at-tang-chuyen-cuoi-nam-5149026.html",
+    "category_id": "current-affairs",
+    "category_name": "Thời sự",
+    "source": "VnExpress",
+    "title": "Hàng không ồ ạt tăng chuyến cuối năm",
+    "description": "Các hãng hàng không trong nước và quốc tế tăng 473 chuyến bay mỗi tuần so với cùng kỳ năm trước, mở rộng đường bay đến nhiều thị trường dịp cuối năm.",
+    "thumbnail_url": "https://i1-vnexpress.vnecdn.net/2026/11/26/z7699644426199-d10515cd288ab05-4084-4764-1795660034.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Hddmr5ilG0VZSkhXIBqtuA",
+    "link": "https://vnexpress.net/hang-khong-o-at-tang-chuyen-cuoi-nam-5149026.html",
+    "published_at": "Thu, 26 Nov 2026 09:49:43 +0700",
+    "createAt": "2026-11-26T02:49:43.000Z",
+    "thumbnail_blurhash": "LoIrKjxuNGof.TayaekCs7RkaejZ"
   }
 ]
