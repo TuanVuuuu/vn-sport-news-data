@@ -856,5 +856,31 @@
     "published_at": "Thu, 26 Nov 2026 16:00:00 +0700",
     "createAt": "2026-11-26T09:00:00.000Z",
     "thumbnail_blurhash": "LRIhT,_3${9FGwxaI[R+RPMxxv%M"
+  },
+  {
+    "id": "https://vnexpress.net/toyota-co-the-sap-ra-mat-highlander-erev-5148972.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Toyota có thể sắp ra mắt Highlander EREV",
+    "description": "Mẫu xe điện phạm vi mở rộng mà liên doanh GAC Toyota sẽ ra mắt vào ngày 27/11 tại triển lãm ôtô Quảng Châu được cho là Highlander.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/26/Toyota2-1795675729-7708-1795676395.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=84KhCEYt5j0MddJqxy-PuQ",
+    "link": "https://vnexpress.net/toyota-co-the-sap-ra-mat-highlander-erev-5148972.html",
+    "published_at": "Fri, 27 Nov 2026 05:00:00 +0700",
+    "createAt": "2026-11-26T22:00:00.000Z",
+    "thumbnail_blurhash": "LnLWb0RPxaxZ?HIUWBoM~Vt6Ioof"
+  },
+  {
+    "id": "https://vnexpress.net/robotaxi-bi-chan-duong-nem-trung-5149144.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Robotaxi bị chặn đường, ném trứng",
+    "description": "Một người đàn ông nhiều lần dùng cọc tiêu chặn đầu để vô hiệu hóa taxi tự lái của Waymo, ném trứng vào xe rồi bỏ đi.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/26/Waymo11-1795668584-7257-1795668595.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=W4lIlS7knep2EDlWYgZxow",
+    "link": "https://vnexpress.net/robotaxi-bi-chan-duong-nem-trung-5149144.html",
+    "published_at": "Fri, 27 Nov 2026 05:29:00 +0700",
+    "createAt": "2026-11-26T22:29:00.000Z",
+    "thumbnail_blurhash": "LHEW5rtj~U.9IoRP9FV@D#RjXAM_"
   }
 ]
