@@ -1233,5 +1233,31 @@
     "published_at": "Thu, 26 Nov 2026 07:30:00 +0700",
     "createAt": "2026-11-26T00:30:00.000Z",
     "thumbnail_blurhash": "LHJO3R%f1b}F-US~=ej]1fEjNH5,"
+  },
+  {
+    "id": "https://vnexpress.net/hanh-trinh-nang-chuan-sua-bot-tre-em-cua-vinamilk-5148842.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Hành trình nâng chuẩn sữa bột trẻ em của Vinamilk",
+    "description": "Từ khôi phục dây chuyền sản xuất Dielac đến đầu tư nhà máy nghìn tỷ đồng, Vinamilk không ngừng nâng chuẩn sữa bột, đáp ứng 400 tiêu chí an toàn quốc tế và xuất khẩu.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/25/quy-trinh-san-xuat-sua-vinamil-6803-2930-1795601293.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=A4BJREtRArgwIAtRVkv5Hw",
+    "link": "https://vnexpress.net/hanh-trinh-nang-chuan-sua-bot-tre-em-cua-vinamilk-5148842.html",
+    "published_at": "Thu, 26 Nov 2026 08:00:00 +0700",
+    "createAt": "2026-11-26T01:00:00.000Z",
+    "thumbnail_blurhash": "LVJ[eqJCS+Rn_NtTIUE1%MjExskC"
+  },
+  {
+    "id": "https://vnexpress.net/vietjet-hop-tac-phat-trien-du-lich-va-quang-ba-di-san-tai-hue-5149028.html",
+    "category_id": "business",
+    "category_name": "Kinh doanh",
+    "source": "VnExpress",
+    "title": "Vietjet hợp tác phát triển du lịch và quảng bá di sản tại Huế",
+    "description": "Vietjet và UBND TP Huế ký thỏa thuận hợp tác giai đoạn 2026-2030, hướng đến mở rộng mạng bay, thu hút du khách và quảng bá các giá trị văn hóa địa phương.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/26/viber-image-2026-11-25-12-24-5-6841-2389-1795660582.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=WGCuZZOjGWoJOr02c4bIxQ",
+    "link": "https://vnexpress.net/vietjet-hop-tac-phat-trien-du-lich-va-quang-ba-di-san-tai-hue-5149028.html",
+    "published_at": "Thu, 26 Nov 2026 09:45:00 +0700",
+    "createAt": "2026-11-26T02:45:00.000Z",
+    "thumbnail_blurhash": "LhEo+s%MIDIE9VM|tLxtXLoyNGR-"
   }
 ]
