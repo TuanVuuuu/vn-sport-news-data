@@ -1129,5 +1129,31 @@
     "published_at": "Thu, 26 Nov 2026 13:50:24 +0700",
     "createAt": "2026-11-26T06:50:24.000Z",
     "thumbnail_blurhash": "LGJ8Iv~UyDr|?sI@WAt5I8RoNf$_"
+  },
+  {
+    "id": "https://vnexpress.net/alvarez-bi-cuop-man-an-mung-vi-uefa-thong-bao-nham-5149160.html",
+    "category_id": "sports",
+    "category_name": "Thể thao",
+    "source": "VnExpress",
+    "title": "Alvarez bị 'cướp' màn ăn mừng vì UEFA thông báo nhầm",
+    "description": "Tiền đạo Julian Alvarez ghi bàn đẹp mắt giúp Atletico Madrid thắng Viking 2-0 ở Champions League, nhưng hệ thống loa sân Metropolitano lại xướng tên đồng đội Alex Baena.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/11/26/ap26329746532772-1795670148-8738-1795670168.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=pegR94gugYygLBuRRlJWLQ",
+    "link": "https://vnexpress.net/alvarez-bi-cuop-man-an-mung-vi-uefa-thong-bao-nham-5149160.html",
+    "published_at": "Thu, 26 Nov 2026 14:27:38 +0700",
+    "createAt": "2026-11-26T07:27:38.000Z",
+    "thumbnail_blurhash": "L7D0lQKPJ~00UtE1tSDPGxs*oa?u"
+  },
+  {
+    "id": "https://vnexpress.net/hlv-mali-khong-muon-nuong-chan-truoc-viet-nam-o-u17-world-cup-5149224.html",
+    "category_id": "sports",
+    "category_name": "Thể thao",
+    "source": "VnExpress",
+    "title": "HLV Mali không muốn nương chân trước Việt Nam ở U17 World Cup",
+    "description": "HLV Soumaila Coulibaly muốn cùng Mali kết thúc bảng G U17 World Cup 2026 với 3 trận toàn thắng, dù đã sớm chắc đỉnh bảng cùng suất đi tiếp.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/11/26/screenshot20261126at142057-179-1716-4808-1795677781.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=gwem85R5lBLLUhyVqE1I_A",
+    "link": "https://vnexpress.net/hlv-mali-khong-muon-nuong-chan-truoc-viet-nam-o-u17-world-cup-5149224.html",
+    "published_at": "Thu, 26 Nov 2026 14:28:27 +0700",
+    "createAt": "2026-11-26T07:28:27.000Z",
+    "thumbnail_blurhash": "LRGIcR%e_2x@~W?Hf7-pt7xuM{xu"
   }
 ]
