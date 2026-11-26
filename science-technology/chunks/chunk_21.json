@@ -232,5 +232,31 @@
     "published_at": "Thu, 26 Nov 2026 09:00:00 +0700",
     "createAt": "2026-11-26T02:00:00.000Z",
     "thumbnail_blurhash": "LfLEmU%NxbRj~SofWBs:N3M{R+t7"
+  },
+  {
+    "id": "https://vnexpress.net/khoi-cong-tuyen-cap-quang-bien-dau-tien-do-nguoi-viet-lam-chu-5149069.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Khởi công tuyến cáp quang biển đầu tiên do người Việt làm chủ",
+    "description": "Tuyến cáp quang biển VTS có trục chính kết nối Việt Nam - Singapore dài 1.200 km, dung lượng 240 Tbps, gấp 2,5 lần tổng dung lượng tất cả tuyến cáp biển quốc tế hiện hữu tại Việt Nam.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/26/dsc1793-1795662449-9399-1795662576.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Zu4FD0OEh_oMw9hLCfBqpw",
+    "link": "https://vnexpress.net/khoi-cong-tuyen-cap-quang-bien-dau-tien-do-nguoi-viet-lam-chu-5149069.html",
+    "published_at": "Thu, 26 Nov 2026 10:40:23 +0700",
+    "createAt": "2026-11-26T03:40:23.000Z",
+    "thumbnail_blurhash": "L3A0UZD40xS100^+t7W;|1xGniX8"
+  },
+  {
+    "id": "https://vnexpress.net/ben-trong-trung-tam-du-lieu-hien-dai-nhat-cua-fpt-5149085.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Bên trong trung tâm dữ liệu hiện đại nhất của FPT",
+    "description": "Trung tâm FPT Fornix HCM02 diện tích 10.000 m2, công suất 20,5 MW, chứa 3.000 tủ rack, đạt tiêu chuẩn quốc tế về an toàn, bảo mật, vận hành không gián đoạn cả khi bảo trì.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/26/88884179566427523901795665009-9454-2420-1795665802.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=I1Hoe7HDOUGy7BlJqnEbgA",
+    "link": "https://vnexpress.net/ben-trong-trung-tam-du-lieu-hien-dai-nhat-cua-fpt-5149085.html",
+    "published_at": "Thu, 26 Nov 2026 11:30:00 +0700",
+    "createAt": "2026-11-26T04:30:00.000Z",
+    "thumbnail_blurhash": "LJEf$q~qx^%1NMkBofWB00D%ROWB"
   }
 ]
