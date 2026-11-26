@@ -1,6 +1,19 @@
 {
   "featured": [
     {
+      "id": "https://vnexpress.net/tom-cruise-vao-top-10-ngoi-sao-dien-anh-vi-dai-5147113.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Tom Cruise vào top 10 'ngôi sao điện ảnh vĩ đại'",
+      "description": "Vẻ quyến rũ của Marilyn Monroe, tài năng diễn xuất của Tom Cruise góp phần định hình lịch sử điện ảnh, theo tạp chí Variety.",
+      "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/11/20/tom-cruise-top-gun-1795167514-3663-1795167761.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=4pbhMDFOBdMnZipKPBFvlQ",
+      "link": "https://vnexpress.net/tom-cruise-vao-top-10-ngoi-sao-dien-anh-vi-dai-5147113.html",
+      "published_at": "Thu, 26 Nov 2026 00:00:00 +0700",
+      "createAt": "2026-11-25T17:00:00.000Z",
+      "thumbnail_blurhash": "LLGun3}r%N-T=x^*wcElVsZ~IoIo"
+    },
+    {
       "id": "https://vnexpress.net/a-hau-khanh-nhu-hen-ho-nam-vuong-tuan-ngoc-5148932.html",
       "category_id": "featured",
       "category_name": "Tin nổi bật",
@@ -64,6 +77,32 @@
       "published_at": "Thu, 26 Nov 2026 06:00:00 +0700",
       "createAt": "2026-11-25T23:00:00.000Z",
       "thumbnail_blurhash": "LpPFABNMt6${~Tn+X7ocMyjFR*of"
+    },
+    {
+      "id": "https://vnexpress.net/vi-sao-ban-lo-30-neu-mua-vang-tu-dau-nam-5148888.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Vì sao bạn lỗ 30% nếu mua vàng từ đầu năm?",
+      "description": "Mua 100 triệu đồng vàng SJC ở vùng đỉnh tháng 1/2026, nếu bán ra lúc này, bạn chỉ thu về khoảng 67 triệu đồng, vì sao?",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/25/thumbnailngang-1795609264-9767-1795609654.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=Y1_vf8y8YIcyUF5QRB2fBQ",
+      "link": "https://vnexpress.net/vi-sao-ban-lo-30-neu-mua-vang-tu-dau-nam-5148888.html",
+      "published_at": "Thu, 26 Nov 2026 06:00:00 +0700",
+      "createAt": "2026-11-25T23:00:00.000Z",
+      "thumbnail_blurhash": "LpPFABNMt6${~Tn+X7ocMyjFR*of"
+    },
+    {
+      "id": "https://vnexpress.net/trong-tai-chung-ket-world-cup-bi-chi-trich-vi-xu-ep-man-utd-5148951.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Trọng tài chung kết World Cup bị chỉ trích vì 'xử ép' Man Utd",
+      "description": "Trọng tài Szymon Marciniak bị giới chuyên môn chê bai sau khi từ chối hai bàn của Man Utd trong trận hòa Sporting 2-2, ở lượt năm vòng phân hạng Champions League.",
+      "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/11/26/tro-ng-ta-i-marciniak-17956470-4642-5170-1795647959.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=b5OJ44WiTm4NFQ07MHmILg",
+      "link": "https://vnexpress.net/trong-tai-chung-ket-world-cup-bi-chi-trich-vi-xu-ep-man-utd-5148951.html",
+      "published_at": "Thu, 26 Nov 2026 06:10:46 +0700",
+      "createAt": "2026-11-25T23:10:46.000Z",
+      "thumbnail_blurhash": "LECrQf}K5[1*$_jWngng0xAU#+]Q"
     },
     {
       "id": "https://vnexpress.net/vi-sao-chanh-ngon-tay-co-noi-gia-2-trieu-cho-chi-vai-tram-nghin-dong-5147670.html",
