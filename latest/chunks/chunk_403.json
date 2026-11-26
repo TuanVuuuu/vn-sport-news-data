@@ -895,5 +895,57 @@
     "published_at": "Thu, 26 Nov 2026 07:00:00 +0700",
     "createAt": "2026-11-26T00:00:00.000Z",
     "thumbnail_blurhash": "LNH:LZIBIToz~kRP-:o#?7bFNMt6"
+  },
+  {
+    "id": "https://vnexpress.net/nguoi-dan-de-sen-chi-tieu-dip-cuoi-nam-5148820.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Người dân dè sẻn chi tiêu dịp cuối năm",
+    "description": "Áp lực sinh hoạt phí tăng khiến nhiều gia đình thắt chặt chi tiêu, thậm chí lên kế hoạch tiết kiệm phần lớn tiền thưởng Tết sắp tới.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/25/233a4524-1795602359-3448-1795603287.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Tfr02ca7-GvbyOevCji8ew",
+    "link": "https://vnexpress.net/nguoi-dan-de-sen-chi-tieu-dip-cuoi-nam-5148820.html",
+    "published_at": "Thu, 26 Nov 2026 05:00:00 +0700",
+    "createAt": "2026-11-25T22:00:00.000Z",
+    "thumbnail_blurhash": "LII#h}-K+*$~4lrtp9t8?vMzEgaj"
+  },
+  {
+    "id": "https://vnexpress.net/tinh-bao-my-noi-chua-co-bang-chung-trung-quoc-dung-sau-be-boi-tinh-ai-cua-jensen-huang-5148948.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Tình báo Mỹ nói chưa có bằng chứng Trung Quốc đứng sau bê bối tình ái của Jensen Huang",
+    "description": "WSJ dẫn lời quan chức tình báo Mỹ rằng chưa có bằng chứng Alice Huang, người được cho có quan hệ tình cảm với Jensen Huang, được Trung Quốc chỉ đạo do thám CEO Nvidia.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/26/afp-d6vf9cr-v2-highres-topshot-8787-9098-1795650990.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ZrE8vsWE-1hMbmrOQ6l6lw",
+    "link": "https://vnexpress.net/tinh-bao-my-noi-chua-co-bang-chung-trung-quoc-dung-sau-be-boi-tinh-ai-cua-jensen-huang-5148948.html",
+    "published_at": "Thu, 26 Nov 2026 07:15:27 +0700",
+    "createAt": "2026-11-26T00:15:27.000Z",
+    "thumbnail_blurhash": "LME_T%%2-SW.~9f8E2NG%1WXn%WB"
+  },
+  {
+    "id": "https://vnexpress.net/psg-hoa-roma-trong-cuoc-dau-tri-o-paris-5148961.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "PSG hoà Roma trong cuộc đấu trí ở Paris",
+    "description": "Lần đầu tiên trong hành trình bảo vệ ngôi vương Champions League, PSG mất điểm, khi bị AS Roma cầm hòa 2-2 ngay trên sân nhà Parc des Princes.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/11/26/c5b0b3c5632e4ec986a8be10df0f1c-9308-3192-1795651661.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=7n9218hPSdVkiBvBkp0KuQ",
+    "link": "https://vnexpress.net/psg-hoa-roma-trong-cuoc-dau-tri-o-paris-5148961.html",
+    "published_at": "Thu, 26 Nov 2026 07:28:21 +0700",
+    "createAt": "2026-11-26T00:28:21.000Z",
+    "thumbnail_blurhash": "L5CG*t~n03S000M*xps;C-9txCxt"
+  },
+  {
+    "id": "https://vnexpress.net/vi-sao-chanh-ngon-tay-co-noi-gia-2-trieu-cho-chi-vai-tram-nghin-5147670.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Vì sao chanh ngón tay có nơi giá 2 triệu, chỗ chỉ vài trăm nghìn?",
+    "description": "Theo các nhà vườn, giá bán chanh ngón tay chênh lệch hơn một triệu đồng mỗi kg do khác biệt về giống, cách phân phối và nhóm khách hàng hướng tới.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/22/chanh1-1795336083-2549-1795336247.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=W0rXqqgcnYSAXSQcMc2p6w",
+    "link": "https://vnexpress.net/vi-sao-chanh-ngon-tay-co-noi-gia-2-trieu-cho-chi-vai-tram-nghin-5147670.html",
+    "published_at": "Thu, 26 Nov 2026 07:30:00 +0700",
+    "createAt": "2026-11-26T00:30:00.000Z",
+    "thumbnail_blurhash": "LHJO3R%f1b}F-US~=ej]1fEjNH5,"
   }
 ]
