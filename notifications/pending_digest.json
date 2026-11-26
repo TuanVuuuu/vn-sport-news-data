@@ -1,6 +1,32 @@
 {
   "featured": [
     {
+      "id": "https://vnexpress.net/a-hau-khanh-nhu-hen-ho-nam-vuong-tuan-ngoc-5148932.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Á hậu Khánh Như hẹn hò nam vương Tuấn Ngọc",
+      "description": "Người đẹp Khánh Như công khai hẹn hò nam vương Tuấn Ngọc sau khi đoạt Á hậu 4 Hoa hậu Quốc tế 2026 ở Nhật Bản.",
+      "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/11/25/TunNgc-1795624006-6968-1795624553.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=1kHEQaU5HVnVHDwjIhX2Dw",
+      "link": "https://vnexpress.net/a-hau-khanh-nhu-hen-ho-nam-vuong-tuan-ngoc-5148932.html",
+      "published_at": "Thu, 26 Nov 2026 00:14:49 +0700",
+      "createAt": "2026-11-25T17:14:49.000Z",
+      "thumbnail_blurhash": "LPF%e@EMGa.8UH?btRD*tlM{nOx]"
+    },
+    {
+      "id": "https://vnexpress.net/nuoc-chay-xiet-cuon-troi-nguoi-va-xe-o-lam-dong-5148938.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Nước chảy xiết cuốn trôi người và xe ở Lâm Đồng",
+      "description": "Mưa lớn hơn một giờ khiến nước đổ dồn xuống đường Lê Văn Tám, phường 2 Bảo Lộc, cuốn trôi xe máy và người đi đường, chiều 25/11.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/26/Lark20261126005345-1795629239-8260-1795629262.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=m3xjfLip9snaL0l3NgZFVw&t=image",
+      "link": "https://vnexpress.net/nuoc-chay-xiet-cuon-troi-nguoi-va-xe-o-lam-dong-5148938.html",
+      "published_at": "Thu, 26 Nov 2026 01:00:00 +0700",
+      "createAt": "2026-11-25T18:00:00.000Z",
+      "thumbnail_blurhash": "LAJ7wANf02yE2|~B=t?G0M9~xaxa"
+    },
+    {
       "id": "https://vnexpress.net/man-utd-roi-chien-thang-trong-tran-cau-nhieu-tranh-cai-5148943.html",
       "category_id": "featured",
       "category_name": "Tin nổi bật",
@@ -12,6 +38,71 @@
       "published_at": "Thu, 26 Nov 2026 04:56:14 +0700",
       "createAt": "2026-11-25T21:56:14.000Z",
       "thumbnail_blurhash": "L46uG1-rI7MvqsxxTOp000RN-lkS"
+    },
+    {
+      "id": "https://vnexpress.net/nguoi-dan-de-sen-chi-tieu-dip-cuoi-nam-5148820.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Người dân dè sẻn chi tiêu dịp cuối năm",
+      "description": "Áp lực sinh hoạt phí tăng khiến nhiều gia đình thắt chặt chi tiêu, thậm chí lên kế hoạch tiết kiệm phần lớn tiền thưởng Tết sắp tới.",
+      "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/25/233a4524-1795602359-3448-1795603287.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Tfr02ca7-GvbyOevCji8ew",
+      "link": "https://vnexpress.net/nguoi-dan-de-sen-chi-tieu-dip-cuoi-nam-5148820.html",
+      "published_at": "Thu, 26 Nov 2026 05:00:00 +0700",
+      "createAt": "2026-11-25T22:00:00.000Z",
+      "thumbnail_blurhash": "LII#h}-K+*$~4lrtp9t8?vMzEgaj"
+    },
+    {
+      "id": "https://vnexpress.net/vi-sao-gia-vang-lao-doc-5148888.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Vì sao giá vàng lao dốc?",
+      "description": "Mua 100 triệu đồng vàng SJC ở vùng đỉnh tháng 1/2026, nếu bán ra lúc này, bạn chỉ thu về khoảng 67 triệu đồng, vì sao?",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/25/thumbnailngang-1795609264-9767-1795609654.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=Y1_vf8y8YIcyUF5QRB2fBQ",
+      "link": "https://vnexpress.net/vi-sao-gia-vang-lao-doc-5148888.html",
+      "published_at": "Thu, 26 Nov 2026 06:00:00 +0700",
+      "createAt": "2026-11-25T23:00:00.000Z",
+      "thumbnail_blurhash": "LpPFABNMt6${~Tn+X7ocMyjFR*of"
+    },
+    {
+      "id": "https://vnexpress.net/vi-sao-chanh-ngon-tay-co-noi-gia-2-trieu-cho-chi-vai-tram-nghin-dong-5147670.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Vì sao chanh ngón tay có nơi giá 2 triệu, chỗ chỉ vài trăm nghìn đồng?",
+      "description": "Theo các nhà vườn, giá bán chanh ngón tay chênh lệch hơn một triệu đồng mỗi kg do khác biệt về giống, cách phân phối và nhóm khách hàng hướng tới.",
+      "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/22/chanh1-1795336083-2549-1795336247.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=W0rXqqgcnYSAXSQcMc2p6w",
+      "link": "https://vnexpress.net/vi-sao-chanh-ngon-tay-co-noi-gia-2-trieu-cho-chi-vai-tram-nghin-dong-5147670.html",
+      "published_at": "Thu, 26 Nov 2026 07:30:00 +0700",
+      "createAt": "2026-11-26T00:30:00.000Z",
+      "thumbnail_blurhash": "LHJO3R%f1b}F-US~=ej]1fEjNH5,"
+    },
+    {
+      "id": "https://vnexpress.net/brad-pitt-angelina-jolie-khep-lai-cuoc-chien-phap-ly-5148955.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Brad Pitt, Angelina Jolie khép lại cuộc chiến pháp lý",
+      "description": "Brad Pitt, Angelina Jolie đạt thỏa thuận về vụ kiện liên quan cổ phần điền trang Château Miraval ở Pháp, kết thúc cuộc chiến pháp lý dài bốn năm.",
+      "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/11/26/ap26329817830169-1795651023-9793-1795652463.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=61B9cKuaU_xLJNVSAI89Yg",
+      "link": "https://vnexpress.net/brad-pitt-angelina-jolie-khep-lai-cuoc-chien-phap-ly-5148955.html",
+      "published_at": "Thu, 26 Nov 2026 07:39:10 +0700",
+      "createAt": "2026-11-26T00:39:10.000Z",
+      "thumbnail_blurhash": "L8FEv1~V00=y?H0f0L-:0f-UxaEM"
+    },
+    {
+      "id": "https://vnexpress.net/dac-phai-vien-my-tong-thong-putin-la-bac-thay-chinh-tri-5148959.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Đặc phái viên Mỹ: Tổng thống Putin là 'bậc thầy chính trị'",
+      "description": "Đặc phái viên Jared Kushner ca ngợi Tổng thống Putin là \"bậc thầy chính trị\", đồng thời cho biết lãnh đạo Nga muốn tận dụng đàm phán để cải thiện quan hệ với Mỹ.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/26/afpvc6d8-v1-highres-russiaukra-6584-1328-1795653432.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Xs0GRaVXWz_9aYVZqx2hOg",
+      "link": "https://vnexpress.net/dac-phai-vien-my-tong-thong-putin-la-bac-thay-chinh-tri-5148959.html",
+      "published_at": "Thu, 26 Nov 2026 08:08:58 +0700",
+      "createAt": "2026-11-26T01:08:58.000Z",
+      "thumbnail_blurhash": "LeLgtp%LyX-=~WM_X9j]IVofRPs:"
     }
   ]
 }
