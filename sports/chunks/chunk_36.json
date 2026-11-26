@@ -999,5 +999,31 @@
     "published_at": "Thu, 26 Nov 2026 06:11:56 +0700",
     "createAt": "2026-11-25T23:11:56.000Z",
     "thumbnail_blurhash": "LADb~Jy?%6IE00MINXxpB_r=jCo["
+  },
+  {
+    "id": "https://vnexpress.net/liverpool-thang-dam-cuoc-tai-ngo-sau-48-nam-5148958.html",
+    "category_id": "sports",
+    "category_name": "Thể thao",
+    "source": "VnExpress",
+    "title": "Liverpool thắng đậm cuộc tái ngộ sau 48 năm",
+    "description": "Alexander Isak lập cú đúp, giúp Liverpool thắng Club Brugge 3-0 ở lượt năm vòng phân hạng Champions League, trong lần đầu hai đội gặp lại kể từ chung kết Cup C1 năm 1978.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/11/26/Anhmanhinh20261126luc064628-17-9633-3972-1795650548.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=2OE9ALwkkkBUnNM7Md1TrA",
+    "link": "https://vnexpress.net/liverpool-thang-dam-cuoc-tai-ngo-sau-48-nam-5148958.html",
+    "published_at": "Thu, 26 Nov 2026 06:49:08 +0700",
+    "createAt": "2026-11-25T23:49:08.000Z",
+    "thumbnail_blurhash": "L5AlY2M{kW}[%zxaNakA0d-VRPI:"
+  },
+  {
+    "id": "https://vnexpress.net/psg-hoa-roma-trong-cuoc-dau-tri-o-paris-5148961.html",
+    "category_id": "sports",
+    "category_name": "Thể thao",
+    "source": "VnExpress",
+    "title": "PSG hoà Roma trong cuộc đấu trí ở Paris",
+    "description": "Lần đầu tiên trong hành trình bảo vệ ngôi vương Champions League, PSG mất điểm, khi bị AS Roma cầm hòa 2-2 ngay trên sân nhà Parc des Princes.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/11/26/c5b0b3c5632e4ec986a8be10df0f1c-9308-3192-1795651661.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=7n9218hPSdVkiBvBkp0KuQ",
+    "link": "https://vnexpress.net/psg-hoa-roma-trong-cuoc-dau-tri-o-paris-5148961.html",
+    "published_at": "Thu, 26 Nov 2026 07:28:21 +0700",
+    "createAt": "2026-11-26T00:28:21.000Z",
+    "thumbnail_blurhash": "L5CG*t~n03S000M*xps;C-9txCxt"
   }
 ]
