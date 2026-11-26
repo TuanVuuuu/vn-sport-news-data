@@ -102,5 +102,31 @@
     "published_at": "Fri, 27 Nov 2026 01:00:00 +0700",
     "createAt": "2026-11-26T18:00:00.000Z",
     "thumbnail_blurhash": "LHJQN71N5:~WS1t7%L%Lt7NGWB-V"
+  },
+  {
+    "id": "https://vnexpress.net/4-tac-nhan-am-tham-bao-mon-phoi-ngoai-thuoc-la-5148746.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "4 tác nhân âm thầm 'bào mòn' phổi ngoài thuốc lá",
+    "description": "Ô nhiễm không khí, nấm mốc và radon có thể ảnh hưởng đến hô hấp, làm tăng nguy cơ mắc một số bệnh phổi khi tiếp xúc kéo dài.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/25/buoc-chan-tran-tren-tham-am-ap-9046-8098-1795591964.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=JlhKH1gEEYFJxwW4OaQcog",
+    "link": "https://vnexpress.net/4-tac-nhan-am-tham-bao-mon-phoi-ngoai-thuoc-la-5148746.html",
+    "published_at": "Fri, 27 Nov 2026 02:00:00 +0700",
+    "createAt": "2026-11-26T19:00:00.000Z",
+    "thumbnail_blurhash": "LMLNV+~q%h?b?a%f-;%NJTS1%2tS"
+  },
+  {
+    "id": "https://vnexpress.net/thu-tuong-de-nghi-tang-ket-noi-giua-cptpp-asean-va-eu-5149379.html",
+    "category_id": "latest",
+    "category_name": "Tin mới nhất",
+    "source": "VnExpress",
+    "title": "Thủ tướng đề nghị tăng kết nối giữa CPTPP, ASEAN và EU",
+    "description": "Thủ tướng Lê Minh Hưng đề nghị tăng cường hợp tác giữa CPTPP, ASEAN và EU, nhất là về chuỗi cung ứng, thương mại, đầu tư, chuyển đổi số và chuyển đổi xanh.",
+    "thumbnail_url": "https://vcdn1-kinhdoanh.vnecdn.net/2026/11/26/wm31-wm31-base641795690819872549027-2394-5712-1795706747.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=cuPMJMNun9slMgLTxpAHOw",
+    "link": "https://vnexpress.net/thu-tuong-de-nghi-tang-ket-noi-giua-cptpp-asean-va-eu-5149379.html",
+    "published_at": "Fri, 27 Nov 2026 02:16:01 +0700",
+    "createAt": "2026-11-26T19:16:01.000Z",
+    "thumbnail_blurhash": "LIHL9.DN~nrp^hIqD%%KQ*-;Mxfl"
   }
 ]
