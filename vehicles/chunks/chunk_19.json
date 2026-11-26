@@ -778,5 +778,44 @@
     "published_at": "Thu, 26 Nov 2026 11:16:30 +0700",
     "createAt": "2026-11-26T04:16:30.000Z",
     "thumbnail_blurhash": "LgF~gef5Riof_4axITWB%hWCM_a{"
+  },
+  {
+    "id": "https://vnexpress.net/tam-bia-bay-tu-xe-tai-bit-mat-tay-lai-moto-5149009.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Tấm bìa bay từ xe tải bịt mắt tay lái môtô",
+    "description": "Đang chạy trên cao tốc, tay lái môtô bất ngờ bị mảnh bìa từ xe tải phía trước bám dính vào mũ bảo hiểm, che khuất tầm nhìn.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/26/c4d8de004f81454ca3a58e5cb63b9e-3181-6019-1795659062.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=LfhFv0ZtHyVjaPUgZ7KAJA&t=image",
+    "link": "https://vnexpress.net/tam-bia-bay-tu-xe-tai-bit-mat-tay-lai-moto-5149009.html",
+    "published_at": "Thu, 26 Nov 2026 11:16:30 +0700",
+    "createAt": "2026-11-26T04:16:30.000Z",
+    "thumbnail_blurhash": "LgF~gef5Riof_4axITWB%hWCM_a{"
+  },
+  {
+    "id": "https://vnexpress.net/xiaomi-lo-hon-500-trieu-usd-tu-kinh-doanh-oto-va-ai-5148965.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Xiaomi lỗ hơn 500 triệu USD từ kinh doanh ôtô và AI",
+    "description": "Mảng ôtô và AI của Xiaomi lỗ 3,4 tỷ nhân dân tệ (510 triệu USD) trong quý III, trong đó doanh thu xe giảm gần 20%.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/26/Xiaomi3-1795662628-8949-1795663197.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=gv1TPVIMs1cbCZIzunz4rg",
+    "link": "https://vnexpress.net/xiaomi-lo-hon-500-trieu-usd-tu-kinh-doanh-oto-va-ai-5148965.html",
+    "published_at": "Thu, 26 Nov 2026 13:00:00 +0700",
+    "createAt": "2026-11-26T06:00:00.000Z",
+    "thumbnail_blurhash": "LGHxWx~901V?E:RPSiNG~VbIIqoz"
+  },
+  {
+    "id": "https://vnexpress.net/suzuki-xl7-hybrid-chat-thuc-dung-cua-xe-nhat-ban-5146126.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Suzuki XL7 hybrid - chất thực dụng của xe Nhật Bản",
+    "description": "Mẫu MPV cỡ nhỏ 7 chỗ nâng cấp nhẹ về thiết kế, mang chất thực dụng điển hình của Suzuki nhằm hướng đến khả năng vận hành bền bỉ trong thời gian dài.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/26/suzukixl7cartest2vne3929-17956-8722-5967-1795670481.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=tSFJhr388eeJSkQ1iOu_lQ",
+    "link": "https://vnexpress.net/suzuki-xl7-hybrid-chat-thuc-dung-cua-xe-nhat-ban-5146126.html",
+    "published_at": "Thu, 26 Nov 2026 13:00:00 +0700",
+    "createAt": "2026-11-26T06:00:00.000Z",
+    "thumbnail_blurhash": "LUGlI#oI%0xZ_4xaoead^+t8t8oL"
   }
 ]
