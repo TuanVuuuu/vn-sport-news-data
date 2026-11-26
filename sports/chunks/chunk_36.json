@@ -1194,5 +1194,44 @@
     "published_at": "Thu, 26 Nov 2026 19:00:00 +0700",
     "createAt": "2026-11-26T12:00:00.000Z",
     "thumbnail_blurhash": "L8Ex;1}@3o-6zP$xRpv#03NevNR7"
+  },
+  {
+    "id": "https://vnexpress.net/ket-qua-u17-world-cup-viet-nam-mali-5149345-tong-thuat.html",
+    "category_id": "sports",
+    "category_name": "Thể thao",
+    "source": "VnExpress",
+    "title": "Việt Nam thua Mali, bị loại khỏi U17 World Cup",
+    "description": "Việt Nam thua Mali 0-2 ở lượt cuối bảng G tối 26/11, vì thế không thể bước tiếp vào vòng knock-out trong lần đầu tham dự U17 World Cup.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/11/26/179570284074428560458903111777-2172-2567-1795703102.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=TUHB_L2ivPdnukp_peOPMA",
+    "link": "https://vnexpress.net/ket-qua-u17-world-cup-viet-nam-mali-5149345-tong-thuat.html",
+    "published_at": "Thu, 26 Nov 2026 19:00:00 +0700",
+    "createAt": "2026-11-26T12:00:00.000Z",
+    "thumbnail_blurhash": "L8Ex;1}@3o-6zP$xRpv#03NevNR7"
+  },
+  {
+    "id": "https://vnexpress.net/hlv-u17-viet-nam-khoc-chap-tay-cam-on-cau-thu-5149355.html",
+    "category_id": "sports",
+    "category_name": "Thể thao",
+    "source": "VnExpress",
+    "title": "HLV U17 Việt Nam khóc, chắp tay cảm ơn cầu thủ",
+    "description": "HLV Cristiano Roland cảm ơn các cầu thủ Việt Nam trong nước mắt, sau trận thua Mali 0-2 ở lượt cuối bảng G tối nay và chính thức dừng bước tại U17 World Cup 2026.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/11/26/179570795393321442793444416175-4327-8294-1795710197.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=MuJYbeMpTb5pTT2cHBCcCg&t=image",
+    "link": "https://vnexpress.net/hlv-u17-viet-nam-khoc-chap-tay-cam-on-cau-thu-5149355.html",
+    "published_at": "Thu, 26 Nov 2026 23:24:39 +0700",
+    "createAt": "2026-11-26T16:24:39.000Z",
+    "thumbnail_blurhash": "LCBytN}@0xETrlt7WkJ8,%S15_9["
+  },
+  {
+    "id": "https://vnexpress.net/5-thay-doi-pochettino-tao-ra-o-man-utd-5149358.html",
+    "category_id": "sports",
+    "category_name": "Thể thao",
+    "source": "VnExpress",
+    "title": "5 thay đổi Pochettino tạo ra ở Man Utd",
+    "description": "HLV Mauricio Pochettino bước đầu tạo dấu ấn tại Man Utd bằng cách tăng cường pressing, siết chặt tổ chức phòng ngự, khuyến khích cầu thủ xâm nhập cấm địa và nâng cao cường độ tập luyện.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/11/26/pochettino-man-utd-1795699269-7270-1795699503.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ayQgkOANZqTgbWWc_XZa-w",
+    "link": "https://vnexpress.net/5-thay-doi-pochettino-tao-ra-o-man-utd-5149358.html",
+    "published_at": "Fri, 27 Nov 2026 00:00:00 +0700",
+    "createAt": "2026-11-26T17:00:00.000Z",
+    "thumbnail_blurhash": "L86*XfRfNDxz-MkEE3nyxTWHI;ac"
   }
 ]
