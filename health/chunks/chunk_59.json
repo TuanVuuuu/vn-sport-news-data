@@ -739,5 +739,31 @@
     "published_at": "Thu, 26 Nov 2026 16:03:36 +0700",
     "createAt": "2026-11-26T09:03:36.000Z",
     "thumbnail_blurhash": "LUJRdG~V-:In_3ozV]WB^-IpRjxa"
+  },
+  {
+    "id": "https://vnexpress.net/nhung-thoi-quen-an-uong-lam-tang-vi-khuan-gay-hoi-mieng-5149095.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Những thói quen ăn uống làm tăng vi khuẩn gây hôi miệng",
+    "description": "Thường xuyên ăn đồ ngọt, uống ít nước và sử dụng nhiều cà phê có thể làm thay đổi môi trường trong miệng, tạo điều kiện cho vi khuẩn gây mùi.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/26/image001-1795665854-2332-1795666669.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=LIgNpb01wRZhE5tLJuHLxQ",
+    "link": "https://vnexpress.net/nhung-thoi-quen-an-uong-lam-tang-vi-khuan-gay-hoi-mieng-5149095.html",
+    "published_at": "Thu, 26 Nov 2026 18:00:00 +0700",
+    "createAt": "2026-11-26T11:00:00.000Z",
+    "thumbnail_blurhash": "LOK^4_-;yEad+ED%M}xt_MR5RmRi"
+  },
+  {
+    "id": "https://vnexpress.net/thoi-quen-giu-am-sai-gay-anh-huong-suc-khoe-5149226.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Thói quen giữ ấm sai gây ảnh hưởng sức khỏe",
+    "description": "Thói quen mặc quá nhiều khi vận động, đóng kín phòng hoặc uống rượu chống lạnh có thể khiến việc giữ ấm kém hiệu quả, thậm chí ảnh hưởng sức khỏe.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/26/medium-vecteezy-portrait-of-re-9231-9034-1795680763.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=RGUPpCI_JvzNf398KqoX5Q",
+    "link": "https://vnexpress.net/thoi-quen-giu-am-sai-gay-anh-huong-suc-khoe-5149226.html",
+    "published_at": "Thu, 26 Nov 2026 19:00:00 +0700",
+    "createAt": "2026-11-26T12:00:00.000Z",
+    "thumbnail_blurhash": "LDEpAu_MbvjZ-:x]_Mr=I:Rj-;kC"
   }
 ]
