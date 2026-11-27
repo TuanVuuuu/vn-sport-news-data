@@ -1194,5 +1194,31 @@
     "published_at": "Fri, 27 Nov 2026 18:00:00 +0700",
     "createAt": "2026-11-27T11:00:00.000Z",
     "thumbnail_blurhash": "L8D*w,r]72xZT0}@%2R+0ebvE1NG"
+  },
+  {
+    "id": "https://vnexpress.net/co-phai-mac-sui-mao-ga-se-khong-khoi-5149699.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Có phải mắc sùi mào gà sẽ không khỏi?",
+    "description": "Tôi mắc sùi mào gà, đã đốt điện nhưng vẫn tái phát, nhiều người bảo mắc bệnh này phải sống chung suốt đời có đúng không? (Trần Hoàn, 35 tuổi, Tây Ninh)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/27/sui-mao-ga-do-nhiem-hpv-179576-4493-4930-1795769052.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=qHVQ62EFDaTKRPUmUtqedA",
+    "link": "https://vnexpress.net/co-phai-mac-sui-mao-ga-se-khong-khoi-5149699.html",
+    "published_at": "Fri, 27 Nov 2026 19:00:00 +0700",
+    "createAt": "2026-11-27T12:00:00.000Z",
+    "thumbnail_blurhash": "LqLoTS~BSgofxaxas:bHayWBjsoL"
+  },
+  {
+    "id": "https://vnexpress.net/phat-hien-benh-than-man-tu-dau-hieu-tieu-bot-5149689.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Phát hiện bệnh thận mạn từ dấu hiệu tiểu bọt",
+    "description": "Bà Linh, 75 tuổi, tiểu bọt kéo dài một tháng, có đạm trong nước tiểu, bác sĩ chẩn đoán mắc bệnh thận mạn giai đoạn 3B.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/27/hinh-pr-1795768104-4670-1795768341.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=TwpwEmWdTBMDOcWK77t-Mw",
+    "link": "https://vnexpress.net/phat-hien-benh-than-man-tu-dau-hieu-tieu-bot-5149689.html",
+    "published_at": "Fri, 27 Nov 2026 19:00:00 +0700",
+    "createAt": "2026-11-27T12:00:00.000Z",
+    "thumbnail_blurhash": "LSN^Sd^,9Z~p~WxuRj?aI9xuM|t8"
   }
 ]
