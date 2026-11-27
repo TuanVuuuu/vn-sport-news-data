@@ -999,5 +999,31 @@
     "published_at": "Sat, 28 Nov 2026 00:01:20 +0700",
     "createAt": "2026-11-27T17:01:20.000Z",
     "thumbnail_blurhash": "L79?UjNgM|NHxCI;IUI:}8NGo}xa"
+  },
+  {
+    "id": "https://vnexpress.net/ukraine-tuyen-bo-tap-kich-nha-may-san-xuat-nhien-lieu-ten-lua-cua-nga-5149808.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Ukraine tuyên bố tập kích nhà máy sản xuất nhiên liệu tên lửa của Nga",
+    "description": "Quân đội Ukraine cho biết đã tấn công một cơ sở sản xuất nhiên liệu rắn cho tên lửa, gồm cả Iskander, tại vùng Tula của Nga.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/27/screenshot20261126at85931pm202-4503-8249-1795796072.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=SO1fmhC_VDxCBcBtjYSCbQ",
+    "link": "https://vnexpress.net/ukraine-tuyen-bo-tap-kich-nha-may-san-xuat-nhien-lieu-ten-lua-cua-nga-5149808.html",
+    "published_at": "Sat, 28 Nov 2026 00:25:27 +0700",
+    "createAt": "2026-11-27T17:25:27.000Z",
+    "thumbnail_blurhash": "LDAva@~BIV9aR6e.NuNaEMI:oe%1"
+  },
+  {
+    "id": "https://vnexpress.net/co-che-lam-nen-suc-huy-diet-cua-ve-tinh-dau-dan-hat-nhan-5149262.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Cơ chế làm nên sức hủy diệt của vệ tinh đầu đạn hạt nhân",
+    "description": "Vệ tinh mang đầu đạn hạt nhân có khả năng phá hủy lượng lớn thiết bị trên quỹ đạo và dưới mặt đất nhờ tia X cùng xung điện từ.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/26/Vtinh-1795694795-8220-1795695613.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=-uWyRv-mLr1vjMaTkkli3g",
+    "link": "https://vnexpress.net/co-che-lam-nen-suc-huy-diet-cua-ve-tinh-dau-dan-hat-nhan-5149262.html",
+    "published_at": "Sat, 28 Nov 2026 01:00:00 +0700",
+    "createAt": "2026-11-27T18:00:00.000Z",
+    "thumbnail_blurhash": "LBAvzr0L00~q56s.?GWW01?H%MD%"
   }
 ]
