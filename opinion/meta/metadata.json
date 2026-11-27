@@ -1,5 +1,5 @@
 {
-  "total_articles": 1100,
+  "total_articles": 1102,
   "files": [
     "chunk_1.json",
     "chunk_2.json",
@@ -11,7 +11,8 @@
     "chunk_8.json",
     "chunk_9.json",
     "chunk_10.json",
-    "chunk_11.json"
+    "chunk_11.json",
+    "chunk_12.json"
   ],
   "channel": {
     "title": "Ý kiến - VnExpress RSS",
@@ -20,7 +21,7 @@
     "copyright": "",
     "logo_url": "https://s.vnecdn.net/vnexpress/i/v20/logos/vne_logo_rss.png",
     "link": "https://vnexpress.net/rss/y-kien.rss",
-    "last_updated": "Fri, 27 Nov 2026 09:51:20 +0700"
+    "last_updated": "Fri, 27 Nov 2026 11:21:39 +0700"
   },
-  "last_updated": "2026-11-27T04:41:17.826Z"
+  "last_updated": "2026-11-27T04:51:12.662Z"
 }
