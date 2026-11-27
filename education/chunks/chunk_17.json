@@ -973,5 +973,44 @@
     "published_at": "Fri, 27 Nov 2026 05:51:00 +0700",
     "createAt": "2026-11-26T22:51:00.000Z",
     "thumbnail_blurhash": "LcJbQ,%g?^xu%gWBoeozofazV@oL"
+  },
+  {
+    "id": "https://vnexpress.net/danh-gia-nguoi-hoc-khong-chi-bang-kien-thuc-5149435.html",
+    "category_id": "education",
+    "category_name": "Giáo dục",
+    "source": "VnExpress",
+    "title": "'Đánh giá người học không chỉ bằng kiến thức'",
+    "description": "Ngành giáo dục cần chú trọng đánh giá phẩm chất, năng lực, khả năng vận dụng kiến thức và thích nghi với thực tiễn của người học, theo Vụ trưởng Giáo dục Lê Huy Nam.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/27/1795746146205be8c968efcc2fde75-7212-6687-1795746577.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Y24-g1sYyphq8snBTjoXDg",
+    "link": "https://vnexpress.net/danh-gia-nguoi-hoc-khong-chi-bang-kien-thuc-5149435.html",
+    "published_at": "Fri, 27 Nov 2026 09:30:11 +0700",
+    "createAt": "2026-11-27T02:30:11.000Z",
+    "thumbnail_blurhash": "LMH1#@%LR}al~Af9kYW98^M|E2%1"
+  },
+  {
+    "id": "https://vnexpress.net/ha-noi-cong-khai-dinh-luong-hinh-anh-suat-an-hoc-sinh-5149475.html",
+    "category_id": "education",
+    "category_name": "Giáo dục",
+    "source": "VnExpress",
+    "title": "Hà Nội công khai định lượng, hình ảnh suất ăn học sinh",
+    "description": "Phụ huynh có thể theo dõi thực đơn, định lượng, nguồn cung cấp thực phẩm, hóa đơn và hình ảnh suất ăn bán trú của học sinh qua nền tảng Hà Nội Check.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/27/202611270921251464-g3194982797-4696-8929-1795748837.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=3MMVGAJxZeh5I622-Hsu-w",
+    "link": "https://vnexpress.net/ha-noi-cong-khai-dinh-luong-hinh-anh-suat-an-hoc-sinh-5149475.html",
+    "published_at": "Fri, 27 Nov 2026 10:08:01 +0700",
+    "createAt": "2026-11-27T03:08:01.000Z",
+    "thumbnail_blurhash": "LqGeK;NtUZx]?]KMM{sl#RawxDwI"
+  },
+  {
+    "id": "https://vnexpress.net/diem-thi-troi-sut-nhung-ty-le-tot-nghiep-van-tren-99-5149501.html",
+    "category_id": "education",
+    "category_name": "Giáo dục",
+    "source": "VnExpress",
+    "title": "Điểm thi trồi sụt nhưng tỷ lệ tốt nghiệp vẫn trên 99%",
+    "description": "Điểm thi tốt nghiệp THPT biến động và phân hóa tốt hơn nhưng tỷ lệ đỗ vẫn trên 99%, chưa thể đánh giá được chất lượng dạy học, theo chuyên gia.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/27/e52fc31dd-a766-ade54854c53b-17-5579-9141-1795752811.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=-y4_6AoiTBwhGjMLi4BiSg",
+    "link": "https://vnexpress.net/diem-thi-troi-sut-nhung-ty-le-tot-nghiep-van-tren-99-5149501.html",
+    "published_at": "Fri, 27 Nov 2026 11:14:26 +0700",
+    "createAt": "2026-11-27T04:14:26.000Z",
+    "thumbnail_blurhash": "LWCI2rOaYRi]yZZ$XSnhMxoz$hS$"
   }
 ]
