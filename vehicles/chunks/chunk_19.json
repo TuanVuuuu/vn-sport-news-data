@@ -934,5 +934,31 @@
     "published_at": "Fri, 27 Nov 2026 08:00:00 +0700",
     "createAt": "2026-11-27T01:00:00.000Z",
     "thumbnail_blurhash": "LIHVSVM{4n?a?w9ED%xttTITjZxv"
+  },
+  {
+    "id": "https://vnexpress.net/cac-de-cu-oto-cua-nam-2026-phan-khuc-mpv-co-nho-5148423.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Các đề cử Ôtô của năm 2026 phân khúc MPV cỡ nhỏ",
+    "description": "Cạnh tranh cho giải Ôtô của năm 2026 nhóm xe đa dụng 7 chỗ cỡ nhỏ là các đại diện Nhật, Hàn và Trung Quốc.",
+    "thumbnail_url": "https://i1-vnexpress.vnecdn.net/2026/11/24/otocuanamMPV-1795513435-2027-1795513537.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=oCbU6eQ3JeQdviAADpNekQ",
+    "link": "https://vnexpress.net/cac-de-cu-oto-cua-nam-2026-phan-khuc-mpv-co-nho-5148423.html",
+    "published_at": "Fri, 27 Nov 2026 09:40:14 +0700",
+    "createAt": "2026-11-27T02:40:14.000Z",
+    "thumbnail_blurhash": "LUJa_{%MWps;~qkBRjofo#RjRPkC"
+  },
+  {
+    "id": "https://vnexpress.net/chi-1-6-ty-hoi-sinh-huyen-thoai-hai-thi-honda-nsr250r-1996-5149183.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Chi 1,6 tỷ hồi sinh 'huyền thoại hai thì' Honda NSR250R 1996",
+    "description": "Chiếc Honda NSR250R 1996 được phục chế, nâng cấp với nhiều phụ kiện hiệu năng cao, lấy cảm hứng từ môtô đua Repsol của Mick Doohan.",
+    "thumbnail_url": "https://i1-vnexpress.vnecdn.net/2026/11/27/DSCF0835-jpeg-1795745846.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=DJ6xaA2j4Lk9eWdlKfo7qA",
+    "link": "https://vnexpress.net/chi-1-6-ty-hoi-sinh-huyen-thoai-hai-thi-honda-nsr250r-1996-5149183.html",
+    "published_at": "Fri, 27 Nov 2026 09:45:25 +0700",
+    "createAt": "2026-11-27T02:45:25.000Z",
+    "thumbnail_blurhash": "LKD]bh-oEzWT~o%LRjR%%zxu$PRj"
   }
 ]

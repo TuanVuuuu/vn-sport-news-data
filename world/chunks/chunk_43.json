@@ -713,5 +713,31 @@
     "published_at": "Fri, 27 Nov 2026 05:00:00 +0700",
     "createAt": "2026-11-26T22:00:00.000Z",
     "thumbnail_blurhash": "LfHMN8tQogoz_Nj[ofozV[a}WBjs"
+  },
+  {
+    "id": "https://vnexpress.net/cong-nghe-giup-ice-diem-mat-chi-ten-nguoi-nhap-cu-o-my-5148562.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Công nghệ giúp ICE 'điểm mặt chỉ tên' người nhập cư ở Mỹ",
+    "description": "ICE dùng công nghệ đọc biển số để nhận diện tài xế liên quan đến người nhập cư, rồi bám theo để chặn bắt họ.",
+    "thumbnail_url": "https://i1-vnexpress.vnecdn.net/2026/11/26/afp-mei-usa-aavs-vciep-v1-high-5034-5442-1795679023.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=m1H0bv8kVESPB6pie6gpVg",
+    "link": "https://vnexpress.net/cong-nghe-giup-ice-diem-mat-chi-ten-nguoi-nhap-cu-o-my-5148562.html",
+    "published_at": "Fri, 27 Nov 2026 09:51:30 +0700",
+    "createAt": "2026-11-27T02:51:30.000Z",
+    "thumbnail_blurhash": "LaHBoIxbV[WY~VWCofRkoJjYjst6"
+  },
+  {
+    "id": "https://vnexpress.net/ong-trump-sua-noi-dung-ve-ukraine-trong-tuyen-bo-chung-voi-lanh-dao-nato-5149455.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Ông Trump sửa nội dung về Ukraine trong tuyên bố chung với lãnh đạo NATO",
+    "description": "Ông Trump đơn phương sửa tuyên bố chung với Tổng thư ký NATO, kêu gọi cả Ukraine không mở rộng xung đột, thay vì chỉ Nga như nội dung gốc.",
+    "thumbnail_url": "https://i1-vnexpress.vnecdn.net/2026/11/27/Trump-1795745756-4142-1795745827.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=0zqqk1S_JR_2EkDFwT1XkQ",
+    "link": "https://vnexpress.net/ong-trump-sua-noi-dung-ve-ukraine-trong-tuyen-bo-chung-voi-lanh-dao-nato-5149455.html",
+    "published_at": "Fri, 27 Nov 2026 10:22:04 +0700",
+    "createAt": "2026-11-27T03:22:04.000Z",
+    "thumbnail_blurhash": "LbG[+Nt3xu%L~ot7o#t6-:RjRlf*"
   }
 ]
