@@ -141,5 +141,57 @@
     "published_at": "Fri, 27 Nov 2026 06:00:00 +0700",
     "createAt": "2026-11-26T23:00:00.000Z",
     "thumbnail_blurhash": "LMI:|8~BniEL01nOF2S#vgRPtPtQ"
+  },
+  {
+    "id": "https://vnexpress.net/10-nam-kien-tung-cua-brad-pitt-va-angelina-jolie-5149035.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "10 năm kiện tụng của Brad Pitt và Angelina Jolie",
+    "description": "Vụ Brad Pitt kiện Angelina Jolie sai phạm trong kinh doanh hé lộ những chi tiết liên quan việc tài tử bị cáo buộc bạo hành gia đình 10 năm trước.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/11/26/brad-pitt-va-angelina-jolie-17-2711-9067-1795684469.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=vPD4PoK7RljmvgHZrPmlTw",
+    "link": "https://vnexpress.net/10-nam-kien-tung-cua-brad-pitt-va-angelina-jolie-5149035.html",
+    "published_at": "Fri, 27 Nov 2026 07:40:29 +0700",
+    "createAt": "2026-11-27T00:40:29.000Z",
+    "thumbnail_blurhash": "LOI;Fh^MxC~U%1?Ft5xt5RR,t7Iq"
+  },
+  {
+    "id": "https://vnexpress.net/mo-hop-bo-thiet-bi-internet-ve-tinh-starlink-tai-viet-nam-5149404.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Mở hộp bộ thiết bị Internet vệ tinh Starlink tại Việt Nam",
+    "description": "Bộ thu phát sóng Starlink Mini và Standard X có tốc độ truyền tải dữ liệu đến 400 Mbps, tích hợp Wi-Fi 5 hoặc 6, dễ dàng lắp đặt.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/27/a1-1795739255.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=6QE2oxfpPM9FMdA53JQB8A",
+    "link": "https://vnexpress.net/mo-hop-bo-thiet-bi-internet-ve-tinh-starlink-tai-viet-nam-5149404.html",
+    "published_at": "Fri, 27 Nov 2026 07:53:47 +0700",
+    "createAt": "2026-11-27T00:53:47.000Z",
+    "thumbnail_blurhash": "LHH2i:d:E0yZ=reSNLIUROnis;Mx"
+  },
+  {
+    "id": "https://vnexpress.net/hlv-cristiano-roland-u17-viet-nam-da-choi-bong-cho-nguoi-ham-mo-tu-hao-5149405.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "HLV Cristiano Roland: U17 Việt Nam đã chơi bóng cho người hâm mộ tự hào",
+    "description": "HLV người Brazil cùng các cầu thủ bật khóc sau thất bại 0-2 trước Mali ở lượt cuối bảng G tối 26/11, khép lại hành trình tại U17 World Cup 2026 với một điểm và 5 bàn thắng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/27/Sequence0200000000Still001-179-2780-8085-1795740127.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=FZWmaLKBivQwQ2yq_f3-Bg",
+    "link": "https://vnexpress.net/hlv-cristiano-roland-u17-viet-nam-da-choi-bong-cho-nguoi-ham-mo-tu-hao-5149405.html",
+    "published_at": "Fri, 27 Nov 2026 08:03:02 +0700",
+    "createAt": "2026-11-27T01:03:02.000Z",
+    "thumbnail_blurhash": "LKFqzwOorqtp0{w3TJ-P[7Xna5w="
+  },
+  {
+    "id": "https://vnexpress.net/dan-cong-nghe-viet-xoay-xo-doi-nghe-trong-bao-ai-5145736.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Dân công nghệ Việt xoay xở đổi nghề trong 'bão' AI",
+    "description": "AI ngày càng tác động sâu rộng buộc nhiều người tìm cách thích ứng, thậm chí học nghề mới để phòng trường hợp thất nghiệp.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/25/ChatGPT-Image-18-19-09-25-thg-8726-7462-1795621504.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=DCVfbRz1N5xyaV3iTWTKMQ",
+    "link": "https://vnexpress.net/dan-cong-nghe-viet-xoay-xo-doi-nghe-trong-bao-ai-5145736.html",
+    "published_at": "Fri, 27 Nov 2026 09:00:00 +0700",
+    "createAt": "2026-11-27T02:00:00.000Z",
+    "thumbnail_blurhash": "LtGl6U%MxZxu~qt8WBt7_2ofRjjZ"
   }
 ]
