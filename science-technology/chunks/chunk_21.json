@@ -388,5 +388,44 @@
     "published_at": "Fri, 27 Nov 2026 05:00:00 +0700",
     "createAt": "2026-11-26T22:00:00.000Z",
     "thumbnail_blurhash": "L24VXY_M8^8_?v%gRjIA4TV@%hRi"
+  },
+  {
+    "id": "https://vnexpress.net/mo-hop-bo-thiet-bi-internet-ve-tinh-starlink-tai-viet-nam-5149404.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Mở hộp bộ thiết bị Internet vệ tinh Starlink tại Việt Nam",
+    "description": "Bộ thu phát sóng Starlink Mini và Standard X có tốc độ truyền tải dữ liệu đến 400 Mbps, tích hợp Wi-Fi 5 hoặc 6, dễ dàng lắp đặt.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/27/a1-1795739255.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=6QE2oxfpPM9FMdA53JQB8A",
+    "link": "https://vnexpress.net/mo-hop-bo-thiet-bi-internet-ve-tinh-starlink-tai-viet-nam-5149404.html",
+    "published_at": "Fri, 27 Nov 2026 07:53:47 +0700",
+    "createAt": "2026-11-27T00:53:47.000Z",
+    "thumbnail_blurhash": "LHH2i:d:E0yZ=reSNLIUROnis;Mx"
+  },
+  {
+    "id": "https://vnexpress.net/laptop-2-trong-1-gia-gan-40-trieu-dong-5148177.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Laptop '2 trong 1' giá gần 40 triệu đồng",
+    "description": "Lenovo IdeaPad 5i có màn hình cảm ứng mở 360 độ để dùng như máy tính bảng hoặc bảng vẽ, nhưng khá dày.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/26/lq-1795708735.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=efiZsCuq6NcqZFVdW4N_DA",
+    "link": "https://vnexpress.net/laptop-2-trong-1-gia-gan-40-trieu-dong-5148177.html",
+    "published_at": "Fri, 27 Nov 2026 08:10:52 +0700",
+    "createAt": "2026-11-27T01:10:52.000Z",
+    "thumbnail_blurhash": "LPG+H?~WDO^k?vs;Mx%MRRMyba-;"
+  },
+  {
+    "id": "https://vnexpress.net/dan-cong-nghe-viet-xoay-xo-doi-nghe-trong-bao-ai-5145736.html",
+    "category_id": "science-technology",
+    "category_name": "Khoa học công nghệ",
+    "source": "VnExpress",
+    "title": "Dân công nghệ Việt xoay xở đổi nghề trong 'bão' AI",
+    "description": "AI ngày càng tác động sâu rộng buộc nhiều người tìm cách thích ứng, thậm chí học nghề mới để phòng trường hợp thất nghiệp.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/25/1-1795596407-9691-1795596562.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=pxlEcJpNdX03_zOK7y0P9w",
+    "link": "https://vnexpress.net/dan-cong-nghe-viet-xoay-xo-doi-nghe-trong-bao-ai-5145736.html",
+    "published_at": "Fri, 27 Nov 2026 09:00:00 +0700",
+    "createAt": "2026-11-27T02:00:00.000Z",
+    "thumbnail_blurhash": "LIHoI600xu~qbHxvM_WD_34m%2%L"
   }
 ]
