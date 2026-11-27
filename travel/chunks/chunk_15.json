@@ -583,5 +583,31 @@
     "published_at": "Fri, 27 Nov 2026 15:00:00 +0700",
     "createAt": "2026-11-27T08:00:00.000Z",
     "thumbnail_blurhash": "LNAm*+IoWBw}T#i^WBX99$xuWCR+"
+  },
+  {
+    "id": "https://vnexpress.net/con-dau-dau-ty-usd-cua-cac-hang-hang-khong-5149459.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "'Cơn đau đầu' tỷ USD của các hãng hàng không",
+    "description": "Hạng thương gia ngày càng được nâng cấp, dần lấn át khoang hạng nhất, các hãng bay lại đau đầu với bài toán bỏ hay tiếp tục đầu tư hàng tỷ USD để duy trì hạng nhất.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/11/27/qatar-airways-qsuite-next-gen-7063-9206-1795748671.webp?w=1200&h=0&q=100&dpr=1&fit=crop&s=615qrohJ75yJ60eIrLA-ww",
+    "link": "https://vnexpress.net/con-dau-dau-ty-usd-cua-cac-hang-hang-khong-5149459.html",
+    "published_at": "Fri, 27 Nov 2026 15:04:44 +0700",
+    "createAt": "2026-11-27T08:04:44.000Z",
+    "thumbnail_blurhash": "LWE,dT^8,]-D|~#swO$k;UaPWCo3"
+  },
+  {
+    "id": "https://vnexpress.net/khong-gian-nghi-duong-cho-gia-dinh-tai-ixora-grand-ho-tram-5149558.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Không gian nghỉ dưỡng cho gia đình tại Ixora Grand Ho Tram",
+    "description": "Ixora Grand Ho Tram By Fusion, thương hiệu lưu trú thứ tư tại The Grand Ho Tram, khai trương ngày 12/12, hướng đến sự hài hòa giữa tính kết nối và chăm sóc sức khỏe cho từng thành viên gia đình.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/11/27/g1-1795766483-2002-1795766585.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=4k2q44wkeHFjjpPYrfcT0w",
+    "link": "https://vnexpress.net/khong-gian-nghi-duong-cho-gia-dinh-tai-ixora-grand-ho-tram-5149558.html",
+    "published_at": "Fri, 27 Nov 2026 15:30:00 +0700",
+    "createAt": "2026-11-27T08:30:00.000Z",
+    "thumbnail_blurhash": "L#FQI3NeWCoz.TW=oLj]k?NGt5WU"
   }
 ]
