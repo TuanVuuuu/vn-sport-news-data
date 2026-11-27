@@ -817,5 +817,31 @@
     "published_at": "Fri, 27 Nov 2026 00:00:00 +0700",
     "createAt": "2026-11-26T17:00:00.000Z",
     "thumbnail_blurhash": "LHEyuQ?CV@X9?[t1RjR-%#t2RQkC"
+  },
+  {
+    "id": "https://vnexpress.net/10-nam-kien-tung-cua-brad-pitt-va-angelina-jolie-5149035.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "10 năm kiện tụng của Brad Pitt và Angelina Jolie",
+    "description": "Vụ Brad Pitt kiện Angelina Jolie sai phạm trong kinh doanh hé lộ những chi tiết liên quan việc tài tử bị cáo buộc bạo hành gia đình 10 năm trước.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/11/26/brad-pitt-va-angelina-jolie-17-2711-9067-1795684469.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=vPD4PoK7RljmvgHZrPmlTw",
+    "link": "https://vnexpress.net/10-nam-kien-tung-cua-brad-pitt-va-angelina-jolie-5149035.html",
+    "published_at": "Fri, 27 Nov 2026 07:40:29 +0700",
+    "createAt": "2026-11-27T00:40:29.000Z",
+    "thumbnail_blurhash": "LOI;Fh^MxC~U%1?Ft5xt5RR,t7Iq"
+  },
+  {
+    "id": "https://vnexpress.net/viet-anh-quynh-nga-cung-dan-sao-du-khai-mac-tuan-thoi-trang-5149392.html",
+    "category_id": "entertainment",
+    "category_name": "Giải trí",
+    "source": "VnExpress",
+    "title": "Việt Anh - Quỳnh Nga cùng dàn sao dự khai mạc Tuần thời trang",
+    "description": "Đôi uyên ương Việt Anh - Quỳnh Nga, vợ chồng Đan Lê cùng nhiều nghệ sĩ hội tụ trong đêm mở màn Tuần thời trang Quốc tế Việt Nam.",
+    "thumbnail_url": "https://vcdn1-giaitri.vnecdn.net/2026/11/27/sao-viet-tuan-thoi-trang-1795744925.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=njdH-EX2ISnqLYlmLA0zEA",
+    "link": "https://vnexpress.net/viet-anh-quynh-nga-cung-dan-sao-du-khai-mac-tuan-thoi-trang-5149392.html",
+    "published_at": "Fri, 27 Nov 2026 09:12:25 +0700",
+    "createAt": "2026-11-27T02:12:25.000Z",
+    "thumbnail_blurhash": "LADI|94n00tm00~Vo~00F29Z=|%L"
   }
 ]
