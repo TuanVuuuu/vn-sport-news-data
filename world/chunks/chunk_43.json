@@ -635,5 +635,31 @@
     "published_at": "Fri, 27 Nov 2026 05:00:00 +0700",
     "createAt": "2026-11-26T22:00:00.000Z",
     "thumbnail_blurhash": "LfHMN8tQogoz_Nj[ofozV[a}WBjs"
+  },
+  {
+    "id": "https://vnexpress.net/nga-ban-giao-250-thi-the-quan-nhan-cho-ukraine-5149363.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Nga bàn giao 250 thi thể quân nhân cho Ukraine",
+    "description": "Ukraine thông báo Nga đã bàn giao cho nước này 250 thi thể quân nhân và nhận lại 22 tử sĩ.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/27/afp-aa-v1-highres-repatriation-2069-3386-1795734931.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=l4E3LqG518Qs_xOH2keCcQ",
+    "link": "https://vnexpress.net/nga-ban-giao-250-thi-the-quan-nhan-cho-ukraine-5149363.html",
+    "published_at": "Fri, 27 Nov 2026 06:31:32 +0700",
+    "createAt": "2026-11-26T23:31:32.000Z",
+    "thumbnail_blurhash": "LFGlVQ_44m?bDh-;%Mn%00so-;Ri"
+  },
+  {
+    "id": "https://vnexpress.net/tong-thong-trump-nghi-ngo-so-lieu-gdp-my-bi-lam-gia-5149390.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Tổng thống Trump nghi ngờ số liệu GDP Mỹ 'bị làm giả'",
+    "description": "Tổng thống Trump cáo buộc số liệu GDP Mỹ bị làm giả nhằm tác động đến bầu cử và yêu cầu điều tra, song không đưa ra bằng chứng.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/27/afp-d8rc2x6-v2-highres-uspolit-6290-1422-1795738112.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=LIkR4G3bRSwqz4CsJCCTOQ",
+    "link": "https://vnexpress.net/tong-thong-trump-nghi-ngo-so-lieu-gdp-my-bi-lam-gia-5149390.html",
+    "published_at": "Fri, 27 Nov 2026 07:21:52 +0700",
+    "createAt": "2026-11-27T00:21:52.000Z",
+    "thumbnail_blurhash": "L6AJNH%10057vKoI*0JAL3S1:%sn"
   }
 ]
