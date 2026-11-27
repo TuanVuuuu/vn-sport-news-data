@@ -973,5 +973,44 @@
     "published_at": "Fri, 27 Nov 2026 10:00:00 +0700",
     "createAt": "2026-11-27T03:00:00.000Z",
     "thumbnail_blurhash": "LZPP_w%M9GMd~VxvozDiIptSRjt7"
+  },
+  {
+    "id": "https://vnexpress.net/nhom-rau-cu-nguoi-benh-than-man-tinh-nen-han-che-5149505.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Nhóm rau củ người bệnh thận mạn tính nên hạn chế",
+    "description": "Người mắc bệnh thận mạn nên tránh ăn nhiều cải bó xôi, khoai lang, dưa muối, rau dền giàu kali, natri và oxalat.",
+    "thumbnail_url": "https://i1-suckhoe.vnecdn.net/2026/11/27/khoai-lang-jpeg-1795749914-6350-1795750037.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=zdZv-IL4Iid3EutpX33Umg",
+    "link": "https://vnexpress.net/nhom-rau-cu-nguoi-benh-than-man-tinh-nen-han-che-5149505.html",
+    "published_at": "Fri, 27 Nov 2026 11:00:00 +0700",
+    "createAt": "2026-11-27T04:00:00.000Z",
+    "thumbnail_blurhash": "LHI53-~qtQozVsRixuxuRjNF9FM{"
+  },
+  {
+    "id": "https://vnexpress.net/thay-huyet-tuong-dieu-tri-nhuoc-co-5149413.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Thay huyết tương điều trị nhược cơ",
+    "description": "Chị Hòa, 35 tuổi, khó nói, hay sặc khi ăn uống, sụp mi, tay chân yếu, bác sĩ chẩn đoán nhược cơ khiến tín hiệu não truyền đến cơ gián đoạn.",
+    "thumbnail_url": "https://i1-suckhoe.vnecdn.net/2026/11/27/nhuocco-1795740804-3790-1795740859.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=M9f2VfN-_G-tFLLT833TwA",
+    "link": "https://vnexpress.net/thay-huyet-tuong-dieu-tri-nhuoc-co-5149413.html",
+    "published_at": "Fri, 27 Nov 2026 11:00:00 +0700",
+    "createAt": "2026-11-27T04:00:00.000Z",
+    "thumbnail_blurhash": "LhLX3?_4E3-:.8jXZ~M{xuM_RPax"
+  },
+  {
+    "id": "https://vnexpress.net/chuyen-gia-giai-ma-lich-tri-lieu-tam-ly-90-phut-moi-ngay-cua-jensen-huang-5149458.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Chuyên gia giải mã lịch trị liệu tâm lý 90 phút mỗi ngày của Jensen Huang",
+    "description": "Việc CEO Nvidia Jensen Huang duy trì tham vấn tâm lý 90 phút mỗi ngày được các chuyên gia nói là \"hiếm gặp\", vượt xa khung tham vấn truyền thống 50 phút mỗi buổi.",
+    "thumbnail_url": "https://i1-suckhoe.vnecdn.net/2026/11/27/1-1795747177-8929-1795748216.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=detjdqnSca_utfDqUDtjmw",
+    "link": "https://vnexpress.net/chuyen-gia-giai-ma-lich-tri-lieu-tam-ly-90-phut-moi-ngay-cua-jensen-huang-5149458.html",
+    "published_at": "Fri, 27 Nov 2026 11:07:48 +0700",
+    "createAt": "2026-11-27T04:07:48.000Z",
+    "thumbnail_blurhash": "LfIg=hI9OYs8~WIBR+WWTJM|V@S5"
   }
 ]
