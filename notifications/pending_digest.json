@@ -1,6 +1,32 @@
 {
   "featured": [
     {
+      "id": "https://vnexpress.net/giam-doc-han-quoc-pha-luat-cong-ty-de-cuoi-nhan-vien-viet-5147721.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Giám đốc Hàn Quốc phá luật công ty để cưới nhân viên Việt",
+      "description": "Đặt ra quy định cấm nhân viên yêu nhau nhưng chính giám đốc Choi Jun Woo lại tự phá lệ, kiên trì theo đuổi nữ nhân viên người Việt hơn một năm.",
+      "thumbnail_url": "https://vcdn1-giadinh.vnecdn.net/2026/11/22/couple2-1795354627-4374-1795355551.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=6pX-o4zVRFYbjkQysThoPA",
+      "link": "https://vnexpress.net/giam-doc-han-quoc-pha-luat-cong-ty-de-cuoi-nhan-vien-viet-5147721.html",
+      "published_at": "Sat, 28 Nov 2026 06:29:00 +0700",
+      "createAt": "2026-11-27T23:29:00.000Z",
+      "thumbnail_blurhash": "LMEooPn#9F~p00kDx]9GM}RjV[a~"
+    },
+    {
+      "id": "https://vnexpress.net/xe-tang-t-1-cua-viet-nam-lan-dau-ra-mat-tai-trien-lam-quoc-phong-5149735.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Xe tăng T-1 của Việt Nam lần đầu ra mắt tại triển lãm quốc phòng",
+      "description": "Xe tăng hạng nhẹ T-1 do kỹ sư Việt Nam nghiên cứu, chế tạo, có thể bơi với tốc độ 11,5 km/h, sẽ được giới thiệu tại Triển lãm Quốc phòng quốc tế tháng 12.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/27/1WUpukwYfE8RmF4OnNcA38sq4gmO4U-9900-7311-1795772443.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=TDiuEJysaSRZiXu0mr-oyQ",
+      "link": "https://vnexpress.net/xe-tang-t-1-cua-viet-nam-lan-dau-ra-mat-tai-trien-lam-quoc-phong-5149735.html",
+      "published_at": "Sat, 28 Nov 2026 06:30:00 +0700",
+      "createAt": "2026-11-27T23:30:00.000Z",
+      "thumbnail_blurhash": "L~Lg^et7tRt8_4ofR*bH-paeWBay"
+    },
+    {
       "id": "https://vnexpress.net/runner-hao-hung-truoc-gio-chinh-phuc-duong-chay-dem-ha-noi-5149814.html",
       "category_id": "featured",
       "category_name": "Tin nổi bật",
@@ -12,6 +38,32 @@
       "published_at": "Sat, 28 Nov 2026 06:44:27 +0700",
       "createAt": "2026-11-27T23:44:27.000Z",
       "thumbnail_blurhash": "LHDvZj_2%L?I-,%f%NM~_FX8WDt0"
+    },
+    {
+      "id": "https://vnexpress.net/viet-lao-nhat-tri-tang-cuong-hop-tac-khoa-hoc-cong-nghe-5149830.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Việt - Lào nhất trí tăng cường hợp tác khoa học - công nghệ",
+      "description": "Thủ tướng Lê Minh Hưng và Thủ tướng Saleumxay Kommasith hội đàm, nhất trí tăng cường hợp tác khoa học - công nghệ song phương.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/28/1795778312662-g816681500973516-9034-9815-1795827304.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Abui7ABogSTMjxxhUNpLeg",
+      "link": "https://vnexpress.net/viet-lao-nhat-tri-tang-cuong-hop-tac-khoa-hoc-cong-nghe-5149830.html",
+      "published_at": "Sat, 28 Nov 2026 08:09:00 +0700",
+      "createAt": "2026-11-28T01:09:00.000Z",
+      "thumbnail_blurhash": "LXF#RcxB,.i]~Wr=Rkr;?Yr=SyxB"
+    },
+    {
+      "id": "https://vnexpress.net/duong-day-mua-ban-than-nup-bong-hien-tang-o-ha-noi-5149760.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Đường dây mua bán thận núp bóng hiến tạng ở Hà Nội",
+      "description": "Từng bán thận và nắm rõ quy trình hiến tặng, Trịnh Quốc Tuấn cùng 5 người bị cáo buộc môi giới 9 vụ mua bán thận, thu lợi 3,48 tỷ đồng trong 5 tháng.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/27/a-nh-ma-n-hi-nh-lu-c-179579599-7790-2502-1795796041.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=3wgF7YenkNaUi8EE67K-Mg",
+      "link": "https://vnexpress.net/duong-day-mua-ban-than-nup-bong-hien-tang-o-ha-noi-5149760.html",
+      "published_at": "Sat, 28 Nov 2026 08:27:06 +0700",
+      "createAt": "2026-11-28T01:27:06.000Z",
+      "thumbnail_blurhash": "LYE{ng?bD*Rl~n-:RjRj-*xuWDWB"
     }
   ]
 }
