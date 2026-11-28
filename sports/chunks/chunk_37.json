@@ -232,5 +232,31 @@
     "published_at": "Sat, 28 Nov 2026 09:49:31 +0700",
     "createAt": "2026-11-28T02:49:31.000Z",
     "thumbnail_blurhash": "LIDcBkD%00~p00oz?bIUNG%LxuD*"
+  },
+  {
+    "id": "https://vnexpress.net/khoi-huynh-dan-quyet-muon-lan-dau-vo-dich-vm-hanoi-midnight-5149920.html",
+    "category_id": "sports",
+    "category_name": "Thể thao",
+    "source": "VnExpress",
+    "title": "Khôi Huỳnh, Đan Quyết muốn lần đầu vô địch VM Hanoi Midnight",
+    "description": "Huỳnh Anh Khôi bất ngờ chọn cự ly 21km, Đan Quyết muốn vô địch 42km, trong khi Vũ Khánh Linh muốn phá sâu PR 2 tiếng 52 phút khi tranh tài VM Hanoi Midnight, ngày 29/11.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/11/28/3810bb7671f4f1aaa8e5-179583788-5537-4981-1795837993.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=_Vkuk9gryLkDYcn65s3RfQ",
+    "link": "https://vnexpress.net/khoi-huynh-dan-quyet-muon-lan-dau-vo-dich-vm-hanoi-midnight-5149920.html",
+    "published_at": "Sat, 28 Nov 2026 11:00:00 +0700",
+    "createAt": "2026-11-28T04:00:00.000Z",
+    "thumbnail_blurhash": "LRG,]wZZyn?@w8DQICs=D~DiInRj"
+  },
+  {
+    "id": "https://vnexpress.net/inter-miami-tro-thanh-cuu-vuong-mls-5149918.html",
+    "category_id": "sports",
+    "category_name": "Thể thao",
+    "source": "VnExpress",
+    "title": "Inter Miami trở thành cựu vương MLS",
+    "description": "Thua Columbus Crew 0-1 ở trận lượt về và 0-4 chung cuộc, Lionel Messi và đồng đội phải dừng bước ngay từ vòng một giai đoạn play-off MLS 2026.",
+    "thumbnail_url": "https://vcdn1-thethao.vnecdn.net/2026/11/28/ap263320844143871-1795840356-5958-1795840506.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=EjCsCIVO31uWlXMJ_4kvEQ",
+    "link": "https://vnexpress.net/inter-miami-tro-thanh-cuu-vuong-mls-5149918.html",
+    "published_at": "Sat, 28 Nov 2026 11:41:46 +0700",
+    "createAt": "2026-11-28T04:41:46.000Z",
+    "thumbnail_blurhash": "L4F=+[^S31CU_UIDvW$j00EKz|wR"
   }
 ]
