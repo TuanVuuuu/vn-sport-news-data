@@ -947,5 +947,31 @@
     "published_at": "Sat, 28 Nov 2026 09:04:29 +0700",
     "createAt": "2026-11-28T02:04:29.000Z",
     "thumbnail_blurhash": "LGD^WCIA00.9?^RiR%jb00ax.8bE"
+  },
+  {
+    "id": "https://vnexpress.net/tin-tac-xam-nhap-nen-tang-dam-may-chu-chot-cua-quan-doi-my-5149863.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Tin tặc xâm nhập 'nền tảng đám mây chủ chốt' của quân đội Mỹ",
+    "description": "Cloud One, nền tảng điện toán đám mây phụ trách dữ liệu nhân sự, hậu cần và tác chiến của không quân Mỹ, có thể đã bị xâm nhập.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/28/f-1795830385-1397-1795830722.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=Y7ea1hd1a324m9rBx1Mv6Q",
+    "link": "https://vnexpress.net/tin-tac-xam-nhap-nen-tang-dam-may-chu-chot-cua-quan-doi-my-5149863.html",
+    "published_at": "Sat, 28 Nov 2026 09:55:47 +0700",
+    "createAt": "2026-11-28T02:55:47.000Z",
+    "thumbnail_blurhash": "LCFi[XM|TLx^TLjYbcWXyZn$DNj?"
+  },
+  {
+    "id": "https://vnexpress.net/nguoi-kiev-giang-co-giua-di-hay-o-truoc-mua-dong-toi-tam-5149517.html",
+    "category_id": "featured",
+    "category_name": "Tin nổi bật",
+    "source": "VnExpress",
+    "title": "Người Kiev giằng co giữa đi hay ở trước mùa đông tối tăm",
+    "description": "Mất điện, thiếu nước kéo dài và những đợt tập kích dồn dập đang đẩy cư dân Kiev vào thế giằng co giữa bám trụ qua mùa đông hay rời bỏ thành phố.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/27/afp-hl-vnguyen-v1-highres-ukra-9675-3023-1795757196.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=_T-yYjadYY-WbI21ZDZVeA",
+    "link": "https://vnexpress.net/nguoi-kiev-giang-co-giua-di-hay-o-truoc-mua-dong-toi-tam-5149517.html",
+    "published_at": "Sat, 28 Nov 2026 10:00:00 +0700",
+    "createAt": "2026-11-28T03:00:00.000Z",
+    "thumbnail_blurhash": "L8ATWeMc9Z~qDNRlIU-;%gX9o#M_"
   }
 ]
