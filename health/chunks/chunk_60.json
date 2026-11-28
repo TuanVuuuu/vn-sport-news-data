@@ -232,5 +232,44 @@
     "published_at": "Sat, 28 Nov 2026 13:00:00 +0700",
     "createAt": "2026-11-28T06:00:00.000Z",
     "thumbnail_blurhash": "LIBWD04o-;xW~V9G%Ls..8IT%MNH"
+  },
+  {
+    "id": "https://vnexpress.net/vi-sao-tre-mac-tay-chan-mieng-bi-giat-minh-5149919.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Vì sao trẻ mắc tay chân miệng bị giật mình?",
+    "description": "Con tôi 2 tuổi, bị giật mình, hai tay chới với vào ngày thứ ba mắc tay chân miệng và đã nhập viện. Bác sĩ dặn phải theo dõi sát, vì sao? (Minh Tâm, 34 tuổi, Đà Nẵng)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/28/icu5-be-mac-tay-chan-mieng-bv-4703-3726-1795837402.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Q_UKpK9p3fXX7BwHLTlrnQ",
+    "link": "https://vnexpress.net/vi-sao-tre-mac-tay-chan-mieng-bi-giat-minh-5149919.html",
+    "published_at": "Sat, 28 Nov 2026 14:00:00 +0700",
+    "createAt": "2026-11-28T07:00:00.000Z",
+    "thumbnail_blurhash": "LYOqA;XmNxx^_NkD%Ms:-=M{M{e."
+  },
+  {
+    "id": "https://vnexpress.net/tai-sao-an-nhieu-rau-van-tao-bon-5149874.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "Tại sao ăn nhiều rau vẫn táo bón?",
+    "description": "Tôi ăn rau luộc, xào đủ các bữa trong ngày nhưng vẫn táo bón. Điều chỉnh chế độ ăn thế nào để hệ tiêu hóa hoạt động tốt? (Minh Anh, TP HCM)",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/28/image001-1795831818-6012-1795831894.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=Di0tv_Wraqf8MLSBIoCCKg",
+    "link": "https://vnexpress.net/tai-sao-an-nhieu-rau-van-tao-bon-5149874.html",
+    "published_at": "Sat, 28 Nov 2026 14:00:00 +0700",
+    "createAt": "2026-11-28T07:00:00.000Z",
+    "thumbnail_blurhash": "LXFO*_IqV_S7~AIoRjkV$+MzNuXR"
+  },
+  {
+    "id": "https://vnexpress.net/5-cach-an-ca-co-loi-cho-tim-mach-5149850.html",
+    "category_id": "health",
+    "category_name": "Sức khỏe",
+    "source": "VnExpress",
+    "title": "5 cách ăn cá có lợi cho tim mạch",
+    "description": "Lựa chọn cá giàu omega-3, duy trì ăn hai bữa mỗi tuần, ưu tiên hấp luộc và hạn chế cá chiên rán hỗ trợ bảo vệ tim mạch.",
+    "thumbnail_url": "https://vcdn1-suckhoe.vnecdn.net/2026/11/28/5-canh-rieu-ca-bac-bo-webp-179-8909-1725-1795828749.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=YygV-hJwBIXwxhviN10k7Q",
+    "link": "https://vnexpress.net/5-cach-an-ca-co-loi-cho-tim-mach-5149850.html",
+    "published_at": "Sat, 28 Nov 2026 14:00:00 +0700",
+    "createAt": "2026-11-28T07:00:00.000Z",
+    "thumbnail_blurhash": "LKHT~b9KE+xb}[bw%NafoiX9xakD"
   }
 ]
