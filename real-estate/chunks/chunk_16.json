@@ -232,5 +232,31 @@
     "published_at": "Sat, 28 Nov 2026 08:00:00 +0700",
     "createAt": "2026-11-28T01:00:00.000Z",
     "thumbnail_blurhash": "LcHn?44TtQkX~pIAWCozx^RPRjxu"
+  },
+  {
+    "id": "https://vnexpress.net/cat-lo-chung-cu-500-trieu-dong-van-e-co-nen-tiep-tuc-giam-them-5149215.html",
+    "category_id": "real-estate",
+    "category_name": "Bất động sản",
+    "source": "VnExpress",
+    "title": "'Cắt lỗ' chung cư 500 triệu đồng vẫn ế, có nên tiếp tục giảm thêm?",
+    "description": "Người mua cần cân đối dòng tiền, dư nợ và giá giao dịch thực tế để quyết định nên tiếp tục nắm giữ chờ thị trường phục hồi hay chấp nhận bán lỗ, theo chuyên gia.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/26/img-1795676567-9155-1795677189.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=9yc4HcKmbYksHNSGaSgqWA",
+    "link": "https://vnexpress.net/cat-lo-chung-cu-500-trieu-dong-van-e-co-nen-tiep-tuc-giam-them-5149215.html",
+    "published_at": "Sat, 28 Nov 2026 00:03:00 +0700",
+    "createAt": "2026-11-27T17:03:00.000Z",
+    "thumbnail_blurhash": "LwJ*^:ROxvt8_4WAaxtRx]t7V@t7"
+  },
+  {
+    "id": "https://vnexpress.net/gan-26-trieu-dong-moi-m2-nha-xa-hoi-ven-vinh-ha-long-5149789.html",
+    "category_id": "real-estate",
+    "category_name": "Bất động sản",
+    "source": "VnExpress",
+    "title": "Gần 26 triệu đồng mỗi m2 nhà xã hội ven vịnh Hạ Long",
+    "description": "Hơn 600 căn nhà ở xã hội sát đường bao biển, ven vịnh Hạ Long có giá gần 26 triệu đồng mỗi m2, căn thấp nhất khoảng 856 triệu.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/27/halong-1795782895-3406-1795782984.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=vKdfWKbOZF4OQB_WG55FPA",
+    "link": "https://vnexpress.net/gan-26-trieu-dong-moi-m2-nha-xa-hoi-ven-vinh-ha-long-5149789.html",
+    "published_at": "Sat, 28 Nov 2026 09:00:00 +0700",
+    "createAt": "2026-11-28T02:00:00.000Z",
+    "thumbnail_blurhash": "LeGb@%-oWAt6%%t6WBWYx_kDjEj^"
   }
 ]
