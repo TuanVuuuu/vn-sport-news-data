@@ -1103,5 +1103,31 @@
     "published_at": "Sat, 28 Nov 2026 07:00:00 +0700",
     "createAt": "2026-11-28T00:00:00.000Z",
     "thumbnail_blurhash": "LbGIlskWD%IU~qWBj=j?%MRkW;of"
+  },
+  {
+    "id": "https://vnexpress.net/tai-xe-say-ruou-lai-oto-nhu-trong-duong-dua-dam-lat-xe-khac-5149249.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Tài xế say rượu lái ôtô như trong đường đua, đâm lật xe khác",
+    "description": "Chiếc Tesla bất ngờ đè vạch đôi, tông trúng ôtô chạy cùng chiều làm cả hai phương tiện lao vào dải phân cách.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/26/cffd49ba0a2d4606b1ccbbc6b4b1ac-2885-2278-1795682222.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=aL738aHWGOUhSmFOje6KOA&t=image",
+    "link": "https://vnexpress.net/tai-xe-say-ruou-lai-oto-nhu-trong-duong-dua-dam-lat-xe-khac-5149249.html",
+    "published_at": "Sat, 28 Nov 2026 08:56:43 +0700",
+    "createAt": "2026-11-28T01:56:43.000Z",
+    "thumbnail_blurhash": "LHDJCp%KRjxa_NRit7ofyDM{t8tR"
+  },
+  {
+    "id": "https://vnexpress.net/toyota-mang-land-cruiser-fj-hai-xe-dien-hoa-den-vietnam-mobility-show-2026-5149851.html",
+    "category_id": "vehicles",
+    "category_name": "Xe",
+    "source": "VnExpress",
+    "title": "Toyota mang Land Cruiser FJ, hai xe điện hóa đến Vietnam Mobility Show 2026",
+    "description": "Khách tham quan có thể trải nghiệm mẫu SUV cá tính Land Cruiser FJ, Hilux và lái thử xe Toyota hybrid tại Vietnam Mobility Show 2026, diễn ra ngày 5-6/12 ở Hà Nội.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/28/1-1795826838-9350-1795826909.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=kPclO-k1rXaUy-BmNU__aQ",
+    "link": "https://vnexpress.net/toyota-mang-land-cruiser-fj-hai-xe-dien-hoa-den-vietnam-mobility-show-2026-5149851.html",
+    "published_at": "Sat, 28 Nov 2026 09:15:00 +0700",
+    "createAt": "2026-11-28T02:15:00.000Z",
+    "thumbnail_blurhash": "LXEo}fs,-;R+yskCt7j[?bt8WDax"
   }
 ]
