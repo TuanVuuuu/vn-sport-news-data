@@ -661,5 +661,31 @@
     "published_at": "Sat, 28 Nov 2026 10:00:00 +0700",
     "createAt": "2026-11-28T03:00:00.000Z",
     "thumbnail_blurhash": "L+E3brWXRkjZ?wR-WBj[-=R.afof"
+  },
+  {
+    "id": "https://vnexpress.net/ngoi-lang-co-khach-tham-quan-tiep-can-bang-cap-treo-5149633.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Ngôi làng cổ khách tham quan tiếp cận bằng cáp treo",
+    "description": "Nằm ở độ cao hơn 1.300 m giữa dãy Alps, Gimmelwald không có đường ôtô, chỉ khoảng 100 cư dân sinh sống và vẫn giữ nguyên vẻ bình yên sau nhiều thế kỷ.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/11/27/67a3ee583275bdf2d0bf16f1-steil-4641-1285-1795764632.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=CAALCeIb-bf9nGTcz3AE8w",
+    "link": "https://vnexpress.net/ngoi-lang-co-khach-tham-quan-tiep-can-bang-cap-treo-5149633.html",
+    "published_at": "Sat, 28 Nov 2026 12:05:53 +0700",
+    "createAt": "2026-11-28T05:05:53.000Z",
+    "thumbnail_blurhash": "LpC%,DS6aKRj.AR:V@ax.9R+ofWB"
+  },
+  {
+    "id": "https://vnexpress.net/duong-bich-hoa-tren-deo-prenn-gay-tranh-cai-vi-an-toan-giao-thong-5149852.html",
+    "category_id": "travel",
+    "category_name": "Du lịch",
+    "source": "VnExpress",
+    "title": "Đường bích họa trên đèo Prenn gây tranh cãi vì an toàn giao thông",
+    "description": "Đoạn bích họa dài 120 m trên đèo Prenn, hướng Đà Lạt đi TP HCM, gây tranh luận khi một số hình vẽ mô phỏng con đường có thể khiến người đi đường nhầm lẫn.",
+    "thumbnail_url": "https://vcdn1-dulich.vnecdn.net/2026/11/28/2aoborfj5lbzza2xz1wyji4hiogu6l-4417-3540-1795842242.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=79YKxslFDMCF_tegXy4KJg",
+    "link": "https://vnexpress.net/duong-bich-hoa-tren-deo-prenn-gay-tranh-cai-vi-an-toan-giao-thong-5149852.html",
+    "published_at": "Sat, 28 Nov 2026 12:35:23 +0700",
+    "createAt": "2026-11-28T05:35:23.000Z",
+    "thumbnail_blurhash": "LDE{Ok}]ien-D#xG$*rr00J4x[RP"
   }
 ]
