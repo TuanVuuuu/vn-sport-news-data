@@ -1064,5 +1064,31 @@
     "published_at": "Sat, 28 Nov 2026 06:59:02 +0700",
     "createAt": "2026-11-27T23:59:02.000Z",
     "thumbnail_blurhash": "LcFiu$xvXnWX?v%MIAWA_Nt7ofj["
+  },
+  {
+    "id": "https://vnexpress.net/my-tap-kich-tau-hang-tim-cach-vuot-vong-phong-toa-iran-5149839.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Mỹ tập kích tàu hàng 'tìm cách vượt vòng phong tỏa Iran'",
+    "description": "Quân đội Mỹ tuyên bố đã khai hỏa nhằm vào tàu hàng Pacific Archer, treo cờ Palau, vì vi phạm lệnh phong tỏa các cảng biển Iran.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/28/1-1795825381-9926-1795825403.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=6kHUm4kiKCPh7mxjt7Zv4A",
+    "link": "https://vnexpress.net/my-tap-kich-tau-hang-tim-cach-vuot-vong-phong-toa-iran-5149839.html",
+    "published_at": "Sat, 28 Nov 2026 08:02:40 +0700",
+    "createAt": "2026-11-28T01:02:40.000Z",
+    "thumbnail_blurhash": "L6B|Ng%M-q%3_MofMft7%fWUxIV["
+  },
+  {
+    "id": "https://vnexpress.net/viet-lao-nhat-tri-tang-cuong-hop-tac-khoa-hoc-cong-nghe-5149830.html",
+    "category_id": "world",
+    "category_name": "Thế giới",
+    "source": "VnExpress",
+    "title": "Việt - Lào nhất trí tăng cường hợp tác khoa học - công nghệ",
+    "description": "Thủ tướng Lê Minh Hưng và Thủ tướng Saleumxay Kommasith hội đàm, nhất trí tăng cường hợp tác khoa học - công nghệ song phương.",
+    "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/28/1795778312662-g816681500973516-9034-9815-1795827304.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Abui7ABogSTMjxxhUNpLeg",
+    "link": "https://vnexpress.net/viet-lao-nhat-tri-tang-cuong-hop-tac-khoa-hoc-cong-nghe-5149830.html",
+    "published_at": "Sat, 28 Nov 2026 08:09:00 +0700",
+    "createAt": "2026-11-28T01:09:00.000Z",
+    "thumbnail_blurhash": "LXF#RcxB,.i]~Wr=Rkr;?Yr=SyxB"
   }
 ]
