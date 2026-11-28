@@ -1,3 +1,43 @@
 {
-  "featured": []
+  "featured": [
+    {
+      "id": "https://vnexpress.net/bo-phan-kiem-duyet-noi-dung-meta-roi-loan-5149793.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Bộ phận kiểm duyệt nội dung Meta rối loạn",
+      "description": "Meta đẩy mạnh thay thế người kiểm duyệt bằng AI, khiến nhiều nhân viên lo ngại về những đợt sa thải lớn và sai sót khi chọn lọc nội dung.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/28/dsc08162-jpg-1795825498-9646-1795825883.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=oURARfH5j4Ta3QcY0Fk3-A",
+      "link": "https://vnexpress.net/bo-phan-kiem-duyet-noi-dung-meta-roi-loan-5149793.html",
+      "published_at": "Sat, 28 Nov 2026 11:00:00 +0700",
+      "createAt": "2026-11-28T04:00:00.000Z",
+      "thumbnail_blurhash": "LBB:y?RPrC%2~qV@s:WB00btXnIo"
+    },
+    {
+      "id": "https://vnexpress.net/mang-dao-de-doa-giao-vien-phu-huynh-bi-bat-5150051.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Mang dao đe dọa giáo viên, phụ huynh bị bắt",
+      "description": "Bị nhắc đóng học phí quá hạn cho con, Lưu Thanh Trung mang dao đến trường mầm non chửi bới, đe dọa giáo viên và hiệu trưởng, khiến nhiều người hoảng sợ.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/28/BATCHACUOPcopy-1795860123-9064-1795860254.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=HgtSgm5JOgSFgLZiTyKi7Q",
+      "link": "https://vnexpress.net/mang-dao-de-doa-giao-vien-phu-huynh-bi-bat-5150051.html",
+      "published_at": "Sat, 28 Nov 2026 17:14:31 +0700",
+      "createAt": "2026-11-28T10:14:31.000Z",
+      "thumbnail_blurhash": "LxHo5lxtj?R*~pofofof-;j[a#of"
+    },
+    {
+      "id": "https://vnexpress.net/tien-luong-cao-nhat-o-fdi-bac-ninh-gan-700-trieu-dong-5150045.html",
+      "category_id": "featured",
+      "category_name": "Tin nổi bật",
+      "source": "VnExpress",
+      "title": "Tiền lương cao nhất ở FDI Bắc Ninh gần 700 triệu đồng",
+      "description": "Tiền lương năm 2026 và thưởng Tết Âm lịch cao nhất ở Bắc Ninh thuộc về các lãnh đạo doanh nghiệp FDI lần lượt là 690 triệu đồng/tháng và 564 triệu đồng.",
+      "thumbnail_url": "https://vcdn1-vnexpress.vnecdn.net/2026/11/28/57ec2147568b4b868643b42aaf12b3-7673-9501-1795860311.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=cWfyNqpm52HBmAzw-yZxiA",
+      "link": "https://vnexpress.net/tien-luong-cao-nhat-o-fdi-bac-ninh-gan-700-trieu-dong-5150045.html",
+      "published_at": "Sat, 28 Nov 2026 17:23:31 +0700",
+      "createAt": "2026-11-28T10:23:31.000Z",
+      "thumbnail_blurhash": "LBDTIy-VMvE2MH*0xvVXY6Mc={XT"
+    }
+  ]
 }
